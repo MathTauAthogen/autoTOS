@@ -1,8 +1,6 @@
 logs/
 outputs/
 checkpoints
-data/
-data
 *.out
 logs
 *.swp
