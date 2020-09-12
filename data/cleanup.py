@@ -28,7 +28,7 @@ def removerange(a, b, lens, labels, (sub,sub2)):
 
 #Initialize the Labelled Excerpts Data Table
 
-df = pd.read_csv (r'labeled_excerpts.csv.bak')
+df = pd.read_csv (r'labeled_excerpts.csv')
 
 c = []
 
