@@ -5,6 +5,7 @@ data/
 data
 *.out
 logs
+*.swp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
