@@ -22,6 +22,9 @@
  *   ]
  * }
  */
+const real_api = "https://autotos.me/api/parse";
+const mock_api = "http://localhost:3000/api/parse";
+const API_URL = mock_api;
 
 function show_elem(id) {
   const elem = document.getElementById(id);
@@ -31,12 +34,17 @@ function show_elem(id) {
 
 function hide_elem(id) {
   const elem = document.getElementById(id);
-  elem.style.display = "none";
+  elem.style.display = "none"
   return elem;
 }
 
+function run() {
+  const text_entry = document.getElementsByTagName("textarea")[0];
+  parse(text_entry.value);
+}
+
 function parse(fulltext) {
-  fetch("https://autotos.me/api/parse", {
+  fetch(API_URL, {
     method: "POST",
     headers: {
       "Accept": "application/json",
@@ -54,7 +62,13 @@ function parse(fulltext) {
 
     } else {
       hide_elem("results-blank");
-      const table = show_elem("results-table");
+      show_elem("results-table");
+
+      const tbody = document.getElementsByTagName("tbody")[0];
+      while (tbody.childNodes[0]) {
+        tbody.removeChild(tbody.childNodes[0]);
+      }
+
       content.classes.forEach(item => {
         const thumbs_icon = document.createElement("td");
         const class_name  = document.createElement("td");
@@ -62,7 +76,13 @@ function parse(fulltext) {
 
         const img = document.createElement("img");
         thumbs_icon.appendChild(img);
-        img.src = item.good ? "img/thumbs_up.svg" : "img/thumbs_down.svg";
+        if (item.good) {
+          img.src = "img/thumbs-up.svg";
+          thumbs_icon.classList.add("good");
+        } else {
+          img.src = "img/thumbs-down.svg";
+          thumbs_icon.classList.add("bad");
+        }
 
         class_name.textContent = item.name;
         description.textContent = item.description;
@@ -71,10 +91,11 @@ function parse(fulltext) {
         row.appendChild(thumbs_icon);
         row.appendChild(class_name);
         row.appendChild(description);
-        table.appendChild(row);
+        tbody.appendChild(row);
       });
     }
-    show_elem("results-container");
+    const results = show_elem("results-container");
+    results.style.display = "flex";
 
   }).catch(error => {
     // report error
