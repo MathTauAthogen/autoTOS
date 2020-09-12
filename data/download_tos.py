@@ -77,7 +77,7 @@ for comp_name, comp_data in full_dataset.items():
 	comp_keys = comp_data.keys()
 	if "slug" not in comp_keys:
 		continue
-	
+
 	# iterate through points for each company
 	if "points" in comp_keys:
 		iterate_through_points(comp_data["points"], comp_data["slug"])
@@ -94,5 +94,6 @@ for comp_name, comp_data in full_dataset.items():
 	num_passed += 1
 
 print(f"Success Ratio:{success_excerpts}/{success_excerpts+failed_excerpts}")
+
 labeled_excerpts.to_csv("labeled_excerpts.csv", index=False)
 classes.to_csv("classes.csv", index=False)
