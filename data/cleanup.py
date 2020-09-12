@@ -52,7 +52,7 @@ for b in sluglist:
         printable = set(string.printable)
         full = filter(lambda x: x in printable, full)
         tokenlistb = full.splitlines() #Get a list of sentences
-        lens = [sum(map(len,tokenlistb[:i]))+i+1 for i in range(len(tokenlistb) + 1)] #Find the starting index of each sentences
+        lens = [sum(map(len,tokenlistb[:i]))+i+1 for i in range(len(tokenlistb) + 2)] #Find the starting index of each sentences
 
         full = " ".join(full.split('\n')) #Put the full text on only one line.
 
