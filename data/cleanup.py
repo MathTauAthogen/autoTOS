@@ -79,7 +79,7 @@ for b in sluglist:
 
     #And finish it off
 
-    dff = [{"token":full[lens[i]-1:lens[i+1] - 2], "labels":[{"text":labels[i][0], "start":labels[i][2]-lens[i]+2, "end":labels[i][3]-lens[i]+1, "class_id":labels[i][1]} for j in range(i,i+1) if labels[j] != ('','','','')]} for i in range(len(lens))]
+    dff = [{"token":full[lens[i]-1:lens[i+1] - 2], "labels":[{"text":labels[i][0], "start":labels[i][2]-lens[i]+2, "end":labels[i][3]-lens[i]+1, "class_id":labels[i][1]} for j in range(i,i+1) if labels[j] != ('','','','')]} for i in range(len(labels))]
     c += dff
     print(json.dumps(dff))
 print("Finale:")
