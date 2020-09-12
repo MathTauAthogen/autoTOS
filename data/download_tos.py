@@ -78,18 +78,18 @@ for comp_name, comp_data in full_dataset.items():
 	if "slug" not in comp_keys:
 		continue
 
-	iterate through points for each company
+	# iterate through points for each company
 	if "points" in comp_keys:
 		iterate_through_points(comp_data["points"], comp_data["slug"])
 
 	# download company tos information
 	if "documents" in comp_keys and "points" in comp_keys and len(comp_data["documents"]) > 0:
-		all_texts = " ".join(fulltext(comp_data["points"]))
-		
-		with open(f"tos/{comp_data['slug']}.txt", "w") as file:
-			file.write(all_texts)
-		# "get tos from site"
-		pass
+		if len(comp_data["points"]) > 0:
+
+			all_texts = remove_html_tags(" ".join(fulltext(comp_data["points"][0]["id"])))
+
+			with open(f"tos/{comp_data['slug']}.txt", "w") as file:
+				file.write(all_texts)
 
 	num_passed += 1
 
