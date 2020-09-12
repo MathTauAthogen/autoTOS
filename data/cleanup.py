@@ -28,7 +28,7 @@ def removerange(a, b, lens, labels, (sub,sub2)):
 
 #Initialize the Labelled Excerpts Data Table
 
-df = pd.read_csv (r'labeled_excerpts.csv.bak')
+df = pd.read_csv (r'labeled_excerpts.csv')
 
 c = []
 
@@ -57,6 +57,8 @@ for b in sluglist:
 
     for i, row in sitedf.iterrows():
         sub = " ".join(row['excerpt'].split('\n'))
+        printable = set(string.printable)
+        sub = filter(lambda x: x in printable, sub)
         sub2 = row['class_id']
         ind = full.index(sub)
         lens, labels = removerange(ind, ind + len(sub), lens, labels, (sub, sub2))

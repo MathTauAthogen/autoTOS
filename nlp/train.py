@@ -3,14 +3,24 @@ import json
 from finetune import SequenceLabeler
 from finetune.base_models import RoBERTa
 
+# NOTE: You will also need to run python3 -m spacy download en
 
-def train(train_set):
+
+def convert_model_data(model_data):
     tokens = list()
     labels = list()
-    for token in train_set:
+    for token in model_data:
         tokens.append(token["token"])
+
+        for label in token["labels"]:
+            label["label"] = label.pop("class_id")
         labels.append(token["labels"])
 
+    return tokens, labels
+
+
+def train(train_set):
+    tokens, labels = convert_model_data(train_set)
     model = SequenceLabeler(
         base_model=RoBERTa,
         n_epochs=3,
@@ -18,11 +28,11 @@ def train(train_set):
         eval_acc=True,
         oversample=True,
         subtoken_predictions=True,
-        max_empty_chunk_ratio=1.0,
+        # max_empty_chunk_ratio=1.0,
     )
 
     model.fit(tokens, labels)
-    model.save("checkpoints")
+    model.save("checkpoints/model.ckpt")
 
 
 if __name__ == "__main__":

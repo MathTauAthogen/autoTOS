@@ -2,18 +2,15 @@ from finetune import SequenceLabeler
 from finetune.util.metrics import annotation_report
 import json
 import sys
+from train import convert_model_data
 
 
 def test(test_data):
-    tokens = list()
-    labels = list()
-    for token in test_set:
-        tokens.append(token["token"])
-        labels.append(token["labels"])
+    tokens, labels = convert_model_data(test_data)
 
-    model = SequenceLabeler.load("checkpoints")
+    model = SequenceLabeler.load("checkpoints/model.ckpt")
 
-    predictions = model.predict_proba(tokens)
+    predictions = model.predict(tokens)
     print(predictions)
     print(annotation_report(labels, predictions))
 
@@ -25,5 +22,5 @@ if __name__ == "__main__":
         test_set = json.loads(f.read())
 
     output = test(test_set)
-    with open("output/predictions.txt", "w+") as out:
-        out.write(output)
+    with open("outputs/predictions.json", "w+") as out:
+        out.write(json.dumps(output))
