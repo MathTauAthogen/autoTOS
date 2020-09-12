@@ -54,9 +54,10 @@ for b in sluglist:
         printable = set(string.printable)
         full = ''.join(filter(lambda x: x in printable, full))
         tokenlistb = full.splitlines() #Get a list of sentences
+        tokenlistb = [i.strip(" ").strip(".") for i in tokenlistb]
         lens = [sum(map(len,tokenlistb[:i]))+i+1 for i in range(len(tokenlistb) + 2)] #Find the starting index of each sentences
 
-        full = " ".join(full.split('\n')) #Put the full text on only one line.
+        full = "".join(tokenlistb) #Put the full text on only one line.
 
     labels = [('','','','') for i in range(len(tokenlistb))] #Initialize something containing inner tuples that can be indexed to the same amount as the other values
 
@@ -64,7 +65,7 @@ for b in sluglist:
     #sub2 = its class_id
 
     for i, row in sitedf.iterrows():
-        sub = " ".join(row['excerpt'].split('\n'))
+        sub = "".join("".join(row['excerpt'].split('\n')).split(". ")).strip(" ").strip(".")
         printable = set(string.printable)
         sub = ''.join(filter(lambda x: x in printable, sub))
         sub2 = row['class_id']
@@ -74,6 +75,7 @@ for b in sluglist:
         except:
             borked += [b]
             borkedq = True
+            print(sub)
             break
 
     if(borkedq):
