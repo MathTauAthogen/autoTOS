@@ -82,7 +82,7 @@ for b in sluglist:
         continue
 
     #And finish it off
-    dff = [{"token":full[max(lens[i]-1,0):lens[i+1]-1], "labels":[{"text":labels[i][0], "start":labels[i][2]-lens[i]+1, "end":labels[i][3]-lens[i]+1, "class_id":labels[i][1]} for j in range(i,i+1) if labels[j] != ('','','','')]} for i in range(len(labels))]
+    dff = [{"token":full[lens[i]:lens[i+1]-1], "labels":[{"text":labels[i][0], "start":labels[i][2]-lens[i], "end":labels[i][3]-lens[i], "class_id":labels[i][1]} for j in range(i,i+1) if labels[j] != ('','','','')]} for i in range(len(labels))]
     dfb = [{"token":badlines[i][0], "labels":[{"text":badlines[i][0], "start":0, "end":len(badlines[i][0]), "class_id":badlines[i][1]}]}for i in range(len(badlines))]
     c += dfb
     c += dff
