@@ -57,6 +57,8 @@ for b in sluglist:
 
     for i, row in sitedf.iterrows():
         sub = " ".join(row['excerpt'].split('\n'))
+        printable = set(string.printable)
+        sub = filter(lambda x: x in printable, sub)
         sub2 = row['class_id']
         ind = full.index(sub)
         lens, labels = removerange(ind, ind + len(sub), lens, labels, (sub, sub2))
