@@ -55,11 +55,12 @@ for b in sluglist:
         full = ''.join(filter(lambda x: x in printable, full))
         tokenlistb = full.splitlines() #Get a list of sentences
         tokenlistb = [i.strip(" ").strip(".") for i in tokenlistb]
-        lens = [sum(map(len,tokenlistb[:i]))+i+1 for i in range(len(tokenlistb) + 2)] #Find the starting index of each sentences
+        lens = [sum(map(len,tokenlistb[:i]))+i for i in range(len(tokenlistb) + 2)] #Find the starting index of each sentences
 
-        full = "".join(tokenlistb) #Put the full text on only one line.
+        full = " ".join(tokenlistb) #Put the full text on only one line.
 
     labels = [('','','','') for i in range(len(tokenlistb))] #Initialize something containing inner tuples that can be indexed to the same amount as the other values
+    print(tokenlistb)
 
     #sub = label, iterate over all
     #sub2 = its class_id
@@ -67,7 +68,7 @@ for b in sluglist:
     badlines = []
 
     for i, row in sitedf.iterrows():
-        sub = "".join("".join(str(row['excerpt']).split('\n')).split(". ")).strip(" ").strip(".")
+        sub = " ".join(" ".join(str(row['excerpt']).split('\n')).split(". ")).strip(" ").strip(".")
         printable = set(string.printable)
         sub = ''.join(filter(lambda x: x in printable, sub))
         sub2 = row['class_id']
@@ -81,7 +82,7 @@ for b in sluglist:
         continue
 
     #And finish it off
-    dff = [{"token":full[lens[i]-1:lens[i+1] - 2], "labels":[{"text":labels[i][0], "start":labels[i][2]-lens[i]+1, "end":labels[i][3]-lens[i]+1, "class_id":labels[i][1]} for j in range(i,i+1) if labels[j] != ('','','','')]} for i in range(len(labels))]
+    dff = [{"token":full[lens[i]-1:lens[i+1]-1], "labels":[{"text":labels[i][0], "start":labels[i][2]-lens[i]+1, "end":labels[i][3]-lens[i]+1, "class_id":labels[i][1]} for j in range(i,i+1) if labels[j] != ('','','','')]} for i in range(len(labels))]
     dfb = [{"token":badlines[i][0], "labels":[{"text":badlines[i][0], "start":0, "end":len(badlines[i][0]), "class_id":badlines[i][1]}]}for i in range(len(badlines))]
     c += dfb
     c += dff
