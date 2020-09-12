@@ -6,8 +6,9 @@
     <title>AutoTOS: Automatic TOS Parser</title>
 
     <!-- TODO: set icon -->
-    <link rel="stylesheet" href="normalize.css" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/scripts.js"></script>
     <link
      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;700&display=swap"
      rel="stylesheet" />
@@ -34,6 +35,48 @@
       </div>
       <textarea placeholder="▌" spellcheck="false"></textarea>
       <button>Parse Terms of Service</button>
+      <div id="results-container">
+        <div id="results-panel">
+          <button onclick="hide_elem('results-container');">close</button>
+          <h2>Results Summary</h2>
+          <h3 id="results-blank">We weren't able to identify any
+            features of that text. :(</h3>
+          <table id="results-table">
+            <tbody>
+              <tr>
+                <td class="good"><img src="img/thumbs-up.svg" /></td>
+                <td>Murder</td>
+                <td>This is a license to kill.</td>
+              </tr>
+              <tr>
+                <td class="bad"><img src="img/thumbs-down.svg" /></td>
+                <td>No maiming</td>
+                <td>This license does not allow you maim your
+                  opponents.</td>
+              </tr>
+              <tr>
+                <td class="good"><img src="img/thumbs-up.svg" /></td>
+                <td>Trial by combat</td>
+                <td>You agree to waive your right to a court trial,
+                  binding arbitration, or any other mode of dispute
+                  resolution except for a trial by combat, which will be
+                  conducted from sunrise until sunset on the seventeenth
+                  day of the month during which the dispute arose,
+                  excepting the month of July, when the duel will take
+                  place on the eighteenth. Each party will be permitted
+                  only one of the following weapons, of his or her
+                  choosing: rubber chicken, war balloon, or weaponized
+                  toaster oven.
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
     </main>
+    <div id="error-box">
+      <img src="img/error-exclamation.svg" />
+      <span>An error occurred. Please try again.</span>
+      <button onclick="show_elem('error-box');">Dismiss</button>
+    </div>
   </body>
 </html>
