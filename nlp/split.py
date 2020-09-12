@@ -12,34 +12,30 @@ def multi_argmax(arr):
     return [i for i, x in enumerate(arr) if x == np.max(arr)]
 
 
-def iterative_stratification(tokens, proportions):
-    unlabeled_tokens = list()
+def iterative_stratification(tokens, proportions, lookup):
+    unlabeled = list()
     remaining = dict()
 
     # Build the list of tokens per label that have not
     # been allocated to a subset yet
-    for token in list(tokens):
-        # Add label to account for padding
-        if len(token["labels"]) == 0:
-            unlabeled_tokens.append(token)
-            tokens.remove(token)
-            continue
-
-        for label in token["labels"]:
-            if label["class_id"] not in remaining.keys():
-                remaining[label["class_id"]] = set()
-            remaining[label["class_id"]].add(token)
+    for img, class_list in tokens.items():
+        if len(class_list) == 0:
+            unlabeled.append(img)
+        for c in class_list:
+            if c not in remaining.keys():
+                remaining[c] = set()
+            remaining[c].add(img)
 
     desired = [dict() for _ in range(len(proportions))]
     subsets = [list() for _ in range(len(proportions))]
 
     # Compute the desired number of examples for each label,
     # for each subset
-    for c, labeled_token in remaining.items():
+    for c, labeled_tokens in remaining.items():
         for i, weight in enumerate(proportions):
-            desired[i][c] = round(len(labeled_token) * weight)
+            desired[i][c] = round(len(labeled_tokens) * weight)
 
-    while len(tokens) > 0:
+    while len(tokens.keys()) > 0:
         # Allocate the least frequent label (with at least
         # 1 example remaining) first
         remaining = sort_list_dict(remaining)
@@ -48,7 +44,7 @@ def iterative_stratification(tokens, proportions):
         label_tokens = list(remaining[least_freq_label])
         random.shuffle(label_tokens)
 
-        for token in label_tokens:
+        for img in label_tokens:
             # Allocate image to subset that needs the most of that label
             label_counts = [lab[least_freq_label] for lab in desired]
             subset_indexes = multi_argmax(label_counts)
@@ -67,26 +63,29 @@ def iterative_stratification(tokens, proportions):
             # Add image to the chosen subset and remove the image
             idx = subset_indexes[0]
             subset = subsets[idx]
-            subset.append(token)
+            subset.append(lookup[img])
 
-            for token_set in remaining.values():
-                if token in token_set:
-                    token_set.remove(token)
+            for img_set in remaining.values():
+                if img in img_set:
+                    img_set.remove(img)
 
             # Decrease the desired number, based on all labels in that example
-            for label in token["labels"]:
-                desired[idx][label["class_id"]] -= 1
+            for c in tokens[img]:
+                desired[idx][c] -= 1
 
-            tokens.remove(token)
+            tokens.pop(img)
         remaining.pop(least_freq_label)
 
-    return subsets, unlabeled_tokens
+    return subsets, unlabeled
 
 
 if __name__ == "__main__":
     with open(sys.argv[1], "r") as f:
-        data = json.loads(f)
-    (train_set, test_set), unlabeled = iterative_stratification(data, [0.8, 0.2])
+        data = json.loads(f.read())
+    cleaned_data = {d["token"]: [lab["class_id"] for lab in d["labels"]] for d in data}
+    lookup = {d["token"]: d for d in data}
+
+    (train_set, test_set), unlabeled = iterative_stratification(cleaned_data, [0.8, 0.2], lookup)
 
     with open("outputs/train.json", "w+") as out:
         out.write(json.dumps(train_set + unlabeled))
