@@ -1,0 +1,444 @@
+ 
+(updated May 24th, 2018.
+effective May 25, 2018)
+ Introduction
+This „Cookie Policy” applies to all visitors of Softpedia (http://www.softpedia.com and subdomains), an Internet web site owned and operated by SoftNews Net SRL, a company based in Bucharest, Romania, hereinafter referred to as the “Website”.
+The information presented herein is meant to advise visitors and registered users of Softpedia on the usage of “cookies” by SoftNews Net SRL in regard to this “Website” and the services offered within. Definition
+“Cookie” is a term used to refer to cookie modules and similar technologies through which information can be collected and stored.
+An “Internet Cookie” (also known as “browser cookie” or simply “cookie”) is a small text file that contains alphanumerical data and is stored in the memory of computers, smartphones and other Internet-enabled devices.
+A cookie has two components: the name and the content.
+
+Cookies are installed (set) through instructions sent by a web server to a web browser (the application used to access a web site, such as Mozilla Firefox or Google Chrome) or by using a client-side scripting language (such as Javascript).
+Cookies are “passive” by nature, meaning they cannot contain software applications, cannot contain malware and cannot themselves access information from the device they are stored on.
+By design, cookies can only be accessed by the same web site that installed them, whenever the user returns to that web site. Cookie usage purposes
+Cookies are used to improve the user experience of the Website, adapt some features to the preferences of each user, and ensure a smooth operation of the Website services.
+Specifically:
+
+Registering a user account
+Saving user preferences
+Anonymous web traffic statistics to the Website (this allows us to see how we are doing and which areas of the Website can be improved)
+Delivery of online advertisements (since all Website services are free, this is how we are able to stay in business)
+ Cookie lifetime
+Cookie lifetime can vary depending on their purpose.
+Based on lifetime, cookies fall in one of two categories:
+
+Session cookies: stored temporary, deleted automatically when the web browser is closed
+Persistent cookies: stored on the user’s device until a specific time (which can be minutes, days, or years in the future) or until deleted manually through web browser settings or specialized computer software
+ Third-party cookies
+Some parts of the content shown on the Website can come from external sources, which can add their own cookies, called “third-party cookies”.
+Specifically:
+
+
+YouTube: embedded videos (using youtube-nocookie for improved privacy) - privacy policy
+
+Vimeo: embeded videos - privacy policy
+
+Twitter: embedded tweets - privacy policy
+
+Instagram: embedded instagram posts - privacy policy
+
+Google Analytics: anonymous web traffic statistics (we use the following settings: anonymizeIP, Remarketing OFF, Advertising Features OFF, User-ID OFF) - details / settings / opt-out
+
+Google Adsense/Doubleclick: online advertisements - settings
+
+33Across: online advertisements, non-personalized - policy/details - opt-out
+
+Sovrn: online advertisements, non-personalized - policy for EU users - opt-out
+
+Google reCAPTCHA: serviciu anti-spam/anti-bot - detalii
+ Types of cookies used on the Website
+
+Strictly necessary cookies: used to enable core web site functionality and store user preferences
+Performance cookies: used
+to
+facilitate usage statistics, including web traffic statistics
+Authentication cookies: used to allow registration of accounts as well as authentication (log in) to those accounts
+Advertising cookies: used to allow statistics on the performance of advertisemens as well as target advertisements based on user interests
+ First-party cookies list
+
+__SP33K: used for user session handling (both visitors and authenticated users)
+cooknotif2018: used to save acceptance of the privacy and cookie policies
+sp6_news_viewtype: view type for News section homepage (list or grid)
+nobubbleplz: permanently closing "related news" floating "bubble"
+ Third-party cookies
+
+_ga: Google Analytics, used to count sessions and unique users in web traffic statistics - details
+_gid: Google Analytics, used to count sessions and unique users in web traffic statistics
+_gat: Google Analytics, used to throttle requests to the statistics server
+__gads/__gac: Google Adsense rate-limiting &amp.
+performance - details
+ Cookie management information
+Disabling cookies makes the Website harder to use.
+Some features will be degraded while others will not work at all.
+For example, it is impossible to register or log in without cookies.
+This way, using the download basket or the watchlist features is no longer possible.
+Nevertheless, users can configure their web browser to reject (or accept) cookies sent by specific sites.
+All modern browsers offer this functionality, which can be accessed through the “options” or “preferences” menu.
+Disabling cookies will not stop advertisements from being show, but it might make them less relevant to users’ interests.
+
+Here are a few useful links about managing cookies:
+
+
+Video about cookies and cookie management
+Cookie settings in Google Chrome
+Cookie settings in Firefox
+Cookie settings in Safari
+Cookie settings in Internet Explorer
+Cookie settings in Opera
+Cookie settings in Safari (iOS)
+Cookie settings in Chrome (Android)
+ Granular management for third party cookies
+To learn more about the choices that advertisers provide generally for individuals to influence how information about their online activities over time and across third-party Web sites or online services is collected and used, visit:
+
+European Digital Advertising Alliance
+Network Advertising Initiative
+Digital Advertising Alliance
+ Additional information
+For information regarding data collected by this Website and how collected data is used, see our Privacy Policy
+Questions regarding cookie usage on this Website can be sent in written form, via email, to: dpo@softnews.ro   Softpedia is a library of free and free-to-try software programs for Windows, Macintosh and Linux, video games and device drivers.
+Softpedia also contains a news section on technology and software topics.
+
+The services offered by Softpedia.com ("Softpedia" or "we") include the main website, a bilingual message board (forum), a "blog"-host, a photo store for users and any other features, content, or applications (collectively, the "Softpedia Services") offered by Softpedia or by related websites.
+The Softpedia services are hosted in Romania and the USA.
+
+This Terms and Conditions of Use Agreement ("Agreement") sets forth the legally binding terms for your use of the Softpedia Services.
+By using the Softpedia Services, you agree to be bound by this Agreement, whether you are a "Visitor" (which means that you simply browse the Softpedia Website) or you are a "Member" (which means that you have registered with Softpedia.com).
+In fact, during the Registration process, the future Members can only get this privilege only after expressly consenting to comply with this Agreement.
+The term "User" refers to a Visitor or a Member.
+You are only authorized to use the Softpedia Services (regardless of whether your access or use is intended) if you agree to abide by all applicable laws and to this Agreement.
+Please read this Agreement carefully.
+
+If you do not agree with it, you should leave the Softpedia Website and discontinue use of the Softpedia Services immediately.
+Any further access from you to our website will be considered as an acceptance of the terms and conditions stated below.
+
+Softpedia may modify this Agreement from time to time and such modification shall be effective upon our posting on the Website.
+You agree to be bound to any changes to this Agreement when you use the Softpedia Services after any such modification is posted.
+It is therefore important that you review this Agreement regularly to ensure you are updated as to any changes. 1.
+Eligibility
+
+Softpedia Services' use, as well as Membership is void if prohibited.
+By using the Softpedia Services, you represent and warrant that:
+a) all registration information you submit is truthful and accurate and you will maintain the accuracy of such information;
+b) you are at least 13 years old (otherwise, for those who want to become Members, we shall need the parental direct consent).
+You may have your parent or tutor e-mail us at webmaster@softpedia.com to verify that you have been granted permission to use this site.
+Your profile may be deleted and your Membership may be terminated without warning, if we believe that you are under 13 years of age and you do not comply with the rules stated above;
+c) your use of the Softpedia Services does not violate any applicable law or regulation.
+d) you are the developer or the owner of all software or any other content that you send to us.
+ 2.
+Term
+
+This Agreement shall remain in full force and effect while you use the Softpedia Services or are a Member.
+Softpedia.com may suspend or terminate your Membership at any time, without warning, or may limit your access to the Website content, or to a part of it.
+Even after Membership is terminated, this Agreement will remain in effect.
+Once your Account is terminated you agree not to post on the message boards, or to assist or cause another person to post messages on your behalf.
+ 3.
+Registering, passwords and responsibilities
+
+When you sign up to become a Member, you will also be asked to choose a password.
+You are entirely responsible for maintaining the confidentiality of your password.
+We strongly recommend that you do not share that password to anyone.
+Moreover, you should remember to sign out or log off your account whenever you mean to interrupt the use of Softpedia Services, regardless of the duration of your absence.
+Also, it is advisable that you close the session window of your browser, especially if you accessed the Website from a public Internet cafe, for example.
+Softpedia will never ask for your profiles' passwords through unsolicited messages or e-mails.
+
+
+You agree not to use the account, username, or password of another Member at any time or to disclose your password to any third party.
+You agree to notify Softpedia immediately if you suspect any unauthorized use of your account or access to your password.
+You are solely responsible for any and all use of your account.
+
+
+Unfortunately, no data transmission on the Internet can be 100% secure.
+Consequently, despite our efforts to protect personal information, Softpedia cannot ensure or guarantee the safety of any transmission whatsoever.
+You acknowledge that all information sent to us is on your own risk.
+ 4.
+Intellectual property protection
+
+Softpedia content and web-design, as well as any other data related to the Website, that we may send to you by e-mail or other means, including news content published by our authors belong to SoftNews NET and its collaborators/developers and are protected by the international copyright and trademark laws.
+Unauthorized use of the trademarks or any other Softpedia content included in the Website (meaning use without the express written permission of SoftNews NET) is strictly prohibited.
+
+
+Individuals who believe they have identified a case of copyright of intellectual property infringement in materials available on Softpedia and wish to have that content removed may contact Softpedia by email at webmaster@softpedia.com and submit a request conforming to the DMCA guidelines.
+
+In essence, the request must at least contain:
+
+(1) Sufficient information to identify and contact the holder of the allegedly infringed rights or its authorized agents (complaining party);
+(2) Sufficient information to identify the infringed intellectual property (preferably a list of URLs on site(s) under the copyright holder's control);
+(3) Sufficient information to identify the location on the Softpedia site where the infringement took place (a list of URLs on site(s) controlled by SoftNews Net SRL);
+(4) Clear statements in the effect of the complaining party having a good faith belief that use of the allegedly infringed intelectual property is not authorized by the copyright owner, its agent, or the law, and that the information in the request is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+
+Softpedia will take into consideration, analyze and reply to all such requests or ask for additional information if the submitted requests do not comply with the above guidelines.
+ 5.
+Non-commercial Use
+
+The Softpedia Services are for the personal use of Members only and may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by Softpedia.com.
+Illegal and/or unauthorized use of the Softpedia Services, including collecting usernames and/or e-mail addresses of Members by electronic or other means for the purpose of sending unsolicited email or unauthorized framing of or linking to the Softpedia Website is prohibited.
+Commercial advertisements, affiliate links, and other forms of solicitation may be removed from Member profiles without notice and may result in termination of Membership privileges.
+Appropriate legal action will be taken for any illegal or unauthorized use of the Softpedia Services.
+ 6.
+Proprietary rights in Content posted by users
+
+SoftNews NET becomes the owner of the texts that you post on the forums, as soon as you post them, but we do not claim any ownership rights in the photos, software or any other materials (collectively, "Content") that you post to the Softpedia Services.
+After posting your Content to the Softpedia Services, you continue to retain all ownership rights in such Content, and you continue to have the right to use your Content in any way you choose.
+By displaying or publishing ("posting") any Content on or through the Softpedia Services, you hereby grant to SoftNews NET a limited license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content solely on and through the Softpedia Services.
+
+
+You represent and warrant that: 
+a) you own the Content posted by you on or through the Softpedia Services or otherwise have the right to grant the license set forth in this section;
+b) the posting of your Content on or through the Softpedia Services does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person or entity.
+You agree to pay for all royalties, fees, and any other sums of money owing any person by reason of any Content posted by you to or through the Softpedia Services.
+
+
+When you consider that an infringement of your copyright or of your image took place, you are to address to a legal authority if you with to have access to any available personally identifiable data of that user.
+Only if we have its official decision we are allowed to offer you the personal data of the assumed guilty user, according to Law 677/2001 of the Romanian legislation.
+For infringing content removal see Section (4) above.
+
+
+7.
+Content posted on the Website by users
+Softpedia allows the users to post different content on the web, such as text (messages, discussions on forums), photos, software or any other materials (collectively named "Content").
+On the other hand, Softpedia may delete any Content that in its sole judgment violates this Agreement or which may be offensive, illegal or violate the rights, harm, or threaten the safety of any person.
+SoftNews NET assumes no responsibility for monitoring the Softpedia Services for inappropriate Content or conduct.
+
+
+
+If at any time any third person claims that Softpedia users committed any sort of infringement to their rights and image, by the Content posted, they are to address authorities.
+Otherwise, SoftNews NET assumes no obligation to modify or remove any inappropriate Content.
+
+Softpedia makes no warranties, express or implied, as to the Content or to the accuracy and reliability of the Content or any material or information that you transmit to other Members.
+There is only one exception to this rule: there are several software products that have been thoroughly tested in the Softpedia laboratories.
+for these and solely for these items, Softpedia guarantees that, at the moment of testing and only at that moment, they are 100% clean of any form of malware, including, but not limited to spyware, viruses, trojans and backdoors.
+These specific items can easily be spotted within the Website, marked with a distinctive sign: "100% CLEAN".
+However, it should be noted that this product will be retested periodically and the award may be withdrawn, so you should check back this page and especially the date of testing shown above.
+ 8.
+Prohibited activities
+
+The following is a list of the kind of Content that is illegal or prohibited to post on or through the Softpedia Services.
+Softpedia.com reserves the right to investigate and take appropriate legal action against anyone who, in Softpedia.com's sole discretion, violates this provision.
+Prohibited Content (the list is not limited and can at any time be subject to alteration by Softpedia at its sole discretion) includes content that:
+- is offensive and promotes racism, bigotry, hatred, physical harm or harassment of any kind against any group or individual.
+
+- exploits people in a sexual or violent manner.
+
+- contains nudity, violence, or offensive subject matter or contains a link to an adult website.
+
+- promotes information that you know is false or misleading or promotes illegal activities or conduct that is abusive, threatening, obscene, defamatory or libelous.
+
+- promotes an illegal or unauthorized copy of another person's copyrighted work, such as providing pirated computer programs or links to them, or providing pirated music or links to pirated music files.
+
+- involves the transmission of "junk mail," "chain letters," or unsolicited mass mailing, instant messaging, "spimming," or "spamming".
+
+- furthers or promotes any criminal activity or enterprise or provides instructional information about illegal activities including, but not limited to making or buying illegal weapons, violating someone's privacy, or providing or creating computer viruses.
+
+- solicits passwords or personal identifying information for commercial or unlawful purposes from other Users.
+
+- involves commercial activities and/or sales without our prior written consent.
+
+- covers or obscures any of the Softpedia marks when using Softpedia services;
+- is automatically created by any sort of script meant to add friends or send comments or messages.
+
+- involves using the account, username, or password of another Member at any time;
+- means in any way using the Softpedia Services in a manner inconsistent with any and all applicable laws and regulations.
+ 9.
+Privacy
+The information that you provide us about you will solely be used in accordance with the terms of our Privacy Policy.
+To provide the services on this site, we use cookies.
+for details please see our Cookies Policy.
+ 10.
+Disclaimers and limitation on liability
+
+The information, services and products available to you on this Website may contain errors and are subject to periods of interruption.
+Softpedia is not responsible for any inaccurate content, whether it is caused by Users or by any equipment or malfunction related to Softpedia Services.
+Moreover, Softpedia is not responsible for the functioning of any of the links to related websites (including ease of downloading programs, procedure to follow in order to buy any item).
+
+
+SOFTPEDIA PROVIDES THE INFORMATION, SERVICES AND PRODUCTS AVAILABLE ON THIS WEB SITE "AS IS," WITH NO WARRANTIES WHATSOEVER.
+ALL EXPRESS WARRANTIES AND ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS ARE HEREBY DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW.
+IN NO EVENT SHALL SOFTPEDIA BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF SOFTPEDIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+ 11.
+Force majeure
+
+SoftNews NET and its collaborators and affiliates cannot be held responsible for any delay or malfunction brought about directly or indirectly by causes that exceed Softpedia's free will.
+This includes, but is not limited to: malfunctioning of SoftNews NET technical equipment, broken connection to Internet or telephone lines, computer viruses, unauthorized access to Softpedia system, operation errors, strike etc.
+ 12.
+Indemnity
+
+You agree to indemnify and hold SoftNews NET, its officers, directors, owners, agents and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of the message boards on Softpedia Website, the violation of these terms and conditions by you, or the infringement by you, or other user of the message boards using your computer, of any intellectual property or other right of any person or entity.
+SoftNews NET reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you.
+ 13.
+Miscellaneous
+
+Softpedia reserves the right, in its sole discretion, to suspend, modify, add or erase at any time parts of its web Content.
+Moreover, Softpedia has the right to modify the terms of the present Agreement, at any time and without prior warning.
+You are to verify the Agreement from time to time, because you acknowledge that you are subject to the modifications as soon as they are posted on the web.
+If at any moment, some services provided by Softpedia can be subject to other terms than these stated above, we shall post a visible announcement on the website, regarding the specific regulations for that matter.
+ 14.
+Applicable law
+
+Parties' rights and obligations, imposed by the present Agreement, as well as all juridical effects produced by the Agreement shall be interpreted and governed by the Romanian laws effective at that time.
+Any dispute concerning this Agreement shall be solved by competent Romanian Courts of Law.   Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data.
+
+
+SoftNews NET has created this privacy statement in order to demonstrate our firm commitment to privacy over the internet.
+The following discloses our information gathering and dissemination practices for this website: Softpedia.com is operated by SoftNews NET, located in Bucharest, Romania.
+
+
+During the administration process of the website, Softpedia needs to take over some personal information, in order to personalize the website usage and make it easier for each one of the users.
+Also, collecting information (such as name, e-mail etc) is useful for SoftNews NET in order to adapt our ads to your preferences.
+SoftNews NET respects and grants confidentiality for personal data collected over from its users at several different points on the website.
+We are the sole owners of the information gathered within the Softpedia.com website.
+We shall not sell or rent this information to others in any way.
+We shall not share this information in ways different from what is disclosed in this statement.
+
+
+The clauses of this policy are valuable for all kinds of information gathered from Softpedia users.
+Additional clauses, if any, will be added if necessary for special services that we may offer in the future.
+This privacy policy informs you about the type of personal data that we may collect from you, the way we can use it, the way we understand to protect it, who has access to it and how the possible mistakes can be corrected.
+
+
+Information that we collect
+
+Softpedia may collect information from its users in three different ways: directly from the user, from traffic references of hosting servers and from cookies.
+
+
+Information provided directly by the user: when you subscribe to a service provided by Softpedia, we may ask you about your name, e-mail address or other personal data.
+For example, when you register to our website, you need to enter your username, e-mail address and password.
+
+
+Information from traffic references: when you visit a website, you unveil certain information about you, such as your IP address, time of visit, place from which you accessed our website.
+Softpedia, like other operators, stores this information.
+
+
+Information collected from cookies: in order to offer you a personalized service, Softpedia may use cookies to ease storing and tracking your preferences.
+For instance, we may use cookies to make sure you don't see the same ad repeatedly, or to deliver content specific to your interests.
+the content contained is not distributed to third parties.
+
+
+Cookies are "txt" files offered to your browser by a web server and then stored on the hard-disk of your computer.
+Most of browsers are set to accept cookies.
+But if you prefer, you can reset your browser so as to let you know whenever you receive a cookie or even to refuse cookies.
+However, you should know that some parts of Softpedia website can only be normally seen if your browser allows cookies.
+
+
+Softpedia allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Softpedia site.
+These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Softpedia site.
+They automatically receive your IP address when this happens.
+They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+
+
+Softpedia does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+However, please note that if an advertiser asks Softpedia to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+The advertiser may also use information regarding your use of the Softpedia Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+
+
+
+You need to acknowledge that, whenever you disclose information in public areas on the website, such as message boards (comments) or forums, that information becomes public and can easily be tracked and used by unauthorized persons.
+Although SoftNews NET does its best in order to protect your personal data, we cannot entirely grant you its safety.
+You should exercise caution when deciding to disclose your personal information.
+You should also know that you are the only one responsible for keeping the secret of your passwords, usernames etc.
+
+
+
+How and when we use the information
+
+Softpedia uses the information collected from you for several purposes, depending on the type of data collected:
+- information provided directly by the user: this information is used only in order to personalize the services that we offer you and to check your identity;
+- information from traffic references: this type of info helps us identify the parts of our site of most interest for you.
+Softpedia also collects the IP addresses of its users, in order to safely manage our computer system;
+- information collected from cookies: Softpedia uses cookies to help you with our services and with getting statistic information for the services improvement.
+Cookies allow us to save your passwords and your preferences so that you do not have to introduce them again at your next visit.
+
+
+
+How we protect information collected from you
+
+We show great interest in confidentiality.
+SoftNews NET does not offer your personal data to third parties without your prior express consent.
+Any statistics that we may offer to our partners or to advertisement networks does not include any personal identifying information about any individual user.
+
+Your access to certain services on the website is protected by a password.
+We advise you not to unveil this password to anyone.
+Softpedia will never ask for the password of your accounts through any kind of messages or unsolicited phone calls.
+We strongly advise you not to unveil your passwords to those who may ask you to.
+As a plus, if possible, you should remember to click "log off" / "sign out", at the end of any working session in your account.
+We also advise you to close your browser window when you quit using the sites or the services provided by SoftNews Net.
+
+
+These pieces of advice are meant to restrain the access of unauthorized persons to your personal information or mail, especially when you work in a computer network in a public place (net cafe for example).
+
+Unfortunately, no data transmission by means of internet can be 100% sure.
+As a consequence, despite our efforts to protect your personal data, SoftNews NET cannot guarantee the safety of your information.
+All this kind of transmission whatsoever is made on your own risk.
+
+
+Still, we can grant you that we carry out all our efforts to ensure safety for our systems, according to the security standards imposed by Romanian legislation.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+Our servers have strict security in place to prevent an intruder from retrieving personal information about our users.
+Staff checks server access daily to ensure the above holds true.
+
+
+
+Unsolicited communication
+
+Softpedia will not use your e-mail address in order to send you any kind of unsolicited or promotional mail.
+It is your choice whether you decide to receive or not newsletters from us.
+You can always choose to unsubscribe from our newsletter services.
+
+
+
+Who has access to the information collected from you
+
+As a rule, SoftNews NET will never unveil any sort of personally identifiable information about any of its users, without their prior express consent.
+On the other hand, SoftNews NET may unveil this kind of data when expressly permitted by law or when this measure is necessary in order to protect Softpedia rights and interests.
+
+As a conclusion, when you access Softpedia website and are asked to offer information about you, only SoftNews NET will have access to them.
+However, you acknowledge that our site contains links to some partner sites.
+Softpedia is not responsible for the privacy practices or the content of such websites.
+
+
+Our online surveys may ask visitors for contact information (like their e-mail address) and demographic information (like their zip code, age, or income level).
+The customer's contact information is only used to contact the visitor when necessary.
+We do not share this information with third parties.
+
+We may use an outside ad company to display ads on our site.
+These ads may contain cookies.
+While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+
+Advertisements served by Google, as a third party vendor, use DART cookies.
+These cookies are used to serve ads based on your visit to this site and other sites on the Internet.
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+
+
+How we can correct errors contained by data collected from you
+
+If you create an account to one of our services, we shall send you a confirmation e-mail in which we give you the details of the newly created account.
+The confirmation message will be sent at the e-mail address that you provided.
+We strongly advise you to keep this confirmation mail secret, because it contains information that can be useful when you encounter problems in accessing our services.
+
+
+
+Children's Guidelines
+
+This site gives children under the age of 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent.
+Please take proper measures if you do not wish your child to have access to public forums and message boards.
+As always, exercise caution when deciding to disclose personal information in a public forum.
+
+
+
+Notification of Changes
+
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.
+If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.
+Users will have a choice as to whether or not we use their information in this different manner.
+We will use information in accordance with the privacy policy under which the information was collected.
+
+
+
+If you feel that this company is not abiding by its posted privacy policy, you should first contact Softpedia.
+For any suggestions and comments regarding Softpedia or our Privacy Policy, please contact us at .
+
+
+This Privacy Policy is guided by the Romanian legislation and has been updated today, 24th of September, 2007.
+
+ 

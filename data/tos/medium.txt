@@ -1,0 +1,335 @@
+Medium’s Copyright and DMCA PolicyMediumBlockedUnblockFollowFollowingMar 18, 2014This policy explains how Medium responds to allegations of the unauthorized use of copyrighted images, text, or links to allegedly infringing materials under the Digital Millennium Copyright Act (“DMCA”).
+The DMCA
+Section 512 of the DMCA outlines the statutory requirements for formally reporting copyright infringement.
+It also explains how to challenge a notification of claimed infringement by submitting a counter-notice.
+Do You Have Rights in a Copyrighted Work?
+If you aren’t sure whether you own the copyright in a particular work, please consult an attorney before sending a copyright notice to us.
+(Unfortunately, Medium can’t give you legal advice.)
+How To File a DMCA Notice
+To submit a notice of claimed copyright infringement, you will need to provide us with the following information:
+1.
+A physical or electronic signature (typing your full name will suffice) of the copyright owner or a person authorized to act on their behalf;
+2.
+Identification of the copyrighted work claimed to have been infringed (e.g., a copy of or link to your original work or clear description of the materials allegedly being infringed upon);
+3.
+Identification of the infringing material and information reasonably sufficient to permit Medium to locate the material on our website or services (e.g., a link to the infringing post);
+4.
+Your contact information, including your address, telephone number, and an email address;
+5.
+A statement that you have a good-faith belief that the use of the material in the manner asserted is not authorized by the copyright owner, its agent, or the law.
+and
+6.
+A statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+You can report alleged copyright infringement by emailing the above information to copyright@medium.com.
+You can also mail a copyright notice to:
+Designated Copyright AgentA Medium Corporation799 Market Street, 5th floorSan Francisco, CA 94103
+Under 17 U.S.C.
+§ 512(f), you may be liable for any damages, including costs and attorneys’ fees incurred by us or our users, if you knowingly materially misrepresent that material or activity is infringing.
+If you aren’t sure whether the material you are reporting is in fact infringing your rights, you should consult an attorney before sending us a copyright notification.
+How Medium Processes the Claim
+We process copyright notices in the order they are received.
+Please note that submitting duplicate DMCA notifications may cause delayed processing.
+Medium’s response to notices of alleged copyright infringement may include the removal or restriction of access to allegedly infringing material.
+If we remove or restrict access to user content in response to a notice of alleged infringement, Medium will make a good-faith effort to contact the affected account holder and provide information concerning the removal or restriction of access, including a copy of the takedown notice, along with instructions for filing a counter-notification.
+We will also forward a copy of the complaint to the Lumen database.
+Where appropriate, Medium may suspend and warn repeat violators, and in more serious cases, permanently terminate user accounts.
+When You Receive a DMCA Notification
+If you receive a DMCA notification, it means that the content described in the notice has been removed from Medium or access to the content on Medium has been restricted.
+Please carefully read our notice to you, which includes information about the notification we received as well as instructions on how to file a counter-notice.
+Filing a Counter-Notice
+If you received a DMCA notification about your material and believe that material was misidentified or removed in error, you should file a counter-notice by following the instructions below.
+Re-posting material removed in response to a DMCA notification may result in permanent account suspension.
+If you believe the content was removed in error, please file a counter-notice instead of re-posting the material.
+To submit a counter-notice, please provide us with the following information:
+1.
+A physical or electronic signature (typing your full name will suffice);
+2.
+Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled (the description from the DMCA notice will suffice);
+3.
+A statement under penalty of perjury that you have a good-faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
+and
+4.
+Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the federal district court for the judicial district in which your address is located, or if your address is outside of the United States, for any judicial district in which Medium may be found, and that you will accept service of process from the person who provided the copyright notification or an agent of such person.
+To submit a counter-notice, please respond to our original email notification of the removal and include the above information in the body of your reply.
+After You Submit a Counter-Notice
+When we receive a valid counter-notice, we will promptly forward a copy to the person who filed the original notification.
+If we don’t receive notice within 10 business days that the original reporter is seeking a court order to prevent further infringement of the material, we may replace or cease disabling access to the material that was removed.
+Think Long and Hard Before Filing a DMCA Notification or Counter-Notice
+Please think carefully before submitting a claim or counter-notice, especially if you aren’t sure whether you are the actual rights holder or authorized to act on a rights holder’s behalf.
+There are legal and financial penalties for fraudulent and/or bad-faith claims.
+Please make sure you are the actual rights holder, or you have a good-faith belief that the material was removed in error, and that you understand the repercussions of submitting a false claim.
+Learn More
+To learn more about the DMCA and 512, check out the following resources.
+United States Copyright Office
+Lumen
+Electronic Frontier Foundation Medium’s Do Not Track PolicyMediumBlockedUnblockFollowFollowingJun 20, 2014Medium is built for privacy.
+One key to our approach is that Medium doesn’t make money from ads.
+So we don’t serve ads to you on Medium and we don’t send your data to third parties for the purpose of targeting ads to you.
+The tracking we do at Medium is to make our product work.
+Medium doesn’t track you across the Internet.
+We track only your interactions within the Medium network (Medium.com and custom domains hosted by Medium).
+One concrete way we commit to user privacy is by honoring Do Not Track (“DNT”) browser settings.
+There’s no consensus on how best to do this.
+But, we have adopted an approach that we believe honors the fundamental pro-privacy aims of the DNT standard.
+To that end, we follow the recommendation made by the World Wide Web Consortium (“W3C”).
+If you are browsing with DNT enabled, you can read Medium in the logged-out state and our analytics will not receive information about you.
+Also, embeds within a page (such as a YouTube video) will not load without your actively clicking through a DNT overlay.
+By doing this, we allow you to choose whether any data is sent to a third-party embed before it is sent.
+If you click into an embed while browsing DNT, it may cause data to be sent to the third-party hosting the embed.
+As allowed under the W3C’s specification, we do some first-party tracking in order to make Medium work.
+Specifically, this ensures you don’t see the same posts every time you look at medium.com, allows our paywall to function, and enables you to read a set number of members-only articles per month without a membership.
+Our first-party tracking allows these kinds of content customizations.
+We also send data to third-party service providers (as understood in W3C’s specification) — companies that provide services that make Medium work, like Amazon Web Services.
+If you would like a more customized experience on Medium, you can choose to create an account and sign in to it.
+But in order to make your account work, we need to log some actions you take, so that we can offer recommendations, build your reading list, and connect you with a network of other readers and writers.
+Like most websites, we use cookies to authenticate your account and organize this information.
+So, when you use Medium in the logged-in state, we cannot comply with DNT.
+They are mutually exclusive.
+A few more details about cookies and the mechanics of DNT.
+Cookies are unique identifiers that an internet service attaches to your browser or mobile device in order to recognize you.
+If you enable DNT in your browser, it sends us a header when you fetch a webpage, requesting that we do not track your movements online through cookies or other means.
+Regardless of whether you browse DNT or not, we do not track you across the Internet.
+And we don’t change or disable the DNT setting in your browser.
+Our policy aims to honor DNT requests and help foster the privacy protective Internet the standard envisions, while also providing the personalized experience that is at the core of Medium’s vision.
+We’re proud to be an early adopter of DNT and will keep working on our implementation of it.
+For more details about the data we collect on users who are logged in or do not have DNT enabled, please see our Privacy Policy. Medium Privacy PolicyMediumBlockedUnblockFollowFollowingAug 13, 2012
+Effective Date: May 25, 2018
+
+This policy explains what information we collect when you use Medium’s sites, services, mobile applications, products, and content (“Services”).
+It also has information about how we store, use, transfer, and delete that information.
+Our aim is not just to comply with privacy law.
+It’s to earn your trust.Information We Collect &amp.
+How We Use ItMedium doesn’t make money from ads.
+So we don’t collect data in order to advertise to you.
+The tracking we do at Medium is to make our product work as well as possible.
+In order to give you the best possible experience using Medium, we collect information from your interactions with our network.
+Some of this information, you actively tell us (such as your email address, which we use to track your account or communicate with you).
+Other information, we collect based on actions you take while using Medium, such as what pages you access and your interactions with our product features (like highlights, follows, and applause).
+This information includes records of those interactions, your Internet Protocol address, information about your device (such as device or browser type), and referral information.
+We use this information to:
+
+provide, test, improve, promote and personalize Medium Services
+fight spam and other forms of abuse
+generate aggregate, non-identifying information about how people use Medium Services
+
+When you create your Medium account, and authenticate with a third-party service (like Twitter, Facebook or Google) we may collect, store, and periodically update information associated with that third-party account, such as your lists of friends or followers.
+We will never publish through your third-party account without your permission.Information DisclosureMedium won’t transfer information about you to third parties for the purpose of providing or facilitating third-party advertising to you.
+We won’t sell information about you.
+We may share your account information with third parties in some circumstances, including: (1) with your consent.
+(2) to a service provider or partner who meets our data protection standards.
+(3) with academic or non-profit researchers, with aggregation, anonymization, or pseudonomization.
+(4) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other legal process.
+(5) when we have a good faith belief that doing so will help prevent imminent harm to someone.
+If we are going to share your information in response to legal process, we’ll give you notice so you can challenge it (for example by seeking court intervention), unless we’re prohibited by law or believe doing so may endanger others.
+We will object to requests for information about users of our services that we believe are improper.Data StorageMedium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium.
+We maintain two types of logs: server logs and event logs.
+By using Medium Services, you authorize Medium to transfer, store, and use your information in the United States and any other country where we operate.Third-Party EmbedsSome of the content that you see displayed on Medium is not hosted by Medium.
+These “embeds” are hosted by a third-party and embedded in Medium.
+For example: YouTube or Vimeo videos, Imgur or Giphy gifs, SoundCloud audio files, Twitter tweets, GitHub code, or Scribd documents that appear within a Medium post.
+These files send data to the hosted site just as if you were visiting that site directly (for example, when you load a Medium post page with a YouTube video embedded in it, YouTube receives data about your activity).
+Medium does not control what data third parties collect in cases like this, or what they will do with it.
+So, third-party embeds on Medium are not covered by this privacy policy.
+They are covered by the privacy policy of the third-party service.
+Some embeds may ask you for personal information, such as your email address, through a form.
+We do our best to keep bad actors off of Medium.
+However, if you choose to submit your information to a third party this way, we don’t know what they may do with it.
+As explained above, their actions are not covered by this Privacy Policy.
+So, please be careful when you see embedded forms on Medium asking for your email address or any other personal information.
+Make sure you understand who you are submitting your information to and what they say they plan to do with it.
+We suggest that you do not submit personal information to any third-party through an embedded form.
+If you embed a form that allows submission of personal information by users, you must provide near the embedded form a prominent link to an applicable Privacy Policy that clearly states how to you intend to use any information collected.
+Failure to do so may lead Medium to disable the post or take other action to limit or disable your account.Tracking &amp; CookiesWe use browser cookies and similar technologies to recognize you when you return to our Services.
+We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, allow our paywall and meter to function, and personalize content and other information.
+Medium doesn’t track you across the Internet.
+We track only your interactions within the Medium network (which encompasses Medium.com and custom domains hosted by Medium).
+Some third-party services that we use to provide the Medium Service, such as Google Analytics, may place their own cookies in your browser.
+This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
+Medium complies with the “Do Not Track” (“DNT”) standard recommended by the World Wide Web Consortium.
+For logged-out users browsing with DNT enabled, Medium’s analytics will not receive data about you, but we will do some first-party tracking in order to customize content and provide data to third-party service providers that enable Medium Services to work.
+When you use Medium while logged-in to your account, we cannot comply with DNT.
+Here’s some more information about Medium’s Do Not Track policy.
+Modifying or Deleting Your Personal Information
+If you have a Medium account, you can access, modify or export your personal information, or delete your account here.
+To protect information from accidental or malicious destruction, we may maintain residual copies for a brief time period.
+But, if you delete your account, your information and content will be unrecoverable after that time.
+Medium may preserve and maintain copies of your information when required to do so by law.Data SecurityWe use encryption (HTTPS/TLS) to protect data transmitted to and from our site.
+However, no data transmission over the Internet is 100% secure, so we can’t guarantee security.
+You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account.Business TransfersIf we are involved in a merger, acquisition, bankruptcy, reorganization or sale of assets such that your information would be transferred or become subject to a different privacy policy, we’ll notify you in advance so you can opt out of any such new policy by deleting your account before transfer.Email from MediumSometimes we’ll send you emails about your account, service changes or new policies.
+You can’t opt out of this type of “transactional” email (unless you delete your account).
+But, you can opt out of non-administrative emails such as digests, newsletters, and activity notifications through your account’s “Settings” page
+When you interact with an email sent from Medium (such as opening an email or clicking on a particular link in an email), we may receive information about that interaction.
+We won’t email you to ask for your password or other account information.
+If you receive such an email, please send it to us so we can investigate.Changes to this PolicyMedium may periodically update this Policy.
+We’ll notify you about significant changes to it.
+The most current version of the policy will always be here and we will archive former versions of the policy here.QuestionsWe welcome feedback about this policy at legal@medium.com.Data Protection Statement for European Union UsersDescription of Processing ActivityMedium collects and stores personal information about its users to customize their reading experience and enable personalized distribution of content.
+It shares minimal data with its service providers.Purposes of Processing
+Provide, test, promote, and improve the services
+Gather usage statistics of services
+Provide customized reading experience
+Publish and distribute user-generated content
+Provide access to paid content
+Pay authors in Partnership Program for certain content
+Fight spam, fraud, and other abuse of services
+Legal BasesIn order to provide the services, Medium collects and stores personal data about its users on the legal basis of consent given when you create an account and agree to the Privacy Policy.
+Medium also pursues its legitimate interests by collecting minimal data of logged out users to provide the services, as outlined above.
+Where Medium collects and stores personal data about non-users, it does so under performance of contract obligations with users who use the services to publish content on web sites hosted by Medium.
+In such cases, users authoring such content containing personal data of third parties are responsible for that content.
+Medium will consider related complaints in compliance with the General Data Protection Regulation’s rights of the data subject, as well as rights of expression and access to information.Public Nature of Personal DataLogged-in users may choose to interact publicly with the Medium Services in the form of clapping for a post, highlighting parts of a post, following other user accounts, sharing links on connected social media accounts, or writing original posts.
+Where such personal data may reveal special category protected data, it is processed on the basis that it is manifestly made public by the user.
+Additional information on potential consequences of such processing can be found below.
+If you do not agree to this public usage, do not create an account or use these features of Medium Services.Categories of Personal Data CollectedLogged out users
+
+Reading history
+IP address
+Browser information
+DNT status
+
+Logged in users:
+
+Username
+Display name
+Bio
+Avatar image
+Email address (non-public)
+Session activity (security)
+Linked social media accounts (optional)
+IP address
+Browser information
+Reading history (on Medium network only)
+Network interactions (recommends, follows, etc.)
+Posts, responses, or series published by user
+
+Members:
+
+Billing information and history
+
+Partner authors:
+
+Bank account for payments
+Business information, if applicable
+Categories of RecipientsMedium shares minimal personal data with third-party processors in order to provide the Services.
+These processors offer at least the same level of data protection as that set out in this statement.
+This includes the following categories of recipients:
+
+Hosting, Storage, &amp.
+Other Infrastructure
+Security
+Analytics
+Communication &amp.
+Support
+Payment Processors
+
+Search engines will index user profiles, public interactions, and any user-generated content.
+Users may also share links to your content on social media.Payment ProcessorsMedium provides Services in conjunction with several payment processors, including: Stripe, Paypal, Google Play, and Apple Pay, through which users may pay for Medium memberships or receive payment based on participation in our Partner program.
+Those companies acting as payment processors may collect and store personal data related to your billing information and history in order to provide their services, and may collect and store personal data and business data to prevent fraud and other abuse.
+When you delete your Medium account, Medium deletes your personal data as outlined in this document.
+However, to delete your payment or billing information, you will need to do so with your payment provider, as Medium only has minimal secure access to those records as needed to provide the services.
+Embedded Content
+Medium posts may contain third-party embeds, which may in some cases collect and store personal data.
+The use of personal data by embedded content providers is not covered by this statement, but by the privacy policies of those sites or services.Existence of Automated Decision-makingMedium collects and stores personal data about its users to customize reading.
+This includes automated decision-making to promote content tailored to the preferences and interests indicated by the user, and to their browsing history and network interactions.
+Medium also filters content for the purposes of fighting and preventing spam, fraud, and other forms of abuse.Potential Consequences of ProcessingBy creating an account on Medium, users may make certain personal data about themselves public and accessible to others on their profile and through network interactions.
+This may in some cases constitute special category protected data which is considered manifestly made public by the user.
+Due to the public nature of information posted to Medium, it may be possible for third parties to derive identifying personal data from posts, whether by reading, inference, supplemental research, or automated extraction and analysis.
+Users are free to use their real name and information, or a pseudonym of their choosing, for their account.
+Users may also choose to use the service without posting data or engaging in network interactions.
+However, if you do not agree with and accept the risks of such usage, you may not use the services.Cross-border TransfersMedium is hosted in the United States.
+By using Medium Services, you authorize Medium to transfer, store, and use your information in the United States and any other country where we operate.
+Where your data is disclosed to our processors, it is subject by contract to at least the same level of data protection as that set out in this statement.RetentionMedium retains personal data associated with your account for the lifetime of your account.
+If you would like to delete your personal information, you can delete your account at any time.
+Deleted account profile pages will yield an error 404 “file not found” page, immediately upon initiating deletion, and will become unrecoverable in our system after a period of fourteen days.
+It may take several additional days for your personal data to be de-indexed from search engines, depending on those search engines’ practices, over which Medium may have limited or no control.
+To delete your payment or billing information, you will need to do so with your payment provider, as Medium only has minimal secure access to those records as needed to provide the services.Rights of Data Subjects
+If you sign up for a Medium account, you may at any time request an export of your personal information from the Settings page.
+You may correct information associated with your account from the Settings page, and the Customize Your Interests page to update your interests.
+You may withdraw consent by deleting your account at any time through the Settings page, which will erase your personal information completely within 14 days (except to the extent Medium is prevented by law from deleting your information).
+You may object at any time to the use of your personal data by contacting privacy@medium.com.
+If your complaint relates to alleged misuse of your personal data by a third party, it may result in suspension of that post or account in keeping with relevant law, public interest, our contractual obligations, and the rights of expression and access to information of others.
+You may at any time lodge a complaint regarding the processing of your personal data by Medium with the Supervisory Authority of your EU member state.
+Contact InformationA Medium Corporation
+799 Market Street, 5th Floor
+San Francisco, CA 94103
+United States of America
+Representative: Head of Legal — legal@medium.com Medium Terms of ServiceMediumBlockedUnblockFollowFollowingAug 13, 2012
+Effective: March 7, 2016
+
+These Terms of Service (“Terms”) are a contract between you and A Medium Corporation.
+They govern your use of Medium’s sites, services, mobile apps, products, and content (“Services”).
+By using Medium, you agree to these Terms.
+If you don’t agree to any of the Terms, you can’t use Medium.
+We can change these Terms at any time.
+We keep a historical record of all changes to our Terms on GitHub.
+If a change is material, we’ll let you know before they take effect.
+By using Medium on or after that effective date, you agree to the new Terms.
+If you don’t agree to them, you should delete your account before they take effect, otherwise your use of the site and content will be subject to the new Terms.
+Content rights &amp.
+responsibilities
+You own the rights to the content you create and post on Medium.
+By posting content to Medium, you give us a nonexclusive license to publish it on Medium Services, including anything reasonably related to publishing it (like storing, displaying, reformatting, and distributing it).
+In consideration for Medium granting you access to and use of the Services, you agree that Medium may enable advertising on the Services, including in connection with the display of your content or other information.
+We may also use your content to promote Medium, including its products and content.
+We will never sell your content to third parties without your explicit permission.
+You’re responsible for the content you post.
+This means you assume all risks related to it, including someone else’s reliance on its accuracy, or claims relating to intellectual property or other legal rights.
+You’re welcome to post content on Medium that you’ve published elsewhere, as long as you have the rights you need to do so.
+By posting content to Medium, you represent that doing so doesn’t conflict with any other agreement you’ve made.
+By posting content you didn’t create to Medium, you are representing that you have the right to do so.
+For example, you are posting a work that’s in the public domain, used under license (including a free license, such as Creative Commons), or a fair use.
+We can remove any content you post for any reason.
+You can delete any of your posts, or your account, anytime.
+Processing the deletion may take a little time, but we’ll do it as quickly as possible.
+We may keep backup copies of your deleted post or account on our servers for up to 14 days after you delete it.
+Our content and services
+We reserve all rights in Medium’s look and feel.
+Some parts of Medium are licensed under third-party open source licenses.
+We also make some of our own code available under open source licenses.
+As for other parts of Medium, you may not copy or adapt any portion of our code or visual design elements (including logos) without express written permission from Medium unless otherwise permitted by law.
+You may not do, or try to do, the following: (1) access or tamper with non-public areas of the Services, our computer systems, or the systems of our technical providers.
+(2) access or search the Services by any means other than the currently available, published interfaces (e.g., APIs) that we provide.
+(3) forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive, or false source-identifying information.
+or (4) interfere with, or disrupt, the access of any user, host, or network, including sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of content or accounts in such a manner as to interfere with or create an undue burden on the Services.
+Crawling the Services is allowed if done in accordance with the provisions of our robots.txt file, but scraping the Services is prohibited.
+We may change, terminate, or restrict access to any aspect of the service, at any time, without notice.
+No children
+Medium is only for people 13 years old and over.
+By using Medium, you affirm that you are over 13.
+If we learn someone under 13 is using Medium, we’ll terminate their account.
+Security
+If you find a security vulnerability on Medium, tell us.
+We have a bug bounty disclosure program.
+Incorporated rules and policies
+By using the Services, you agree to let Medium collect and use information as detailed in our Privacy Policy.
+If you’re outside the United States, you consent to letting Medium transfer, store, and process your information (including your personal information and content) in and out of the United States.
+To enable a functioning community, we have Rules.
+To ensure usernames are distributed and used fairly, we have a Username Policy.
+Under our DMCA Policy, we’ll remove material after receiving a valid takedown notice.
+Under our Trademark Policy, we’ll investigate any use of another’s trademark and respond appropriately.
+By using Medium, you agree to follow these Rules and Policies.
+If you don’t, we may remove content, or suspend or delete your account.
+Miscellaneous
+
+Disclaimer of warranty. Medium provides the Services to you as is.
+You use them at your own risk and discretion.
+That means they don’t come with any warranty.
+None express, none implied.
+No implied warranty of merchantability, fitness for a particular purpose, availability, security, title or non-infringement.
+
+Limitation of Liability.
+Medium won’t be liable to you for any damages that arise from your using the Services.
+This includes if the Services are hacked or unavailable.
+This includes all types of damages (indirect, incidental, consequential, special or exemplary).
+And it includes all kinds of legal claims, such as breach of contract, breach of warranty, tort, or any other loss.
+
+No waiver. If Medium doesn’t exercise a particular right under these Terms, that doesn’t waive it.
+
+Severability.
+If any provision of these terms is found invalid by a court of competent jurisdiction, you agree that the court should try to give effect to the parties’ intentions as reflected in the provision and that other provisions of the Terms will remain in full effect.
+
+Choice of law and jurisdiction. These Terms are governed by California law, without reference to its conflict of laws provisions.
+You agree that any suit arising from the Services must take place in a court located in San Francisco, California.
+
+Entire agreement. These Terms (including any document incorporated by reference into them) are the whole agreement between Medium and you concerning the Services.
+
+Government use. If you’re ​using ​Medium for the U.S.
+Government, this Amendment to ​Medium’s Terms of Service ​applies to you​.
+Questions? Let us know at legal@medium.com.

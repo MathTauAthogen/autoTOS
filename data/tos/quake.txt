@@ -1,0 +1,1307 @@
+
+QUAKE LIVE Legal Notices 
+QUAKE LIVE® © 2007-2014, id Software LLC.
+QUAKE LIVE, QUAKE and ID are trademarks or registered trademarks of id Software LLC in the United States and/or other countries.
+All other trademarks and trade names are the properties of their respective owners.
+All Rights Reserved.
+
+
+QUAKE LIVE may utilize any of the following software libraries.
+
+
+
+gloox C++ Jabber/XMPP Library
+
+
+Copyright (c) 2004-2009 Jakob Schröter, http://camaya.net/gloox
+Author: Jakob Schröter
+Privately licensed for commercial use by Id Software LLC.
+
+
+
+This product uses the following libraries under the terms of the MIT License
+
+
+
+
+jQuery
+
+
+Copyright (c) 2009 John Resig, http://jquery.com/
+
+
+
+jQuery.Dimensions
+
+
+Copyright (c) 2007 Paul Bakaus, paul.bakaus (at) googlemail (dot) com and Brandon Aaron, Brandon.aaron (at) gmail (dot) com | http://brandonaaron.net 
+
+
+jQuery.Form
+
+
+Copyright (c) 2008, Examples and documentation at http://malsup.com/jquery/form
+
+
+
+jQuery.PositionBy &amp.
+jQuery.jdMenu
+
+
+Copyright (c) 2006, 2007 Jonathan Sharp, http://jdsharp.us
+
+
+
+jQuery.BGIFrame
+
+
+Copyright (c) 2008 Brandon Aaron, Brandon.aaron (at) gmail (dot) com | http://brandonaaron.net
+
+
+
+jQuery.Thickbox
+
+
+Copyright (c) 2007 Cody Lindley, http://www.codylindley.com
+
+
+
+jQuery.AjaxQueue
+
+
+Homepage: http://jquery.com/plugins/project/ajaxqueue
+Documentation: http://docs.jquery.com/AjaxQueue
+
+
+
+jQuery.ScrollTo
+
+
+Copyright (c) 2007-2008 Ariel Flesler aflesler (at) gmail (dot) com | http://flesler.blogspot.com
+
+
+
+jqModal
+
+
+Copyright (c) 2007 Brice Burgess &lt;bhb (at) iceburg (dot) net&gt;, http://www.iceburg.net
+
+
+MIT License (http://www.opensource.org/licenses/mit-license.php):
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+This product includes PHP software
+
+
+
+
+PHP
+
+
+Freely available from http://www.php.net/software/
+
+
+The PHP License, version 3.01
+
+Copyright (c) 1999 - 2008 The PHP Group.
+All rights reserved.
+
+
+Redistribution and use in source and binary forms, with or without modification, is permitted provided that the following conditions are met:
+
+
+1.
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3.
+The name "PHP" must not be used to endorse or promote products derived from this software without prior written permission.
+For written permission, please contact group@php.net.
+4.
+Products derived from this software may not be called "PHP", nor may "PHP" appear in their name, without prior written permission from group@php.net.
+You may indicate that your software works in conjunction with PHP by saying "Foo for PHP" instead of calling it "PHP Foo" or "phpfoo"
+5.
+The PHP Group may publish revised and/or new versions of the license from time to time.
+Each version will be given a distinguishing version number.
+Once covered code has been published under a particular version of the license, you may always continue to use it under the terms of that version.
+You may also choose to use such covered code under the terms of any subsequent version of the license published by the PHP Group.
+No one other than the PHP Group has the right to modify the terms applicable to covered code created under this License.
+6.
+Redistributions of any form whatsoever must retain the following acknowledgment: "This product includes PHP software, freely available from &lt;http://www.php.net/software/&gt;.
+
+
+THIS SOFTWARE IS PROVIDED BY THE PHP DEVELOPMENT TEAM ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE PHP DEVELOPMENT TEAM OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES.
+LOSS OF USE, DATA, OR PROFITS.
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+----------------------------
+This software consists of voluntary contributions made by many individuals on behalf of the PHP Group.
+
+
+The PHP Group can be contacted via Email at group (at) php (dot) net.
+For more information on the PHP Group and the PHP project, please see &lt;http://www.php.net&gt;.
+
+
+PHP includes the Zend Engine, freely available at &lt;http://www.zend.com&gt;.
+
+
+
+
+The following libraries are used/licensed under the terms of the 
+GNU Lesser General Public License (LGPL)
+
+
+
+
+Smarty - the PHP compiling template engine
+
+
+Copyright (c) 2001-2005 New Digital Group, Inc.
+All Rights Reserved.
+http://www.smarty.net
+Author: Monte Ohrt, monte (at) ohrt (dot) com
+Author: Andrei Zmievski, andrei (at) php (dot) net
+
+
+
+Securimage - A PHP class for creating and managing form CAPTCHA images
+
+
+Copyright (c) 2007 Drew Phillips.
+All Rights Reserved
+http://www.phpcaptcha.org
+Author: Drew Phillips, drew (at) drew-phillips (dot) com
+
+
+
+IE5.5+ PNG Alpha Fix
+
+
+Copyright (c) 2004-2008 Angus Turnbull.
+All Rights Reserved.
+http://www.twinhelix.com
+Author: Angus Turnbull
+
+
+GNU LESSER GENERAL PUBLIC LICENSE
+
+Version 3, 29 June 2007
+
+
+Copyright (C) 2007 Free Software Foundation, Inc.
+&lt;http://fsf.org/&gt;
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+
+This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License, supplemented by the additional permissions listed below.
+
+
+0.
+Additional Definitions.
+
+
+As used herein, "this License" refers to version 3 of the GNU Lesser General Public License, and the "GNU GPL" refers to version 3 of the GNU General Public License.
+
+
+"The Library" refers to a covered work governed by this License, other than an Application or a Combined Work as defined below.
+
+
+An "Application" is any work that makes use of an interface provided by the Library, but which is not otherwise based on the Library.
+Defining a subclass of a class defined by the Library is deemed a mode of using an interface provided by the Library.
+
+
+A "Combined Work" is a work produced by combining or linking an Application with the Library.
+The particular version of the Library with which the Combined Work was made is also called the "Linked Version".
+
+
+The "Minimal Corresponding Source" for a Combined Work means the Corresponding Source for the Combined Work, excluding any source code for portions of the Combined Work that, considered in isolation, are based on the Application, and not on the Linked Version.
+
+
+The "Corresponding Application Code" for a Combined Work means the object code and/or source code for the Application, including any data and utility programs needed for reproducing the Combined Work from the Application, but excluding the System Libraries of the Combined Work.
+
+
+1.
+Exception to Section 3 of the GNU GPL.
+
+
+You may convey a covered work under sections 3 and 4 of this License without being bound by section 3 of the GNU GPL.
+
+
+2.
+Conveying Modified Versions.
+
+
+If you modify a copy of the Library, and, in your modifications, a facility refers to a function or data to be supplied by an Application that uses the facility (other than as an argument passed when the facility is invoked), then you may convey a copy of the modified version:
+
+
+
+a) under this License, provided that you make a good faith effort to ensure that, in the event an Application does not supply the function or data, the facility still operates, and performs whatever part of its purpose remains meaningful, or
+
+
+b) under the GNU GPL, with none of the additional permissions of this License applicable to that copy.
+
+
+
+3.
+Object Code Incorporating Material from Library Header Files.
+
+
+The object code form of an Application may incorporate material from a header file that is part of the Library.
+You may convey such object code under terms of your choice, provided that, if the incorporated material is not limited to numerical parameters, data structure layouts and accessors, or small macros, inline functions and templates (ten or fewer lines in length), you do both of the following:
+
+
+
+a) Give prominent notice with each copy of the object code that the Library is used in it and that the Library and its use are covered by this License.
+
+
+b) Accompany the object code with a copy of the GNU GPL and this license document.
+
+
+
+4.
+Combined Works.
+
+
+You may convey a Combined Work under terms of your choice that, taken together, effectively do not restrict modification of the portions of the Library contained in the Combined Work and reverse engineering for debugging such modifications, if you also do each of the following:
+
+
+
+a) Give prominent notice with each copy of the Combined Work that the Library is used in it and that the Library and its use are covered by this License.
+
+
+b) Accompany the Combined Work with a copy of the GNU GPL and this license document.
+
+
+c) For a Combined Work that displays copyright notices during execution, include the copyright notice for the Library among these notices, as well as a reference directing the user to the copies of the GNU GPL and this license document.
+
+
+d) Do one of the following:
+
+
+
+0) Convey the Minimal Corresponding Source under the terms of this License, and the Corresponding Application Code in a form suitable for, and under terms that permit, the user to recombine or relink the Application with a modified version of the Linked Version to produce a modified Combined Work, in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.
+
+
+1) Use a suitable shared library mechanism for linking with the Library.
+A suitable mechanism is one that (a) uses at run time a copy of the Library already present on the user's computer system, and (b) will operate properly with a modified version of the Library that is interface-compatible with the Linked Version.
+
+
+
+e) Provide Installation Information, but only if you would otherwise be required to provide such information under section 6 of the GNU GPL, and only to the extent that such information is necessary to install and execute a modified version of the Combined Work produced by recombining or relinking the Application with a modified version of the Linked Version.
+(If you use option 4d0, the Installation Information must accompany the Minimal Corresponding Source and Corresponding Application Code.
+If you use option 4d1, you must provide the Installation Information in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.)
+
+
+
+5.
+Combined Libraries.
+
+
+You may place library facilities that are a work based on the Library side by side in a single library together with other library facilities that are not Applications and are not covered by this License, and convey such a combined library under terms of your choice, if you do both of the following:
+
+
+
+a) Accompany the combined library with a copy of the same work based on the Library, uncombined with any other library facilities, conveyed under the terms of this License.
+
+
+b) Give prominent notice with the combined library that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
+
+
+
+6.
+Revised Versions of the GNU Lesser General Public License.
+
+
+The Free Software Foundation may publish revised and/or new versions of the GNU Lesser General Public License from time to time.
+Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+
+
+Each version is given a distinguishing version number.
+If the Library as you received it specifies that a certain numbered version of the GNU Lesser General Public License "or any later version" applies to it, you have the option of following the terms and conditions either of that published version or of any later version published by the Free Software Foundation.
+If the Library as you received it does not specify a version number of the GNU Lesser General Public License, you may choose any version of the GNU Lesser General Public License ever published by the Free Software Foundation.
+
+
+If the Library as you received it specifies that a proxy can decide whether future versions of the GNU Lesser General Public License shall apply, that proxy's public statement of acceptance of any version is permanent authorization for you to choose that version for the Library.
+
+
+
+This product utilizes the XML-RPC remote procedure calling specification and protocol
+
+
+
+
+XML-RPC
+
+
+Copyright (c) 1998-2003 UserLand Software.
+All Rights Reserved
+http://www.xmlrpc.com
+
+
+License
+
+This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and these paragraphs are included on all such copies and derivative works.
+
+
+This document may not be modified in any way, such as by removing the copyright notice or references to UserLand or other organizations.
+Further, while these copyright restrictions apply to the written XML-RPC specification, no claim of ownership is made by UserLand to the protocol it describes.
+Any party may, for commercial or non-commercial purposes, implement this protocol without royalty or license fee to UserLand.
+The limited permissions granted herein are perpetual and will not be revoked by UserLand or its successors or assigns.
+
+
+This document and the information contained herein is provided on an "AS IS" basis and USERLAND DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+
+
+This product uses the following map source under the terms of theOpen Game Source License (OGSL).
+
+
+
+
+bubctf1-src.map
+
+
+bubctf1-src.map by ButterB was used in the creation of 'Skyward', released under the ..::LvL Open Game Source License.
+
+
+About the ..::LvL Open Game Source License 
+
+The ..::LvL Open Game Source License (OGSL) has been set-up to encourage creators of game add-ons and content to release their source files publicly for use and modification.
+OGSL requires the creators of new content to recognise the original Author(s) work while giving the creator full freedom.
+
+For more information about OGSL, including a blank template visit:
+http://lvl.sourceforge.net/lvl-ogsl.php
+
+
+
+This product uses the following map source under the terms of theCreative Commons Attribution 3.0 Unported License.
+
+
+
+
+Fuse
+
+
+"Fuse" © 2013 Ferdinand List, used under a Creative Commons Attribution 3.0 Unported License:
+http://creativecommons.org/licenses/by/3.0/deed.en_US
+
+
+QUAKE LIVE incorporates certain software under license from Awesomium Technologies LLC (“Awesomium”).
+Your use of such Awesomium software is subject to the following Awesomium End User License Agreement:
+
+AWESOMIUM END USER LICENSE AGREEMENT This End User License Agreement ("EULA"), effective today, is made by and between you and Awesomium Technologies LLC, having an address at 15822 Jamie Lee Drive, Houston, Texas 77095 (“
+Awesomium Technologies
+”), and concerns certain software known as “
+Awesomium.
+” The Awesomium software includes a library that makes it easy for developers to embed the World Wide Web in their applications.
+The Awesomium software provides developers the ability to embed and manipulate an instance of a web page and render it to an arbitrary pixel buffer.
+
+
+License Grant.
+ A limited, non-exclusive, nontransferable, and revocable license is granted to you to install, access, and use the Awesomium software solely in conjunction with and through third-party software separately licensed to you (the 
+“Licensed Product”
+) and subject to the terms and conditions of the third-party's license with Awesomium Technologies.
+By using the Awesomium software (through the Licensed Product), you accept the terms and conditions herein.
+You may print and save a copy of this EULA for your records.
+
+
+Permitted Use and Restrictions.
+ You agree to use and access the Awesomium Software solely in conjunction with and through the Licensed Product separately licensed to you.
+You agree not to reverse engineer, decompile, disassemble, modify, translate, make any attempt to discover the source code of the Awesomium software, or modify, or otherwise create derivative works of, the Awesomium software.
+
+
+Ownership of Intellectual Property.
+ You acknowledge that Awesomium Technologies owns and shall continue to own all intellectual property rights in the Awesomium software, including any documentation.
+You agree to use reasonable best efforts to protect the contents of the Awesomium software and to prevent unauthorized copying, disclosure, or use by your agents, officers, employees, and consultants.
+
+
+Copyright Notice.
+ Awesomium © 2012 Awesomium Technologies LLC.
+All rights reserved.
+Awesomium is a trademark of Awesomium Technologies LLC.
+
+
+Disclaimer of Warranties, “AS IS”.
+ THE AWESOMIUM SOFTWARE, INCLUDING, WITHOUT LIMITATION, ALL SOFTWARE, DOCUMENTS, FUNCTIONS, MATERIALS, AND INFORMATION, IS PROVIDED “AS IS.” TO THE FULLEST EXTENT PERMISSIBLY BY LAW, AWESOMIUM TECHNOLOGIES MAKES NO OTHER REPRESENTATIONS, EXTENDS NO OTHER WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT (INCLUDING ANY OPEN SOURCE VIOLATIONS), AND ASSUMES NO LIABILITY TO YOU OR ANY OTHER PERSON FOR OR ON ACCOUNT OF ANY INJURY, LOSS OR DAMAGE, OF ANY KIND OR NATURE, SUSTAINED BY, OR ANY DAMAGE ASSESSED OR ASSERTED AGAINST, OR ANY OTHER LIABILITY INCURRED BY OR IMPOSED ON YOU OR ANY OTHER PERSON (INCLUDING DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES.
+LOSS OF USE, DATA, OR PROFITS.
+OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)), ARISING OUT OF OR IN CONNECTION WITH OR RESULTING FROM THE USE OF THE AWESOMIUM SOFTWARE OR THIS EULA, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Exclusive Remedy.
+Limitation of Liability.
+ For any breach of warranty, your exclusive remedy shall be to return the Awesomium software to Awesomium Technologies.
+Under this EULA, Awesomium Technologies's maximum liability is further limited to twenty-five US Dollars (USD$25.00).
+
+
+Termination.
+ This EULA is effective until terminated.
+Your rights under this EULA will terminate automatically without notice from Awesomium Technologies if you fail to comply with any term(s) of this EULA.
+You may terminate this EULA by giving written notice of termination to the Awesomium Technologies.
+Upon termination of this EULA, you shall immediately discontinue all use of the Awesomium Software and destroy the original and all copies, full or partial, including any associated documentation.
+
+
+Export Controls.
+ The Awesomium software, including any downloading or use of, may be subject to export controls imposed by U.S.
+export control laws, including the U.S.
+Export Administration Act and its associated regulations, and may be subject to export or import regulations in other countries.
+You agree to comply strictly with all such regulations and acknowledge that you have the responsibility to obtain licenses to export, re-export, or import the Awesomium software.
+
+
+Governing Law and General Provisions.
+ This EULA shall be governed by the laws of the State of Texas, excluding the application of its conflicts of law rules.
+You agree that any dispute regarding or relating to this EULA shall be litigated only in federal or state courts in Harris County, Texas, and hereby waive any objection to the jurisdiction of such courts.
+This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded.
+If any provisions of this EULA are held invalid or unenforceable for any reason, the remaining provisions shall remain in full force and effect.
+This EULA is binding upon your successors and assigns.
+This EULA may be modified only by a non-electronic amendment, signed by each party.
+This EULA may not be assigned or transferred to any other person or entity by you without the express consent of Awesomium Technologies.
+This EULA constitutes the entire agreement between the parties with respect to the use of the Awesomium software licensed hereunder and supersedes all other previous or contemporaneous agreements or understandings between the parties, whether verbal or written, concerning the subject matter.
+
+The Awesomium software includes portions of software code that is licensed under the following licenses, permissions, and notices:
+
+
+
+Chromium BSD License Terms and Conditions.
+
+
+Copyright © 2012, The Chromium Authors.
+All rights reserved.Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+	Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+	Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+	Neither the name of the Google Inc.
+nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES.
+LOSS OF USE, DATA, OR PROFITS.
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Chromium includes a variety of additional third party software.
+Awesomium does not modify any of those component software items, and only uses them in the manner that they are provided by Google.
+Chromium uses the following components which are licensed under MPL.
+The source to these components is not modified by Awesomium.
+
+	NPAPI
+	NSPR
+	NSS
+
+The original source for the above components can be found here:
+https://developer.mozilla.org/en/Download_Mozilla_Source_Code
+
+
+ICU License - ICU 1.8.1 and later.
+
+
+COPYRIGHT AND PERMISSION NOTICE
+Copyright (c) 1995-2009 International Business Machines Corporation and others.
+All rights reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, provided that the above copyright notice(s) and this permission notice appear in all copies of the Software and that both the above copyright notice(s) and this permission notice appear in supporting documentation.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
+
+
+HarfBuzz (MIT) License
+
+
+Copyright (C) 2008 Nokia Corporation and/or its subsidiary(-ies)
+Copyright (C) 2007 Red Hat, Inc.
+Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute this software and its documentation for any purpose, provided that the above copyright notice and the following two paragraphs appear in all copies of this software.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF THE COPYRIGHT HOLDER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+THE COPYRIGHT HOLDER SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+THE SOFTWARE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE COPYRIGHT HOLDER HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+
+
+Mozilla Public License.
+
+
+Copyright (C) 1994-2002 Netscape Communications Corporation.
+All Rights Reserved.
+The contents of this file are subject to the Mozilla Public License Version 1.1 (the "License").
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at 
+http://www.mozilla.org/MPL/
+Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied.
+See the License for the specific language governing rights and limitations under the License.
+
+
+The Independent JPEG Group's Software.
+
+
+The authors make NO WARRANTY or representation, either express or implied, with respect to this software, its quality, accuracy, merchantability, or fitness for a particular purpose.
+This software is provided "AS IS", and you, its user, assume the entire risk as to its quality and accuracy.
+This software is copyright (C) 1991-1998, Thomas G.
+Lane.
+All Rights Reserved except as specified below.
+Permission is hereby granted to use, copy, modify, and distribute this software (or portions thereof) for any purpose, without fee, subject to these conditions:
+(1) If any part of the source code for this software is distributed, then this README file must be included, with this copyright and no-warranty notice unaltered.
+and any additions, deletions, or changes to the original files must be clearly indicated in accompanying documentation.
+(2) If only executable code is distributed, then the accompanying documentation must state that "this software is based in part on the work of the Independent JPEG Group".
+(3) Permission for use of this software is granted only if the user accepts full responsibility for any undesirable consequences.
+the authors accept NO LIABILITY for damages of any kind.
+These conditions apply to any software derived from or based on the IJG code, not just to the unmodified library.
+If you use our work, you ought to acknowledge us.
+Permission is NOT granted for the use of any IJG author's name or company name in advertising or publicity relating to this software or products derived from it.
+This software may be referred to only as "the Independent JPEG Group's software".
+We specifically permit and encourage the use of this software as the basis of commercial products, provided that all warranty or liability claims are assumed by the product vendor.
+We are required to state that "The Graphics Interchange Format(c) is the Copyright property of CompuServe Incorporated.
+GIF(sm) is a Service Mark property of CompuServe Incorporated."
+
+
+The libpng License.
+
+
+Copyright (c) 2000-2002 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.0.6 with the following individuals added to the list of Contributing Authors Simon-Pierre Cadieux Eric S.
+Raymond Gilles Vollant
+and with the following additions to the disclaimer:
+There is no warranty against interference with your enjoyment of the library or against infringement.
+There is no warranty that our efforts or the library will fulfill any of your particular purposes or needs.
+This library is provided with all faults, and the entire risk of satisfactory quality, performance, accuracy, and effort is with the user.
+libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are
+Copyright (c) 1998, 1999 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-0.96, with the following individuals added to the list of Contributing Authors: Tom Lane Glenn Randers-Pehrson Willem van Schaik
+libpng versions 0.89, June 1996, through 0.96, May 1997, are
+Copyright (c) 1996, 1997 Andreas Dilger
+Distributed according to the same disclaimer and license as libpng-0.88, with the following individuals added to the list of Contributing Authors: John Bowler Kevin Bracey Sam Bushell Magnus Holmgren Greg Roelofs Tom Tanner
+libpng versions 0.5, May 1995, through 0.88, January 1996, are
+Copyright (c) 1995, 1996 Guy Eric Schalnat, Group 42, Inc.
+For the purposes of this copyright and license, "Contributing Authors" is defined as the following set of individuals: Andreas Dilger Dave Martindale Guy Eric Schalnat Paul Schmidt Tim Wegner
+The PNG Reference Library is supplied "AS IS".
+The Contributing Authors and Group 42, Inc.
+disclaim all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose.
+The Contributing Authors and Group 42, Inc.
+assume no liability for direct, indirect, incidental, special, exemplary, or consequential damages, which may result from the use of the PNG Reference Library, even if advised of the possibility of such damage.
+Permission is hereby granted to use, copy, modify, and distribute this source code, or portions hereof, for any purpose, without fee, subject to the following restrictions:
+1.
+The origin of this source code must not be misrepresented.
+2.
+Altered versions must be plainly marked as such and must not be misrepresented as being the original source.
+3.
+This Copyright notice may not be removed or altered from any source or altered source distribution.
+The Contributing Authors and Group 42, Inc.
+specifically permit, without fee, and encourage the use of this source code as a component to supporting the PNG file format in commercial products.
+If you use this source code in a product, acknowledgment is not required but would be appreciated.
+A "png_get_copyright" function is available, for convenient use in "about" boxes and the like:
+ printf("%s",png_get_copyright(NULL));
+Also, the PNG logo (in PNG format, of course) is supplied in the files "pngbar.png" and "pngbar.jpg (88x31) and "pngnow.png" (98x31).
+Libpng is OSI Certified Open Source Software.
+OSI Certified Open Source is a certification mark of the Open Source Initiative.
+Glenn Randers-Pehrson
+glennrp at users.sourceforge.net
+September 10, 2009
+
+
+The Apache 2.0 License.
+
+
+Copyright (C) 2008-2011 Google Inc.
+Copyright (C) 2012 The v8-i18n Authors
+Copyright (C) 2008-2011 WebDriver committers
+Copyright (C) 2010 The Android Open Source Project
+Apache License, Version 2.0
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+Licensed under the Apache License, Version 2.0 (the "License").
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and limitations under the License.
+
+
+The zlib/libpng License.
+
+
+This software is provided 'as-is', without any express or implied warranty.
+In no event will the authors be held liable for any damages arising from the use of this software.
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+1.
+The origin of this software must not be misrepresented.
+you must not claim that you wrote the original software.
+If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
+2.
+Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+3.
+This notice may not be removed or altered from any source distribution.
+
+
+
+The LibXML License.
+
+
+Copyright © 1998-2003 Daniel Veillard.
+All Rights Reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
+    
+
+ID SOFTWARE LLC
+
+
+QUAKE LIVE® TERMS OF USE POLICY
+
+  
+  
+
+PLEASE READ THIS TERMS OF USE POLICY CAREFULLY.  WHEN YOU USE QUAKE LIVE, ANY RELATED SOFTWARE, SERVICE OR WEBSITE FROM ID SOFTWARE YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS.
+
+  
+
+
+General
+
+
+  
+ Thank you for visiting this website (“Website”).  This Website is owned by Id Software LLC ("Id Software”).  This Terms of Use Policy ("POLICY") governs your use of this Website and QUAKE LIVE and any related services (each, a “Service”).  QUAKE LIVE and this Website and all intellectual and other rights thereto are owned by Id Software and are made available by agreement with SoftLayer Technologies, Inc.
+(“SoftLayer”), the provider of the networks (“Networks”) for the Services.  With the exception of applications commonly known as Web Browser software, or other applications formally approved by  Id Software in writing, you agree not to use any software, program, application or any other device to access or log on to Id Software's computer systems, Website or proprietary software or to automate the process of obtaining, downloading, transferring or transmitting any content, information or quotes to or from Id Software's computer systems, Website or proprietary software. Id Software is not responsible for, and makes no warranties regarding, the access, speed or availability of the Internet in general or the Website in particular.   You agree that you will not: (a) use any robot, spider, other automatic device or manual process to monitor or copy our web pages or the content contained herein without Id Software’s prior written permission.
+(b) use any device, software or routine to interfere or attempt to interfere with the proper working of the Website or any transaction being conducted on either.
+(c) take any action that imposes an unreasonable or disproportionately large load on Id Software’s infrastructure.
+or (d) reverse engineer, reverse assemble or otherwise attempt to discover any source code.
+ You agree that you will not copy, reproduce, alter, modify, create derivative works, or publicly display any content from the Website without Id Software’s prior written permission.  You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Id Software without the prior written consent of id Software.
+  
+ Membership in the Service is void where prohibited.
+This Website is intended solely for users who are thirteen (13) years of age or older.  Any registration by, use of or access to this Website by anyone under 13, is unauthorized, unlicensed and in violation of this POLICY.
+By using the Service or this Website, you represent and warrant that you are 13 or older, and that you agree to abide by all of the terms and conditions of this POLICY.  If you are a minor (under the age of 18), your parent(s) or guardian(s) must complete the registration process, in which case he/she/they will take full responsibility for all obligations under this POLICY, the Privacy Policy located on another page of this Website and all applicable end user or similar license agreements applicable to the Website, Services and any related software. 
+  
+
+
+Revisions to this POLICY
+
+
+  
+ We reserve the right to make changes to this POLICY.
+If we make a material change to this POLICY, we will notify you by posting the change on the Website or in this POLICY and, if necessary, give you additional choices regarding such change.
+Please check back from time to time to ensure that you are aware of these changes.
+Your continued use of the Website and/or any Services will signify your acceptance of these changes.
+  
+
+
+Your Log in Account
+
+
+  
+ In order to play QUAKE LIVE you must establish a log in account (“Your Account”) with Id Software at another page on this Website.
+You agree that it is your sole responsibility to maintain the security of any password you may be assigned to access Your Account.  You agree to provide only accurate information in setting up Your Account.  Information you provide in setting up Your Account may be collected, stored, and used as provided in the Privacy Policy located on another page of this Website.  You should review the Privacy Policy here:  http://www.quakelive.com/#legals/privacy_policy. 
+  
+ BY CLICKING THE “I ACCEPT” AND “CONFIRMED” BUTTONS, YOU REPRESENT THAT YOU ARE AN ADULT AND ARE EITHER ACCEPTING THIS AGREEMENT ON BEHALF OF YOURSELF OR ON BEHALF OF YOUR CHILD, IN WHICH CASE YOU REPRESENT THAT YOU PERSONALLY WILL BE BOUND BY ALL THE TERMS AND CONDITIONS OF THIS POLICY, the Privacy Policy located on another page of this Website and all applicable end user or similar license agreements applicable to the Website, Services and any related software.
+  
+
+
+Paid Services
+
+
+  
+ Some Services may be offered by Id Software for free while others require payment of a fee.  You must pay the applicable subscription or other fees to participate in paid Services.  For information about subscription and other fees for particular Services, visit www.quakelive.com.
+  
+
+FEES ARE PAYABLE IN ADVANCE AND ARE NOT REFUNDABLE IN WHOLE OR IN PART.
+
+  
+ When you provide credit card information to Id Software or its payment processing agent, you represent to Id Software that you are the authorized user of the credit card that is used to pay for subscription or other fees and authorize Id Software to charge your credit card for any subscription or other fees incurred by you.  For annual subscriptions or other fees, you agree and reaffirm that, until such authorization is timely cancelled or revoked, Id Software is authorized to charge your credit card for the subscription, subscription renewal or other fee. 
+  
+ Id Software reserves the right to change fees or billing methods at any time, including charging a fee for Services previously offered free of charge.  For an annual subscription for a Service, Id Software will provide you with notice of any changes to the fees or billing methods at least twenty (20) days in advance by posting such changes on the Website.  You are responsible for reviewing the Website to obtain timely notice of such changes.  Your continued use of the Website and/or any Service twenty (20) days or more after posting of the changes means that you accept such changes.  If any change is unacceptable to you, you may cancel your subscription at any time, but Id Software will not refund you any fees that may have accrued to Your Account before cancellation of your subscription, and Id Software will not prorate fees for any subscription.  In addition, you may lose some or all access to certain features, data, or information associated with the paid Services.  If your use of Services is subject to use, sales or other taxes, then Id Software may also charge you for any such taxes, in addition to the subscription or other fees.  For further information, visit www.quakelive.com.
+  
+ A.     Payment Options.  You may pay fees using the methods available for the particular Service and you agree to the terms and conditions applicable to each payment method you choose.  Payment methods may vary.  When you provide credit card or other payment information to Id Software or its payment processing agent, you represent to Id Software that you are the authorized user of the credit card or other payment method.  By agreeing to this POLICY, you have agreed to permit Id Software to automatically renew your subscription to the applicable Service by charging a valid credit card number, which you have provided to Id Software or its payment processing agent.  Your subscription will be automatically renewed thirty (30) days prior to the expiration of the term and each anniversary thereafter at then then-current price, excluding any promotional and discount pricing, unless you cancel your subscription.  At the time of payment, you must provide current, complete, and accurate information (such as a change in billing address, credit card number, or credit card expiration date).  In the absence of a cancellation, you authorize Id Software, or any other company that acts as a billing agent for Id Software, to automatically continue charging that card unless you cancel your subscription at least thirty (30) days prior to the expiration of the subscription and/or to continue to attempt to charge all sums described herein to your credit card account until such amounts are paid in full.  Id Software and its payment processing agent reserves the right to utilize third party credit card updating services to obtain current expiration dates on credit cards provided by you to Id Software or its payment processing agent.  Customers who use a payment method other than credit card may incur an additional payment processing fee, and may not be able to automatically renew subscriptions.
+  
+ B.     Trial Subscriptions. Id Software, in its sole discretion, may choose to offer a free trial subscription to Services that are normally offered for a fee.  You are always responsible for any Internet service provider, telephone, wireless and other connection fees that you may incur when using the Services, even if we offer a free trial subscription. 
+  
+ C.     Fees Charged by Third-Party Sites and Vendors.  Id Software may provide links to other web sites in advertising panels.  Some of these web sites may charge separate fees, which are not included in any subscription or other fees that you may pay to Id Software.  Any separate charges or obligations that you incur in your dealings with third parties are your responsibility.
+  
+  
+
+
+Compliance with All Laws
+
+
+  
+ Id Software’s games, the Services, Your Account, and this Website may not be used in connection with criminal or civil violations of local, state, federal, or international laws, treaties, regulations, or other governmental requirements.  Such violations include, but are not limited to, theft or infringement of copyrights, trademarks or trade secrets, fraud, forgery, theft or misappropriation of funds, libel and defamation.  Id Software may involve, and will cooperate with, law enforcement if criminal activity is suspected.
+  
+ By downloading Software (defined below), you warrant that you are not located in any country, or exporting the Software to any person or place, to which the United States, the European Union, or any other jurisdiction has embargoed goods.  You agree to abide by U.S.
+and other applicable export control laws and not to transfer, by electronic transmission or otherwise, any content or Software subject to restrictions under such laws to a national destination prohibited by such laws, without first obtaining, and then complying with, any requisite government authorization.
+You further agree not to upload to the Website or Services any data or software that cannot be exported without prior written government authorization, including, but not limited to, certain types of encryption software.
+  
+
+
+Termination of Services and Your Account
+
+
+  
+ Id Software may terminate any Service at any time by giving you notice of such termination within the time period specified when you joined the particular Service, or if no time period for notice of termination was specified, then within thirty (30) days of the date such notice is posted on the applicable Service.
+  
+ Id Software also reserves the right to terminate without notice Your Account for any reason, such as your violation of this POLICY or for no reason in Id Software’s sole discretion.  Id Software's failure to enforce this POLICY, for whatever reason, shall not be construed as waiver of our right to do so at any time in the future. 
+  
+ You have the right to cancel Your Account or a particular subscription to a Service at any time.  If you do not agree to the terms in this POLICY, your sole remedy is to not use the Services and to cancel your Account or applicable subscriptions.  You understand and agree that the cancellation of Your Account or a particular subscription is your sole right and remedy with respect to any dispute with Id Software, including but not limited to, any dispute related to or arising out of (1) any term of this POLICY or Id Software’s enforcement or application of this POLICY.
+(2) the content available through the Services or any change in content provided through the Services, (3) your ability to access and/or use the Services.
+or (4) the amount or type of fees, surcharges, applicable taxes, billing methods, or any change to the fees, applicable taxes, surcharges or billing methods for the Services.
+  
+ If Your Account, or a particular subscription for a Service associated with Your Account, is terminated, no refund will be granted.
+no online time or other credits will be credited to you or converted to cash or other form of reimbursement, and you will have no further access to Your Account or entitlements associated with Your Account or the particular Service.
+
+
+User Conduct
+
+
+ You understand that except for advertising programs offered by us on the Website or within the Services, the Services and the Website are available for your personal, non-commercial use only.
+You represent, warrant and agree that no materials of any kind submitted through Your Account or otherwise posted, transmitted, or shared by you on or through the Website or the Services will violate or infringe upon the rights of any third party, including copyright, trademark, privacy, publicity or other personal or proprietary rights.
+or contain libelous, defamatory or otherwise unlawful material.
+ In addition, you agree not to use the Services or the Website to:
+ o   register for more than two (2) user accounts, register for a user account on behalf of an individual other than yourself, or register for a user account on behalf of any group or entity;
+ o   harvest or collect email addresses, passwords, or other contact information of other users from the Services or the Website by electronic or other means for the purposes of sending unsolicited emails or other unsolicited communications;
+ o   use the Services or the Website in any unlawful manner or in any other manner that could damage, disable, overburden or impair the Website;
+ o   use automated scripts to collect information from or otherwise interact with the Services or the Website;
+ o   upload, post, transmit, share, store or otherwise make available any content that we deem to be harmful, threatening, unlawful, defamatory, infringing, abusive, inflammatory, harassing, vulgar, obscene, fraudulent, invasive of privacy or publicity rights, hateful, or racially, ethnically or otherwise objectionable;
+ o   impersonate any person or entity, or falsely state or otherwise misrepresent yourself, your age or your affiliation with any person or entity;
+ o   upload, post, transmit, share or otherwise make available any unsolicited or unauthorized advertising, solicitations, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation;
+ o   upload, post, transmit, share, store or otherwise make publicly available on the Website any private information of any third party, including, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;
+ o   transmit or facilitate distribution of content that is harmful, abusive, racially or ethnically offensive, vulgar, sexually explicit, defamatory, infringing, invasive of personal privacy or publicity rights, or in a reasonable person's view, objectionable.
+Hate speech is not tolerated.
+ o   solicit personal information from anyone under 18 or solicit passwords or personally identifying information for commercial or unlawful purposes;
+ o   disrupt the flow of chat in chat rooms or in game with vulgar language, abusiveness, hitting the return key repeatedly or inputting large images so the screen goes by too fast to read, use of excessive shouting (i.e., all caps) in an attempt to disturb other users, “spamming” or flooding (i.e., posting repetitive text).
+ o   impersonate another person, indicate falsely that you are an Id Software employee or a representative of Id Software, or attempt to mislead users by indicating that you represent Id Software or any of Id Software's partners or affiliates;
+ o   attempt to get a password, account information, or other private information from anyone else on the Services or Website;
+ o   upload, post, transmit, share or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
+ o   harass, threaten, or do anything else to another player that is unwanted, such as repeatedly sending unwanted chat messages or making personal attacks or statements about race, sexual orientation, religion, heritage, etc;
+ o   upload, post, transmit, share, store or otherwise make available content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law;
+ o   promote or encourage any illegal activity including hacking, cracking or distribution of counterfeit software;
+ o   use and communicate exploits to gain unfair advantage in a game;
+ o   use or attempt to use another's account, service or system without authorization from Id Software, or create a false identity on the Services or the Website;
+ o   upload, post, transmit, share, store or otherwise make available content that, in the sole judgment of Id Software, is objectionable or which restricts or inhibits any other person from using or enjoying the Services or Website, or which may expose Id Software or its users to any harm or liability of any type;
+ o   attempt to use Id Software software games on or through any service that is not controlled or authorized by Id Software.
+and.
+ o   interfere with the ability of others to enjoy playing an Id Software software game or take actions that interfere with or materially increase the cost to provide any Service for the enjoyment of all its users.
+  
+
+
+Illegal Use
+
+
+  
+ The transmission, distribution, or storage of any data or material and any use of the Website or Services in violation of any applicable law, rule or regulation is prohibited.
+This includes, but is not limited to, material or data or Website or Service usage which:
+  
+ o   infringes or otherwise violates any copyright, trademark, trade secret, or other intellectual property right;
+ o   violates import or export control laws or regulations;
+ o   violates any third party's confidentiality, privacy, publicity, or other rights; 
+ o   constitutes use or dissemination of child pornography.
+or
+
+ is otherwise illegal or unlawful.
+
+
+
+Abuse
+
+
+ The following general actions are considered "abuse" and are strictly prohibited:
+
+ using SoftLayer Networks or this Website to transmit material that SoftLayer or Id Software believe to be obscene or illegal;
+ forging message headers or identity information, or taking any action with the intent of bypassing restrictions or limits on access to a Service or Website.
+This prohibition does not restrict the legitimate non-commercial use of pseudonymous or anonymous services.
+and
+ falsifying identity or contact information.
+
+  
+
+
+Reporting Obligations       
+
+
+ You are responsible for making reasonable attempts to immediately report to Id Software or SoftLayer any known or suspected issue which could compromise the stability, service or security of any user or system connected to the Networks.
+  
+
+
+Software, Utilities and Tools 
+
+
+ The Services may require or allow you to download software, software updates or patches, or other utilities and tools from Id Software or its licensors onto your computer (the "Software").
+Id Software grants to you a non-exclusive, limited license to use the Software solely for the purpose stated by Id Software at the time the Software is made available to you.  If an end user or similar license agreement is provided with the Software, your use of the Software is subject to the terms of that license agreement.
+You may not sub-license, or charge others to use or access the Software.
+You may not translate, reverse-engineer, reverse-compile or decompile, disassemble or make derivative works from the Software.
+You may not modify the Software or use it in any way not expressly authorized in writing by Id Software.
+You understand that Id Software’s introduction of various technologies may not be consistent across all platforms and that the performance of the Software and related Id Software services may vary depending on your computer and other equipment.
+ From time to time, Id Software may provide you with updates or modifications to the Software.  You understand that certain updates and modifications may be required in order to continue use the Software and/or the Service or other Id Software services.
+  
+
+
+Security
+
+
+ You must configure your system in a secure manner.
+Should your system be exploited by unauthorized persons, you are responsible for both reporting the violation (where applicable), and fixing the exploited system.
+For instance, should the security of a mail server be compromised to distribute unsolicited emails, you are responsible for immediately re-configuring the system to prevent further unauthorized use.  You are prohibited from interfering or attempting to interfere with services (also referred to as Denial of Service Attacks), whether intentionally or through neglect, of any other user, host, or network.
+The prevention of "unintentional attacks", such as infection and subsequent propagation of computer viruses, is your responsibility.  Anti-virus software should be installed on every system which connects to SoftLayer Networks.
+You are prohibited from injecting, intentionally or negligently, false or unauthorized network control data into SoftLayer Networks, such as, but not limited to, in the form of incorrect routing or DNS information.
+  
+
+
+Communications, Forums
+
+
+ In addition to the User Conduct described above, you are strictly prohibited from engaging, whether intentionally or through neglect, in any of the following activities, for which may result in termination of Your Account:
+  
+ o   sending unsolicited mass or commercial messages (also referred to as "spamming") for any purpose whatsoever;
+ o   you may not send numerous copies of the same or substantially similar message, nor may you send very large messages or files to a recipient with the intent to disrupt a server or account, commonly known as "mail bombing;"
+ o   you may not use email to harass or intimidate others.  Harassment, whether through language, frequency of messages, or size of messages, is prohibited.  Sending unwelcome messages is considered harassment.  If a recipient asks to stop receiving email, you must not send that person any further messages;
+ o   you may not forward or otherwise propagate chain letters, whether or not such messages solicit money or other items of value, and whether or not the recipient wishes to receive such mailings;
+ o   you may not use Provider's services to distribute "spyware," viruses, worms, "Trojan Horses," or similar programs;
+ o   making any posting for commercial purposes (including without limitation the pointing to specific URLs for commercial purposes),
+ o   altering or faking e-mail header information to misdirect or otherwise "spoof" another party for the purpose of evading detection or any other purposes.
+and
+ o   configuring or tampering with communication methods in such a way that it will accept third party correspondence.
+  
+ In the absence of positive, verifiable proof to the contrary, and after you have 72 hours to provide such proof in writing, SoftLayer and Id Software consider complaints by recipients of e-mails to be de-facto proof that the recipient did not subscribe or otherwise request the correspondence about which a complaint was generated.
+
+
+User Disputes
+
+
+ You are solely responsible for your interactions with other Website and Service users.
+Id Software reserves the right, but has no obligation, to monitor disputes between you and other users.
+
+
+Third Party Websites and Content
+
+
+ The Website contains (or you may be sent through the Website or the Service) links to other web Websites, including advertiser websites, ("Third Party Websites") as well as articles, photographs, text, graphics, pictures, designs, music, sound, video, information, applications, software and other content or items belonging to or originating from third parties (the "Third Party Applications, Software or Content").
+Such Third Party Websites and Third Party Applications, Software or Content are not investigated, monitored or checked for accuracy, appropriateness, or completeness by Id Software, and Id Software is not responsible for any Third Party Websites accessed through the Website or any Third Party Applications, Software or Content posted on, available through or installed from the Website or Services, including the content, accuracy, offensiveness, opinions, reliability, privacy practices or other policies of or contained in the Third Party Websites or the Third Party Applications, Software or Content.
+Inclusion of, linking to or permitting the use or installation of any Third Party Website or any Third Party Applications, Software or Content does not imply approval or endorsement thereof by Id Software.
+If you decide to leave the Website and access the Third Party Websites or to use or install any Third Party Applications, Software or Content, you do so at your own risk and you should be aware that Id Software’s terms and policies no longer govern.
+You should review the applicable terms and policies, including privacy and data gathering practices, of any website to which you navigate from the Website or relating to any applications you use or install from the Website.
+  
+
+
+Injunctive Relief
+
+
+ You agree that your violation of this POLICY may result in immediate and irreparable harm to Id Software for which it may not be compensated adequately by a monetary award.  In the event of your actual or threatened violation of this POLICY, you agree that Id Software shall be entitled to an injunction or other equitable relief, in addition to such other relief to which such parties may be entitled, including monetary relief, appropriately enjoining or restraining conduct in violation of this POLICY, without having to prove damages or post bond or other security.
+  
+
+
+Liability Limitation
+
+
+  
+
+ID SOFTWARE, ITS AFFILIATES AND THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, LICENSORS, AGENTS, SUCCESSORS, AND ASSIGNS SHALL NOT BE LIABLE FOR ACTUAL, SPECIAL, INDIRECT, CONSEQUENTIAL, PUNITIVE, OR ANY OTHER TYPE OF DAMAGE, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA,
+ RECORDS
+,
+OR INFORMATION, ARISING FROM OR RELATING TO THE WEBSITE, SERVICES OR YOUR ACCOUNTS, 
+DAMAGE TO ANY SYSTEMS, HARDWARE OR SOFTWARE
+, 
+LOST PROFITS, LOST SAVINGS AND THIRD PARTY CLAIMS 
+WHETHER OR NOT SUCH DAMAGES ARE FORESEEABLE, AND/OR WHETHER OR NOT ID SOFTWARE WAS ADVISED OR WARNED OF THE POSSIBILITY OF SUCH DAMAGES, AND/OR WHETHER OR NOT SUCH DAMAGES ARISE UNDER CONTRACT, TORT, STRICT PRODUCT LIABILITY, OR OTHER THEORY.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS AND/OR EXCLUSIONS OF INCIDENTAL OR CONSEQUENTIAL DAMAGES MAY NOT APPLY TO YOU.  IN SUCH JURISDICTIONS, ID SOFTWARE'S LIABILITY IS LIMITED AND EXCLUDED TO THE GREATEST EXTENT ALLOWED BY LAW.  IN NO EVENT SHALL THE ENTIRE LIABILITY OF ID SOFTWARE ARISING FROM OR IN ANY WAY RELATED TO THE WEBSITE OR SERVICES OR ANY PART THEREOF EXCEED IN THE AGGREGATE THE FEES PAID BY YOU IN RESPECT OF YOUR USE OF THE SERVICES OVER THE PRIOR THREE (3) MONTH PERIOD.
+
+  
+
+
+Disclaimer of Warranties  
+
+
+  
+
+ID SOFTWARE HEREBY DISCLAIMS, TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, ALL WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, MERCHANTABILITY,
+ CUSTOM, TRADE, QUIET ENJOYMENT, ACCURACY OF INFORMATIONAL CONTENT, OR SYSTEM INTEGRATION, OR ANY WARRANTIES ARISING UNDER ANY STATUTE, COURSE OF DEALING, OR OTHER LEGAL REQUIREMENT
+, AND ALL OTHER WARRANTIES NOT EXPRESSLY PROVIDED IN THIS PRIVACY POLICY.
+
+  
+ The Website and the Services may be temporarily unavailable from time to time for maintenance or other reasons.
+Id Software assumes no responsibility for any error, omission, interruption, deletion, defect, delay in operation or transmission, communications line failure, theft or destruction or unauthorized access to, or alteration of, user communications.
+Id Software is not responsible for any technical malfunction or other problems of any telephone network or service, computer systems, servers or providers, computer or mobile phone equipment, software, failure of email or players on account of technical problems or traffic congestion on the Internet or at any website or combination thereof, including injury or damage to user's or to any other person's computer, mobile phone, or other hardware or software, related to or resulting from using or downloading materials in connection with the Web and/or in connection with the Service, including any Software.
+Under no circumstances will Id Software be responsible for any loss or damage, including any loss or damage to any user content or personal injury or death, resulting from anyone's use of the Website or the Services, any user content or Third Party Applications, Software or Content posted on or through the Website or the Services or transmitted to users, or any interactions between users of the Website or Services, whether online or offline.
+  
+
+
+Force Majeure
+
+
+  
+
+ID SOFTWARE SHALL NOT BE LIABLE FOR ANY DAMAGES, LOSSES, OR LAWSUITS ARISING FROM OR RELATING TO ANY 
+EVENT OR OCCURRENCE BEYOND ID SOFTWARE COMMERCIALLY PRACTICABLE AND REASONABLE CONTROL, INCLUDING, BUT NOT LIMITED TO, ANY 
+ACT OF TERRORISM, WAR, ANY ACT OF GOD SUCH AS LIGHTNING, HURRICANE, TORNADO, EARTHQUAKE, AND FLOOD
+, THIRD-PARTY ACTS, 
+OR ANY OTHER EVENT OR OCCURRENCE OUTSIDE THE COMMERCIALLY PRACTICABLE AND REASONABLE CONTROL OF ID SOFTWARE.
+
+
+  
+
+
+Indemnification
+
+
+  
+
+YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD HARMLESS ID SOFTWARE, ITS AFFILIATES AND THEIR RESPECTIVE DIRECTORS, EMPLOYEES, OFFICERS, LICENSEES, AGENTS, SUCCESSORS, AND ASSIGNS FROM AND AGAINST ALL DAMAGES, LOSSES, LAWSUITS, AND CLAIMS, INCLUDING, WITHOUT LIMITATION, ATTORNEYS' FEES AND EXPENSES, ARISING FROM OR RELATING TO ANY VIOLATION OF THIS POLICY BY YOU, AT YOUR DIRECTION, OR WITH YOUR ASSISTANCE OR COOPERATION, AND/OR YOUR NEGLIGENT OR INTENTIONALLY WRONGFUL ACTS OR OMISSIONS AND/OR YOUR ACTS AND OMISSIONS TO ACT IN USING THE WEBSITE, SERVICES, AND/OR SOFTWARE IN ACCORDANCE WITH THIS POLICY AND ANY APPLICABLE EULA.  YOU AGREE THAT ID SOFTWARE HAS THE RIGHT TO CONTROL THE DEFENSE AND ANY SETTLEMENT OF ALL SUCH DAMAGES, LOSSES, LAWSUITS, AND CLAIMS AT YOUR SOLE COST AND EXPENSE.
+
+  
+
+You further agree to indemnify and hold Id Software harmless for any improper or illegal use of Your Account, including the illegal or improper use of Your Account by someone to whom you have given permission to use Your Account.
+You agree that you will be personally responsible for your use of the Website and Services and for all of your communication and activity on the Website and Services, including any content you contribute, and that you will indemnify and hold harmless Id Software, its affiliates, employees, officers, and directors from any liability or damages arising from your conduct on the Website and Services, including any content that you contribute.
+
+  
+
+
+No Endorsement
+
+
+  
+ All links to or information on this Website provided about other websites are for the express purpose of providing easy access to content that may be deemed "desirable" by you.  Id Software does not endorse or sponsor these websites.  You will need to make your own determinations about these websites.
+  
+
+
+Governing Law and Venue
+
+
+  
+ Exclusive venue for any litigation regarding this POLICY shall be in the federal and/or state courts located in Dallas County, Texas.
+provided, however, Id Software reserves the right to initiate legal action in any other jurisdiction Id Software deems appropriate in connection with enforcement of this POLICY.  The laws of the State of Texas, excluding conflicts of laws principles, shall govern the interpretation and enforcement of this POLICY.  
+  
+
+
+Entire Agreement
+
+
+  
+ This POLICY sets forth the entire agreement between you and Id Software regarding the subject matter of this POLICY.
+  
+
+
+Additional Questions
+
+
+  
+ If you have further questions or concerns about this POLICY, please email Id Software at support@quakelive.com.
+  
+ This POLICY was last updated September 8, 2011.  
+  LIMITED USE SOFTWARE LICENSE AGREEMENT FOR QUAKE LIVE
+
+This Limited Use Software License Agreement for QUAKE LIVE™ (this "Agreement") is a legal agreement between you, the end-user, and Id Software LLC ("Licensor").  This Agreement incorporates by reference the Privacy Policy and Terms of Use Policy, each posted on www.quakelive.com, as these policies and terms may be modified by Id Software from time to time.  THE GAME QUAKE LIVE™ IS REFERRED TO HEREIN AS THE “SOFTWARE”.  YOU MAY NOT ACCESS THE SOFTWARE UNTIL AFTER YOU HAVE OPENED AN ACCOUNT (“YOUR ACCOUNT”) ON THE WEB SITE ON WHICH THE SOFTWARE IS LOCATED.  BY CONTINUING THE DOWNLOAD OR INSTALLATION OF THE "SOFTWARE", BY LOADING OR RUNNING THE SOFTWARE, OR BY PLACING OR COPYING THE SOFTWARE ONTO YOUR COMPUTER HARD DRIVE, COMPUTER RAM, OR OTHER STORAGE, YOU ARE AGREEING TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT.  IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, YOU ARE NOT PERMITTED TO INSTALL, COPY OR USE THE SOFTWARE.  IN NO EVENT WILL YOU BE ENTITLED TO ANY REFUND OR SUBSCRIPTION FEES IN THE EVENT THAT YOU CHOOSE THE “I DECLINE” BUTTON DURING INITIAL INSTALLATION.  The then-current version of this Agreement can be found at www.quakelive.com.
+If you have any questions regarding these terms and conditions, please contact customer service at support@idsoftware.com
+
+1.
+Grant of License.  Subject to the terms and provisions of this Agreement and so long as you comply fully at all times with this Agreement, Licensor grants to you the non-exclusive, revocable and limited right to use the Software in object code form only by loading the Software into RAM and/or onto computer hard drive, as well as installation of the Software on a hard disk or other storage device and you may use the Software as permitted in Section 4 below.  The term "Software" includes all elements of the Software, including, without limitation, data files, screen displays, other written, electronic or on-line materials or documentation, and any all copies of such Software and its materials.  You hereby acknowledge and agree you are not receiving any ownership or proprietary right, title, or interest in or to the Software or the copyrights, trademarks, or other rights related thereto.  You agree that the Software will not be shipped, transferred, or exported into any country in violation of the United States Export Administration Act (or any other law governing such matters) by you or anyone at your direction, and that you will not utilize and will not authorize anyone to utilize, in any other manner, the Software in violation of any applicable law.  The Software shall not be downloaded or otherwise exported or re-exported into (or to a national or resident of) any country to which the United States has embargoed goods or to anyone or into any country who/that are prohibited by applicable law, from receiving such property.  In exercising your limited rights hereunder, you shall comply at all times with all applicable laws, regulations, ordinances, and statutes.  Licensor reserves all rights not granted in this Agreement, including, without limitation, all rights to Licensor's trademarks including without limitation the trademark QUAKE LIVE™ and you agree you are not receiving any right to use any Licensor trademark.
+ 
+2.
+Prohibitions.  You, whether directly or indirectly, shall not do any of the following acts:
+a.
+modify the Software;
+b.
+alter the Software;
+c.
+rent the Software;
+d.
+sell the Software;
+e.
+lease or lend the Software;
+f.
+offer the Software on a "pay-per-play" basis;
+g.
+distribute the Software, except as expressly permitted under Section 4 below;
+h.
+in any manner and through any medium whatsoever, commercially exploit the Software or use the Software for any commercial purpose;
+i.
+disassemble, reverse engineer, or decompile the Software;
+j.
+translate the Software;
+k.
+create or develop extra or add on levels for the Software, excepts as expressly permitted under Section 7 below;
+l.
+reproduce or copy the Software, except as expressly permitted under Section 4 below;
+m.
+publicly display the Software;
+n.
+prepare or develop derivative works based upon the Software;
+o.
+remove or alter any legal notices or other markings or legends, such as trademark and copyright notices, affixed on or within the Software;
+p.
+remove, alter, modify, disable, or reduce any of the anti-piracy measures or components contained in the Software.
+
+q.
+bundle or package the Software with any other software, hardware, or anything else, except as expressly permitted under Section 4 below in regard to mounting the Software on magazine covers.
+or
+r.
+except as otherwise specifically provided by the Software or this Agreement, use or install the Software (or permit others to do same) on a network or data center server, for on-line use, for television use, or on more than one computer, computer terminal, or workstation at the same time, or on or via any transmission system that permits or facilitates viewing of play by others;
+3.  Prohibition against Cheat Programs.  Any attempt by you, either directly or indirectly, to circumvent or bypass any element of the Software to gain any advantage in multiplayer play of the Software is a material breach of this Agreement.  It is a material breach of this Agreement for you, whether directly or indirectly, to create, develop, copy, reproduce, distribute, or otherwise make any use of any software program or any modification to the Software ("Cheat Program") itself that enables or allows the user thereof to obtain an advantage or otherwise exploit another Software player or user when playing the Software against other players or users on a local area network, any other network, or on the Internet.  Hacking into the executable of the Software, modification of the Software, or any other use of the Software in connection with the creation, development, or use of any such unauthorized Cheat Program is a material breach of this Agreement.  Cheat Programs include, but are not limited to, programs that allow Software players or users to see through walls or other level geometry.
+programs that allow Software players or users to change their rate of speed outside the allowable limits of the Software.
+programs that crash either and/or other Software players, users, PC clients, or network servers.
+programs that automatically target other Software players or users (commonly referred to as "aimbots") that automatically simulate Software player or user input for the purpose of gaining an advantage over other Software players or users.
+or any other program or modification that functions in a similar capacity or allows any prohibited conduct.  In the event you breach this Section or otherwise breach this Agreement, the license granted to you herein and this Agreement automatically shall terminate, without notice, and you shall have no right to play the Software against other players or make any other use of the Software.
+4.
+Permitted Distribution and Copying. Subject to the terms and conditions of this Agreement, you may  download one (1) copy of the Software per computer and, in exercising your limited rights hereunder, you shall comply at all times with all applicable laws, regulations, ordinances, and statutes.  Licensor reserves all rights not granted in this Agreement.  You shall not distribute the Software commercially unless you first enter into a separate written contract with Licensor, on terms and conditions determined in Licensor's sole discretion, and only upon your receipt of a written agreement executed by an authorized officer of Licensor.
+5.
+Intellectual Property Rights.  Licensor owns 100% of the Software including all elements thereof.  The Software and all copyrights, trademarks, and all other conceivable intellectual property rights related to the Software are owned by Licensor and are protected by United States copyright laws, international treaty provisions, and all applicable law, such as the Lanham Act.  You must treat the Software like any other copyrighted material, as required by 17 U.S.C.
+§ 101 et seq.
+and other applicable law.  You agree to use your best efforts to see that any user of the Software licensed hereunder complies with this Agreement.  You agree that you are receiving a copy of the Software by license only and not by sale and that the "first sale" doctrine of 17 U.S.C.
+§ 109 does not apply to your receipt or use of the Software.  This Section shall survive the cancellation or termination of this Agreement.
+6.  Account Termination and 
+Information Collection.
+Passwords.  For standard users, Your Account may be terminated by Licensor without notice at any time following any three (3) month period of inactivity.  When you purchase a paid subscription, a term length is specified in the subscription.  Absent notice to the contrary, paid subscriptions are active for the length of the subscription’s term.  You may have two (2) Accounts at any time, and Licensor may terminate without notice Your Account(s) in the event you open more than two (2) Account(s).  Any violation of the Terms of Use or any prohibition herein is cause for termination of an Account.  For paid subscriptions, no refund will be granted.
+no online time or other credits will be credited to you or converted to cash or other form of reimbursement, and you will have no further access to Your Account or entitlements associated with Your Account.
+In no event shall Licensor be held responsible for any damage in the event your passwords are disclosed, including but limited to any damage that occurs to Your Account, your characters or your scores.  Further, Licensor shall not be liable for any financial or emotional damage or distress you may suffer and/or for subsequent loss or damage to Your Account, characters, scores as a result of the disclosure of your passwords to a third party.  You shall not disclose your passwords to any third party or allow anyone to use your password to access Your Account, or to use the Software.  It is also prohibited to obtain, attempt to obtain, use, or attempt to use the password of anyone else.  SUCH DISCLOSURE AND/OR USE IS A BREACH OF THIS AGREEMENT.  WE NEVER ASK YOU FOR YOUR PASSWORD BY TELEPHONE OR E-MAIL, AND YOU SHOULD NOT DISCLOSE IT THIS WAY IF SOMEONE ASKS YOU TO DO SO.  
+7.
+Disclaimer of Warranties.  LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF NON INFRINGEMENT, TITLE, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO THE SOFTWARE, CUSTOM, TRADE, QUIET ENJOYMENT, ACCURACY OF INFORMATIONAL CONTENT, OR SYSTEM INTEGRATION, OR ANY WARRANTIES ARISING UNDER ANY STATUTE, COURSE OF DEALING, OR OTHER LEGAL REQUIREMENT OR OTHERWISE.  THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY.  LICENSOR DOES NOT WARRANT OR REPRESENT THAT THE SOFTWARE OR THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE OR THAT THE SOFTWARE WILL MEET YOUR SPECIFIC OR SPECIAL REQUIREMENTS.    In addition, you acknowledge that LICENSOR is not responsible for the Internet or whether it should continue to exist in its present form or whether or not a government or governmental agency, either foreign or domestic, will control, regulate or disband the Internet.  Use of the Internet is at your sole risk.
+
+
+ADDITIONAL STATEMENTS, WHETHER ORAL OR WRITTEN, DO NOT CONSTITUTE WARRANTIES BY LICENSOR AND SHOULD NOT BE RELIED UPON.  THIS SECTION SHALL SURVIVE THE CANCELLATION OR TERMINATION OF THIS AGREEMENT.
+
+8.
+Governing Law, Venue, Indemnity, and Liability Limitation.  This Agreement shall be construed in accordance with and governed by the applicable laws of the State of Texas (but excluding conflicts of laws principles) and applicable United States federal law.  Except as set forth below, exclusive venue for all litigation regarding this Agreement shall be in Dallas County, Texas USA, and you agree to submit to the jurisdiction of the federal and state courts in Dallas County, Texas, for any such litigation.  You hereby agree to indemnify, defend and hold harmless Licensor, its affiliates and their respective officers, employees, directors, agents, licensees (excluding you), sub-licensees (excluding you), successors, and assigns from and against all losses, lawsuits, damages, causes of action, and claims relating to and/or arising from:  (i) your breach of this Agreement.
+(ii) your distribution or other use of the Software.
+and/or (iii) your acts and omissions to act in using the Software pursuant to the terms of the Agreement.  You agree that your unauthorized use of the Software, or any part thereof, immediately and irreparably may damage Licensor such that Licensor could not be compensated adequately solely by a monetary award, and in such event, and at Licensor's option, Licensor shall be entitled to an injunctive order, in addition to all other available remedies, including a monetary award, to prohibit such unauthorized use without the necessity of Licensor proving damages or posting bond or other security.  LICENSOR, ITS AFFILIATES AND THEIR RESPECTIVE OFFICERS, EMPLOYEES, DIRECTORS, SHAREHOLDERS, REPRESENTATIVES, AGENTS, LICENSEES (EXCLUDING YOU), SUBLICENSEES (EXCLUDING YOU), SUCCESSORS, AND ASSIGNS SHALL NOT BE LIABLE UNDER ANY CIRCUMSTANCES FOR LOSS OF DATA OR RECORDS, DAMAGE TO ANY SYSTEMS, HARDWARE OR SOFTWARE, LOSS OF PROFITS, LOST SAVINGS, ACTUAL, SPECIAL, INCIDENTAL, CONSEQUENTIAL, INDIRECT, OR PUNITIVE DAMAGES, THIRD PARTY CLAIMS, OR ANY OTHER DAMAGES ARISING FROM ANY ALLEGED CLAIM FOR BREACH OF WARRANTY, BREACH OF CONTRACT, NEGLIGENCE, STRICT PRODUCT LIABILITY, OR OTHER LEGAL THEORY, EVEN IF LICENSOR OR ITS AGENTS HAVE BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH DAMAGES, OR EVEN IF LICENSOR OR ITS AGENTS RECEIVE NOTICE OF THE POSSIBILITY OF ANY SUCH DAMAGES, OR EVEN IF SUCH DAMAGES ARE FORESEEABLE, OR LIABLE FOR ANY CLAIM BY ANY OTHER PARTY.  Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.  This Section shall survive the cancellation or termination of this Agreement.  IN NO EVENT SHALL THE ENTIRE LIABILITY OF LICENSOR ARISING FROM OR IN ANY WAY RELATED TO THE SOFTWARE OR ANY PART THEREOF, OR THIS AGREEMENT, EXCEED IN THE AGGREGATE THE FEES PAID BY YOU IN RESPECT OF YOUR USE OF THE SERVICES OVER THE PRIOR THREE (3) MONTH PERIOD.
+
+ 
+9.
+United States Government Restricted Rights.  To the extent applicable, the United States Government shall have only those rights to use the Software as expressly stated and expressly limited and restricted in this Agreement, as provided in 48 C.F.R.
+§§ 227.7201 through 227.7204, inclusive.
+10.
+General Provisions.  Neither this Agreement nor any part or portion hereof shall be assigned or sublicensed by you.  Licensor may assign its rights under this Agreement in their sole discretion.  Should any provision of this Agreement be held to be void, invalid, unenforceable, or illegal by a court of competent jurisdiction, the validity and enforceability of the other provisions shall not be affected thereby.  If any provision is determined to be unenforceable by a court of competent jurisdiction, you agree to a modification of such provision to provide for enforcement of the provision's intent, to the extent permitted by applicable law.  Failure of Licensor to enforce any provision of this Agreement shall not constitute or be construed as a waiver of such provision or of the right to enforce such provision.  IMMEDIATELY UPON YOUR FAILURE TO COMPLY WITH THIS AGREEMENT OR YOUR BREACH OF ANY TERM OR PROVISION OF THIS AGREEMENT, THIS AGREEMENT AND THE LICENSE GRANTED TO YOU HEREIN AUTOMATICALLY SHALL TERMINATE, WITHOUT NOTICE, AND LICENSOR MAY PURSUE ALL RELIEF AND REMEDIES AGAINST YOU THAT ARE AVAILABLE UNDER APPLICABLE LAW AND/OR THIS AGREEMENT.  Immediately upon the termination of this Agreement, any and all rights you are granted hereunder shall terminate, you shall have no right to use the Software, in any manner, you shall cease any and all use of the Software, and you shall remove immediately the Software from all hard drives, networks and other storage media and destroy all copies of the Software in your possession or under your control, and all rights granted hereunder shall revert, without notice, to and be vested in Licensor.
+
+YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, YOU UNDERSTAND THIS AGREEMENT, AND YOU UNDERSTAND THAT, BY CONTINUING THE DOWNLOAD OR INSTALLATION OF THE SOFTWARE, BY LOADING OR RUNNING THE SOFTWARE, OR BY PLACING OR COPYING THE SOFTWARE ONTO YOUR COMPUTER HARD DRIVE, COMPUTER RAM, OR OTHER STORAGE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT.  YOU FURTHER AGREE THAT, EXCEPT FOR WRITTEN, SEPARATE AGREEMENTS, IF ANY, BETWEEN LICENSOR AND YOU, THIS AGREEMENT IS A COMPLETE AND EXCLUSIVE STATEMENT OF THE RIGHTS AND LIABILITIES OF THE PARTIES HERETO RELATING TO THE SUBJECT MATTER HEREOF.  THIS AGREEMENT SUPERSEDES ALL PRIOR ORAL AGREEMENTS, PROPOSALS, OR UNDERSTANDINGS, AND ANY OTHER COMMUNICATIONS, IF ANY, BETWEEN LICENSOR AND YOU RELATING TO THE SUBJECT MATTER OF THIS AGREEMENT.
+
+If you have any questions concerning this license, you may contact in writing ID SOFTWARE LLC at support@quakelive.com.
+Last Updated: November 11, 2010 
+
+  ID SOFTWARE LLC QUAKE LIVE PRIVACY POLICY
+
+
+
+Our Commitment to Privacy
+
+
+Thank you for visiting www.quakelive.com.  QUAKE LIVE (“QUAKE LIVE”) consists of both a website/service (“Website”) and game (“Game”) provided by Id Software LLC (“Id Software”).  Id Software respects your privacy and is committed to protecting your Personal Information, as defined below, you voluntarily share with us.
+
+
+
+Revisions to this Privacy Policy
+
+
+By registering for a QUAKE LIVE account, using the Website and/or any of the QUAKE LIVE products and services, you signify your assent to this Privacy Policy.
+If you do not agree to this Privacy Policy, do not use the Website.
+We reserve the right to make changes to this Privacy Policy.
+If we make a material change to this Privacy Policy, we will notify you by posting the change on the Website or in this Privacy Policy and, if necessary, give you additional choices regarding such change.
+Please check back from time to time to ensure that you are aware of these changes.
+Your continued use of the Website, or accessing Your Account (defined below) following such changes, will signify your acceptance of these changes.
+
+
+
+Definition of Personal Information
+
+
+As used in this Privacy Policy, the term “Personal Information” shall mean information that may be used to identify you as the visitor to the Website, such as a name, location, email address, and “player name.”  Where applicable, Personal Information may include your home address, birth date, credit card information, and other personal information as defined under applicable law.  We do not require this information to gain access to the Website.
+however, you may not use certain features, products or services that require registration (for example, premium services) unless such information is provided.
+
+
+Collection of Personal Information
+
+
+                        Id Software may collect Personal Information when you create a personal account (“Your Account”) with Id Software which you may set up on a different page of the Website.  You are solely responsible for maintaining the confidentiality of the password and log in information applicable to Your Account.
+Access to certain Website pages, including certain pages at www.quakelive.com, require a log in and a password and may further require the creation of a personal account, which requires the provision of your name, e-mail and/or other information.  Use of the Website, and the information or programs downloadable from the Website, may be governed by an agreement between Id Software and you as the end user of the Website.
+  By registering, you agree that Id Software may process your data in accordance with this Privacy Policy, the Terms of Use located on another page of this Website and all applicable end user or similar license agreements applicable to the Website, Id Software services and any related software.
+
+When you browse our Website you do so anonymously, unless you have previously registered with us and have logged in.
+Id Software uses third party tools to track your anonymous activity on our Website in order to collect information.
+This information may conceivably relate to Personal Information.  We also use standard technologies, such as cookies, web beacons, and other HTML tools, to collect information about your use of our Website, personalize your experience on our Website, monitor advertisements and other activities, and to record certain information.
+We make extensive use of cookies to provide a user-friendly experience.
+A cookie is a small text file containing information that a Website transfers to your computer's hard disk for record-keeping purposes.
+A cookie cannot give us access to your computer or information beyond what you provide to us.
+Most web browsers automatically accept cookies.  You should consult your browser's manual or online help if you want information on restricting or disabling the browser's handling of cookies.
+If you disable cookies, you can still browse some pages of the Website, however cookies are required to create, activate or login to a personal account on our Website.
+If you have registered with us and are logged in, we can track your activity and relate it to the user profile created when you initially register.
+
+Other technologies used include clear GIFs and Internet Protocol (“IP”) address logging.
+Clear GIFs (a.k.a.
+web bugs, beacons or tags) are small graphic images placed on a web page, web-based document, or in an e-mail message.
+Clear GIFs are invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the web page, document or e-mail message.
+We do not use clear GIFs to collect Personal Information about you.
+However, we may use clear GIFs to capture statistical usage information for our web pages, features or other elements on a web page.
+We may correlate this information to a user to personalize user experience and for statistical analysis of user experiences on the Website.
+Id Software also maintains log files which contain IP addresses.  An IP address is a numeric address that is assigned to your computer by your Internet Service Provider.  Id Software uses IP addresses and log files to identify your physical location relative to game servers and in displaying your country flag in connection with your profile within the Website.  We may also use IP addresses to monitor traffic on the Website, report information to our advertisers, and to troubleshoot technical problems.  In the event of user abuse of our Website, we may block certain IP addresses, and IP addresses may be used to personally identify you in order to enforce our Terms of Service.
+
+If you choose to use our “Search &amp.
+Invite a Friend” service to find a friend on the Website, or to suggest a friend visit the Website, we will ask you for your friend’s name and email address.  We will send your friend an email on your behalf inviting him or her to visit our Website.  Id Software stores your friend’s name and email address for a short period for the sole purpose of sending this email and for redundancy checking.  We do not keep or use this information for any other purpose.
+QUAKE LIVE makes extensive use of advertisement serving technology, which enables advertising to be temporarily uploaded into the Game or Website on your PC, and displayed while you play online or browse the Website.  
+Similarly, and to the extent that we use other advertisers, those companies may place cookies on the browsers of visitors to the Website, collect information regarding your activities online, including the sites you visit, and/or log information that is needed to measure presentation of, and serve advertising to the appropriate geographic region, and to the correct location within the game.  Collected data may include IP address or player’s user name, in-game location, length of time an advertisement was visible, size of advertisement, and angle of view.  You may be assigned an ID number, which may be stored on your PC, and used by other advertisers to calculate the number of unique and repeat views of dynamic web, video and/or in-game advertising.  The ID number is not associated with any personal data, and no logged information is used to personally identify you.  This ad serving technology is integrated into QUAKE LIVE.
+if you do not want to use this technology, do not use the Website or play the Game.  For more information about the practices of other large ad serving companies that may collect information based on your interaction with ads on this site and others, or to "opt out" of targeted advertising delivered by National Advertising Initiative (NAI) member ad networks, you should visit www.networkadvertising.org.
+We may also receive other personal information from third parties in connection with the operation and distribution of our products and services as well as market and demographic studies that we use to supplement personal information provided directly by you.
+As with all other information, we use this data only for purposes consistent with this policy.
+
+
+Non Personal Information
+
+
+When you use QUAKELIVE, the Website and related products and services, we may collect certain non-personal demographic information including gender, zip code, information about your computer, hardware, software, platform, game system, media, mobile device, including device IDs, incident data, IP address, network Media Access Control (MAC) address and connection.
+We may also collect other non-personal information such as feature usage, game play statistics, scores and achievements, user rankings and click paths as well as other data that you may provide in surveys, via Your Account preferences and online profiles such as friends lists or purchases, for instance.
+We may also receive either non-personal or public information from third parties in connection with market and demographic studies that we use to supplement personal information provided directly by you.  Id Software collects non-personal information along with personal information when you actively provide it in the context of various online activities including online purchases, game registration and marketing surveys, for instance.
+In addition, we use cookies and other technologies to passively collect non-personal demographic information, personalize your experience on our sites and monitor advertisements and other activities.
+
+
+Use of Personal Information
+
+
+
+Id Software may use your Personal Information to fulfill your orders or requests for products, services or information.
+Id Software may use your Personal Information to inform you about the latest product offerings that we believe will be of interest to you and in connection with other marketing activities.
+Id Software may use your Personal Information to improve the content and general administration of the Website.
+Id Software may use your Personal Information to contact you to obtain or provide additional information.
+Id Software may use your Personal Information to verify the accuracy of and/or update our records.
+Id Software may use your Personal Information to identify customers of our products or services.
+Id Software may use your Personal Information to associate specific products or services with specific customers.
+Id Software may use your Personal Information in connection with litigation or other legal proceeding.
+
+Id Software will not sell your Personal Information to third parties, but may share Personal Information with third parties or Id Software Affiliates, as defined below.
+
+
+ 
+
+
+Disclosure of Personal Information
+
+
+Id Software may hire third party vendors to provide services on its behalf, including packaging and delivery, sending postal and electronic mail, providing technical support, and processing event registrations and Id Software may disclose your Personal Information to such third parties for the purposes of fulfillment, support or audit.
+Id Software may provide your Personal Information to its channel partners, such as distributors and resellers, to fulfill product and information requests and to provide customers and prospective customers with information about Id Software and its products.
+Id Software may engage in joint marketing activities and events with other manufacturers and solution providers, and may provide your Personal Information to such third parties for the purpose of promoting or performing the activity or event.  In the event of a contest, prize winners may be required to provide their Social Security or other identification number for tax purposes, and will be used only for prize fulfillment.   Similarly, third party advertisers, in conjunction with contractual services rendered to Id Software, may provide statistics to current or prospective advertising customers.  Id Software may license, sell or otherwise transfer its technology or business, or a portion thereof, to third parties and, in connection with such transfers, it may disclose customer and prospect data, including Personal Information, related to the transfer, or potential transfer, to the transferee.
+
+Id Software may share your Personal Information to related and affiliated entities (“Id Software Affiliates”) some of which may be located in the U.S., Canada, Europe, Asia and elsewhere.
+The data protection laws in these countries may be more or less extensive than laws in the country in which you are located.
+However, Id Software and each of its Id Software Affiliates are governed by this Privacy Policy and will use your Personal Information only as set forth in this Privacy Policy.
+It is your sole responsibility to determine the data protection details of the countries relevant to you.
+
+Id Software may disclose your Personal Information to third parties: (i) if required to do so by law, as determined by Id Software in its sole discretion.
+(ii) to comply with legal process.
+(iii) in connection with litigation or other legal proceeding.
+(iv) to enforce its agreement(s) with you, if any.
+and/or (v) to act to protect personal safety or the public as Id Software may determine in its sole discretion to be reasonable.
+
+
+
+Public Data
+
+
+
+
+Your use of QUAKE LIVE, the Website and related products and services is conditional upon you agreeing to us collecting, using, storing, transmitting and publicly displaying statistical data (such as your scores, ranking, and achievements) generated through your participation in the foregoing.
+
+
+Children and Privacy
+
+
+Id Software’s Website and its products are not intended to be used by children.
+Id Software does not knowingly solicit Personal Information from persons under the age of 13.
+If you are under 13 years of age, you should not access, or attempt to obtain access to, QUAKE LIVE.  Teenagers under the age of 18 and over the age of 12 should encourage their parents to review this Privacy Policy.
+
+
+Security of Personal Information and Links
+
+
+
+Id Software has implemented security mechanisms and procedures to protect your Personal Information from unauthorized disclosure or access.
+However, Id Software cannot guarantee that Personal Information will be secure and Id Software shall not be responsible for an unauthorized access to or disclosure of Personal Information.  This Website may contain links to other Websites.
+Id Software is not responsible for the privacy practices or the content of other Websites.
+
+
+
+Unsubscribing from Future Communications
+
+
+You can unsubscribe from future marketing communications by logging into Your Account at www.quakelive.com "Edit my Profile" and modifying your communication preferences.
+If after you unsubscribe you continue to receive unsolicited and undesired communications from Id Software, please forward the communication to support@quakelive.com.  We may still retain your information in our files, however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity, and operation of our websites.
+
+
+Your California Privacy Rights
+
+
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.
+For inquires regarding our disclosure policy, please contact us via email at support@quakelive.com.  
+
+Updating Your Personal Information 
+
+
+You can update your Personal Information maintained by Id Software by logging into Your Account at www.quakelive.com "Edit my Profile" and modifying your Personal Information.
+Should you need to update any other information, please forward the details to support@quakelive.com.
+
+
+Accessing Your Personal Information
+
+
+You may access the Personal Information that Id Software holds relating to you by emailing your request to support@quakelive.com.
+To the extent permitted by applicable law, Id Software reserves the right to assess an administrative fee for such access.
+
+
+
+Third Party Sites
+
+
+The Website may contain advertising or services which link to other websites.
+The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party.
+If you click on a link to a third party site, including on an advertisement, you will leave the Website and go to the site you selected.
+Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as Id Software.
+We encourage you to review the privacy policies of any other service provider from whom you request services.
+If you visit a third party website that is linked to the Website, you should consult that site's privacy policy before providing any personal information.
+ 
+
+
+Liability Limitation
+
+
+
+ID SOFTWARE, ITS AFFILIATES AND THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, LICENSORS, AGENTS, AND ASSIGNS SHALL NOT BE LIABLE FOR SPECIAL, INDIRECT, CONSEQUENTIAL, PUNITIVE, OR ANY OTHER TYPE OF DAMAGE, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA,
+ RECORDS
+,
+
+
+OR INFORMATION, 
+DAMAGE TO ANY SYSTEMS, HARDWARE OR SOFTWARE
+, 
+LOST PROFITS, LOST SAVINGS AND THIRD PARTY CLAIMS 
+ARISING FROM OR RELATING TO PERSONAL INFORMATION WHETHER OR NOT SUCH DAMAGES ARE FORESEEABLE, AND/OR WHETHER OR NOT ID SOFTWARE WAS ADVISED OR WARNED OF THE POSSIBILITY OF SUCH DAMAGES, AND/OR WHETHER OR NOT SUCH DAMAGES ARISE UNDER CONTRACT, TORT, STRICT PRODUCT LIABILITY, OR OTHER THEORY.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS AND/OR EXCLUSIONS OF INCIDENTAL OR CONSEQUENTIAL DAMAGES MAY NOT APPLY TO YOU.  IN SUCH JURISDICTIONS, ID SOFTWARE'S LIABILITY IS LIMITED AND EXCLUDED TO THE GREATEST EXTENT ALLOWED BY LAW.
+
+
+
+Disclaimer of Warranties  
+
+
+
+ID SOFTWARE HEREBY DISCLAIMS, TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, ALL WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, MERCHANTABILITY,
+ CUSTOM, TRADE, QUIET ENJOYMENT, ACCURACY OF INFORMATIONAL CONTENT, OR SYSTEM INTEGRATION, OR ANY WARRANTIES ARISING UNDER ANY STATUTE, COURSE OF DEALING, OR OTHER LEGAL REQUIREMENT
+, AND ALL OTHER WARRANTIES NOT EXPRESSLY PROVIDED IN THIS PRIVACY POLICY.
+
+
+
+Force Majeure
+
+
+
+ID SOFTWARE SHALL NOT BE LIABLE FOR ANY DAMAGES, LOSSES, OR LAWSUITS ARISING FROM OR RELATING TO ANY EVENT OR OCCURRENCE BEYOND ID SOFTWARE'S COMMERCIALLY PRACTICABLE AND REASONABLE CONTROL, INCLUDING, BUT NOT LIMITED TO, ANY ACT OF TERRORISM, WAR, ANY ACT OF GOD SUCH AS LIGHTNING, HURRICANE, TORNADO, EARTHQUAKE, AND FLOOD, THIRD-PARTY ACTS, OR ANY OTHER EVENT OR OCCURRENCE OUTSIDE THE COMMERCIALLY PRACTICABLE AND REASONABLE CONTROL OF ID SOFTWARE.  
+
+
+
+Indemnification
+
+
+
+YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD HARMLESS ID SOFTWARE, ITS AFFILIATES, AND THEIR RESPECTIVE DIRECTORS, EMPLOYEES, OFFICERS, AGENTS, SUCCESSORS, AND ASSIGNS FROM AND AGAINST ALL DAMAGES, LOSSES, LAWSUITS, AND CLAIMS, INCLUDING, WITHOUT LIMITATION, SUCH PARTIES’ ATTORNEYS' FEES AND EXPENSES, ARISING FROM OR RELATING TO ANY VIOLATION OF THIS PRIVACY POLICY BY YOU, AT YOUR DIRECTION, OR WITH YOUR ASSISTANCE OR COOPERATION, AND/OR YOUR NEGLIGENT OR INTENTIONALLY WRONGFUL ACTS OR OMISSIONS AND/OR YOUR ACTS AND OMISSIONS TO ACT IN USING THE WEBSITE IN ACCORDANCE WITH THIS POLICY.  YOU AGREE THAT ID SOFTWARE HAS THE RIGHT TO CONTROL THE DEFENSE AND ANY SETTLEMENT OF ALL SUCH DAMAGES, LOSSES, LAWSUITS, AND CLAIMS AT YOUR SOLE COST AND EXPENSE.
+
+
+
+Governing Law, Venue and Entire Agreement
+
+
+Exclusive venue for any litigation regarding this Privacy Policy or any service or product, if any, provided by Id Software shall be in the federal and/or state courts located in Dallas County, Texas.
+provided, however, Id Software reserves the right to initiate legal action in any other jurisdiction Id Software deems appropriate.  The laws of the State of Texas, excluding conflicts of laws principles, shall govern the interpretation and enforcement of this Privacy Policy.  This Privacy Policy sets forth the entire agreement between you and Id Software regarding the subject matter of this Privacy Policy.
+
+
+Additional Questions
+
+
+If you have further questions or concerns about Id Software’s collection, use or disclosure of your Personal Information, please email the Id Software at support@quakelive.com.
+This Privacy Policy was last updated November 22, 2010. 
