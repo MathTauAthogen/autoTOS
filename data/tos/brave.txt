@@ -1,0 +1,1342 @@
+ Read this document to learn how we use data about advertisers.
+In this policy “we”, “us”, etc.
+refers to Brave Software Inc.
+(To learn how we use data to operate this website and other Brave sites, forums, and communications, see&nbsp;https://brave.com/website-privacy.
+To learn how we use data for the Brave Browser, see&nbsp;https://brave.com/privacy).
+Advertiser Privacy
+When you establish an advertiser account with us, we will ask you for the information we need to validate your identity and to bill you for advertising services.
+This always includes:
+
+your name, email address, and phone number;
+your business’s name and mailing address;
+the domain name(s) to which your ads will direct people who see them.
+and
+billing information needed to process payment.
+
+Other information may be required by your advertising account representative in order to process and fulfill your orders.
+The only information we collect from you is the information you provide us in these communications with your account representative.
+We need this information in order to operate the advertising services you’re purchasing from us according to the&nbsp;Brave Rewards: Terms of Service for Advertisers contract.
+This same information is required in order for us to maintain accurate records and accounts of the services we have provided, in which we have a legitimate interest.
+We keep all this info as long as you have an advertiser account with us, and for seven years afterwards.
+Beyond seven years, we no longer store your personal information, only information about your company.
+We may share your Account Information as follows:
+
+with vendors, consultants and other service providers who act as data processors on behalf of Brave;
+in response to a request for information if we believe the disclosure is in accordance with, or required by, any applicable law, regulation or legal process.
+or
+otherwise, with your consent or at your direction.
+
+We may also share information which cannot reasonably be used to identify you.
+We may use SendGrid or MailChimp to contact you by email.
+This is certified under the EU-US Privacy Shield agreement, which provides safeguards intended to be equivalent to those provided in the EU.
+Every email we send like this includes an unsubscribe link.
+Contacting Brave about your privacy
+We are always interested in hearing and responding to questions and concerns at &lt;twitter.com/brave&gt.
+and at &lt;github.com/brave&gt;.
+More in-depth conversations can be had at &lt;community.brave.com&gt;.
+You can contact our data protection officer, Dr Johnny Ryan, and the rest of our privacy team at&nbsp;privacy@brave.com.
+We are represented in Europe by Brave Software Europe Ltd.
+You can ask to know what information we have about you, update incorrect information, delete it, object to our use of it, or get a copy of it.
+If you’re in the European Union, you also have the right to complain to your&nbsp;local data protection authority&nbsp;(though everyone should have this right).
+We’ll update this policy whenever we make material changes to our practices, and we’ll announce it to let you know.   PLEASE READ THESE TERMS OF USE (“AGREEMENT” OR “TERMS OF USE”) CAREFULLY BEFORE USING THE SERVICES OFFERED BY BRAVE SOFTWARE, INC.
+(“BRAVE”).
+THIS AGREEMENT SETS FORTH THE LEGALLY BINDING TERMS AND CONDITIONS FOR YOUR USE OF THE BRAVE WEB BROWSER AND ALL RELATED SERVICES, INCLUDING, WITHOUT LIMITATION, ANY FEATURES, CONTENT, WEBSITES (INCLUDING WWW.BRAVE.COM) OR APPLICATIONS OFFERED FROM TIME TO TIME BY BRAVE IN CONNECTION THEREWITH (COLLECTIVELY “SERVICE(S)”).
+BY USING THE SERVICES IN ANY MANNER, YOU AGREE TO BE BOUND BY THIS AGREEMENT.
+Acceptance of Terms The Service is offered subject to acceptance without modification of all of these Terms of Use and all other operating rules, policies and procedures that may be published from time to time in connection with the Services by Brave.
+In addition, some services offered through the Service may be subject to additional terms and conditions promulgated by Brave from time to time.
+your use of such services is subject to those additional terms and conditions, which are incorporated into these Terms of Use by this reference.
+Brave may, in its sole discretion, refuse to offer the Service to any person or entity and change its eligibility criteria at any time.
+This provision is void where prohibited by law and the right to access the Service is revoked in such jurisdictions. Modification of Terms of Use Brave reserves the right, at its sole discretion, to modify or replace any of the Terms of Use, or change, suspend, or discontinue the Service (including without limitation, the availability of any feature, database, or content) at any time by posting a notice on the Brave websites or Service or by sending you an email.
+Brave may also impose limits on certain features and services or restrict your access to parts or all of the Service without notice or liability.
+It is your responsibility to check the Terms of Use periodically for changes.
+Your continued use of the Service following the posting of any changes to the Terms of Use constitutes acceptance of those changes. Other Policies For information regarding Brave’s treatment of personally identifiable information, please review Brave’s current Privacy Policies at brave.com/privacy_ios and https://brave.com/privacy/.
+If you believe that material or content residing on or accessible through the Service infringes a copyright, please review Brave’s Copyright Dispute Policy at the bottom of these Terms of Service. Brave Browser License The executable code version of the Brave browser is made available under the terms set forth below.
+Source code for parts of the Brave browser may be available for use under open source licenses and accessible via https://github.com/brave.
+Nothing in this Agreement will be construed to limit any rights granted under such open source licenses with respect to code specifically covered by such licenses.
+Subject to the terms hereof, Brave grants you a personal, non-exclusive license to install and use the executable code version of the Brave browser.
+Brave and its licensors shall retain all intellectual property rights in the Brave browser (and Service), except for the rights expressly granted in this Agreement.
+You may not remove or alter any trademark, or logo (collectively, “Marks”), copyright or other proprietary notice on the Brave browser.
+This license does not grant you any right to use Marks of Brave or its licensors.
+If you breach this Agreement, the above license and your right to use the Brave browser will terminate immediately and without notice.
+Upon termination, you must destroy all copies of the Brave browser. Rules and Conduct As a condition of use, you promise not to use the Service for any purpose that is prohibited by the Terms of Use.
+For purposes of the Terms of Use, the term “Content” includes, without limitation, any information, data, text, photographs, videos, software, scripts, graphics, and interactive features generated, provided, or otherwise made accessible on or through the Service.
+By way of example, and not as a limitation, you shall not (and shall not permit any third party to) take any action (including contributing any Content) that: would constitute a violation of any applicable law, rule or regulation.
+infringes any intellectual property or other right of any other person or entity.
+is threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of another’s privacy, tortious, obscene, offensive, or profane.
+constitutes unauthorized or unsolicited advertising, junk or bulk e-mail.
+contains software viruses or any other similar computer codes, files, or programs.
+or impersonates any person or entity.
+Further, you shall not (directly or indirectly): (i) take any action that imposes or may impose an unreasonable or disproportionately large load on Brave’s (or its third party providers’) infrastructure.
+or (ii) interfere or attempt to interfere with the proper working of the Service or any activities conducted on the Service.
+(iii) bypass any measures Brave may use to prevent or restrict access to the Service (or parts thereof). Trademarks &amp.
+Patents All Brave logos, marks and designations are trademarks or registered trademarks of Brave.
+All other trademarks mentioned in this website are the property of their respective owners.
+The trademarks and logos displayed on this website may not be used without the prior written consent of Brave or their respective owners.
+Portions, features and/or functionality of Brave’s products may be protected under Brave patent applications or patents. Termination Brave may terminate your access to all or any part of the Service at any time if you fail to comply with these Terms of Use, which may result in the forfeiture and destruction of all information associated with your account.
+Further, either party may terminate the Services for any reason and at any time upon written notice.
+If you wish to terminate your account, you may do so by following the instructions on the Service.
+Any fees paid hereunder are non-refundable.
+Upon any termination, all rights and licenses granted to you in this Agreement shall immediately terminate, but all provisions hereof which by their nature should survive termination shall survive termination, including, without limitation, warranty disclaimers, indemnity and limitations of liability. Disclaimer ALL USE OF THE SERVICE AND ANY CONTENT IS UNDERTAKEN ENTIRELY AT YOUR OWN RISK.
+THE SERVICE (INCLUDING, WITHOUT LIMITATION, THE BRAVE BROWSER AND ANY CONTENT) IS PROVIDED “AS IS” AND “AS AVAILABLE” AND IS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED.
+SOME STATES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU. Idemnification You shall defend, indemnify, and hold harmless Brave, its affiliates and each of its, and its affiliates employees, contractors, directors, suppliers and representatives from all liabilities, losses, claims, and expenses, including reasonable attorneys’ fees, that arise from or relate to (i) your use or misuse of, or access to, the Service, or (ii) your violation of the Terms of Use or any applicable law, contract, policy, regulation or other obligation.
+Brave reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will assist and cooperate with Brave in connection therewith. Limitation of Liability IN NO EVENT SHALL BRAVE OR ITS DIRECTORS, EMPLOYEES, AGENTS, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS, BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY WITH RESPECT TO THE SERVICE (I) FOR ANY LOST PROFITS, DATA LOSS, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER, OR SUBSTITUTE GOODS OR SERVICES, (II) FOR YOUR RELIANCE ON THE SERVICE OR (III) FOR ANY DIRECT DAMAGES IN EXCESS (IN THE AGGREGATE) OF THE FEES PAID BY YOU FOR THE SERVICE OR, IF GREATER, $500.
+SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS AND EXCLUSIONS MAY NOT APPLY TO YOU. Miscellaneous The Terms of Use are the entire agreement between you and Brave with respect to the Service, and supersede all prior or contemporaneous communications and proposals (whether oral, written or electronic) between you and Brave with respect to the Service.
+If any provision of the Terms of Use is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the Terms of Use will otherwise remain in full force and effect and enforceable.
+The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder.
+Brave shall not be liable for any failure to perform its obligations hereunder due to any cause beyond Brave’s reasonable control.
+The Terms of Use are personal to you, and are not assignable or transferable by you except with Brave’s prior written consent.
+Brave may assign, transfer or delegate any of its rights and obligations hereunder without consent.
+No agency, partnership, joint venture, or employment relationship is created as a result of the Terms of Use and neither party has any authority of any kind to bind the other in any respect.
+Except as otherwise provided herein, all notices under the Terms of Use will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested.
+when receipt is electronically confirmed, if transmitted by facsimile or e-mail.
+or two days after it is sent, if sent for next day delivery by recognized overnight delivery service. Copyright Dispute Policy The Digital Millennium Copyright Act of 1998 (the “DMCA”) provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under U.S.
+copyright law.
+If you believe in good faith that any Content made available in connection with the Service infringes your copyright, you (or your agent) may send us a notice requesting that the Content be removed, or access to it blocked as set forth below (see https://www.copyright.gov/&nbsp;for further details).
+It is Brave’s policy to (1) block access to or remove material that it believes in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or users.
+and (2) remove and discontinue service to repeat offenders.
+The address of Brave’s Designated Agent to Receive Notification of Claimed Infringement (“Designated Agent”) is listed at the end of this policy.
+
+A.
+Procedure for Reporting Copyright Infringements: If you believe that material or content residing on or accessible through the Brave Service infringes a copyright, please send a notice of copyright infringement containing the following information to the Designated Agent listed below: 1.
+A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed.
+2.
+Identification of works or materials being infringed.
+3.
+Identification of the material that is claimed to be infringing including information regarding the location of the infringing materials that the copyright owner seeks to have removed, with sufficient detail so that Brave is capable of finding and verifying its existence.
+4.
+Contact information about the notifier including address, telephone number and, if available, e-mail address.
+5.
+A statement that the notifier has a good faith belief that the material identified in (3) is not authorized by the copyright owner, its agent, or the law.
+and 6.
+A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner.
+
+B.
+Once Proper Bona Fide Infringement Notification is Received by the Designated Agent: It is Brave’s policy: 1.
+to remove or disable access to the infringing material.
+2.
+to notify the content provider, member or user that it has removed or disabled access to the material.
+and 3.
+that repeat offenders will have the infringing material removed from the system and that Brave will terminate such content provider’s, member’s or user’s access to the service.
+
+C.
+Procedure to Supply a Counter-Notice to the Designated Agent: If the content provider, member or user believes that the material that was removed or to which access was disabled is either not infringing, or the content provider, member or user believes that it has the right to post and use such material from the copyright owner, the copyright owner’s agent, or pursuant to the law, the content provider, member or user must send a counter-notice containing the following information to the Designated Agent listed below: 1.
+A physical or electronic signature of the content provider, member or user.
+2.
+Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or disabled.
+3.
+A statement that the content provider, member or user has a good faith belief that the material was removed or disabled as a result of mistake or a misidentification of the material.
+and 4.
+Content provider’s, member’s or user’s name, address, telephone number, and, if available, e-mail address and a statement that such person or entity consents to the jurisdiction of the Federal Court for the judicial district in which the content provider’s, member’s or user’s address is located, or if the content provider’s, member’s or user’s address is located outside the United States, for any judicial district in which Brave is located, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement.
+If a counter-notice is received by the Designated Agent, Brave’s may send a copy of the counter-notice to the original complaining party informing that person that Brave may replace the removed material or cease disabling it in 10 business days.
+Unless the copyright owner files an action seeking a court order against the content provider, member or user, the removed material may be replaced or access to it restored in 10 to 14 business days or more after receipt of the counter-notice, at Brave’s discretion.
+
+Notices and counter notices with respect to the Service should be sent to Brave at:
+ Copyright Designated Agent Brave, Inc. 512 Second Street, Floor 2 San Francisco, CA 94107 Support: community.brave.com
+
+Terms of Use Effective Date:
+ February 11, 2016   
+Features
+Content Creators
+
+Overview
+Media Assets
+
+
+Blog
+About
+Support
+
+Community
+Help Center
+
+
+Download
+ Select Page 
+Features
+Content Creators
+
+Overview
+Media Assets
+
+
+Blog
+About
+Support
+
+Community
+Help Center
+
+
+Download
+ LAST UPDATED: FEB 11, 2019
+Brave websites, forums, and email privacy policy Read this document to understand how Brave Software (“us”, “we”, “Brave”, etc.) use data to operate its websites, forums, and communications.
+To learn how we use data for the Brave Browser, see the Brave Browser Privacy Policy.
+To learn how we use data for publishers and creators, see the Publisher Privacy Policy.
+Infrastructure
+Brave websites are hosted on infrastructure we operate, and on infrastructure operated on our behalf by Amazon, Heroku (a Salesforce company), and Fastly.
+Fastly’s infrastructure is designed to be as close to you as possible — probably in the same country as you, though this is not guaranteed.
+The rest of this infrastructure is located in the United States, which is where information is processed and stored.
+Amazon, Heroku, and Fastly are certified under the EU-US Privacy Shield agreement, which provides safeguards intended to be equivalent to those provided in the EU.
+See data processing details.
+Community forums
+Community.brave.com and forum.batcommunity.org are forums on which you may post and publicly communicate with other Brave users and community-members.
+Brave runs these forums, and they are hosted on its behalf by Civilized Discourse Construction Kit.
+Their privacy policy describes how they use your data to host the forum for us.
+The IP address of all server requests are stored for no more than 30 days.
+We have access to the information that you make available on the forum, and can use this to administer the forum.
+Information about how Discourse keeps your data safe is available here.
+All of Discourse’s code is open source and subject to public inspection.
+If you are a user you can access or delete your account (and related data) in the “preferences” panel at community.brave.com.
+You can also contact us to request the transfer of your personal data to you or to a third party.
+See data processing details.
+E-mail
+If you ask us to keep in touch with you by email about policy issues, we will use MailChimp to do so.
+This is certified under the EU-US Privacy Shield agreement, which provides safeguards intended to be equivalent to those provided in the EU.
+Every email we send like this includes an unsubscribe link.
+See data processing details.
+Children
+Children under the age of 131 are not permitted to use the website, sign up for email updates, join the community forum, or send Brave any other information.
+If you have reason to believe that a child under the age of 13 has interacted with the website, please contact privacy@brave.com.
+In that case, we will do our best to remove all related records.
+&nbsp;
+Detail of personal data processing Users of Brave websites Purpose of processing
+Categories of personal data processed
+Legal basis of processing
+Duration of storage To provide efficient access to Brave websites on the Internet
+IP address, user agent
+Our interest in providing a fast-loading website.
+The data are used in a way that does not negatively affect your rights or interests.
+Cloudflare DNS2 log is 1 week.
+Fastly3 only logs aggregated data unless an IP address is suspected of security threat.
+&nbsp.
+ Users of the Brave or Bat Community forums Purpose of processing
+Categories of personal data processed
+Legal basis of processing
+Duration of storage To operate the forum, including improving it based on feedback and use.
+IP address, user agent (version number of your operating system version and browser), community pages visited, incoming and outgoing links, reading times per post, user profiles viewed, likes given and flags being requested, registration IP addresses, posts that you write, pseudonym or real name, profile photo
+Necessary for the performance of a contract between us (and necessary for us to provide the requested service).
+The time necessary to deliver the requested service.
+To send user-requested notifications or respond to user questions
+E-mail address, pseudonym or real name
+Necessary for the performance of a contract between us (and necessary for us to provide the requested service).
+The time necessary to deliver the requested service.
+To provide customer service and support
+IP address, user agent (version number of operating system version and browser), community pages visited, incoming and outgoing links, reading times per post, user profiles viewed, likes given and flags being requested, registration IP addresses, posts that you write, pseudonym or real name, profile photo
+Necessary for the performance of a contract between us (and necessary for us to provide the requested service).
+The time necessary to deliver the requested service.
+To display ongoing community conversations that include posts from members who have left the community.
+Posts by former members (these may no longer be personal data because once user name is removed the former user may no longer be identifiable)
+Our interest in maintaining an unbroken community conversation.
+The data are used in a way that does not negatively affect your rights or interests.
+Until the forum closes.
+Research and product development Purpose of processing
+Categories of personal data processed
+Legal basis of processing
+Duration of storage To receive user testing responses (from survey and tests in person)
+Name, contact details, responses to survey questions about use of Brave Browser
+Consent
+1 year To send Brave Beta Testers new software
+E-mail address, Name
+Consent
+The duration of a person’s participation in Brave Beta Testing &nbsp.
+ Correspondence/contact/competitions Purpose of processing
+Categories of personal data processed
+Legal basis of processing
+Duration of storage To operate the “Brave Insights” mailing list
+E-mail address, pseudonym or real name, professional description, frequency of access to these notes, and geographic region.
+Consent
+The time necessary to deliver the requested service.
+To run occasional contests
+E-mail address, IP address
+Consent
+The duration of an individual contest.
+General correspondence
+Data sent by the person communicating.
+Our interest in correctly responding to users, and maintaining good relations with them.
+The data are used in a way that does not negatively affect your rights or interests.
+Indefinite.
+&nbsp;
+Contacting Brave about your privacy
+We are always interested in hearing and responding to questions and concerns at twitter.com/brave and at github.com/brave.
+More in-depth conversations can be had at community.brave.com.
+You can contact our data protection officer, Dr Johnny Ryan, and the rest of our privacy team at privacy@brave.com.
+We are represented in Europe by Brave Software Europe Ltd.
+You can ask to know what information we have about you, update incorrect information, delete it, object to our use of it, or get a copy of it.
+If you’re in the European Union, you also have the right to complain to your local data protection authority (though everyone should have this right).
+We’ll update this policy whenever we make material changes to our practices, and we’ll announce it to let you know.
+&nbsp;
+
+Notes
+
+
+Some countries in the European Union have defined a child as any person under the age of 13.
+This varies from country to country, as provided for in Article 8(1) of the General Data Protection Regulation (GDPR).
+This policy uses the lowest age for consistency.
+The Domain Name Systems (DNS) translates domain names such as Brave.com in to the IP addresses that web browsers use.
+Cloudflare is our DNS provider.
+See https://www.cloudflare.com/learning/dns/what-is-dns/.
+Content Management Networks (CDNs) attempt to speed up websites by using servers near to the user requesting the site.
+Fastly is our CDN provider.
+See&nbsp;https://www.fastly.com/industries/digital-publishing.
+ Resources
+F.A.Q.
+Brave Store
+Help Center
+Community
+Brave Branding
+Media Assets
+Status Privacy Policy
+Brave Browser
+Website &amp.
+Email
+Publishers &amp.
+Creators Product
+Brave Release
+Brave Beta
+Brave Dev
+Brave Nightly Join the Newsletter Company
+Research
+Careers
+In the Press
+Github
+Blog Social Media
+Reddit 
+Twitter
+Facebook
+YouTube Contact Press
+press@brave.com
+Business
+bizdev@brave.com
+Support
+community.brave.com Offices Brave San Francisco
+512 Second St., Floor 2 San Francisco, CA 94107
+Brave London
+Mindspace Shoreditch 9 Appold St London, EC2A 2AP Pages
+
+$1 Million Token Giveaway
+28 Day Experimental Learning Version of Brave Privacy Policy
+404 Page
+About Ad Replacement
+About Brave
+About Brave Rewards
+Ads User Trials
+Android
+Assets for Creators
+Become a Brave Rewards Creator
+Best Adblock for YouTube
+BitTorrent – Browse with integrity
+BitTorrent – Secure &amp.
+Fast Browsing
+Block Ads and Trackers with Brave!
+Brave Branding Assets
+Brave Linkbubbles for Social Media &amp.
+Pocket
+Brave Logo SEO
+Brave Research
+Brave Signing Key
+Brave.com Privacy Policy
+Browser Privacy Policy
+Coinbase Download
+Coindesk Partnership for faster, ad-free browsing
+Creator Referral Program
+Download Brave Ads Trials
+Download Brave Beta
+Download Brave Dev
+Download Brave Nightly
+Download Browser with Adblocker for Mobile &amp.
+Desktop
+Dr Johnny Ryan FRHistS
+Experience the Fastest &amp.
+Safest Web Browser
+Experience the Fastest &amp.
+Safest Web Browser
+Features
+Free 2-year subscription to Barron’s
+Free 2-year subscription to MarketWatch
+Frequently Asked Questions
+iOS
+Join us to Change the Web Together
+M_AdBlock C BR
+M_AdBlock C BR
+M_AdBlock C DE
+M_AdBlock C DE
+M_AdBlock C FR
+M_AdBlock C FR
+M_AdBlock C FR
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_Adblock C IN
+M_Adblock C PH
+M_Adblock C SP
+M_Adblock C SP
+M_Adblock C SP
+M_Adblock C UK
+M_AdBlock C US
+M_Adblock US -q
+M_Branded BR
+M_Branded BR
+M_Branded BR
+M_Branded DE
+M_Branded DE
+M_Branded FR
+M_Branded FR
+M_Branded FR
+M_Branded ID
+M_Branded IN
+M_Branded PH
+M_Branded SP
+M_Branded SP
+M_Branded SP
+M_Branded UK
+M_Branded UK
+M_Branded UK
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Browser Option A AU
+M_Browser Option A DE
+M_Browser Option A NZ
+M_Browser Option A UK
+M_Browser Option A US LP 1
+M_Browser Option A US LP 1
+M_Browser Option A US LP 1
+M_Browser Option A US LP 2
+M_Browser Option C BR
+M_Browser Option C BR
+M_Browser Option C DE
+M_Browser Option C FR
+M_Browser Option C FR
+M_Browser Option C FR
+M_Browser Option C ID
+M_Browser Option C IN
+M_Browser Option C PH
+M_Browser Option C SP
+M_Browser Option C SP
+M_Browser Option C UK
+M_Browser Option C US
+M_Browser Option C US
+M_Browser Option C US
+M_Browser Option C US
+M_Browser Option C US
+M_Get Brave
+M_Qwant C FR -qw
+M_Reddit-CPC
+M_Tor C BR
+M_Tor C BR
+M_Tor C DE
+M_Tor C FR
+M_Tor C FR -qw -2
+M_Tor C ID
+M_Tor C IN
+M_Tor C PH
+M_Tor C SP
+M_Tor C UK
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US -q
+M_VPN C BR
+M_VPN C BR
+M_VPN C DE
+M_VPN C FR
+M_VPN C FR
+M_VPN C ID
+M_VPN C IN
+M_VPN C PH
+M_VPN C SP
+M_VPN C SP
+M_VPN C SP
+M_VPN C SP
+M_VPN C UK
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+Media Assets
+News on Privacy, Adblock and Browsers
+
+Category AMA
+Category Announcements
+Category Brave Insights
+Category Brave Rewards
+Category Community
+Category GDPR
+Category New Features
+Category Policy
+Category Research
+Category Rewards
+Security &amp.
+Privacy Category
+
+
+Press
+Publishers &amp.
+Creators Privacy Policy
+Secure, Fast &amp.
+Private Web Browser with Adblocker
+Sitemap
+Subscription-Offer-BA
+Subscription-Offer-MW
+Support Your Favorite Creators
+Support Your Favorite Twitch Creator
+Support Your Favorite YouTube Creator
+Terms Of Use
+Thanks for making Brave your default
+The Brave Community
+tor-a
+Townsquare Media – PopCrush
+Townsquare Media – Taste Of Country
+Townsquare Media – Ultimate Classic Rock
+Townsquare Media – XXL
+Twitch
+Twitch-Creators
+Welcome to Brave Ads
+XDA
+Youth Involvement in Open Source Technologies
+ &nbsp;Terms of Use&nbsp;| Report a Security Issue Designed by Elegant Themes | Powered by WordPress &lt;img src="//analytics.brave.com/piwik.php?idsite=2" style="border:0;" alt&gt.
+  
+Features
+Content Creators
+
+Overview
+Media Assets
+
+
+Blog
+About
+Support
+
+Community
+Help Center
+
+
+Download
+ Select Page 
+Features
+Content Creators
+
+Overview
+Media Assets
+
+
+Blog
+About
+Support
+
+Community
+Help Center
+
+
+Download
+ LAST UPDATED: FEB 11, 2019
+Publishers &amp.
+Content Creators privacy policy Read this document to learn how we use data for publishers and content creators.
+In this policy “we”, “us”, etc.
+refers to Brave Software Inc.
+(To learn how we use data to operate this website and other Brave sites, forums, and communications, see https://brave.com/website-privacy.
+To learn how we use data for the Brave Browser, see https://brave.com/privacy).
+Basic Attention Token Tips
+If you are a creator who has a YouTube or Twitch account, or owns a website, Brave has a function that allows you to automatically receive gifts of BAT from Brave itself, and from your visitors.
+Brave tallies BAT donations to each website and channel (i.e.
+YouTube channel, Twitch channel, etc.) anonymously.
+Contributions to creators that have not signed up with Brave will be reserved on the device.
+No data about these creators or the attention spent on their sites will be transmitted to us at Brave.
+The data and all of the logic surrounding it will be entirely“client-side” (i.e.
+on the device only).
+To collect Basic Attention Tokens (BAT) you must create a Brave Rewards account on this site.
+This involves entering your name, email address, and phone number.
+It is also necessary to demonstrate that you are the owner of the site(s) or channel(s) for which you receive BAT.
+This is done by providing information from your web server or DNS provider.
+We may authenticate your credentials with the site that hosts your channel.
+Before you can redeem BAT you will have to connect your Brave Rewards account to Uphold, a payments service.
+Uphold will then tell us whether your account is in good standing, the list of currencies you have configured, and your preferred currency.
+
+Security
+
+We record IP addresses when requests are made to identify &amp.
+prevent fraud and to protect the integrity of the service.
+We also monitor how the account is used, for anti fraud and to maintain the reliability and performance of the service.
+E-mail
+If you ask us to keep in touch with you by email, we will use SendGrid or MailChimp to contact you.
+This is certified under the EU-US Privacy Shield agreement, which provides safeguards intended to be equivalent to those provided in the EU.
+Every email we send like this includes an unsubscribe link.
+Minimum age to join Uphold
+The minimum age to join Uphold is 16 years old.
+&nbsp;
+Detail of personal data processing Publishers and content creators Purpose of processing
+Categories of personal data processed
+Legal basis of processing
+Duration of storage To communicate with publishers and creators that have signed up as Brave business partners.
+Name, e-mail address, frequency of access to these emails, links clicked.
+Necessary for the performance of the contract agreed between both the creator and Brave (and necessary for us to provide the requested service).
+The duration of the creator’s account with Brave.
+To maintain accounts, statistics, and billing with publishers and creators that have signed up as Brave business partners.
+Name, e-mail, phone number, names and URIs* of websites, Youtube, Twitch&nbsp;etc., including their favicons or avatars, an internal publisher ID.
+Necessary for the performance of the contract agreed between both the creator and Brave (and necessary for us to provide the requested service).
+The duration of the creator’s account with Brave.
+To enable all publishers and creators to accumulate contributions of BAT from Brave, and from Brave users.
+Names and URIs* of websites, Youtube, Twitch&nbsp;etc., and publicly available contacts.
+Our interest in providing publishers and content creators with BAT as soon as they start to work with Brave.
+The data are used in a way that does not negatively affect your rights or interests.
+Indefinite.
+To identify URIs that have opted out of Brave’s BAT system.
+Public URI* of channels (websites/Youtube/Twitch URL etc.).
+Consent
+Indefinite.
+Internal communications.
+Name, e-mail address, and internal publisher ID at the time of communication.
+Necessary for the performance of the contract agreed between both the creator and Brave (and necessary for us to provide the requested service).
+Indefinite.
+&nbsp;
+Contacting Brave about your privacy
+We are always interested in hearing and responding to questions and concerns at twitter.com/brave and at github.com/brave.
+More in-depth conversations can be had at community.brave.com.
+You can contact our data protection officer, Dr Johnny Ryan, and the rest of our privacy team at privacy@brave.com.
+We are represented in Europe by Brave Software Europe Ltd.
+You can ask to know what information we have about you, update incorrect information, delete it, object to our use of it, or get a copy of it.
+If you’re in the European Union, you also have the right to complain to your local data protection authority (though everyone should have this right).
+We’ll update this policy whenever we make material changes to our practices, and we’ll announce it to let you know.
+&nbsp;
+Notes
+* For an explanation of what a URI is see https://en.wikipedia.org/wiki/Uniform_Resource_Identifier.&nbsp;If some of the names of these websites and channels that Brave has recorded to facilitate BAT gifts from Brave and donations from users happen to contain people’s names, then we treat these URLs as personal data.
+ Resources
+F.A.Q.
+Brave Store
+Help Center
+Community
+Brave Branding
+Media Assets
+Status Privacy Policy
+Brave Browser
+Website &amp.
+Email
+Publishers &amp.
+Creators Product
+Brave Release
+Brave Beta
+Brave Dev
+Brave Nightly Join the Newsletter Company
+Research
+Careers
+In the Press
+Github
+Blog Social Media
+Reddit 
+Twitter
+Facebook
+YouTube Contact Press
+press@brave.com
+Business
+bizdev@brave.com
+Support
+community.brave.com Offices Brave San Francisco
+512 Second St., Floor 2 San Francisco, CA 94107
+Brave London
+Mindspace Shoreditch 9 Appold St London, EC2A 2AP Pages
+
+$1 Million Token Giveaway
+28 Day Experimental Learning Version of Brave Privacy Policy
+404 Page
+About Ad Replacement
+About Brave
+About Brave Rewards
+Ads User Trials
+Android
+Assets for Creators
+Become a Brave Rewards Creator
+Best Adblock for YouTube
+BitTorrent – Browse with integrity
+BitTorrent – Secure &amp.
+Fast Browsing
+Block Ads and Trackers with Brave!
+Brave Branding Assets
+Brave Linkbubbles for Social Media &amp.
+Pocket
+Brave Logo SEO
+Brave Research
+Brave Signing Key
+Brave.com Privacy Policy
+Browser Privacy Policy
+Coinbase Download
+Coindesk Partnership for faster, ad-free browsing
+Creator Referral Program
+Download Brave Ads Trials
+Download Brave Beta
+Download Brave Dev
+Download Brave Nightly
+Download Browser with Adblocker for Mobile &amp.
+Desktop
+Dr Johnny Ryan FRHistS
+Experience the Fastest &amp.
+Safest Web Browser
+Experience the Fastest &amp.
+Safest Web Browser
+Features
+Free 2-year subscription to Barron’s
+Free 2-year subscription to MarketWatch
+Frequently Asked Questions
+iOS
+Join us to Change the Web Together
+M_AdBlock C BR
+M_AdBlock C BR
+M_AdBlock C DE
+M_AdBlock C DE
+M_AdBlock C FR
+M_AdBlock C FR
+M_AdBlock C FR
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_Adblock C IN
+M_Adblock C PH
+M_Adblock C SP
+M_Adblock C SP
+M_Adblock C SP
+M_Adblock C UK
+M_AdBlock C US
+M_Adblock US -q
+M_Branded BR
+M_Branded BR
+M_Branded BR
+M_Branded DE
+M_Branded DE
+M_Branded FR
+M_Branded FR
+M_Branded FR
+M_Branded ID
+M_Branded IN
+M_Branded PH
+M_Branded SP
+M_Branded SP
+M_Branded SP
+M_Branded UK
+M_Branded UK
+M_Branded UK
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Browser Option A AU
+M_Browser Option A DE
+M_Browser Option A NZ
+M_Browser Option A UK
+M_Browser Option A US LP 1
+M_Browser Option A US LP 1
+M_Browser Option A US LP 1
+M_Browser Option A US LP 2
+M_Browser Option C BR
+M_Browser Option C BR
+M_Browser Option C DE
+M_Browser Option C FR
+M_Browser Option C FR
+M_Browser Option C FR
+M_Browser Option C ID
+M_Browser Option C IN
+M_Browser Option C PH
+M_Browser Option C SP
+M_Browser Option C SP
+M_Browser Option C UK
+M_Browser Option C US
+M_Browser Option C US
+M_Browser Option C US
+M_Browser Option C US
+M_Browser Option C US
+M_Get Brave
+M_Qwant C FR -qw
+M_Reddit-CPC
+M_Tor C BR
+M_Tor C BR
+M_Tor C DE
+M_Tor C FR
+M_Tor C FR -qw -2
+M_Tor C ID
+M_Tor C IN
+M_Tor C PH
+M_Tor C SP
+M_Tor C UK
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US -q
+M_VPN C BR
+M_VPN C BR
+M_VPN C DE
+M_VPN C FR
+M_VPN C FR
+M_VPN C ID
+M_VPN C IN
+M_VPN C PH
+M_VPN C SP
+M_VPN C SP
+M_VPN C SP
+M_VPN C SP
+M_VPN C UK
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+Media Assets
+News on Privacy, Adblock and Browsers
+
+Category AMA
+Category Announcements
+Category Brave Insights
+Category Brave Rewards
+Category Community
+Category GDPR
+Category New Features
+Category Policy
+Category Research
+Category Rewards
+Security &amp.
+Privacy Category
+
+
+Press
+Publishers &amp.
+Creators Privacy Policy
+Secure, Fast &amp.
+Private Web Browser with Adblocker
+Sitemap
+Subscription-Offer-BA
+Subscription-Offer-MW
+Support Your Favorite Creators
+Support Your Favorite Twitch Creator
+Support Your Favorite YouTube Creator
+Terms Of Use
+Thanks for making Brave your default
+The Brave Community
+tor-a
+Townsquare Media – PopCrush
+Townsquare Media – Taste Of Country
+Townsquare Media – Ultimate Classic Rock
+Townsquare Media – XXL
+Twitch
+Twitch-Creators
+Welcome to Brave Ads
+XDA
+Youth Involvement in Open Source Technologies
+ &nbsp;Terms of Use&nbsp;| Report a Security Issue Designed by Elegant Themes | Powered by WordPress &lt;img src="//analytics.brave.com/piwik.php?idsite=2" style="border:0;" alt&gt.
+  
+Features
+
+Features
+Creators
+
+
+Blog
+About
+Support
+
+Community
+Help Center
+Media Assets
+
+
+Download
+ Select Page 
+Features
+
+Features
+Creators
+
+
+Blog
+About
+Support
+
+Community
+Help Center
+Media Assets
+
+
+Download
+ LAST UPDATED: FEB 11, 2019
+Brave Browser Privacy Policy Brave is a private browser
+The Brave browser is designed to not know who you are, or what sites you visit.&nbsp.
+Our company does not store any record of people’s browsing history.
+We don’t write any personal data to the blockchain.
+The only way a user’s data is stored by Brave is if the user has switched on&nbsp;Rewards or&nbsp;Sync. Read this document to understand how the Brave Browser uses data.
+
+To learn how we use data to operate our websites, forums, and communications, visit the Website Privacy Policy.
+To learn how we use data for publishers and creators visit the Publisher Privacy Policy on the Basic Attention Token website.
+In this policy “we”, “us”, etc.
+refers to Brave Software Inc, while “Brave” refers to the browser.
+Security &amp.
+updates
+Brave automatically checks with us for updates.
+This ensures that you always have access to the latest security fixes.
+We count the number and type of these requests when we receive them to produce aggregate statistics.
+No particular person’s information can be identified in the statistics we produce.
+You can also update to the latest version here.
+Sync
+If you switch on Sync then your bookmarks and passwords will be saved in an encrypted file on a cloud storage service, to which you will have the only decryption key.
+The data1 are entirely inaccessible to Brave and to the cloud storage provider.
+Learn how to switch on Sync here.
+(Note that only Brave version 0.59 and above have the Sync feature.
+You can update to the latest version here.)
+Brave Rewards
+If you switch on Brave Rewards you are assigned a “wallet” identifier by Uphold, our payments partner.
+We record this identifier on servers operated by Amazon and Heroku (a Salesforce company) in the United States.
+These services are operated in the United States, and are certified under the EU-US Privacy Shield agreement, which provides safeguards intended to be equivalent to those provided in the EU.
+Brave uses your wallet identifier to determine when to send you a monthly gift of attention tokens (BAT).
+You can disable this in Preferences or Settings.
+
+
+Tip: you can quickly access settings by copying 
+brave://rewards
+ in to your address bar.
+Learn how Brave Rewards works here.
+
+Each time Brave sends users a monthly gift of BAT it makes a record of their IP addresses that can be analysed to safeguard against fraud.&nbsp;Brave checks to see whether we are currently offering tokens to Brave users.
+This request includes the identifier of your unique Rewards wallet.
+See data processing detail.
+Even with Brave Rewards enabled, we never collect your browsing history or similar information, and we can’t derive this information from your contributions to content creators and sites.
+Instead, we aggregate contributions among all Brave users, and we cannot trace contributions to individual users, or link any of your contributions together.
+Ads*
+If you switch on Brave Rewards and switch on ads (in Rewards settings) you will see ad notifications, and will receive BAT to reward you for viewing these ads.
+While the ads you see are based on your interests, which are inferred from your browsing, Brave Ads is private and anonymous.
+The data are stored on your device, and are entirely inaccessible to Brave.
+No personal data or browsing history ever leaves the Brave browser on your device.
+*Currently only the Dev version&nbsp;has a (limited) version of the Ads feature.
+Crash reports
+When Brave crashes, it creates a report that can be sent to us to help us fix whatever caused the problem.
+This report contains technical information about your computer system which is typically distinctive.
+You can choose whether to send us these reports.
+Even if you have chosen to send reports in the past, you can turn off future reports in settings.
+Nightly, Dev, and Beta browser versions
+Nightly, Dev, and Beta versions of the Brave Browser are experimental previews of new Brave Browser versions.
+They allow users to test new features, and help Brave to find and fix errors before releasing a new version of the Brave Browser.
+These test versions of the Browser may automatically send crash reports to Brave so that we can identify and fix problems.
+A crash report can contain personal information.
+See data processing details.
+
+How to switch this feature off.
+You can switch off “Automatically send usage statistics and crash reports to Brave Software” in Brave Dev or Brave Beta settings.
+
+
+Tip:&nbsp;you can quickly access settings by copying 
+brave://settings/syncSetup
+&nbsp;in to your address bar.
+
+&nbsp;
+Detail of personal data processing Brave Rewards Purpose of processing
+Categories of personal data processed
+Legal basis of processing
+Duration of storage To make and verify (including anti-fraud) Basic Attention Token contributions
+IP address at time of claiming a monthly grant of BAT tokens, and Wallet ID (this ID is not tied to what you browse or do because your browsing is kept anonymous by Brave).
+Necessary for the performance of a contract between us (and necessary for us to provide the requested service).
+The duration of the user’s account, plus 4 years in order to comply with US Internal Revenue Service requirements.
+Browser testing and research (Nightly, Dev, and Beta versions only) Purpose of processing
+Categories of personal data processed
+Legal basis of processing
+Duration of storage To fix problems in the Brave Browser by acting on issues highlighted by crash reports from Beta and Dev versions of the Browser
+Crash reports, containing memory dumps.
+Our interest in testing the product and fixing problems.
+The data are used in a way that does not negatively affect your rights or interests.
+Indefinite &nbsp;
+Help with privacy settings in Brave
+You can find guides on how to change privacy settings in Brave in the Help Center..
+Contacting Brave about your privacy
+We are always interested in hearing and responding to questions and concerns at twitter.com/brave and at github.com/brave.
+More in-depth conversations can be had at community.brave.com.
+You can contact our data protection officer, Dr Johnny Ryan, and the rest of our privacy team at privacy@brave.com.
+We are represented in Europe by Brave Software Europe Ltd.
+You can ask to know what information we have about you, update incorrect information, delete it, object to our use of it, or get a copy of it.
+If you’re in the European Union, you also have the right to complain to your local data protection authority (though everyone should have this right).
+We’ll update this policy whenever we make material changes to our practices, and we’ll announce it to let you know.
+We hope you’ll find any changes agreeable, but if you’re not comfortable with changes to the info we collect or how we use it, we understand your choice to stop using Brave.&nbsp;
+&nbsp;
+
+Notes&nbsp;
+
+
+Data are personal if the data can single a person out (on their own or in combination with other data), without an unlikely degree of effort or expense or technological development.
+The GDPR definition of “personal data” includes any data that can indirectly contribute to singling out an individual, including unique IDs codes, certain types of IP addresses, and encrypted data that one can decrypt without disproportionate effort.
+But data that are entirely impossible to access are not personal.
+
+ Resources
+F.A.Q.
+Brave Store
+Help Center
+Community
+Brave Branding
+Media Assets
+Status Privacy Policy
+Brave Browser
+Website &amp.
+Email
+Publishers &amp.
+Creators Product
+Brave Release
+Brave Beta
+Brave Dev
+Brave Nightly Join the Newsletter Company
+Research
+Careers
+In the Press
+Github
+Blog Social Media
+Reddit 
+Twitter
+Facebook
+YouTube Contact Press
+press@brave.com
+Business
+bizdev@brave.com
+Support
+community.brave.com Offices Brave San Francisco
+512 Second St., Floor 2 San Francisco, CA 94107
+Brave London
+Mindspace Shoreditch 9 Appold St London, EC2A 2AP Pages
+
+$1 Million Token Giveaway
+28 Day Experimental Learning Version of Brave Privacy Policy
+404 Page
+About Ad Replacement
+About Brave
+Ads User Trials
+Assets for Creators
+Become a Brave Rewards Creator
+Best Adblock for YouTube
+BitTorrent – Browse with integrity
+BitTorrent – Secure &amp.
+Fast Browsing
+Block Ads and Trackers with Brave!
+Brave Branding Assets
+Brave Linkbubbles for Social Media &amp.
+Pocket
+Brave Logo SEO
+Brave Research
+Brave Signing Key
+Brave.com Privacy Policy
+Browser Privacy Policy
+Coinbase Download
+Coindesk Partnership for faster, ad-free browsing
+Creator Referral Program
+Download Brave Ads Trials
+Download Brave Beta
+Download Brave Dev
+Download Brave Nightly
+Download Browser with Adblocker for Mobile &amp.
+Desktop
+Dr Johnny Ryan FRHistS
+Experience the Fastest &amp.
+Safest Web Browser
+Experience the Fastest &amp.
+Safest Web Browser
+Features
+Free 2-year subscription to Barron’s
+Free 2-year subscription to MarketWatch
+Frequently Asked Questions
+Join us to Change the Web Together
+M_AdBlock C BR
+M_AdBlock C BR
+M_AdBlock C DE
+M_AdBlock C DE
+M_AdBlock C FR
+M_AdBlock C FR
+M_AdBlock C FR
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_AdBlock C ID
+M_Adblock C IN
+M_Adblock C PH
+M_Adblock C SP
+M_Adblock C SP
+M_Adblock C SP
+M_Adblock C UK
+M_AdBlock C US
+M_Adblock US -q
+M_Branded BR
+M_Branded BR
+M_Branded BR
+M_Branded DE
+M_Branded DE
+M_Branded FR
+M_Branded FR
+M_Branded FR
+M_Branded ID
+M_Branded IN
+M_Branded PH
+M_Branded SP
+M_Branded SP
+M_Branded SP
+M_Branded UK
+M_Branded UK
+M_Branded UK
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Branded US
+M_Browser Option A AU
+M_Browser Option A DE
+M_Browser Option A NZ
+M_Browser Option A UK
+M_Browser Option A US LP 1
+M_Browser Option A US LP 1
+M_Browser Option A US LP 1
+M_Browser Option A US LP 2
+M_Browser Option C BR
+M_Browser Option C BR
+M_Browser Option C DE
+M_Browser Option C FR
+M_Browser Option C FR
+M_Browser Option C FR
+M_Browser Option C ID
+M_Browser Option C IN
+M_Browser Option C PH
+M_Browser Option C SP
+M_Browser Option C SP
+M_Browser Option C UK
+M_Browser Option C US
+M_Browser Option C US
+M_Browser Option C US
+M_Browser Option C US
+M_Browser Option C US
+M_Get Brave
+M_Qwant C FR -qw
+M_Reddit-CPC
+M_Tor C BR
+M_Tor C BR
+M_Tor C DE
+M_Tor C FR
+M_Tor C FR -qw -2
+M_Tor C ID
+M_Tor C IN
+M_Tor C PH
+M_Tor C SP
+M_Tor C UK
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US
+M_Tor C US -q
+M_VPN C BR
+M_VPN C BR
+M_VPN C DE
+M_VPN C FR
+M_VPN C FR
+M_VPN C ID
+M_VPN C IN
+M_VPN C PH
+M_VPN C SP
+M_VPN C SP
+M_VPN C SP
+M_VPN C SP
+M_VPN C UK
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+M_VPN C US
+Media Assets
+News on Privacy, Adblock and Browsers
+
+Category AMA
+Category Announcements
+Category Brave Insights
+Category Brave Rewards
+Category Community
+Category GDPR
+Category New Features
+Category Policy
+Category Research
+Category Rewards
+Security &amp.
+Privacy Category
+
+
+Press
+Publishers &amp.
+Creators Privacy Policy
+Secure, Fast &amp.
+Private Web Browser with Adblocker
+Sitemap
+Subscription-Offer-BA
+Subscription-Offer-MW
+Support Your Favorite Creators
+Support Your Favorite Twitch Creator
+Support Your Favorite YouTube Creator
+Terms Of Use
+Thanks for making Brave your default
+The Brave Community
+tor-a
+Townsquare Media – PopCrush
+Townsquare Media – Taste Of Country
+Townsquare Media – Ultimate Classic Rock
+Townsquare Media – XXL
+Twitch
+Twitch-Creators
+Welcome to Brave Ads
+XDA
+Youth Involvement in Open Source Technologies
+ &nbsp;Terms of Use&nbsp;| Report a Security Issue Designed by Elegant Themes | Powered by WordPress &lt;img src="//analytics.brave.com/piwik.php?idsite=2" style="border:0;" alt&gt.

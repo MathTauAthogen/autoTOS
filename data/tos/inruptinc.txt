@@ -1,0 +1,137 @@
+ Terms of Service Solid is an open source initiative with community leader Tim Berners-Lee.
+Inrupt Inc.
+(“inrupt”) is based in the USA with website https://www.inrupt.com&nbsp;and supports Solid.
+The contribution of inrupt to Solid can be found on the website&nbsp;https://solid.inrupt.com.
+You can use Solid independently of inrupt either by working with another company or by self-hosting.
+These Terms of Service cover your use and access to inrupt services and websites (“Services”).
+Our Privacy Policy explains how your data is handled, while our Acceptable Use Policy outlines your responsibilities when using our Services.
+We have done our best to make these Terms of Service easy to read and understand and recommend that you read the full version.&nbsp;
+Before using our Services, you will need to agree to these Terms of Service, Privacy Policy and Acceptable Use Policy.
+If you’re using our Services for an organisation, you’re agreeing to these Terms on behalf of that organisation.&nbsp;You accept the Terms of Service, Privacy Policy and Acceptable Use Policy by clicking the ‘I accept’ button. What are inrupt Services? Inrupt assists you in obtaining a WebID on Solid via&nbsp;https://inrupt.net, which is a unique identification number for an individual or legal entity.
+Inrupt provides you with a Solid POD via&nbsp;https://inrupt.net.
+A Solid POD is a place where you can store your data and choose who to share what data with and when.
+A Solid POD must be owned and controlled by a single individual or legal entity which has a corresponding Solid WebID.&nbsp;
+A POD must be associated with a WebID.
+If a POD is not associated to a WebID, the POD will be deleted.
+A WebID that does not represent an individual or legal entity will be deleted.&nbsp;
+You can interact with the Services in three ways: WebID User, Solid User, or Solid Developer. WebID User If you have a WebID but not a Solid POD, you can send data to Solid PODs associated to WebIDs other than your own.
+However, if you have a WebID but no Solid POD.
+you will not be able to keep a record of data that you have sent.&nbsp; Solid User As a ‘Solid User’, inrupt can provide you with access to Solid apps developed by the Solid open source community.
+You will have separate agreements with the app providers.&nbsp;
+Inrupt provides free Solid POD storage limited to 25 megabytes.&nbsp;
+Users under the age of consent as determined by the laws of the country they are located in at the time of consent must have written permission from a parent or guardian to use the Services.
+You can leave an officially recorded will about what you would like to happen to your Solid POD when you are deceased.
+For example, you may wish to donate your personal data to public health research, or have it deleted.
+You can update your Solid POD will at any point.
+In the case that there is no will, the Solid POD will be deleted.&nbsp; Solid Developer As a ‘Solid Developer’, inrupt provides you with development instruction and development support via&nbsp;https://solid.inrupt.com. inrupt Service operations When inrupt needs to carry out maintenance that will impact the Services, we will use reasonable efforts to post a notification in advance via the website inrupt.com.
+We will do our best to do this during non-peak hours.
+In the case of a Services outage, we will make sure to inform you and do our best to restore access to the Services as quickly as possible.&nbsp;
+We want you to understand that given the nature and stage of what inrupt is trying to achieve and our support of Solid, we are unable, except to the extent required by applicable law, to provide any kinds of warranties or guarantees.&nbsp;Also, except to the extent required by applicable law, we cannot agree to be responsible for any losses, damages, or liabilities that you incur, whether they are direct, indirect, consequential, expected or otherwise.&nbsp;If there is a dispute or claim in relation to these Terms and Conditions, Acceptable Use Policy and/or Privacy Policy, you agree that it will be subject to the laws of the Commonwealth of Massachusetts, USA and will be resolved by arbitration in Boston, Massachusetts under the auspices and rules of the Judicial Arbitration and Mediation Service, Inc.
+(JAMS).&nbsp;However, we will still be entitled to injunctive or equitable relief in any court if we are facing immediate harm or damage due to your actions. Privacy Policy In this Privacy Policy you will find how inrupt handles your data when you use inrupt websites and Services. What &amp.
+Why When you create a Solid POD, inrupt stores the following data about you in order to provide the Service:&nbsp;
+
+Your email&nbsp;
+Your name
+The Data stored on your POD
+
+This data will only be used to reset your password upon your request, or to contact you in case of crucial service announcements.
+Your email address needs to be a working email address to be able to reset your password.
+Your name will be publicly displayed only on your Solid POD homepage by default.&nbsp;
+Your password is saved in hashed form.
+The hashed password is saved so that your identity can be verified when logging in to your Solid POD.&nbsp;
+Your data will not be shared outside of inrupt and legally contracted inrupt service providers.
+Inrupt does not use your data for providing targeted advertising.&nbsp;
+Inrupt will not use this data for any purpose other than providing it to those who have been given read access to it by the Solid POD owner(s).&nbsp;
+When you browse on the websites&nbsp;https://www.inrupt.com&nbsp;and&nbsp;https://solid.inrupt.com, inrupt collects the following data through cookies:
+
+User IP Address&nbsp;
+User ID&nbsp;
+Date and time of the request&nbsp;
+Title of the page being viewed&nbsp;
+URL of the page being viewed&nbsp;
+URL of the page that was viewed prior to the current page&nbsp;
+Screen resolution being used&nbsp;
+Time in local users’ time zone
+Files that were clicked and downloaded&nbsp;
+Links to an outside domain that were clicked
+Page generation time, i.e., the time it takes for webpages to be generated by the webserver and then downloaded by the user&nbsp;
+Location of the user (country, region, city, approximate latitude and longitude)&nbsp;
+Main language of the browser being used&nbsp;
+User agent of the browser being used, including the random unique visitor ID, time of the first visit for the user, time of the previous visit for the user, and number of visits for the user&nbsp;
+
+This cookie data is used to understand which parts of the website are being viewed in which order and on which browsers as well as if there are any variations per country and time of day.&nbsp;
+Tracking cookies will be used if you accept the tracking cookies function before accessing the websites&nbsp;https://www.inrupt.com&nbsp;and https://www.solid.inrupt.com, but the websites will continue to function even if you do not give permission to the tracking cookies.
+When you browse on the website&nbsp;https://inrupt.net, there are no tracking cookies, only a functional cookie that temporarily stores your WebID on inrupt servers if and when you are logged in so that you stay logged in.&nbsp;
+Inrupt requests feedback on instructions via a pop-up survey, participation in&nbsp;which is completely voluntary.
+Information includes mood icon and text submitted as feedback which is used to improve the quality and clarity of the website copy.&nbsp; With Whom Inrupt may share the data collected from you with legally contracted technology services providers that partner with inrupt to support inrupt's product, technology, and infrastructure needs.
+There may be circumstances where service providers’ responsibilities related to supporting production infrastructure require them to be exposed to user data. How User Controls.
+You can access, amend, download, and delete your personal information by logging into your account and going to your account settings page.
+You can also limit the way we collect and use your data on the user control page of your account.&nbsp;
+Retention.
+When you sign up for an account with inrupt, we’ll retain information you store on our Services for as long as your account is in existence or as long as we need it to provide the Services to you.
+You can choose to terminate inrupt Services at any time.
+If you delete your account, all data on your Solid POD will be deleted, with no opportunity to recover such data or account information.
+Security.
+Inrupt, will apply its best efforts&nbsp;to ensure that your data is secure.
+If there is a breach of your data, we will exercise our best efforts to notify you as soon as we find out.
+If you believe you have encountered or suspect an exposure of your data or a technical vulnerability, please report it to&nbsp;security@inrupt.com.
+You are responsible for choosing a strong password that uses a combination of upper and lower case letters, numbers and symbols to keep your password safe.&nbsp;
+Inrupt may disclose data and information as necessary to satisfy any applicable law, regulation, or legal process.
+Inrupt will apply its best efforts to notify you about government requests or inquiries that involve your data.&nbsp; Where Your Solid POD data will be stored on our hosting providers’ servers.
+This is currently Amazon Web services&nbsp;https://aws.amazon.com, in the USA.&nbsp; Changes Terms of Service may change, in which case inrupt will notify you beforehand.
+It will not be assumed that you agree to new Terms of Service because of previous agreements to previous Terms of Service.
+You will be asked for renewed consent to the new Terms of Service.
+If you do not wish to consent, Services you have already will be provided under the Terms of Service you agreed to when you accepted the Service.
+Inrupt will provide publicly accessible archives of its Terms of Service so that changes can be viewed over time.
+If inrupt is involved in a reorganisation, merger, acquisition, or sale of our business or assets, your data may be transferred.
+We will notify you promptly by email of any such event and outline your choices at that time. Your Rights To make requests regarding your rights, you can contact inrupt on security@inrupt.com.
+You have control over your personal data and how it is collected, used, and shared.
+For example, you have a right to:
+
+Request access to your personal data (commonly known as a "data subject access request").
+This enables you to receive a copy of the personal data we hold about you and to confirm that we are lawfully processing it.
+Request correction of the personal data that we hold about you.
+This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+Request erasure of your personal data via&nbsp;https://inrupt.net/account/delete.
+This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it.
+You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law.
+Please note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts your fundamental rights and freedoms.
+You also have the right to object where we are processing your personal data for direct marketing purposes.
+In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+Request restriction of processing of your personal data.
+This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy.
+(b) where our use of the data is unlawful but you do not want us to erase it.
+(c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims.
+or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+Request the transfer of your personal data to you or to a third party.
+We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format.
+Please note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+Withdraw consent at any time where we are relying on consent to process your personal data.
+However, this will not affect the lawfulness of any processing carried out before you withdraw your consent.&nbsp;If you do not want to receive promotional or other e-mail from us, you can remove yourself from our mailing lists.
+Submit a complaint to the supervisory authority for data protection in your country.
+If you are a European national or resident, you have the right to submit a report to your local data protection supervisory authority if you do not get a response from&nbsp;us within 30 days.&nbsp;
+Acceptable Use Policy 
+
+By using our Services you agree not to misuse the Services or assist or enable anyone else to do so.&nbsp;For example, you must not try to do any of the following in connection with the Services:&nbsp;
+
+breach or otherwise circumvent any security or authentication measures;
+interfere with or disrupt any user, host, or network, for example by sending a virus, overloading, flooding, spamming, or mail-bombing any part of the Services;
+access, search, or create accounts for the Services by any means other than our publicly supported interfaces (for example, "scraping" or creating accounts in bulk);
+send unsolicited communications, promotions or advertisements, or spam;
+send altered, deceptive or false source-identifying information, including "spoofing" or "phishing";
+promote or advertise products or services other than your own without appropriate authorization;
+abuse referrals or promotions to get more storage space than deserved;
+circumvent storage space limits;
+sell the Services unless specifically authorized to do so;
+harass or abuse inrupt personnel or representatives or agents performing Services on behalf of inrupt;
+violate the law in any way, including storing, publishing or sharing material that's fraudulent, defamatory, or misleading;
+violate the privacy or infringe the rights of others;
+use the Services to violate any law or regulation.
+
+In the event that any user is monopolising an unfair proportion of available system or network resources, we reserve the right to limit that user’s activity.
+At our sole discretion, inrupt reserves the right to delete and close accounts that do not adhere to the inrupt Terms of Service, Privacy Policy, or Acceptable Use Policy.
+Inrupt welcomes your comments regarding the Terms of Service, Acceptable Use Policy, and Privacy Policy.&nbsp;If you have questions or concerns about the Services, you can contact us at security@inrupt.com.
+All materials provided on the inrupt website, including but not limited to information, documents, products, logos, graphics, sounds, images, and Services, are the copyrighted work and intellectual property of inrupt.&nbsp;
+Inrupt websites may contain links to websites that are not owned, operated or controlled by inrupt, and, therefore, inrupt is not responsible for the content or your use of such websites.
+Please read the Terms of Service of any other website that you access from the inrupt websites, as they may be different from the inrupt Terms of Service.&nbsp; 

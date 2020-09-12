@@ -1,0 +1,470 @@
+ &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-MH9W89" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
+Skip To Main Content This site uses cookies to help improve your online experience.
+Learn more
+ Amnesty International
+ Amnesty International Menu Main menu Main menu CLOSE 
+ Who We Are 
+ How we're run 
+ Jobs &amp.
+internships 
+
+
+ What We Do 
+ Countries 
+ Get Involved 
+ Take Action 
+ Join 
+ Volunteer 
+
+
+ Donate now 
+ Latest 
+ News 
+ Campaigns 
+ Education 
+ Research 
+
+
+ en Choose language 
+ français 
+ español 
+ العربية 
+ Search Cookie Statement Cookie Statement Amnesty International’s website, like most websites, uses small text files called cookies.
+This note provides information on what cookies are, which cookies Amnesty International uses, and how they can be controlled.
+If you wish to restrict or block cookies you can set your internet browser to do so- click on the following link for further information: www.aboutcookies.org
+1.
+What are cookies?
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website.
+Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie.
+Cookies are widely used because they allow a website to recognise a user’s device and therefore allow enhanced functionality.
+You can find out more information about cookies at: www.allaboutcookies.org some definitions used in this note are provided at part 5 below.
+2.
+How does Amnesty International use cookies?
+Amnesty International uses cookies for the following purposes:
+to compile statistical data on the use of our website and its functioning, so that we can monitor and improve it;
+to facilitate users’ ability to navigate through our website, including to allow registered users to access secure parts of our website.
+and
+to allow us to share our web pages via social media platforms.
+3.
+Which cookies does Amnesty International use?
+A full list of all the cookies we use is in the table at part 6 below.
+Please note that we are auditing the use of these cookies and the table will be updated as we make ongoing changes.
+4.
+How to control cookies
+If you do not wish to receive cookies you can set your web browser to restrict or block them.
+All modern browsers allow you to change your cookie settings, typically be found in the 'options' or 'preferences' menu of your browser.
+In order to understand these settings, the following link may be helpful: www.aboutcookies.org
+If you disable cookies you will not be able to use all the interactive features of our website.
+5.
+Definitions
+
+First Party/ Third party cookies
+
+Refers to the web domain placing the cookie.
+First-party cookies are those set by a website that is being visited by the user at the time – the website displayed in the URL window.
+Third party cookies are cookies that are set by a domain other than that of the website being visited by the user.
+If a user visits a website and another entity sets the cookie through that website, this would be a third-party cookie.
+
+Persistent cookies
+
+These cookies remain on a user’s device for the period of time specified in the cookie.
+They are activated each time that the user visits the website that created that particular cookie.
+
+Session cookies
+
+These cookies allow website operators to link the actions of a user during a browser session.
+A browser session starts when a user opens the browser window and finishes when they close the browser window.
+Session cookies are created temporarily.
+Once you close the browser, all session cookies are deleted.
+
+Pixel tags
+
+A pixel tag is not technically a cookie but is a similar type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies.
+Information collected is anonymous.
+6.
+Full list of cookies used by Amnesty International
+Below is a full list of cookies set by www.amnesty.org 
+a) Cookies set by our website CMS Cookie
+Purpose / More Information
+Names
+Expiry Cookie Agreement
+Created when the 'OK to Continue' button is clicked in the cookies notice at the top of page.
+Hides cookies notice on future visits.
+amnesty_international_wesbite
+1 week b) First Party cookies set by our website
+Amnesty Decoders uses cookies to authenticate you as a user.
+This allows our Amnesty Decoder front-end to recieve the token, store it within your browser session and authenticate you as a user
+im_access_token
+7 days Cookie
+Purpose / More Information
+Names
+Expiry Google Analytics
+Amnesty International and Amnesty Decoders support the use of Google Analytics within the site so that we can monitor activity on our website. 
+ Google Analytics cookies collect standard internet log information and visitor behaviour information in an anonymous form. More information.
+_ga
+2 years
+_gat
+10 minutes
+Google Tag Manager Google analytics is deployed through Google Tag Manager.
+ More information _dc_gtm
+ 
+10 minutes
+Microsoft Azure
+Ensures all requests are processed on the same cloud server instance.
+ARRAffinity
+Session
+Visual Web Optimizer
+Visual Web Optimizer allows us to trial design variations on our website.
+The cookies tell us which version of the website you have seen.
+All information is kept anonymous.
+More information
+_vis_opt_exp
+100 days
+_vis_opt_s
+100 days.
+_vis_opt_test_cookie
+Session
+_vwo_uuid
+100 days.
+_vis_opt_out
+100 days.
+Amnesty Campaigns
+Amnesty Campaigns use a cookie to temporarily retain the information that users enter to support a campaign action: name, email address and country selection.
+These cookies are retained so that users don't need to retype this information and can quickly support further actions.
+It is retained until users close their browser session.
+CampaignUserDetails
+Session
+Amnesty Decoders
+Amnesty Decoders 
+task manager
+ uses cookies for handling your session on the project task pages.
+task_session
+3 months
+Amnesty Decoders 
+identity management
+ system uses cookies for handling your session in the site.
+These cookies are used to sign in and sign out of Amnesty Decoders identity management.
+im_session
+Until the browser is closed
+Amnesty Decoders 
+discussion forum
+ uses cookies for handling your session in the site.
+These cookies are used to sign in and sign out of Amnesty Decoders discussion forum.
+_t
+2 months
+Amnesty Decoders 
+discussion forum’
+s software library stores its cookie session for operation purpose.
+_forum_session
+Until the browser is closed
+Amnesty Decoders uses cookies to remember data entered in some text fields.
+These cookies are used so that users don't need to retype inputs that are likely to remain similar (e.g.
+username when logging in).
+task_remember_token
+3 months
+Amnesty Decoders uses cookies to remember if users want to accept Amnesty International cookies or not. These cookies ensure that the platform retains user preferences for activating cookies or not.
+Amnesty International_accept_cookies
+3 months  
+Amnesty Decoders uses cookies to authenticate you as a user.
+This allows our Amnesty Decoder front-end to recieve the token, store it within your browser session and authenticate you as a user
+im_access_token
+7 days c) Third Party cookies set by our website Cookie
+Purpose / More Information
+Names YouTube
+We sometimes embed videos from YouTube.
+YouTube's use of cookies is governed by Google's privacy policy.
+More information.
+Expiry dates for these cookies vary from the session to 10 years.
+VISITOR_INFO1_LIVE demographics use_hitbox Activity SID HSID PREF d) Pixel Tags
+We use both Facebook and Twitter pixel tags.
+Pixel tags are used to track conversion from social media to our website.
+See more information on Facebook here and Twitter here. Share this 
+ Twitter 
+ Facebook 
+ Email 
+
+
+ ABOUT US 
+Contact Us
+How We're Run
+Modern Slavery Act Statement
+Finances and Pay
+
+
+
+
+ RESOURCES 
+Media Centre
+Wire Magazine
+Annual Report 2017/2018
+Human Rights Education
+Human Rights Courses
+
+
+
+
+ GET INVOLVED 
+Join
+Take Action
+Volunteer
+
+
+
+
+ LATEST 
+News
+Campaigns
+Research
+
+
+
+
+ WORK WITH US 
+
+If you are talented and passionate about human rights then Amnesty International wants to hear from you. JOBS &amp.
+INTERNSHIPS 
+
+
+
+
+Like us on Facebook
+Follow us on Twitter
+Subscribe to us on YouTube
+Follow us on GooglePlus
+Follow us on Instagram
+
+ Privacy Policy   |   Cookie Statement   |   Permissions   |   Refunds of donations 
+© 2018 Amnesty International Quick Search Advanced Search Search Keywords or Title Amnesty Index Number Date (year) Language English español français العربية русский português Indonesia 中文 فارسى polski Türkçe italiano 한국어 עברית română українська Deutsch 日本語 slovenščina සිංහල shqip தமிழ் ไทย srpski čeština Ελληνικά नेपाली Bahasa Melayu magyar български Nederlands o‘zbek ភាសាខ្មែរ dansk Монгол хэл slovenčina Тоҷикӣ azərbaycan dili বাংলা bosanski Кыргыз Tiếng Việt አማርኛ қазақ тілі ਪੰਜਾਬੀ پښتو اُردو Беларуская eesti Հայերեն ქართული македонски മലയാളം svenska Kiswahili ئۇيغۇرچە isiZulu Search &lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=953370881400404&amp;amp;ev=PageView&amp;amp;noscript=1"&gt.
+  &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-MH9W89" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
+Skip To Main Content This site uses cookies to help improve your online experience.
+Learn more
+ Amnesty International
+ Amnesty International Menu Main menu Main menu CLOSE 
+ Who We Are 
+ How we're run 
+ Jobs &amp.
+internships 
+
+
+ What We Do 
+ Countries 
+ Get Involved 
+ Take Action 
+ Join 
+ Volunteer 
+
+
+ Donate now 
+ Latest 
+ News 
+ Campaigns 
+ Education 
+ Research 
+
+
+ en Choose language 
+ français 
+ español 
+ العربية 
+ Search Privacy Policy Privacy Policy Introduction
+Amnesty International is committed to ensuring the privacy of all our users.
+We have long campaigned for the right to privacy and against government surveillance and intrusion.
+This policy represents our commitment as an organisation to your right to privacy, giving you a clear explanation about how we use your information and your rights over that information.
+This policy applies to all online systems offered by Amnesty International Limited to the public, through our website www.amnesty.org and other websites we operate.
+References to ‘we’,‘us’ and ‘our’ are to Amnesty International Limited, the main operating company of the Amnesty International’s International Secretariat, registered as a company limited by guarantee in England and Wales (number 01606776).
+Amnesty International Limited is the registered data controller to which the policy refers.
+Our full details can be found at the end of this policy and please feel free to contact us with any questions related to it.
+This policy was last updated on [1] June 2018 and is reviewed every 12 months.
+What types of information do we collect and how?
+The type and amount of information we receive and store depends on how you use our websites.
+You can access most of the pages on our websites without telling us who you are and without revealing any personal information.
+Our web servers use cookies and collect anonymous logs during user visits to our websites which provide valuable information for improving them in the future.
+For more information see the separate Use of Cookies page.
+In some circumstances your information may be shared with us by third parties, but only where you have specifically consented.
+Examples include registering for a human rights education course with our external provider, or if you register your interest in joining Amnesty International or one of its campaigns through Facebook, Facebook will share information such as your name and email address with us.
+We collect personal information in the following ways:
+
+When you sign up to online actions or express an interest in joining us as an international member
+When you make a donation to us
+When you sign up for our human rights education courses
+When you participate in other online campaigns or activities for example Amnesty Decoders
+When you apply for a job or volunteering opportunity with us
+
+If you choose to provide it, we can collect the following types of personal information from you:
+
+Name
+Age
+Address
+Email address
+Phone number
+Credit card details
+Information provided for the purpose of applying for a job or volunteering opportunity, including: gender, ethnicity, sexual orientation, disability and criminal convictions
+
+How do we use information collected?
+We use your personal information collected via our websites for the following purposes:
+
+To undertake email actions or compile petitions
+To update you on our campaigns and activities
+To ask you to donate or get involved in our campaigns
+To action your expression of interest in joining Amnesty International
+To administer your membership of Amnesty International
+To process donations that we receive from you
+To administer and progress your applications for employment or volunteering opportunities with us
+To monitor the diversity of applicants for employment or volunteering opportunities
+To share your data with other Amnesty International organisations or with trusted third parties (further details below)
+To improve our websites
+To fulfil any legal obligations
+
+Legal basis of processing
+Data protection law requires us to have a legal justification to process your personal information.
+We use the following depending on the type of data and the type of processing:
+
+Consent  We require your consent to send you our communications for example to send you emails to update you on our work and our campaigns and to request donations.
+We will only process your information in this way if you consent.
+If you apply for a job with us and provide us with sensitive personal information (including details of your race, ethnicity, gender) we will only process that information with your consent.
+
+Legitimate interest 
+ We sometimes share your personal information with other parts of the Amnesty International global movement (see below).
+This is done to fulfil our legitimate interest in promoting our organisation as effectively as possible and enabling our message to reach people who may be interested in human rights.
+
+To fulfil a contractual obligation 
+ If you donate to us or express an interest in joining our movement we will process the personal data you provided to process that donation or action your membership request.
+
+Legal obligation 
+ We will process your personal information to fulfil any legal obligations placed upon us, such as the prevention of fraud or money-laundering.
+We will also process your personal information if lawfully required to do so by a legal authority or a court of law.
+
+Necessity 
+ For example where you are applying for an employment or volunteering opportunity with us, processing certain information is necessary for employment purposes.
+
+Security 
+ We take appropriate security measures to ensure that we keep your information secure, accurate and up to date.
+We also take care to ensure that we have secure systems for processing payments through our payment services provider.
+However the transmission of information over the Internet is never completely secure, so while we do our best to protect personal information, we cannot guarantee the security of information transmitted to our websites.
+Third Party Websites
+On our website we sometimes have links to third party websites or applications.
+This policy does not apply to such pages or applications hosted or operated by other organisations.
+This includes the websites or applications of Amnesty International sections or related organisations or third party sites.
+These other sites may have their own privacy policies which apply to them.
+Sharing of your personal information
+We will only share your personal information in the following circumstances:
+
+Sharing with other parts of the Amnesty International global movement 
+ Amnesty International Limited is one part of Amnesty International’s global movement.
+Our movement is made up of over 60 membership organisations working to end human rights violations globally, including within the UK.
+Some of these bodies are formally constituted and others not.
+We may share your information with these entities who may then use your personal information in connection with their activities.
+For example, if you have expressed an interest in joining Amnesty International or sign a petition, we may share your contact details with your local Amnesty International organisation.
+To the extent that sharing your information in this way requires us to transfer your personal information outside of the EU, we have contractual arrangements in place to ensure that your data is shared and processed by the recipient organisation to an EU standard.
+
+Hosting and processing arrangements 
+ Our websites are hosted by third party service providers and therefore any personal details you submit through them may be processed by that third party service provider. 
+We also use other third parties to process your personal details including in the following areas:
+
+to action all online expressions of interest to join Amnesty International or take actions and manage all related communications
+to process online payments
+to process all information associated with applications for employment or volunteering opportunities and related recruitment processes.
+
+All third party services providers process your personal information only on Amnesty International Limited's behalf and are bound by contractual terms that are compliant with data protection law.
+We participate in Facebook’s custom audience and lookalike audience programs, which, depending on your privacy settings with Facebook, enable us to display our content to our existing or potential supporters on Facebook.
+We provide personal information such as your email address to Facebook which securely encrypts it.
+That personal information is then deleted by Facebook if it does not match a Facebook account or once they confirm you have an account.
+
+Payment processing and fraud 
+ Where submitted, your card details may be disclosed to banks or relevant financial institutions to arrange payments.
+In the case of a suspected fraudulent transaction, your details may be further disclosed for the sole purpose of performing further checks (for example, disclosure to a credit checking agency).
+
+Other sharing 
+ We may also share your personal information with your permission, or if we are legally required to disclose your information in circumstances where this cannot be reasonably resisted.
+Use of cookies
+A cookie is a text-only piece of information that a website transfers to your computer's hard disk so that the website can remember who you are.
+A cookie will normally contain the name of the Internet domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
+If you wish to restrict or block cookies you can set your internet browser to do so - click on the following link for more information: www.aboutcookies.org.
+Please click through to our Use of Cookies document for more detailed information on cookies and how Amnesty International uses them.
+Under 18s
+If you are aged 18 or under and would like to get involved in Amnesty International’s work, please make sure that you have your parent/guardian’s permission before giving us personal information.
+Retention Period For Data
+We only hold your personal information on our systems for as long as is necessary for the purposes outlined above.
+We remove personal data from our systems once it is no longer required, in line with our guidelines on how long important information must remain accessible for future use or reference, as well as when and how data can be destroyed when it is no longer needed.
+The length of time each category of data will be retained will vary depending on how long we need to process it for, the reason it was collected and in line with any statutory requirements.
+After this time the data will either be deleted or we may retain a secure anonymised record for research and analytical purposes.
+Access to and your rights over your personal information
+The personal data we hold about you is yours.
+You have the following rights over your information:
+
+To be informed how your data is being processed
+To access your data
+To rectify any data that is inaccurate
+To instruct us to delete your data
+To restrict our processing of your data (which includes contacting you via email) at any time.
+All our email communications to you will contain an unsubscribe link.
+To object to your data being stored.
+To move your data
+
+If you wish to exercise any of these rights or have any questions about this policy you may contact us in the following ways:
+By post:
+Amnesty International, International Secretariat 1 Easton Street  London  WC1X 0DW  UK
+By email: amnestyis@amnesty.org 
+By telephone: + 44 (0) 20 7413 5500
+Complaints
+If you wish to lodge a complaint about our handling of your personal data please get in touch with us on the details above with the details of your complaint.
+we aim to respond to all complaints within 14 working days.
+If you are dissatisfied with how we have handled your complaint you may lodge a complaint with the Information Commissioner’s Office which is the UK regulator in charge of data protection and privacy enforcement:
+Website: https://ico.org.uk/global/contact-us/
+Telephone: 0303 123 1113 Share this 
+ Twitter 
+ Facebook 
+ Email 
+
+
+ ABOUT US 
+Contact Us
+How We're Run
+Modern Slavery Act Statement
+Finances and Pay
+
+
+
+
+ RESOURCES 
+Media Centre
+Wire Magazine
+Annual Report 2017/2018
+Human Rights Education
+Human Rights Courses
+
+
+
+
+ GET INVOLVED 
+Join
+Take Action
+Volunteer
+
+
+
+
+ LATEST 
+News
+Campaigns
+Research
+
+
+
+
+ WORK WITH US 
+
+If you are talented and passionate about human rights then Amnesty International wants to hear from you. JOBS &amp.
+INTERNSHIPS 
+
+
+
+
+Like us on Facebook
+Follow us on Twitter
+Subscribe to us on YouTube
+Follow us on GooglePlus
+Follow us on Instagram
+
+ Privacy Policy   |   Cookie Statement   |   Permissions   |   Refunds of donations 
+© 2018 Amnesty International Quick Search Advanced Search Search Keywords or Title Amnesty Index Number Date (year) Language English español français العربية русский português Indonesia 中文 فارسى polski Türkçe italiano 한국어 עברית română українська Deutsch 日本語 slovenščina සිංහල shqip தமிழ் ไทย srpski čeština Ελληνικά नेपाली Bahasa Melayu magyar български Nederlands o‘zbek ភាសាខ្មែរ dansk Монгол хэл slovenčina Тоҷикӣ azərbaycan dili বাংলা bosanski Кыргыз Tiếng Việt አማርኛ қазақ тілі ਪੰਜਾਬੀ پښتو اُردو Беларуская eesti Հայերեն ქართული македонски മലയാളം svenska Kiswahili ئۇيغۇرچە isiZulu Search &lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=953370881400404&amp;amp;ev=PageView&amp;amp;noscript=1"&gt.

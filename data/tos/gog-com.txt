@@ -1,0 +1,1194 @@
+ A system report or other file containing a description of your computer's technical specification is required to submit this technical support request.When submitting a system report, please be aware that it may contain your personal information, like your computer name.
+Please consider reviewing and removing any personal information from the system report before submitting this file.The detailed instructions on how to generate the report will be displayed under this message, once you select your operating system in the form above.
+Creating a DXDiag report
+
+To launch the DXDiag application, press the Windows Key + R, type in 
+dxdiag
+ and press Enter.
+Please do not swich to the 64-bit version, as the 32-bit version is preferred.In the DXDiag window, click "Save All Information...", then choose a location in which you want to save the file (your desktop, for instance).
+Once you have created the file, please attach it to your support request using the "Add file" button above.
+Creating a System Profiler report
+
+
+OS X 10.7 or newer:Go to Applications -&gt.
+Utilities -&gt.
+System InformationClick File -&gt.
+Save as...Save the file and attach it to your support request using the ""Add file"" button above.
+
+OS X 10.6.x:Go to Applications -&gt.
+Utilities -&gt.
+System ProfilerClick File -&gt.
+Save as...Save the file and attach it to your support request using the ""Add file"" button above.
+Creating a GOG system report
+
+If you have installed the game using our *.sh installer, open your default terminal emulator, and run the following commands (don\'t forget to adapt the first command depending on the game and its location.
+Use TAB to auto-complete the location and prevent typos and mistakes, and RETURN key - "Enter" - to confirm):
+
+cd ~/GOG Games/*your game*
+
+./start.sh --sysrep
+
+The system report will be located in your Desktop folder.
+Please attach it to your support request using the "Add file" button above Search across all games and articles This field cannot be blank Go to GOG.com English (US) Deutsch Français Polski Русский 简体中文 Sign in 
+ GOG.COM SUPPORT CENTER 
+ Policies and General Info 
+ GOG.com Policies 
+ Money Back Guarantee Policy 
+1.
+WHAT IS THE MONEY BACK GUARANTEE?
+
+At GOG.com, we're confident in the quality of the games we sell and the work that we put into getting them ready for you to play them.
+If a game that you've bought on GOG.com doesn't work and our team of expert Support staff can't solve the problem for you, we will give you back your money.
+
+
+2.
+IS IT AVAILABLE FOR EVERY GAME?
+
+Yes.
+The Money Back Guarantee applies to all games available on GOG.com.
+Please note that Gwent purchases are considered "Virtual Goods" and as such are considered final and non-refundable.
+
+
+3.
+WHICH COUNTRIES ARE ELIGIBLE FOR THE MONEY BACK GUARANTEE?
+
+All countries are eligible.
+Wherever you live, you are entitled to get a full refund if, for technical reasons, your game doesn’t work on your system.
+
+
+4.
+HOW DOES IT WORK?
+
+If, within 30 days after the purchase of your game, you experience technical problems or game-breaking bugs that prevent you from finishing your game, contact our customer support.
+They will do their best to help you fix the problem and if, at the end of their attempts to solve the problem your game is still not working, we'll give you back your money.
+
+
+5.
+WHEN WILL I GET MY MONEY BACK?
+
+The time between us issuing a refund, and you getting your money back, can vary depending on your payment method:- If you paid with a Visa or Mastercard or AMEX, you will get the money back on your bank account within a few business days.- If you paid via PayPal, the time needed to process your refund will vary, depending on the kind of payment you used (PayPal balance, or through your bank account, or your debit or credit card linked to your account).
+As soon as we issue the refund, you will receive an email from PayPal, which will contain more details about the process.- If you paid via Paysafecard, we will need your bank account information in order to issue the refund.
+Unfortunately the nature of Paysafecards makes this necessary.
+As this will be a bank transfer, most likely international, the amount of time needed for you to receive the funds will vary.
+
+
+6.
+I WANT A REFUND! HOW DO I INITIATE THE REFUND PROCEDURE?
+
+You simply need to contact our Support Team, by using the “Technical Issues with Games” form, and describing the problem as accurately as possible.
+We will get back to you with what we think might help fix your problem.
+If we can't get it working together, you will get your money back.
+
+
+7.
+I'M ANGRY! CAN I GET MY MONEY BACK RIGHT AWAY?
+
+We always aim to provide our users with working games, so first we'll try to get your purchase working on your system.
+If we can't get it working, we'll get you your money back.
+No worries.
+:)
+
+
+8.
+WHAT IF I DON'T WANT TO BOTHER WITH TRYING TO GET MY GAME WORKING? ALL I WANT IS MY MONEY BACK!
+
+Our top priority is to help you get the game working, and this means that we will require some cooperation from you.
+We won't ask anything extravagant, or super time-consuming, like a system reinstall, but if you absolutely refuse to try anything, we won't be able to determine whether the problem can be fixed or not, and won't be able to issue a refund.This is especially relevant if there are some glaring issues with your computer, like DirectX faults, or drivers that are ancient, or even missing.
+
+
+9.
+CAN I GET A REFUND FOR A GIFT I'VE RECEIVED?
+
+Since you did not pay for the games yourself, we can offer you a replacement game of equal or lesser value, as a form of store credit.
+If the person who purchased the gift prefers to receive a full refund, this is possible, however they should contact us about this separately.
+
+
+10.
+CAN I GET A REFUND FOR GIFT I'VE SENT TO SOMEONE AND THEY HAVE PROBLEMS RUNNING THE GAME?
+
+Sure, but the gift recipient will have to contact us first - our priority is to get the game working properly, after all.
+If we're unable to help, however, and a refund will be in order, then that is what we will do.
+
+
+11.
+WHAT ABOUT PRE-ORDERS?
+
+You can cancel pre-orders at any time before the game's release, and get the money back.
+
+
+12.
+WHAT ABOUT GAME PACKS AND DLCS?
+
+For technical reasons we cannot divide a game pack (for instance, a season pass, or a pack containing the base game and its DLCs), so you’ll get a refund for the full pack and, as a consequence, the full pack will be removed from your account.If a DLC itself doesn’t work on your system, and we cannot help you fix it, you will get your money back for the DLC itself.
+If the main game doesn’t work, and we’re unable to help, we will refund its DLCs as well.
+
+
+13.
+MY SYSTEM DOESN'T MEET THE MINIMAL REQUIREMENTS SPECIFIED ON PRODUCT PAGE, CAN I GET A REFUND?
+
+Well, there's a reason why we post the system requirements on each game's page: so you can see for yourself what you'll need to have on your rig in order to be able to run the game.
+If your game doesn't work because you misread our system specs, all we can really offer is that we're sorry for you.
+:( Please note that we also cannot provide support if you're trying to run our games through virtual machine software.
+
+
+14.
+BUT WHAT IF A WHOLE LOT OF MY GAMES DON'T WORK?
+
+We know that, since we're the Internet's leading DRM-free gaming platform, our Money Back Guarantee offer here is open to a certain amount of abuse.
+If you're being a bad person who's abusing our trust of you and asking for a whole lot of your games to be refunded and we can't resolve your problems, we'll have to stop offering you refunds.
+So don't be that guy.
+No one likes that guy.
+How many games can you ask for money back? We're humans here, so there's no hard numbers.
+If it seems like you're exploiting us, we'll let you know and tell you that this will be your final refund offer from us. Was this article helpful?  126 out of 171 found this helpful 
+
+Facebook
+Twitter
+LinkedIn
+Google+
+ Articles in this section 
+ Company reorganisation 
+ Cookie Policy 
+ Copyright Policy 
+ Money Back Guarantee Policy 
+ Privacy Policy 
+ User Agreement 
+ Do you have more questions? Didn't find the answer you were looking for? We will do our best to respond as quickly as possible.
+On weekdays, we normally reply within 24 hours, but during weekends we can only respond that quickly to high-priority, time-sensitive cases.
+All other cases will be looked into first thing next week.
+Contact us Want to get help and maybe make some new friends? We’ve got a great community here on GOG, which is always eager to help out.
+Please make sure not to share private data on public forums, though! Ask our community Part of group.
+Contact us Legal   A system report or other file containing a description of your computer's technical specification is required to submit this technical support request.When submitting a system report, please be aware that it may contain your personal information, like your computer name.
+Please consider reviewing and removing any personal information from the system report before submitting this file.The detailed instructions on how to generate the report will be displayed under this message, once you select your operating system in the form above.
+Creating a DXDiag report
+
+To launch the DXDiag application, press the Windows Key + R, type in 
+dxdiag
+ and press Enter.
+Please do not swich to the 64-bit version, as the 32-bit version is preferred.In the DXDiag window, click "Save All Information...", then choose a location in which you want to save the file (your desktop, for instance).
+Once you have created the file, please attach it to your support request using the "Add file" button above.
+Creating a System Profiler report
+
+
+OS X 10.7 or newer:Go to Applications -&gt.
+Utilities -&gt.
+System InformationClick File -&gt.
+Save as...Save the file and attach it to your support request using the ""Add file"" button above.
+
+OS X 10.6.x:Go to Applications -&gt.
+Utilities -&gt.
+System ProfilerClick File -&gt.
+Save as...Save the file and attach it to your support request using the ""Add file"" button above.
+Creating a GOG system report
+
+If you have installed the game using our *.sh installer, open your default terminal emulator, and run the following commands (don\'t forget to adapt the first command depending on the game and its location.
+Use TAB to auto-complete the location and prevent typos and mistakes, and RETURN key - "Enter" - to confirm):
+
+cd ~/GOG Games/*your game*
+
+./start.sh --sysrep
+
+The system report will be located in your Desktop folder.
+Please attach it to your support request using the "Add file" button above Search across all games and articles This field cannot be blank Go to GOG.com English (US) Deutsch Français Polski Русский 简体中文 Sign in 
+ GOG.COM SUPPORT CENTER 
+ Policies and General Info 
+ GOG.com Policies 
+ Copyright Policy We respect the intellectual property of others and we expect the users of our services do the same.
+If you believe that your copyrighted work has been copied in a way that constitutes copyright or other intellectual property rights infringement and is accessible through a website or other online service operated by us, you may notify us in accordance with the European Union’s E-Commerce Directive 2000/31/EC (including appropriate EU Member State implementing legislation) in relation to applicable intellectual property rights, or the United States’ Digital Millennium Copyright Act 1998 (DMCA).
+To file an infringement notification with us, you will need to send a written communication that includes the following (please consult your legal counsel or, if applicable, see Section 512(c)(3) of the DMCA to confirm these requirements):
+• A physical or electronic signature of a person authorised to act on behalf of the copyright owner.• Identification of the work claimed to have been infringed.• Identification of the material that is claimed to be infringing or to be the subject of infringing activity and which is requested to be removed or disabled, along information reasonably sufficient to enable us to locate the material.• Information reasonably sufficient to enable us to contact you, for example an email address, telephone number or other contact details.• A statement that you have a good faith belief that use of the material in the manner complained of is not authorised by the owner, its agent, or the law.• A statement that the information in the notification is accurate, and under penalty of perjury under the DMCA, that you are authorised to act on behalf of the owner of an exclusive right which allegedly is infringed
+Please send this notification by email to legal@gog.com or by mail to:
+Copyright AgentGOG sp.
+z o.o.ul.
+Jagiellońska 7403-301 WarsawPoland
+This information may be forwarded to the person allegedly providing the infringing content.
+Please note that if applicable under Section 512(f) of the DMCA any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability for damages.
+Please take this seriously!
+ Last update: 01.12.2017 
+
+&nbsp; Was this article helpful?  1 out of 1 found this helpful 
+
+Facebook
+Twitter
+LinkedIn
+Google+
+ Articles in this section 
+ Company reorganisation 
+ Cookie Policy 
+ Copyright Policy 
+ Money Back Guarantee Policy 
+ Privacy Policy 
+ User Agreement 
+ Do you have more questions? Didn't find the answer you were looking for? We will do our best to respond as quickly as possible.
+On weekdays, we normally reply within 24 hours, but during weekends we can only respond that quickly to high-priority, time-sensitive cases.
+All other cases will be looked into first thing next week.
+Contact us Want to get help and maybe make some new friends? We’ve got a great community here on GOG, which is always eager to help out.
+Please make sure not to share private data on public forums, though! Ask our community Part of group.
+Contact us Legal   A system report or other file containing a description of your computer's technical specification is required to submit this technical support request.When submitting a system report, please be aware that it may contain your personal information, like your computer name.
+Please consider reviewing and removing any personal information from the system report before submitting this file.The detailed instructions on how to generate the report will be displayed under this message, once you select your operating system in the form above.
+Creating a DXDiag report
+
+To launch the DXDiag application, press the Windows Key + R, type in 
+dxdiag
+ and press Enter.
+Please do not swich to the 64-bit version, as the 32-bit version is preferred.In the DXDiag window, click "Save All Information...", then choose a location in which you want to save the file (your desktop, for instance).
+Once you have created the file, please attach it to your support request using the "Add file" button above.
+Creating a System Profiler report
+
+
+OS X 10.7 or newer:Go to Applications -&gt.
+Utilities -&gt.
+System InformationClick File -&gt.
+Save as...Save the file and attach it to your support request using the ""Add file"" button above.
+
+OS X 10.6.x:Go to Applications -&gt.
+Utilities -&gt.
+System ProfilerClick File -&gt.
+Save as...Save the file and attach it to your support request using the ""Add file"" button above.
+Creating a GOG system report
+
+If you have installed the game using our *.sh installer, open your default terminal emulator, and run the following commands (don\'t forget to adapt the first command depending on the game and its location.
+Use TAB to auto-complete the location and prevent typos and mistakes, and RETURN key - "Enter" - to confirm):
+
+cd ~/GOG Games/*your game*
+
+./start.sh --sysrep
+
+The system report will be located in your Desktop folder.
+Please attach it to your support request using the "Add file" button above Search across all games and articles This field cannot be blank Go to GOG.com English (US) Deutsch Français Polski Русский 简体中文 Sign in 
+ GOG.COM SUPPORT CENTER 
+ Policies and General Info 
+ GOG.com Policies 
+ Cookie Policy Hello, GOG user! We hope you have a great time playing games and doing other cool things via GOG.com or GOG Galaxy.
+We've prepared this Cookie Policy to help you understand and feel more confident about the use of cookies, tracking pixels or similar technologies on our Services.
+We’ve put this Policy together as simply as we legally can, with some informal short summaries to help you understand what it means.
+However, the full text wording is what is important/binding legally.
+&nbsp.
+&nbsp.
+FULL TEXT QUICK SUMMARY 1.
+ABOUT THIS DOCUMENT This is the Cookie Policy of GOG sp.
+z.
+o.o.
+seated in Warsaw, Poland ul.
+Jagiellońska 74.
+03-301, (we will further call ourselves “GOG”).
+We use technologies on our online and mobile services, in particular on GOG.com, GOG Galaxy, www.playgwent.com, thewitcher.com/thronebreaker (which we'll call the Services) to collect information that helps us improve your online experience.
+We refer to these technologies, which include cookies, tracking pixels or similar technologies, collectively as “cookies.” This policy explains the different types of cookies used on the Services and how you can control them.
+By using the Services and viewing the cookie notice that appears together with the GOG services, you agree that we can store and access cookies as described in this policy.
+If you have any further queries, please contact us at privacy@gog.com.
+This is GOG’s “Cookie Policy”, which explains how we use website/online cookies and how you can control them. &nbsp.
+2.
+WHAT IS A COOKIE? Cookies are small text files that are stored on your computer or mobile device.
+They are widely used in order to make websites or other online services work or to be better or more efficient.
+They can do this because websites and other online services can read and write these files, enabling them to recognise you and remember important information that will make your use of them more convenient (e.g.
+by remembering your user preferences).
+Cookies are small text files stored on your device, which help to make websites/online services work and do this more efficiently.
+We also use similar technologies like scripts that are loaded when you visit GOG website or open our emails.
+We use them to know for example if you clicked on key elements on GOG platform.
+We also use similar technologies like scripts added to a web page, it tells us f.ex.
+whether you clicked on key elements on our websites or opened our emails. 3.
+WHAT COOKIES ARE USED ON OUR SERVICES? Below we list the different types of cookies we and our service providers may use on the Services.
+In this section we list the kinds of cookies we or our service providers use and what we use them for.
+
+Essential Cookies.These cookies are essential to the operation of our service in order to enable you to move around it and to use its features.
+Without these cookies services you have asked for, such as accessing secure areas of a website or paid for content, cannot be provided.
+We also use cookies to help prevent fraudulent use of login credentials.
+These cookies are essential for using the Services and therefore cannot be turned off without severely affecting your use of it.
+‘Essential cookies’ are needed so that you can actually navigate and use our services.
+
+Performance Cookies. Performance cookies, which often include analytics cookies, collect information about your use of this Services and enable us to improve the way it works.
+For example, performance cookies show us which are the most frequently visited pages on our website, allow us to see the overall patterns of usage on the Services, help us record any difficulties you have with the Services and show us whether our advertising is effective or not.
+We also use cookies to help you navigate within our website and travel back to pages.
+‘Performance cookies’ help us collect information about our services in order to improve them.
+
+Functionality Cookies. In some circumstances, we may use functionality cookies.
+Functionality cookies allow us to remember the choices you make on the Services and to provide enhanced and more personalized features, such as customising a certain webpage, remembering if we have asked you to participate in a promotion and for other services you request, like watching a video or commenting on a blog.
+All of these features help us to improve your visit to the Services.
+In particular, Functionality Cookies on the Services include Session Cookies which will remember preferences you have selected during the session (like games you enter in the cart), and Preference Cookies which are placed to remember your preferences like language preferences or currency you use on our Services.
+The maximum period after which these cookies expire is 12 months.
+‘Functionality cookies’ help us to remember how you use our services, so that we can enhance and personalise them for you.
+
+Targeting or Advertising Cookies or Similar Technologies. We partner with third party ad networks to manage our advertising on other sites.
+Our ad network partners may use tracking technologies to collect information about your activities on this and other websites to provide you targeted advertising based upon your interests and help us measuring the effectiveness of such ads.
+In particular, we may use Google Adwords, Doubleclick, Sizmek Versatag, Yandex.Metrica, Twitter Pixel or Facebook Pixel.
+For information about how you can opt out see point 4 below.
+‘Targeting or Advertising Cookies’ help us to make advertising more relevant and engaging to you.
+
+Analytics Cookies. We use analytical tools such as Google Analytics, Google Optimize, or Hotjar to collect information about how visitors use GOG our Services.
+For example, we can track different events like which GOG web pages or emails from us you actually opened and which links you clicked or analyse the traffic on our website.
+We use it to optimize our communications with you, to evaluate how our Services are being used, compile statistical reports on website activity and create a profile of aggregated visitors.
+In case of Google Analytics The the information about your use of the website and your IP address is transmitted to Google Inc.
+through Google Analytics component.
+To opt out of being tracked by Google Analytics across all GOG Services visit http://tools.google.com/dlpage/gaoptout.
+We use analytics cookies such as Google Analytics to evaluate how you use our Services and to optimize it for you.
+
+Social Plugin. On some of our websites we may use plugins from social media platform, such as “Like” button from Facebook.
+In such case your browser will send that social media platform information about the web page you visited, your IP address, and browser-related information.
+This occurs regardless of whether you clicked on the button or not.
+You can use content blocking solutions (build-in in your browser or as a separate ad-on) to prevent loading such plugins.
+On some of our websites we may also use social media plugins such as “Like” button (check left for more details). 4.
+HOW DO I CONTROL COOKIES? Although most web browsers automatically accept cookies, you may adjust settings on your browser or device to prevent the reception of cookies, or to provide notification whenever a cookie is sent to you.
+Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider’s website via your help screen.
+Also, some of our partners are members of the Networking Advertising Initiative (“NAI”) and/or the Digital Advertising Alliance (“DAA”) – organizations who offer a single location to opt out of receiving tailored ads.
+If you wish not to have your information used for the purpose of serving you targeted ads, you may opt-out by visiting the DAA's Consumer Choice page and/or the NAI’s Consumer Opt-Out page.
+Please note this does not opt you out of being served advertising.
+You will continue to receive generic, or non-targeted, ads.
+You will be still able to use our Services after disabling cookies, please be aware though that if all cookies are disabled, not all features of the Services may operate as intended.
+You can use your browser/device settings to control cookies at any time.
+Please note, that if you stop accepting all of the cookies, some features of our services may not operate as intended. &nbsp.
+5.
+CHANGES TO THIS COOKIE POLICY We may change this Cookie Policy at any time: please take a look at the “LAST UPDATED” date at the top of this policy to see when it was last revised.
+Any amendments to this Cookie Policy will come into effect a reasonable period of time after this "LAST UPDATED" date (normally we consider 30 days to be a reasonable time period) unless you contact us before that date to discuss or query any of the amendments.
+We can revise this Cookie Policy if necessary and it will come into effect 30 days later. 6.
+MORE ABOUT YOUR PRIVACY Please also check out our Privacy Policy, which gives more information about how we protect your privacy and GOG User Agreement to know more about our Services.
+Check out our privacy policy and user agreement too (link opposite).
+Last Revised 30.09.2018
+(in effect from October 23rd, 2018.
+to view currently applicable Cookie Policy click here) &nbsp.
+Was this article helpful?  17 out of 22 found this helpful 
+
+Facebook
+Twitter
+LinkedIn
+Google+
+ Articles in this section 
+ Company reorganisation 
+ Cookie Policy 
+ Copyright Policy 
+ Money Back Guarantee Policy 
+ Privacy Policy 
+ User Agreement 
+ Do you have more questions? Didn't find the answer you were looking for? We will do our best to respond as quickly as possible.
+On weekdays, we normally reply within 24 hours, but during weekends we can only respond that quickly to high-priority, time-sensitive cases.
+All other cases will be looked into first thing next week.
+Contact us Want to get help and maybe make some new friends? We’ve got a great community here on GOG, which is always eager to help out.
+Please make sure not to share private data on public forums, though! Ask our community Part of group.
+Contact us Legal   A system report or other file containing a description of your computer's technical specification is required to submit this technical support request.When submitting a system report, please be aware that it may contain your personal information, like your computer name.
+Please consider reviewing and removing any personal information from the system report before submitting this file.The detailed instructions on how to generate the report will be displayed under this message, once you select your operating system in the form above.
+Creating a DXDiag report
+
+To launch the DXDiag application, press the Windows Key + R, type in 
+dxdiag
+ and press Enter.
+Please do not swich to the 64-bit version, as the 32-bit version is preferred.In the DXDiag window, click "Save All Information...", then choose a location in which you want to save the file (your desktop, for instance).
+Once you have created the file, please attach it to your support request using the "Add file" button above.
+Creating a System Profiler report
+
+
+OS X 10.7 or newer:Go to Applications -&gt.
+Utilities -&gt.
+System InformationClick File -&gt.
+Save as...Save the file and attach it to your support request using the ""Add file"" button above.
+
+OS X 10.6.x:Go to Applications -&gt.
+Utilities -&gt.
+System ProfilerClick File -&gt.
+Save as...Save the file and attach it to your support request using the ""Add file"" button above.
+Creating a GOG system report
+
+If you have installed the game using our *.sh installer, open your default terminal emulator, and run the following commands (don\'t forget to adapt the first command depending on the game and its location.
+Use TAB to auto-complete the location and prevent typos and mistakes, and RETURN key - "Enter" - to confirm):
+
+cd ~/GOG Games/*your game*
+
+./start.sh --sysrep
+
+The system report will be located in your Desktop folder.
+Please attach it to your support request using the "Add file" button above Search across all games and articles This field cannot be blank Go to GOG.com English (US) Deutsch Français Polski Русский 简体中文 Sign in 
+ GOG.COM SUPPORT CENTER 
+ Policies and General Info 
+ GOG.com Policies 
+ User Agreement Hello, GOG user! We hope you have a great time playing games and doing other cool things via GOG.COM and GOG Galaxy.
+We've put a lot of work into building GOG.COM and GOG Galaxy and as a result we need to have some rules about how you can access and use GOG services.
+So, we've put this Agreement together as simply as we legally can, with some short summaries to help you understand what it means.
+However, please be aware that the full text wording is what is important/binding legally.
+&nbsp.
+LEGALLY BINDING VERSION "ENGLISH" VERSION 1.
+ABOUT THIS AGREEMENT 1.1 This Agreement is a contract between you and GOG sp.
+z o.o., ul.
+Jagiellońska 74, 03-301 Warsaw, Poland (we will further call ourselves “GOG”) and applies to www.GOG.com, your GOG user account, the GOG Downloader, GOG Galaxy, any games or videos or other content or services which you purchase or access via us, the GOG web forums, GOG customer and technical support and other services we provide to you (we'll just call all this “GOG services” for short).
+Also, additional terms may apply to GOG Galaxy and will be posted in the GOG Galaxy installer for your acceptance before you download it.
+This agreement explains how you can access and use GOG services, like GOG.COM, GOG Galaxy or GOG games and video content.
+1.2 Also, when we're talking about games, in-game content, virtual items or currency or GOG videos or other content or services which you can purchase or access via GOG services, we’ll just call them “GOG games” or “GOG videos” respectively and when we talk about them all together they are “GOG content”.
+Simple, eh? Oh, and one more thing – what we say in this Agreement covers our Privacy Policy too (you can read it here), so the Privacy Policy is part of this Agreement. &nbsp.
+1.3 GOG works with trusted partners, including our related company CD PROJEKT S.A., developers and publishers, payment providers, customer service software providers and others (“Partners”) – more on them later in this Agreement. &nbsp.
+1.4 If you're over 18, then welcome! If you're between 16 and 18, before we extend an equally warm welcome, please ask your parent or guardian to review and approve this Agreement on your behalf (because in some countries people under a certain age cannot legally enter into contracts like this Agreement).
+If you’re not 16 yet you cannot have a GOG account or use the GOG services because legally we cannot handle personal data of children without a special parental or guardian’s permission (but your parents/guardians are welcome to sign up themselves).
+If you are not yet 18 years old you need parental/ guardian approval to use GOG services.
+We know it sounds kind of silly – no, no – it is not our invention, but actually a legal requirement. 2.
+USING GOG SERVICES AND GOG CONTENT 2.1 We give you and other GOG users the personal right (known legally as a 'licence') to use GOG services and to download, access and/or stream (depending on the content) and use GOG content.
+This licence is for your personal use.
+We can stop or suspend this licence in some situations, which are explained later on.
+You have the personal right to use GOG content and services.
+This right can be suspended or stopped by us in some situations.
+2.2 When you buy, access or install GOG games, you might have to agree to additional contract terms with the developer/publisher of the game (e.g.
+they might ask you to agree to a game specific End User Licence Agreement).
+If there is any inconsistency or dispute between those ‘EULAs’ and this Agreement, then this Agreement wins.
+GOG games might have extra EULAs (End User Licensing Agreement) for you to accept.
+2.3 With GOG videos, you can also stream purchased video content or download it to watch the way you want.
+As for the video content, stream or download it and watch the way you want.
+2.4 Using certain third party scripts is recommended for your full use of GOG functionality and, although that usage is optional, we cannot promise full service performance without them.
+You can (optionally) use certain third party scripts to improve website performance – don’t worry, we don’t mean anything fiendish here! Just regular website scripts.
+2.5 A quick word about GOG Galaxy, which is our (optional) online service which not only allows you to buy and access GOG content but also provides online multiplayer and other cool game features like achievements, chat and game-time tracking.
+You can learn more about it here.
+You can use GOG Galaxy, which is optional and contains cool features like online multiplayer! 3.
+GOG ACCOUNTS 3.1 To buy GOG content from GOG services, and in some cases to play/use GOG content where our partners require use of a GOG account, you will need to set up a GOG account.
+This will involve creating a password (which is encrypted so we can’t access it) and a username, plus giving us (for identification purposes) your email address.
+Please make sure your login credentials are kept secure and your account is used properly.
+In your GOG Account settings you can also optionally set your country of residence, birthday and avatar.
+Our Privacy Policy gives more detail about the information we collect from you and how we use it and protect it.
+It's here.
+To buy GOG content you will need to set up a GOG account.
+Make sure to keep your password safe! Check out our Privacy Policy too (link opposite).
+3.2 You can use your GOG account to set up a public profile accessible by other people.
+You can also use your GOG account to connect with other GOG users.
+Please act sensibly and remember you are responsible for your own actions
+Your GOG account will have a public profile and you can communicate with other GOG users.
+Be sensible and careful!
+3.3 Your GOG account and GOG content are personal to you and cannot be shared with, sold, gifted or transferred to anyone else.
+Your access to and use of them is subject to GOG’s rules which are set out here, as updated or amended when necessary.
+Your GOG account and content are for you only – there are rules about how to use them (see opposite). 4.
+SYSTEM REQUIREMENTS 4.1 Because GOG gives you access to many different services and games created at different times and via different platforms, we cannot give you one set of system requirements for all GOG services or GOG content.
+Please make sure your computer and Internet connection are good enough to use GOG services and play GOG games and videos.
+4.2 What we can tell you is that using any GOG game will require a computer, equipped with a mouse and keyboard (touchscreen controls are not supported), with an appropriate operating system (please refer to the relevant GOG product page) with all service packs and important updates installed on it.
+All GOG games should be natively installed on a computer that meets or exceeds the minimum hardware and software specifications shown on the GOG product page.
+GOG games are not tested on virtual machine software and therefore we do not support playing through them. &nbsp.
+4.3 For GOG videos, please make sure your video player supports the videos’ format specified in the GOG product page. &nbsp.
+4.4 If you have questions about system requirements, please contact us here.
+Just so we're clear, you are responsible for making sure you have sufficient Internet access to download purchased GOG games or GOG videos from us or to stream GOG videos and that your system can play GOG games and watch GOG videos. &nbsp.
+5.
+BETAS 5.1 As GOG develops, we may offer you optional access to 'beta' versions of GOG software or services (e.g.
+new versions of the GOG Galaxy client made available prior to its general release) or GOG content (more on that later)
+We may offer beta access to new releases of GOG software or services.
+Beta versions aren't complete and we're not responsible for what happens while you're using them.
+Fear not, they should not blow up your computer!
+Here are the rules:
+
+a) We (or any applicable publisher/partner) will set the conditions and requirements for your beta access.
+Providing and maintaining a beta, and who can use a beta, is at our discretion.
+b) You may be required to go through a registration process or other requirements to access the beta (and this may include you meeting eligibility criteria).
+c) Betas will be time-limited and there may be extra contract requirements.
+d) The beta may involve temporary or permanent server/progress/content wipes, resets or amendments.
+e) The beta may be subject to confidentiality restrictions (which will be notified to you in advance if so).
+f) You may be invited to participate in a feedback process regarding the beta – this is totally optional but would be really valued.
+g) The beta is for your use and enjoyment, so you must not sell, loan or otherwise transfer it to anyone else.
+h) The point of you getting beta access is to allow you to try something new, but we would expect you to recognise that it will not be complete yet.
+Therefore betas will be provided 'as is' without any additional promises from us or any liability on us if it is not complete or does not work fully or causes issues.
+Betas may not be totally feature-complete and there may be feature changes, modifications or removals during the beta.
+ &nbsp.
+We may provide access to GOG content in beta/pre-release form.
+For example, a publisher/partner may decide to release a game or a part of it in beta, or may join our ‘Games in Development’ program (see section 7.6-7.8.
+below).
+Any such GOG content will also be governed by these rules unless the relevant publisher specifies its own rules (which will prevail over these rules). &nbsp.
+6.
+PAYING FOR GOG CONTENT AND GETTING REFUNDS 
+Paying for GOG content
+ &nbsp.
+6.1 Surprise surprise, after you decide that you like a GOG game, GOG video or other GOG content, you usually will need to pay for it before you can access it (though we do have some free content too!).
+You can pay in different ways: (i) using a valid debit or credit card.
+or (ii) using PayPal or any other authorised payment providers.
+Keep your payment details secure.
+You can use a debit/credit card, PayPal or different local payment methods, to make purchases.
+Keep your payment details secure.
+6.2 When you use a payment method to buy GOG content, we're relying on your promise that you're able to use that method.
+You are responsible for any purchases made using your GOG account or payment method and you agree to the pricing, payment and billing policies applicable to them, as notified to you at the time of purchase.
+All payments are non-refundable and non-transferable except as expressly provided in this Agreement.
+Kids – your parent or guardian needs to approve any purchase you make.
+You're responsible for your purchases.
+Kids – do not forget to get parental approval first.
+6.3 You can always pay for GOG content in US Dollars.
+However if you happen to live in countries where your local currency is supported (see our Support section here for details), you will be able to pay in your local currency.
+You might have to pay a currency conversion charge if you are not paying in your home currency and some banks might also add other kinds of transaction fees.
+You can pay in US Dollars and, depending on where you live, in your local currency (see opposite).
+6.4.
+All prices are visible in the product catalogue page.
+They’re inclusive of legally applicable sales taxes/VAT.
+
+GOG Wallet
+ &nbsp.
+6.5 GOG offers users a digital account balance called the “GOG Wallet” in connection with your user account, which you can use to make purchases of GOG content.
+Funds can be added to it in two ways: (i) using your chosen payment method.
+or (ii) by us as part of our ‘Voluntary Returns Guarantee’ (see below ‘Refunds to GOG Wallet’).
+The GOG Wallet is made available subject to rules which are set out on our GOG Wallet page here.
+We offer you a ‘GOG Wallet’ which you can use to make purchases.
+See more details opposite.
+
+Refunds to GOG Wallet
+ &nbsp.
+6.6 If your purchase qualifies for Voluntary Returns Guarantee we may offer you funds to GOG Wallet that you can use to get a replacement GOG game or other content.
+In some case we can add funds to your GOG Wallet in connection with our Voluntary Returns Guarantee (see opposite sections).
+
+GOG Bonus Codes
+ &nbsp.
+&nbsp.
+6.7.
+We may also issue time-limited bonus codes which give you free or reduced price access to GOG content (we’ll call them “Bonus Codes”).
+If you receive Bonus Codes when you buy GOG content but later decide to return that GOG content, then we think it’s fair for you to return the Bonus Codes too.
+Therefore, we will terminate it or, if it has been redeemed for a GOG game, that game will be removed from your account.
+If you decide to return or exchange GOG content which came with Bonus Codes, we think it’s fair to ask you to give them back too.
+
+Direct to Account Distribution
+
+6.8 We have a direct to account distribution feature (we’ll call it ‘GOG Direct to Account) where distribution platforms who partner with us would be able to sell games or other content to you, where you could choose for that game/content to be automatically activated within your GOG account, without the need to redeem any codes.
+Just to be clear, the whole purchase process is handled by the other platform, so in case of any issues with the purchase process please speak with them directly.
+We say a little bit more about this in the Refunds and Returns section below.
+Of course, anything connected to our platform’s services is still our responsibility.
+Thanks to our GOG Direct to Account feature, we can activate a game/content that you purchase from applicable distribution platforms directly on your GOG account – cool! 7.
+REFUNDS AND RETURNS 
+Statutory refund rights
+ &nbsp.
+7.1.
+If you are a resident of the European Union or other applicable jurisdictions (excluding the USA), then you have the statutory right to withdraw from a purchase of GOG content within 14 days of your purchase, without giving a reason.
+However, this does not apply where you have expressly consented to the performance of the GOG content (which is digital content) beginning immediately upon conclusion of the purchase process and have acknowledged the loss of your withdrawal rights.
+If you are EU resident, we are obligated to inform you about a statutory withdrawal right, but still our voluntary policy is better.
+7.2.
+Neither this nor any other part of this User Agreement affects your statutory rights.
+In particular:
+
+a) For Australian Users: Our goods come with guarantees that cannot be excluded under the Australian Consumer Law.
+You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage.
+You are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure;
+b) For New Zealand Users: Neither this nor any other part of this User Agreement excludes, restricts or modifies the application of any right or remedy that cannot be so excluded, restricted or modified including those conferred by the New Zealand Consumer Guarantees Act 1993.
+Under this Act are guarantees which include that goods and services are of acceptable quality.
+If this guarantee is not met there are entitlements to have the software remedied (which may include repair, replacement or refund).
+If a remedy cannot be provided or the failure is of a substantial character, the act provides for a refund.
+
+In some jurisdictions, you may have statutory rights with regards to your purchase e.g.
+in Australia or New Zealand (see opposite).
+
+Our Voluntary Returns Guarantee
+ &nbsp.
+7.3.
+We understand that sometimes a purchase doesn't turn out how you expected and we want to be fair to GOG users.
+So here's our deal with you:
+
+a) Preorders Refund: if you preorder and pay for a GOG game, you can cancel the preorder and get a full refund as long as we receive a valid request before the game's full release date on GOG.COM.
+b) Early Exchange: you can exchange validly purchased GOG content for a replacement GOG game or video of equal or lower value if your request is made within 30 days of the original purchase, provided the original GOG content has not been downloaded, used, activated or streamed.
+(For GOG content purchased during discount periods, the discounted price applies.) You can exchange specific GOG content once only.
+You can’t exchange GOG content you received as an exchange for other GOG content.
+c) Money back guarantee: if you buy any GOG content and have significant technical issues with it (e.g.
+there is a major show stopper bug in a game that prevents you from finishing it), we will give you a full refund if all the following requirements are met:
+
+(i) You must have genuine significant technical issues with the GOG content.
+(ii) You need to contact GOG Customer Support to request the refund within 30 days of the original purchase (if you received it from a GOG-authorised exchange for another product, then the 30 day period starts running from the date of exchange).
+(iii) GOG Customer Support must have a reasonable time period in which to try to resolve the issue before they process the refund to you.
+
+
+d) Withdrawal Right: we give you the right to withdraw from a purchase of GOG content without charge and for any reason within 30 days after you bought that GOG content, IF it has not been downloaded, streamed, activated or used in any way before then.
+If any of those things happen then your withdrawal right is lost.
+e) Refund for GOG Wallet funds: You may request a refund for GOG Wallet funds within 30 (thirty) days of purchase if they were purchased on GOG.COM and if you have not used any of those funds.
+
+We're happy to offer you preorder refunds, early exchanges and our money back guarantee (in appropriate cases).
+For more details you really will have to read the wall of text on the left – sorry.
+7.4 Final sale: a sale is considered final either 30 days after purchase or when you try to download the GOG content or any additional/bonus content.
+Once either of those happens, you no longer will have any return, exchange or refund options unless you have technical issues covered by paragraph (c) above.
+Virtual items/currency not covered by section 7.3.
+and we cannot therefore offer voluntary refund, early exchange, money back guarantee or voluntary withdrawal rights regarding them, but still sections 7.1.
+and 7.2.
+may apply.
+7.5 Direct to Account purchases: Like we mentioned earlier, if you buy a game/content via an applicable third party distribution platform partner of ours who is using the GOG Direct to Account API, and you choose to activate the game/content on your GOG account, then the partner (not GOG) is responsible for the game/content – including for consumer law remedies like refunds and returns.
+For this particular matter therefore we cannot offer you Our Voluntary Returns Guarantee (because GOG didn’t sell the game/content).
+For games/content you buy from another distribution platform and which is activated on your GOG account using the GOG Direct to Account API, we can’t offer you Our Voluntary Returns Guarantee (but of course you can talk with the platform where you purchased it if you are unhappy).
+
+Games in Development
+ &nbsp.
+7.6 GOG is releasing games that are still in development (such games are referred to herein as ‘games in development’).
+This gives you the opportunity to try out new and carefully selected games while they are still unfinished.
+For more information, see the games in development FAQ.
+The games in development really are in development, which means that they are incomplete, may have bugs, errors and other problems.
+By buying such a game, you accept it ‘as is’
+7.7 Just to be clear, these really are games in development: there may well be incomplete features or gameplay bugs, errors and other problems.
+These games might also never be finished.
+Ultimately, you have to accept them ‘as is’ without any liability or additional promises from us or the developer.
+They are classed as ‘betas’ under this User Agreement (see section 5 above).
+These games really are betas! Check our rules on betas (in section 5).
+7.8 To help out, we have a special return/refund policy for you: we will refund any game in development that you want to return, for any reason, within 14 days of its respective purchase.
+A few additional points: (a) You will be refunded the original purchase price at the time of your purchase.
+(b) If you have gifted the game to someone else, you will still be able to obtain a refund BUT the gifted game copy will be disabled.
+(c) This refund program will be subject to a fair use policy: as long as you use it reasonably, you should be fine.
+However, if we believe that you are acting unreasonably or are abusing the program, then we reserve the right to refuse to grant you further refunds.
+(d) This refund replaces all other refund rights which you might otherwise have (e.g.
+our ‘30 day money back guarantee’), excluding any legally required remedies.
+(e) A game that comes out of development within 14 days of your purchase shall become subject to our regular ’30 day money back guarantee’, counting from the date of purchase.
+If you buy a game in development, you can return it for any reason for a full refund within 14 days of purchase. &nbsp.
+8.
+VIRTUAL ITEMS AND VIRTUAL CURRENCY 8.1 With certain GOG content you may be able to purchase or acquire virtual items and/or virtual currency (we’ll call them “Virtual Goods” for short).
+Virtual Goods are subject to this Agreement and in particular the following default rules, unless there are specific rules for that GOG content (which will prevail over these rules).
+With some GOG content you can buy virtual items/currency.
+Opposite are the default rules (unless specific rules apply for specific virtual items/currency).
+8.2 Virtual Goods are digital items only with no cash-value or real world existence and cannot be ‘bought’, ‘sold’, gifted, transferred or redeemed, whether or not for other Virtual Goods, ‘real world’ money, goods, services or items of monetary value.
+Trading Virtual Goods is prohibited (unless you are specifically permitted to do so).
+Your right to use any Virtual Goods is limited to a limited, nonexclusive, non-assignable, non-transferable, non-sublicensable, revocable licence to use them solely for your personal entertainment and non-commercial use in the applicable GOG content.
+You have no property interest or right or title in any Virtual Goods, which remains the appropriate publisher’s property.
+Virtual Goods may be changed, amended or reversed if necessary, including to enforce this Agreement.
+If necessary, limits may be placed on the use of Virtual Goods (including transaction limits and balance amounts). &nbsp.
+8.3 The existence of a particular offer for Virtual Goods is not a commitment by us to maintain or continue to make the Virtual Goods or that offer available in the future.
+The scope, variety and type of Virtual Goods that you may obtain can change and we have the right to manage, modify and remove Virtual Goods if we consider necessary for the ongoing operation of GOG or GOG content or for other legitimate reasons, in which case we will have no liability to you or anyone for the exercise of such rights.
+We will make reasonable efforts to notify you of any such change and to explain the reason for such change. &nbsp.
+9.
+PATCHES, UPDATES AND CHANGES 9.1 Occasionally we may need to patch or update GOG services or GOG content (for example to add or remove features or to resolve software bugs).
+We need these rights in order to keep GOG.COM running efficiently.
+Our Partners may use GOG services to roll out patches or updates for applicable GOG content.
+From time to time we may need to patch or update how GOG services or content work. 10.
+OWNERSHIP OF GOG SERVICES AND INTELLECTUAL PROPERTY RIGHTS 10.1 GOG services including (but not limited to) their graphics, computer code, user interface, look and feel, audio, video, text, layout, databases, data and all other content, and all legal and exploitation rights regarding them are either owned by us or we license them from third parties.
+GOG content is owned by its developers/publishers and licensed by us.
+All rights are reserved except as we have explained in this Agreement.
+You may not use or exploit any part of the GOG services or GOG content except as explained in this Agreement.
+We spent years building GOG.COM and the GOG services it’s our little baby.
+It’s the same for the games/videos and their respective creators/publishers.
+Enjoy it all, but please behave and do not cause trouble.
+10.2.
+GOG respects the intellectual property rights of others.
+Please read more here. 11.
+RULES FOR USING GOG SERVICES 11.1 Please follow these rules regarding the GOG services and GOG content.
+Please read these rules carefully since failure to follow them (particularly those in relation to cheating) will be considered a material breach of this Agreement, which could lead to suspension or cancellation of your access to GOG Services.
+Here are the rules:
+
+(a) Only use GOG services or GOG content for your personal enjoyment (for example, don't use them to make money or for political purposes).
+(b) Regarding GOG content, what you can do practically (which includes to modify, merge, distribute, translate, reverse engineer, decompile, disassemble, or create derivative works of it) depends on what the GOG content rights holder allows you to do (GOG can’t grant such rights), so please check this with the rights holder directly (the first thing you should do though is to check if they have a EULA and if so what it says).
+We also ask that you make only genuine attempts to improve the GOG content.
+(c) Regarding GOG services (which includes GOG software), unless you have prior GOG permission please don’t modify, merge, distribute, translate, reverse engineer, decompile, disassemble, or create derivative works of them – unless you’re allowed in this Agreement or by the law in your country.
+We’d like to emphasise that you are free to contact us for permission to do these things and we will review and respond to those requests in good faith.
+More generally, at some point in the future we want to open client protocols to make it easier for users to work with GOG data/software without any need for reverse engineering or similar techniques.
+(d) Don't hack, harm, grief, interrupt or misuse GOG services or GOG content, GOG users or GOG personnel or use them for any similar purpose.
+(e) Do not create, use, make available and/or distribute cheats, exploits, automation software, robots, bots, mods, hacks, spiders, spyware, cheats, scripts, trainers, extraction tools or other software that interact with or affect GOG services or GOG content in any way (including, without limitation, any unauthorised third party programs that intercept, emulate, or redirect any communication between GOG or its partners and GOG services and/or any unauthorised third party programs that collect information about GOG Services).
+(f) Don't interfere with the GOG or third party network software or other software including via tunnelling, code injection, modifying or changing GOG software, using any other similar software together with GOG services or GOG content, through protocol emulation, or through creation or use of private servers regarding GOG services or GOG content.
+Do not access or attempt to access areas of GOG.COM, GOG Galaxy or GOG servers that have not been made available to the public.
+(g) Don't do or say anything which is or may be considered racist, xenophobic, sexist, defamatory or otherwise offensive or illegal.
+Be nice to each other please!
+(h) Don’t share, ‘buy’, ‘sell’, transfer, gift, lend, steal, misappropriate or misuse GOG accounts.
+GOG keys/codes can only be gifted or transferred or used in the ways permitted by GOG.
+If you have any questions or problems, contact customer support.
+(i) We ask you to follow any applicable geographic or regional, language or location-based restrictions, requirements or rules regarding GOG.
+(j) We ask you not to do anything in connection with GOG that infringes any copyright, trademark, patent, trade secret, privacy, publicity, or other right of others, such as images, photographs, sound files, text files, graphics files, and any other material or information.
+
+GOG service and content are here for your personal enjoyment and please use them for this purpose only.
+For example, don't interfere with or hack GOG services.
+Don't do or say things which are offensive or illegal. 12.
+USER GENERATED CONTENT 12.1 This section is about content (e.g.
+text, videos, photos, images, screenshots, wallpapers or links) which you make available either to us or to other GOG users via GOG services (for example through your profile picture or through messages to other GOG users).
+We'll call this "User Generated Content".
+You own your user generated content used in GOG services.
+Please make sure it doesn’t breach any third party rights.
+12.2 As far as we and you are concerned, you own any User Generated Content but we need you to give us some limited rights over it so that we can actually transmit it through GOG services.
+So, we ask you to give us a non-exclusive, irrevocable licence to use, modify, reproduce, create derivative works from, distribute, transmit, communicate and publicly display/perform your User Generated Content in connection with GOG services. &nbsp.
+12.3 It is your responsibility to make sure that you have all necessary legal rights before you use User Generated Content and for checking they are safe to use – we can't know that ourselves, and we can't check it for you, so we have to rely on you. &nbsp.
+12.4.
+However, we have the right (but not the obligation) to review and if appropriate or legally necessary to remove any User Generated Content which is unlawful, tortious, defamatory, obscene, invasive of the privacy of another person, threatening, harassing, abusive, hateful, racist or pornographic.
+If you find that any such content has been posted on GOG services, please let us know by contacting us at legal@gog.com.
+If you find that illegal or inappropriate content has been posted on GOG services, please let us know. 13.
+FEEDBACK OR SUGGESTIONS 13.1 You’re welcome to give us feedback and suggestions to improve GOG services and we really value them all.
+However, just so we’re clear, we don’t have to use or accept them and we won’t owe you anything (financially or otherwise) regarding them.
+It’s cool to send us feedback and suggestions about GOG services thank you! But please, don’t be disappointed if we don’t use them or reward you for them. 14.
+USING GOG CONTENT IN FAN WORK 14.1 For fan work (e.g.
+works like fan mods, machinima, parodies, homages, 'Let's Play' or other videos or artwork), you need to check with the content owner (e.g.
+the developer or publisher) if they are OK with it and if so you should get permission from them.
+The reason is simple – the GOG content is the property of the respective owner, not GOG’s.
+If you want to make fan works using GOG content, you will have to find out on your own if that is permitted by the owner and get any necessary legal rights. 15.
+THIRD PARTY CONTENT AND EXTERNAL SERVICES 15.1 You might get links to third party websites or content through GOG services.
+Using them is up to you – we can't promise they will work, what they'll be like or if they're free.
+You click on a link on GOG.COM or GOG Galaxy taking you outside of our little kingdom = we cannot look after you anymore.
+15.2 You can also use your GOG account to get easy access to some external, GOG approved partner services, e.g.
+The Witcher games and sites from our related company CD PROJEKT.
+They will have their own terms and conditions which you will need to agree and follow.
+Just to be clear: using these services is all optional and up to you.
+You have the power!
+You can also use your GOG account to access GOG approved external services, like our related company CD PROJEKT’s cool stuff.
+It’s totally optional though.
+15.3 A quick word about GOG Connect (which you can read more about here)This (optional) feature is provided subject to Valve’s Steam Web API Terms of Use and therefore access to this feature and how it works may change if necessary to reflect those Terms of Use.
+Please also see section 11.3 of our Privacy Policy, which explains how we use ‘Steam Data’ and contains important liability provisions regarding it.
+Please also see our GOG Connect FAQs which contain further information about GOG Connect and how to use it.
+We offer an optional GOG Connect service (see link opposite).
+Check out the GOG Connect section of our Privacy Policy too. 16.
+WARRANTIES AND LIMITATION OF LIABILITY REGARDING GOG SERVICES 16.1 We warrant that: (i) we have the right to enter this Agreement and to grant you the licence to use GOG services in section 2.1.
+and (ii) we will take reasonable care with the GOG services and your use of them.
+and (iii) we will use reasonable endeavours to comply with applicable laws in performing our obligations to you under this Agreement.
+We make legally binding promises (called 'warranties') about GOG services, for example that we will take reasonable care regarding your use of them.
+16.2.
+Your representations and warranties.
+You represent and warrant that you have the full power and ability to enter into this Agreement and will follow fully its terms.
+You also represent and warrant that any User Generated Content, which you transmit via GOG services does not infringe upon the intellectual property rights of any third party.
+You further represent and warrant that you will not use or contribute User Generated Content that is unlawful, tortious, defamatory, obscene, invasive of the privacy of another person, threatening, harassing, abusive, hateful, racist or pornographic.
+16.3.
+We work hard to try to make GOG content work on your systems but we only have limited time to carry out tests and we don't always get everything right.
+Therefore, we can't accept any liability or responsibility for GOG content except where required by law (see 7.1.-7.2 above).
+We are also not responsible for anything that happens to GOG.COM or GOG services which is outside of our control.
+However, don't forget you may be entitled to GOG content return and refund if it has technical issues see section 7.3 (c). &nbsp.
+17.
+TERMINATION 17.1 Your right to terminate the Agreement.
+You may terminate this Agreement at any time and without giving any reason by completely ceasing to use GOG services.
+If you would like us to delete your account please contact our Support Team here.
+Termination will not affect already existing rights or obligations of us or you.
+You can terminate this Agreement by just stopping using GOG services for good.
+17.2.
+Our right to terminate the Agreement.
+If you materially breach this Agreement, we reserve the right to suspend or cancel your access to GOG services and GOG content.
+By material breach of the Agreement we mean a serious breach which could cause significant harm to GOG, GOG users, as well as, in particular breach of the provisions of section 11 above.
+If we suspend or cancel your access to GOG services or GOG content we'll take reasonable steps to contact you to explain why we've done this and what (if anything) you can do as a result.
+If you seriously breach this Agreement you may lose access to GOG services (temporarily or permanently).
+17.3 It seems very unlikely, but if we have to stop providing access to GOG services and GOG content permanently (not because of any breach by you), we will try to give you at least sixty (60) days advance notice by posting a note on www.gog.com and sending an email to every registered users – during that time you should be able to download any GOG content you purchased.
+In the very unlikely situation that we have to stop running GOG we'll do our best to give you advance notice, so that you can download and safely store all your DRM-free content. 18.
+FORCE MAJEURE 18.1 Neither you nor us will be liable for any failure to perform any obligation under this Agreement or to provide access to GOG services and GOG content if that failure is caused by the happening of any unforeseen event beyond your or our reasonable control including without limitation, Internet outages, communications outages, fire, flood, war or act of God.
+If unforeseen events beyond your or our control occur (war, earthquake, gigantic flood, alien attack, Godzilla, etc.
+ok the last two are jokes), then neither of us will be liable to the other for any obligations which can't be performed. 19.
+GOVERNING LAW 
+For users resident in the European Union and elsewhere in the world (but not the USA):
+ &nbsp.
+19.1 You and we agree that your use of GOG services and GOG content and this Agreement will be governed by and interpreted according to the laws of the Republic of Poland and that any dispute regarding this Agreement will be heard non-exclusively by the courts of the Republic of Poland.
+In any legal claim under this Agreement, the side which wins will be entitled to its legal fees and expenses
+Any legal questions/complaints/claims regarding this Agreement are under Polish law and nonexclusive jurisdiction of Polish courts (for users in the EU and rest of the world, excluding the USA) and Californian law and jurisdiction (for users in the USA only).
+19.2.
+The above choice of governing law and jurisdiction is subject to any mandatorily applicable principles of consumer protection or other law in your jurisdiction of residence which would not otherwise be available.
+You always enjoy the protection of the mandatory provisions of the law that are applicable to you as a consumer and which would be applicable in the absence of the choice of law and court.
+
+For users in the USA only:
+ &nbsp.
+19.3 You and we agree that your use of GOG services and GOG content, and this Agreement, will be deemed to be entered into in Los Angeles, California and governed by and interpreted according to the laws of the State of California, USA (and, if applicable, US Federal law).
+Any legal claim by you against GOG.COM will be made exclusively in any state or federal court located in Los Angeles, California, which will have subject matter jurisdiction regarding the dispute between you and us and therefore we both consent to the exclusive jurisdiction of those courts.
+In any legal claim under this Agreement, the side which wins will be entitled to its legal fees and expenses.
+For users in the USA only Californian law and jurisdiction will be applicable. 20.
+CUSTOMER SUPPORT AND DISPUTE RESOLUTION 20.1 If you have concerns, claims or issues with us, we hope we can resolve them quickly and amicably.
+Please contact us here.
+We will make reasonable and good faith efforts to resolve any dispute between us informally.
+We undertake to answer to any claim within 14 days.
+If you live in the EU and have any concerns or issues please contact us here.
+We hope we can resolve any complaints with you through informal dispute resolution.
+20.2 If it is not resolved during this time, the next steps depend on where you live.
+If you live within the EU you may submit your legal claims to the online dispute resolution platform operated and provided by the European Commission which can be accessed via http://ec.europa.eu/consumers/odr/ in order to reach an out of court settlement or initiate a lawsuit
+20.3.
+If you live in the USA or the rest of the world (but not the EU) then please contact us at legal@gog.com. 21.
+OTHER LEGAL STUFF 21.1 If any part of this Agreement is found not to be legally enforceable, this will not affect any other part of it.
+This section sets out a few additional, hopefully self - explanatory rules about how this Agreement works legally.
+21.2 This Agreement and the GOG Privacy Policy constitute the entire agreement between you and us and supersede any earlier oral or written agreements.
+If you disagree with this, please contact us as soon as possible after you start using GOG services at legal@gog.com since otherwise this will be binding on you after a reasonable time period (usually 30 days).
+This Agreement and our Privacy Policy together are the contract between us and you.
+If anything is missing, contact us ASAP otherwise it will legally bind you.
+21.3 This Agreement governs our relationship with you (and vice versa).
+It does not create any rights for anyone else. &nbsp.
+21.4 Please remember we are subject to various laws and we may be required to comply with law enforcement or other legal requirements. &nbsp.
+21.5 If there is a reorganisation, sale or merger of GOG.COM then we may need to work with relevant third parties to transfer or merge your GOG account. &nbsp.
+21.6 You and we agree that the UN Convention on Contracts for the International Sale of Goods does not apply this Agreement. &nbsp.
+21.7 We can assign, subcontract or transfer this Agreement to a third party or another member of our group if necessary for the support of GOG, as part of any reorganisation or merger or for other business reasons.
+We will notify you if this happens. &nbsp.
+21.8 If you are a European Union citizen, then please be aware that GOG has enabled cross-border portability on free and paid content pursuant to Regulation (EU) 2017/1128 of the European Parliament and of the Council of 14 June 2017 on cross-border portability of online content services in the internal market, but this is subject to any other legal requirements on GOG including regarding IP protection and may also be subject to any requirements of developer and publisher partners of GOG. &nbsp.
+22.
+CHANGES TO THIS AGREEMENT 22.1 We may change this Agreement if it's necessary e.g.
+for legal reasons or to reflect changes in GOG services or GOG content.
+If so, we will make the changed Agreement available online and (if you have a GOG account) email you to let you know about the changes
+We can change this Agreement but if we do we'll put the changed version online and normally it will take effect a reasonable time period afterwards.
+We’ll also email you (if you have a GOG account).
+22.2 Any changes to the Agreement will come into force within 30 days of their announcement online.
+In the meantime, you're welcome to contact us at legal@gog.com if you have specific questions about the changes.
+If you have any problems with our changes, please contact us so we can talk to you.
+Don't just ragequit on us!
+22.3 If you don't agree to those changes (regardless of whether you email us), then unfortunately we must ask you to cease using GOG services and GOG content.
+We're sorry we have to say that, but we hope you'll appreciate that for GOG services to work properly we need to have everyone using it under the same rules instead of different people having different rules.
+That's why we encourage you to get in contact if you have queries or concerns. &nbsp.
+22.4 Just so you know, we'll never just make a bunch of changes to this Agreement, not tell you what they are and force you to agree to changes you don't understand before you can use GOG services! &nbsp.
+23.
+OUR CONTACT DATA 23.1.
+If you have any complaint concerning your purchase, or simply you would like to contact us, here are our contact details:
+Name: GOG sp.
+z o.o.
+Registered Office: Ul.
+Jagiellońska 74, 03-301 Warsaw, Poland
+Registered at the District Court for Warsaw, 13th Commercial Division of the National Court Register
+Registration Number 0000029514
+Tax number VAT ID (NIP) PL 113-21-77-807
+Share capital: PLN 135.750,00 PLN
+E-mail: here or support@gog.com
+On the left you can find our contact details, in case you have any complaint concerning your purchase or simply you would like to reach us. &nbsp.
+24.
+OTHER INFORMATION 24.1.
+For any legal or other matters regarding GWENT (which is developed and published by CD PROJEKT RED but distributed on PC by GOG) then please review the Gwent User Agreement, which has priority over and supersedes this User Agreement regarding GWENT matters. &nbsp.
+Last updated: 26th February 2019
+(in effect from March 26th, 2019.
+to view currently applicable User Agreement click here) &nbsp.
+Was this article helpful?  38 out of 45 found this helpful 
+
+Facebook
+Twitter
+LinkedIn
+Google+
+ Articles in this section 
+ Company reorganisation 
+ Cookie Policy 
+ Copyright Policy 
+ Money Back Guarantee Policy 
+ Privacy Policy 
+ User Agreement 
+ Do you have more questions? Didn't find the answer you were looking for? We will do our best to respond as quickly as possible.
+On weekdays, we normally reply within 24 hours, but during weekends we can only respond that quickly to high-priority, time-sensitive cases.
+All other cases will be looked into first thing next week.
+Contact us Want to get help and maybe make some new friends? We’ve got a great community here on GOG, which is always eager to help out.
+Please make sure not to share private data on public forums, though! Ask our community Part of group.
+Contact us Legal   A system report or other file containing a description of your computer's technical specification is required to submit this technical support request.When submitting a system report, please be aware that it may contain your personal information, like your computer name.
+Please consider reviewing and removing any personal information from the system report before submitting this file.The detailed instructions on how to generate the report will be displayed under this message, once you select your operating system in the form above.
+Creating a DXDiag report
+
+To launch the DXDiag application, press the Windows Key + R, type in 
+dxdiag
+ and press Enter.
+Please do not swich to the 64-bit version, as the 32-bit version is preferred.In the DXDiag window, click "Save All Information...", then choose a location in which you want to save the file (your desktop, for instance).
+Once you have created the file, please attach it to your support request using the "Add file" button above.
+Creating a System Profiler report
+
+
+OS X 10.7 or newer:Go to Applications -&gt.
+Utilities -&gt.
+System InformationClick File -&gt.
+Save as...Save the file and attach it to your support request using the ""Add file"" button above.
+
+OS X 10.6.x:Go to Applications -&gt.
+Utilities -&gt.
+System ProfilerClick File -&gt.
+Save as...Save the file and attach it to your support request using the ""Add file"" button above.
+Creating a GOG system report
+
+If you have installed the game using our *.sh installer, open your default terminal emulator, and run the following commands (don\'t forget to adapt the first command depending on the game and its location.
+Use TAB to auto-complete the location and prevent typos and mistakes, and RETURN key - "Enter" - to confirm):
+
+cd ~/GOG Games/*your game*
+
+./start.sh --sysrep
+
+The system report will be located in your Desktop folder.
+Please attach it to your support request using the "Add file" button above Search across all games and articles This field cannot be blank Go to GOG.com English (US) Deutsch Français Polski Русский 简体中文 Sign in 
+ GOG.COM SUPPORT CENTER 
+ Policies and General Info 
+ GOG.com Policies 
+ Privacy Policy Hello, GOG.COM user! This Privacy Policy is where we explain what information is collected when you’re using GOG.COM, how it is collected, how we use that information, where we store it, and how we protect it.
+We will also explain your rights in relation to the information.
+Like with our User Agreement, we've put together both a full text version and a (non legally binding) summary version to make things simple.
+If you have any queries you can contact us at privacy@gog.com.
+Here we go…
+&nbsp.
+&nbsp.
+FULL TEXT QUICK SUMMARY 1.
+WHO WE ARE We are GOG sp.
+z o.o., a company incorporated in Poland (we will further call ourselves “GOG”).
+You can contact us here, via email at privacy@gog.com or by traditional mail: Data Protection Officer, GOG sp.
+z o.o., Jagiellońska 74, 03-301 Warsaw, Poland.
+Hello, we're GOG and we are based in Poland.
+You can find our contact details here (see opposite). &nbsp.
+2.
+WHAT THIS PRIVACY POLICY GOVERNS 2.1 This Privacy Policy applies to www.GOG.com, your GOG user account, the GOG Downloader, GOG Galaxy, any games or videos or other content which you purchase, access or use via GOG.COM, the ‘GOG Wallet’, GOG payment methods, the GOG web forums, GOG customer and technical support and any other services we provide to you (we'll just call all this “GOG services” for short).
+GOG services also include GWENT: The Witcher Card Game for PC's (“GWENT”) from our related company CD PROJEKT together with www.playgwent.com, any other GWENT web sites or accounts and all services related to GWENT, including (but not limited to) user accounts and customer and technical support provided by us.
+This privacy policy also applies to our accounts and profiles on social networks (e.g.
+fanpage on Facebook).
+This Privacy Policy explains the different types of information that we collect while you use GOG services or GWENT or visit our profiles on social networks.
+We and our Partners will comply with applicable privacy laws.
+Btw Geralt says hi.
+2.2 Specifically, this Privacy Policy governs personal information and non-personal information which we collect from you when you're using GOG services.
+("Personal information" means information which, on its own or in combination with other information, can be used to identify you). &nbsp.
+2.3 We respect your right to privacy and will only process personal information in accordance with applicable data protection legislation in the EU, the USA (including the Children's Online Privacy Protection Act) and elsewhere.
+We will comply with applicable data protection laws.
+This involves us being responsible for personal data which we use in connection with GOG services and equally our Partners (see opposite) will be responsible for personal data which they use in connection with GOG services.
+2.4 GOG works with trusted partners, including our related company CD PROJEKT, developers and publishers, payment providers, customer service software providers and others („Partners”) – more on them later in this Policy. &nbsp.
+2.5 For personal information contained in this Privacy Policy which is used by GOG, GOG is the data controller under European Union data protection legislation. &nbsp.
+3.
+PROTECTING CHILDREN 3.1 We recognise we have a special obligation to protect personal information obtained from children.
+We do not and will not knowingly collect personal information from any child under the age of 16.
+If for any reason we decide to collect personal information of children between 13 and 16 we will ask for their parent or guardian consent.
+If you are a parent or guardian and are concerned about the transfer of personal information about your child, please contact privacy@gog.com.
+We cannot and will not knowingly collect personal information about children under 16. 4.
+INFORMATION WE COLLECT 4.1 When you register a GOG account with us, you will need to provide us: (a) your username.
+(b) your email address.
+and (c) a password (which is encrypted so that we don’t have access to it).
+This information is necessary for us to provide you with GOG account requested by you.
+In your GOG account settings you can also set your date of birth, avatar, and your geographical location.
+This information will be protected by your GOG account password.
+You are responsible for keeping it safe - please don't share it with anyone.
+To register a GOG account, we will ask you for and collect some basic personal information, including username and email.
+We need this to provide you GOG account.
+Keep your GOG account password safe.
+4.2 When you use GOG services we may also collect the following information (how we use it is described later in this document):
+
+(a) Technical details about devices which you use to access GOG services, including: Internet and/or network connection (including your IP address).
+mobile device identifiers.
+your operating system, browser type or other software.
+your hardware details.
+or other technical details provided by your web browser.
+This is technical data about our users and their actions and patterns, which does not provide personal information;
+(b) Details of your use of GOG services including, but not limited to: metrics information about when and how you use GOG services (such as what game(s) you are playing, your current status, your interactions with others).
+order status, order ID.
+traffic data.
+your geographical location.
+your purchase history.
+game library.
+emails received.
+and links accessed.
+your preferences and choices such as subscriptions, preferred language and currency.
+your friend lists on GOG.COM.
+your communication via chat, game reviews, published posts on forum and other GOG services;
+(c) Other information required in order to help you with any queries/support you may need assistance with via the GOG forums or customer support, including communications with you.
+and
+(d) limited payment processing information, including as applicable your credit card number, name and email address (on a hashed/anonymised basis as applicable), payment methods, payment engine and transaction type.
+fraud risk score;
+(e)if you use GOG Galaxy we will also collect technical logs, information about your achievements in games you play and We may also collect additional information when you use other GOG services (see opposite).
+If GOG services crash, we might ask you to send us crash logs/bug reports.how long you play them.
+your multiplayer sessions.
+your activities on other platforms connected to your GOG account.;
+(f) if you use Facebook Connect we may also collect limited information through Facebook Connect such as your Facebook ID, avatar, e-mail and friend list;
+(g) if you purchase content via a third party platform which uses our GOG Direct to Account API, the platform may share data with us such as your platform ID, order details or your IP address;
+(h) if you visit our social profiles on social media (e.g.
+Facebook, Twitter) we can collect data about your activity on such profile, including messages sent to us or competitions in which you took part.
+Remember that being a user of a social networking site means that, we and you are bound by the privacy policy and terms accepted under this social networking site;
+(i) any other information which you supply us via our services;
+
+&nbsp;
+4.3 GWENT.
+When you sign up for, download, use or play GWENT then GOG may collect and use basic data about you and your account activity for the general operational purposes of GWENT.
+This data includes: (i) your email address.
+(ii) your name and surname.
+(iii) your date of birth.
+(iv) any username used to identify yourself as well as your avatars.
+(v) Gwent-ID.
+(vi) a log of user activity within Gwent (including login time, logout time, log of matches played, number of wins and losses and gathered experience points).
+(vii) a record of your in-game virtual goods and currencies.
+(viii) your Matchmaking Rating (MMR).
+(ix) IP address.
+(x) your country of location (identified based on IP address).
+(xi) any other data which you supply us via GOG services including data required to help you with any queries or support matters such as crash logs or the technical details of the device you use to play GWENT.
+Plus if you purchase GWENT in-game content we may collect and use: (xii) your device/platform and records of any purchases made with virtual or real currency (including transaction dates, currencies, value and the relevant purchased products).
+In order for you to play GWENT or access other related services, we need to process the data described above.
+If you do not agree to provide us with the above-mentioned data for the above purposes, you will not be able to play GWENT or use other services related to it.
+When you play Gwent, GOG collects basic data about you and your account activity (specific examples opposite).
+We need this in order to run GWENT and its related services.
+You can decline to provide your data but then equally you can’t play GWENT.
+4.4 A quick word about bug reports and crash logs: GOG software will generate bug or crash reports regarding GOG services – these reports will not mention your personal information.
+You can decide whether to submit these reports to GOG.COM automatically.
+If you manually submit bug or crash reports to us, or if we contact you asking for feedback regarding crash or bug reports, then we may store them alongside your personal information. &nbsp.
+4.5 A quick word about payment details (if/when you use them in GOG Services): this is a matter for the relevant payment method/platform/processor.
+We process only limited payment processing information on a hashed/anonymised basis as applicable.
+If you make any purchases within GOG Services, then we are notified by the payment processor once a transaction takes place and of course we make sure you receive your purchased item, but we will not receive any of your actual payment details &nbsp.
+5 HOW WE COLLECT INFORMATION FROM YOU 5.1 We may collect, process and use information about you in the following ways (either directly or via our Partners as explained above): (a) information you give us via GOG services.
+(b) information given when you contact us or report a problem with GOG services.
+(c) through our API which allows third party platforms to sell content which is activated directly on GOG.COM (“GOG Direct to Account API”) and (d) we may also ask you to complete surveys that we use for research purposes, although you don't have to respond to them.
+We may collect this information via GOG services or trusted third parties connected with us for optional things like surveys or polls. &nbsp.
+5.2 Facebook Connect.
+When you register to GOG services via Facebook Connect (of course, it's optional), Facebook will provide us with certain information about you such as your Facebook ID, avatar, e-mail, gender, location and friend list.
+Data is gathered strictly in accordance with the social network(s)’ terms and conditions, so check your privacy settings on Facebook. &nbsp.
+5.3 GOG Connect.
+When you use our cool and optional feature GOG Connect we will be retrieving limited information from your Steam account.
+We explain this in more detail in section 10.3 below
+We will collect the information ourselves or via third parties when it comes to optional things like surveys, GOG Connect or authentication services like Facebook Connect. 6.
+COOKIES We also collect information about you via cookies.
+You can find out more about this in our Cookie Policy here.
+The Cookie Policy forms part of this Privacy Policy.
+Read our cookie policy too (link opposite). &nbsp.
+7 WHY DO WE USE YOUR DATA? (LEGAL GROUNDS FOR DATA PROCESSING) 7.1 When we process information about you, we do so as necessary to provide GOG services you use (i.e.
+to perform agreement between us, enable you to play GWENT), meet our legal obligations (f.ex.
+tax, accounting) or to fulfill the so-called “legitimate interests” of GOG or other reasons described in the “How we use your data” section.
+To clarify, by legitimate interests we mean lawful purposes that could be reasonably expected (like informing you about games we distribute and making sure our marketing is relevant for you, protecting the security of our websites and systems, conducting anti-cheat analysis and anti-fraud checks).
+When we rely on the legitimate interest, we consider and balance any potential impact on you and your rights.
+For other purposes we will ask for your consent and you will be entitled to withdraw this consent any time, with no impact on the validity of the processing before your consent has been withdrawn.
+In essence, we process your data to provide you with GOG services, to meet our legal obligations and for other reasons that are important for us like informing you about our games and ensuring security of our website.
+In other cases, we will ask for your consent in advance and you will always have the right to withdraw it anytime you like.
+7.2 When we transfer your data outside of the European Economic Area, we do so on the basis of a variety of legal mechanisms, as described in “Trusted Partners”.
+&nbsp; 8.
+HOW WE HANDLE YOUR INFORMATION 8.1 All information you provide to us is stored on our secure servers or those of our trusted partner services.
+We implement appropriate technical and organisational measures to protect your personal data against unauthorised or unlawful processing, accidental loss, destruction or damage
+All information you provide to us is stored either on our secure servers or those of our trusted partners &nbsp.
+8.2 How long are we going to keep your data? We will retain your personal information only for as long as we will be required in order to fulfil the purposes outlined in this Privacy Policy.
+In certain special cases, a longer retention period might be required by law e.g.
+tax, accounting purposes or other legal requirements and obligations.
+As soon as we will no longer require your personal data to provide our services for other purposes mentioned above, we will promptly delete or anonymize it.
+In particular:
+
+(a) we will keep information that is associated with your GOG account for the duration of your agreement for the access to GOG Services (i.e.
+until you close your GOG account).
+If you choose to close your GOG account, limited data that we collect about you may still be retained for tax, legal and accounting purposes;
+(b)if you don’t have a GOG account and contact us we will retain correspondence with you as long as necessary to help you out and then for the period necessary for legal or accountability purposes;
+(c) information that you post on our public forums and your game reviews will be retained until you decide that it should be removed as well.
+We don’t want to interfere with your posts and expressions without your permission.
+(d) we will keep data that is associated with your GWENT account for the duration of the agreement to access GWENT services (i.e.
+until you close your GWENT account).
+Following account closure, limited data that we collect about you will still be retained for an additional few years for tax, legal and accounting purposes.
+
+In general, we’ll store your data until you close your GOG account (or GWENT account if applicable).
+If you do, we may still use limited information about you for tax, legal or accounting purposes. &nbsp.
+9.
+HOW DO WE USE YOUR INFORMATION 9.1 We will use the above information in the following ways:
+
+(a) to carry out our obligations arising from any contracts between you and us, like providing access to your GOG account, providing you with the games and technical support and in general allowing to use GOG Services and its functionalities when you choose to do so f.
+ex.
+your GOG user profile, chat, forum or cloud saving and crossplay services in GOG Galaxy
+(b) to ensure that GOG services are presented in the most effective manner for you and for your computer or other device from which you access GOG services;
+(c) to provide you with information, products or services that you request from us and which we feel may interest you - in particular, we may send you newsletters or emails about GOG services, special and occasional offers like a welcome offer or provide you with ads, offers and product recommendations on the basis of your purchases or activity on our and third party websites and services, as well as about CD PROJEKT’s games and services (of course, it’s optional);
+(d) to activate content on your GOG.COM account through our GOG Direct to Account API;
+(e) to evaluate the effectiveness of our marketing actions and improve the quality of our marketing;
+(f) to notify you about changes to GOG services and our legal documents.
+(g) to improve or modify GOG services, f.ex.
+based on which games you like, how you play them, reported problems, your suggestions or satisfaction surveys;
+(h) to improve or modify GOG services, for example based on which games you like more and how you play them.
+(i) to calculate conversion rates and other elements of GOG.COM performance.
+(j) in connection with the services of our Partners, such as payment processors, located in and outside the European Union, but only to the extent necessary to provide those services.
+(k) to provide you with optional functionalities such as GOG Connect or authentication via Facebook account.
+(l) to create a universal user’s profile based on information about your use of GOG Services and other platforms (we’ll rely on data made available when you merge your GOG account with your account on other platforms) in order to make our Services even more interesting for you.
+(m) to protect you from an unauthorized use of your account and against fraud;
+(n) for tax, legal and accounting purposes
+(o) for the accountability purposes as defined by EU legislation (GDPR)
+
+We will use your information to run GOG and keep improving it as well as to communicate with you (e.g.
+with newsletters or emails).
+Sometimes we may have to share anonymised, nonpersonal information like operating system types in order to run GOG services.
+9.2.
+Whenever we’re personalizing or targeting our marketing communications, offers and adverts, we may profile your personal information.
+We do not make however automated decisions (f.ex.
+via algorithms) that could affect your legal situation.
+If you decide that you no longer want to receive personalized offers, product recommendations from us, or no advertising news at all, you can object to this at any time.
+You can also choose whether to receive marketing communication from us, including personalized and targeted marketing emails by managing subscriptions on your GOG Account Subscription page, following the link "unsubscribe" attached to our marketing emails or just contacting us directly here. ń
+&nbsp.
+9.3 GWENT.
+If you sign up for, download, use or play GWENT, we will also use your data to: (i) provide access and allow you to play GWENT.
+(ii) ensure enjoyable gameplay through the analysis of players’ data.
+(iii) maintain the ranking of Gwent players, (iv) calculate conversion rates and other elements of GWENT performance.
+(v) maintain technical support services for game users.
+(vi) identify incidents of game misuse.
+(vii) target and personalize our marketing communication, offers and advertisements that we display on our websites and services (including in-game marketing) as well as those of third parties based on the combined data we have collected about you.
+We can use your data to help us operate and improve GWENT (assuming you play it ofc – hey, it’s a great game you know :)!)
+9.4 Non-personal data.
+We might process some aggregated and general non-personal data on user behaviour (e.g.
+sales per region, number of support tickets) and share it with third party partners who work with us to provide GOG services to you (for example, with games developers/publishers selling games on GOG.COM or with payment providers) in order to support, improve or amend GOG services or to help them to improve their products, which you have bought.
+We may also share non-personal information with data analysis services to help us run GOG.COM.
+Fear not, as mentioned above, everything’s anonymised, so you cannot be identified. &nbsp.
+10.
+DATA SHARING &nbsp.
+Other Users 10.1 Some elements of your personal information and some information about your use of GOG Services are accessible to other GOG users.
+For example: other users of GOG Services will be able to see your username and avatar (if you choose to have one).
+We may also display other information derived from your activity on GOG Services.
+We do this to help GOG users to find gamers with similar tastes and to build the GOG user community.
+You can manage the privacy settings of your GOG user profile in your GOG account
+Some information about you will be visible on GOG.COM as a part of your GOG user profile, this can be managed via privacy settings for your GOG account &nbsp.
+10.2 GWENT.
+When you create a GWENT account, some basic data about you (namely your username, card collection, and statistics) will form a part of your public profile and it will be visible to everyone who views your profile.
+You can disable this function and manage the visibility of your profile through your GWENT account settings at any time.
+Limited data about you will be visible as a part of your public GWENT profile, but it can be disabled at any time via the privacy settings in your account.
+10.3 How you use your information.
+Please remember that any communications you have via GOG services (e.g.
+via private messages, chat or the GOG forums or via multiplayer games like GWENT) may reveal your screen name, other details about you and the content of any communications by you with other users (see further section 10.2 above re GWENT).
+Also, any information and content you share publicly using GOG services (e.g.
+on our forums or your GOG user profile) will be accessible to GOG users and others.
+Consider carefully with whom you share your information and avoid sharing contact or private information about yourself.
+When you're using GOG services you can choose to share your own personal information with others (e.g.
+in chat) but it's your responsibility. &nbsp.
+Our Trusted Partners &nbsp.
+10.4.
+In general, we do not disclose information about you to third parties without your consent.
+We may share your data only with the following categories of third parties who were engaged by us to help deliver our services and functionalities to you (they are formally called “Data Processors”).
+
+Customer support partners that provide us with software and support ticket system to help us managing your customer support requests (like Zendesk Inc.);
+Advertising and advertising measurement partners to facilitate targeting, delivery and measurement of online advertising on third-party services (such as Google Adwords) or that provide us with email marketing tools (such as GetResponse);
+GOG’s subsidiaries and affiliates, including CD PROJEKT S.A, who help us providing you with GWENT and enable you to participate in Gwent esports competition;
+Anti-cheat companies: we may share the information required for our detection, investigation and prevention of cheating in GWENT.
+Third party vendors that provide us with analytical tools for GOG.COM and for GWENT;
+Third party vendors that provide us with error tracking and crash reporting tools;
+Third party platforms that may sell content which is activated on GOG.COM using our GOG Direct to Account API (more details of which can be found in our User Agreement);
+Third party network providers to optimize delivery of GOG content you requested (we share only your IP address and the identification of GOG content you wish to access);
+Data storage partners: we may store some of your information using third-party data storage services, e.g.
+we may use Google services to run surveys on GOG.COM;
+Our professional advisors dealing f.ex.
+with legal, tax, audit or accounting matters.
+
+In general, we don’t share information about you with third parties.
+There are exceptions like our partners that help us do our thing.
+They usually help us with things like data analytics, processing payments, internal tools or running a variety of marketing activities.
+10.5 During the payment process, we may also share information about you with the following categories of third partners who handle it independently as the so-called data controllers:
+
+payment-providers for payment processing purposes;
+banks and financial institutions to obtain payment;
+anti-fraud service providers;
+
+10.6 Some forms on this site require the use of Google's reCAPTCHA service before they can be submitted.
+This plugin checks if you are a person in order to prevent certain website functions from being (ab)used by spam bots (particularly comments).
+Use of the reCAPTCHA service is subject to the Google Privacy Policy and Terms of Use..
+10.7 Your information may be processed, stored and transferred outside your country of residence and beyond the European Economic Area (EEA) and Switzerland, such as the United States, Canada or Brazil.
+Privacy laws in these countries may not offer the same level of protection as in your country or in the EEA.
+But whenever we’re sharing your personal information outside the European Economic Area (EEA) and Switzerland, we will do so on the basis of the EU standard contractual clauses or Privacy Shield Framework which are lawful measures to transfer your data and establish adequate protection of your personal information. &nbsp.
+11.
+THIRD PARTY INFORMATION COLLECTION AND EXTERNAL SERVICES 11.1 GOG services may, from time to time, contain links to and from the websites or services of third parties (e.g.
+to games developers whose games are on GOG.COM).
+In addition, third parties (e.g.
+games developers/publishers) may also collect personally identifiable information (e.g.
+your email address or name) if you want to access additional game services, but they can collect any such information only after you have been informed of it and consented to it.
+This may include saving information to your GOG profile in relation to their games (such as, for example, saving game progress).
+Our Privacy Policy does not extend to these external sites or companies, so please refer directly to their privacy policies.
+You may find links on GOG.COM that lead outside our website.
+Sometimes we might need to direct you elsewhere (like a developer’s website) if you want to access additional features built into your games.
+These sites might collect your information under their own privacy policies.
+11.2 GOG services may also offer you easy and optional access to GOG-approved partners’ services, e.g.
+the websites and games provided by our related company CD PROJEKT.
+In order to do this, we will need to share some of your personal information (e.g.
+your email address) with them, as long as you agree to it.
+This personal information will be protected under our partner’s privacy policy.
+You can use GOG services to access cool stuff from GOG-approved partners.
+We will need to share some personal information with them (which you control).
+It is up to you if you want to use your GOG account for this or not.
+11.3 A quick word about GOG Connect (which you can read more about here).
+In order for us to provide this (optional) feature to you, we will need access to Valve’s service allowing us to retrieve certain data regarding Steam and games available via Steam (“Steam Data”).
+We will treat the Steam Data consistent with this Privacy Policy.
+We will only retrieve Steam Data regarding your Steam account as requested by you and we will notify you what if any Steam Data is stored by us.
+We will not intercept, store or use your Steam password or login.
+In accordance with Valve’s requirements, Steam Data is provided: (I) "AS IS," "WITH ALL FAULTS" AND "AS AVAILABLE," AND THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY, AND EFFORT IS WITH YOU.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, VALVE, STEAM GAME PUBLISHERS AND DEVELOPERS, AND THEIR SUPPLIERS MAKE NO REPRESENTATIONS, WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED.
+VALVE, STEAM GAME PUBLISHERS AND DEVELOPERS, AND THEIR SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES OR CONDITIONS, EXPRESS, STATUTORY AND IMPLIED, INCLUDING WITHOUT LIMITATION (A) WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, ACCURACY, TITLE, QUIET ENJOYMENT, NO ENCUMBRANCES, NO LIENS AND NON-INFRINGEMENT, (B) WARRANTIES OR CONDITIONS ARISING THROUGH COURSE OF DEALING OR USAGE OF TRADE, AND (C) WARRANTIES OR CONDITIONS OF UNINTERRUPTED OR ERROR-FREE ACCESS OR USE.
+(II) IN NO EVENT WILL VALVE OR ANY SUPPLIER BE LIABLE FOR ANY DAMAGES, INCLUDING WITHOUT LIMITATION ANY INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR PUNITIVE DAMAGES ARISING OUT OF, BASED ON, OR RESULTING FROM ITS API TERMS OF USE OR YOUR USE OF STEAM WEB API, STEAM DATA, OR VALVE BRAND &amp.
+LINKS, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THE EXCLUSION OF DAMAGES UNDER THIS PARAGRAPH IS INDEPENDENT OF YOUR EXCLUSIVE REMEDY AND SURVIVES IN THE EVENT SUCH REMEDY FAILS OF ITS ESSENTIAL PURPOSE OR IS OTHERWISE DEEMED UNENFORCEABLE.
+THESE LIMITATIONS AND EXCLUSIONS APPLY WITHOUT REGARD TO WHETHER THE DAMAGES ARISE FROM (A) BREACH OF CONTRACT, (B) BREACH OF WARRANTY, (C) NEGLIGENCE, OR (D) ANY OTHER CAUSE OF ACTION, TO THE EXTENT SUCH EXCLUSION AND LIMITATIONS ARE NOT PROHIBITED BY APPLICABLE LAW.
+IF YOU DO NOT AGREE WITH ANY PART OF THE ABOVE, OR YOU HAVE ANY DISPUTE OR CLAIM AGAINST VALVE OR ITS SUPPLIERS WITH RESPECT TO THE ABOVE, THEN YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE STEAM WEB API, STEAM DATA, AND VALVE BRAND &amp.
+LINKS.
+If you’d like to use our GOG Connect feature, we’ll require access to your “Steam Data” (more info opposite).
+There are some legal rules that Valve requires us to follow. 12.
+OTHER STUFF 12.1 Please be aware that we are subject to various laws and we may be required to release personal information to comply with law enforcement or other legal requirements.
+We might be required to comply with law enforcement requests to release personal information. &nbsp.
+12.2 In the unlikely event of a reorganisation or merger of GOG or GOG accounts we may transfer personally identifiable information to an involved third party who will protect this to at least the same level as we do in this Privacy Policy.
+Regardless of any reorganisations, acquisitions, etc., your personal information will be protected the same way as it is right now.
+Fear not! 13 YOUR RIGHTS 13.1 You have the right to object to the processing of your personal data in certain situations f.ex.for marketing purposes at any time.
+You can do so by contacting us here or by changing your email settings within your GOG account.
+Also email communications from GOG to you will contain an optout/unsubscribe option.
+Know your rights! These include the right to know how your personal information is being used, access to the data itself, the right to alter it, transfer, restrict how we use it, or just have it all deleted.
+Simply contact us at privacy@gog.com.
+13.2 Depending on where you live, you may have additional privacy rights.
+For example, under EU laws you have the following additional rights: ● to access information we hold about you.
+● to request that we delete your personal information from our system.
+● to ask us to rectify/correct your personal information if appropriate.
+● to ask us to restrict processing of your data.
+● to transmit your data to another entity.
+● to lodge a complaint with a data protection authority.
+You can exercise these rights by contacting us f.ex.
+here or at privacy@gog.com.
+You may have additional privacy rights (see opposite).
+13.3 If you have any concerns about your privacy please contact us first.
+If however you feel we have not dealt with your concern you can report this to your local data protection regulator or the Prezes Urzędu Ochrony Danych Osobowych ("PUODO") in Poland. &nbsp.
+14.
+CHANGES TO THIS PRIVACY POLICY 14.1 We may change this Privacy Policy if we think it's necessary for legal reasons or to reflect changes in GOG services.
+If so, we will make the changed Privacy Policy available online and (if you have a GOG account) we'll email you to explain the changes.
+We will also update the “Last Updated” date.
+We might make changes to our Privacy Policy but whenever we do we’ll display the changes online.
+Feel free to contact us if you have any questions about the changes. 15.
+USER AGREEMENT 15.1 We'd also like to remind you that our User Agreement has more information about how we operate GOG services and it has a number of sections which apply to this Privacy Policy too.
+You can read it at User Agreement.
+Just a reminder to check our User Agreement as well.
+Last updated: 26th February, 2019
+(in effect from 26th March, 2019.
+to view currently applicable Privacy Policy click here) &nbsp.
+Was this article helpful?  46 out of 51 found this helpful 
+
+Facebook
+Twitter
+LinkedIn
+Google+
+ Articles in this section 
+ Company reorganisation 
+ Cookie Policy 
+ Copyright Policy 
+ Money Back Guarantee Policy 
+ Privacy Policy 
+ User Agreement 
+ Do you have more questions? Didn't find the answer you were looking for? We will do our best to respond as quickly as possible.
+On weekdays, we normally reply within 24 hours, but during weekends we can only respond that quickly to high-priority, time-sensitive cases.
+All other cases will be looked into first thing next week.
+Contact us Want to get help and maybe make some new friends? We’ve got a great community here on GOG, which is always eager to help out.
+Please make sure not to share private data on public forums, though! Ask our community Part of group.
+Contact us Legal 

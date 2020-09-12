@@ -1,0 +1,1155 @@
+ Fastmail Email on your side Why Fastmail? Powerful features Privacy and security Our values Great for business Our company Pricing News Get Support Log in Sign up How Fastmail provides a secure service We have a great responsibility at Fastmail to keep your email secure.
+We continually review our code and processes for potential vulnerabilities and we take new measures wherever possible to further secure your data.
+On this page we list some of the core things we do to maintain security.
+
+Customer data
+Secure access to mail
+Encrypted sending/receiving
+Content security policy
+Necessary communications
+Software updates
+Software system security
+Image loading privacy
+Bug bounty
+Physical location security
+On-disk encryption
+Staff access to your data
+Password encryption
+Transfer of data with third parties
+Destruction of data
+Limitations
+
+
+ Customer data We know that email is free-form, and could contain all kinds of information about our customers and other people they correspond with, including data of the most confidential sort.
+Due to the nature of our business (hosting and forwarding free-form emails), our systems process large amounts of potentially highly confidential data.
+For this reason, we treat all personal data belonging to our customers as Customer Confidential (“your data”), which is the highest level of protection within our data modeling.
+To provide the services we offer, it is necessary for our computer systems to process unencrypted and unobfuscated data (for example: to build the search indexes which allow fast message retrieval, or to push alarm notifications for calendar events).
+
+ Secure access to mail We mandate all connections to our servers use Transport Layer Security (TLS) and Secure Sockets Layer (SSL) encryption, for all connections including webmail, the Fastmail official app, and IMAP/POP/SMTP email client access.
+This prevents eavesdropping, tampering, and message forgery on any communication between your computer or phone and our servers.
+We have full support for Perfect Forward Secrecy (PFS) with our encrypted connections, which ensures that even if we were somehow compromised in the future, no previous communication could be decrypted.
+All connections in supporting browsers have been protected by PFS since July 2012.
+A Strict Transport Security header is sent with all of our webpages.
+This tells all modern browsers to only connect to us over an encrypted connection, even if you have a bookmark, click a link or type a URL to an insecure page at our site.
+
+ Encrypted sending/receiving Whenever you send a message to someone outside of Fastmail we have to send it across the open internet.
+Since January 2010 we have fully encrypted all connections between us and the receiving server whenever the other server supports it, preventing passive eavesdropping, tampering or forgery.
+Similarly, we have accepted encrypted connections for mail delivery 
+to
+ our servers since April 2009, and we encourage all servers connecting to us to use it.
+
+ Content security policy Within our web interface we set a Content Security Policy header, which ensures that only scripts we've written can be run.
+This means that a potentially-malicious email that somehow managed to slip through our filters would still not be able to do anything dangerous.
+We use isolated domains to separate out untrusted content from the pages we generate.
+For example, when you open an attachment, it opens at fastmailusercontent.com rather than fastmail.com.
+Thanks to browser cross-origin security restrictions, this means that a rogue attachment can never access any of your data.
+Similarly, user websites are hosted on subdomains of user.fm, keeping them isolated from our site as well.
+
+ We only allow necessary communications Many unexpected forms of attack come from failing to close potential vulnerabilities, including database port access, SSH port access, and so forth.
+We use kernel-level firewalling to only allow connections to the services provided by each machine.
+
+ We keep track of software updates Software contains bugs.
+We track the software we use and any security vulnerabilities, and upgrade as soon as an issue is reported.
+
+ We use software systems that take security seriously We use Debian and Joyent SmartOS as our operating systems, because they both take their security responsibilities and updates seriously.
+In most cases, an update for a security problem will be available within hours of the original report.
+
+ Privacy: Image loading When accessing your email through our web interface, we protect your privacy by fetching all referenced images through our servers.
+This prevents the owner of the image from being sent additional information about you such as your internet address (which reveals your rough location), browser information and sometimes even tracking cookies.
+
+ Bug bounty We run a tight ship, but we're only human and humans can make mistakes.
+That's why we run a bug bounty program to encourage responsible disclosure of security issues and to reward security researchers who take the time to help us keep Fastmail safe.
+
+ Physical location security Our main servers are located at New York Internet (NYI) in Bridgewater, New Jersey, USA.
+Their facility is a high security, video monitored location.
+with backup power, air conditioning, fire systems, 24x7x365 monitoring, and onsite technical support.
+As their website notes:
+
+Data Center security is a top priority for NYI.
+We have taken extreme care to install the utmost security so that our customers know that their data is safe.
+Our Data Centers are located at heavily protected buildings where the security personnel are on guard 24x7.
+Other security features include biometric fingerprint readers on door locks, strategically placed cameras and motion detection, [and] doors equipped with alarm systems.
+
+NYI does a whole lot more to ensure security, including their hardware, best-practices, and routines.
+You can read all about them on their homepage.
+Our secondary sites at NYI's Seattle location has equivalent physical security.
+We use “remote hands” staff from the datacentres to perform routine maintenance on our servers (e.g.
+replacing hard disks or installing new machines), however they do not have logins or the ability to access your data.
+Our datacentre vendors provide us with power, cooling and network links (public internet) but do not manage or have permitted access to our internal network between servers.
+All public internet facing machines have a firewall.
+All data transfer between our datacentres is over an encrypted VPN (virtual private network) managed by us.
+
+ On-disk encryption All your data is stored on encrypted disk volumes, including backups.
+We believe this level of protection strikes the correct balance between confidentiality and availability.
+At this stage, some system log data (which could contain personal information) is temporarily stored on un-encrypted disks on individual servers, however we have an ongoing project to bring encryption to all system logging as well.
+
+ Staff access to your data We limit staff access to customer data as stringently as their roles allow.
+Due to the nature of their jobs, it is necessary for our operations staff to have access to the systems where customer data is processed.
+The staff who do require access to production servers for their jobs are aware of their responsibility to protect the confidentiality of your data, and only access that data where it’s required either to provide customer support or for operational necessity.
+Where possible, our systems are designed to allow our support and operational staff to perform their duties without being exposed to your data.
+Where possible, obfuscated data is presented (like to debug display problems).
+Where possible, your explicit consent is sought if viewing unobfuscated data is necessary.
+Due to the nature of their jobs, it may be necessary for our security and fraud staff to have access to deobfuscated customer data or other personal information.
+Sometimes we anonymize your information, for example creating a testcase that reproduces a bug found with your data, by making a case which will trigger the same bug without containing any confidential or personally identifying information.
+
+ Password encryption Where you are using a password to access our systems, we store that password in a non-reversible encryption scheme using current best practices.
+Where we are storing a password used to access other systems on your behalf (for example, POP links and calendar links) the password is stored with reversible encryption using a key which is stored separately from the encrypted data.
+
+ Transfer of confidential data with third parties Fastmail’s value proposition is “service in exchange for money”.
+We don’t ever sell or monetize confidential data or even “aggregate customer data”.
+As part of our commitment to open source, we do sometimes share statistical data (for example the average size of emails, or the percentage of email traffic which is encrypted or in written particular languages) which is useful in the broader email community to help drive software design.
+We also share spam reports and spam intelligence with our partner organisations who provide us with spam feeds.
+We use third party hosted services for bug tracking, support, exception alerting and communications.
+While we don’t send bulk data through any of these services, small pieces of your data may wind up in core dumps, in support ticket updates, inside bug descriptions (we obfuscate where possible, but sometimes the raw data is needed) or in chat messages where colleagues share snapshots of what they’re looking at.
+
+ Destruction of data Some of the features of our products are designed specifically around not losing data, so while you want us to retain your data, it is replicated to multiple systems and backed up.
+When you request destruction of your data by deleting specific items, or closing your account, the data is removed in a time-delayed manner.
+This both allows you to change your mind (undo, or restore from backup), and allows for the possibility that if your account is compromised and the attacker tries to delete everything, we can recover the data.
+We also collect some data which is personally identifiable as a side effect of the system monitoring and logging which we require for our operational stability.
+
+Destruction of system logs
+
+System logs are retained for 180 days before being deleted.
+We have a legitimate interest in having those logs available both to ensure the reliable operation of our systems, and to provide evidence of activity when users report unexpected states in their account.
+
+Destruction of deleted emails, contacts, and calendars
+
+Emails, contacts, calendars, and other personal data including notes that have been deleted in Fastmail or Pobox Mailstore are kept in backups for between 7 and 14 days after deletion.
+(They are wiped on Sunday the week after deletion.)
+
+Destruction of backup and search index data
+
+The backup copies of email and search indexes are pruned on an “as-needed” basis based on the ratio of space that would saved by re-compacting them.
+At the moment there is no guarantee that a particular message will be purged on a timeline, however our support can perform an immediate prune for a particular account on request.
+
+Destruction of data after account closure
+
+After an account is terminated, data and backups are purged within a timeframe of between 37 days to 1 year after closure depending on how long the account was active for, and whether the account was explicitly closed or lapsed due to lack of payment.
+
+ Limitations While communication between your computer and our servers is encrypted, any email that you send to another server may have to pass over the internet in an unencrypted form (although we encrypt it wherever possible).
+The only way to ensure end-to-end security with email is to use email encryption software such as Pretty Good Privacy (PGP) or Secure/Multipurpose Internet mail Extensions (S/MIME).
+Both of these systems require the creation of certificates, run on your computer, and are attached to your email client to encrypt/decrypt messages.
+Providing secure end-to-end encryption via webmail is impossible.
+There are basically two options, both flawed:
+
+
+Keep a private key on the server and encrypt email on the server
+Although all traffic between the server and client may be encrypted via TLS, and then the email itself is encrypted on the server before being sent to the world, the unencrypted email is still available on the server between the TLS and encryption stages.
+
+
+Use Java or JavaScript to encrypt email in the browser
+Because the script has to run on the user's browser, you could look at the code to see it's secure.
+In reality, no one would ever do that.
+In addition, this method can't prevent someone using malicious scripts to send encrypted messages back to the server, as well as the encryption key, for the server to decrypt.
+
+
+Famously, Hushmail, which allows you to use both of these options, admitted that the U.S.
+government compelled them to turn over the unencrypted emails of a number of users.
+Their contention on how secure they are then relates to what it requires to get a court order.
+In a Wired article, Hushmail stated:
+
+All Hushmail users agree to our terms of service, which state that Hushmail is not to be used for illegal activity.
+However, when using Hushmail, users can be assured that no access to data, including server logs, etc., will be granted without a specific court order.
+
+A similar requirement applies to Fastmail, as our Privacy Policy states.
+We won't release any data without the required legal authorisation from an Australian court.
+As an Australian company, we do not respond to US court orders. Help &amp.
+Support The Fastmail Service Security Fastmail Why Fastmail 
+Powerful features
+Privacy and security
+Our values
+Great for business
+Pricing
+ Company 
+About us
+Media
+News
+Jobs
+ Get Support 
+Help center
+Contact us
+System status
+Download the app
+Referral program
+Report a security issue
+
+
+Download the app on the App Store 
+Download the app on Google Play 
+ Privacy policy Terms of service Facebook Twitter Linkedin   Fastmail Email on your side Why Fastmail? Powerful features Privacy and security Our values Great for business Our company Pricing News Get Support Log in Sign up Fastmail Help &amp.
+Support Search 
+For instant answers, search our documentation or browse the various categories below.
+If you can’t find what you need, contact our support team and we’ll help get your issue resolved as soon as we can. Common Issues 
+New user guide
+How do I migrate my mail, domain, calendar and contacts to Fastmail?
+Set up your phone, tablet or desktop to access your email, calendars and contacts
+I can’t access my account / forgotten my password
+I’m getting a lot of unwanted messages (spam)
+Set up email for your own domain
+Restore accidentally deleted mail
+Guide to the updated settings interface
+ Users, Billing &amp.
+Plan How to… 
+Migrate mail, domain, calendar and contacts to Fastmail
+Add, delete or change users
+Switch between multiple user accounts
+Add extra mail storage to a user
+Upgrade/downgrade your plan
+Renew your account
+Cancel your account
+New user guide
+ Frequently asked questions 
+What limits are there for storage space, bandwidth on sending and receiving etc.?
+What can an administrator do?
+What is Fastmail’s refund policy?
+What happens if my subscription or free trial expires?
+Can I change my username?
+Do I need extra user accounts?
+What languages is Fastmail available in?
+How can I download all my data?
+ Troubleshooting 
+I can’t access my account
+Requirements and limitations of a trial account
+Icons are appearing as squares or strange symbols
+ Security How to… 
+Change your password
+Set up passwords for your apps
+Secure your account with two-step verification / 2FA
+Remotely log out your account
+Find your password in your password manager
+ Frequently asked questions 
+What is a phishing attack?
+How can I log in to multiple accounts at once?
+ Troubleshooting 
+Fastmail security upgrade: app passwords, alt logins, account recovery and more
+I can’t access my account
+My account has been locked
+I think my account has been compromised
+ Business 
+Guide to managing business (multi-user) accounts
+Migrate your business email to Fastmail from another service
+Manage the shared contacts
+Sharing mail between users
+Sharing calendars between users
+Retain a tamper-proof archive of all email sent or received by a user
+Set your business name, custom login screen, and email footer
+Import a user into your account
+Detach a user from your account
+Managing family accounts
+Managing resold accounts
+ Troubleshooting
+
+How do I sync my shared global contacts with my device?
+ Receive, Organise &amp.
+Find Mail Set up 
+Import your email from another provider
+Use an existing email address with your Fastmail account
+Set up email for your own domain
+Host your DNS with Fastmail
+Set up aliases
+Can I have a catchall/wildcard alias?
+ Manage 
+Use keyboard shortcuts
+Organise mail using conversations
+Pins: flagging important mail
+Search your mail
+Set up and use folders
+Set up a vacation autoreply
+Options for printing mail conversations
+Forward your mail to another account
+Organise mail with rules
+Create rules using regular expressions
+Get a notification when mail arrives
+Plus addressing and subdomain addressing
+Download a copy of your mail
+ Troubleshooting 
+Restore accidentally deleted mail
+I’m getting a lot of unwanted messages (spam) in my Inbox
+How do I turn off the grouping of related messages?
+Some messages are missing from my account
+I got an email from someone I don’t know.
+How is that possible?
+Why was an email delivered to my account even though I’m not listed in the To or Cc list of addresses?
+Someone tried to send me a message, but it bounced back
+Remote images blocked to protect your privacy
+Mail to my custom domain is bouncing
+ Send Mail How to… 
+Open mailto links from other sites in Fastmail
+Send email from your other addresses
+Undo a sent message
+Set your profile picture (avatar)
+Create an (image) signature that’s automatically added to your messages
+Format your message with fonts, colours and links
+Create templates to use as a starting point for new messages
+Change the attribution line at the top of quoted text in replies
+Use account identities
+Adding Attachments: computer, file storage, Dropbox
+Request a read receipt
+Set High Priority importance
+Forward multiple messages
+Send a copy
+ Troubleshooting 
+Messages I send are being returned to me undelivered
+My browser isn't spellchecking my emails
+ Contacts / Address Book 
+Using contacts
+Access your contacts from your phone, tablet or desktop
+Import or export contacts
+Manage contact groups
+Keyboard shortcuts
+ Troubleshooting
+
+How do I access shared contacts with my device?
+Password errors on mobile devices
+Why don't fields match up when syncing with CardDAV?
+ Calendar 
+Create an event or schedule a meeting
+Access your calendar from your phone, tablet or desktop
+Access a calendar from Google, iCloud or another CalDAV service
+Search your calendar
+Subscribe to a public calendar
+Share your calendars
+Import or export your calendars
+Migrate your calendars to Fastmail
+Show your contacts’ birthdays
+Set your time zone
+Change how dates are formatted
+Calendar views and navigation
+Keyboard shortcuts
+ Troubleshooting
+
+Troubleshooting calendar issues
+Password errors on mobile devices
+ Notes 
+About Fastmail notes support
+Sync your notes with your phone or tablet
+Keyboard shortcuts
+ Files 
+About Fastmail file storage: quota, folder and file management
+Create a website
+Secure website support: Let's Encrypt
+Create a photo gallery
+Access your files from your computer
+Share your files
+ Desktop &amp.
+Mobile App Sync Set up 
+Use the Fastmail app on your phone or tablet
+Set up passwords for your apps
+Set up your email or calendar on your phone, tablet or desktop
+Access your folders when using POP
+Access via a proxy
+See a list of all the ports and server names for our services
+ Troubleshooting 
+Troubleshooting issues with clients
+IMAP, POP, and SMTP definitions
+ Technical Information 
+Server names and ports
+The Fastmail storage architecture
+The Fastmail delivery process in detail
+SMTP-stage spam checks
+Content-based spam checks
+Backscatter spam checks
+Sender Authentication: SPF, DKIM and DMARC
+Why IMAP is better than POP
+SSL vs TLS vs STARTTLS
+Email standards
+The Sieve language
+Supported browsers
+ The Fastmail Service 
+Features
+Hosted domains
+Security
+Reliability
+Reseller
+Taxes
+Customer support policies
+ Company &amp.
+Legal 
+Company information
+Press
+Jobs
+Report abuse
+Report a security issue
+Our domains
+Privacy policy
+Terms of service
+ Fastmail Why Fastmail 
+Powerful features
+Privacy and security
+Our values
+Great for business
+Pricing
+ Company 
+About us
+Media
+News
+Jobs
+ Get Support 
+Help center
+Contact us
+System status
+Download the app
+Referral program
+Report a security issue
+
+
+Download the app on the App Store 
+Download the app on Google Play 
+ Privacy policy Terms of service Facebook Twitter Linkedin   Fastmail Email on your side Why Fastmail? Powerful features Privacy and security Our values Great for business Our company Pricing News Get Support Log in Sign up Using two-step verification (2FA) Two-step verification increases the security of your account by requiring two steps - your password plus an additional security step - in order to log in to your account.
+We support two-step verification with either an app on your phone, a dedicated security device that plugs into your computer, or a code sent by SMS.
+You might have heard of two-step verification being called "two-factor authentication" or "2FA".
+It is not required to be set up on your account, but it is recommended if you want additional security. Why should I use two-step verification? In an ideal world, all passwords would be a secret.
+But the more a password is used, the more exposed it becomes to malicious attackers.
+They might try to steal it (through phishing or malware/spyware), or guess it (through brute force repeated dictionary attacks).
+With two-step verification, if someone does manage to steal your password, they still can't use it to log in to your account without your verification device. How to set up two-step verification General Setup Instructions 
+Open the Settings → Password &amp.
+Security screen.
+If this is your first time enabling two-step verification for this account, you must add a recovery phone to your account (see "Account Recovery Credentials" below).
+If you have a recovery phone on your account, go to the Two-Step Verification section and click Add.
+Click Set Up Two-Step Verification.
+Select which kind of verification device you're adding to your account.
+Skip to the "Authenticator App" or "U2F or YubiKey OTP" instructions below for instructions on adding your verification device.
+ Account Recovery Credentials Before you can enable two-step verification, you must add a recovery phone to your account.
+If you ever lose access to your primary form of two-step verification, your recovery phone can be used to prevent you from being locked out of your account.
+You get a code sent to your phone instead to complete your second step when you log in.
+
+From the Settings → Password &amp.
+Security screen, go to the Account Recovery section and click Add.
+Enter your password in the yellow box and click Unlock to allow changes on this page.
+Click Add Recovery Phone to add a recovery phone number to your account.
+Enter your phone number and click Send Verification Code.
+Clicking this button will send a verification code to your recovery phone.
+Once you've received your verification code, enter the code and click Verify.
+This will add your recovery phone to your account.
+A confirmation screen will appear.
+Click Done to return to the Password &amp.
+Security screen.
+
+On the Account Recovery screen, you can also see your recovery code, which is randomly generated for your account.
+If you forget your password or lose your security device, you can use the recovery code to reset your password and restore access to your account.
+We strongly recommend writing down or printing out your recovery code and keeping it somewhere safe. Authenticator app 
+Once you've installed the authenticator app on your phone or tablet, select to add a new account.
+Use your device's camera to scan the QR code on the screen.
+(Or manually type in the key on the screen into the authenticator app.).
+If you're setting up an OTP device, select "Set a custom key" and enter the key that came with your device.
+
+Enter the 6-digit code the app gives you into the Fastmail web interface.
+
+Name this device so you can keep track of your verification devices and remove them if needed in the future.
+ U2F or YubiKey OTP 
+
+Insert the device into the USB port on your computer.
+
+Touch the button on the device once it lights up.
+
+Name this device so you can keep track of your verification devices and remove them if needed in the future.
+ How to log in with two-step verification Start by navigating to our login page, then:
+
+Enter your username and your password.
+Click Log In.
+Enter the current verification code from your authenticator app or OTP device, or plug in your security key and touch the button if it has one.
+If you have more than one two-step method on your account, you can switch method using the links under the login box.
+You can also declare this computer as trusted which means you don't need to use two-step verification again when logging in on that computer.
+
+If you're using an authenticator app on a phone or through the website, and you use 1Password to manage your passwords, we have detailed instructions on using them together.
+(Fastmail iOS/Android apps, Fastmail web client).
+If you'd like to revoke a computer's trusted status, you can also do that on the Password &amp.
+Security screen: the next time you log in on that device, you will need to re-authenticate using your 2FA. How to set up a client when using two-step verification Mail and calendaring computer programs and phone/tablet apps don't support two-step verification, other than the Fastmail apps.
+You'll need to set up app passwords for each device instead.
+
+ Why do I have to add a recovery phone number to set up two-step verification? Keeping your account safe from attackers is very important, but so is making sure you don't get locked out of your own account.
+Requiring a phone as a backup option balances security (no one else can read your data) and availability (you can read your data).
+For most users, the risk of losing their two-step verification device is far greater than the risk of someone hacking their SMS.
+If you lose your phone, the TOTP key is lost, but normally you can get a new SIM card with the same number from your carrier.
+Please note, if two-step verification is enabled, access to the phone number itself is not sufficient to gain access to an account: you still need two factors (your password AND the SMS).
+Users who accept the risk of being locked out of their account may remove the recovery phone number from their account after two-step verification has been enabled.
+Once the phone number is removed from the account, SMS is no longer an option as the second factor for verification. If you choose to do this, we strongly recommend you write down or print your recovery code and store it in a safe location, and that you set up at least two security keys or authenticator devices.
+Should you lose access to all two-step verification devices and not have your recovery code, you may be permanently locked out of your own account.
+ Which one is right for me? 
+
+Authenticator app
+
+An app is installed on your phone and randomly generates codes for you.
+The code needs to be typed when logging in.
+Free to download.
+
+Good if you're new to two-step verification.
+
+
+
+Security key (Webauthn/U2F)
+
+The most secure option: protects you against phishing.
+Requires a hardware device.
+No code typing required.
+
+Good if you want the best security and ease of use.
+
+
+
+YubiKey OTP
+
+Requires a hardware device.
+No code typing required.
+
+This is a legacy security key format.
+There is no reason to use this unless you have an old key that does not support U2F authentication..
+
+
+
+Security device: OTP
+
+Requires a hardware device.
+The code needs to be typed when logging in.
+Does not require a mobile device or USB port.
+
+Good if you can't use an authenticator app and can't plug a device into a computer.
+
+
+
+SMS code
+
+A code is sent to your phone via text message.
+Free.
+The code needs to be typed when logging in.
+
+SMS can be used as a backup mechanism in case you lose your security device.
+This can only be used if you already have two-step verification enabled through an authenticator app or security device.
+
+
+
+
+You can have more than one two-step verification device on your account. Authenticator apps Not sure which authenticator app to use? We recommend:
+
+iPhone: Google Authenticator, Authy or Duo Mobile
+Android: Google Authenticator, Authy or Duo Mobile
+
+If you have a different phone, you may still be able to use TOTP.
+Any app supporting Time-based One-Time Password (TOTP) from the Initiative for Open Authentication (OATH) as specified in RFC 6238 should work.
+
+Note: Neither the Google Authenticator app nor our server implementation is specific to Google in any way, nor does it ever communicate with Google systems as part of its operation (or with any other system).
+"Google Authenticator" is the name of Google's TOTP app, which has become synonymous with the authentication method itself. U2F and YubiKey OTP security keys We have tested with a variety of different security keys, and any key that supports U2F should work.
+We do recommend YubiKey, as in our experience these have the best build quality, a slim profile, and are reliable.
+You can buy one from the Yubico store or via Amazon. OTP devices Many manufacturers are now selling standalone OTP devices, often in a credit card or key fob form-factor.
+We've tested with Feitian c200 devices, but any device implementing the TOTP standard should work.
+We support devices with HEX or BASE32-encoded keys with a 30- or 60-second time step.
+If your particular device doesn't work, please let us know the make and model of the device and we'll look into adding support for it.
+When adding these devices to your account, use the "Authenticator App" option.
+This is because OTP devices use the same mechanism (TOTP) as authenticator apps described above. How do authenticator apps and security keys work? Interested in what's happening under the hood to keep you safe? Learn more about how TOTP works, how U2F works, or how YubiKey OTP works. Help &amp.
+Support Security Two-step verification Fastmail Why Fastmail 
+Powerful features
+Privacy and security
+Our values
+Great for business
+Pricing
+ Company 
+About us
+Media
+News
+Jobs
+ Get Support 
+Help center
+Contact us
+System status
+Download the app
+Referral program
+Report a security issue
+
+
+Download the app on the App Store 
+Download the app on Google Play 
+ Privacy policy Terms of service Facebook Twitter Linkedin  
+Cookies policy Last update: 2018-05-24 Introduction FastMail Pty Ltd ("we", "our" or "us") uses cookies on the following websites: fastmail.com, fastmailusercontent.com, topicbox.com, pobox.com, listbox.com ("Website").
+The information set out in this policy is provided in addition to our privacy policy, and should be read alongside our privacy policy.
+Cookies are small text files that are placed on your computer or mobile device by websites that you visit.
+They are widely used in order to make websites work, or work more efficiently, as well as to provide web services and functionalities for users.
+We use cookies to securely log you in to your account, and to provide us with anonymous information on the use of our Website.
+Most web browsers are set to accept cookies.
+Cookies are required for logging in to your account, however you do not need to have cookies turned on to visit our marketing and help pages.
+In the majority of cases, a cookie does not provide us with any personal information. Types of cookies Cookies may be either "persistent" cookies or "session" cookies.
+The Website uses both persistent and session cookies.
+A persistent cookie consists of a text file sent by a web server to a web browser, which allows us to keep you logged in (where you have chosen to do so), collect and analyze (on an anonymous basis) traffic and use of the Website, monitor the system and improve operating performance, for example, store your preferences to enhance your subsequent visits.
+It will not be automatically deleted when the browser is closed but is stored by the browser and will remain valid until its set expiry date (unless deleted by the user before the expiry date).
+
+A session cookie is like a persistent cookie, but is stored temporarily during a browsing session and will expire at the end if the user session, when the web browser is closed.
+The Website will use a session cookie to manage login and access to reserved features when you have not asked us to keep you logged in past the end of your session.
+A complete list of the cookies we use is set out at the end of this policy.
+This list (together with the rest of this policy) is subject to change by FastMail from time to time.
+ Other tracking technologies 
+Local Storage.
+When accessing the Website, we store program code, certain user preferences and other information used to improve operating performance in the web browser's local storage.
+All these are optional and are used for enhancing the service.
+This information is not used for tracking and is not sent to the server.
+
+Third Party analytics.
+We have engaged Innocraft's Matomo to analyse the activities of visitors to the Website through the use of cookies and other tracking technologies which enable them to monitor traffic to, and use of the Website.
+This enables us to evaluate usage of the Website.
+These third party cookies are governed by each third party's privacy or cookies policy.
+
+Third party analytics are only used on our marketing and help pages.
+There are no third party analytics on any page for which you need to be logged in or that contain personal data such as your mail, contacts or calendars. Our use of cookies We do not automatically capture or store personal information from browsers to the Website, other than to log your IP address (which in certain circumstances will be your personal data) and session information such as the duration of the visit to our site and the nature of the browser used.
+This information is used only for administration of the Website and in the compilation of statistics which we use for analysis in order to improve the Website and understand in general terms who uses our Website.
+Cookies are required to allow you to access and participate in certain areas of the Website.
+Once you have closed your browser, this type of cookie is deactivated unless you have chosen to remain logged in.
+Like all cookies, you are able to remove or block particular cookies at any time (see below). Your cookie choices The majority of browsers will allow you to alter the settings used for cookies and to disable and enable them as you require.
+
+You can reject all cookies (except strictly necessary cookies) in case you prefer not to receive them, and you can have your computer warn you whenever cookies are being used.
+You can delete the cookies that are already on your computer and you can set your browser to prevent them from being placed.
+Disabling cookies may, however, prevent some web services (including on the Website) from working correctly.
+Please be aware that when you have set your computer to reject cookies, it can limit the functionality of the Website and it is possible then that you will not have access to some of the features on the Website.
+To disable cookies, or to receive a warning whenever cookies are being used, you have to adjust your browser settings.
+You can adjust your browser settings to delete certain cookies.
+Visit the "help" section of your browser for how to manage your cookie settings, or follow the links below:
+
+Internet Explorer
+Mozilla Firefox
+Google Chrome
+Safari
+Opera
+ List of cookies used Below is a list of the cookies we set on our websites and the purpose of each: fastmail.com 
+
+s_... – Login cookie – this is used to allow you to log in to the Website.
+
+f_... – Security cookie – used as part of login and account recovery for keeping your account secure.
+
+d_... – Stores the domain you came in with, so we can keep you on the same domain when you log out.
+
+lang_... – Your preferred language to use for our interface once logged in.
+
+theme_... – Your preferred theme to use for our interface once logged in.
+
+campaign – If you came to our marketing site via a particular ad or campaign on a third party site, we set this so we can measure how effective the campaign was.
+ fastmailusercontent.com 
+
+sk_… Login cookie – this is used to authenticate your requests for message attachments and other user content.
+ topicbox.com 
+
+s_... – Login cookie – this is used to allow you to log in to the Website.
+
+f_... – Security cookie – used as part of login and account recovery for keeping your account secure.
+ pobox.com 
+
+pobox_session — Login cookie – this is used to allow you to log in to the Website.
+
+browsertoken — Security cookie – used as part of login and account recovery for keeping your account secure.
+
+SpryMedia_DataTables_... — Used for temporary storage of view parameters for data views (no user data)
+ listbox.com 
+
+mason — Login cookie – this is used to allow you to log in to the Website.
+ Third party services that set cookies When you visit our websites, or purchase products or services, we use the following third party services which may set cookies:
+
+Marketing activities use cookies to inform us of the effectiveness of paid advertisements we place on other sites on the internet.
+
+Matomo
+Twitter 
+Facebook
+Capterra
+Google AdWords
+
+
+Stop spam when people contact us and block automated signups.
+
+Google Captcha 
+
+
+Customer support tool to manage our help desk.
+
+Helpspot for email support
+Olark for realtime chat services
+ About FastMail Cookies Policy  
+Terms of Service These Terms of Service came into effect on May 24th, 2018.
+We still have our previous Terms of Service online.
+The only change from our previous terms is to remove the duplication of
+information from our privacy policy.
+The following are the terms and conditions for use of the various services provided by FastMail Pty Ltd, ACN 142 646 580, PO Box 234, Collins St West 8007, Australia (referred to as “FastMail”), including the FastMail email service, the Topicbox mailing list service, the Pobox email forwarding, filtering and domains services and the Listbox email service (collectively referred to as the “Service”).
+Please read these terms and conditions carefully.
+This Service is provided only to individuals who are at least 18 years old or minors who have parental permission to open and maintain an account.
+By completing the registration process, you are stating that you are eligible for an account and that you agree to be bound by all of these terms and conditions of the service (referred to as these “Terms”).
+You are not authorised to use the Service unless you accept these Terms without modification. 1.
+Member account, password, and security You must maintain the confidentiality of your password and account.
+You are responsible for any and all activities that occur in relation to the Service under your account (including the content of transmissions from your account, or any content uploaded or published through your account), except to the extent that a third party accesses your account as a result of FastMail’s negligence.
+You must notify FastMail immediately if you become aware of any unauthorised use of your account or any other breach of security.
+If a third party accesses your account without your authorisation, we will endeavour to block the unauthorised access and to restore your control of the account. 2.
+Message storage, file storage, outbound messages and other limitations The amount of storage space per user may be limited.
+Some sent or received messages, or uploaded or downloaded files, may not be processed due to space constraints or other limitations.
+You agree that FastMail is not responsible or liable for the deletion or failure to store messages, files or other information.
+Where free accounts are provided, you agree that you will not create more than one free account. 3.
+Member conduct As a condition of your use of the Service, you warrant to FastMail that you will not use the Service for any purpose that is unlawful or prohibited by these Terms.
+If you have a free account for the Service, you agree to use the Service only to send, receive, upload and publish personal messages and content.
+Any unauthorised commercial use of the Service, or the resale of its services, is expressly prohibited.
+If you are a paying user of the Service, you are authorised to use the Service for business-related communications, but may not use it in ways not permitted by other clauses of these Terms, including, but not limited to, use in connection with unsolicited commercial email, multi-level marketing schemes, or illegal activities.
+You must not re-sell the Service unless you have been given explicit prior permission to be a reseller by FastMail.
+You agree to abide by all applicable local, state, national and international laws and regulations.
+By way of example, and not as a limitation, you agree not to:
+
+(a) Use the Service in connection with surveys, contests, pyramid schemes, multi-level marketing schemes, chain letters, junk email, spamming or any duplicative or unsolicited messages (commercial or otherwise).
+(b) Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
+(c) Publish, distribute or disseminate any inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful material or information.
+(d) Harvest or otherwise collect information about others, including email addresses, without their consent.
+(e) Create a false identity for the purpose of misleading others as to the identity of the sender or the origin of a message.
+(f) Use, download or otherwise copy, or provide (whether or not for a fee) to a person or entity that is not a Service member any directory of the Service members or other user or usage information or any portion thereof other than in the context of your use of the Service as permitted under these Terms.
+(g) Knowingly transmit or upload any material that contains viruses, trojan horses, worms, time bombs, cancelbots, or any other harmful or deleterious programs.
+(h) Transmit or upload any material that contains software or other material protected by intellectual property laws, rights of privacy or publicity or any other applicable law unless you own or control the rights thereto or have received all necessary consents.
+(i) Interfere with or disrupt networks connected to the Service or violate the regulations, policies or procedures of such networks.
+(j) Attempt to gain unauthorised access to the Service, other accounts, computer systems or networks connected to the Service, through password mining or any other means.
+(k) Violate any applicable laws or regulations including, without limitation, laws regarding the transmission of technical data or software exported from the United States through the service.
+(l) Interfere with another member’s use and enjoyment of the Service or another individual’s or entity’s use and enjoyment of similar services.
+
+FastMail has no obligation to monitor the Service or any user’s use thereof or retain the content of any user session.
+However, FastMail reserves the right at all times to monitor, review, retain and/or disclose any information as necessary to satisfy any applicable law, regulation, legal process or governmental request. 4.
+Links to third party sites The links included within the Service may let you leave the Service web sites (“Linked Sites”).
+The Linked Sites are not under the control of FastMail and FastMail is not responsible for the contents of any linked site or any link contained in a Linked Site, or any changes or updates to such sites.
+FastMail is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by FastMail of the site or any association with their operators. 5.
+Disclaimers/limitation of liability The information and services included in or available through the Service may include inaccuracies or typographical errors.
+Changes are periodically added to the information herein.
+FastMail may make improvements and/or changes to the Service at any time.
+FastMail does not represent or warrant that the Service will be uninterrupted or error-free, that defects will be corrected, or that the Service or the server that makes it available are free of viruses or other harmful components.
+FastMail does not warrant or represent that the use or the results of the use of the Service or the materials made available as part of the Service will be correct, accurate, timely, or otherwise reliable.
+You specifically agree that FastMail shall not be responsible for or liable for:
+
+(a) unauthorised access to or alteration of your transmissions or data, any material or data sent or received or not sent or received, or any transactions entered into through the Service;
+(b) any threatening, defamatory, obscene, offensive or illegal content or conduct of any other party or any infringement of another’s rights, including intellectual property rights.
+or
+(c) any content sent using and/or included in the Service by any third party.
+
+FastMail make no representations about the suitability, reliability, availability, timeliness, and accuracy of the service for any purpose.
+The Service is provided “as is” without warranty of any kind.
+FastMail hereby disclaim all warranties and conditions with regard to the Service, including all implied warranties and conditions of merchantability, fitness for a particular purpose, title and non-infringement.
+In no event shall FastMail be liable for any direct, indirect, punitive, incidental, special, consequential damages or any damages whatsoever including, without limitation, damages for loss of use, data or profits, arising out of or in any way connected with the use or performance of the Service or related web sites, with the delay or inability to use the Service or related web sites, the provision of or failure to provide services, or for any information, software, products, services and related graphics obtained through the Service, or otherwise arising out of the use of the Service, whether based on contract, tort, negligence, strict liability or otherwise, even if FastMail has been advised of the possibility of damages.
+Because some states/jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.
+If you are dissatisfied with any portion of the Service, or with any of these terms of use, your sole and exclusive remedy is to discontinue using the Service and its related web sites. 6.
+Indemnification You agree to indemnify and hold FastMail, its parents, subsidiaries, affiliates, officers and employees, harmless from any claim, demand, or damage, including reasonable attorneys’ fees, asserted by any third party due to or arising out of your use of or conduct on the Service. 7.
+Termination FastMail may terminate your access to any part or all of the Service and any related service(s) effective immediately if you fail to comply with these Terms, or where required to by law.
+FastMail may also terminate or suspend your account for non-payment, which is defined as failure to make a renewal after your paid subscription period expires.
+Upon termination of the Service, your right to use the Service immediately ceases.
+FastMail shall have no obligation to maintain any content in your account or to forward any unread or unsent messages to you or any third party. 8.
+Refunds FastMail may choose to make a refund of prepaid fees for the Services at its sole discretion, however FastMail shall have no obligation to refund any portion of any fees in the event that you wish to discontinue use of all or part of the Service, or in the event that your access is terminated by FastMail as a result of you failing to comply with these Terms. 9.
+No spam FastMail will immediately terminate any account which it believes, in its sole discretion, is transmitting or is otherwise connected with any spam or other unsolicited bulk email. 10.
+Proprietary rights to content You acknowledge that content, including but not limited to text, software, music, sound, photographs, video, graphics or other material contained in either sponsor advertisements or electronically distributed, commercially produced information presented to you by the Service, FastMail, or FastMail’s advertisers or other content providers, is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws.
+You may make a copy of this content for your personal, non-commercial use only, provided that you keep all copyright and other proprietary notices intact.
+You may not modify, copy, reproduce, republish, upload, post, transmit, or distribute in any way content available through the Service and its associated Web sites, including code and software. 11.
+Changes to these Terms of Service FastMail reserves the right to change these Terms or its policies regarding the use of the Service at any time and to notify you by posting an updated version of these Terms on this web site.
+You are responsible for regularly reviewing these Terms to check for updates.
+Continued use of the Service after any such changes shall constitute your consent to such changes. 12.
+General These Terms are governed by the laws of the State of Victoria, and Australia, without regard to the conflict or choice of law rules thereof.
+The courts sitting in the State of Victoria, Australia shall have exclusive jurisdiction over any dispute arising hereunder.
+Use of the Service is unauthorised in any jurisdiction that does not give effect to all provisions of these terms and conditions, including without limitation this paragraph.
+You agree that no joint venture, partnership, employment, or agency relationship exists between you and FastMail as a result of this agreement or use of the Service.
+FastMail’s performance of this agreement is subject to existing laws and legal process, and nothing contained in this agreement is in derogation of FastMail’s right to comply with governmental, court and law enforcement requests or requirements relating to your use of the Service or information provided to or gathered by FastMail with respect to such use.
+If any part of these Terms are determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of these Terms shall continue in effect.
+Unless otherwise specified herein, these Terms constitute the entire agreement between you and FastMail with respect to the Service (excluding the use of any software which may be subject to an end-user license agreement) and it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between you and FastMail with respect to the Service.
+A printed version of these Terms and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Terms to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+You and FastMail agree that any cause of action arising out of or related to these Terms and/or the Service must commence within one (1) year after the cause of action arose.
+otherwise, such cause of action is permanently barred.
+Headings in these Terms are solely used for the convenience of the parties and have no legal or contractual significance.
+Except where explicitly indicated otherwise, prices shown on this site exclude any sales tax that might be applicable in your jurisdiction.
+You must pay FastMail any additional sales taxes not previously levied upon request.
+FastMail reserves the right to assign its rights and responsibilities under this agreement to any third party. 13.
+Content uploaded by members FastMail does not claim ownership of content you submit or make available for inclusion on the Service.
+However, with respect to content you submit or make available for public or shared access on the Service, you grant a world-wide, royalty free and non-exclusive license(s) to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such content on the Service solely for the purpose for which such content was submitted or made available.
+This license exists only for as long as you elect to continue to include such content on the Service and will terminate at the time you remove or FastMail removes such content from the Service.
+You acknowledge that if you permit third parties to access your private content through the Service, those third parties may share such data outside of the Service.
+You acknowledge that FastMail is not responsible for such sharing.
+FastMail does not endorse the content or views expressed in content hosted by our customers.
+Claiming endorsement by FastMail is a violation of these Terms. 14.
+Reseller accounts You must not re-sell the Service unless you have been given explicit prior permission to be a reseller by FastMail.
+If you are given permission to operate as a reseller of the Service, you acknowledge that:
+
+(a) your customers own the data associated with their accounts;
+(b) at FastMail’s request, you must assist FastMail in enforcing these Terms against your customers;
+(c) in the event of a dispute between you and a customer of yours, FastMail may in its discretion at a customer’s request, detach the customer from your resale service.
+
+If you acquire the Service as a customer of a reseller, you acknowledge that:
+
+(a) you accept these Terms in addition to any terms and conditions of the reseller;
+(b) FastMail is not responsible and accepts no liability for the actions or omissions of the reseller.
+and
+(c) the reseller has the ability to create/modify/delete and access your accounts on your behalf.
+ COPYRIGHT AND TRADEMARK NOTICES All source code, executable code, page designs and other copyrightable material are Copyright © 1999-2018 FastMail Pty Ltd or used under license from the copyright owner.
+All rights reserved.
+Any rights not expressly granted herein are reserved.  
+Privacy policy FastMail Pty Ltd ("we", "our" or "us") based at PO Box 234,
+Collins Street West, VIC 8007, Australia, ABN 31 142 646 580
+is responsible for your personal information (Personal Information) and we take
+our data protection and privacy responsibilities seriously.
+The privacy of your Personal Information is your right.
+We want to make our
+policies on managing your data clear and understandable, so we've tried to write
+our privacy policy in plain English.
+Each section of this policy is labelled to make it easy for you to navigate —
+please click on a topic in the list below to find out more.
+This privacy policy
+explains how we collect, use and share your personal information so please read
+it carefully.
+If you have any questions, please contact us.
+
+Important information about FastMail:
+
+FastMail is an Australian company, FastMail Pty Ltd ("FastMail").
+We also operate under the brand/marketing names:
+Pobox (Lifetime Email) https://www.pobox.com,
+Listbox https://www.listbox.com, and
+Topicbox https://www.topicbox.com as part
+of our services portfolio.
+Our website has our contact information:
+https://www.fastmail.com/about/company.html.
+You should be aware that your information may be held in databases which can
+be accessed by other FastMail companies and their partners or service providers
+worldwide.
+We employ people through different FastMail companies and partners,
+depending on where they live and those FastMail companies and partners provide
+service, at the same level of quality and with the same policies throughout
+the world.
+We provide more information on our worldwide service locations and
+partners in this policy.
+You can read about where data is held on our security help page.
+This privacy policy explains how we collect, use and share personal
+information in the course of our business activities, including:
+
+What personal information we collect and when and why we use it.
+How we share personal information within FastMail and with our service providers, regulators and other third parties
+Explaining more about your Marketing Preferences
+Transferring personal information globally
+How we protect and store personal information
+Cookies
+Your rights available to help manage your privacy
+How you can contact us for more support
+
+
+ Updates We may review or update this privacy policy from time to time to keep it
+up to date with legal requirements and the way we operate our business.
+We will place any updates on this webpage, so please regularly check for
+updates.
+If we make fundamental changes to this privacy policy, we may
+take additional steps to notify you including by posting on our website(s),
+through pop-up notices or via email.
+We will not reduce your rights under
+this Privacy Policy without your explicit consent.
+
+ Third-party websites If there is a link to any third party on any of our websites, their privacy policy
+applies.
+We are not responsible for the privacy practices of any third party.
+
+ What personal information we collect, and when and why we use it In this section you can find out more about:
+
+the types of personal information we collect;
+when we collect personal information;
+the different kinds of personal information we collect for certain services we offer.
+and
+how we use personal information
+
+You can use our services in a variety of ways to manage your privacy when you sign up for a FastMail account, for example if you want to create and manage content like emails and photos, or see more relevant search results.
+You can adjust your privacy settings to control what we collect and how your information is used.
+
+ When we collect information We collect information about you if you register to use our services, create an account with us, visit our platform or one of our websites, or use one of our services.
+We also collect information about you where you are an individual representative of one of our business partners or providers with whom we engage in offering and providing our services.
+The information we collect, and how that information is used, depends on how you use our services and how you manage your privacy controls in your account. Personal information we collect and use if you register to use, or use, one of our websites or services (including for trial purposes) If you register to use, or use, one of our websites or services including
+FastMail https://www.fastmail.com,
+Pobox (Lifetime Email) https://www.pobox.com,
+Listbox https://www.listbox.com or
+Topicbox https://www.topicbox.com, personal
+information that may be collected directly from you includes name, billing
+address, mobile phone number, organisation name, your own domain name,
+IP address, browser user-agent and billing details (credit card, or PayPal
+account).
+We also collect some of this information if you are using our
+services on a trial basis.
+Our help page on each service explains how your
+information is deleted if you decide not to proceed.
+We may also collect personal information such as IP address, device
+information and log information by using cookies.
+Please see Cookies
+for more information on this and our Cookies Policy.
+We process mail sent and received from your account to block spam and
+fraud.
+We receive information from third party services to assist us in
+identifying spam.
+If you report a message to us, either through the service or
+via customer support, as spam or not spam, we may share that message with
+the third party service that flagged it to improve the accuracy of future
+filtering.
+See further below on your rights when we disclose your
+information to our third party service providers.
+We also store information from your address book, calendar, notes and
+files on our servers until you delete them (for more information on data
+retention see our security help page).
+We will also share this information with your devices and external accounts
+where you have authorised us to do so.
+We also collect the email content you create, upload, or receive from others when using our services.
+We use this information to deliver our services, like processing the terms you search for in order to return results or helping you add addresses to messages by suggesting recipients from your contacts.
+Each time you connect to our service, we log your IP address, your client
+identifier (browser or mail client information) and your username.
+If you
+send mail, we also log the email address you're using to send mail and the
+email address you're sending to.
+If you take action on mail in your mailbox,
+we also log the activities taken.
+This is necessary for providing proof of
+delivery and fraud analysis.
+For example, we need this information for detecting deliverability issues if there are failures sending email that we either detect through monitoring or when you ask if email you are sending/receiving is working properly.
+We also need your IP address and username to help you validate if someone else has gained access to your account to send spam or for other fraudulent purposes. Information we collect if a registered user allows you to access their account In a multi-user account, if you are permitted to access and use a user
+account on any of our services by the registered user directly, we may
+collect the following information about you: IP address and name.
+The registered account holder is responsible for your access and use if
+they provide you with access to and use of an account and the Personal
+Information residing in that account. Information we collect if you are an employee or a contact at our business partner or sign up to our newsletters If you are an employee or a contact at one of our business partners
+(including customers and suppliers), or sign up to one of our newsletters,
+we may collect your business contact details (including name, work address,
+work email, work telephone numbers, job title) for the purposes of issuing communications to you under the terms of this privacy policy and in accordance with your marketing and communications' stated preferences.
+We collect this information regardless of whether you use the FastMail,
+Topicbox, Listbox or Pobox services that we provide.
+If you are an individual user who is assigned an account on our website/platform by your company, your account is likely to be managed by an administrator.
+Alternative and/or additional terms may apply as determined by your company's privacy and other related policies, and your administrator may be able to access or disable your account.
+
+ How do we use the personal information we collect from you? We use this information to:
+
+provide you with our services and to maintain, manage and improve our services;
+help our services deliver more useful, customised content such as more accurate search results;
+send you notifications when you receive new mail or events.
+we may also send you a notification if we detect suspicious activity, like an attempt to sign in to your account from an unusual location;
+at your option, contact you to let you know about updates to our services or information we feel may be of interest to you (see more information at Direct Marketing);
+provide you with customer support including technical support and troubleshooting (for example, to reset your password);
+protect you and conduct security investigations and fraud and abuse analysis (including to help us flag spam mail);
+conduct analytics and measurement to understand how our services are used;
+comply with our legal obligations, for example when assisting governments and law enforcement agencies or regulators (as may be required by law);
+improve the safety and reliability of our services.
+This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm FastMail, you, our users, or the general public.
+
+
+ Data analytics We routinely analyse information to help improve the
+way we run our business, to provide a better service and to enhance
+the accuracy of our products and services.
+We use usage information
+for data analytics, particularly to understand how our services are
+used, but this information is not personal information as it is.
+We anonymise data fields before allowing information to be available
+for analysis.
+
+ Your privacy controls You have and can manage your choices regarding the information we collect and how it's used.
+You have an opportunity to review and adjust privacy settings in your account.
+Some of our products offer specific privacy settings.
+For example, you can manage your contact information, such as your name, email address, and phone number.
+You can also delete certain information, or your entire FastMail account should you wish to do so.
+You can download and export a copy of all of your data and content in your FastMail account if you want to back it up or use it with a service outside of FastMail.
+
+ Sharing personal information with others In this section you can find out more about how we share personal information:
+
+within FastMail;
+with third parties that help us provide our products and services.
+and
+with government organisations and agencies, law enforcement and regulators.
+
+We may share your personal information in the manner and for the purposes described below:
+
+
+with third parties who help manage our business and deliver services.
+These include service providers who help manage our systems.
+Some of these providers use “cloud based” IT applications or systems, which means that your Personal Information will be hosted on their servers, but under our control and direction.
+We require all our service providers and third parties to respect the confidentiality and security of Personal Information and our contracts with them generally include obligations for them to comply with applicable privacy laws and to use any personal information we share with them solely for the purpose of providing services to us.
+
+with your consent or as necessary to complete any transaction or provide any product which you have requested or authorised — for example when sending emails to a friend, sharing photos or documents on shared drives, or linking accounts with another service from fastmail.
+Or where you direct us to share your personal information with a third-party service provider in order to integrate our services with a service that they may provide, for example with a third-party calendar provider, mail provider or cloud file storage provider.
+Again, we require all our service providers and third parties to respect the confidentiality and security of Personal Information and our contracts with them generally include obligations for them to comply with applicable privacy laws and to use any personal information we share with them solely for the purpose of providing services to us.
+Any personal information which is provided directly by you and received by a third party directly may be stored and will be used by them according to their privacy policy;
+
+with account administrators — if you work for or are part of an organisation that uses FastMail services, your account administrators and/or resellers who manage your account will have access to your FastMail account.
+They may be able to:
+
+access and retain information and your email stored in your account;
+view statistics regarding your account;
+change your account password
+suspend or terminate your account access
+receive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request
+restrict your ability to delete or edit your information or your privacy settings
+
+
+
+Your use of FastMail products and services is subject to your organisation's policies, if any.
+You should direct your privacy inquiries, including any requests to exercise your data protection rights, to your organisation’s account administrator.
+
+
+with government organisations and agencies, law enforcement, regulators to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies;
+
+with banks and payment providers to authorise and complete payments, though we only maintain a record of your email address (for PayPal), or the last four digits of your credit card and expiry date (for credit card);
+
+if, in the future, we sell or transfer some or all of our business or assets to a third party, we may disclose information to a potential or actual third party purchaser of our business or assets.
+and
+
+we may share in aggregate, statistical form, nonpersonal information regarding the visitors to our website, traffic patterns, and website usage with our partners and affiliates.
+
+
+ Explaining more about your marketing preferences In this section you can find out more about:
+
+how we use personal information to keep you up to date with our products and services;
+how you can manage your marketing preferences.
+and
+when and how we undertake profiling and analytics
+
+
+ How we use personal information to keep you up to date with our products and services We may use your name and email address to send direct marketing communications to
+you and let you know more about our services or related services that we believe
+will be of interest to you.
+We may contact you by email, or through other
+communication channels that we think you may find helpful.
+In all cases, we will
+respect your preferences for how you would like us to manage marketing activity
+with you.
+
+ How you can manage your marketing preferences To protect your privacy rights and to ensure you have control over how we manage marketing with you:
+
+users of the FastMail, Listbox and Pobox services can opt out of any non-essential communication by de-selecting the relevant checkbox in the settings page in the web interface;
+even after opting in, you can ask us to stop sending email marketing by following the “unsubscribe” or opt-out links in electronic communications.
+Alternatively you can contact us.
+and
+we will take steps to limit direct marketing to a reasonable and proportionate level and only send you communications which we believe may be of interest or relevance to you
+
+
+ When and how we undertake data analytics and profiling We use Matomo, a web analysis service of InnoCraft Inc.
+(“Matomo”).
+Matomo uses cookies to monitor traffic to, and use of our marketing websites only.
+There is no Matomo tracking once you are logged in.
+Information about the use of our website generated by these cookies is generally transferred to a Matomo server in the USA and stored there.
+Matomo uses this information on our behalf to evaluate usage of our website, and to compile reports on activities.
+All personal information, including IP addresses, are anonymised by them.
+Matomo respects Do Not Track browser flags.
+you may opt out of tracking by setting your browser to Do Not Track.
+We may use profiling or other forms of automated processing to assess if
+your account may be fraudulent, a spam account or suspect in any way.
+We may also use profiling to lock fraudulent or suspect accounts, including
+any “stolen accounts”.
+Our monitoring systems detect high levels of outgoing
+spam, or unusual login patterns which a staff member then reviews to
+determine appropriate action.
+We do not profile you to customise services for you, provide personalised
+content or show you personalised advertisements based on your individual
+interests, preferences, or related activities.
+
+ Transferring personal information globally In this section you can find out more about:
+
+how we operate as a global business and transfer data internationally.
+and
+the arrangements we have in place to protect your personal information if we transfer it overseas.
+
+Your personal information may be disclosed, transferred to or processed
+outside of your country of residence.
+This includes to Australia, the
+United States of America, India, and the Netherlands, where it will be subject
+to the laws of the country to which it is transferred.
+These jurisdictions
+may not have an equivalent level of data protection laws as those in your
+country.
+For EU/UK individuals — if you are an individual based in or a resident
+of the European Union or the United Kingdom, your personal information
+may be processed outside of the European Union, in countries such as the
+United States of America, Australia, India, that are subject to
+different standards of data protection.
+We will take appropriate steps to ensure that transfers of personal information
+are in accordance with applicable law and carefully managed to protect your
+privacy rights and interests and transfers are limited to countries which
+are recognised as providing an adequate level of legal protection or where
+we can be satisfied that alternative arrangement are in place to protect
+your privacy rights.
+To this end:
+
+where we transfer your personal information outside of FastMail or to third parties who help provide our services, we obtain contractual commitments from those third parties to protect your personal information.
+Some of these assurances are well-recognised certification schemes like the EU US Privacy Shield for the protection of personal information transferred from within the EU to the United States and/or the use of EU approached Standard Contractual Clauses (“EU Model Clauses”) for controller to controller and /or controller to processor transfers from the EU/UK to jurisdictions, such as Australia who do not have an adequacy finding from the EU Commission.
+or
+where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any personal information is disclosed.
+
+You have a right to contact us for more information about the safeguards we have put in place (including a copy of relevant contractual commitments) to ensure the adequate protection of your personal information when this is transferred as mentioned above.
+
+ How we protect and store your information Security We store most of your personal information electronically.
+We implement and maintain appropriate technical and organisational security measures, policies and procedures designed to reduce the risk of accidental destruction or loss, misuse or interference or the unauthorised disclosure, access or modification to such information appropriate to the nature of the information concerned.
+The security of your information is paramount and a critical consideration for FastMail in the provision of its services to you.
+Please see further information on the security measures we engage on our websites and platform and when you use any of our services.
+We work hard to protect you and FastMail from unauthorised access, alteration, disclosure, or destruction of information we hold.
+Measures we take include:
+
+placing confidentiality requirements and restricted access protocols on our staff members and service providers who need access to your information in order to process it to provide our services to you;
+destroying your personal information if it is no longer needed to provide you with our service;
+destroying logging or other transactional information that may incidentally contain personal information in accordance with our schedules to clear such information;
+following strict security procedures in the access, storage and disclosure of your personal information to prevent unauthorised access to it.
+and
+using secure communication transmission software (known as "secure sockets layer" or "SSL") that encrypts all information you input on our website before it is sent to us.
+SSL is an industry standard encryption protocol and this ensure that the information is reasonably protected against unauthorised interception.
+
+As the security of information depends in part on the security of the computer and/or device you use to communicate with us and the security you use to protect your user IDs and passwords, please take appropriate measures to protect this information. How long do we store/retain your personal information We will store your personal information for as long as is reasonably necessary
+for the purposes for which it was collected, as explained in this privacy
+policy.
+Where your information is no longer needed, we will ensure that it is
+disposed of in a secure manner.
+In some circumstances we may store your personal information for longer periods
+of time, for instance where we are required to do so in accordance with legal,
+regulatory, tax, accounting requirements.
+Where we log information related to
+your IP address, we retain this information for approximately 90 days.
+This is for the purposes of fraud watch, as often users don’t check in with us in a timely fashion over whether their account is compromised.
+Being able to look at some amount of recent history and know what activity was taken by a legitimate user vs a malicious one is useful.
+We proscribe your primary email address, if it’s at one of our domains, for up
+to 6 six months after your account is closed, to reduce the risk of
+impersonation, should someone try to use the same email address as you in order
+to impersonate you.
+Where you request that we delete your account from our system, we will
+immediately lock the account and archive the information, then delete it from
+our severs within approximately 7 days from the date of your request.
+This
+archive window allows you to recover your information in the event of an
+accident or malicious deletion request.
+However, in specific limited circumstances we may store your personal
+information for longer periods of time so that we have an accurate record of
+your dealings with us in the event of any complaints or challenges, or if we
+reasonably believe there is a prospect of litigation relating to your personal
+information or dealings. Children's data When a FastMail product collects age, and there is an age in your jurisdiction under which parental consent or authorisation is required to use the product, the product will either block users under that age or will ask them to provide consent or authorisation from a parent or guardian before they can use it.
+We will not knowingly ask children under that age to provide more data than is necessary to provide the product.
+
+ Cookies A cookie is a text file containing small amounts of information which is downloaded to/stored on your computer (or other internet enabled devices, such as a smartphone or tablet) when you visit a website.
+Cookies may collect personal information about you.
+Cookies help us remember information about your visit to our website, like your username, country, language and other settings.
+Cookies allow us to understand who has seen which webpages, to determine how frequently particular pages are visited and to determine the most popular areas of our website.
+They can also help us to operate our website more efficiently and make your next visit easier.
+Cookies can allow us to do various other things, as explained further in our Cookie Policy.
+For more information about how our cookies work and information about how to manage your cookie settings please visit our Cookie Policy
+
+ Your rights available to help manage your privacy You have a number of rights in relation to your personal information.
+You may access or request correction of the personal information that we hold about you by contacting us.
+There are some circumstances in which we are not required to give you access to your personal information.
+There is no charge for requesting access to your personal information but we may require you to meet our reasonable costs in providing you with access (such as photocopying costs or costs for time spent on collating large amounts of material).
+We will respond to your requests to access or correct personal information in a reasonable time and will take all reasonable steps to ensure that the personal information we hold about you remains accurate, up-to-date and complete.
+You can access and control your Personal Information that FastMail has obtained with tools FastMail provides to you, described below, or by contacting FastMail.
+For example:
+
+if FastMail obtained your consent to use your personal information, you can withdraw that consent at any time;
+you can request access to, erasure of and updates to your personal information.
+and
+if you’d like to port your data elsewhere you can use tools FastMail provides to do so, or if none are available you can contact FastMail for assistance.
+
+You can also object to or restrict FastMail’s use of your personal information.
+For example, you can object at any time to our use of your personal information:
+
+for direct marketing purposes.
+or
+where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party.
+
+You may have these rights under applicable laws, including the EU General Data Protection Regulation (GDPR), but we offer them regardless of your location.
+If your organisation, such as your employer or service provider, provides you access to and is administering your use of FastMail products, contact your organisation to learn more about how to access and control your Personal Information.
+You can access and control your Personal Information that FastMail has obtained, and exercise your data protection rights, using various tools we provide.
+The tools most useful to you will depend on our interactions with you and your use of our products.
+Please use our help pages first to learn about the tools available to you, but you are able to contact us to exercise your rights.
+We may ask you for additional information to confirm your identity and for security purposes, in particular before disclosing personal information to you.
+We may not always be able to fully address your request, for example if it would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with the request in a different way.
+
+ Contact us The primary point of contact for all issues arising from this Policy is our Data Protection Officer.
+They can be contacted in the following ways:
+dataprotection@fastmailteam.com
+FastMail Pty Ltd
+PO Box 234
+Collins St West
+VIC 8007
+Australia
+If you have any questions, concerns or complaints regarding our compliance with this privacy notice, the information we hold about you or if you wish to exercise your rights, we encourage you to first contact our Data Protection Officer.
+We will investigate and attempt to resolve complaints and disputes and make every reasonable effort to honour your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by applicable data protection laws. To contact your data protection supervisory authority You have a right to lodge a complaint with your local data protection supervisory authority (i.e. your place of habitual residence, place or work or place of alleged infringement).
+If you are located in Australia, you can contact the Office of the Australian Information Commissioner at https://www.oaic.gov.au/.
+We would however ask that you please attempt to resolve any issues with us before raising with your local supervisory authority. Glossary: definitions Defined Term Definition Personal Information Any information capable of identifying a natural person, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to their his or her physical, physiological, mental, economic, cultural or social identity.
+Information is considered personal when it enables anyone to link information to a specific person, even if the person or entity holding that data cannot make that link.
+Processing and “process” Any operation or set of operations that is performed upon Personal Data, whether or not by automatic means, including, but not limited to collection, recording, organisation, storage, access, adaptation, alteration, retrieval, consultation, use, disclosure, dissemination, making available, alignment, combination, blocking, deleting, erasure, or destruction.
