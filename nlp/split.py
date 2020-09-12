@@ -3,6 +3,8 @@ import random
 import numpy as np
 import sys
 
+TRAIN_PROP = 0.8
+
 
 def sort_list_dict(freq, desc=False):
     return dict(sorted(freq.items(), key=lambda item: len(item[1]), reverse=desc))
@@ -18,13 +20,15 @@ def iterative_stratification(tokens, proportions, lookup):
 
     # Build the list of tokens per label that have not
     # been allocated to a subset yet
-    for img, class_list in tokens.items():
+    for token, class_list in dict(tokens).items():
         if len(class_list) == 0:
-            unlabeled.append(img)
+            unlabeled.append(lookup[token])
+            del tokens[token]
+            continue
         for c in class_list:
             if c not in remaining.keys():
                 remaining[c] = set()
-            remaining[c].add(img)
+            remaining[c].add(token)
 
     desired = [dict() for _ in range(len(proportions))]
     subsets = [list() for _ in range(len(proportions))]
@@ -85,7 +89,9 @@ if __name__ == "__main__":
     cleaned_data = {d["token"]: [lab["class_id"] for lab in d["labels"]] for d in data}
     lookup = {d["token"]: d for d in data}
 
-    (train_set, test_set), unlabeled = iterative_stratification(cleaned_data, [0.8, 0.2], lookup)
+    (train_set, test_set), unlabeled = iterative_stratification(
+        cleaned_data, [TRAIN_PROP, 1 - TRAIN_PROP], lookup
+    )
 
     with open("outputs/train.json", "w+") as out:
         out.write(json.dumps(train_set + unlabeled))
