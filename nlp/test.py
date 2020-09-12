@@ -22,7 +22,7 @@ def test(test_data):
 
 if __name__ == "__main__":
     with open(sys.argv[1], "r") as f:
-        test_set = json.loads(f)
+        test_set = json.loads(f.read())
 
     output = test(test_set)
     with open("output/predictions.txt", "w+") as out:

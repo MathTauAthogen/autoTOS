@@ -27,6 +27,6 @@ def train(train_set):
 
 if __name__ == "__main__":
     with open(sys.argv[1], "r") as f:
-        train_set = json.loads(f)
+        train_set = json.loads(f.read())
 
     train(train_set)
