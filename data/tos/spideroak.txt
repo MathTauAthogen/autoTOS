@@ -1,0 +1,500 @@
+ 
+
+
+About
+A Bill of Rights for Institutional Knowledge
+No Knowledge
+Blog
+
+
+Products
+SpiderOak Share
+SpiderOak Semaphor Messaging
+SpiderOak One Backup
+SpiderOak Enterprise Backup
+
+
+Solutions
+Trusted Application Platform
+
+
+Support
+ SpiderOak One Backup SPIDEROAK SERVICE AGREEMENT
+Posted and effective 12 August 2016
+
+This Service Agreement (the “Agreement”) is between SpiderOak, Inc.
+(“SpiderOak”) and the organization agreeing to these terms (“Customer”).
+The Agreement governs access to and use of the SpiderOak client software and services (“Services”) by Customer.
+By clicking “I Accept,” you acknowledge that you have reviewed the following terms and conditions, have the authority to bind the organization, and accept the Agreement on the organization’s behalf.
+
+
+
+SpiderOak Services.
+A.Provision of Services.
+SpiderOak grants Customer a non-exclusive, non-transferable license to use the Services for Customer’s internal purposes.
+Customer and users of Customer’s Services account (“End Users”) may use SpiderOak Services in accordance with this Agreement.
+B. Information Security and Data Processing.
+SpiderOak will use, at a minimum, industry-standard technical and administrative security measures to transfer, store, and process Customer Data.
+These measures are designed to protect the integrity of Customer Data and guard against the unauthorized or unlawful access to, use, and processing of Customer Data.
+Customer agrees that SpiderOak may transfer, store, and process Customer Data in the United States and locations other than Customer’s country.
+To the extent that Customer Data is subject to European Union data protection laws and is processed by SpiderOak as a data processor acting on Customer’s behalf (as a data controller), SpiderOak will use and process such Customer Data as Customer instructs in order to provide the Services and fulfill SpiderOak’s obligations under the Agreement.
+“Stored Data” means files and other data submitted to the Services by Customer or End Users.
+“Account Data” means account and contact information submitted to the Services by Customer or End Users.
+“Customer Data” means Stored Data and Account Data.
+C. Software.
+Customer may use SpiderOak software to access the Services.
+If any component of the software is offered under an open source license, SpiderOak will make the license available to Customer and the provisions of that license may expressly override some of the terms of this Agreement.
+D. Modifications to the Services.
+SpiderOak reserves the right to update the Services from time to time.
+
+
+
+Customer Duties.
+A. Compliance.
+Customer is responsible for use of the Services by its End Users.
+Customer and its End Users must use the Services in compliance with this Agreement, all SpiderOak policies, and applicable regulations and laws.
+B. Customer Administration of the Services.
+Customer may designate certain End Users as “Administrators.” Administrators may have the ability to access, disclose, restrict or remove Customer Data in or from Services accounts.
+Administrators may also have the ability to monitor, restrict, or terminate access to Services accounts.
+SpiderOak is not responsible for the internal management or administration of the Services on behalf of Customer.
+Customer must (i) maintain the confidentiality of passwords and Administrator accounts, (ii) manage access to Administrator accounts, and (iii) ensure that Administrators’ use of the Services complies with this Agreement.
+Customer will obtain from End Users any consents necessary to allow Administrators to engage in the activities described in this Agreement and to allow SpiderOak to provide the Services.
+C. Unauthorized Use and Access.
+Customer will prevent unauthorized use of the Services by its End Users and terminate any unauthorized use of or access to the Services.
+Customer will ensure that it does not allow any person under 13 to use the Services.
+Customer will promptly notify SpiderOak of any unauthorized use of or access to the Services.
+D. Restrictions.
+Customer will not (i) sell, resell, or lease the Services.
+(ii) use the Services in activities wherein use or failure of the Services could cause physical damage, death, or personal injury.
+or (iii) reverse engineer the Services, nor assist anyone else to do so, unless otherwise permitted by law.
+E. Third-Party Requests.
+i.
+Customer is responsible for responding directly to Third-Party Requests for information about its End Users’ use of the Services.
+“Third-Party Request” means a request from law enforcement or another third party for records relating to an End User’s use of the Services.
+Third-Party Requests may include, but are not limited to, search warrants, subpoenas, court orders, emergency disclosure requests, or written consent from an End User permitting disclosure of records about the End User’s use of the Services.
+ii.
+SpiderOak will make commercially reasonable efforts, unless we are prohibited from doing so by law or court order (e.g., an order under 18 U.S.C.
+§ 2705(b)), to (a) promptly notify Customer of SpiderOak’s receipt of a Third-Party Request.
+(b) comply with Customer’s commercially reasonable requests regarding its efforts to oppose a Third-Party Request.
+and (c) provide Customer with information or tools required for Customer to respond to the Third-Party Request (if Customer is otherwise unable to obtain the information).
+If Customer fails to promptly respond to a Third-Party Request, SpiderOak may, but will not be obligated, to do so.
+
+
+
+Third-Party Services.
+If Customer uses any third-party service in conjunction with the Services, (A) SpiderOak will not be responsible for any act or omission of the third party, including the third party’s access to or use of Customer Data and (B) SpiderOak does not warrant or support any service provided by the third party.
+
+
+
+Suspension
+
+A. Of End User Accounts by SpiderOak.
+If an End User (i) violates this Agreement or (ii) uses the Services in a manner that SpiderOak reasonably believes will cause it liability, then SpiderOak may request that Customer suspend or terminate the applicable End User account.
+If Customer fails to promptly suspend or terminate the End User account, SpiderOak may do so.
+B. Of Services In Emergencies.
+Notwithstanding any term in this Agreement, SpiderOak may suspend the Services in an Emergency.
+SpiderOak will make commercially reasonable efforts to tailor the suspension as needed to prevent or stop the Emergency.
+“Emergency” means (i) use of the Services that do or could disrupt the Services, other customers’ use of the Services, or the infrastructure used to provide the Services, and (ii) unauthorized third-party access to the Services.
+
+
+
+Intellectual Property.
+A. Reservation of Rights.
+Except as expressly provided, this Agreement does not grant (i) SpiderOak any intellectual property rights in Customer content or data, or (ii) Customer any intellectual property rights in the Services or SpiderOak trademarks and brand features.
+B. Limited Permission.
+Customer grants SpiderOak only rights that are reasonably necessary for SpiderOak to offer the Services.
+This permission also extends to trusted third parties SpiderOak works with to offer the Services (e.g., payment providers, customer service specialists).
+C. Suggestions and Feedback.
+SpiderOak may, at its discretion and for any purpose, use, modify, and incorporate into its products and services any feedback, comments, or suggestions from Customer or End Users without any obligation to Customer or End Users.
+D. Customer List.
+SpiderOak may include Customer’s name in a list of SpiderOak customers on the SpiderOak website or in promotional materials.
+
+
+
+Fees and Payment.
+A. Fees.
+Customer agrees to pay all applicable fees, and authorizes SpiderOak to charge those fees using Customer’s selected payment method.
+Fees are non-refundable except as required by law.
+Customer is responsible for providing complete and accurate billing and contact information to SpiderOak.
+SpiderOak reserves the right to suspend or terminate the Services if fees are past due.
+B. Auto Renewals and Trials.
+IF CUSTOMER’S ACCOUNT IS SET TO AUTO RENEW OR IS IN A TRIAL PERIOD, SPIDEROAK MAY AUTOMATICALLY CHARGE AT THE END OF THE TRIAL OR FOR THE RENEWAL, UNLESS CUSTOMER NOTIFIES SPIDEROAK THAT CUSTOMER WANTS TO CANCEL.
+SpiderOak reserves the right to revise Service rates, and will provide Customer at least 10 days notice prior to such a revision.
+C. Taxes.
+Customer is responsible for all taxes.
+SpiderOak will charge tax when required to do so.
+If Customer is required by law to withhold any taxes, Customer must provide SpiderOak with an official tax receipt or other appropriate documentation.
+D. Purchase Orders.
+If Customer requires the use of a purchase order or purchase order number, Customer (i) must provide the purchase order number at the time of purchase, and (ii) agrees that any terms and conditions on a Customer purchase order will not apply to this Agreement and are null and void.
+If Customer is purchasing through a reseller, any terms and conditions from Customer’s reseller or in a purchase order between Customer and its reseller that conflict with the SpiderOak Service Agreement are null and void.
+
+
+
+Term &amp.
+Termination of Agreement
+
+A. Term.
+This Agreement will remain in effect until Customer’s subscription to the Services expires or terminates, or until the Agreement is terminated.
+B. Termination for Breach.
+Either SpiderOak or Customer may terminate this Agreement if (i) the other party is in material breach of the Agreement and fails to cure that breach within 30 days after receipt of written notice, or (ii) the other party ceases its business operations or becomes subject to insolvency proceedings and the proceedings are not dismissed within 90 days.
+C. Effects of Termination.
+If this Agreement terminates: (i) the rights granted by SpiderOak to Customer will cease immediately (except as set forth in this section), (ii) SpiderOak may provide Customer access to its account at then-current fees so that Customer may export its Stored Data, and (iii) after a commercially reasonable period of time, SpiderOak may delete any Stored Data relating to Customer’s account.
+The following sections will survive expiration or termination of this Agreement: 2(E) (Third-Party Requests), 5 (Intellectual Property Rights), 6 (Fees &amp.
+Payment), 7(C) (Effects of Termination), 8 (Indemnification), 9 (Disclaimers), 10 (Limitation of Liability), 11 (Disputes), and 12 (Miscellaneous).
+
+
+
+Indemnification.
+A. By Customer.
+Customer will indemnify, defend, and hold harmless SpiderOak from and against all liabilities, damages, and costs (including settlement costs and reasonable attorneys’ fees) arising out of any claim by a third party against SpiderOak and its affiliates regarding (i) Customer Data, (ii) Customer’s use of the Services in violation of this Agreement, or (iii) End Users’ use of the Services in violation of this Agreement.
+B. By SpiderOak.
+SpiderOak will indemnify, defend, and hold harmless Customer from and against all liabilities, damages, and costs (including settlement costs and reasonable attorneys’ fees) arising out of any claim by a third party against Customer to the extent based on an allegation that SpiderOak’s technology used to provide the Services to the Customer infringes or misappropriates any copyright, trade secret, U.S.
+patent, or trademark right of the third party.
+In no event will SpiderOak have any obligations or liability under this section arising from (i) use of any Services in a modified form or in combination with materials not furnished by SpiderOak, and (ii) any content, information, or data provided by Customer, End Users, or other third parties.
+C. Possible Infringement.
+If SpiderOak believes the Services infringe or may be alleged to infringe a third party’s Intellectual Property Rights, then SpiderOak may (i) obtain the right for Customer to continue using the Services, (ii) provide a non-infringing functionally equivalent replacement, or (iii) modify the Services so that they no longer infringe.
+If SpiderOak does not believe the options described in this section are commercially reasonable, SpiderOak may suspend or terminate Customer’s use of the affected Services (with a pro-rata refund of prepaid fees for the Services).
+D. General.
+The party seeking indemnification will promptly notify the other party of the claim and cooperate with the other party in defending the claim.
+The indemnifying party will have full control and authority over the defense, except that (i) any settlement requiring the party seeking indemnification to admit liability requires prior written consent, not to be unreasonably withheld or delayed and (ii) the other party may join in the defense with its own counsel at its own expense.
+THE INDEMNITIES ABOVE ARE SPIDEROAK AND CUSTOMER’S ONLY REMEDY FOR VIOLATION BY THE OTHER PARTY OF A THIRD PARTY’S INTELLECTUAL PROPERTY RIGHTS.
+
+
+
+Disclaimers.
+
+
+THE SERVICES ARE PROVIDED “AS IS.” TO THE FULLEST EXTENT PERMITTED BY LAW, NEITHER CUSTOMER NOR SPIDEROAK AND ITS AFFILIATES, SUPPLIERS, OR DISTRIBUTORS MAKE ANY WARRANTY, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE, AND NON-INFRINGEMENT.
+
+10.
+Limitation of Liability.
+TO THE FULLEST EXTENT PERMITTED BY LAW, EXCEPT FOR SPIDEROAK OR CUSTOMER’S INDEMNIFICATION OBLIGATIONS, NEITHER CUSTOMER NOR SPIDEROAK AND ITS AFFILIATES, SUPPLIERS, OR DISTRIBUTORS WILL BE LIABLE UNDER THIS AGREEMENT FOR (i) INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR (ii) LOSS OF USE, DATA, BUSINESS, REVENUES, PROFITS, GOODWILL OR OTHER INTANGIBLE LOSSES (IN EACH CASE WHETHER DIRECT OR INDIRECT), EVEN IF THE PARTY KNEW OR SHOULD HAVE KNOWN THAT SUCH DAMAGES WERE POSSIBLE AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+TO THE FULLEST EXTENT PERMITTED BY LAW, SPIDEROAK’S AGGREGATE LIABILITY UNDER THIS AGREEMENT WILL NOT EXCEED THE LESSER OF $10,000 OR THE AMOUNT PAID BY CUSTOMER FOR THE SERVICES HEREUNDER DURING THE TWELVE MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY.
+
+11.
+Disputes.
+A. Informal Resolution.
+SpiderOak strives to address disputes without the need to resort to a formal legal proceeding.
+Before filing a claim, each party agrees to try to resolve the dispute by contacting the other party through the notice procedures in section 11(E).
+B. Agreement to Arbitrate.
+If informal resolution fails, Customer and SpiderOak agree to resolve any claims relating to this Agreement or the Services through final and binding arbitration, except as set forth below.
+The American Arbitration Association (AAA) will administer the arbitration under its Commercial Arbitration Rules.
+The arbitration will be held in Kansas City, Missouri, or any other location both parties agree to in writing.
+C. ARBITRATION OPT-OUT.
+You may opt out of the agreement to arbitrate in section 11(B) by notifying SpiderOak within 90 days of the date that you agreed to the Agreement by mailing an opt-out notice to Arbitration Opt-Out, SpiderOak, Inc., 4741 Central Street #324, Kansas City, MO 64112.
+D. Exception to Agreement to Arbitrate.
+Notwithstanding section 11(B) &amp.
+(C), Either party may bring a lawsuit in the federal or state courts of Kansas City, Missouri solely for injunctive relief to stop unauthorized use or abuse of the Services or infringement of intellectual property rights without first engaging in the informal dispute notice process described above.
+Both Customer and SpiderOak consent to venue and personal jurisdiction there.
+E. NO CLASS ACTIONS.
+Customer may only resolve disputes with SpiderOak on an individual basis and will not bring a claim in a class, consolidated, or representative action.
+
+12.
+Miscellaneous.
+A. Agreement Modification.
+SpiderOak may revise this Agreement from time to time.
+The most current version will always be posted on the SpiderOak website.
+If a revision, in SpiderOak’s sole discretion, is material, SpiderOak will notify Customer (by, for example, sending an email to the email address associated with the applicable account).
+Other revisions may be posted to SpiderOak’s blog or terms page.
+By continuing to access or use the Services after revisions become effective, Customer agrees to be bound by the revised Agreement.
+If Customer does not agree to the revised Agreement terms, Customer may terminate the Services within 30 days of receiving notice of the change.
+B. Entire Agreement.
+This Agreement constitutes the entire agreement between Customer and SpiderOak with respect to the subject matter of this Agreement and supersedes and replaces any prior or contemporaneous understandings and agreements, whether written or oral, with respect to the subject matter of this Agreement.
+C. Governing Law.
+This Agreement is governed by Missouri law except for its conflicts of law principles.
+D. Severability.
+Any provision of the Agreement deemed to be unenforceable will be modified to reflect the parties’ intention and only to the extent necessary to make it enforceable.
+The remaining provisions of the Agreement will remain in full effect.
+E. Notice.
+Notices must be sent via first class mail, airmail, or overnight courier, and are deemed given when received.
+Notices from SpiderOak to Customer may also be sent to the applicable account email address and are deemed given when sent.
+Notices to SpiderOak must be sent to SpiderOak, Inc., Attn: Legal, 4741 Central Street #324, Kansas City, MO 64112.
+F. Waiver.
+The failure of SpiderOak to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of that right or provision.
+G. Assignment.
+Customer may not assign or transfer this Agreement or any rights or obligations under this Agreement without SpiderOak’s written consent.
+SpiderOak may not assign this Agreement without providing notice to Customer, except SpiderOak may assign this Agreement or any rights or obligations under this Agreement to an affiliate or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets without providing notice.
+Any other attempt to transfer or assign is void.
+H. No Agency.
+SpiderOak and Customer are not legal partners or agents.
+I. Force Majeure.
+Except for payment obligations, neither SpiderOak nor Customer will be liable for any default or delay in the performance of any obligations under this Agreement if such default or delay is caused by a condition beyond the party’s reasonable control (e.g., fire, natural disaster, act of war or terrorism, riot, labor condition, governmental action, or internet disturbance).
+J. No Third-Party Beneficiaries.
+There are no third-party beneficiaries to this Agreement.
+Without limiting this section, End Users are not third-party beneficiaries to Customer’s rights under this Agreement.
+K. Export Restrictions.
+The export and re-export of Customer Data via the Services may be controlled by United States export regulations or other applicable restrictions or embargo.
+The Services may not be used in Cuba, Iran, North Korea, Sudan, or Syria or any country that is subject to an embargo by the United States.
+Customer must not use the Services in violation of any export restriction or embargo by the United States or any other applicable jurisdiction.
+Customer must ensure that the Services are not provided to persons on the United States Table of Denial Orders, the Entity List, or the List of Specially Designated Nationals. Products
+SpiderOak Share
+Semaphor
+One Backup
+Enterprise Backup
+Encryptr
+Groups
+Support
+Help Center
+Contact Support
+Release Notes
+Security Response
+Webinars
+About
+Press
+Blog
+Whitepapers
+Careers at SpiderOak
+No Knowledge
+Newsletter Signup
+Compliance
+HIPAA Compliance
+Service Agreement
+Privacy Policy
+Terms of Service
+Law Enforcement
+DMCA Notice Submission
+ Copyright © 2007 - 2018
+SpiderOak Inc.
+All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   SPIDEROAK PRIVACY POLICY 
+Posted and effective as of 4 June, 2016
+
+Please read this privacy policy carefully.
+It applies to all interactions you have with SpiderOak’s web services and apps.
+Note that SpiderOak has several different products and services:
+
+SpiderOakONE, a consumer-focused cloud storage
+SpiderOak Groups, cloud storage for teams
+Enterprise Backup, cloud-based backup for companies
+SpiderOak Semaphor, a team collaboration tool
+SpiderOak Kloak, a private communications network
+SpiderOak Encryptr, a cloud-based password manager
+
+When we collect, store, use, or share information differently among these products, we’ll note that below. The Information We Collect Account Information.
+When you create a SpiderOak account, we ask you to choose a username and passphrase.
+You may use your email address as your username, but it’s not required.
+If you select a SpiderOak plan that requires payment, we’ll also ask you for billing information.
+Information About Your Use of SpiderOak.
+We receive some information automatically when you use any SpiderOak product.
+This includes data about your device, software, and the operating system you use when accessing our service, approximate amount of data stored on our service, your Internet Protocol address, system-generated error messages for your account, and the date and time of each request you make to SpiderOak.
+Additionally, some of our products have access to your team or group name and the number of members in a team. How We Use Your Information We use your personal information to keep SpiderOak running, understand how you use our service, customize your experience, prevent abuse, provide customer support, sell and market our products, and improve SpiderOak.
+We use your information internally only as necessary to accomplish these goals. How We Disclose Your Information We share your personally identifiable information only in the limited circumstances below.
+SpiderOak never sells your information or shares it with third-party advertisers.
+With your permission.
+We may share your information with your consent, after letting you know what information will be shared and with whom.
+In response to the law.
+We may disclose your information if we believe it is reasonably necessary to comply with a law, regulation, or valid legal process.
+If we are going to release your information, our policy is to provide you with notice unless we are prohibited from doing so by law or court order (e.g., an order under 18 U.S.C.
+§ 2705(b)).
+We may disclose your information without giving you prior notice if we believe it’s necessary to prevent imminent and serious bodily harm to a person.
+Nothing in this policy is intended to limit any legal objections or defenses you might have to demands to compel disclosure of your information, including demands from the government.
+With third parties helping us provide SpiderOak.
+We may share your information with third-party services helping us provide our products and services.
+Those third parties access and use the information we share with them only on our behalf.
+They include Stripe, PayPal, ZenDesk, and Base CRM.
+Please note that this Privacy Policy explains SpiderOak’s practices only, and doesn’t cover the practices of other services.
+Take a look at those companies’ privacy policies to learn more about their data practices.
+With Groups, Enterprise Backup, and Semaphor admins.
+If you use our Groups, Enterprise Backup, or Semaphor products, your administrator may be able to access and control your account.
+Refer to your organization’s internal policies for more information.
+With other users.
+When you share files with others through SpiderOak, your username, share id and/or first and last name may be visible to other people.
+Aggregate information.
+We may disclose aggregate, non-identifying information about how our users use SpiderOak products.
+Sale or merger.
+If all or part of SpiderOak is sold, merged, or otherwise transferred to another company in the future, your information may be transferred as part of that transaction.
+If that happens, SpiderOak will take reasonable steps to make sure your information continues to be treated consistently with this privacy policy. Web Tracking Policy We use cookies to enable our servers to recognize your web browser and tell us how and when you use the SpiderOak websites.
+We use cookies to identify whether you have logged in and recognize that your web browser has accessed our servers before, and we may associate that information with your account.
+Most browsers have an option for disabling cookies, but if you disable them you may not be able to log into your SpiderOak account. Account Termination You can disable your SpiderOak account at any time by signing in and canceling it either online or in the application itself.
+This means your user account will no longer be active on our service, and your data will be automatically deleted in the normal course of business with no further notice to you. Data Security SpiderOak products are designed to have several layers of security.
+
+We encrypt files that you upload to SpiderOak servers using the AES- 256 algorithm.
+You control your encryption keys, and SpiderOak does not have access to them.
+We use Secure Sockets Layer (SSL)/Transport Layer Security (TLS) to create a secure tunnel to protect data in transit between SpiderOak apps and servers.
+We don’t store your account passphrase on our servers in any form.
+Your passphrase is only on your device, and we hash and salt it to help protect it against possible compromise.
+We limit the number of SpiderOak employees who have access to user data through policy and technical access controls.
+
+No transmission over the internet is completely secure, so we can’t absolutely guarantee that unauthorized parties won’t be able to defeat our security measures.
+You use SpiderOak at your own risk, and are responsible for taking reasonable measures to secure your account (such as choosing a strong, unique passphrase and keeping it secret).
+We are always on the lookout for vulnerabilities in SpiderOak.
+If you discover a vulnerability in our service, we would be grateful for your report and encourage you to let us know immediately.
+If you give us reasonable time to respond to your report before making any information public, and make a good-faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service during your research, we will not pursue any legal action against you or ask law enforcement to investigate your actions.
+To report a security vulnerability, please email security@spideroak.com. Changes to This Policy We may revise this Privacy Policy from time to time.
+The most current version of the policy will govern our use of your information and will always be at https://spideroak.com/policy/privacy-policy.
+If we make changes that we believe will substantially alter your rights, we will post the revisions 7 days before they take effect so you can review them. Contact We would love to hear from you.
+SpiderOak welcomes questions, concerns, and feedback about this policy.
+If you have suggestions for us, let us know at privacy@spideroak.com. 
+  SPIDEROAK TERMS OF SERVICE 
+Posted and effective as of 4 June 2016
+
+Welcome to SpiderOak! We’re glad you’re here.
+These Terms of Service (“Terms”) apply to your use of SpiderOak’s website, products, and services.
+Please read them carefully and let us know if you have any questions.
+By using SpiderOak, you agree to be bound by these Terms.
+If you’re using SpiderOak on behalf of an organization, you agree to these Terms on behalf of that organization. Content All content on SpiderOak is protected by United States and other intellectual property laws.
+You’ll find a few different types of content on our service.
+Your Content.
+You can back up, host, store, and share your own files on SpiderOak, as well as collaborate and communicate with others using tools like Semaphor and SpiderOak Kloak.
+The files and other materials you upload to SpiderOak are yours and yours alone.
+You give us permission to use that material solely to do what’s necessary to provide our services, including storing, displaying, reproducing, and distributing the content.
+You’re responsible for the content you upload to SpiderOak and assume all risks associated with it, including intellectual property or other legal claims.
+By storing and sharing content through SpiderOak, you represent that you have the necessary rights to that material, and that your use of SpiderOak doesn’t conflict with any licenses you’ve granted to others.
+You have the option to try out some SpiderOak services on a trial basis (Semaphor in particular).
+Please note that we don’t retain content past the timeframe for these trial plans.
+Even if you decide to upgrade to another plan later, the content you store with us during the trial period can’t be restored after the trial timeframe expires.
+SpiderOakONE, SpiderOak Groups and SpiderOak Semaphor allow you to share your files with others.
+Please familiarize yourself with the settings and controls for those services and be careful about what you choose to share with and download from others.
+We don’t pre-screen anyone’s content.
+However, we have the right—but no duty—to review and remove files for any reason.
+We assume no liability for any content that you or anyone else stores with or shares through SpiderOak.
+SpiderOak’s Content and Brand Features.
+SpiderOak is protected by copyright, trademark, and other laws.
+SpiderOak gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the software we provide you to use our service.
+This license is for the sole purpose of enabling you to use SpiderOak as permitted by these Terms.
+If you violate these Terms, we may terminate this license.
+All rights to SpiderOak —except third-party content—are the exclusive property of SpiderOak and its licensors.
+Nothing in these Terms authorizes you to use any of SpiderOak trademarks, logos, domain names, or other distinctive brand features, except as otherwise permitted by law. Prohibited Activities We strive to maintain a great service.
+To that end, SpiderOak requires you to respect these limitations, and we may terminate your account if you don’t follow them.
+
+Don’t use SpiderOak in a manner that violates any laws, regulations, ordinances, or directives.
+Don’t use SpiderOak contrary to our policies.
+Don’t use SpiderOak to do anything threatening, abusive, harassing, defamatory, tortious, obscene, profane, or invasive of another person’s privacy.
+Don’t interfere with the proper functioning of any software, hardware, or equipment on SpiderOak.
+Don’t engage in any conduct that inhibits anyone else’s use or enjoyment of our services, or which we determine may harm SpiderOak or our users.
+Don’t monitor or copy any material on SpiderOak, either manually or through automated means (i.e., scraping), without prior written consent.
+Please don’t use SpiderOak if you’re a minor.
+Our Rights We’re always working to improve SpiderOak and make our services better, so we do reserve some rights.
+In our sole discretion, we may, at any time—with or without notice—change, eliminate or restrict access to our services, and modify, suspend, or terminate a user account.
+SpiderOak is not liable for any damages as a result of these actions. Other Sites and Services SpiderOak contains links to websites and services that we neither own nor control.
+We don’t endorse or assume responsibility for any third-party sites, information, materials, products, or services. Privacy OurPrivacy Policy governs our collection and use of your personal information.
+Please review those provisions, too. Security We take the security of SpiderOak very seriously.
+We work to protect your content and account, but we can’t 100% guarantee that third parties won’t be able to defeat our security measures.
+Please let us know immediately if you discover any compromise or unauthorized use of your account. Copyright Where appropriate, SpiderOak may warn and suspend repeat copyright infringers.
+In more serious cases, we may permanently terminate user accounts.
+Section 512 of the DMCA sets out the legal requirements to formally report copyright infringement to a service provider like SpiderOak.
+It also explains how the person who posted the content can oppose a notice of alleged infringement by submitting a counter-notice.
+Please think carefully before sending us a copyright notice or counter-notice, because the DMCA imposes legal and financial penalties for making fraudulent or bad-faith claims.
+If you aren’t sure whether you’re the actual copyright holder or if you’re authorized to act on a rights holder’s behalf, check with an attorney before submitting a copyright notice or counter-notice to us. Copyright Infringement Notice Procedure.
+To send us a notice concerning copyright infringement, you’ll need to provide the following information:
+
+
+A physical or electronic signature of the copyright owner or a person authorized to act on their behalf (typing your full name will do);
+
+
+Identification of the copyrighted work claimed to have been infringed (e.g., a copy of or link to your original work or clear description of the materials allegedly being infringed);
+
+
+Identification of the infringing material and information reasonably sufficient to permit us to locate the material on our services (e.g., a URL where the allegedly infringing material is located);
+
+
+Your contact information, including your address, telephone number, and an email address;
+
+
+Date you are sending the notice.
+
+
+A statement that you have a good-faith belief that the use of the material in the manner asserted is not authorized by the copyright owner, its agent, or the law.
+and
+
+
+A statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+
+
+You can report alleged copyright infringement by emailing the above information to copyright@spideroak.com.
+You can also mail a copyright notice to: SpiderOak Copyright Agent, SpiderOak, Inc., 4741 Central Street # 324, Kansas City, MO 64112
+Our response to notices of alleged copyright infringement may include removing or restricting access to allegedly infringing material.
+If we remove or restrict access to content in response to a copyright notice, we’ll make a good-faith effort to get in touch with the affected account holder to provide information about the situation, including a copy of the takedown notice and instructions for filing a counter-notification.
+
+Copyright Infringement Counter-Notice Procedure.
+If you get a message from us about a DMCA complaint, it means that the content identified in the notice has been removed from SpiderOak or access to the content has been restricted.
+Please read our message carefully, because it’ll include information about the copyright notice we received and instructions about how to file a counter-notice.
+
+
+Note
+: If you re-post material removed in response to a DMCA notification, we may permanently suspend your account.
+If you believe content was removed in error, please consider filing a counter-notice instead of re-posting the material.
+If you receive a DMCA notification about material you’ve posted and you believe that material was misidentified or removed in error, you can file a counter-notice by following the instructions below.
+To submit a counter-notice, please send us the following information:
+
+
+A physical or electronic signature (typing your full name will do);
+
+
+Identification of the material that has been removed or to which access has been disabled and the URL at which the material appeared before it was removed or access to it was disabled (the description from the DMCA notice is enough);
+
+
+A statement under penalty of perjury that you have a good-faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
+and
+
+
+Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the federal district court for the judicial district in which your address is located, or if your address is outside of the United States, for any judicial district in which SpiderOak may be found, and that you will accept service of process from the person who provided the copyright notification or an agent of such person.
+
+
+To submit a counter-notice, please respond to our original email letting you know about the removal, and include the above information in the body of your reply.
+When we receive a valid counter-notice, we’ll promptly forward a copy to the person who sent us the copyright notice.
+If we aren’t told within 10 business days that the original reporter is seeking a court order to prevent further infringement of the material, we may replace or cease disabling access to the material that was removed. Children SpiderOak is only for users 13 years old and older.
+If we learn a child under 13 is using our service, we’ll terminate the child’s account. SpiderOak Groups, Enterprise Backups, and SpiderOak Semaphor You must operate your SpiderOak Groups, Enterprise Backups and SpiderOak Semaphor account consistent with any policies your group or employer may require.
+Please note that an administrator of a group or team may be able to access, restrict, retain, terminate, or remove information from your account with or without notice to you.
+Cancellation
+You can cancel your account any time you’d like by simply signing in and canceling your service.
+Our policy is not to refund subscription fees unless required by law.
+
+Disclaimers SpiderOak is provided “as is” without any warranties, express or implied.
+SpiderOak disclaims all conditions and warranties, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular use, and non-infringement.
+
+(Some states don’t allow these disclaimers, so this provision might not apply to you.) Limitation of Liability 
+To the fullest extent allowed by law, SpiderOak shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from (A) your access to, use of, inability to access, or inability to use SpiderOak.
+(B) any third-party conduct or content on SpiderOak.
+or (C) any unauthorized access, use, or alteration of your content.
+
+(Some states don’t allow these limitations, so this provision might not apply to you.) Arbitration We like to resolve disputes fairly, quickly, and easily.
+Toward that end, if you have any issue with SpiderOak, please contact us and we’ll work with you in good faith to try to resolve the matter.
+If we can’t work out the problem informally, and if you are a resident of or have your principal place of business in the United States or Canada, you and SpiderOak agree to resolve any claim against each other through final and binding arbitration, including claims against SpiderOak affiliates, officers, directors, employees and agents, and SpiderOak affiliates’ officers, directors, employees and agents.
+You and SpiderOak agree to submit the dispute to a single arbitrator under the Commercial Arbitration Rules of the American Arbitration Association (AAA) including the Optional Rules for Emergency Measures of Protection and the Supplementary Procedures for Consumer-Related Disputes, or, by separate mutual agreement, to another arbitration institution.
+The AAA’s rules and a description of the arbitration process are available at www.adr.org.
+The arbitration will be held in Kansas City, Missouri, or any other location both parties agree to in writing.
+Allocation of fees and costs shall be determined under the AAA rules, except that SpiderOak will reimburse you for all AAA administrative fees in disputes that are subject to the Supplementary Procedures for Consumer-Related Disputes, unless the arbitrator determines that a claim or counterclaim was filed for purposes of harassment or is patently frivolous.
+The award rendered by the arbitrator shall include costs of arbitration, reasonable attorneys’ fees, and reasonable costs for expert and other witnesses.
+Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
+The Federal Arbitration Act governs all disputes between you and SpiderOak.
+The arbitrator will decide whether a dispute can be arbitrated.
+If you opt out of the arbitration agreement (as provided below), or if the arbitration agreement is found to be unenforceable, or if you neither are a resident nor have a principal place of business in the United States or Canada, you agree to resolve any claim you have with SpiderOak exclusively in a state or federal court located in Kansas City, Missouri and to submit to the personal jurisdiction of those courts for purpose of litigating all such disputes.
+Nothing shall prevent either party from seeking injunctive or other equitable relief from the courts for matters related to data security, intellectual property, or unauthorized access to the services. YOUR RIGHT TO OPT OUT OF ARBITRATION You may opt out of the agreement to arbitrate.
+If you do so, neither you nor SpiderOak can require the other to participate in an arbitration proceeding.
+To opt out, you must notify SpiderOak within 90 days of the date that you first agreed to these Terms.
+Send your written opt-out notice to this address: Arbitration Opt-Out, SpiderOak, Inc., 4741 Central Street # 324, Kansas City, MO 64112.
+Your written opt-out notice must include (1) your name and residence address.
+(2) the email address and/or mobile telephone number associated with your account.
+(3) a clear statement that you want to opt out of this arbitration agreement.
+and (4) your signature. NO CLASS ACTIONS You may bring disputes only on an individual basis and not in a class, consolidated, or representative action.Governing Law and Jurisdiction
+These Terms will be governed by the laws of the State of Missouri, except for its conflict of laws principles.
+For claims that aren’t subject to arbitration, we each agree to submit to the personal jurisdiction of a state court located in Kansas City, Missouri or in the United States District Court for the Western District of Missouri. Entire Agreement These Terms and our Privacy Policy constitute the entire agreement between you and SpiderOak.
+If any provision of these Terms is found to be unenforceable, the remaining provisions of these Terms will remain in full force and effect. No Waiver No waiver of any provision of these Terms shall be a further or continuing waiver of that term.
+SpiderOak’s failure to assert any right or provision under these Terms does not constitute a waiver of that right or provision. Modification The Terms may be modified from time to time.
+The date of the most recent revisions will always be at https://spideroak.com/policy/terms-of-use, and older versions will be archived at spideroak.com.
+If we make changes that we believe will substantially alter your rights, we will post the revisions 7 days before they take effect so you can review them.
+You’ll agree to accept any changes or revisions to the Terms by continuing to use SpiderOak. Contact We welcome all questions, concerns, and feedback you might have about these terms.
+If you have suggestions for us, please contact our customer success team. 

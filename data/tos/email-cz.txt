@@ -1,0 +1,39 @@
+ Smluvní podmínky služby Email.cz
+
+
+1.    Úvod
+
+1.1    Společnost Seznam.cz, a.
+s., se sídlem na adrese Praha 5, Radlická 3294/10, PSČ: 150 00, IČO: 26168685, zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl B, vložka 6493 (dále jen "Provozovatel"), je provozovatelem internetového serveru email.seznam.cz, dostupného z internetové adresy (URL) https://email.seznam.cz (dále jen „Server“) a mobilní aplikace Email.cz (dále jen „Mobilní aplikace“), prostřednictvím kterého mohou uživatelé Serveru a Mobilní aplikace (dále jen „Uživatel“ nebo „Uživatelé“) přijímat a odesílat elektronickou poštu, za níže uvedených podmínek (dále jen „Podmínky“).
+
+2.    Popis služby Email.cz
+
+2.1.    Server a Mobilní aplikace umožňuje Uživatelům přijímat a odesílat elektronickou poštu (dále jen „E-mail“ nebo „E-maily“) z uživatelem zaregistrované emailové adresy.
+2.2.    Užitím služby email.cz (dále jen „Služba“) se rozumí přihlášení Uživatele do systému Serveru nebo Mobilní aplikace, vybírání doručených E-mailů a/nebo odesílání E-mailů prostřednictvím příslušného komunikačního protokolu Služby.
+2.3.    Uživatel má možnost stahovat E-maily prostřednictvím pop3 do svého počítače.
+2.4.    Uživatel má možnost využívat Službu prostřednictvím mobilního telefonu.
+Využití Služby prostřednictvím mobilního telefonu je podmíněno umístěním aplikace podporující Službu do mobilního telefonu Uživatele a podpora této aplikace mobilním telefonem nebo použitím internetové stránky https://email.seznam.cz
+
+3.    Práva a povinnosti smluvních stran
+
+3.1.    Službu mohou využívat pouze registrovaní Uživatelé.
+3.2.    Služba je Provozovatelem Uživatelům poskytována bezplatně.
+3.3.    Provozovatel nepřebírá žádné záruky a nenese žádnou odpovědnost za nefunkčnost, nedostupnost a/nebo zabezpečení Služby, za nedoručení E-mailu, za doručení poškozeného E-mailu, za neodeslání E-mailu, za odeslání poškozeného E-mailu, za únik informací o Uživateli Služby, za ztrátu a/nebo poškození dat Uživatelem uložených nebo vytvořených v emailové schránce ani za jiné následky vzniklé v důsledku užívání Služby.
+3.4.    Provozovatel se zavazuje, že obsah E-mailů neposkytne třetím osobám.
+Toto neplatí v případech, kdy má Provozovatel zákonnou povinnost obsah E-mailů poskytnout orgánům státní moci.
+3.5.    Provozovatel se zavazuje obsah E-mailů needitovat, necenzurovat a nemonitorovat, není-li v těchto Podmínkách stanoveno jinak.
+3.6.    Provozovatel si vyhrazuje právo monitorovat počet E-mailů odesílaných Uživatelem, systémově monitorovat obsah E-mailů antispamovými a antivirovými programy zabraňujícími přijímání spamových a zavirovaných E-mailů.
+3.7.    Provozovatel si vyhrazuje právo vymazat emailové schránky:
+3.7.1.    vytvořené Uživatelem za účelem úplatného či bezúplatného postoupení jinému Uživateli,
+3.7.2.     využívané k rozesílání hromadných nevyžádaných E-mailů (spamů),
+3.7.3.    zcela nevyužité po dobu 14 dní od svého vytvoření,
+3.7.4.    do nichž Uživatel po dobu delší než 6 měsíců nepřihlásil,
+3.7.5.    využívané k nezákonné činnosti nebo k činnosti, která je v rozporu s dobrými mravy či veřejným pořádkem,  
+3.7.6.    jejichž emailová adresa je způsobilá vyvolat dojem, že Uživatelem Služby je Uživatel obecně známý v rámci celosvětové sítě internet a tato emailová adresa nemá souvislost se jménem Uživatele služby,
+3.7.7.    jejichž emailová adresa je způsobilá vyvolat dojem, že Uživatelem Služby je obecně známá fyzická nebo právnická osoba a tato emailová adresa nemá souvislost se jménem fyzické nebo názvem právnické osoby,
+3.7.8.    jejíž Uživatel se pokusil přihlásit na účet jiného Uživatele bez vědomí tohoto Uživatele,
+3.7.9.    jejíž Uživatel se pokusil narušit stabilitu a chod Služby,
+a to i bez předchozí výzvy k nápravě a bez náhrady.
+3.8.    Uživatel má právo svoji emailovou schránku kdykoliv smazat.
+
+  

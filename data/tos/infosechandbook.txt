@@ -1,0 +1,550 @@
+
+InfoSec HandbookBlog
+Series
+Terminal tips
+Recommendations
+Glossary
+Contact
+About us
+Menu
+Blog
+Series
+Terminal tips
+Recommendations
+Glossary
+RSS/Atom
+Contact
+About us
+
+
+Security and disclosure policyThis page is about our security and disclosure policy.
+Have a look at our privacy policy, if you are looking for privacy-related topics.Contents
+Security contact
+For us, security and privacy take top priority
+Disclosure policy
+Acknowledgments
+Security contact
+We provide a security.txt file for structured security contact information.
+See our contact page for contact details and our GnuPG key.
+Moreover, you can send encrypted messages via Keybase.ioexternal link
+.
+For us, security and privacy take top priority✅ No logging by default – ✅ Minimal data processing
+We decided to choose the best protection for your personal data: We simply do not collect it.
+You don’t have to trust us, because you keep your data.
+By default, we do not log anything, and we concluded a data processing agreement according to Article 28 GDPR with our server provider (see our privacy policy).
+✅ Single-purpose server – ✅ No databases
+For security, we provide our blog using a dedicated virtual server.
+There aren’t any other public services on this server (e.g., no database server, no mail server, no messaging server).
+For instance, the decentralized Dat version of our blog runs on another virtual server.
+✅ Security monitoring – ✅ Strong authentication – ✅ Defined processes
+Our server is permanently monitored to check for modified files and login attempts.
+Two-factor authentication is needed to access our server.
+The core of our server is a hardened Linux installation.
+This means that we removed unnecessary packages and applied strict configuration at kernel level.
+Finally, we implemented processes to ensure installation of security updates within a narrow time frame and quick reaction to reported potential security vulnerabilities.
+✅ 100% static content – ✅ No CMS, PHP, or JavaScript – ✅ No 3rd party content
+Our blog consists of 100% static content.
+There is no content management system (CMS) installed and there is no dynamically-served content like PHP or JavaScript.
+We do not embed any third-party content, and all links to third-party websites are marked.
+Actually, third-party websites, which you access from our blog, run in a separate process in your web browser, and we strip any Referrer information.Disclosure policyDid you find a security vulnerability? You find our security-related contact details above.
+Besides, we run a bug bounty program to ensure the highest security and privacy.
+Everyone is eligible to participate in the program subject to the below-mentioned conditions and requirements (“disclosure policy”) of InfoSec Handbook.Disclosure processWe are big fans of “coordinated disclosure”.
+Due to this, we stay with the following process:
+
+You privately report a potential security vulnerability using the above-mentioned channels and observing the below-mentioned testing requirements and code of conduct.
+We check your report for eligibility and respond within 5 days.
+Depending on the result, we either:
+fix the vulnerability and get in touch with you regarding your bug bounty and coordinated disclosure, or
+get in touch with you to request additional information, or
+inform you about ineligibility of your report.
+
+
+Scope and possible bug bountiesThe disclosure policy on this page is valid for the following domain names (and underlying servers):Domain nameEligible for bug bountieshttps://infosec-handbook.eu/yesDat version of our blognohttps://ish-test.eunoThe following bounties are only a guideline.
+The final bug bounty will be directly stated in our responses.
+If all testing requirements were met, we offer the following bounties:Type of vulnerabilityBug bounty up toInformation leakage (except personal data)€75Code injection (e.g., HTML, JS)€100Unauthorized access (user-level)€100Remote Code Execution (RCE)€150Leakage of personal data€175Unauthorized access (root-level)€175Out-of-scope are all classes of potential vulnerabilities that aren’t mentioned above, including the absence of certain HTTP response headers, vulnerabilities that require physical access to our servers, and recently disclosed 0-day vulnerabilities.
+If you report out-of-scope vulnerabilities, you may be eligible to be listed on our acknowledgment page.
+Bug bounties can only be paid via bank wire transfer or Stellar Lumens (XLM).
+There may exist additional legal regulations and requirements.Testing requirements and code of conductWe won’t take legal action against you as a penetration tester, if you observe the law.
+Moreover, we always respect your privacy.
+By default, we won’t publish anything about you or your reports.
+Furthermore, please observe our following rules:
+
+You must be the first reporter of a vulnerability.
+The reported vulnerability and domain name must be in scope.
+Your report
+must be sent via above-mentioned channels
+must clearly describe the potential vulnerability
+must include a step-by-step description that allows us to reproduce the issue
+may include additional screenshots or proof of concept code, if necessary
+
+
+Aggressive penetration testing is strictly prohibited.
+By “aggressive” we mean using automated tools for untargeted attacks on our servers.
+Flooding our servers with millions of requests or executing random attacks neither is something a professional penetration tester does nor something that we want to see.
+In any case, you must not leak, manipulate, or destroy any data.
+Without our prior permission, you must not release anything related to the vulnerability to the public.
+We do not tolerate abusive language, harassment, any kind of criminal activity, or impersonation.
+
+If you have any further questions, please do not hesitate to contact us.AcknowledgmentsWe would like to thank the following researchers and testers:DateNameVulnerabilityBounty2019-08-28UndisclosedUnintended metadata in some files€25Feeds and social mediaLatest activity
+
+privacy
+GnuPG for e-mail encryption and signing
+Sep 1, 2019 · NEW
+
+
+Monthly review
+Monthly review – August 2019
+Aug 31, 2019 · NEW
+
+
+Web server security
+Web server security – Part 8: Basic log file analysis
+Aug 19, 2019 · NEW
+
+
+discussion
+There is more than only black and white in information security and privacy
+Aug 11, 2019 · NEW
+
+
+privacy
+XMPP: Admin-in-the-middle
+Aug 16, 2018 · UPDATED
+
+categories
+authentication
+4
+discussion
+6
+hack-the-box
+1
+home-network-security
+6
+knowledge
+2
+limits
+3
+monthly-review
+1
+myths
+5
+privacy
+10
+tutorial
+3
+vulnerability
+1
+web-server-security
+9
+tag cloud2fa
+ad-blocking
+afwall
+android
+apache
+appeals
+assessment
+audit
+blogging
+bluetooth
+caa
+camera
+capec
+career
+certifications
+cms
+comptia
+cryptcheck
+csp
+ct
+ctf
+cve
+cvss
+cwe
+dejablue
+dns
+dnssec
+doh
+dot
+e-foundation
+e-mail
+e2ee
+encryption
+ethics
+exif
+fail2ban
+federation
+fido2
+firewall
+ftp
+gdm
+gdpr
+gnupg
+hackthebox
+hardenize
+https
+hugo
+ips
+joomla
+keybase
+knob
+kresd
+lan
+lets-encrypt
+lineageos
+lnav
+logging
+malvertising
+mastodon
+matrix
+metadata
+minisign
+modsecurity
+monitoring
+nas
+nextcloud
+nginx
+nitrokey
+observatory
+ocsp
+open-source
+owasp
+pam
+password
+pentesting
+photo
+phpbb
+policy
+privacy
+privacy-policy
+privacyscore
+prtg
+remote-access
+rom
+router
+server-security
+signal
+software-security
+ssh
+standard
+tls
+tor
+tracking
+turris-omnia
+u2f
+ultravnc
+verification
+vnc
+waf
+web-server
+webauthn
+webbkoll
+wlan
+wordpress
+wpa2
+xmpp
+yubikeyRSS/Atom
+·
+Privacy policy
+·
+Security policy
+·
+Changelog
+·
+Copyright
+Mirror (dat protocol) 
+InfoSec HandbookBlog
+Series
+Terminal tips
+Recommendations
+Glossary
+Contact
+About us
+Menu
+Blog
+Series
+Terminal tips
+Recommendations
+Glossary
+RSS/Atom
+Contact
+About us
+
+
+Privacy policyThank you for your interest in our privacy policy.
+This policy contains information about how we process your personal data and about your rights according to the European GDPR (General Data Protection Regulation).
+References below to “we” or “us” refer to the operator of this website.
+Our website and this privacy policy are provided in accordance with Czech and/or European law.ScopeThe following privacy policy is valid for:
+
+https://infosec-handbook.eu/ (centralized HTTPS version of our blog)
+dat://4354ef3fa9ae5df664fd4a40707cab7450a24d29d4d9f2770b29ebdc720c7151 (decentralized dat version of our blog)
+Short version of our privacy policy
+By default, our web server processes your IP address.
+This is technically necessary to send our content to your client.
+By default, we do not log any personal data of you.
+Log files are automatically encrypted after 1 day, and stored in encrypted format for 10 days.
+We do not track your browsing behavior or anything else.
+We do not try to identify you.
+We do not collect statistics.
+We do not set any cookies.
+We do not serve ads.
+Your rights according to the European GDPR are explained in Articles 15–21 and 77 GDPR.
+In case of any questions related to this privacy policy, feel free to contact us.
+For further information about our security measures, read our security policy.
+Contact detailsThis website and its web server are operated by private individuals domiciled in different European states.
+Our server is physically located in Germany.
+Controller in terms of the GDPR is:
+.cS.M ,řítyR bukaJ .rMynačosyV ,aharP 00 091cilbupeR hcezCContact detailsContents
+Definitions
+Personal data we process
+Personal data third parties process for us
+Accessing our website using dat protocol
+Your rights (Articles 15–20 GDPR)
+Right to object (Article 21 GDPR)
+Right to lodge a complaint with a supervisory authority (Article 77 GDPR)
+Changelog
+DefinitionsThere are several definitions in the GDPR.
+The most important definitions are:
+
+‘personal data’ means any information relating to an identified or identifiable natural person
+‘processing’ means any operation […] on personal data […] such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction
+
+If we talk about your personal data in the following, we mean anything that can be used to identify you.
+This includes your name, e-mail address, and IP address.
+When we talk about “processing of personal data”, we mean any type of processing.Personal data we processWhen you visit our website, your IP address and user agent are automatically processed by our web server.
+We automatically get this data from your client (e.g., your web browser or RSS/Atom feed reader).
+Our web server needs your IP address to send our contents back to your client.
+By default, we do not process any other personal data of you.
+Furthermore, our web server doesn’t store your IP address permanently (e.g., in log files).
+The legal basis for processing your personal data as explained above is Article 6(1) f GDPR.
+Our legitimate interest is providing our content.LoggingOur web server writes information about certain client-side request to so-called log files.
+We use these log files to detect attack-like behavior and to improve our services.
+Our web server automatically encrypts all log files after one day using public-key cryptography.
+The encrypted log files are automatically deleted after 10 days.
+In case of abnormal requests (for technical people: all HTTP status codes except 200, 302, 304), we only log the following.
+This includes repeated attempts to access blacklisted files, or other attack-like behavior:
+
+timestamp ([31/Dec/2016:12:01:10 +0100])
+IP address (123.123.123.123)
+HTTP status code (403)
+bytes transmitted (157)
+first line of request for each request/HTTP version ("GET /secrets.bak HTTP/1.1")
+user agent (Mozilla/5.0 (Windows NT 6.1.
+rv:60.0) Gecko/20100101 Firefox/60.0)
+in some cases, our web application firewall also logs full client-side requests and full server-side responses
+
+We use this data to identify new attacks, audit blocked requests and unblock legitimate users, if necessary.
+Blocked IP addresses are stored for 14 days.
+We also use this data to identify broken links (for technical people: HTTP status code 404).
+The legal basis for processing your personal data as explained in this section is Article 6(1) f GDPR.
+Our legitimate interests are blocking attacks and improving our services.Personal data third parties process for usThe following third parties process personal data for us:netcup GmbH, GermanyThe netcup GmbH (read their privacy policy) provides our servers.
+The netcup GmbH may log access attempts (IP address, user agent) for all of its customers (including us) to detect DDoS attacks, attack-like behavior, and so on.
+We concluded a data processing agreement according to Article 28 GDPR with netcup GmbH.
+The legal basis for processing your personal data is Article 6(1) f GDPR.
+Our legitimate interest and the interest of the netcup GmbH is detecting/blocking attack-like behavior, and proving our content.Tutao GmbH, Germany (e-mail only)The Tutao GmbH (read their privacy policy) provides our mail server.
+It isn’t necessary to send us any e-mails to access our blog/content.
+If you decide to contact us, you agree that we/Tutao GmbH process your personal data (e.g., name, e-mail address) to answer your request. We do not use your e-mail address for marketing purposes or tracking.
+We immediately delete your e-mails after your request is answered.
+The legal basis for processing your personal data is Article 6(1) a GDPR.
+You may withdraw your consent with this at any time.Accessing our website using dat protocolBesides “traditional” HTTPS, we allow interested readers to access our content via the “dat” protocol.
+dat is a peer-to-peer protocol, offering a decentralized experience.
+It comes with built-in encryption and several other advantages.
+However, as normal for peer-to-peer protocols, content can be freely re-shared by every client.
+This means that there is no central server, and all clients connect directly to each other.
+By doing so, your dat client may disclose your IP address and user agent to unknown third parties.
+If you don’t want this, simply access our web server via HTTPS.Your rights (Articles 15–20 GDPR)According to the Articles 15 to 20 of the GDPR, you have several rights concerning your personal data processed by us:
+
+Art.
+15: Right of access
+Art.
+16: Right to rectification
+Art.
+17: Right to erasure
+Art.
+18: Right to restriction of processing
+Art.
+19: Notification obligation regarding rectification or erasure of personal data or restriction of processing
+Art.
+20: Right to data portability
+
+You may exercise your rights by contacting us.Right to object (Article 21 GDPR)
+You have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you which is based on point e or f of Article 6(1) GDPR, including profiling based on those provisions.
+We no longer process the personal data unless we demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of you or for the establishment, exercise or defence of legal claims.
+This doesn’t affect the lawfulness of processing based on consent before its withdrawal (point c of Article 13(2) GDPR).
+Right to lodge a complaint with a supervisory authority (Article 77 GDPR)Without prejudice to any other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of personal data relating to you infringes the GDPR.ChangelogWe updated this page on November 5, 2019.
+For transparency, we provide a complete changelog of this page on codeberg.orgexternal link
+.Feeds and social mediaLatest activity
+
+Monthly review
+Monthly review – October 2019
+Oct 31, 2019 · NEW
+
+
+privacy
+ECSM 2019: Securing emerging technology (IoT) at home
+Oct 30, 2019 · NEW
+
+
+knowledge
+ECSM 2019: Preparing and hosting a security CTF contest
+Oct 19, 2019 · NEW
+
+
+limits
+Pros and cons of online assessment tools for web server security
+May 1, 2018 · UPDATED
+
+
+privacy
+ECSM 2019: Tips for your cyber hygiene
+Oct 13, 2019 · NEW
+
+categories
+authentication
+4
+discussion
+6
+hack-the-box
+1
+home-network-security
+6
+knowledge
+3
+limits
+3
+monthly-review
+3
+myths
+5
+privacy
+12
+tutorial
+3
+vulnerability
+1
+web-server-security
+9
+tag cloud2fa
+ad-blocking
+afwall
+android
+apache
+appeals
+assessment
+audit
+blogging
+bluetooth
+caa
+camera
+capec
+career
+certifications
+cms
+comptia
+cryptcheck
+csp
+ct
+ctf
+cve
+cvss
+cwe
+dejablue
+dns
+dnssec
+doh
+dot
+e-foundation
+e-mail
+e2ee
+ecsm2019
+encryption
+ethics
+exif
+fail2ban
+federation
+fido2
+firewall
+ftp
+gdm
+gdpr
+gnupg
+hackthebox
+hardenize
+https
+hugo
+hygiene
+iot
+ips
+joomla
+keybase
+knob
+kresd
+lan
+lets-encrypt
+lineageos
+lnav
+logging
+malvertising
+mastodon
+matrix
+metadata
+minisign
+mintotp
+modsecurity
+monitoring
+nas
+nextcloud
+nginx
+nitrokey
+observatory
+ocsp
+open-source
+ot-security
+owasp
+pam
+password
+pdfex
+pentesting
+photo
+phpbb
+policy
+privacy
+privacy-policy
+privacyscore
+privacytools
+prtg
+remote-access
+rom
+router
+server-security
+signal
+simjacker
+software-security
+ssh
+standard
+tls
+tor
+tracking
+turris-omnia
+u2f
+ultravnc
+verification
+vnc
+waf
+web-server
+webauthn
+webbkoll
+wibattack
+wlan
+wordpress
+wpa2
+xmpp
+yubikeyRSS/Atom
+·
+Privacy policy
+·
+Security policy
+·
+Changelog
+·
+Copyright
+Mirror (dat protocol)

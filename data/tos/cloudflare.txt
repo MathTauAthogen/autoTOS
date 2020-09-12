@@ -1,0 +1,1498 @@
+ &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-PKQFGQB" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
+This content is currently available in english only.
+We are constantly working to provide more content in english.
+Thank you for your patience.
+Contact Sales: +1 (888) 99 FLARE &lt;a href="tel:+16503198930"&gt;+1 650 319 8930&lt;/a&gt.
+English ▶▼ 
+ English 
+ English (United Kingdom) 
+ English (Canada) 
+ English (Australia) 
+ English (India) 
+ Deutsch 
+ Español (España) 
+ Español (Latinoamérica) 
+ Français 
+ Italiano 
+ 日本語 
+ 한국어 
+ Português 
+ 繁體中文 
+ 简体中文 
+
+
+ Products 
+ Solutions 
+ Resources 
+ Developers 
+ Pricing 
+
+
+ Support 
+ Log In 
+ Sign Up 
+ Under Attack? 
+ Performance &amp.
+Reliability CDN DNS Argo Smart Routing Load Balancing Web Optimizations China Network Video Streaming &amp.
+Delivery Cloudflare Stream Stream Delivery Advanced Security DDoS Protection WAF Bot Management Rate Limiting SSL / TLS DNSSEC Cloudflare Access Cloudflare Spectrum Argo Tunnel Insights Analytics Cloudflare Logs Cloudflare for Developers Cloudflare Workers Cloudflare Workers KV Mobile SDK Domain Registration Cloudflare Registrar Cloudflare Marketplace Cloudflare Apps Cloudflare for Everyone 1.1.1.1 Performance Accelerate Internet Applications Accelerate Mobile Experiences Ensure Application Availability Security Mitigate DDoS Attacks Prevent Customer Data Breaches Stop Malicious Bot Abuse Industries Gaming SaaS eCommerce Publishers Public Sector Public Interest Groups State &amp.
+Local Government Partnerships Partner Program Solutions Partners Services Program Technology Partners Peering Portal Bandwidth Alliance Integrations IBM Cloud WordPress Google Cloud Magento Acquia Rackspace Microsoft Azure Kubernetes WP Engine Develop API Guide Developer Hub Developer Fund Documentation Explore Case Studies Analysts Cloudflare in China Network Map Webinars Product Updates White Papers GDPR Learn DDoS Learning Center CDN Learning Center DNS Learning Center Security Learning Center Performance Learning Center Serverless Learning Center SSL Learning Center Bots Learning Center Connect Blog Contact Sales Community Support Contact +1 (888) 99 FLARE Advanced Cloudflare Configuration Explore Cloudflare API v4 Expose a Secure Local Tunnel Configure with Terraform Documentation Customize Your Site Customize Using Workers Altering Headers Conditional Request Routing A/B Testing Browse All Code Snippets Build Serverless Applications Deploy Using Workers.dev Get Started with Tutorials Clone Examples on GitHub 
+ English 
+
+
+
+ English (United Kingdom) 
+ English (Canada) 
+ English (Australia) 
+ English (India) 
+ Deutsch 
+ Español (España) 
+ Español (Latinoamérica) 
+ Français 
+ Italiano 
+ 日本語 
+ 한국어 
+ Português 
+ 繁體中文 
+ 简体中文 
+
+ Products 
+
+ Performance &amp.
+Reliability CDN DNS Argo Smart Routing Load Balancing Web Optimizations China Network Video Streaming &amp.
+Delivery Cloudflare Stream Stream Delivery Advanced Security DDoS Protection WAF Bot Management Rate Limiting SSL / TLS DNSSEC Cloudflare Access Cloudflare Spectrum Argo Tunnel Insights Analytics Cloudflare Logs Cloudflare for Developers Cloudflare Workers Cloudflare Workers KV Mobile SDK Domain Registration Cloudflare Registrar Cloudflare Marketplace Cloudflare Apps Cloudflare for Everyone 1.1.1.1  Solutions 
+
+ Performance Accelerate Internet Applications Accelerate Mobile Experiences Ensure Application Availability Security Mitigate DDoS Attacks Prevent Customer Data Breaches Stop Malicious Bot Abuse Industries Gaming SaaS eCommerce Publishers Public Sector Public Interest Groups State &amp.
+Local Government Partnerships Partner Program Solutions Partners Services Program Technology Partners Peering Portal Bandwidth Alliance Integrations IBM Cloud WordPress Google Cloud Magento Acquia Rackspace Microsoft Azure Kubernetes WP Engine  Resources 
+
+ Develop API Guide Developer Hub Developer Fund Documentation Explore Case Studies Analysts Cloudflare in China Network Map Webinars Product Updates White Papers GDPR Learn DDoS Learning Center CDN Learning Center DNS Learning Center Security Learning Center Performance Learning Center Serverless Learning Center SSL Learning Center Bots Learning Center Connect Blog Contact Sales Community Support Contact +1 (888) 99 FLARE  Developers 
+
+ Advanced Cloudflare Configuration Explore Cloudflare API v4 Expose a Secure Local Tunnel Configure with Terraform Documentation Customize Your Site Customize Using Workers Altering Headers Conditional Request Routing A/B Testing Browse All Code Snippets Build Serverless Applications Deploy Using Workers.dev Get Started with Tutorials Clone Examples on GitHub  Pricing  Log In Sign Up  Under Attack? 
+ DDoS Protection Hotline Get help 24/7 Full Name * Full name is required.
+Please enter a name.
+Company * Company name required.
+Please enter a company name.
+Work Email * Incorrect email.
+Please try again.
+Phone * Phone number required.
+Please enter a phone number.
+Website Under Attack * Website URL required.
+Please enter a website similar to http://www.example.com.
+Comments (Optional) Yes - I want to stay in touch with Cloudflare to receive valuable content such as product news, blog updates, and more.
+Get Help Your privacy is important to us.
+A server error occured.
+Please refresh and try again. Thank You 
+ Download PDF.
+
+Contact Us
+Help! I'm Under Attack!
+Email Sales
+Support
+1-888-993-5273
+ Cloudflare Cookie Policy
+
+Last Updated: June 10, 2019
+
+
+This Cloudflare Cookie Policy (“Policy”) outlines the general policy, practices, and types of cookies that Cloudflare, Inc.
+(“Cloudflare”, “we”, “us” or “our”) may use to improve our services and your experience when visiting our Website.
+For the purposes of this Policy, “Website” refers to www.cloudflare.com as well as the other websites that Cloudflare operates and that link to the Cloudflare Website Terms of Use.
+
+Cookies are small pieces of text used to store information on web browsers.
+They are used by many websites to store and receive identifiers and other information on devices, such as a handheld phone or computer.
+Our Website and Service use cookies and other similar technologies (collectively in this Policy, "cookies"), in order to provide a better service to you and to generally improve our Website and Service.
+For example, we may use cookies to help direct you to the appropriate part of our Website, by indicating that you are a repeat visitor.
+We also may use information to present you with services that are matched to your preferences and to manage and track the effectiveness of our marketing efforts.
+We also may include tracking pixels, which are small graphic images, in our marketing communications to determine engagement.
+These cookies may be set by us or by third parties with whom we have partnered to assist in our marketing efforts.
+Some portions of our Website are functional without cookies, and you may generally choose whether to accept cookies.
+Most web browsers are set to accept cookies by default, however, you may be able to delete cookies yourself through your browser's cookie manager.
+To do so, please follow the instructions provided by your web browser.
+Please note that disabling cookies will reset your session, disable auto-login, and may adversely affect the availability and functionality of our Website and the services we can provide to you.
+We detail below the cookies used our Website.
+If you wish to opt-out of cookies that collect information to serve you interest-based ads, you may opt-out by clicking here (or if located in the European Union, click here).
+Functional Cookies.
+Functional cookies are necessary to help our Website and Service to work as intended.
+Some of these cookies include, but are not limited to:
+
+
+userLoggedIn - Determines if you have logged in before and, if so, forward you to the product dashboard.
+
+
+meerkatBannerHidden - Determines if you have dismissed a notification banner for Cloudflare features.
+
+
+userCookiesAllowed - Determines if the user has accepted the ability to load cookies.
+
+
+userLangRedirect - Determines your preferred language for viewing the Website.
+
+
+vses2 - Determines if you have an active session.
+
+
+You may disable any of these functional cookies as described above.
+but if you do, various functions of the Website or Service may be unavailable to you or may not work as intended.
+In addition, as part of our Service, we may place "_cfduid" cookies and bot detection cookies (such as "_cf_bm" and Google’s reCaptcha) on the computers of End Users (as that term is defined in our Privacy Policy).
+We do this in order to identify malicious visitors to our Customers’ websites, web-traffic filtration, to reduce the chance of blocking legitimate users, and to provide customized services.
+Analytics.
+We use third-party cookies and similar tracking technologies to help us understand how you use our Website and Service and improve your experience.
+For example, we may use cookies to understand what pages you browsed before submitting a sales request form.
+You can delete these cookies through your browser settings or through the links listed below.
+The analytics cookies we use include:
+
+
+Google Analytics - Web traffic tracking.
+Learn more at https://www.google.com/policies/privacy/, and to opt out, visit http://tools.google.com/dlpage/gaoptout.
+
+
+Google Tag Manager - Web traffic tracking.
+Learn more at https://support.google.com/tagmanager/answer/6102821?, and to opt out, visit https://support.google.com/analytics/answer/7519794.
+
+
+Heap Analytics - Analyzes browsing activity across Website to establish user profile.
+Learn more at https://heapanalytics.com/privacy.
+To opt out, configure your web browser to reject this cookie.
+
+
+Marketo (Munchkin) - Analyzes browsing activity across Website to establish user profile.
+Learn more at http://legal.marketo.com/cookies/, and to out opt, visit http://developers.marketo.com/javascript-api/lead-tracking/#opt_out.
+
+
+Bizible - Analyzes browsing activity across Website to establish user profile.
+Learn more at http://www.bizible.com/privacy-policy, and to opt out, visit https://www.bizible.com/cookie-opt-out.
+
+
+TechTarget - Analyzes browsing activity across Website to establish user profile.
+Learn more at https://www.techtarget.com/privacy-policy-may25/ and to opt out, visit https://www.techtarget.com/individual-rights-request/.
+Please note that TechTarget will not collect any data when a user is identified by IP address as being based in the EU.
+
+
+G2Crowd - Analyzes browsing activity across Website to establish user profile.
+Learn more at https://www.g2.com/static/privacy and to opt out, visit https://www.g2.com/static/cookie_policy.
+
+
+In addition, we also may include tracking pixels, which are small graphic images, in our email messages to determine whether the messages were opened and if the links were clicked.
+If you do not want to receive tracking pixels in emails we send you, you will need to disable HTML images in your email client, but that may affect your ability to view images in other emails you receive.
+Advertising &amp.
+Targeting.
+These third-party cookies are placed by third-party advertising platforms or networks to collect information about your visits to and actions on certain pages of our Website so that they can deliver ads for relevant Cloudflare products and services to you later, such as when you are on certain third-party sites.
+These cookies also track ad performance.
+
+
+Bing Ads - Advertising platform.
+Learn more at https://advertise.bingads.microsoft.com/en-us/resources/policies/microsoft-bing-adsprivacy-policy, and learn how to opt out at https://help.bingads.microsoft.com/#apex/3/en/53056/1/#exp151.
+
+
+Twitter - Analyzes browsing activity to establish user profile and advertising platform.
+Learn more at https://support.twitter.com/articles/20170514, and learn how to opt out at https://help.twitter.com/en/personalization-data-settings.
+
+
+Facebook Custom Audience - Analyzes browsing activity across our Website to track advertising effectiveness, customize audiences, and improve ad retargeting.
+Learn more at https://www.facebook.com/business/learn/facebook-ads-pixel, and learn how to opt out at https://www.facebook.com/policies/cookies/ whether you are a Facebook user (via your ad preferences) or not (via the Digital Advertising Alliance for your jurisdiction).
+
+
+AdRoll - Advertising focused on retargeting.
+Learn more at https://www.adrollgroup.com/privacy, and learn how to opt out at https://app.adroll.com/optout/safari.
+
+
+LiveRamp - Tracking anonymous user characteristics for ad retargeting.
+Learn more at https://liveramp.com/privacy/, and to opt out, visit https://liveramp.com/opt_out/.
+
+
+OpenX - Advertising platform.
+Learn more about and learn how to opt out at https://www.openx.com/legal/privacy-policy/.
+
+
+Yahoo Ad Exchange - Advertising platform.
+Learn more at https://policies.oath.com/us/en/oath/privacy/index.html, and to opt out, visit https://aim.yahoo.com/aim/us/en/optout/.
+
+
+AppNexus - Advertising platform.
+Learn more at https://www.appnexus.com/en/company/platform-privacy-policy, and to opt out, visit https://www.appnexus.com/en/company/platform-privacy-policy#choices.
+
+
+BidSwitch - Advertising platform.
+Learn more and opt out at http://www.bidswitch.com/policies/.
+
+
+DoubleClick - Provides Internet ad-serving services.
+Learn more at https://policies.google.com/privacy and learn how to opt out at https://support.google.com/ads/answer/2662922.
+
+
+LinkedIn Insights - Analyzes browsing activity across Website to establish user profile and advertising platform.
+Learn more at https://www.linkedin.com/legal/privacy-policy, including how to opt out whether you are a LinkedIn user (via your ad preferences) or not (via the Digital Advertising Alliance for your jurisdiction).
+LinkedIn account holders can opt-out specifically from LinkedIn's uses of certain categories of data to show more relevant ads.
+Visitors to LinkedIn can opt out here.
+
+ Legal 
+
+
+ Website Terms of Use
+
+
+ Self-Serve Subscription Agreement
+
+
+ Supplemental Terms
+
+
+ Privacy Policy
+
+
+ Privacy Shield
+
+
+ Cookie Policy
+
+
+ Trust &amp.
+Safety
+
+
+ Transparency Report
+
+
+ Domain Registration Agreement
+
+
+ Modern Slavery Act Statement
+ Keeping Your Information Private and Secure 
+We will never sell, rent, or give away your persona information without your permission
+We track visitors to our site and yours in order to keep malicious visitors away
+If we aggregate data, we will not reveal your private information
+ Have Questions? If you have questions about these terms or anything else about Cloudflare, please don't hesitate to contact us:
++1 (650) 319-8930
+
+Cloudflare, Inc.
+101 Townsend St,San Francisco, CA 94107USAAttention: Data Protection Officerprivacyquestions@cloudflare.com
+
+ Sales 
+
+
+ Enterprise Sales 
+ Become a Partner 
+
+ Contact Sales:+1 (888) 99 FLARE &lt;a class="phone" href="tel:+16503198930"&gt;+1 650 319 8930&lt;/a&gt.
+
+
+ Getting Started 
+
+
+ Pricing 
+ Case Studies 
+ White Papers 
+ Webinars 
+ Learning Center 
+
+
+ Community 
+
+
+ Community Hub 
+ Blog 
+ Project Galileo 
+ Athenian Project 
+
+
+ Developers 
+
+
+ Developer Hub 
+ Technical Resources 
+ Cloudflare Workers 
+ Integrations 
+
+
+ Support 
+
+
+ Support 
+ Cloudflare Status 
+ Compliance 
+ GDPR 
+
+
+ Company 
+
+
+ About Cloudflare 
+ Our Team 
+ Press 
+ Analysts 
+ Careers 
+ Internet Summit 
+ Logo 
+ Network Map 
+ © 2019 Cloudflare, Inc.
+Privacy Policy Terms of Use Trust &amp.
+Safety Trademark To provide you with the best possible experience on our website, we may use cookies, as described here.By clicking accept, closing this banner, or continuing to browse our websites, you consent to the use of such cookies. I accept &lt;img src="//bat.bing.com/action/0?ti=5268204&amp;Ver=2" height="0" width="0" style="display:none.
+visibility: hidden;" /&gt.
+  &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-PKQFGQB" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
+This content is currently available in english only.
+We are constantly working to provide more content in english.
+Thank you for your patience.
+Contact Sales: +1 (888) 99 FLARE &lt;a href="tel:+16503198930"&gt;+1 650 319 8930&lt;/a&gt.
+English ▶▼ 
+ English 
+ English (United Kingdom) 
+ English (Canada) 
+ English (Australia) 
+ English (India) 
+ Deutsch 
+ Español (España) 
+ Español (Latinoamérica) 
+ Français 
+ Italiano 
+ 日本語 
+ 한국어 
+ Português 
+ 繁體中文 
+ 简体中文 
+
+
+ Products 
+ Solutions 
+ Resources 
+ Developers 
+ Pricing 
+
+
+ Support 
+ Log In 
+ Sign Up 
+ Under Attack? 
+ Performance &amp.
+Reliability CDN DNS Argo Smart Routing Load Balancing Web Optimizations China Network Video Streaming &amp.
+Delivery Cloudflare Stream Stream Delivery Advanced Security DDoS Protection WAF Bot Management Rate Limiting SSL / TLS DNSSEC Cloudflare Access Cloudflare Spectrum Argo Tunnel Insights Analytics Cloudflare Logs Cloudflare for Developers Cloudflare Workers Cloudflare Workers KV Mobile SDK Domain Registration Cloudflare Registrar Cloudflare Marketplace Cloudflare Apps Cloudflare for Everyone 1.1.1.1 Performance Accelerate Internet Applications Accelerate Mobile Experiences Ensure Application Availability Security Mitigate DDoS Attacks Prevent Customer Data Breaches Stop Malicious Bot Abuse Industries Gaming SaaS eCommerce Publishers Public Sector Public Interest Groups State &amp.
+Local Government Partnerships Partner Program Solutions Partners Services Program Technology Partners Peering Portal Bandwidth Alliance Integrations IBM Cloud WordPress Google Cloud Magento Acquia Rackspace Microsoft Azure Kubernetes WP Engine Develop API Guide Developer Hub Developer Fund Documentation Explore Case Studies Analysts Cloudflare in China Network Map Webinars Product Updates White Papers GDPR Learn DDoS Learning Center CDN Learning Center DNS Learning Center Security Learning Center Performance Learning Center Serverless Learning Center SSL Learning Center Bots Learning Center Connect Blog Contact Sales Community Support Contact +1 (888) 99 FLARE Advanced Cloudflare Configuration Explore Cloudflare API v4 Expose a Secure Local Tunnel Configure with Terraform Documentation Customize Your Site Customize Using Workers Altering Headers Conditional Request Routing A/B Testing Browse All Code Snippets Build Serverless Applications Deploy Using Workers.dev Get Started with Tutorials Clone Examples on GitHub 
+ English 
+
+
+
+ English (United Kingdom) 
+ English (Canada) 
+ English (Australia) 
+ English (India) 
+ Deutsch 
+ Español (España) 
+ Español (Latinoamérica) 
+ Français 
+ Italiano 
+ 日本語 
+ 한국어 
+ Português 
+ 繁體中文 
+ 简体中文 
+
+ Products 
+
+ Performance &amp.
+Reliability CDN DNS Argo Smart Routing Load Balancing Web Optimizations China Network Video Streaming &amp.
+Delivery Cloudflare Stream Stream Delivery Advanced Security DDoS Protection WAF Bot Management Rate Limiting SSL / TLS DNSSEC Cloudflare Access Cloudflare Spectrum Argo Tunnel Insights Analytics Cloudflare Logs Cloudflare for Developers Cloudflare Workers Cloudflare Workers KV Mobile SDK Domain Registration Cloudflare Registrar Cloudflare Marketplace Cloudflare Apps Cloudflare for Everyone 1.1.1.1  Solutions 
+
+ Performance Accelerate Internet Applications Accelerate Mobile Experiences Ensure Application Availability Security Mitigate DDoS Attacks Prevent Customer Data Breaches Stop Malicious Bot Abuse Industries Gaming SaaS eCommerce Publishers Public Sector Public Interest Groups State &amp.
+Local Government Partnerships Partner Program Solutions Partners Services Program Technology Partners Peering Portal Bandwidth Alliance Integrations IBM Cloud WordPress Google Cloud Magento Acquia Rackspace Microsoft Azure Kubernetes WP Engine  Resources 
+
+ Develop API Guide Developer Hub Developer Fund Documentation Explore Case Studies Analysts Cloudflare in China Network Map Webinars Product Updates White Papers GDPR Learn DDoS Learning Center CDN Learning Center DNS Learning Center Security Learning Center Performance Learning Center Serverless Learning Center SSL Learning Center Bots Learning Center Connect Blog Contact Sales Community Support Contact +1 (888) 99 FLARE  Developers 
+
+ Advanced Cloudflare Configuration Explore Cloudflare API v4 Expose a Secure Local Tunnel Configure with Terraform Documentation Customize Your Site Customize Using Workers Altering Headers Conditional Request Routing A/B Testing Browse All Code Snippets Build Serverless Applications Deploy Using Workers.dev Get Started with Tutorials Clone Examples on GitHub  Pricing  Log In Sign Up  Under Attack? 
+ DDoS Protection Hotline Get help 24/7 Full Name * Full name is required.
+Please enter a name.
+Company * Company name required.
+Please enter a company name.
+Work Email * Incorrect email.
+Please try again.
+Phone * Phone number required.
+Please enter a phone number.
+Website Under Attack * Website URL required.
+Please enter a website similar to http://www.example.com.
+Comments (Optional) Yes - I want to stay in touch with Cloudflare to receive valuable content such as product news, blog updates, and more.
+Get Help Your privacy is important to us.
+A server error occured.
+Please refresh and try again. Thank You 
+ Download PDF.
+
+Contact Us
+Help! I'm Under Attack!
+Email Sales
+Support
+1-888-993-5273
+ Cloudflare Privacy Policy
+Effective March 14, 2019
+
+We have updated our October 25, 2018 privacy policy to list our German entity as our legal representative entity in the EU and to add the contact information for our new office in Sydney, Australia.
+
+
+This Cloudflare Privacy Policy (“Policy”) outlines the information that Cloudflare, Inc.
+(“Cloudflare”, “we”, “us” or “our”) gathers, how we use that information, and the options you have to access, correct, or delete such information.
+ CLOUDFLARE’S PROMISE
+Our mission to help build a better Internet is rooted in the importance we place on establishing trust with our Customers, Website Visitors, and the Internet community globally.
+To earn and maintain that trust, we commit to communicating transparently, providing security, and protecting the privacy of data on our systems.
+We keep your personal information personal and private.
+We will not sell, rent, share, or otherwise disclose your personal information to anyone except as necessary to provide our services or as otherwise described in this Policy without first providing you with notice and the opportunity to consent.
+
+POLICY APPLICATION.
+This Policy applies to Cloudflare’s collection, use, and disclosure of the information of the following categories of individuals:
+
+Attendees: Individuals who provide their information to Cloudflare or Cloudflare representatives when they attend or register to attend Cloudflare-sponsored events or other events at which Cloudflare participates.
+
+
+Website Visitors: Individuals who visit our Websites and who may opt to provide an email address to receive communications from Cloudflare.
+For the purposes of this Policy, “Websites” shall refer collectively to www.cloudflare.com as well as any other websites Cloudflare owns and that link to this Policy.
+For clarity, “Websites” does not include any sites owned or operated by our Customers, including where we serve as Registrar.
+
+
+Customers: Those who register on their own or on behalf of an entity or organization to use any of the Cloudflare Services (as defined below), including administrators on a Customer account.
+For the purposes of this Policy, “Services” shall refer to all network service solutions marketed for subscription at www.cloudflare.com, including when Services are sold by an authorized partner or reseller.
+
+
+Resolver Users: Individuals who use Cloudflare’s Recursive Domain Name System (“DNS”) Resolver services, such as the 1.1.1.1 Resolver.
+Learn more about 1.1.1.1.
+
+
+End Users: Individuals who visit our Customers’ websites and whose information we process in order to provide the Services to our Customers pursuant to our agreements with them.
+
+
+
+This Policy does not apply to our Customers’ websites, which may have their own terms and privacy policies.
+Our Customers are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, including those relating to the collection of personal information in connection with the use of our Services by End Users with whom our Customers interact.
+Cloudflare’s Websites and Services are not intended for, nor designed to attract, individuals under the age of eighteen.
+Cloudflare does not knowingly collect personally identifiable information from any person under the age of eighteen.
+
+INFORMATION WE COLLECT.
+Attendees:
+
+We may ask for and collect personal information such as your name, address, phone number and email address when you register for or attend a sponsored event or other events at which Cloudflare (and/or its representatives) participates.
+
+
+
+Website Visitors:
+
+
+Name, email address, and other contact information. We ask for and—at your option—collect personal information from you when you submit web forms on our Websites, including opportunities to sign up for and agree to receive email communications from us.
+We also may ask you to submit such personal information if you choose to use interactive features of the Websites, including participation in surveys, contests, promotions, sweepstakes, requesting customer support, or otherwise communicating with us.
+We will send such communications in accordance with applicable law.
+
+
+
+Log Files. Just as when you visit and interact with most websites and services delivered via the Internet, when you visit our Websites, including the Cloudflare Community Forum, we gather certain information and store it in log files.
+This information may include but is not limited to Internet Protocol (IP) addresses, system configuration information, URLs of referring pages, and locale and language preferences.
+
+
+
+Cookies and Other Tracking Technologies. We may use cookies and other information gathering technologies for a variety of purposes, such as providing us with information about how you interact with our Websites and assisting us in our marketing efforts.
+You can control how websites use cookies by configuring your browser's privacy settings (please refer to your browser's help function to learn more about cookie controls).
+Note that if you disable cookies entirely, Cloudflare’s Websites may not function properly.
+We may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests.
+If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here (or if located in the European Union, click here).
+For more information about the cookies Cloudflare uses, please see our Cookie Policy.
+
+
+
+Interactive Areas. The Websites may offer publicly accessible blogs, community forums, comments sections, discussion forums, or other interactive features (“Interactive Areas”).
+If you choose to participate in any of these Interactive Areas, please be aware that any information that you post in an Interactive Area might be read, collected, and used by others who access it.
+If you wish to remove your personal information from any of our Interactive Areas, please see the section below entitled, Your Data Rights.
+
+
+
+Customers:
+
+
+Customer Account Information. When you register for a Cloudflare account, we collect your email address.
+We will also ask you to enter your website domain in order to participate in the Services.
+We refer to this information as “Customer Account Information” for the purposes of this Policy.
+Customer Account Information is required to identify you as a Customer and permit you to access your account(s).
+By voluntarily providing us with such Customer Account Information, you represent that you are the owner of such personal data or otherwise have the requisite consent to provide it to us.
+
+
+
+Payment Information. You are not required to enter your credit card information unless and until you decide to continue with a paid subscription to our Services.
+When you sign up for one of our paid Services, you must provide billing information.
+The information you will need to submit depends on which billing method you choose.
+For example, if you pay with a credit card, we will collect your card information and billing address, although we do not store full credit card numbers or personal account numbers.
+
+
+
+Resolver Users:
+
+We will collect limited DNS query data that is sent to the resolvers.
+This data does not contain user IP addresses or any other personally identifiable information, and the bulk of the data is only stored for 24 hours.
+You can learn more about our 1.1.1.1 commitment to privacy here and here.
+
+
+
+End Users:
+
+Cloudflare provides web optimization and security services that our Customers use to improve and protect their websites, including a reverse proxy, pass-through security service, and a content distribution network.
+Because Cloudflare is a reverse proxy, our IP addresses may appear in WHOIS and DNS records for websites using our Services.
+We are a conduit for information controlled by others.
+It is our Customers and their users who are responsible for the content transmitted across our network (e.g., images, written content, graphics, etc.).
+
+
+We collect End Users’ information when they use our Customers’ websites, web applications, and APIs.
+This information may include but is not limited to IP addresses, system configuration information, and other information about traffic to and from Customers’ websites (collectively, “Log Data”).
+We collect and use Log Data to operate, maintain, and improve our Services in performance of our obligations under our Customer agreements.
+For example, Log Data can help us to detect new threats, identify malicious third parties, and provide more robust security protection for our Customers.
+
+
+
+Legal Basis for Processing (EEA only):
+If you are an individual from the European Economic Area (EEA), please note that our legal basis for collecting and using your personal information will depend on the personal information collected and the specific context in which we collect it.
+We normally will collect personal information from you only where: (a) we have your consent to do so, (b) where we need your personal information to perform a contract with you (e.g.
+to deliver the Cloudflare Services you have requested), or (c) where the processing is in our legitimate interests.
+Please note that in most cases, if you do not provide the requested information, Cloudflare will not be able to provide the requested service to you.
+In some cases, we may also have a legal obligation to collect personal information from you, or may otherwise need the personal information to protect your vital interests or those of another person.
+Where we rely on your consent to process your personal data, you have the right to withdraw or decline consent at any time.
+Where we rely on our legitimate interests to process your personal data, you have the right to object.
+If you have any questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us at privacyquestions@cloudflare.com.
+
+HOW WE USE INFORMATION WE COLLECT.
+Cloudflare only processes personal information in a way that is compatible with and relevant for the purpose for which it was collected or authorized.
+As a general matter, for all categories of data we collect except Resolver User data, we may use the information we collect (including personal information, to the extent applicable) to:
+
+provide, operate, maintain, improve, and promote the Website and Services;
+
+
+enable you to access and use the Website and Services;
+
+
+process and complete transactions, and send you related information, including purchase confirmations and invoices;
+
+
+send transactional messages, including responses to your comments, questions, and requests.
+provide customer service and support.
+and send you technical notices, updates, security alerts, and support and administrative messages;
+
+
+send commercial communications, in accordance with your communication preferences, such as providing you with information about products and services, features, surveys, newsletters, offers, promotions, contests, and events about us and our partners.
+and send other news or information about us and our partners.
+See Section 8 below for information on managing your communication preferences.
+
+
+process and deliver contest or sweepstakes entries and rewards;
+
+
+monitor and analyze trends, usage, and activities in connection with the Websites and Services and for marketing or advertising purposes;
+
+
+comply with legal obligations as well as to investigate and prevent fraudulent transactions, unauthorized access to the Services, and other illegal activities;
+
+
+personalize the Websites and Services, including by providing features or content that match your interests and preferences.
+and
+
+
+process for other purposes for which we obtain your consent.
+
+
+
+Resolver Users.
+We use information we collect from Resolver Users to operate and improve the Cloudflare Resolver, such as to assist us in our debugging efforts if an issue arises.
+We will not combine the information collected from DNS queries with any other Cloudflare or third party data in any way that can be used to identify individual end users.
+Learn more.
+Information from Third Party Services.
+We may combine information we collect as described above with personal information we obtain from third parties.
+For example, we may combine information entered on a Cloudflare sales submission form with information we receive from a third-party sales intelligence platform vendor to enhance our ability to market our Services to Customers or potential Customers.
+
+INFORMATION SHARING.
+We work with other companies who help us run our business (“Service Providers”).
+These companies provide services to help us deliver customer support, process credit card payments, manage and contact our existing Customers as well as sales leads, provide marketing support, and otherwise operate and improve our Services.
+These Service Providers may only process personal information pursuant to our instructions and in compliance both with this Privacy Policy and other applicable confidentiality and security measures and regulations, including our obligations under the EU-US and Swiss-US Privacy Shield frameworks described in Section 6, below.
+Specifically, we do not permit our Service Providers to use any personal information we share with them for their own marketing purposes or for any other purpose than in connection with the services they provide to us.
+In addition to sharing with Service Providers as described above, we may also share your information with others in the following circumstances:
+
+Within the Cloudflare Group (defined for the purposes of this Policy as Cloudflare Inc.
+(United States), Cloudflare Ltd.
+(England), and Cloudflare, Pte.
+Ltd.
+(Singapore));
+
+
+With our resellers and other sales partners who may help us distribute the Services to Customers;
+
+
+With an app developer when you install an app from our App Marketplace;
+
+
+In the event of a merger, sale, change in control, or reorganization of all or part of our business;
+
+
+When we are required to disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+(Learn more about how we handle law enforcement requests here);
+
+
+Where we have a good-faith belief sharing is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Service Agreement, or as otherwise required to comply with our legal obligations.
+or
+
+
+as you may otherwise consent from time to time.
+
+
+
+Learn more about information sharing specific to the 1.1.1.1 Resolver.
+We do not sell, rent, or share personal information with third parties for their direct marketing purposes, including as defined under California Civil Code Sec.
+1798.83.
+
+DATA AGGREGATION.
+Cloudflare may aggregate data we acquire about our Customers and their End Users, including the Log Data described above.
+For example, we may assemble data to determine how Web crawlers index the Internet and whether they are engaged in malicious activity or to compile web traffic reports and statistics.
+Non-personally identifiable, aggregated data may be shared with third parties.
+
+INTERNATIONAL INFORMATION TRANSFERS.
+Cloudflare is a U.S.-based, global company.
+We primarily store your information in the United States and the European Economic Area (the “EEA”).
+To facilitate our global operations, we may transfer and access such information from around the world, including from other countries in which the Cloudflare Group has operations for the purposes described in this Policy.
+Whenever Cloudflare shares personal information originating in the EEA or Switzerland with a Cloudflare entity outside the EEA or Switzerland, it will do so on the basis of the EU standard contractual clauses or the Privacy Shield Frameworks detailed in this section.
+If you are accessing or using our Websites or Services or otherwise providing information to us, you are agreeing to the transfer of your personal information to the United States and other jurisdictions in which we operate.
+Cloudflare is certified under both the EU-U.S.
+and the Swiss-U.S.
+Privacy Shield Frameworks as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of personal information transferred from the EEA and Switzerland to the United States, respectively.
+If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+For more information on the EU-U.S.
+Privacy Shield or Swiss-U.S.
+Privacy Shield, please visit the U.S.
+Department of Commerce’s Privacy Shield website at: https://www.privacyshield.gov/welcome.
+
+DATA SUBJECT RIGHTS.
+Attendees, Website Visitors, and Customers: You have the right to access, correct, update, export, or delete your personal information.
+You may email us at SAR@cloudflare.com with any such subject access requests (“SAR”), and we will respond within thirty (30) days.
+Customers also can access, correct, export, or update their Account Information by editing their profile or organization record at cloudflare.com.
+Resolver Users: We do not retain any personally identifiable information about Resolver Users that would be subject to the data subject rights described above.
+End Users: Cloudflare has no direct relationship with End Users.
+Even where “Cloudflare” may be indicated as the authoritative name server for a domain, unless Cloudflare is the owner of that domain, we have no control over a domain’s content.
+Accordingly, we rely upon our Customers to comply with the underlying legal requirements for subject access requests.
+If an End User requests that we access, correct, update, or delete their information, or no longer wishes to be contacted by one of our Customers that use our Services, we will direct that End User to contact the Customer website(s) with which they interacted directly.
+Our Customers are solely responsible for ensuring compliance with all applicable laws and regulations with respect to their website users.
+For any SAR, we will need to verify a requestor is inquiring about their own information before we can assist.
+Where a SAR may implicate the personal data of another individual, we must balance the request against the risk of violating another person’s privacy rights.
+We will comply with SARs to the extent required by applicable law or the US-Swiss or US-EU Privacy Shield.
+In the EU, you also have the right to lodge a complaint with a supervisory authority.
+\
+COMMUNICATION PREFERENCES.
+You may manage your receipt of commercial communications by clicking on the “unsubscribe” link located on the bottom of such emails, through your account settings if you have a Cloudflare account, or you may send a request to unsubscribe@cloudflare.com
+
+DATA SECURITY, DATA INTEGRITY, AND ACCESS.
+We take all reasonable steps to protect information we receive from you from loss, misuse or unauthorized access, disclosure, alteration, and/or destruction.
+We have put in place appropriate physical, technical, and administrative measures to safeguard and secure your information, and we make use of privacy-enhancing technologies such as encryption.
+If you have any questions about the security of your personal information, you can contact us at privacyquestions@cloudflare.com.
+
+REGISTRAR.
+If you purchase a domain name from Cloudflare’s registrar service, ICANN (The Internet Corporation for Assigned Names and Numbers) and the relevant registry operators overseeing the domain’s top-level domain require us to collect registrant data for the purposes of domain registration and via the WHOIS protocol.
+We may also be required to share this public data with ICANN, the relevant registry operators and other such providers with whom we contract in order to provide our domain name services, and additionally upon the legitimate request of third parties.
+Registrant data may include the domain name, registrant name and other contact information, and domain name server information.
+Learn more.
+
+NOTIFICATION OF CHANGES.
+If we make changes to this Policy that we believe materially impact the privacy of your personal data, we will promptly provide notice of any such changes (and, where necessary, obtain consent), as well as post the updated Policy on this website noting the effective date of any changes.
+
+BUSINESS TRANSACTIONS.
+We may assign or transfer this Policy, as well as information covered by this Policy, in the event of a merger, sale, change in control, or reorganization of all or part of our business.
+
+ENGLISH LANGUAGE CONTROLS.
+Non-English translations of this Policy are provided for convenience only.
+In the event of any ambiguity or conflict between translations, the English version is authoritative and controls.
+
+DISPUTE RESOLUTION.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+EU REPRESENTATIVE.
+Cloudflare Germany GmbH is our European Union representative pursuant to Article 27 of the EU General Data Protection Regulation.
+
+CONTACT INFORMATION.
+
+Cloudflare, Inc.
+101 Townsend St.San Francisco, CA 94107Attention: Data Protection Officerprivacyquestions@cloudflare.com
+
+Cloudflare, Ltd.
+2nd Floor25 Lavington StreetLondonSE1 0NZAttention: Data Protection Officerprivacyquestions@cloudflare.com
+
+Cloudflare Germany GmbH
+Rosental 780331 MünchenAttention: Data Protection Officerprivacyquestions@cloudflare.com
+
+Cloudflare, Pte., Ltd.
+182 Cecil Street, #35-01Frasers Tower, Singapore 069547Attention: Data Protection Officerprivacyquestions@cloudflare.com
+
+Cloudflare Australia Pty Ltd.
+333 George St., 5th FloorSydney, NSW 2000Attention: Data Protection Officerprivacyquestions@cloudflare.com
+
+ Legal 
+
+
+ Website Terms of Use
+
+
+ Self-Serve Subscription Agreement
+
+
+ Supplemental Terms
+
+
+ Privacy Policy
+
+
+ Privacy Shield
+
+
+ Cookie Policy
+
+
+ Trust &amp.
+Safety
+
+
+ Transparency Report
+
+
+ Domain Registration Agreement
+
+
+ Modern Slavery Act Statement
+ Have Questions? If you have questions about these terms or anything else about Cloudflare, please don't hesitate to contact us:
++1 (650) 319-8930
+
+Cloudflare, Inc.
+101 Townsend St,San Francisco, CA 94107USAAttention: Data Protection Officerprivacyquestions@cloudflare.com
+
+ Sales 
+
+
+ Enterprise Sales 
+ Become a Partner 
+
+ Contact Sales:+1 (888) 99 FLARE &lt;a class="phone" href="tel:+16503198930"&gt;+1 650 319 8930&lt;/a&gt.
+
+
+ Getting Started 
+
+
+ Pricing 
+ Case Studies 
+ White Papers 
+ Webinars 
+ Learning Center 
+
+
+ Community 
+
+
+ Community Hub 
+ Blog 
+ Project Galileo 
+ Athenian Project 
+
+
+ Developers 
+
+
+ Developer Hub 
+ Technical Resources 
+ Cloudflare Workers 
+ Integrations 
+
+
+ Support 
+
+
+ Support 
+ Cloudflare Status 
+ Compliance 
+ GDPR 
+
+
+ Company 
+
+
+ About Cloudflare 
+ Our Team 
+ Press 
+ Analysts 
+ Careers 
+ Internet Summit 
+ Logo 
+ Network Map 
+ © 2019 Cloudflare, Inc.
+Privacy Policy Terms of Use Trust &amp.
+Safety Trademark To provide you with the best possible experience on our website, we may use cookies, as described here.By clicking accept, closing this banner, or continuing to browse our websites, you consent to the use of such cookies. I accept &lt;img src="//bat.bing.com/action/0?ti=5268204&amp;Ver=2" height="0" width="0" style="display:none.
+visibility: hidden;" /&gt.
+  &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-PKQFGQB" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
+This content is currently available in english only.
+We are constantly working to provide more content in english.
+Thank you for your patience.
+Contact Sales: +1 (888) 99 FLARE &lt;a href="tel:+16503198930"&gt;+1 650 319 8930&lt;/a&gt.
+English ▶▼ 
+ English 
+ English (United Kingdom) 
+ English (Canada) 
+ English (Australia) 
+ English (India) 
+ Deutsch 
+ Español (España) 
+ Español (Latinoamérica) 
+ Français 
+ Italiano 
+ 日本語 
+ 한국어 
+ Português 
+ 繁體中文 
+ 简体中文 
+
+
+ Products 
+ Solutions 
+ Resources 
+ Developers 
+ Pricing 
+
+
+ Support 
+ Log In 
+ Sign Up 
+ Under Attack? 
+ Performance &amp.
+Reliability CDN DNS Argo Smart Routing Load Balancing Web Optimizations China Network Video Streaming &amp.
+Delivery Cloudflare Stream Stream Delivery Advanced Security DDoS Protection WAF Bot Management Rate Limiting SSL / TLS DNSSEC Cloudflare Access Cloudflare Spectrum Argo Tunnel Insights Analytics Cloudflare Logs Cloudflare for Developers Cloudflare Workers Cloudflare Workers KV Mobile SDK Domain Registration Cloudflare Registrar Cloudflare Marketplace Cloudflare Apps Cloudflare for Everyone 1.1.1.1 Performance Accelerate Internet Applications Accelerate Mobile Experiences Ensure Application Availability Security Mitigate DDoS Attacks Prevent Customer Data Breaches Stop Malicious Bot Abuse Industries Gaming SaaS eCommerce Publishers Public Sector Public Interest Groups State &amp.
+Local Government Partnerships Partner Program Solutions Partners Services Program Technology Partners Peering Portal Bandwidth Alliance Integrations IBM Cloud WordPress Google Cloud Magento Acquia Rackspace Microsoft Azure Kubernetes WP Engine Develop API Guide Developer Hub Developer Fund Documentation Explore Case Studies Analysts Cloudflare in China Network Map Webinars Product Updates White Papers GDPR Learn DDoS Learning Center CDN Learning Center DNS Learning Center Security Learning Center Performance Learning Center Serverless Learning Center SSL Learning Center Bots Learning Center Connect Blog Contact Sales Community Support Contact +1 (888) 99 FLARE Advanced Cloudflare Configuration Explore Cloudflare API v4 Expose a Secure Local Tunnel Configure with Terraform Documentation Customize Your Site Customize Using Workers Altering Headers Conditional Request Routing A/B Testing Browse All Code Snippets Build Serverless Applications Deploy Using Workers.dev Get Started with Tutorials Clone Examples on GitHub 
+ English 
+
+
+
+ English (United Kingdom) 
+ English (Canada) 
+ English (Australia) 
+ English (India) 
+ Deutsch 
+ Español (España) 
+ Español (Latinoamérica) 
+ Français 
+ Italiano 
+ 日本語 
+ 한국어 
+ Português 
+ 繁體中文 
+ 简体中文 
+
+ Products 
+
+ Performance &amp.
+Reliability CDN DNS Argo Smart Routing Load Balancing Web Optimizations China Network Video Streaming &amp.
+Delivery Cloudflare Stream Stream Delivery Advanced Security DDoS Protection WAF Bot Management Rate Limiting SSL / TLS DNSSEC Cloudflare Access Cloudflare Spectrum Argo Tunnel Insights Analytics Cloudflare Logs Cloudflare for Developers Cloudflare Workers Cloudflare Workers KV Mobile SDK Domain Registration Cloudflare Registrar Cloudflare Marketplace Cloudflare Apps Cloudflare for Everyone 1.1.1.1  Solutions 
+
+ Performance Accelerate Internet Applications Accelerate Mobile Experiences Ensure Application Availability Security Mitigate DDoS Attacks Prevent Customer Data Breaches Stop Malicious Bot Abuse Industries Gaming SaaS eCommerce Publishers Public Sector Public Interest Groups State &amp.
+Local Government Partnerships Partner Program Solutions Partners Services Program Technology Partners Peering Portal Bandwidth Alliance Integrations IBM Cloud WordPress Google Cloud Magento Acquia Rackspace Microsoft Azure Kubernetes WP Engine  Resources 
+
+ Develop API Guide Developer Hub Developer Fund Documentation Explore Case Studies Analysts Cloudflare in China Network Map Webinars Product Updates White Papers GDPR Learn DDoS Learning Center CDN Learning Center DNS Learning Center Security Learning Center Performance Learning Center Serverless Learning Center SSL Learning Center Bots Learning Center Connect Blog Contact Sales Community Support Contact +1 (888) 99 FLARE  Developers 
+
+ Advanced Cloudflare Configuration Explore Cloudflare API v4 Expose a Secure Local Tunnel Configure with Terraform Documentation Customize Your Site Customize Using Workers Altering Headers Conditional Request Routing A/B Testing Browse All Code Snippets Build Serverless Applications Deploy Using Workers.dev Get Started with Tutorials Clone Examples on GitHub  Pricing  Log In Sign Up  Under Attack? 
+ DDoS Protection Hotline Get help 24/7 Full Name * Full name is required.
+Please enter a name.
+Company * Company name required.
+Please enter a company name.
+Work Email * Incorrect email.
+Please try again.
+Phone * Phone number required.
+Please enter a phone number.
+Website Under Attack * Website URL required.
+Please enter a website similar to http://www.example.com.
+Comments (Optional) Yes - I want to stay in touch with Cloudflare to receive valuable content such as product news, blog updates, and more.
+Get Help Your privacy is important to us.
+A server error occured.
+Please refresh and try again. Thank You 
+ Download PDF.
+
+Contact Us
+Help! I'm Under Attack!
+Email Sales
+Support
+1-888-993-5273
+ Cloudflare Self-Serve Subscription Agreement
+Effective March 20, 2019
+PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS.
+THIS SELF-SERVE SUBSCRIPTION AGREEMENT (“SUBSCRIPTION AGREEMENT”), CLOUDFLARE’S PRIVACY POLICY, SUPPLEMENTAL TERMS, ANY PLAN OR FEATURE LIMITS, PRODUCT DISCLAIMERS, OR OTHER RESTRICTIONS PRESENTED TO YOU ON THE CLOUDFLARE WEBSITE, AND ALL OTHER APPLICABLE TERMS (COLLECTIVELY, THE “AGREEMENT”) GOVERN YOUR USE OF ANY FREE, TRIAL OR PAID CLOUDFLARE SERVICES OR SOFTWARE WHERE THESE TERMS APPEAR OR ARE LINKED TO.
+THIS AGREEMENT CONTAINS PROVISIONS REQUIRING THAT YOU AGREE TO THE USE OF ARBITRATION TO RESOLVE ANY DISPUTES ARISING UNDER THIS AGREEMENT RATHER THAN A JURY TRIAL OR ANY OTHER COURT PROCEEDINGS, AND TO WAIVE YOUR PARTICIPATION IN CLASS ACTION OF ANY KIND AGAINST CLOUDFLARE.
+
+By clicking on the “Create Account” button (or any similar button) that is presented to you at the time of sign-up or by using or accessing the Service, you indicate your assent to be bound by this Agreement.
+Cloudflare may modify this Agreement from time to time, subject to the terms in Section 14 (Changes to this Agreement) below.
+
+If you are entering into this Agreement on behalf of a company, organization or another legal entity (an “Entity”), you are agreeing to this Agreement for that Entity and representing to Cloudflare that you have the authority to bind such Entity to this Agreement, in which case the terms “you,” “your” or a related capitalized term herein will refer to such Entity.
+If you do not have such authority, or if you do not agree with this Agreement, you must not accept this Agreement and must not use the Service. GENERAL TERMS AND CONDITIONS
+1.
+Overview
+This Agreement governs Cloudflare’s cloud-based solutions (including this website) (“Cloud Services”) and software made available in connection with the Cloud Services (“Software”).
+Section 2 (Cloud Services) applies specifically to the Cloud Services, and Section 3 (Software) applies specifically to Software (including Cloudflare’s application programming interfaces (“APIs”) and software development kits (“SDKs”)).
+Unless otherwise specified, all other Sections of this Agreement apply to both the Cloud Services and the Software (collectively, the “Service”). 2.
+Cloud Services 2.1 Access to Cloud Services
+Subject to your compliance with this Agreement (including, without limitation, all payment obligations), Cloudflare hereby grants to you a limited, revocable, non-exclusive, non-transferable, and non-sublicensable (except to Affiliates) right, to access and use the Cloud Services (“Cloud License”).
+If you are agreeing to this Agreement on behalf of an Entity, such Entity’s Affiliates may also access and use the Cloud Services provided that such Affiliates agree to be bound by the terms of this Agreement, and the Entity remain fully liable for such Affiliates’ actions and omissions in connection with this Agreement as if the Entity had performed such acts and omissions itself.
+“Affiliate” means any means an entity which, directly or indirectly, owns or controls, is owned or is controlled by or is under common ownership or control with a party, where “control” means the power to direct the management or affairs of an entity, and “ownership” means the beneficial ownership of 50% (or, if the applicable jurisdiction does not allow majority ownership, the maximum amount permitted under such law) or more of the voting equity securities or other equivalent voting interests of the entity. 2.2 Restrictions
+Unless otherwise expressly permitted in writing by Cloudflare, you will not and you have no right to:
+(a) rent, lease, loan, export or sell access to the Cloud Services to any third party;
+(b) interfere with, disrupt, alter, or modify the Cloud Services or any part thereof, or create an undue burden on the Cloud Services or the networks or services connected to the Cloud Services;
+(c) utilize any framing techniques to enclose any Cloudflare trademark, logo, service mark, or other trade dress (“Cloudflare Marks”) or Materials (defined below) or use any meta tags or other “hidden text” utilizing the Cloudflare Marks or Materials without Cloudflare’s written consent
+(d) introduce software or automated agents or scripts into the Cloud Services so as to produce multiple accounts, generate automated searches, requests or queries, or to strip or mine data from the Cloud Services;
+(f) perform or publish any benchmark tests or analyses relating to the Cloud Services without Cloudflare’s written consent;
+(g) cover or obscure any page or part of the Cloud Services via HTML/CSS, scripting, or any other means;
+(h) process or collect personal or business credit card information on any web property that is receiving Free Services (as defined below).
+or
+(i) use the Cloud Services to store or transmit any “protected health information” as that term is defined in 45 C.F.R.
+160.103 without Cloudflare’s written consent. 2.3 Restrictions
+You are responsible for maintaining the confidentiality of all usernames and passwords created by or assigned to you (“Credentials”), and are solely responsible for all activities that occur under such Credentials.
+You agree to notify Cloudflare promptly of any actual or suspected unauthorized use of any Credentials.
+Cloudflare reserves the right to terminate any Credentials that Cloudflare reasonably determines may have been accessed or used by an unauthorized third party, and will provide immediate notice of such to Customer.
+For your added security, we strongly encourage you to enable two-factor authentication in conjunction with all Credentials. 2.4 Subscription Terms, Renewals and Cancellations
+All Cloud Services that are provided to you as Paid Services (each a, “Paid Cloud Service”) will be provided to you on a subscription basis for the length of term that you specified during the initial sign-up process (“Subscription Term”).
+All of your subscriptions to Paid Cloud Services will automatically renew for periods equal to your initial Subscription Term, and you will be charged at our then-current rates unless you cancel your subscription through the Cloud Services’ account dashboard prior to your next scheduled billing date. 2.5 Your Information 2.5.1
+You and your End Users (as such term is defined in the Privacy Policy) will retain all right, title and interest in and to any data, content, code, video, images or other materials of any type that you or your End Users transmit to or through the Cloud Services (collectively, “Your Information”) in the form provided to Cloudflare.
+Subject to the terms of this Agreement, you hereby grant us a non-exclusive, fully sublicenseable, worldwide, royalty-free right to collect, use, copy, store, transmit, modify and create derivative works of your Your Information, in each case to the extent necessary to provide the Cloud Services to you. 2.5.2
+You must obtain all necessary rights, releases and permissions to provide Your Information to Cloudflare, and Your Information and its transfer must not violate any applicable local, state, federal and international laws and regulations (“Laws”) (including without limitation those relating to export control or electronic communications).
+Other than our security obligations under Section 6 (Security), we assume no responsibility or liability for Your Information, and you will be solely responsible for the consequences of using, disclosing, storing, transferring or transmitting Your Information. 2.5.3
+Cloudflare may modify certain components of Your Information on or transmitted to or from your website to enhance your website’s performance or security or the functionality of the Cloud Services.
+For example, depending on the Cloudflare Services you select or the Apps that you enable, Cloudflare may: (i) intercept requests determined to be threats and take actions, such as, presenting them with a challenge page, dropping the request, presenting alternative content, redirecting and other similar measures.
+(ii) add cookies to your domain to track visitors, such as those who have successfully passed the CAPTCHA on a challenge page.
+(iii) add scripts to your pages to perform additional performance tracking.
+(iv) add firewall rules to your website.
+and (v) make other changes to increase the performance, security or analytic capabilities of your website.
+Cloudflare will make it clear whenever a feature will materially modify Your Information and, whenever possible, provide you a mechanism to allow you to disable the feature. 2.5.4
+By transmitting Your Information to or through the Cloud Services, you represent and warrant that your Data, does not infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right. 2.6 Free &amp.
+Trial Services
+We may offer free or trial versions of the Cloud Services (“Free Services”) from time to time.
+With respect to each such Free Service, we will make each such Free Service available to you free of charge until the earlier of (a) the end of the free trial period (if applicable) for which you registered to use the Free Service.
+(b) the start date of your Subscription Term for the Paid Services version of such Free Service.
+or (c) termination of the Free Service by Cloudflare in our sole discretion.
+We will have no liability for any harm or damage arising out of or in connection with any Free Services.
+ 2.7 Acceptable Use
+By using the Cloud Services you are agreeing, among other things, that you will not use the Cloud Services to (a) falsely imply any sponsorship or association with Cloudflare.
+(b) post, transmit, store or link to any files, materials, data, text, audio, video, images or other content that infringe on any person’s intellectual property rights or that are otherwise unlawful.
+or (c) engage in any activities that are illegal, including disseminating, promoting or facilitating child sexual abuse material or engaging in human trafficking. 2.8 Limitation on Non-HTML Caching
+The Service is offered primarily as a platform to cache and serve web pages and websites.
+Unless explicitly included as a part of a Paid Service purchased by you, you agree to use the Service solely for the purpose of serving web pages as viewed through a web browser or other application and the Hypertext Markup Language (HTML) protocol or other equivalent technology.
+Use of the Service for the storage or caching of video (unless purchased separately as a Paid Service) or a disproportionate percentage of pictures, audio files, or other non-HTML content, is prohibited. 3.
+Software 3.1 License Grant
+Subject to the terms and conditions of this Agreement, Cloudflare grants you a limited, revocable, non-exclusive, non-transferable and non-sublicensable (except to Affiliates) license to install and use the Software during your use of the applicable Cloud Services in accordance with this Agreement and any Cloudflare documentation (“License”).
+Your License will end upon the earlier of the termination of your use of the Cloud Services requiring such Software or the termination of this Agreement.
+Some Software may contain open source or third party software, which may have additional terms and restrictions regarding such software’s use. 3.2 Limitations
+You will not reverse engineer, decompile, disassemble or otherwise attempt to derive the source code, techniques, processes, algorithms, know-how or other information from the binary code portions of the Software (collectively, "Reverse Engineering") or permit or induce the foregoing.
+If however, directly applicable law prohibits enforcement of the foregoing, you may engage in Reverse Engineering solely for purposes of obtaining such information as is necessary to achieve interoperability of your own or third party software with the Software, and to the limited extent permitted by directly applicable law, but only if: (a) Reverse Engineering is strictly necessary to obtain such information.
+and (b) you have first requested such information from us and we fail to make such information available (for a fee or otherwise) under reasonable terms and conditions. 3.3 Software Modifications
+Subject to the terms and conditions of this Agreement, for any elements of the Software provided to you in source code form you may modify such source code solely to the extent necessary to support your permitted use of the Software (collectively, “Modifications”).
+Unless expressly stated otherwise, you may not distribute your Modifications to any third party.
+Cloudflare has no support, warranty, indemnification or other obligation or liability with respect to your Modifications or their combination, interaction or use with our Cloud Services.
+You agree to indemnify, defend and hold us harmless from and against any and all claims, costs, damages, losses, liabilities and expenses (including reasonable attorneys’ fees and costs) arising out of or in connection with any claim brought against us by a third party relating to your Modifications. 3.4 Cloudflare Apps
+You may install or utilize certain third party apps (“Apps”) via the Cloudflare Apps Service at your election.
+Cloudflare does not make any representations, warranties or guarantees regarding the Apps.
+Cloudflare makes these Apps available to you on an “AS IS” and “AS AVAILABLE” basis.
+Cloudflare does not endorse the Apps.
+Each App is governed by the terms of service, end user license agreement and privacy policies provided by the third party that developed the App.
+Cloudflare will not be directly or indirectly responsible or liable to you in any manner, for any harms, damages, loss, lost profits, special or consequential damages or claims arising out of or in connection with, the installation of, use of, or reliance on the performance of any of the Apps.
+Further information related to the Apps is available on the Cloudflare Apps page located here. 4.
+Billing 4.1 Recurring Billing
+In order to access those Services for which we require a subscription fee (“Paid Services”) you will be required to provide Cloudflare with your credit card information (“Payment Method”).
+By providing a Payment Method you are authorizing us to charge your Payment Method on a monthly or annual basis, or as otherwise applicable for the subscription fees associated the Paid Services that you sign up for.
+Any Payment Method that you provide us must be valid, and kept current by you during the Subscription Term.
+By providing us with a Payment Method, you represent and warrant that you are authorized to use such Payment Method.
+Cloudflare will begin billing your Payment Method for the Paid Services on the day that you sign up for such Paid Services, regardless of whether you have fully configured the Paid Services as of that date. 4.2 Price Changes
+We reserve the right to change the subscription fees that we charge for the Service, at any time in our sole discretion, provided that we give you at least thirty (30) days’ prior notice of such changes.
+Unless otherwise specified in such notice to you, any changes to the subscription fees will take effect in the billing period immediately following our notice to you. 4.3 No Refunds
+SUBSCRIPTION FEES ARE NONREFUNDABLE.
+YOU WILL BE BILLED IN FULL FOR THE SUBSCRIPTION TERM IN WHICH YOU CANCEL AND NO REFUNDS WILL BE PROVIDED FOR THE UNUSED PORTION OF SUCH SUBSCRIPTION TERM.
+Following any cancellation, however, you will continue to have access to the Paid Services through the end of your current Subscription Term.
+We may, in our sole discretion, provide a refund, discount, or credit (“Credits”) to you in a specific instance, however the provision of Credits in a specific instance does not entitle you to Credits in the future for similar instances or obligate us to provide additional Credits. 4.4 Taxes
+Unless otherwise stated, our charges do not include any taxes, levies, duties or similar governmental assessments, including value-added, sales, use or withholding taxes assessable by any local, state, provincial or foreign jurisdiction (collectively “Taxes”).
+You are responsible for paying Taxes, except those assessable against Cloudflare as measured by our net income.
+Unless you provide us with evidence of an exemption, we will invoice you for such Taxes if we believe we have a legal obligation to do so and you agree to pay such Taxes if so invoiced. 5.
+Beta Services
+From time to time, we may make early stage or non-production Cloud Services and Software (“Beta Services”) available to you at no charge.
+You may access these Beta Services in your sole discretion.
+Beta Services are intended for evaluation purposes only, and may be subject to additional terms that will be presented to you at the time of sign-up.
+Cloudflare may, but is not obligated to, provide you with support for the Beta Services or correct any bugs, defects, or errors in the Beta Services.
+Unless otherwise stated, any Beta Services trial period will expire upon the earlier of one year from the trial start date or the date that a version of the Beta Services becomes generally available without the applicable Beta Services designation.
+We may discontinue Beta Services at any time in our sole discretion and may never make them generally available.
+Notwithstanding Section 12, we will have no liability for any harm or damage arising out of or in connection with any Beta Services. 6.
+Security
+We implement security procedures to help protect your Data from security threats.
+However, you understand that your use of the Service necessarily involves transmission of Your Information over networks that are not owned, operated or controlled by us, and we are not responsible for any of Your Information that is lost, altered, intercepted or stored across such networks.
+We cannot guarantee that our security procedures will be error-free, that transmissions of Your Information will always be secure or that unauthorized third parties will never be able to defeat our security measures or those of our third party service providers. 7.
+Trade Sanctions and Export Control
+You may not use the Service for any reason if you or any party that owns or controls you, are subject to sanctions or otherwise designated on any list of prohibited or restricted parties, including but not limited to the lists maintained by the U.S.
+Government (e.g., the Specially Designated Nationals List and Foreign Sanctions Evaders List of the U.S.
+Department of Treasury, and the Entity List of the U.S.
+Department of Commerce), the European Union or its Member States, or other applicable government authority.
+You may not use the Service to export or re-export any information or technology to any country, individual, or entity to which such export or re-export is restricted or prohibited. 8.
+Termination of Use.
+Discontinuation and Modification of the Service
+You will lose your license to use the Service if you violate any provision of this Agreement.
+Cloudflare’s policy is to investigate violations of this Agreement.
+We reserve the right to suspend or terminate your user account upon receiving any number of DMCA notifications from content owners regarding your website(s), or upon learning through other means that you are a repeat infringer.
+Additionally, we may at our sole discretion terminate your user account or suspend or terminate your access to the Service at any time, with or without notice for any reason or no reason at all.
+We also reserve the right to modify or discontinue the Service at any time (including, without limitation, by limiting or discontinuing certain features of the Service) without notice to you.
+We will have no liability whatsoever on account of any change to the Service or any suspension or termination of your access to or use of the Service.
+You may terminate your account at any time through the Service’s account dashboard. 9.
+Ownership.
+Proprietary Rights
+The visual interfaces, graphics, design, compilation, information, data, computer code (including source code or object code), products, software, services, and all other elements of the Service (the “Materials”) provided by Cloudflare are protected by all relevant intellectual property and proprietary rights and applicable laws.
+All Materials contained in the Service are the property of Cloudflare or our third-party licensors.
+Except as expressly authorized by Cloudflare you may not make use of the Materials.
+Cloudflare reserves all rights to the Materials not granted expressly in this Agreement. 10.
+Indemnification 10.1 By Cloudflare
+Cloudflare will defend you against any third party claim brought against you, to the extent that such claim is based on an allegation that a Paid Service, when used as authorized under this Agreement, infringes a United States or European Union patent or registered copyright (a "Claim"), and we will indemnify you against any damages and costs (including reasonable legal fees) finally awarded by a court of competent jurisdiction attributable to such a Claim or agreed to settlement by Cloudflare.
+If any portion of a Paid Service becomes, or in Cloudflare’s opinion is likely to become, the subject of an infringement claim, Cloudflare may, at Cloudflare’s option: (a) procure the right for you to continue using the Paid Service.
+(b) replace the Paid Service with non-infringing services which do not materially impair the functionality of the Paid Service.
+(c) modify the Paid Service so that it becomes non-infringing.
+or (d) terminate the Paid Service and refund any pre-paid subscription fees covering the remainder of the Subscription Term, and upon such termination, you will immediately cease all use of the Paid Service.
+Cloudflare will have no obligation under this Section 10 or otherwise with respect to any infringement claim based upon: (w) any use of a Paid Service not in accordance with this Agreement or the Documentation.
+any use of a Paid Service in combination with third party products or services not supplied by Cloudflare.
+or (z) any modification of a Paid Service by any person other than Cloudflare or its authorized agents.
+THIS SUBSECTION SETS FORTH CLOUDFLARE’S SOLE AND EXCLUSIVE OBLIGATIONS, AND YOUR SOLE AND EXCLUSIVE REMEDIES, WITH RESPECT TO CLAIMS OF INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS. 10.2 By You
+You agree that you will be responsible for your use of the Service, and you agree to defend, indemnify, and hold harmless Cloudflare and its officers, directors, employees, consultants, Affiliates, subsidiaries and agents (collectively, the "Cloudflare Entities") from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees and costs, arising out of or in any way connected with your access to, use of, or alleged use of the Service.
+(ii) your violation of this Agreement or any representation, warranty, or agreements referenced herein, or any applicable law or regulation.
+(iii) your violation of any third-party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right.
+or (iv) any disputes or issues between you and any third party.
+We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (and without limiting your indemnification obligations with respect to such matter), and in such case, you agree to cooperate with our defense of such claim. 11.
+Disclaimers.
+No Warranties
+THE SERVICE ARE MADE AVAILABLE TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITH THE EXPRESS UNDERSTANDING THAT THE CLOUDFLARE ENTITIES HAVE NO OBLIGATION TO MONITOR, CONTROL, OR VET USER CONTENT OR DATA.
+AS SUCH, YOUR USE OF THE SERVICES IS AT YOUR OWN DISCRETION AND RISK.
+THE CLOUDFLARE ENTITIES MAKE NO CLAIMS OR PROMISES ABOUT THE QUALITY, ACCURACY, OR RELIABILITY OF THE SERVICES, ITS SAFETY OR SECURITY, OR THE SERVICES CONTENT.
+ACCORDINGLY, THE CLOUDFLARE ENTITIES ARE NOT LIABLE TO YOU FOR ANY LOSS OR DAMAGE THAT MIGHT ARISE, FOR EXAMPLE, FROM THE SERVICE'S INOPERABILITY, UNAVAILABILITY OR SECURITY VULNERABILITIES.
+THE CLOUDFLARE ENTITIES EXPRESSLY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+SOME JURISDICTIONS MAY PROHIBIT A DISCLAIMER OF WARRANTIES AND YOU MAY HAVE OTHER RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION. 12.
+Limitation of Liability
+IN NO EVENT WILL THE CLOUDFLARE ENTITIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE SERVICES OR ANY MATERIALS OR CONTENT ON THE SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE OR ANY OTHER LEGAL THEORY, WHETHER OR NOT THE CLOUDFLARE ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE.
+YOU AGREE THAT THE AGGREGATE LIABILITY OF THE CLOUDFLARE ENTITIES TO YOU FOR ANY AND ALL CLAIMS ARISING OUT OF RELATING TO THE USE OF OR ANY INABILITY TO USE THE SERVICES (INCLUDING ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SERVICES) OR OTHERWISE UNDER THIS AGREEMENT, WHETHER IN CONTRACT, TORT, OR OTHERWISE, IS LIMITED TO THE AMOUNTS YOU HAVE PAID TO CLOUDFLARE TO ACCESS AND USE THE SERVICE IN THE 12 MONTHS PRIOR TO THE CLAIM.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES.
+ACCORDINGLY, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. 13.
+Governing Law
+This Agreement will be governed by the laws of the State of California without regard to conflict of law principles.
+To the extent that any lawsuit or court proceeding is permitted hereunder, you and Cloudflare agree to submit to the personal and exclusive jurisdiction of the state and federal courts located within San Francisco County, California for the purpose of litigating all such disputes. 14.
+Changes to this Agreement
+Cloudflare reserves the right to make modifications to this Agreement at any time.
+If a revision materially alters your rights we will use reasonable efforts to contact you, including sending a notification to the e-mail address(es) associated with your account.
+In some instances, such as with Free Services, you may be required to indicate your consent to the revised terms in order to continue accessing the Service.
+Unless otherwise specified, any modifications to this Agreement will take effect at the start of Subscription Term following the notice.
+If you do not agree with the revised terms, your sole and exclusive remedy will be not to renew your Subscription. 15.
+Versions
+The authoritative version of Cloudflare’s Self-Serve Subscription Agreement is available at: www.cloudflare.com/_subscription.
+While translations of the Subscription Agreement may be provided in multiple languages for your convenience, the English language version hosted at the link above is binding for all users of the Service. 16.
+General
+This Agreement constitutes the entire and exclusive understanding and agreement between you and Cloudflare regarding your use of and access to the Service.
+You may not assign or transfer this Agreement or your rights hereunder, in whole or in part, by operation of law or otherwise, without our prior written consent.
+We may assign this Agreement at any time without notice.
+The failure to require performance of any provision will not affect our right to require performance at any time thereafter, nor will a waiver of any breach or default of this Agreement or any provision of this Agreement constitute a waiver of any subsequent breach or default or a waiver of the provision itself.
+Use of section headers in this Subscription Agreement is for convenience only and will not have any impact on the interpretation of particular provisions.
+In the event that any part of this Subscription Agreement is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible and the remaining parts will remain in full force and effect.
+Upon termination of this Agreement, any provision that by its nature or express terms should survive will survive such termination or expiration, including, but not limited to, Sections 2.5.1 and Sections 9 through 19. 17.
+Dispute Resolution and Arbitration 17.1 Generally
+In the interest of resolving disputes between you and Cloudflare in the most expedient and cost effective manner, you and Cloudflare agree that any and all disputes arising in connection with this Agreement will be resolved by binding arbitration.
+Arbitration is more informal than a lawsuit in court.
+Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts.
+Arbitrators can award the same damages and relief that a court can award.
+Our agreement to arbitrate disputes includes, but is not limited to all claims arising out of or relating to any aspect of this Agreement, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory, and regardless of whether the claims arise during or after the termination of this Agreement.
+YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND CLOUDFLARE ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION. 17.2 Exceptions
+Notwithstanding Subsection 17.1, we both agree that nothing herein will be deemed to waive, preclude, or otherwise limit either of our right to (i) bring an individual action in small claims court, (ii) pursue enforcement actions through applicable federal, state, or local agencies where such actions are available, (iii) seek injunctive relief in a court of law, or (iv) to file suit in a court of law to address intellectual property infringement claims. 17.3 Arbitrator
+Any arbitration between you and Cloudflare will be governed by the Commercial Arbitration Rules and Mediation Procedures ("AAA Rules") of the American Arbitration Association ("AAA"), as modified by this Agreement, and will be administered by the AAA.
+The AAA Rules and filing forms are available online at www.adr.org, by calling the AAA at 1-800-778-7879. 17.4 Notice.
+Process
+A party who intends to seek arbitration must first send a written notice of the dispute to the other, by certified mail or Federal Express (signature required), or in the event that we do not have a physical address on file for you, by electronic mail ("Notice").
+Cloudflare's address for Notice is: Cloudflare, Inc., 101 Townsend St., San Francisco, CA 94107.
+The Notice must (i) describe the nature and basis of the claim or dispute.
+and (ii) set forth the specific relief sought ("Demand").
+We agree to use good faith efforts to resolve the claim directly, but if we do not reach an agreement to do so within 30 days after the Notice is received, you or Cloudflare may commence an arbitration proceeding. 17.5 Fees
+Any arbitration hearings will take place at a location to be agreed upon in San Francisco, CA provided that if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted (i) solely on the basis of documents submitted to the arbitrator.
+(ii) through a non-appearance based telephonic hearing.
+or (iii) by an in-person hearing as established by the AAA Rules in the county (or parish) of your billing address.
+If the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the AAA Rules.
+In such case, you agree to reimburse Cloudflare for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules.
+Regardless of the manner in which the arbitration is conducted, the arbitrator will issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based.
+The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits. 17.6 No Class Actions
+YOU AND CLOUDFLARE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
+Further, unless both you and Cloudflare agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding. 17.7 Modifications
+In the event that Cloudflare makes any future change to this arbitration provision (other than a change to Cloudflare's address for Notice), you may reject any such change by sending us written notice within 30 days of the change to Cloudflare's address for Notice, in which case your account with Cloudflare will be immediately terminated and this arbitration provision, as in effect immediately prior to the amendments you reject will survive. 17.8 Enforceability
+If Subsection 17.1 is found to be unenforceable or if the entirety of this Section 17 is found to be unenforceable, then the entirety of this Section 17 will be null and void and, in such case, the parties agree that the exclusive jurisdiction and venue described in Section 13 will govern any action arising out of or related to this Agreement. 18.
+Consent to Electronic Communications
+By using the Service, you consent to receiving certain electronic communications from us as further described in our Privacy Policy.
+Please read our Privacy Policy to learn more about your choices regarding our electronic communications practices.
+You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing. 19.
+Contact Information
+The Service is offered by Cloudflare, Inc., located at 101 Townsend St., San Francisco, California 94107.
+You may contact us by sending correspondence to the foregoing address or by emailing us at support@cloudflare.com.
+If you are a California resident, you may have this Agreement mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for this Agreement. 20.
+Publicity
+You agree to allow us to identify you as a customer, to use your website’s name in connection with proposals to prospective customers, to hyperlink to your website’s home page, to display your logo on the Cloudflare web site, and to otherwise refer to you in print or electronic form for marketing or reference purposes.
+If you do not wish for Cloudflare to use your name or logo in any of the preceding ways, please contact support@cloudflare.com. Legal 
+
+
+ Website Terms of Use
+
+
+ Self-Serve Subscription Agreement
+
+
+ Supplemental Terms
+
+
+ Privacy Policy
+
+
+ Privacy Shield
+
+
+ Cookie Policy
+
+
+ Trust &amp.
+Safety
+
+
+ Transparency Report
+
+
+ Domain Registration Agreement
+
+
+ Modern Slavery Act Statement
+ Have Questions? If you have questions about these terms or anything else about Cloudflare, please don't hesitate to contact us:
++1 (650) 319-8930
+
+Cloudflare, Inc.
+101 Townsend St,San Francisco, CA 94107USA
+
+ Sales 
+
+
+ Enterprise Sales 
+ Become a Partner 
+
+ Contact Sales:+1 (888) 99 FLARE &lt;a class="phone" href="tel:+16503198930"&gt;+1 650 319 8930&lt;/a&gt.
+
+
+ Getting Started 
+
+
+ Pricing 
+ Case Studies 
+ White Papers 
+ Webinars 
+ Learning Center 
+
+
+ Community 
+
+
+ Community Hub 
+ Blog 
+ Project Galileo 
+ Athenian Project 
+
+
+ Developers 
+
+
+ Developer Hub 
+ Technical Resources 
+ Cloudflare Workers 
+ Integrations 
+
+
+ Support 
+
+
+ Support 
+ Cloudflare Status 
+ Compliance 
+ GDPR 
+
+
+ Company 
+
+
+ About Cloudflare 
+ Our Team 
+ Press 
+ Analysts 
+ Careers 
+ Internet Summit 
+ Logo 
+ Network Map 
+ © 2019 Cloudflare, Inc.
+Privacy Policy Terms of Use Trust &amp.
+Safety Trademark To provide you with the best possible experience on our website, we may use cookies, as described here.By clicking accept, closing this banner, or continuing to browse our websites, you consent to the use of such cookies. I accept &lt;img src="//bat.bing.com/action/0?ti=5268204&amp;Ver=2" height="0" width="0" style="display:none.
+visibility: hidden;" /&gt.
+  &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-PKQFGQB" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
+This content is currently available in english only.
+We are constantly working to provide more content in english.
+Thank you for your patience.
+Contact Sales: +1 (888) 99 FLARE &lt;a href="tel:+16503198930"&gt;+1 650 319 8930&lt;/a&gt.
+English ▶▼ 
+ English 
+ English (United Kingdom) 
+ English (Canada) 
+ English (Australia) 
+ English (India) 
+ Deutsch 
+ Español (España) 
+ Español (Latinoamérica) 
+ Français 
+ Italiano 
+ 日本語 
+ 한국어 
+ Português 
+ 繁體中文 
+ 简体中文 
+
+
+ Products 
+ Solutions 
+ Resources 
+ Developers 
+ Pricing 
+
+
+ Support 
+ Log In 
+ Sign Up 
+ Under Attack? 
+ Performance &amp.
+Reliability CDN DNS Argo Smart Routing Load Balancing Web Optimizations China Network Video Streaming &amp.
+Delivery Cloudflare Stream Stream Delivery Advanced Security DDoS Protection WAF Bot Management Rate Limiting SSL / TLS DNSSEC Cloudflare Access Cloudflare Spectrum Argo Tunnel Insights Analytics Cloudflare Logs Cloudflare for Developers Cloudflare Workers Cloudflare Workers KV Mobile SDK Domain Registration Cloudflare Registrar Cloudflare Marketplace Cloudflare Apps Cloudflare for Everyone 1.1.1.1 Performance Accelerate Internet Applications Accelerate Mobile Experiences Ensure Application Availability Security Mitigate DDoS Attacks Prevent Customer Data Breaches Stop Malicious Bot Abuse Industries Gaming SaaS eCommerce Publishers Public Sector Public Interest Groups State &amp.
+Local Government Partnerships Partner Program Solutions Partners Services Program Technology Partners Peering Portal Bandwidth Alliance Integrations IBM Cloud WordPress Google Cloud Magento Acquia Rackspace Microsoft Azure Kubernetes WP Engine Develop API Guide Developer Hub Developer Fund Documentation Explore Case Studies Analysts Cloudflare in China Network Map Webinars Product Updates White Papers GDPR Learn DDoS Learning Center CDN Learning Center DNS Learning Center Security Learning Center Performance Learning Center Serverless Learning Center SSL Learning Center Bots Learning Center Connect Blog Contact Sales Community Support Contact +1 (888) 99 FLARE Advanced Cloudflare Configuration Explore Cloudflare API v4 Expose a Secure Local Tunnel Configure with Terraform Documentation Customize Your Site Customize Using Workers Altering Headers Conditional Request Routing A/B Testing Browse All Code Snippets Build Serverless Applications Deploy Using Workers.dev Get Started with Tutorials Clone Examples on GitHub 
+ English 
+
+
+
+ English (United Kingdom) 
+ English (Canada) 
+ English (Australia) 
+ English (India) 
+ Deutsch 
+ Español (España) 
+ Español (Latinoamérica) 
+ Français 
+ Italiano 
+ 日本語 
+ 한국어 
+ Português 
+ 繁體中文 
+ 简体中文 
+
+ Products 
+
+ Performance &amp.
+Reliability CDN DNS Argo Smart Routing Load Balancing Web Optimizations China Network Video Streaming &amp.
+Delivery Cloudflare Stream Stream Delivery Advanced Security DDoS Protection WAF Bot Management Rate Limiting SSL / TLS DNSSEC Cloudflare Access Cloudflare Spectrum Argo Tunnel Insights Analytics Cloudflare Logs Cloudflare for Developers Cloudflare Workers Cloudflare Workers KV Mobile SDK Domain Registration Cloudflare Registrar Cloudflare Marketplace Cloudflare Apps Cloudflare for Everyone 1.1.1.1  Solutions 
+
+ Performance Accelerate Internet Applications Accelerate Mobile Experiences Ensure Application Availability Security Mitigate DDoS Attacks Prevent Customer Data Breaches Stop Malicious Bot Abuse Industries Gaming SaaS eCommerce Publishers Public Sector Public Interest Groups State &amp.
+Local Government Partnerships Partner Program Solutions Partners Services Program Technology Partners Peering Portal Bandwidth Alliance Integrations IBM Cloud WordPress Google Cloud Magento Acquia Rackspace Microsoft Azure Kubernetes WP Engine  Resources 
+
+ Develop API Guide Developer Hub Developer Fund Documentation Explore Case Studies Analysts Cloudflare in China Network Map Webinars Product Updates White Papers GDPR Learn DDoS Learning Center CDN Learning Center DNS Learning Center Security Learning Center Performance Learning Center Serverless Learning Center SSL Learning Center Bots Learning Center Connect Blog Contact Sales Community Support Contact +1 (888) 99 FLARE  Developers 
+
+ Advanced Cloudflare Configuration Explore Cloudflare API v4 Expose a Secure Local Tunnel Configure with Terraform Documentation Customize Your Site Customize Using Workers Altering Headers Conditional Request Routing A/B Testing Browse All Code Snippets Build Serverless Applications Deploy Using Workers.dev Get Started with Tutorials Clone Examples on GitHub  Pricing  Log In Sign Up  Under Attack? 
+ DDoS Protection Hotline Get help 24/7 Full Name * Full name is required.
+Please enter a name.
+Company * Company name required.
+Please enter a company name.
+Work Email * Incorrect email.
+Please try again.
+Phone * Phone number required.
+Please enter a phone number.
+Website Under Attack * Website URL required.
+Please enter a website similar to http://www.example.com.
+Comments (Optional) Yes - I want to stay in touch with Cloudflare to receive valuable content such as product news, blog updates, and more.
+Get Help Your privacy is important to us.
+A server error occured.
+Please refresh and try again. Thank You 
+ Download PDF.
+
+Contact Us
+Help! I'm Under Attack!
+Email Sales
+Support
+1-888-993-5273
+ Cloudflare Website Terms of Use
+Effective May 25, 2018
+
+Welcome to Cloudflare! As used in these Terms of Use, "Cloudflare", "us" or "we" refers to Cloudflare, Inc.
+and its affiliates.
+
+PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS.
+These terms of use (“Terms”), along with Cloudflare’s Privacy Policy, govern your use of the Cloudflare Website.
+For the purposes of these Terms, “Website”, refers to www.cloudflare.com as well as the other websites that Cloudflare operates and that link to these Terms.
+If you do not agree to these Terms, you should not access or use our Website.
+THESE TERMS DO NOT APPLY TO YOUR ACCESS TO AND USE OF THE CLOUDFLARE PRODUCTS AND SERVICES WHICH WE MARKET ON OUR WEBSITE (“SERVICES”).
+Our Services are governed by either our Self-Serve Customer Subscription Agreement, or the Enterprise Subscription Agreement signed between you and Cloudflare (if applicable).
+GENERAL TERMS AND CONDITIONS
+
+Eligibility.
+By agreeing to these Terms, you represent and warrant to us: (i) that you are at least eighteen (18) years of age.
+(ii) that you have not previously been suspended or removed from the Website and (iii) that your use of the Website is in compliance with any and all applicable laws and regulations.
+
+License Grant to Cloudflare.
+By posting or publishing your content, suggestions, information, data, or comments (“Content”) to this Website, you are granting Cloudflare a perpetual, irrevocable, worldwide, non-exclusive, royalty-free right and license (with the right to sublicense) to host, store, transfer, display, perform, reproduce, modify, and distribute your Content, in whole or in part, in any media formats and through any media channels (now known or hereafter developed).
+You will retain ownership of your Content, however, any use of your Content by Cloudflare may be without any compensation paid to you.
+By posting and publishing your Content, you represent and warrant that your Content, does not: (i) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right.
+or (ii) slander, defame, or libel any third-party.
+
+Infringement and Abuse.
+Except as otherwise provided in our Supplemental Terms, Cloudflare is a pass-through network used to improve network performance, not a hosting provider and as such, we have no way of removing improper or infringing material from our users’ websites, third party sites or their hosting services.
+Copyright holders or their agents concerned with material served through Cloudflare’s network should submit a notification of claimed copyright infringement or other abuse through our automated form located at https://www.cloudflare.com/abuse/.
+If you would prefer not to use our complaint submission form, you may mail your complaint to:
+Cloudflare, Inc.Attn: Legal Department101 Townsend St,San Francisco, CA 94107
+Please provide detailed information supporting your complaint as well as an affidavit attesting to its validity.
+Please bear in mind that unless you have requested us not to share your information through the opt-out procedure described on our abuse page, Cloudflare may provide copies of, or information from your notification or complaint to anyone it considers appropriate, including but not limited to the Cloudflare user whom the notification or complaint relates to, the Cloudflare user’s hosting provider, website operator and visitors of Cloudflare’s own website.
+For more information about how Cloudflare handles complaints please visit https://www.cloudflare.com/abuse/.
+
+Termination of Use.
+Discontinuation and Modification of the Website.
+We may at our sole discretion suspend or terminate your access to the Website at any time, with or without notice for any reason or no reason at all.
+We also reserve the right to modify or discontinue the Website at any time (including, without limitation, by limiting or discontinuing certain features of the Website) without notice to you.
+We will have no liability whatsoever on account of any change to the Website or any suspension or termination of your access to or use of the Website.
+
+Third-Party Websites.
+This Website may contain links to third-party websites.
+Such linked websites are not under our control, and we are not responsible for their content.
+
+Ownership.
+Proprietary Rights.
+The visual interfaces, graphics, design, compilation, information, data, computer code (including source code or object code), products, software, services, and all other elements of the Website (the “Materials”) provided by Cloudflare are protected by all relevant intellectual property and proprietary rights and applicable laws.
+All Materials contained in the Website are the property of Cloudflare or our third-party licensors.
+Except as expressly authorized by Cloudflare you may not make use of the Materials.
+Cloudflare reserves all rights to the Materials not granted expressly in this Agreement.
+
+Indemnity.
+You agree that you will be responsible for your use of the Website, and you agree to defend, indemnify, and hold harmless Cloudflare and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (collectively, the "Cloudflare Entities") from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees and costs, arising out of or in any way connected with (i) your access to, use of, or alleged use of the Website.
+(ii) your violation of this Agreement or any representation, warranty, or agreements referenced herein, or any applicable law or regulation.
+(iii) your violation of any third-party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right.
+or (iv) any disputes or issues between you and any third party.
+We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (and without limiting your indemnification obligations with respect to such matter), and in such case, you agree to cooperate with our defense of such claim.
+
+Disclaimers.
+No Warranties.
+THE WEBSITE IS MADE AVAILABLE TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITH THE EXPRESS UNDERSTANDING THAT THE CLOUDFLARE ENTITIES HAVE NO OBLIGATION TO MONITOR, CONTROL, OR VET THE CONTENT OR DATA APPEARING ON THE WEBSITE.
+AS SUCH, YOUR USE OF THE WEBSITE IS AT YOUR OWN DISCRETION AND RISK.
+THE CLOUDFLARE ENTITIES MAKE NO CLAIMS OR PROMISES ABOUT THE QUALITY, ACCURACY, OR RELIABILITY OF THE WEBSITE AND EXPRESSLY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+Limitation of Liability.
+IN NO EVENT WILL THE CLOUDFLARE ENTITIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE WEBSITE OR ANY MATERIALS OR CONTENT ON THE WEBSITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE OR ANY OTHER LEGAL THEORY, WHETHER OR NOT THE CLOUDFLARE ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Governing Law.
+This Agreement will be governed by the laws of the State of California without regard to conflict of law principles.
+To the extent that any lawsuit or court proceeding is permitted hereunder, you and Cloudflare agree to submit to the personal and exclusive jurisdiction of the state and federal courts located within San Francisco County, California for the purpose of litigating all such disputes.
+
+Changes to this Agreement.
+Cloudflare reserves the right to make modifications to these Terms at any time.
+Revised versions of these Terms will be posted to this Website.
+Unless otherwise specified, any modifications to the Terms will take effect the day they are posted to this Website.
+If you do not agree with the revised Terms, your sole and exclusive remedy will be to discontinue your use of the Website.
+
+General.
+These Terms, together with the Privacy Policy and any other agreements expressly incorporated by reference herein, constitute the entire and exclusive understanding and agreement between you and Cloudflare regarding your use of and access to the Website.
+You may not assign or transfer these Terms or your rights hereunder, in whole or in part, by operation of law or otherwise, without our prior written consent.
+We may assign these Terms at any time without notice.
+The failure to require performance of any provision will not affect our right to require performance at any time thereafter, nor will a waiver of any breach or default of these Terms or any provision of these Terms constitute a waiver of any subsequent breach or default or a waiver of the provision itself.
+Use of section headers in these Terms is for convenience only and will not have any impact on the interpretation of particular provisions.
+In the event that any part of these Terms is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible and the remaining parts will remain in full force and effect.
+Upon termination of these Terms, any provision that by its nature or express terms should survive will survive such termination or expiration, including, but not limited to, Section 3 and Sections 7 through 13.
+
+Contact Information.
+This Website is operated by Cloudflare, Inc., located at 101 Townsend St., San Francisco, California 94107.
+You may contact us by sending correspondence to the foregoing address or by emailing us at support@cloudflare.
+If you are a California resident, you may have these Terms mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for these Terms.
+
+ Legal 
+
+
+ Website Terms of Use
+
+
+ Self-Serve Subscription Agreement
+
+
+ Supplemental Terms
+
+
+ Privacy Policy
+
+
+ Privacy Shield
+
+
+ Cookie Policy
+
+
+ Trust &amp.
+Safety
+
+
+ Transparency Report
+
+
+ Domain Registration Agreement
+
+
+ Modern Slavery Act Statement
+ Have Questions? If you have questions about these terms or anything else about Cloudflare, please don't hesitate to contact us:
++1 (650) 319-8930
+
+Cloudflare, Inc.
+101 Townsend St,San Francisco, CA 94107USA
+
+ Sales 
+
+
+ Enterprise Sales 
+ Become a Partner 
+
+ Contact Sales:+1 (888) 99 FLARE &lt;a class="phone" href="tel:+16503198930"&gt;+1 650 319 8930&lt;/a&gt.
+
+
+ Getting Started 
+
+
+ Pricing 
+ Case Studies 
+ White Papers 
+ Webinars 
+ Learning Center 
+
+
+ Community 
+
+
+ Community Hub 
+ Blog 
+ Project Galileo 
+ Athenian Project 
+
+
+ Developers 
+
+
+ Developer Hub 
+ Technical Resources 
+ Cloudflare Workers 
+ Integrations 
+
+
+ Support 
+
+
+ Support 
+ Cloudflare Status 
+ Compliance 
+ GDPR 
+
+
+ Company 
+
+
+ About Cloudflare 
+ Our Team 
+ Press 
+ Analysts 
+ Careers 
+ Internet Summit 
+ Logo 
+ Network Map 
+ © 2019 Cloudflare, Inc.
+Privacy Policy Terms of Use Trust &amp.
+Safety Trademark To provide you with the best possible experience on our website, we may use cookies, as described here.By clicking accept, closing this banner, or continuing to browse our websites, you consent to the use of such cookies. I accept &lt;img src="//bat.bing.com/action/0?ti=5268204&amp;Ver=2" height="0" width="0" style="display:none.
+visibility: hidden;" /&gt.

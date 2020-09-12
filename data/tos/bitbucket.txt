@@ -1,0 +1,1045 @@
+ Cookies &amp.
+Tracking Notice 
+Effective Starting: May 25, 2018
+ Cookies and Other Tracking Technologies: Atlassian and our third party partners, such as our advertising and analytics partners, use various technologies to collect information, such as cookies and web beacons.
+
+What types of technologies do we use?
+
+We use cookies, web beacons and other technologies to improve and customize our products and websites ("the Services") and your experience.
+to allow you to access and use the Services without re-entering your username or password.
+to understand usage of our Services and the interests of our customers.
+to determine whether an email has been opened and acted upon.
+and to present you with advertising relevant to your interests.
+
+How do we use them?
+
+
+
+Where strictly necessary.  These cookies and other technologies are essential in order to enable the Services to provide the feature you have requested, such as remembering you have logged in.
+
+For functionality.  These cookies and similar technologies remember choices you make such as language or search parameters.
+We use these cookies to provide you with an experience more appropriate with your selections and to make your use of the Services more tailored.
+
+For performance and analytics.  These cookies and similar technologies collect information on how users interact with the Services and enable us to improve how the Services operate.
+For example, we use Google Analytics cookies to help us understand how visitors arrive at and browse our products and website to identify areas for improvement such as navigation, user experience, and marketing campaigns. 
+
+Targeting Cookies or Advertising Cookies.  These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
+They remember the websites you have visited and that information is shared with other parties such as advertising technology service providers and advertisers.
+
+Social media cookies. These cookies are used when you share information using a social media sharing button or “like” button on our websites or you link your account or engage with our content on or through a social media site.
+The social network will record that you have done this.
+This information may be linked to targeting/advertising activities.
+
+
+How can you opt-out?
+
+To opt-out of our use of cookies, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit.
+If you do not accept cookies, however, you may not be able to use all aspects of our Services.
+Atlassian and our third party partners also collect information using web beacons (also known as "tracking pixels").
+Many browsers include their own management tools for removing HTML5 local storage objects.
+To manage "flash cookies" please click here. You may be able to opt out of receiving personalized advertisements as described in the Privacy Policy under "Your Choices."
+You will not be able to opt-out of any cookies or other technologies that are “strictly necessary” for the Services.
+
+Updates to this Notice 
+This Cookies &amp.
+Tracking Notice may be updated from time to time.
+ If we make any changes, we will notify you by revising the "effective starting" date at the top of this notice.    Atlassian Cloud Terms of Service 
+Effective starting: November 1, 2018 
+Thanks for using Atlassian’s Cloud Products!  These Atlassian Cloud Terms of Service (these “Terms”) describe your rights and responsibilities as a customer of our Cloud Products.
+As applicable to the specific Cloud Product, if you are being invited or added to a Cloud Product set up by an Atlassian customer, the User Notice governs your access and use of the Cloud Product (and not these Terms).  These Terms are between you and the Atlassian entity that owns or operates the Cloud Product that you are using or accessing listed here (“Atlassian”, “we” or “us”).  “You” means the entity you represent in accepting these Terms or, if that does not apply, you individually.  If you are accepting on behalf of your employer or another entity, you represent and warrant that: (i) you have full legal authority to bind your employer or such entity to these Terms.
+(ii) you have read and understand these Terms.
+and (iii) you agree to these Terms on behalf of the party that you represent.
+If you don’t have the legal authority to bind your employer or the applicable entity please do not click “I agree” (or similar button or checkbox) that is presented to you.  PLEASE NOTE THAT IF YOU SIGN UP FOR A CLOUD PRODUCT USING AN EMAIL ADDRESS FROM YOUR EMPLOYER OR ANOTHER ENTITY, THEN (A) YOU WILL BE DEEMED TO REPRESENT SUCH PARTY, (B) YOUR CLICK TO ACCEPT WILL BIND YOUR EMPLOYER OR THAT ENTITY TO THESE TERMS, AND (C) THE WORD “YOU” IN THESE TERMS WILL REFER TO YOUR EMPLOYER OR THAT ENTITY.
+
+
+
+These Terms are effective as of the date you first click “I agree” (or similar button or checkbox) or use or access a Cloud Product, whichever is earlier (the “Effective Date”).
+These Terms do not have to be signed in order to be binding.
+You indicate your assent to these Terms by clicking “I agree” (or similar button or checkbox) at the time you register for a Cloud Product, create a Cloud Product account, or place an Order. For No-Charge Products, you also indicate your assent to these Terms by accessing or using the applicable No-Charge Product.  
+
+
+
+1.
+What these Terms cover.
+
+
+1.1. Cloud Products.
+These Terms govern our Cloud Products, related Support, and Additional Services.
+These Terms include Our Policies (including our Privacy Policy), the Product-Specific Terms, and your Orders.
+
+1.2. Product-Specific Terms. Some Cloud Products may be subject to additional terms specific to that product as set forth in the Product-Specific Terms.
+By accessing or using a product covered by the Product-Specific Terms, you also agree to the Product-Specific Terms.
+
+1.3. Software Products Not Covered.
+These Terms do not apply to our downloadable software products (currently designated as “Server” and “Data Center” deployments), use of which requires a separate license agreement with us.
+For clarity, however, any client software (e.g., a desktop or mobile application) we provide as part of the Cloud Products themselves remains subject to these Terms.
+
+2.
+How Cloud Products are administered.
+
+
+2.1.
+Administrators.
+Through the Cloud Products, you may be able to specify certain End Users as Administrators, who will have important rights and controls over your use of Cloud Products and End User Accounts.
+This may include making Orders for Cloud Products or enabling Apps (which may incur fees).
+creating, de-provisioning, monitoring or modifying End User Accounts, and setting End User usage permissions.
+and managing access to Your Data by End Users or others.
+Administrators may also take over management of accounts previously registered using an email address belonging to your domain (which become “managed accounts”, as described in our Documentation).
+Without limiting Section 2.4 (Responsibility for End Users), which fully applies to Administrators, you are responsible for whom you allow to become Administrators and any actions they take, including as described above.
+You agree that our responsibilities do not extend to the internal management or administration of the Cloud Products for you.
+
+2.2. Reseller as Administrator.
+If you order Cloud Products through a Reseller, then you are responsible for determining whether the Reseller may serve as an Administrator and for any related rights or obligations in your applicable agreement with the Reseller.  As between you and Atlassian, you are solely responsible for any access by Reseller to your accounts or your other End User Accounts.
+
+2.3. End User Consent. You will provide all required disclosures to and will obtain and maintain all required consents from End Users to allow: (i) Administrators to have the access described in these Terms and the Privacy Policy.
+and (ii) Atlassian’s provision of the Cloud Products to Administrators and End Users.
+You will provide evidence of such consents upon our reasonable request. 
+
+2.4. Responsibility for End Users.
+Our Cloud Products have various user onboarding flows.
+Some Cloud Products require users to be designated by Administrators.
+some allow users to sign up for individual accounts which can become associated with teams or organizations at a later time.
+and some may allow users to invite other users.
+You are responsible for understanding the settings and controls for each Cloud Product you use and for controlling whom you allow to become an End User.
+If payment is required for End Users to use or access a Cloud Product, then we are only required to provide the Cloud Products to those End Users for whom you have paid the applicable fees, and only such End Users are permitted to access and use the Cloud Products.
+Some Cloud Products may allow you to designate different types of End Users (for example, Jira Service Desk distinguishes between “agents” and “customers”), in which case pricing and functionality may vary according to the type of End User.
+You are responsible for compliance with these Terms by all End Users, including for any payment obligations.
+Please note that you are responsible for the activities of all your End Users, including Orders they may place and how End Users use Your Data, even if those End Users are not from your organization or domain.
+We may display our User Notice to End Users at sign up, account creation, Cloud Product registration, or in-product.
+If you use single sign-on (SSO) for identity management of your Cloud Product(s) such that End Users will bypass these screens and our User Notice, you are responsible for displaying our User Notice to End Users and for any damages resulting from your failure to do so.
+
+2.5. Credentials. You must require that all End Users keep their user IDs and passwords for the Cloud Products strictly confidential and do not share such information with any unauthorized person.
+User IDs are granted to individual, named persons and may not be shared.
+You are responsible for any and all actions taken using End User Accounts and passwords, and you agree to immediately notify us of any unauthorized use of which you become aware.
+
+2.6. Age Requirement for End Users. The Cloud Products are not intended for, and should not be used by, anyone under the age of 16.
+You are responsible for ensuring that all End Users are at least 16 years old.
+
+2.7. Domain Name Ownership. Where you are required to specify a domain for the operation of a Cloud Product or certain Cloud Product features, we may verify that you own or control that domain.
+If you do not own or control the domain you specify, then we will have no obligation to provide you with the Cloud Product or Cloud Product features.
+
+3.
+What's included in your Cloud Product subscriptions.
+what are the restrictions.
+
+
+3.1.
+Access to Cloud Products. Subject to these Terms and during the applicable Subscription Term, you may access and use the Cloud Products for your own business purposes or personal use, as applicable, all in accordance with these Terms, the applicable Order and the Documentation.
+This includes the right, as part of your authorized use of the Cloud Products, to download and use the client software associated with the Cloud Products.
+The rights granted to you in this Section 3.1 are non-exclusive, non-sublicensable and non-transferable.
+
+3.2.
+Support. During the Subscription Term, we will provide Support for the Cloud Products in accordance with the Support Policy, Enterprise Support and Services Policy (to the extent applicable), and the applicable Order.
+
+3.3.
+Restrictions. Except as otherwise expressly permitted in these Terms, you will not: (a) reproduce, modify, adapt or create derivative works of the Cloud Products.
+(b) rent, lease, distribute, sell, sublicense, transfer or provide access to the Cloud Products to a third party.
+(c) use the Cloud Products for the benefit of any third party.
+(d) incorporate any Cloud Products into a product or service you provide to a third party.
+(e) interfere with or otherwise circumvent mechanisms in the Cloud Products intended to limit your use.
+(f) reverse engineer, disassemble, decompile, translate or otherwise seek to obtain or derive the source code, underlying ideas, algorithms, file formats or non-public APIs to any Cloud Products, except to the extent expressly permitted by applicable law (and then only upon advance notice to us).
+(g) remove or obscure any proprietary or other notices contained in any Cloud Product.
+(h) use the Cloud Products for competitive analysis or to build competitive products.
+(i) publicly disseminate information regarding the performance of the Cloud Products.
+or (j) encourage or assist any third party to do any of the foregoing.
+
+4.
+Our security and data privacy policies.
+
+
+4.1. Security.
+We implement security procedures designed to help protect Your Data from security attacks.
+
+4.2. Privacy.
+We collect certain data and information about you and your End Users in connection with your and your End Users’ use of the Cloud Products and otherwise in connection with these Terms.
+We collect and use all such data and information in accordance with our Privacy Policy, which you acknowledge.
+
+4.3. Improving Cloud Products.
+We are always striving to improve the Cloud Products.
+In order to do so, we use analytics techniques to better understand how our Cloud Products are being used.
+For more information on these techniques and the type of data collected, please read our Privacy Policy.
+
+4.4. Subpoenas. Nothing in these Terms prevents us from disclosing Your Data to the extent required by law, subpoenas or court orders, but we will use commercially reasonable efforts to notify you where permitted to do so.
+Atlassian strives to balance your privacy rights with other legal requirements.
+to read more about Atlassian’s policies and guidelines for law enforcement officials requesting access to customer data, please see our Guidelines for Law Enforcement Requests.
+
+4.5. GDPR Data Processing Addendum. If you are in the EEAU, Switzerland, or are otherwise subject to the territorial scope of Regulation (EU) 2016/679 (General Data Protection Regulation) or any successor legislation, you can request and complete the Atlassian Data Processing Addendum here.
+
+5.
+Terms that apply to Your Data.
+
+
+5.1.
+Using Your Data to provide Cloud Products to You.
+You retain all right, title and interest in and to Your Data in the form submitted to the Cloud Products.
+Subject to these Terms, and solely to the extent necessary to provide the Cloud Products to you, you grant us a worldwide, limited term license to access, use, process, copy, distribute, perform, export, and display Your Data.
+Solely to the extent that reformatting Your Data for display in a Cloud Product constitutes a modification or derivative work, the foregoing license also includes the right to make modifications and derivative works.
+We may also access your accounts, End User Accounts, and your Cloud Products with End User permission in order to respond to your support requests.
+
+5.2.
+Your Data Compliance Obligations. You and your use of Cloud Products (including use by your End Users) must comply at all times with these Terms, the Acceptable Use Policy and all Laws.
+You represent and warrant that: (i) you have obtained all necessary rights, releases and permissions to submit all Your Data to the Cloud Products and to grant the rights granted to us in these Terms and (ii) Your Data and its submission and use as you authorize in these Terms will not violate (1) any Laws, (2) any third-party intellectual property, privacy, publicity or other rights, or (3) any of your or third-party policies or terms governing Your Data.
+Other than our express obligations under Section 4 (Our security and data privacy policies), we assume no responsibility or liability for Your Data, and you are solely responsible for Your Data and the consequences of submitting and using it with the Cloud Products.
+
+5.3.
+No Sensitive Data. You will not submit to the Cloud Products (or use the Cloud Products to collect) any Sensitive Data.
+You also acknowledge that we are not acting as your Business Associate or subcontractor (as such terms are defined and used in HIPAA).
+The Cloud Products are neither HIPAA nor PCI DSS compliant.
+Notwithstanding any other provision to the contrary, we have no liability under these Terms for Sensitive Data.
+
+5.4.
+Your Indemnity. You will defend, indemnify and hold harmless us (and our Affiliates, officers, directors, agents and employees) from and against any and all claims, costs, damages, losses, liabilities and expenses (including reasonable attorneys’ fees and costs) resulting from any claim arising from or related to (i) your breach of Section 2.3 (End User Consent) or any claims or disputes brought by your End Users arising out of their use of Cloud Products, (ii) your breach (or alleged breach) of Sections 5.2 (Your Data Compliance Obligations) or 5.3 (No Sensitive Data).
+or (iii) Your Materials.
+This indemnification obligation is subject to you receiving (a) prompt written notice of such claim (but in any event notice in sufficient time for you to respond without prejudice).
+(b) the exclusive right to control and direct the investigation, defense or settlement of such claim and (c) all reasonable necessary cooperation by us at your expense.
+
+5.5.
+Removals and Suspension. We have no obligation to monitor any content uploaded to the Cloud Products.
+Nonetheless, if we deem such action necessary based on your violation of these Terms, including Our Policies, or in response to takedown requests that we receive following our guidelines for Reporting Copyright and Trademark Violations, we may (1) remove Your Data from the Cloud Products or (2) suspend your access to the Cloud Products.
+We will use reasonable efforts to provide you with advance notice of removals and suspensions when practicable, but if we determine that your actions endanger the operation of the Cloud Product or other users, we may suspend your access or remove Your Data immediately without notice.
+We have no liability to you for removing or deleting Your Data from or suspending your access to any Cloud Products as described in this Section 5.5.
+
+6.
+Using third-party products with the Cloud Products.
+
+
+6.1. Third-Party Products.
+You (including your End Users) may choose to use or procure other third party products or services in connection with the Cloud Products, including Third Party Apps (see Section 6.2 (Marketplace Apps)) or implementation, customization, training or other services.
+Your receipt or use of any third party products or services (and the third parties’ use of any of Your Data) is subject to a separate agreement between you and the third party provider.
+If you enable or use third party products or services with the Cloud Products (including Third Party Apps as referenced in Section 6.2 (Marketplace Apps)), we will allow the third party providers to access or use Your Data as required for the interoperation of their products and services with the Cloud Products.
+This may include transmitting, transferring, modifying or deleting Your Data, or storing Your Data on systems belonging to the third party providers or other third parties.
+Any third party provider’s use of Your Data is subject to the applicable agreement between you and such third party provider.
+We are not responsible for any access to or use of Your Data by third party providers or their products or services, or for the security or privacy practices of any third party provider or its products or services.
+You are solely responsible for your decision to permit any third party provider or third party product or service to use Your Data.
+It is your responsibility to carefully review the agreement between you and the third party provider, as provided by the applicable third party provider.
+WE DISCLAIM ALL LIABILITY AND RESPONSIBILITY FOR ANY THIRD PARTY PRODUCTS OR SERVICES (WHETHER SUPPORT, AVAILABILITY, SECURITY OR OTHERWISE) OR FOR THE ACTS OR OMISSIONS OF ANY THIRD PARTY PROVIDERS OR VENDORS. 
+
+
+6.2. Marketplace Apps.
+As further described in the Atlassian Marketplace Terms of Use, the Atlassian Marketplace lists a variety of Apps that may be used with Cloud Products, including both Atlassian Apps and Third Party Apps.
+Atlassian Apps for Cloud Products are considered “Cloud Products” under these Terms (unless we specify otherwise through the Atlassian Marketplace).
+Third Party Apps are not Cloud Products and remain subject to their own applicable Vendor Terms.
+We may enable interoperation of the Cloud Products with Third Party Apps as set forth in Section 6.1 (Third-Party Products).
+The terms “Apps”, “Atlassian Apps”, “Third Party Apps”, “Vendor” and “Vendor Terms” are defined in the Atlassian Marketplace Terms of Use, which is a separate agreement governing use of the Atlassian Marketplace.
+
+7.
+Using Atlassian developer assets. Access to any of our APIs, SDKs or other Atlassian developer assets is subject to the Atlassian Developer Terms, which is a separate agreement.
+
+8.
+Additional Services.
+
+
+8.1.
+Additional Services.
+Subject to these Terms, you may purchase Additional Services that we will provide to you pursuant to the applicable Order.
+Additional Services may be subject to additional policies and terms as specified by us, including the Enterprise Support and Services Policy.
+
+8.2.
+Our Deliverables. We will retain all right, title and interest in and to Our Deliverables.
+You may use any of Our Deliverables provided to you only in connection with the Cloud Products, subject to the same usage rights and restrictions as for the Cloud Products.
+For clarity, Our Deliverables are not considered Cloud Products, and any Cloud Products are not considered to be Our Deliverables.
+
+8.3.
+Your Materials. You agree to provide us with reasonable access to Your Materials as reasonably necessary for our provision of Additional Services.
+If you do not provide us with timely access to Your Materials, our performance of Additional Services will be excused until you do so.
+You retain your rights in Your Materials, subject to our ownership of any Cloud Products, any of Our Deliverables or any of Our Technology underlying Your Materials.
+We will use Your Materials solely for purposes of performing the Additional Services.
+You represent and warrant that you have all necessary rights in Your Materials to provide them to us for such purposes.
+
+8.4.
+Training Not Covered. Your purchase, and our provision, of Training is subject to our Training Terms and Policies, which is a separate agreement.
+
+9.
+Billing, renewals, and payment.
+
+
+9.1.
+Monthly and Annual Plans.
+Except for No-Charge Products, all Cloud Products are offered either on a monthly subscription basis or an annual subscription basis.
+
+9.2.
+Renewals. Except as otherwise specified in your Order, unless either party cancels your subscription prior to expiration of the current Subscription Term, your subscription will automatically renew for another Subscription Term of a period equal to your initial Subscription Term.
+You will provide any notice of non-renewal through the means we designate, which may include account settings in the Cloud Products or contacting our support team.
+Cancelling your subscription means that you will not be charged for the next billing cycle, but you will not receive any refunds or credits for amounts that have already been charged.
+All renewals are subject to the applicable Cloud Product continuing to be offered and will be charged at the then-current rates.
+
+9.3.
+Adding Users. You may add users, increase storage limits, or otherwise increase your use of Cloud Products by placing a new Order or modifying an existing Order.
+Unless otherwise specified in the applicable Order, we will charge you for any increased use at our then-current rates, prorated for the remainder of the then-current Subscription Term.
+
+9.4.
+Payment. You will pay all fees in accordance with each Order, by the due dates and in the currency specified in the Order.
+If a PO number is required in order for an invoice to be paid, then you must provide such PO number to Atlassian by emailing the PO number to accountsreceivable@atlassian.com.
+For Additional Services provided at any non-Atlassian location, unless otherwise specified in your Order, you will reimburse us for our pre-approved travel, lodging and meal expenses, which we may charge as incurred.
+Other than as expressly set forth in Section 10 (Our return policy), 18.3 (Warranty Remedy), Section 20 (IP Indemnification) or Section 24 (Changes to these Terms), all amounts are non-refundable, non-cancelable and non-creditable.
+You agree that we may bill your credit card or other payment method for renewals, additional users, overages to set limits or scopes of use, expenses, and unpaid fees, as applicable.
+
+9.5.
+Delivery. We will deliver the login instructions for Cloud Products to your account or through other reasonable means no later than when we have received payment of the applicable fees.
+You are responsible for accessing your account to determine that we have received payment and that your Order has been processed.
+All deliveries under these Terms will be electronic.
+
+10.
+Our return policy. As part of our commitment to customer satisfaction and without limiting the Performance Warranty in Section 18 (Warranties and Disclaimer), you may terminate your initial Order of a Cloud Product under these Terms, for no reason or any reason, by providing notice of termination to us no later than thirty (30) days after the Order date for such Cloud Product.
+In the event you terminate your initial Order under this Section 10, at your request (which may be made through your account with us), we will refund you the amount paid under such Order.
+This termination and refund right applies only to your initial Order of the Cloud Product and only if you exercise your termination right within the period specified above, and does not apply to Additional Services.
+You understand that we may change this practice in the future in accordance with Section 24 (Changes to these Terms).
+
+11.
+Taxes not included.
+
+
+11.1.
+Taxes.
+Your fees under these Terms exclude any taxes or duties payable in respect of the Cloud Products in the jurisdiction where the payment is either made or received.
+To the extent that any such taxes or duties are payable by us, you must pay to us the amount of such taxes or duties in addition to any fees owed under these Terms.
+Notwithstanding the foregoing, if you have obtained an exemption from relevant taxes or duties as of the time such taxes or duties are levied or assessed, you may provide us with such exemption information, and we will use reasonable efforts to provide you with invoicing documents designed to enable you to obtain a refund or credit from the relevant revenue authority, if such a refund or credit is available.
+
+11.2.
+Withholding Taxes. You will pay all fees net of any applicable withholding taxes.
+You and we will work together to avoid any withholding tax if exemptions, or a reduced treaty withholding rate, are available.
+If we qualify for a tax exemption, or a reduced treaty withholding rate, we will provide you with reasonable documentary proof.
+You will provide us reasonable evidence that you have paid the relevant authority for the sum withheld or deducted.
+
+12.
+If you purchased through a Reseller.
+ If you make any purchases through an authorized partner or reseller of Atlassian (“Reseller”):
+(a) Instead of paying us, you will pay the applicable amounts to the Reseller, as agreed between you and the Reseller.
+We may suspend or terminate your rights to use Cloud Products if we do not receive the corresponding payment from the Reseller.
+(b) Your order details (e.g., the Cloud Products you are entitled to use, the number of End Users, the Subscription Term, etc.) will be as stated in the Order placed with us by the Reseller on your behalf, and Reseller is responsible for the accuracy of any such Order as communicated to us.
+(c) If you are entitled to a refund under these Terms, then unless we otherwise specify, we will refund any applicable fees to the Reseller and the Reseller will be solely responsible for refunding the appropriate amounts to you.
+(d) Resellers are not authorized to modify these Terms or make any promises or commitments on our behalf, and we are not bound by any obligations to you other than as set forth in these Terms.
+
+13.
+No contingencies on other products of future functionality. You acknowledge that the Cloud Products and Additional Services referenced in an Order are being purchased separately from any of our other products or services.
+Payment obligations for any products or services are not contingent on the purchase or use of any of our other products (and for clarity, any purchases of Cloud Products and Additional Services are separate and not contingent on each other, even if listed on the same Order).
+You agree that your purchases are not contingent on the delivery of any future functionality or features (including future availability of any Cloud Products beyond the current Subscription Term), or dependent on any oral or written public comments we make regarding future functionality or features.
+
+14.
+Evaluations, trials, and betas. We may offer certain Cloud Products (including some Atlassian Apps) to you at no charge, including free accounts, trial use and Beta Versions as defined below (collectively, “No-Charge Products”).
+Your use of No-Charge Products is subject to any additional terms that we specify and is only permitted during the Subscription Term we designate (or, if not designated, until terminated in accordance with these Terms).
+Except as otherwise set forth in this Section 14, the terms and conditions of these Terms governing Cloud Products, including Section 3.3 (Restrictions), fully apply to No-Charge Products.
+We may modify or terminate your right to use No-Charge Products at any time and for any reason in our sole discretion, without liability to you.
+You understand that any pre-release and beta Cloud Products, and any pre-release and beta features within generally available Cloud Products, that we make available (collectively, “Beta Versions”) are still under development, may be inoperable or incomplete and are likely to contain more errors and bugs than generally available Cloud Products.
+We make no promises that any Beta Versions will ever be made generally available.
+In some circumstances, we may charge a fee in order to allow you to access Beta Versions, but the Beta Versions will still remain subject to this Section 14.
+All information regarding the characteristics, features or performance of any No-Charge Products (including Beta Versions) constitutes our Confidential Information.
+To the maximum extent permitted by applicable law, we disclaim all obligations or liabilities with respect to No-Charge Products, including any Support, warranty and indemnity obligations.
+NOTWITHSTANDING ANYTHING ELSE IN THESE TERMS, OUR MAXIMUM AGGREGATE LIABILITY TO YOU IN RESPECT OF NO-CHARGE PRODUCTS WILL BE US$100.
+
+15.
+IP Rights in the Cloud Products and Feedback. Cloud Products are made available on a limited access basis, and no ownership right is conveyed to you, irrespective of the use of terms such as “purchase” or “sale”.
+We and our licensors have and retain all right, title and interest, including all intellectual property rights, in and to Our Technology (including the Cloud Products).
+From time to time, you may choose to submit Feedback to us.
+We may in connection with any of our products or services freely use, copy, disclose, license, distribute and exploit any Feedback in any manner without any obligation, royalty or restriction based on intellectual property rights or otherwise.
+No Feedback will be considered your Confidential Information, and nothing in these Terms limits our right to independently use, develop, evaluate, or market products or services, whether incorporating Feedback or otherwise.
+
+16.
+Confidentiality. Except as otherwise set forth in these Terms, each party agrees that all code, inventions, know-how and business, technical and financial information disclosed to such party (“Receiving Party”) by the disclosing party ("Disclosing Party") constitute the confidential property of the Disclosing Party (“Confidential Information”), provided that it is identified as confidential at the time of disclosure or should be reasonably known by the Receiving Party to be confidential or proprietary due to the nature of the information disclosed and the circumstances surrounding the disclosure.
+Any of Our Technology and any performance information relating to the Cloud Products will be deemed our Confidential Information without any marking or further designation.
+Except as expressly authorized herein, the Receiving Party will (1) hold in confidence and not disclose any Confidential Information to third parties and (2) not use Confidential Information for any purpose other than fulfilling its obligations and exercising its rights under these Terms.
+The Receiving Party may disclose Confidential Information to its employees, agents, contractors and other representatives having a legitimate need to know, provided that they are bound to confidentiality obligations no less protective of the Disclosing Party than this Section 16 and that the Receiving Party remains responsible for compliance by them with the terms of this Section 16.
+The Receiving Party's confidentiality obligations will not apply to information which the Receiving Party can document: (i) was rightfully in its possession or known to it prior to receipt of the Confidential Information.
+(ii) is or has become public knowledge through no fault of the Receiving Party.
+(iii) is rightfully obtained by the Receiving Party from a third party without breach of any confidentiality obligation.
+or (iv) is independently developed by employees of the Receiving Party who had no access to such information.
+The Receiving Party may also disclose Confidential Information if so required pursuant to a regulation, law or court order (but only to the minimum extent required to comply with such regulation or order and with advance notice to the Disclosing Party).
+The Receiving Party acknowledges that disclosure of Confidential Information would cause substantial harm for which damages alone would not be a sufficient remedy, and therefore that upon any such disclosure by the Receiving Party the Disclosing Party will be entitled to appropriate equitable relief in addition to whatever other remedies it might have at law.
+
+17.
+Term and Termination.
+
+
+17.1.
+Term.
+These Terms are effective as of the Effective Date and expire on the date of expiration or termination of all Subscription Terms.
+
+17.2.
+Termination for Cause.
+Either party may terminate these Terms (including all related Orders) if the other party (a) fails to cure any material breach of these Terms within thirty (30) days after notice.
+(b) ceases operation without a successor.
+or (c) seeks protection under any bankruptcy, receivership, trust deed, creditors’ arrangement, composition or comparable proceeding, or if any such proceeding is instituted against that party (and not dismissed within sixty (60) days thereafter).
+
+17.3.
+Termination for Convenience. You may choose to stop using the Cloud Products and terminate these Terms (including all Orders) at any time for any reason upon written notice to us, but, unless you are exercising your right to terminate early pursuant to Section 10 (Our return policy), upon any such termination (i) you will not be entitled to a refund of any pre-paid fees and (ii) if you have not already paid all applicable fees for the then-current Subscription Term or related services period (as applicable), any such fees that are outstanding will become immediately due and payable.
+
+17.4.
+Effects of Termination. Upon any expiration or termination of these Terms, you must cease using all Cloud Products and delete (or at our request, return) all Confidential Information or other materials of ours in your possession, including on any third-party systems operated on your behalf.
+You will certify such deletion upon our request.
+You will not have access to Your Data (and we may delete all of Your Data unless legally prohibited) after expiration or termination of these Terms (or its applicable Subscription Term), so you should make sure to export Your Data using the functionality of the Cloud Products during the applicable Subscription Term.
+If you terminate these Terms in accordance with Section 17.2 (Termination for Cause), we will refund you any prepaid fees covering the remainder of the then-current Subscription Term after the effective date of termination.
+If we terminate these Terms in accordance with Section 17.2 (Termination for Cause), you will pay any unpaid fees covering the remainder of the then-current Subscription Term after the effective date of termination.
+In no event will termination relieve you of your obligation to pay any fees payable to us for the period prior to the effective date of termination.
+Except where an exclusive remedy may be specified in these Terms, the exercise by either party of any remedy, including termination, will be without prejudice to any other remedies it may have under these Terms, by law or otherwise.
+
+17.5.
+Survival. The following provisions will survive any termination or expiration of these Terms: Sections 3.3 (Restrictions), 5.4 (Your Indemnity), 6.1 (Third-Party Products), 9.4 (Payment), 11 (Taxes not included), 14 (Evaluations, trials, and betas) (disclaimers and use restrictions only), 15 (IP Rights in the Cloud Products and Feedback), 16 (Confidentiality), 17 (Term and Termination), 18.4 (Warranty Disclaimer), 19 (Limitations of Liability), 20 (IP Indemnification) (but solely with respect to claims arising from your use of Cloud Products during the Subscription Term), 22 (Dispute Resolution) and 26 (General Provisions).
+
+18 Warranties and Disclaimer.
+
+
+18.1. Mutual Warranties.
+Each party represents and warrants that it has the legal power and authority to enter into these Terms.
+
+18.2. Our Warranties.
+We warrant, for your benefit only, that we use commercially reasonable efforts to prevent introduction of viruses, Trojan horses or similar harmful materials into the Cloud Products (but we are not responsible for harmful materials submitted by you or End Users) (the “Performance Warranty”).
+
+18.3.
+Warranty Remedy. We will use commercially reasonable efforts, at no charge to you, to correct reported non-conformities with the Performance Warranty.
+If we determine corrections to be impracticable, either party may terminate the applicable Subscription Term.
+In this case, you will receive a refund of any fees you have pre-paid for use of the Cloud Product for the terminated portion of the applicable Subscription Term.
+The Performance Warranty will not apply: (i) unless you make a claim within thirty (30) days of the date on which you first noticed the non-conformity, (ii) if the non-conformity was caused by misuse, unauthorized modifications or third-party products, software, services or equipment or (iii) to No-Charge Products.
+Our sole liability, and your sole and exclusive remedy, for any breach of the Performance Warranty are set forth in this Section 18.
+
+18.4.
+WARRANTY DISCLAIMER. EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 18, ALL CLOUD PRODUCTS, SUPPORT AND ADDITIONAL SERVICES ARE PROVIDED “AS IS,” AND WE AND OUR SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES AND REPRESENTATIONS OF ANY KIND, INCLUDING ANY WARRANTY OF NON-INFRINGEMENT, TITLE, FITNESS FOR A PARTICULAR PURPOSE, FUNCTIONALITY OR MERCHANTABILITY, WHETHER EXPRESS, IMPLIED OR STATUTORY.
+WITHOUT LIMITING OUR EXPRESS OBLIGATIONS IN THESE TERMS, WE DO NOT WARRANT THAT YOUR USE OF THE CLOUD PRODUCTS WILL BE UNINTERRUPTED OR ERROR-FREE, THAT WE WILL REVIEW YOUR DATA FOR ACCURACY OR THAT WE WILL PRESERVE OR MAINTAIN YOUR DATA WITHOUT LOSS.
+YOU UNDERSTAND THAT USE OF THE CLOUD PRODUCTS NECESSARILY INVOLVES TRANSMISSION OF YOUR DATA OVER NETWORKS THAT WE DO NOT OWN, OPERATE OR CONTROL, AND WE ARE NOT RESPONSIBLE FOR ANY OF YOUR DATA LOST, ALTERED, INTERCEPTED OR STORED ACROSS SUCH NETWORKS.
+WE CANNOT GUARANTEE THAT OUR SECURITY PROCEDURES WILL BE ERROR-FREE, THAT TRANSMISSIONS OF YOUR DATA WILL ALWAYS BE SECURE OR THAT UNAUTHORIZED THIRD PARTIES WILL NEVER BE ABLE TO DEFEAT OUR SECURITY MEASURES OR THOSE OF OUR THIRD PARTY SERVICE PROVIDERS.
+WE WILL NOT BE LIABLE FOR DELAYS, INTERRUPTIONS, SERVICE FAILURES OR OTHER PROBLEMS INHERENT IN USE OF THE INTERNET AND ELECTRONIC COMMUNICATIONS OR OTHER SYSTEMS OUTSIDE OUR REASONABLE CONTROL.
+YOU MAY HAVE OTHER STATUTORY RIGHTS, BUT THE DURATION OF STATUTORILY REQUIRED WARRANTIES, IF ANY, WILL BE LIMITED TO THE SHORTEST PERIOD PERMITTED BY LAW.
+
+19.
+Limitation of Liability.
+
+
+19.1.
+Consequential Damages Waiver.
+EXCEPT FOR EXCLUDED CLAIMS (AS DEFINED BELOW), NEITHER PARTY (NOR ITS SUPPLIERS) WILL HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THESE TERMS FOR ANY LOSS OF USE, LOST OR INACCURATE DATA, LOST PROFITS, FAILURE OF SECURITY MECHANISMS, INTERRUPTION OF BUSINESS, COSTS OF DELAY, OR ANY INDIRECT, SPECIAL, INCIDENTAL, RELIANCE OR CONSEQUENTIAL DAMAGES OF ANY KIND, EVEN IF INFORMED OF THE POSSIBILITY OF SUCH DAMAGES IN ADVANCE. 
+
+19.2.
+Liability Cap. EXCEPT FOR EXCLUDED CLAIMS, EACH PARTY’S AND ITS SUPPLIERS’ AGGREGATE LIABILITY TO THE OTHER ARISING OUT OF OR RELATED TO THESE TERMS WILL NOT EXCEED THE AMOUNT ACTUALLY PAID OR PAYABLE BY YOU TO US UNDER THESE TERMS IN THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE CLAIM.
+
+19.3.
+Excluded Claims. “Excluded Claims” means (1) amounts owed by you under any Orders, (2) either party’s express indemnification obligations in these Terms, and (3) your breach of Section 3.3 (Restrictions) or of Section 2 (Combining the Products with Open Source Software) of Third Party Code in Atlassian Products.
+
+19.4.
+Nature of Claims and Failure of Essential Purpose. The parties agree that the waivers and limitations specified in this Section 19 apply regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise and will survive and apply even if any limited remedy specified in these Terms is found to have failed of its essential purpose.
+
+20.
+IP Indemnification.
+ We will defend you against any claim brought against you by a third party alleging that the Cloud Products, when used as authorized under these Terms, infringe a patent right granted in the United States, Australia or a member nation of the European Union or a copyright registered in such a jurisdiction (a “Claim”), and we will indemnify you and hold you harmless against any damages and costs finally awarded on the Claim by a court of competent jurisdiction or agreed to via settlement executed by us (including reasonable attorneys’ fees), provided that we have received from you: (a) prompt written notice of the Claim (but in any event notice in sufficient time for us to respond without prejudice).
+(b) reasonable assistance in the defense and investigation of the Claim, including providing us a copy of the Claim, all relevant evidence in your possession, custody, or control, and cooperation with evidentiary discovery, litigation, and trial, including making witnesses within your employ or control available for testimony.
+and (c) the exclusive right to control and direct the investigation, defense, and settlement (if applicable) of the Claim.
+If your use of the Cloud Products is (or in your opinion is likely to be) enjoined, whether by court order or by settlement, or if we determine such actions are reasonably necessary to avoid material liability, we may, at our option and in our discretion: (i) procure the right for your continued use of the Cloud Product in accordance with these Terms.
+(ii) substitute a substantially functionally similar Cloud Product.
+or (iii) terminate your right to continue using the Cloud Product and refund any prepaid amounts for the terminated portion of the Subscription Term.
+Our indemnification obligations above do not apply: (1) if the total aggregate fees we receive with respect to your subscription to a Cloud Product in the twelve (12) month period immediately preceding the Claim is less than US$50,000.
+(2) if the Cloud Product is modified by any party other than us, but solely to the extent the alleged infringement is caused by such modification.
+(3) if the Cloud Product is used in combination with any non-Atlassian product, software, service or equipment, but solely to the extent the alleged infringement is caused by such combination.
+(4) to unauthorized use of Cloud Products.
+(5) to any Claim arising as a result of (y) Your Data or circumstances covered by your indemnification obligations in Section 5.4 (Your Indemnity) or (z) any third-party deliverables or components contained with the Cloud Products or (6) if you settle or make any admissions with respect to a Claim without our prior written consent.
+THIS SECTION 20 (IP INDEMNIFICATION) STATES OUR SOLE LIABILITY AND YOUR EXCLUSIVE REMEDY FOR ANY INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS IN CONNECTION WITH ANY CLOUD PRODUCT OR OTHER ITEMS WE PROVIDE UNDER THESE TERMS.
+
+21. 
+Publicity Rights. We may identify you as an Atlassian customer in our promotional materials.
+We will promptly stop doing so upon your request sent to sales@atlassian.com. 
+
+22.
+Dispute Resolution. 
+
+
+22.1. 
+Informal Resolution. In the event of any controversy or claim arising out of or relating to these Terms, the parties will consult and negotiate with each other and, recognizing their mutual interests, attempt to reach a solution satisfactory to both parties.
+If the parties do not reach settlement within a period of sixty (60) days, either party may pursue relief as may be available under these Terms pursuant to Section 22.2 (Governing Law.
+Jurisdiction).
+All negotiations pursuant to this Section 22.1 will be confidential and treated as compromise and settlement negotiations for purposes of all rules and codes of evidence of applicable legislation and jurisdictions.
+
+22.2. 
+Governing Law.
+Jurisdiction. These Terms will be governed by and construed in accordance with the applicable laws of the State of California, USA, without giving effect to the principles of that State relating to conflicts of laws.
+Each party irrevocably agrees that any legal action, suit or proceeding arising out of or related to these Terms must be brought solely and exclusively in, and will be subject to the service of process and other applicable procedural rules of, the State or Federal court in San Francisco, California, USA, and each party irrevocably submits to the sole and exclusive personal jurisdiction of the courts in San Francisco, California, USA, generally and unconditionally, with respect to any action, suit or proceeding brought by it or against it by the other party.
+In any action or proceeding to enforce a party’s rights under these Terms, the prevailing party will be entitled to recover its reasonable costs and attorneys’ fees.
+
+22.3. 
+Injunctive Relief.
+Enforcement. Notwithstanding the provisions of Section 22.1 (Informal Resolution) and 22.2 (Governing Law.
+Jurisdiction), nothing in these Terms will prevent us from seeking injunctive relief with respect to a violation of intellectual property rights, confidentiality obligations or enforcement or recognition of any award or order in any appropriate jurisdiction.
+
+22.4. Exclusion of UN Convention and UCITA. The terms of the United Nations Convention on Contracts for the Sale of Goods do not apply to these Terms.
+The Uniform Computer Information Transactions Act (UCITA) will not apply to these Terms regardless of when or where adopted.
+
+23.
+Export Restrictions. The Cloud Products are subject to export restrictions by the United States government and may be subject to import restrictions by certain foreign governments, and you agree to comply with all applicable export and import laws and regulations in your access to, use of, and download of the Cloud Products (or any part thereof).
+You shall not (and shall not allow any third-party to) remove or export from the United States or allow the export or re-export of any part of the Cloud Products or any direct product thereof: (a) into (or to a national or resident of) any embargoed or terrorist-supporting country.
+(b) to anyone on the U.S.
+Commerce Department’s Denied Persons, Entity, or Unverified Lists or the U.S.
+Treasury Department’s list of Specially Designated Nationals and Consolidated Sanctions list (collectively, “Prohibited Persons”).
+(c) to any country to which such export or re-export is restricted or prohibited, or as to which the United States government or any agency thereof requires an export license or other governmental approval at the time of export or re-export without first obtaining such license or approval.
+or (d) otherwise in violation of any export or import restrictions, laws or regulations of any United States or foreign agency or authority.
+You represent and warrant that (i) you are not located in, under the control of, or a national or resident of any such prohibited country and (ii) none of Your Data is controlled under the U.S.
+International Traffic in Arms Regulations or similar Laws in other jurisdictions.
+You also certify that you are not a Prohibited Person nor owned, controlled by, or acting on behalf of a Prohibited Person.
+You agree not to use or provide the Cloud Products for any prohibited end use, including to support any nuclear, chemical, or biological weapons proliferation, or missile technology, without the prior permission of the United States government.
+
+24.
+Changes to these Terms. We may modify the terms and conditions of these Terms (including Our Policies) from time to time, with notice to you in accordance with Section 26.1 (Notices) or by posting the modified Terms on our website.
+Together with notice, we will specify the effective date of the modifications.
+
+24.1.
+
+No-Charge Products
+. You must accept the modifications to continue using the No-Charge Products.
+If you object to the modifications, your exclusive remedy is to cease using the No-Charge Products.
+
+24.2.
+Paid Subscriptions.
+Except as otherwise indicated below, modifications to these Terms will take effect at the next renewal of your Subscription Term and will automatically apply as of the renewal date unless you elect not to renew pursuant to Section 9.2 (Renewals).
+Notwithstanding the foregoing, in some cases (e.g., to address compliance with Laws, or as necessary for new features) we may specify that such modifications become effective during your then-current Subscription Term.
+If the effective date of such modifications is during your then-current Subscription Term and you object to the modifications, then (as your exclusive remedy) you may terminate your affected Orders upon notice to us, and we will refund you any fees you have pre-paid for use of the affected Cloud Products for the terminated portion of the applicable Subscription Term.
+To exercise this right, you must provide us with notice of your objection and termination within thirty (30) days of us providing notice of the modifications.
+For the avoidance of doubt, any Order is subject to the version of these Terms in effect at the time of the Order.
+
+24.3.
+Our Policies.
+We may modify Our Policies to take effect during your then-current Subscription Term in order to respond to changes in our products, our business, or Laws.
+In this case, unless required by Laws, we agree not to make modifications to Our Policies that, considered as a whole, would substantially diminish our obligations during your then-current Subscription Term.
+Modifications to Our Policies will take effect automatically as of the effective date specified for the updated policies.
+
+25.
+Changes to the Cloud Products.
+ You acknowledge that the Cloud Products are on-line, subscription-based products, and that in order to provide improved customer experience we may make changes to the Cloud Products, and we may update the applicable Documentation accordingly.
+Subject to our obligation to provide Cloud Products and Additional Services under existing Orders, we can discontinue any Cloud Products, any Additional Services, or any portion or feature of any Cloud Products for any reason at any time without liability to you.
+
+26.
+General Provisions.
+
+
+26.1. 
+Notices.
+Any notice under these Terms must be given in writing.
+We may provide notice to you through your Notification Email Address, your account or in-product notifications.
+You agree that any electronic communication will satisfy any applicable legal communication requirements, including that such communications be in writing.
+Any notice to you will be deemed given upon the first business day after we send it.
+You will provide notice to us by post to Atlassian Pty Ltd, c/o Atlassian, Inc., 350 Bush Street, Floor 13, San Francisco, CA, USA 94104, Attn: General Counsel.
+Your notices to us will be deemed given upon receipt.
+
+26.2. Force Majeure. Neither party will be liable to the other for any delay or failure to perform any obligation under these Terms (except for a failure to pay fees) if the delay or failure is due to events which are beyond the reasonable control of such party, such as a strike, blockade, war, act of terrorism, riot, natural disaster, failure or diminishment of power or telecommunications or data networks or services, or refusal of a license by a government agency.
+
+26.3. Assignment. You may not assign or transfer these Terms without our prior written consent.
+As an exception to the foregoing, you may assign these Terms in their entirety (including all Orders) to your successor resulting from a merger, acquisition, or sale of all or substantially all of your assets or voting securities, provided that you provide us with prompt written notice of the assignment and the assignee agrees in writing to assume all of your obligations under these Terms.
+Any attempt by you to transfer or assign these Terms except as expressly authorized above will be null and void.
+We may assign our rights and obligations under these Terms (in whole or in part) without your consent.
+We may also permit our Affiliates, agents and contractors to exercise our rights or perform our obligations under these Terms, in which case we will remain responsible for their compliance with these Terms.
+Subject to the foregoing, these Terms will inure to the parties’ permitted successors and assigns.
+
+26.4. Government End Users. Any United States federal, state, or local government customers are subject to the Government Amendment in addition to these Terms.
+
+26.5. Entire Agreement. These Terms are the entire agreement between you and us relating to the Cloud Products and any other subject matter covered by these Terms, and supersede all prior or contemporaneous oral or written communications, proposals and representations between you and us with respect to the Cloud Products or any other subject matter covered by these Terms.
+No provision of any purchase order or other business form employed by you will supersede or supplement the terms and conditions of these Terms, and any such document relating to these Terms will be for administrative purposes only and will have no legal effect.
+
+26.6. Conflicts. In event of any conflict between the main body of these Terms and either Our Policies or Product-Specific Terms, Our Policies or Product-Specific Terms (as applicable) will control with respect to their subject matter.
+
+26.7. Waivers.
+Modifications. No failure or delay by the injured party to these Terms in exercising any right, power or privilege hereunder will operate as a waiver thereof, nor will any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any right, power or privilege hereunder at law or equity.
+Except as set forth in Section 24 (Changes to these Terms), any amendments or modifications to these Terms must be executed in writing by an authorized representative of each party.
+
+26.8. Interpretation. As used herein, “including” (and its variants) means “including without limitation” (and its variants).
+Headings are for convenience only.
+If any provision of these Terms is held to be void, invalid, unenforceable or illegal, the other provisions will continue in full force and effect.
+
+26.9. Independent Contractors. The parties are independent contractors.
+These Terms will not be construed as constituting either party as a partner of the other or to create any other form of legal association that would give either party the express or implied right, power or authority to create any duty or obligation of the other party.
+
+27.
+Definitions. Certain capitalized terms are defined in this Section 27, and others are defined contextually in these Terms.
+
+“Additional Services” means Technical Account Manager (TAM) services, premier or priority support or other services related to the Cloud Products we provide to you, as identified in an Order.
+For the avoidance of doubt, Additional Services do not include the standard level of support included in your subscription.
+
+“Administrators” mean the personnel designated by you who administer the Cloud Products to End Users on your behalf.
+
+“Affiliate” means an entity which, directly or indirectly, owns or controls, is owned or is controlled by or is under common ownership or control with a party, where “control” means the power to direct the management or affairs of an entity, and “ownership” means the beneficial ownership of greater than 50% of the voting equity securities or other equivalent voting interests of the entity.
+
+“Cloud Products” means our hosted or cloud-based solutions (currently designated as “Cloud” deployments), including any client software we provide as part of the Cloud Products.
+
+“Documentation” means our standard published documentation for the Cloud Products, currently located here.
+
+“End User” means an individual you or an Affiliate permits or invites to use the Cloud Products.
+For the avoidance of doubt:  (a) individuals invited by your End Users, (b) individuals under managed accounts, and (c) individuals interacting with a Cloud Product as your customer are also considered End Users.
+
+“End User Account” means an account established by you or an End User to enable the End User to use or access a Cloud Product.
+
+“Feedback” means comments, questions, ideas, suggestions or other feedback relating to the Cloud Products, Support or Additional Services.
+
+“HIPAA” means the Health Insurance Portability and Accountability Act, as amended and supplemented.
+
+“Laws” means all applicable local, state, federal and international laws, regulations and conventions, including those related to data privacy and data transfer, international communications and the exportation of technical or personal data.
+
+“Notification Email Address” means the email address(es) you used to register for a Cloud Product account or otherwise sign up for a Cloud Product.
+It is your responsibility to keep your email address(es) valid and current so that we are able to send notices, statements, and other information to you.
+
+“Order” means Atlassian’s applicable online order page(s), flows, in-product screens or other Atlassian-approved ordering document or process describing the products and services you are ordering from us and, as applicable, their permitted scope of use.
+As applicable, the Order will identify: (i) the Cloud Products, (ii) the number of End Users, Subscription Term, domain(s) associated with your use of Cloud Products, storage capacity or limits, or other scope of use parameters and (iii) (for paid Orders) the amount or rate you will be charged, the billing and renewal terms, applicable currency, and form of payment.
+Orders may also include Additional Services and No-Charge Products.
+
+“Our Deliverables” means any materials, deliverables, modifications, derivative works or developments that we provide in connection with any Additional Services.
+
+“Our Policies” means our Acceptable Use Policy, guidelines for Reporting Copyright and Trademark Violations, Online Community Platforms Terms of Use, Privacy Policy, Support Policy, Enterprise Support and Services Policy, terms for Third Party Code in Atlassian Products, and (unless specified) any other policies or terms referenced in these Terms.
+
+“Our Technology” means the Cloud Products (including all No-Charge Products), Our Deliverables, their “look and feel”, any and all related or underlying technology and any modifications or derivative works of the foregoing, including as they may incorporate Feedback.
+
+“PCI DSS” means the Payment Card Industry Data Security Standards.
+
+“PO” means a purchase order.
+
+“Product-Specific Terms” means additional terms that apply to certain Cloud Products and Additional Services, currently located here.
+
+“Sensitive Data” means any (i) categories of data enumerated in European Union Regulation 2016/679, Article 9(1) or any successor legislation.
+(ii) patient, medical or other protected health information regulated by HIPAA.
+(iii) credit, debit or other payment card data subject to PCI DSS.
+(iv) other information subject to regulation or protection under specific laws such as the Gramm-Leach-Bliley Act (or related rules or regulations).
+(v) social security numbers, driver’s license numbers or other government ID numbers.
+or (vi) any data similar to the foregoing that is protected under foreign or domestic laws or regulations.
+
+“Subscription Term” means your permitted subscription period for a Cloud Product, as set forth in the applicable Order.
+
+“Support” means support for the Cloud Products, as further described in the Support Policy and Enterprise Support and Services Policy (to the extent applicable).
+Your Support level will be specified in the applicable Order.
+
+“Training” means Atlassian-provided training and certification services.
+
+“Your Data” means any data, content, code, video, images or other materials of any type that you (including any of your End Users) submit to Cloud Products.
+In this context, “submit” (and any similar term) includes submitting, uploading, transmitting or otherwise making available Your Data to or through the Cloud Products.
+
+“Your Materials” means your materials, systems, personnel or other resources.   
+1.
+Repositories. Data that you upload to Bitbucket Cloud are stored in “repositories.” You designate whether the repositories are public (meaning that anyone coming to the Bitbucket website can view them) or private (meaning that access to those repositories will be limited to those who have permission to access the repositories).
+For each public repository that you maintain, you must indicate the license under which you are making the contents of the repository available to others, as well as the license under which you will accept contributions to your repository.
+
+2.
+Storage Rules. The Bitbucket Cloud documentation sets forth pre-defined storage limits on Your Data in Bitbucket Cloud.
+We enforce those parameters to ensure that you do not use Bitbucket Cloud in a way that consumes a disproportionate amount of system resources (CPU’s, memory, disk space, bandwidth, etc.) or that would adversely impact the performance or operation of Bitbucket Cloud for other Bitbucket Cloud users.
+Similarly, since Bitbucket Cloud is designed to be used as a source code repository, we reserve the right to remove any other content (such as music or video), particularly if the content is consuming a disproportionate amount of storage.
+Please note that, since we do not maintain access to your repositories, any removal of Your Data under Section 5.5 (Removals and Suspension) of the Agreement means removal of the entire repository in which the offending data resides, not just the offending portions.
+
+3.
+Accessing Repositories. If you are accessing code in someone else’s repository, you should carefully read all the licenses applicable to that repository before using or contributing any code.
+YOU ACKNOWLEDGE THAT ALL CODE MADE AVAILABLE THROUGH BITBUCKET CLOUD IS THE RESPONSIBILITY OF THE ACCOUNT OWNER CONTROLLING THE PARTICULAR REPOSITORY.
+WE ARE NOT THE LICENSOR OF ANY THIRD PARTY CODE MADE AVAILABLE THROUGH BITBUCKET CLOUD AND TAKE NO RESPONSIBILITY FOR SUCH CODE.
+
+4.
+Granting Permissions. Be careful about granting permissions to your repositories.
+Once you grant such permissions, we will not be able to prevent those users from taking the actions allowed under those permissions, even if you don’t approve of those actions.
+Be especially careful about granting administrative access to your repositories, as some of those actions may be irreversible.
+For example, if you grant someone permission that allows them to move content in your repository to another account, we will not be able to reach into that other user’s account without their permission to recover the data, as we are not in a position to arbitrate disputes among our users.
+In that case, your only recourse may be requesting a takedown under our policy regarding Reporting Copyright and Trademark Violations or pursuing legal action against the other user directly.   Privacy Policy 
+Effective starting: November 1, 2018 (view archived versions)
+Key Changes What this policy covers Your privacy is important to us, and so is being transparent about how we collect, use, and share information about you.
+This policy is intended to help you understand:
+
+
+What information we collect about you
+
+
+How we use information we collect 
+
+
+How we share information we collect 
+
+
+How we store and secure information we collect 
+
+
+How to access and control your information 
+
+
+How we transfer information we collect internationally 
+
+
+Other important privacy information
+
+
+This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our events), unless a different policy is displayed.  Atlassian, we and us refers to Atlassian Pty Ltd, Atlassian, Inc.
+and any of our corporate affiliates.  We offer a wide range of products, including our cloud, server and data center products.  We refer to all of these products, together with our other services and websites as "Services" in this policy.    
+This policy also explains your choices about how we use information about you.  Your choices include how you can object to certain uses of information about you and how you can access and update certain information about you.  If you do not agree with this policy, do not access or use our Services or interact with any other aspect of our business.  
+Where we provide the Services under contract with an organization (for example your employer) that organization controls the information processed by the Services.
+For more information, please see Notice to End Users below.  What information we collect about you We collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below.  
+
+Information you provide to us
+
+We collect information about you when you input it into the Services or otherwise provide it directly to us.    
+
+
+Account and Profile Information: 
+We collect information about you when you register for an account, create or modify your profile, set preferences, sign-up for or make purchases through the Services.
+For example, you provide your contact information and, in some cases, billing information when you register for the Services.
+You also have the option of adding a display name, profile photo, job title, and other details to your profile information to be displayed in our Services.  We keep track of your preferences when you select settings within the Services.
+
+
+Content you provide through our products: 
+The Services include the Atlassian products you use, where we collect and store content that you post, send, receive and share.
+This content includes any information about you that you may choose to include.
+Examples of content we collect and store include: the summary and description added to a JIRA issue, the pages you create in Confluence, the messages you exchange in Stride, your repositories and pull requests in Bitbucket, comments you enter in connection with an incident in Statuspage, and any feedback you provide to us.  Content also includes the files and links you upload to the Services.  If you use a server or data center version of the Services, we do not host, store, transmit, receive or collect information about you (including your content), except in limited cases, where permitted by your administrator: we collect feedback you provide directly to us through the product and; we collect content using analytics techniques that hash, filter or otherwise scrub the information to exclude information that might identify you or your organization; and we collect clickstream data about how you interact with and use features in the Services.
+Server and data center administrators can disable our collection of this information from the Services via the administrator settings or prevent this information from being shared with us by blocking transmission at the local network level. 
+
+
+Content you provide through our websites: 
+The Services also include our websites owned or operated by us.
+We collect other content that you submit to these websites, which include social media or social networking websites operated by us.
+For example, you provide content to us when you provide feedback or when you participate in any interactive features, surveys, contests, promotions, sweepstakes, activities or events.  
+
+
+Information you provide through our support channels: 
+The Services also include our customer support, where you may choose to submit information regarding a problem you are experiencing with a Service.  Whether you designate yourself as a technical contact, open a support ticket, speak to one of our representatives directly or otherwise engage with our support team, you will be asked to provide contact information, a summary of the problem you are experiencing, and any other documentation, screenshots or information that would be helpful in resolving the issue.
+
+
+Payment Information:  
+We collect certain payment and billing information when you register for certain paid Services.  For example, we ask you to designate a billing representative, including name and contact information, upon registration.  You might also provide payment information, such as payment card details, which we collect via secure payment processing services.
+
+Information we collect automatically when you use the Services
+
+We collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services.          
+
+
+Your use of the Services
+: We keep track of certain information about you when you visit and interact with any of our Services.
+This information includes the features you use.
+the links you click on.
+the type, size and filenames of attachments you upload to the Services.
+frequently used search terms.
+and how you interact with others on the Services.  We also collect information about the teams and people you work with and how you work with them, like who you collaborate with and communicate with most frequently.  If you use a server or data center version of the Services, the information we collect about your use of the Services is limited to clickstream data about how you interact with and use features in the Services, in addition to content-related information described in "Content you provide thorugh our products," above.  Server and data center administrators can disable our collection of this information from the Services via the administrator settings or prevent this information from being shared with us by blocking transmission at the local network level. 
+
+
+Device and Connection Information
+: We collect information about your computer, phone, tablet, or other devices you use to access the Services.
+This device information includes your connection type and settings when you install, access, update, or use our Services.
+We also collect information through your device about your operating system, browser type, IP address, URLs of referring/exit pages, device identifiers, and crash data.
+We use your IP address and/or country preference in order to approximate your location to provide you with a better Service experience.  How much of this information we collect depends on the type and settings of the device you use to access the Services.  Server and data center Service administrators can disable collection of this information via the administrator settings or prevent this information from being shared with us by blocking transmission at the local network level.   
+
+
+Cookies and Other Tracking Technologies
+: Atlassian and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices.
+For more information, please see our Cookies and Tracking Notice, which includes information on how to control or opt out of these cookies and tracking technologies.
+
+Information we receive from other sources
+
+We receive information about you from other Service users, from third-party services, from our related companies, and from our business and channel partners.    
+
+
+Other users of the Services
+: Other users of our Services may provide information about you when they submit content through the Services.  For example, you may be mentioned in a JIRA issue opened by someone else.  We also receive your email address from other Service users when they provide it in order to invite you to the Services.  Similarly, an administrator may provide your contact information when they designate you as the billing or technical contact on your company's account. 
+
+
+Other services you link to your account
+: We receive information about you when you or your administrator integrate or link a third-party service with our Services.  For example, if you create an account or log into the Services using your Google credentials, we receive your name and email address as permitted by your Google profile settings in order to authenticate you.
+You or your administrator may also integrate our Services with other services you use, such as to allow you to access, store, share and edit certain content from a third-party through our Services.  For example, you may authorize our Services to access, display and store files from a third-party document-sharing service within the Services interface.  Or you may authorize our Services to connect with a third-party calendaring service so that your meetings and connections are available to you through the Services.
+You may authorize our Services to sync a contact list or address book so that you can easily connect with those contacts within the Services or invite them to collaborate with you on our Services.  The information we receive when you link or integrate our Services with a third-party service depends on the settings, permissions and privacy policy controlled by that third-party service.
+You should always check the privacy settings and notices in these third-party services to understand what data may be disclosed to us or shared with our Services.
+
+
+Atlassian Companies
+:  We receive information about you from companies that are owned or operated by Atlassian, in accordance with their terms and policies.
+
+
+Atlassian Partners
+:  We work with a global network of partners who provide consulting, implementation, training and other services around our products.  Some of these partners also help us to market and promote our products, generate leads for us, and resell our products.  We receive information from these partners, such as billing information, billing and technical contact information, company name, what Atlassian products you have purchased or may be interested in, evaluation information you have provided, what events you have attended, and what country you are in. 
+
+
+Other Partners
+: We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements.    How we use information we collect How we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us.  Below are the specific purposes for which we use the information we collect about you.
+
+
+To provide the Services and personalize your experience
+: We use information about you to provide the Services to you, including to process transactions with you, authenticate you when you log in, provide customer support, and operate and maintain the Services.  For example, we use the name and picture you provide in your account to identify you to other Service users. Our Services also include tailored features that personalize your experience, enhance your productivity, and improve your ability to collaborate effectively with others by automatically analyzing the activities of your team to provide search results, activity feeds, notifications, connections and recommendations that are most relevant for you and your team.  For example, we may use your stated job title and activity to return search results we think are relevant to your job function.  We also use information about you to connect you with other team members seeking your subject matter expertise. We may use your email domain to infer your affiliation with a particular organization or industry to personalize the content and experience you receive on our websites. Where you use multiple Services, we combine information about you and your activities to provide an integrated experience, such as to allow you to find information from one Service while searching from another or to present relevant product information as you travel across our websites.   
+
+
+For research and development
+:  We are always looking for ways to make our Services smarter, faster, secure, integrated, and useful to you.  We use collective learnings about how people use our Services and feedback provided directly to us to troubleshoot and to identify trends, usage, activity patterns and areas for integration and improvement of the Services.  For example, to improve the @mention feature, we automatically analyze recent interactions among users and how often they @mention one another to surface the most relevant connections for users.
+We automatically analyze and aggregate frequently used search terms to improve the accuracy and relevance of suggested topics that auto-populate when you use the search feature.  In some cases, we apply these learnings across our Services to improve and develop similar features or to better integrate the services you use.
+We also test and analyze certain new features with some users before rolling the feature out to all users.  
+
+
+To communicate with you about the Services
+: We use your contact information to send transactional communications via email and within the Services, including confirming your purchases, reminding you of subscription expirations, responding to your comments, questions and requests, providing customer support, and sending you technical notices, updates, security alerts, and administrative messages.  We send you email notifications when you or others interact with you on the Services, for example, when you are @mentioned on a page or ticket or when a task if assigned to you. We also provide tailored communications based on your activity and interactions with us.  For example, certain actions you take in the Services may automatically trigger a feature or third-party app suggestion within the Services that would make that task easier.  We also send you communications as you onboard to a particular Service to help you become more proficient in using that Service.  These communications are part of the Services and in most cases you cannot opt out of them.  If an opt out is available, you will find that option within the communication itself or in your account settings.   
+
+
+To market, promote and drive engagement with the Services: 
+We use your contact information and information about how you use the Services to send promotional communications that may be of specific interest to you, including by email and by displaying Atlassian ads on other companies' websites and applications, as well as on platforms like Facebook and Google.  These communications are aimed at driving engagement and maximizing what you get out of the Services, including information about new features, survey requests, newsletters, and events we think may be of interest to you.  We also communicate with you about new product offers, promotions and contests.  You can control whether you receive these communications as described below under "Opt-out of communications."
+
+
+Customer support
+: We use your information to resolve technical issues you encounter, to respond to your requests for assistance, to analyze crash information, and to repair and improve the Services.
+
+
+For safety and security
+: We use information about you and your Service use to verify accounts and activity, to monitor suspicious or fraudulent activity and to identify violations of Service policies. 
+
+
+To protect our legitimate business interests and legal rights: Where required by law or where we believe it is necessary to protect our legal rights, interests and the interests of others, we use information about you in connection with legal claims, compliance, regulatory, and audit functions, and disclosures in connection with the acquisition, merger or sale of a business.  
+
+
+With your consent
+: We use information about you where you have given us consent to do so for a specific purpose not listed above.  For example, we may publish testimonials or featured customer stories to promote the Services, with your permission.    
+
+
+Legal bases for processing (for EEA users)
+: 
+If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws.  The legal bases depend on the Services you use and how you use them. This means we collect and use your information only where:
+
+We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;
+It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;
+You give us consent to do so for a specific purpose.
+or
+We need to process your data to comply with a legal obligation.
+
+
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place.  Where we are using your information because we or a third party (e.g.
+your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services.  How we share information we collect We make collaboration tools, and we want them to work well for you.  This means sharing information through the Services and with certain third parties.  We share information we collect about you in the ways discussed below, including in connection with possible business transfers, but we are not in the business of selling information about you to advertisers or other third parties.
+
+Sharing with other Service users 
+
+When you use the Services, we share certain information about you with other Service users.
+
+
+For collaboration
+: You can create content, which may contain information about you, and grant permission to others to see, share, edit, copy and download that content based on settings you or your administrator (if applicable) select.  Some of the collaboration features of the Services display some or all of your profile information to other Service users when you share or interact with specific content.  For example, when you comment on a Confluence page or Jira issue, we display your profile picture and name next to your comments so that other users with access to the page or issue understand who made the comment.  When you send a Stride message to another user, the recipient can view any information in your profile card.
+Similarly, when you publish a Confluence page, your name is displayed as the author of that page, and Service users with permission to view the page can view your profile information as well.  Please be aware that some aspects of the Services like Confluence pages or Bitbucket repositories can be made publicly available, meaning any content posted, including information about you, can be publicly viewed and indexed by and returned in search results of search engines.  You can confirm whether certain Service properties are publicly visible from within the Services or by contacting the relevant administrator.
+
+
+Managed accounts and administrators
+: If you register or access the Services using an email address with a domain that is owned by your employer or organization, and such organization wishes to establish an account or site, certain information about you including your name, profile picture, contact info, content and past use of your account may become accessible to that organization’s administrator and other Service users sharing the same domain.  If you are an administrator for a particular site or group of users within the Services, we may share your contact information with current or past Service users, for the purpose of facilitating Service-related requests.  
+
+
+Community Forums
+:  Our websites offer publicly accessible blogs, forums, issue trackers, and wikis like Atlassian Community and Atlassian Developer Community. You should be aware that any information you provide on these websites - including profile information associated with the account you use to post the information - may be read, collected, and used by any member of the public who accesses these websites.  Your posts and certain profile information may remain even after you terminate your account. We urge you to consider the sensitivity of any information you input into these Services. To request removal of your information from publicly accessible websites operated by us, please contact us as provided below.
+In some cases, we may not be able to remove your information, in which case we will let you know if we are unable to and why.
+
+Sharing with third parties
+
+We share information with third parties that help us operate, provide, improve, integrate, customize, support and market our Services.
+
+
+Service Providers
+: We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis and other services for us, which may require them to access or use information about you.  If a service provider needs to access information about you to perform services on our behalf, they do so under close instruction from us, including policies and procedures designed to protect your information.
+
+
+Atlassian Partners
+: We work with third parties who provide consulting, sales, and technical services to deliver and implement customer solutions around the Services.
+We may share your information with these third parties in connection with their services, such as to assist with billing and collections, to provide localized support, and to provide customizations.  We may also share information with these third parties where you have agreed to that sharing.
+
+
+Third Party Apps
+: You, your administrator or other Service users may choose to add new functionality or change the behavior of the Services by installing third party apps within the Services.  Doing so may give third-party apps access to your account and information about you like your name and email address, and any content you choose to use in connection with those apps.  If you are a technical or billing contact listed on an account, we share your details with the third-party app provider upon installation. Third-party app policies and procedures are not controlled by us, and this privacy policy does not cover how third-party apps use your information.
+We encourage you to review the privacy policies of third parties before connecting to or using their applications or services to learn more about their privacy and information handling practices. If you object to information about you being shared with these third parties, please uninstall the app.
+
+
+Links to Third Party Sites
+: The Services may include links that direct you to other websites or services whose privacy practices may differ from ours.
+If you submit information to any of those third party sites, your information is governed by their privacy policies, not this one.
+We encourage you to carefully read the privacy policy of any website you visit.
+
+
+Social Media Widgets
+: The Services may include links that direct you to other websites or services whose privacy practices may differ from ours.
+Your use of and any information you submit to any of those third-party sites is governed by their privacy policies, not this one. 
+
+
+Third-Party Widgets
+: Some of our Services contain widgets and social media features, such as the Twitter "tweet" button.
+These widgets and features collect your IP address, which page you are visiting on the Services, and may set a cookie to enable the feature to function properly.
+Widgets and social media features are either hosted by a third party or hosted directly on our Services.
+Your interactions with these features are governed by the privacy policy of the company providing it.
+
+
+With your consent
+: We share information about you with third parties when you give us consent to do so.  For example, we often display personal testimonials of satisfied customers on our public websites.
+With your consent, we may post your name alongside the testimonial. 
+
+
+Compliance with Enforcement Requests and Applicable Laws.
+Enforcement of Our Rights
+: In exceptional circumstances, we may share information about you with a third party if we believe that sharing is reasonably necessary to (a) comply with any applicable law, regulation, legal process or governmental request, including to meet national security requirements, (b) enforce our agreements, policies and terms of service, (c) protect the security or integrity of our products and services, (d) protect Atlassian, our customers or the public from harm or illegal activities, or (e) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person.
+For more information on how we respond to government requests, see our Guidelines for Law Enforcement and our Transparency Report.
+
+Sharing with affiliated companies
+
+We share information we collect with affiliated companies and, in some cases, with prospective affiliates.  Affiliated companies are companies owned or operated by us.  The protections of this privacy policy apply to the information we share in these circumstances.
+
+
+Atlassian companies
+: We share information we have about you with other Atlassian corporate affiliates in order to operate and improve products and services and to offer other Atlassian affiliated services to you. This includes companies that own or operate the services listed here.  
+
+
+Business Transfers
+: We may share or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+You will be notified via email and/or a prominent notice on the Services if a transaction takes place, as well as any choices you may have regarding your information. How we store and secure information we collect 
+Information storage and security
+
+We use industry standard technical and organizational measures to secure the information we store.  For more information on where and how we store your information, please see our Trust page. 
+While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others.
+If you use our server or data center Services, responsibility for securing storage and access to the information you put into the Services rests with you and not Atlassian.
+We strongly recommend that server or data center users configure SSL to prevent interception of data transmitted over networks and to restrict access to the databases and other storage points used.
+
+How long we keep information
+
+How long we keep information we collect about you depends on the type of information, as described in further detail below.  After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.  
+
+
+Account information
+: We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services.  We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services.
+Where we retain information for Service improvement and development, we take steps to eliminate information that directly identifies you, and we only use the information to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about you.  
+
+
+Information you share on the Services
+: If your account is deactivated or disabled, some of your information and the content you have provided will remain in order to allow your team members or other users to make full use of the Services.  For example, we continue to display messages you sent to the users that received them and continue to display content you provided. 
+
+
+Managed accounts
+: If the Services are made available to you through an organization (e.g., your employer), we retain your information as long as required by the administrator of your account.  For more information, see "Managed accounts and administrators" above.
+
+
+Marketing information
+: If you have elected to receive marketing emails from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our Services, such as when you last opened an email from us or ceased using your Atlassian account.  We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created.    How to access and control your information You have certain choices available to you when it comes to your information.
+Below is a summary of those choices, how to exercise them and any limitations.
+
+Your Choices: 
+You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), to request the deletion or restriction of your information, or to request your information in a structured, electronic format.  Below, we describe the tools and processes for making these requests.  You can exercise some of the choices by logging into the Services and using settings available within the Services or your account. Where the Services are administered for you by an administrator (see "Notice to End Users" below), you may need to contact your administrator to assist with your requests first.  For all other requests, you may contact us as provided in the Contact Us section below to request assistance.
+Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep.  Where you have asked us to share data with third parties, for example, by installing third-party apps, you will need to contact those third-party service providers directly to have your information deleted or otherwise restricted.  If you have unresolved concerns, you may have the right to complain to a data protection authority in the country where you live, where you work or where you feel your rights were infringed.
+
+
+Access and update your information
+: Our Services and related documentation give you the ability to access and update certain information about you from within the Service.
+For example, you can access your profile information from your account and search for content containing information about you using key word searches in the Service.  You can update your profile information within your profile settings and modify content that contains information about you using the editing tools associated with that content.
+
+
+Deactivate your account
+:  If you no longer wish to use our Services, you or your administrator may be able to deactivate your Services account.
+If you can deactivate your own account, that setting is available to you in your account settings.
+Otherwise, please contact your administrator.
+If you are an administrator and are unable to deactivate an account through your administrator settings, please contact Atlassian support.  Please be aware that deactivating your account does not delete your information.
+your information remains visible to other Service users based on your past participation within the Services.  For more information on how to delete your information, see below.   
+
+
+Delete your information
+: Our Services and related documentation give you the ability to delete certain information about you from within the Service.
+For example, you can remove content that contains information about you using the key word search and editing tools associated with that content, and you can remove certain profile information within your profile settings.
+Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.   
+
+
+Request that we stop using your information
+:  In some cases, you may ask us to stop accessing, storing, using and otherwise processing your information where you believe we don't have the appropriate rights to do so.  For example, if you believe a Services account was created for you without your permission or you are no longer an active user, you can request that we delete your account as provided in this policy.  Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time.
+You can also opt-out of our use of your information for marketing purposes by contacting us, as provided below.  When you make such requests, we may need time to investigate and facilitate your request.  If there is delay or dispute as to whether we have the right to continue using your information, we will restrict any further use of your information until the request is honored or the dispute is resolved, provided your administrator does not object (where applicable).  If you object to information about you being shared with a third-party app, please disable the app or contact your administrator to do so.
+
+
+Opt out of communications
+: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database.  Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services.
+You can opt out of some notification messages in your account settings. 
+You may be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising.
+For more information about this practice and to understand your options, please visit: http://www.aboutads.info, http://optout.networkadvertising.org/ and http://www.youronlinechoices.eu. 
+
+
+Turn off Cookie Controls
+: Relevant browser-based cookie controls are described in our Cookies &amp.
+Tracking Notice.
+
+
+Send "Do Not Track" Signals
+: Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked.
+Because there is not yet a common understanding of how to interpret the DNT signal, our Services do not currently respond to browser DNT signals.
+You can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above.
+
+
+Data portability
+: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier).  Depending on the context, this applies to some of your information, but not to all of your information.  Should you request it, we will provide you with an electronic file of your basic account information and the information you create on the spaces you under your sole control, like your personal Bitbucket repository.   How we transfer information we collect internationally 
+International transfers of information we collect
+
+We collect information globally and may transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services.  Whenever we transfer your information, we take steps to protect it.  
+
+
+International transfers within the Atlassian Companies
+: To facilitate our global operations, we transfer information globally and allow access to that information from countries in which the Atlassian owned or operated companies have operations for the purposes described in this policy.
+These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based.
+When we share information about you within and among Atlassian corporate affiliates, we make use of standard contractual data protection clauses, which have been approved by the European Commission, and we rely on the EU-U.S.
+and Swiss-U.S.
+Privacy Shield Framework to safeguard the transfer of information we collect from the European Economic Area and Switzerland.
+Please see our Privacy Shield notice below for more information or contact us as provided below.
+
+
+International transfers to third parties
+: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside.
+When we share information of customers in the European Economic Area or Switzerland, we make use of the EU-U.S.
+and Swiss-U.S.
+Privacy Shield Frameworks, European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer. Please see our Privacy Shield Notice below.  
+
+Privacy Shield Notice
+
+Atlassian, Inc.
+and its U.S.
+subsidiaries (Atlassian Network Service, Inc., Dogwood Labs, Inc., and Trello, Inc.) participate in and comply with the EU-U.S.
+and Swiss-U.S.
+Privacy Shield Frameworks and the Privacy Shield Principles regarding the collection, use, and retention of information about you that is transferred from the European Union or Switzerland (as applicable) to the U.S.  We ensure that the Privacy Shield Principles apply to all information about you that is subject to this privacy policy and is received from the European Union, the European Economic Area, and Switzerland. 
+Under the EU-U.S.
+and Swiss-U.S.
+Privacy Shield Frameworks, we are responsible for the processing of information about you we receive from the EU and Switzerland and onward transfers to a third party acting as an agent on our behalf.
+We comply with the Privacy Shield Principles for such onward transfers and remain liable in accordance with the Privacy Shield Principles if third-party agents that we engage to process such information about you on our behalf do so in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. 
+To learn more about the Privacy Shield Program, and to view Atlassian’s certification, please see here www.privacyshield.gov.
+We encourage you to contact us as provided below should you have a Privacy Shield-related (or general privacy-related) complaint.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge).  Through this third-party dispute resolution provider, we have also committed to cooperating and complying with the information and advice provided by an informal panel of data protection authorities in the European Economic Area and/or the Swiss Federal Data Protection and Information Commissioner (as applicable) in relation to unresolved complaints (as further described in the Privacy Shield Principles). You may also contact your local data protection authority within the European Economic Area or Switzerland (as applicable) for unresolved complaints.  
+Under certain conditions, more fully described on the Privacy Shield website, including when other dispute resolution procedures have been exhausted, you may invoke binding arbitration.  
+We are subject to the investigatory and enforcement powers of the U.S.
+Federal Trade Commission (FTC).  Other important privacy information 
+Notice to End Users
+
+Many of our products are intended for use by organizations.
+Where the Services are made available to you through an organization (e.g.
+your employer), that organization is the administrator of the Services and is responsible for the accounts and/or Service sites over which it has control.
+If this is the case, please direct your data privacy questions to your administrator, as your use of the Services is subject to that organization's policies.
+We are not responsible for the privacy or security practices of an administrator's organization, which may be different than this policy. 
+Administrators are able to:
+
+require you to reset your account password;
+restrict, suspend or terminate your access to the Services;
+access information in and about your account;
+access or retain information stored as part of your account;
+install or uninstall third-party apps or other integrations 
+
+
+In some cases, administrators can also:
+
+restrict, suspend or terminate your account access;
+change the email address associated with your account;
+change your information, including profile information;
+restrict your ability to edit, restrict, modify or delete information
+
+
+Even if the Services are not currently administered to you by an organization, if you use an email address provided by an organization (such as your work email address) to access the Services, then the owner of the domain associated with your email address (e.g.
+your employer) may assert administrative control over your account and use of the Services at a later date.  You will be notified if this happens. 
+If you do not want an administrator to be able to assert control over your account or use of the Services, use your personal email address to register for or access the Services.  If an administrator has not already asserted control over your account or access to the Services, you can update the email address associated with your account through your account settings in your profile.  Once an administrator asserts control over your account or use of the Services, you will no longer be able to change the email address associated with your account without administrator approval.
+Please contact your organization or refer to your administrator’s organizational policies for more information.
+
+Our policy towards children
+
+The Services are not directed to individuals under 16.
+We do not knowingly collect personal information from children under 16. If we become aware that a child under 16 has provided us with personal information, we will take steps to delete such information.
+If you become aware that a child has provided us with personal information, please contact our support services.
+
+Changes to our Privacy Policy
+
+We may change this privacy policy from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by adding a notice on the Services homepages, login screens, or by sending you an email notification.
+We will also keep prior versions of this Privacy Policy in an archive for your review.  We encourage you to review our privacy policy whenever you use the Services to stay informed about our information practices and the ways you can help protect your privacy.
+If you disagree with any changes to this privacy policy, you will need to stop using the Services and deactivate your account(s), as outlined above.
+
+Contact Us
+
+Your information is controlled by Atlassian Pty Ltd and Atlassian, Inc.
+ If you have questions or concerns about how your information is handled, please direct your inquiry to Atlassian Pty Ltd, which we have appointed to be responsible for facilitating such inquiries or, if you are a resident of the European Economic Area, please contact our EU Representative.
+Atlassian Pty Ltd c/o Atlassian, Inc. 350 Bush Street San Francisco, CA 94104 E-Mail: privacy@atlassian.com
+EU Representative:
+Atlassian B.V. c/o Atlassian, Inc. 350 Bush Street San Francisco, CA 94104 E-Mail: eudatarep@atlassian.com Key Changes 
+November 1, 2018
+
+
+We are updating our Privacy Policy to reflect the expansion of our cloud data storage infrastructure
+
+ 
+May 25, 2018
+
+Better navigation and user-friendly language. To make the policy easier to understand, we use clear, plain language and examples that illustrate our activities.
+We reformatted our privacy policy page with active links, so you can quickly find the information that matters most to you.  
+How we integrate our products. We're always improving our products to give you a frictionless and customized experience.
+The updates to our policy describe the tools we’ve built to make our products smarter and allow you to move seamlessly from one Atlassian product to another.
+More control over your information. We make it easy for you to control the information you provide to us.
+Our policy explains how you can make choices about your information, and the measures we’ve put in place to keep your information secure.
+Using our products for work. Many users have access to our services through their organizations (e.g., their employers), who control their accounts or use of our services.
+The updated policy clarifies our relationship to these users and explains the tools available to administrators of these users. 
+  
