@@ -4,7 +4,6 @@
 #
 # TODO list:
 # 1. Loop over all sites
-# 2. Test with real data
 
 import pandas as pd
 import json
@@ -31,7 +30,7 @@ b = raw_input("Which TOS?")#TEMP: Test on one TOS at a time
 
 #Initialize the Labelled Excerpts Data Table
 
-df = pd.read_csv (r'labeled_excerpts.csv')
+df = pd.read_csv (r'labeled_excerpts.csv.bak')
 sitedf = df[df['slug'] == b]
 
 ###############################################################################################################
@@ -54,7 +53,7 @@ labels = [('','','','') for i in range(len(tokenlistb))] #Initialize something c
 #sub2 = its class_id
 
 for i, row in sitedf.iterrows():
-    sub = row['excerpt']
+    sub = " ".join(row['excerpt'].split('\n'))
     sub2 = row['class_id']
     ind = full.index(sub)
     lens, labels = removerange(ind, ind + len(sub), lens, labels, (sub, sub2))
