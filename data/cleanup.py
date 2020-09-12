@@ -32,12 +32,18 @@ df = pd.read_csv (r'labeled_excerpts.csv')
 
 c = []
 
-sluglist = df.slug.unique()
+borked = []
 
-print(sluglist)
+sluglist = list(df.slug.unique())
+with open("exclude.txt") as f:
+    for a in f.read().splitlines():
+        for i,v in enumerate(sluglist):
+            if(a==v):
+                sluglist.pop(i)
 
 ###############################################################################################################
 for b in sluglist:
+    borkedq = False
     sitedf = df[df['slug'] == b]
     full = "" # The full text of the TOS of the site
 
@@ -46,7 +52,7 @@ for b in sluglist:
         printable = set(string.printable)
         full = filter(lambda x: x in printable, full)
         tokenlistb = full.splitlines() #Get a list of sentences
-        lens = [sum(map(len,tokenlistb[:i]))+i+1 for i in range(len(tokenlistb) + 1)] #Find the starting index of each sentences
+        lens = [sum(map(len,tokenlistb[:i]))+i+1 for i in range(len(tokenlistb) + 2)] #Find the starting index of each sentences
 
         full = " ".join(full.split('\n')) #Put the full text on only one line.
 
@@ -57,14 +63,26 @@ for b in sluglist:
 
     for i, row in sitedf.iterrows():
         sub = " ".join(row['excerpt'].split('\n'))
+        printable = set(string.printable)
+        sub = filter(lambda x: x in printable, sub)
         sub2 = row['class_id']
-        ind = full.index(sub)
-        lens, labels = removerange(ind, ind + len(sub), lens, labels, (sub, sub2))
+        try:
+            ind = full.index(sub)
+            lens, labels = removerange(ind, ind + len(sub), lens, labels, (sub, sub2))
+        except:
+            borked += [b]
+            borkedq = True
+            break
+
+    if(borkedq):
+        continue
 
     #And finish it off
 
     dff = [{"token":full[lens[i]-1:lens[i+1] - 2], "labels":[{"text":labels[i][0], "start":labels[i][2]-lens[i]+2, "end":labels[i][3]-lens[i]+1, "class_id":labels[i][1]} for j in range(i,i+1) if labels[j] != ('','','','')]} for i in range(len(labels))]
     c += dff
     print(json.dumps(dff))
-
+print("Finale:")
 print(json.dumps(c))
+print("Borked:")
+print(borked)

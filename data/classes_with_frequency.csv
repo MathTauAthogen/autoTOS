@@ -1,0 +1,509 @@
+,class_id,title,topic,effect,weight,frequency
+0,0,IP addresses of website visitors are not tracked,,neutral,30,10.0
+1,1,This service only uses temporary session cookies,,good,20,7.0
+2,2,"Users should revisit the terms periodically, although in case of material changes, the service will notify",,neutral,50,26.0
+3,3,The service does not guarantee that software errors will be corrected,,bad,50,8.0
+4,4,This service provides archives of their terms of service so that changes can be viewed over time,,good,50,14.0
+5,5,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",,bad,30,35.0
+6,6,The service is provided 'as is' and to be used at the users' sole risk,,bad,20,71.0
+7,7,The service allows you to use pseudonyms,,good,20,20.0
+8,8,The service will resist legal requests for user information where reasonably possible,,good,60,7.0
+9,9,This service does not sell your personal data,,good,25,41.0
+10,10,The service does not use third-party analytics or tracking platforms,,good,25,3.0
+11,11,The user is informed about security practices,,good,15,9.0
+12,12,"This service requires first-party cookies, which are cookies that only belong to the domain of the service and not a third party.",,neutral,10,12.0
+13,13,"Per the service's terms, users may not express negative opinions about them",,bad,40,1.0
+14,14,Users cannot scrape the website of the service,,bad,20,11.0
+15,15,This service is only available to users of a certain age,,neutral,15,84.0
+16,16," Terms may be changed any time at their discretion, without notice to the user ",,bad,70,49.0
+17,17,500px Store: your account can be terminated at any time,,bad,60,1.0
+18,18,Broad copyright license,,bad,50,1.0
+19,19,Waiver of legal actions,,bad,50,1.0
+20,20,You are responsible for any claim and agree to indemnify them,,bad,40,1.0
+21,21,Pseudonyms allowed,,good,20,2.0
+22,22,The terms are easy to read,,good,15,2.0
+23,23,"Terms may be changed at any time, but you will be notified.",,neutral,0,3.0
+24,24,This service employs a broad copyright license over user content including the right to distribute through any media,,bad,50,9.0
+25,25,targeted third-party advertising,,bad,40,1.0
+26,26,This service gathers information about you through third parties,,bad,50,12.0
+27,27,This service allows tracking via third-party cookies for purposes including targeted advertising.,,bad,70,16.0
+28,28,You cannot delete your account of this service,,blocker,70,1.0
+29,29,This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.,,bad,60,61.0
+30,30,Blocking cookies may limit your ability to use the service,,neutral,50,48.0
+31,31,The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.,,bad,50,39.0
+32,32,There is a date of the last update of the terms,,neutral,50,155.0
+33,33,This service holds onto content that you've deleted,,blocker,30,10.0
+34,34,"You must provide your legal name, pseudonyms are not allowed",,bad,20,9.0
+35,35,Airbnb will continue using anonymized user-generated content even after account deletion,,bad,15,1.0
+36,36,The service gives 30 days of notice before closing your account,,good,15,6.0
+37,37,This service uses third-party cookies for statistics,,bad,10,34.0
+38,38,"The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",,bad,50,82.0
+39,39,"When the service wants to make a material change to its terms, users are notified at least 30 days in advance",,good,40,4.0
+40,40,very broad,,bad,80,6.0
+41,41,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",,bad,60,67.0
+42,42,You can request access and deletion of personal data,,good,50,40.0
+43,43,You are responsible for maintaining the security of your account and for the activities on your account,,neutral,10,47.0
+44,44,Spidering or crawling is not allowed,,neutral,10,16.0
+45,45,"Terms may be changed any time at their discretion, without notice to the user",,bad,70,8.0
+46,46,You waive your right to a class action.,,bad,50,22.0
+47,47,The service can delete your account without prior notice and without a reason,,bad,60,53.0
+48,48,This service tracks you on other websites,,bad,60,10.0
+49,49,This service forces users into binding arbitration in the case of disputes,,bad,50,26.0
+50,50,This service can license user content to third parties,,bad,50,6.0
+51,51,The service allows you to opt out of providing personal information to third parties,,good,50,5.0
+52,52,Amazon enables third-party advertisers to target you by default,,bad,40,1.0
+53,53,They may stop providing the service at any time,,bad,40,23.0
+54,54,The service uses your personal data for advertising,,bad,30,14.0
+55,55,Amazon allows users to have some control over the information that they give to the service,,good,30,1.0
+56,56,Third parties used by the service are bound by confidentiality obligations,,good,20,9.0
+57,57,Users are responsible for maintaining the security of their Amazon account and for the activities on their account,,neutral,10,1.0
+58,58,personal data is given to third parties,,bad,10,5.0
+59,59,This service can share your personal information to third parties ,,bad,10,17.0
+60,60,This service employs separate policies for different parts of the service,,neutral,0,3.0
+61,61,This service only shares user information with third parties when given specific consent,,good,80,4.0
+62,62,Users can access most of the pages on the service's website without revealing any personal information,,good,60,8.0
+63,63,"If Amnesty International shares personal information outside the EU, it is processed to an EU standard",,good,60,1.0
+64,64,The service provides information about how they collect personal data,,good,50,8.0
+65,65,The service's data retention period is kept to the minimum necessary for fulfilling its purposes,,good,50,19.0
+66,66,The service uses third party tracking pixels to track social media conversion,,bad,50,4.0
+67,67,"The service may keep a secure, anonymized record of users' data for analytical purposes even after the data retention period",,bad,40,7.0
+68,68,The service provides a complete list of all cookies set by its website,,good,40,12.0
+69,69,The service makes critical changes to its terms without user involvement,,bad,35,5.0
+70,70,The service provides details about what kinds of personal information they collect,,good,30,21.0
+71,71,The service provides information about how they intend to use your personal data,,good,30,10.0
+72,72,The service provides a complaint mechanism for the handling of personal data,,good,30,8.0
+73,73,The service reviews its privacy policy on a regular basis,,good,30,4.0
+74,74,Amnesty International may share your data with its global membership organizations anywhere in the world,,bad,25,1.0
+75,75,The Privacy Policy and Cookie Statement for the service are easy to read,,good,15,1.0
+76,76,Third parties are involved in operating the Amnesty International website,,bad,15,1.0
+77,77,The service informs users that its privacy policy does not apply to third party websites,,neutral,10,12.0
+78,78,You can opt out of promotional communications,,good,10,34.0
+79,79,The Privacy Policy and Cookie Statement for this website are translated into three languages,,neutral,0,1.0
+80,80,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,,neutral,10,22.0
+81,81,"The service may change its terms at any time, but the user will receive notification of the changes.",,neutral,0,27.0
+82,82,Accessibility to this service is guaranteed at 99% or more,,good,10,2.0
+83,83,"This service may collect, use, and share location data",,bad,75,13.0
+84,84,You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.,,bad,40,6.0
+85,85,"Apple.com can suspend the Site whenever they want, for any reason",,bad,40,1.0
+86,86,"When the service wants to change its terms, users are notified a month or more in advance",,good,40,8.0
+87,87,Apple provides an opt-out method for Apple targeted advertising,,good,25,1.0
+88,88,The service can suspend your account for several reasons,,neutral,15,17.0
+89,89,Apple.com has an age restriction of 13 years,,neutral,15,1.0
+90,90,You have the right to leave this service at any time,,good,15,33.0
+91,91,court of law is in location X,,neutral,0,4.0
+92,92,"The court of law governing the terms is in Santa Clara County, California",,neutral,0,1.0
+93,93,no refund policy,,neutral,50,7.0
+94,94,This service may keep personal data after a request for erasure for business interests or legal obligations,,bad,70,13.0
+95,95,This service can delete your content if you violate the terms,,neutral,50,7.0
+96,96,This service assumes no responsibility and liability for the contents of links to other websites,,neutral,50,13.0
+97,97,The service informs users about the risk of publishing personal info online,,good,40,4.0
+98,98,The service uses your personal data to employ targeted third-party advertising,,bad,40,17.0
+99,99,The service refers users to external documents for more information,,bad,25,20.0
+100,100,Your data may be processed and stored anywhere in the world,,bad,25,35.0
+101,101,This service will continue using anonymized user-generated content even after erasure of personal information,,bad,15,3.0
+102,102,The service does not guarantee accuracy or reliability of the information provided,,bad,10,29.0
+103,103,The service is transparent regarding government requests or inquiries that may involve user data.,,neutral,0,21.0
+104,104,The court of law governing the terms is in location X,,neutral,0,29.0
+105,105,BBC may collect your device fingerprint.,,bad,50,1.0
+106,106,You sign away moral rights,,blocker,50,14.0
+107,107,This service is only available for use individually and non-commercially.,,neutral,25,13.0
+108,108,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,,neutral,10,17.0
+109,109,"Court of law governing the terms: U.S. District Court for Northern District of California or state courts in Santa Clara County, California.",,neutral,0,1.0
+110,110,Skype can cancel your account if you are in violation of its terms,,neutral,15,1.0
+111,111,The service can read your private messages,,bad,70,11.0
+112,112,The service collects many different types of personal data,,bad,70,5.0
+113,113,Bing uses web beacons to track you across the internet,,bad,60,1.0
+114,114,This service may use your personal information for marketing purposes,,bad,50,5.0
+115,115,You can delete your content from this service,,good,50,21.0
+116,116,"defend, indemnify, hold harmless",,bad,60,1.0
+117,117,This service is only available to users at or over the age of 16,,neutral,15,1.0
+118,118,"This service employs third-party cookies, but with opt-out instructions",,bad,5,9.0
+119,119,Your personal data is used for limited purposes,,good,60,9.0
+120,120,The service promises to inform and/or notify users regarding government inquiries that may involve users' personal data,,good,50,11.0
+121,121,You maintain ownership of your data,,good,50,43.0
+122,122,User accounts can be terminated after having been in breach of the terms of service repeatedly,,good,50,9.0
+123,123,Users who have been permanently banned from this service are not allowed to re-register under a new account,,neutral,20,9.0
+124,124,BitTorrent may disclose your personal data as part transfer or sale or any other corporate reorganization,,bad,50,1.0
+125,125,The service can suspend or terminate your access to all or any part of the Website and refuse service to anyone for any reason at any time,,bad,60,1.0
+126,126,"Users are responsible for any risks, damages, or losses they may incur by downloading materials",,neutral,50,13.0
+127,127,Promises will be kept after a merger or acquisition,,good,50,5.0
+128,128,The services will notify users if personal data has been affected by data breaches,,good,30,3.0
+129,129,This service throttles your use,,bad,30,3.0
+130,130,The service provides two factor authentification for your account,,good,25,6.0
+131,131,This service is only available to users of age 13 and up,,neutral,15,1.0
+132,132,Your personal data is aggregated into statistics,,neutral,10,18.0
+133,133,Tracking pixels are used in service-to-user communication,,bad,5,3.0
+134,134,Users agree to comply with the law of the service's country,,neutral,0,11.0
+135,135,This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements,,bad,0,9.0
+136,136,Users are free to choose the type of copyright license that they want to use over their content,,good,50,4.0
+137,137,Service does not allow alternative accounts,,neutral,30,10.0
+138,138,"Users agree not to submit libelous, harassing or threatening content",,neutral,20,18.0
+139,139,This service prohibits users from attempting to gain unauthorized access to other computer systems,,neutral,20,4.0
+140,140,This service is only available to users 13 years old and over,,neutral,15,2.0
+141,141,Users agree not to use the service for illegal purposes,,neutral,10,22.0
+142,142,The service may collect data through Skype Credit,,bad,50,1.0
+143,143," Terms of Use may be changed any time at their discretion, without notice to the user ",,bad,70,1.0
+144,144,"Users should revisit the Privacy Policy periodically, although in case of material changes, the service will notify",,neutral,50,1.0
+145,145,"If you are located in the EU or Switzerland, you can request access and deletion of personal data",,good,50,1.0
+146,146,The service has a no refund policy,,neutral,50,18.0
+147,147,"The service can remove, screen, or edit your content without prior notice and without a reason",,blocker,50,1.0
+148,148,There is a date of the last update of the Terms of Use and the Privacy Policy,,neutral,50,1.0
+149,149,"If you offer suggestions to the service, they become the owner of the ideas that you give them",,bad,50,14.0
+150,150,This service keeps a license on user-generated content even after users close their accounts.,,bad,50,9.0
+151,151,"This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",,neutral,15,12.0
+152,152,Users agree not to submit illegal content,,neutral,10,19.0
+153,153,"The court of law governing the terms is in the State of New York unless you are in Europe. If you are in Europe, then English law will apply",,neutral,0,1.0
+154,154,This service employs different Terms of Use and Privacy Policies dependent on whether you are in the EU + Switzerland,,neutral,0,1.0
+155,155,The copyright license maintained by the service over user data and/or content is broader than necessary.,,bad,50,9.0
+156,156,The service can delete specific content without prior notice and without a reason,,blocker,50,29.0
+157,157,tracking pixels used in service-to-user communication,,bad,5,4.0
+158,158,"You agree to defend, indemnify, and hold Cengage harmless in case of a claim related to your use of the service (and survives termination)",,bad,80,1.0
+159,159,"The service uses tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",,bad,50,1.0
+160,160,"Cengage reserves the right to pre-screen, review, flag, filter, modify, refuse, or remove Content from the Services. ",,blocker,50,1.0
+161,161,personal data is not sold,,good,25,2.0
+162,162,This service assumes no liability for any losses or damages resulting from any matter relating to the service,,bad,50,18.0
+163,163,Cloudant transfers hosted and personal info if Cloudant is acquired by another business,,bad,20,1.0
+164,164,This service can use your content for all their existing and future services,,bad,50,8.0
+165,165,This service assumes no liability for unauthorized access to your personal information,,bad,30,6.0
+166,166,"Other applicable rules, terms, conditions or guidelines",,neutral,0,1.0
+167,167,your data may be stored anywhere in the world,,bad,25,1.0
+168,168,CNet may collect your device fingerprint.,,bad,50,1.0
+169,169,You authorise the service to charge a credit card supplied on re-occurring basis,,neutral,50,10.0
+170,170,Your personal data is given to third parties,,bad,10,11.0
+171,171,CNN may collect your device fingerprint.,,bad,50,1.0
+172,172,sign away moral rights,,blocker,50,2.0
+173,173,Users have a reduced time period to take legal action against the service,,bad,50,9.0
+174,174,Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.,,neutral,20,6.0
+175,175,Users shall not interfere with another person's enjoyment of the service,,bad,20,12.0
+176,176,Prohibits the posting of pornographic content,,neutral,15,17.0
+177,177,Provides instructions on how to submit a copyright claim,,neutral,10,5.0
+178,178,This service does not track you,,good,100,19.0
+179,179,User logs are deleted after a finite period of time,,good,80,10.0
+180,180,The cookies used by this service do not contain information that would personally identify you,,good,50,7.0
+181,181,"If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",,good,50,6.0
+182,182,This service allows you to retrieve an archive of your data,,good,40,11.0
+183,183,User feedback is invited regarding changes to the terms.,,good,30,5.0
+184,184,The terms for this service are easy to read,,good,15,12.0
+185,185,This service does not condone any ideas contained in its user-generated contents,,neutral,0,6.0
+186,186,Features of the website are made available under a free software license,,good,90,5.0
+187,187,Content is published under a free license instead of a bilateral one,,good,90,2.0
+188,188,Your private content may be accessed by people working for the service,,neutral,30,5.0
+189,189,Many third parties are involved in operating the service,,bad,50,8.0
+190,190,Couchsurfing may close your account at their sole discretion,,bad,60,1.0
+191,191,Couchsurfing becomes the owner of ideas you give them,,bad,50,1.0
+192,192,"Couchsurfing keeps the license on your content, even after you close your account",,bad,50,1.0
+193,193,The copyright license on user data is broader than necessary,,bad,50,1.0
+194,194,Couchsurfing may retain your data after deactivation for legitimate business purposes,,bad,25,1.0
+195,195,Couchsurfing may share aggregated or anonymized information that does not directly identify you.,,neutral,10,1.0
+196,196,You are not allowed to use a nick name,,neutral,10,1.0
+197,197,Promotional communications are opt-out,,good,10,1.0
+198,198,Couchsurfing informs you about the fact that you can disable cookies,,bad,5,1.0
+199,199,You should follow the community guidelines,,neutral,0,1.0
+200,200,You cannot blame CouchSurfing for disputes you have with other users,,neutral,0,1.0
+201,201,You can opt out of targeted advertising,,good,25,3.0
+202,202,This service cannot be held responsible for disputes that you may have with other users,,neutral,0,5.0
+203,203,The court of law governing the terms is in California,,neutral,0,2.0
+204,204,The terms for this service are easy to read and include plain language summaries,,good,15,1.0
+205,205,They store data on you even if you did not interact with the service,,bad,100,1.0
+206,206," Terms of Service may be changed any time at their discretion, without notice to the user ",,bad,70,1.0
+207,207,"Users should revisit the privacy policy periodically, although in case of material changes, the service will put a notice on the site",,neutral,50,1.0
+208,208,"You waive your moral rights, that you, as author, have or may in your Content",,blocker,50,1.0
+209,209,The court of law governing the terms is in the Province of Ontario and the applicable laws of Canada,,neutral,0,1.0
+210,210,Your personal information are an asset for business transfers,,bad,20,1.0
+211,211,The service is not responsible for linked or (clearly) quoted content from third-party content providers,,neutral,50,7.0
+212,212,only for your individual use,,neutral,10,1.0
+213,213,Discogs can delete your account without prior notice and without a reason,,bad,60,1.0
+214,214,Users grant Discogs the right to use their content across all their services,,neutral,50,1.0
+215,215,Discogs does not guarantee that any software errors will be corrected,,bad,50,1.0
+216,216,Discogs assumes no liability for any losses or damages resulting from any matter relating to the service,,bad,50,1.0
+217,217,The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.,,bad,50,8.0
+218,218,"Discogs is only available for use individually and non-commercially, except with written consent",,neutral,25,1.0
+219,219,"Discogs users agree not to submit libelous, harassing or threatening content",,neutral,20,1.0
+220,220,Discogs prohibits users from attempting to gain unauthorized access to other computer systems,,neutral,20,1.0
+221,221,Discogs users shall not interfere with another person's enjoyment of the service,,bad,20,1.0
+222,222,The Discogs website is provided 'as is' and to be used at the users' sole risk,,bad,20,1.0
+223,223,This service is only available to users of the minimum age of consent and up,,neutral,15,1.0
+224,224,Invalidity of any portion of Discogs' Terms of Service does not entail invalidity of its remainder,,neutral,10,1.0
+225,225,Users agree to comply with U.S. law,,neutral,0,1.0
+226,226,Discogs does not guarantee that it or the products obtained through it meet the users' expectations or requirements,,bad,0,1.0
+227,227,Discogs does not condone any ideas contained in the items listed via the service,,neutral,0,1.0
+228,228,"The court of law governing Discogs' terms is in the State of Oregon, United States of America",,neutral,0,1.0
+229,229,"When the service wants to change its terms, users are notified a week or more in advance.",,good,15,7.0
+230,230,"The privacy policy may be changed any time at their discretion, without notice to the user ",,bad,70,1.0
+231,231,"When the service wants to change its Terms of Service, users are notified a month or more in advance",,good,40,1.0
+232,232,Third parties may be involved in operating the service,,bad,15,15.0
+233,233,Accessibility to this service is guaranteed at 99.9%,,good,10,1.0
+234,234,Only aggregate data is given to third parties,,neutral,10,6.0
+235,235,The service is not transparent regarding government requests or inquiries that may involve user data. ,,neutral,0,2.0
+236,236,Your profile is combined across various products,,bad,50,3.0
+237,237,"If you are the target of a copyright claim, your content may be removed",,neutral,50,7.0
+238,238,Dropbox will notify of changes on the terms,,neutral,0,1.0
+239,239,"Conditions may change, but your continued acceptance is not inferred from an earlier acceptance flow",,neutral,50,1.0
+240,240,This service provides a way for you to export your data,,good,30,10.0
+241,241,info given about what personal data they collect,,good,30,4.0
+242,242,This service respects your browser's Do Not Track (DNT) headers,,good,30,9.0
+243,243,This service tracks which web page referred you to it,,bad,50,2.0
+244,244,Blocking first party cookies may limit your ability to use the service,,neutral,50,1.0
+245,245,The service warns you of the potential consequences related to third-party access,,good,30,3.0
+246,246,This service requires first-party cookies,,neutral,10,2.0
+247,247,The service provides a free help desk,,good,10,1.0
+248,248,Usernames can be rejected for any reason,,bad,20,4.0
+249,249,The service will not allow third parties to access your personal information without a legal basis,,good,50,8.0
+250,250,The service does not index or open files that you upload,,good,40,1.0
+251,251,Credits are non-refundable,,neutral,50,1.0
+252,252,info given about security practices,,good,15,8.0
+253,253,"The service may terminate, suspend, or block your account at any time.",,neutral,15,1.0
+254,254,Your identity is used in ads that are shown to other users,,blocker,90,2.0
+255,255,App required for this service requires broad device permissions,,bad,80,2.0
+256,256,Facebook uses your data for many purposes,,bad,40,1.0
+257,257,deleted content is not really deleted,,blocker,30,1.0
+258,258,Facebook uses cookies,,neutral,10,1.0
+259,259,Users are entitled to a refund if certain thresholds or standards are not met by the service,,good,30,7.0
+260,260,The service may sell your data unless you opt out,,bad,60,1.0
+261,261,Any liability on behalf of the service is only limited to the fees you paid as a user,,bad,10,4.0
+262,262,Age limit of 18,,neutral,15,1.0
+263,263,"Yahoo's copyright license for photos, graphics, audio and video limited for purpose",,good,15,1.0
+264,264,Fox News may collect your device fingerprint.,,bad,50,1.0
+265,265,You wave your right to a class action.,,bad,50,4.0
+266,266,The service uses your personal data is used for advertising,,bad,30,1.0
+267,267,age limit,,neutral,15,3.0
+268,268,"Users can scrape the site, as long as it doesn't impact the server too much",,good,50,1.0
+269,269,easy to read,,good,15,5.0
+270,270,Your account can be suspended and your data deleted any time for any reason,,bad,60,1.0
+271,271,You shall defend and indemnify GitHub,,bad,60,1.0
+272,272,critical changes without user involvement,,bad,35,2.0
+273,273,you are responsible for what you publish,,neutral,10,3.0
+274,274,you can choose the copyright license,,good,10,1.0
+275,275,Limited copyright license to operate and improve all Google Services,,neutral,50,1.0
+276,276,Google may collect your device fingerprint.,,bad,50,1.0
+277,277,Google can use your content for all their existing and future services,,bad,50,1.0
+278,278,Partial archives of their terms are available,,good,50,1.0
+279,279,This service uses your personal information for many different purposes,,bad,40,5.0
+280,280,Google may stop providing services to you at any time,,bad,40,1.0
+281,281,Google keeps the rights on your content when you stop using it,,bad,25,1.0
+282,282,Google can share your personal information with other parties,,bad,10,1.0
+283,283,Jurisdiction in California,,neutral,0,1.0
+284,284,"defend, indemnify, hold harmless; survives termination",,bad,80,2.0
+285,285,No promise to inform about government requests,,bad,50,2.0
+286,286,"Grammarly does not notify users before being involved in a merger, sale, or acquisition",,bad,20,1.0
+287,287,Grammarly uses third-party cookies and Google to show ads,,neutral,10,1.0
+288,288,Tracking,,bad,50,1.0
+289,289,"If you deactivate your account, Groupon cannot guarantee that they will always delete records.",,bad,25,1.0
+290,290,This service is only available to users that are 13 years old and up,,neutral,15,1.0
+291,291,User suspension from the service will be fair and proportionate.,,good,20,4.0
+292,292,no tracking,,good,100,1.0
+293,293,user feedback is invited,,good,30,1.0
+294,294,The privacy policy for this service are easy to read,,good,15,1.0
+295,295,This service is only available to users of at least 18 years of age,,neutral,15,1.0
+296,296,"They can delete any of your data (files, music, messages, etc.) at any time and without notice",,blocker,50,1.0
+297,297,To use IFTTT you must be an individual and 18 years old,,neutral,15,1.0
+298,298,Imgur may collect your device fingerprint.,,bad,50,1.0
+299,299,This service retains rights to your content even after you stop using your account,,bad,25,5.0
+300,300,The service may collect extra data about you through promotions,,bad,50,2.0
+301,301,no spidering or crawling,,neutral,10,5.0
+302,302,"This service employs third-party cookies, and doesn't allow opt-out of all cookies",,bad,5,1.0
+303,303,The service does not share user information with third parties,,good,50,4.0
+304,304,Very broad copyright license on your content,,bad,80,2.0
+305,305,Instagram shares information with many third parties,,bad,50,1.0
+306,306,You waive your right to a class action,,bad,50,1.0
+307,307,"Terms may be changed at their discretion, but they will notify you before.",,good,15,1.0
+308,308,Instagram Court of law is California,,neutral,0,1.0
+309,309,"If you materially breach the terms of service, the service gives 30 days of notice before terminating your account",,good,15,1.0
+310,310,"The service can deny, cancel, terminate, suspend, lock, or modify access to (or control of) your account for any reason",,bad,60,1.0
+311,311,"They may stop providing any of the services at any time, for any or no reason, and without prior notice",,bad,40,1.0
+312,312,"The service conduct data profiling based on your characteristics, behavior and preferences for advertising",,bad,30,1.0
+313,313,This service is only available to users that are at least eighteen (18) years of age or otherwise recognized under applicable law ,,neutral,15,1.0
+314,314,Users can access most of the pages on the service's website and use most of the app's functions without revealing any personal information,,good,60,1.0
+315,315,iStudiez Pro Cloud Sync accounts are only available to users that are at least 13 years old,,neutral,15,1.0
+316,316,class action waiver,,bad,50,1.0
+317,317,jobvite.com can change terms without notifying you,,bad,70,1.0
+318,318,"If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",,good,20,6.0
+319,319,You cannot distribute or disclose your account to third parties,,neutral,10,2.0
+320,320,Developed features are made available under a Free Software license,,good,90,1.0
+321,321,KolabNow is very strict when providing access to Lawful Interception requests,,good,50,1.0
+322,322,Suspension will be fair and proportionate,,good,20,1.0
+323,323,The terms for this service are translated into different languages,,neutral,0,6.0
+324,324,LastPass will not provide refunds if they terminate you account or terminate the service,,neutral,50,1.0
+325,325,Emails sent to lastpass may be published publically,,bad,50,1.0
+326,326,No assurance of an opt-out method for non-transactional email,,bad,30,1.0
+327,327,Their legal documents are published under a Creative Commons license,,good,20,1.0
+328,328,"LastPass never has clear-text versions of your critical data, including passwords or master password",,good,15,1.0
+329,329,They collect non-identifying information about website visitors,,neutral,10,1.0
+330,330,The service will only respond to government requests that are reasonable,,good,30,2.0
+331,331,Will not sell your data,,good,25,1.0
+332,332,This service keeps user logs for an undefined period of time,,bad,100,2.0
+333,333,"Users are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",,neutral,10,1.0
+334,334,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,,good,50,3.0
+335,335,This service is only available to users aged 14 and above,,neutral,15,1.0
+336,336,The policy refers to documents that are missing or unfindable,,bad,50,2.0
+337,337,"The copyright license that users grant to the service is limited for the purposes of that same service, and not third parties.",,good,15,5.0
+338,338,You maintain ownership of your data (the content you create and post on Medium),,good,50,1.0
+339,339,This service is only available only for people 13 years old and over,,neutral,15,1.0
+340,340,"The court of law governing the terms is in San Francisco, California",,neutral,0,1.0
+341,341,"On mega.co.nz, you are responsible for the behavior of other users",,bad,40,1.0
+342,342,"User-generated content is encrypted, and this service cannot decrypt it",,good,50,3.0
+343,343,You can choose with whom you share content,,good,0,2.0
+344,344,This service is only available to users 13+,,neutral,15,2.0
+345,345,The court of law governing the terms is in the State of Connecticut,,neutral,0,1.0
+346,346,No Trackers & Privacy Focused,,good,30,1.0
+347,347,"you publish under a free license, not a bilateral one",,good,90,2.0
+348,348,No need to register,,good,50,4.0
+349,349,The service prohibits the public posting of private messages,,good,50,1.0
+350,350,The service prohibits political forum discussions,,neutral,30,1.0
+351,351,This service prohibits the posting of content which glorifies violence or is politically or religiously extremist,,neutral,20,1.0
+352,352,The service prohibits the promotion of fascist and racist ideas or content,,neutral,20,1.0
+353,353,The service prohibits the posting of pornographic content,,neutral,15,1.0
+354,354,This service is only available users over the age of 13 years old in the United States and 16 years old in the European Union,,neutral,15,1.0
+355,355,Broad copyright license to perform the service,,bad,50,1.0
+356,356,"User keeps all rights to his novels, no novel texts are stored",,good,50,1.0
+357,357,"The service provides information about its attitude towards ethical, social or political problems or controversies",,good,25,5.0
+358,358,"Netflix reserve the right to disclose personal info, no notification.",,bad,50,1.0
+359,359,Lawsuit and class action waiver. Arbitration agreement. Survives termination of ToU agreement.,,bad,50,1.0
+360,360,Users can request access and deletion of personal info.,,good,50,1.0
+361,361,Personal info is used for advertising.,,bad,40,1.0
+362,362,No liability is accepted for improper access to your personal information.,,bad,30,1.0
+363,363,Terms and privacy policy pages are organized and formatted well.,,good,15,1.0
+364,364,Cookies are required.,,neutral,10,1.0
+365,365,User logs are deleted after 30 days,,good,80,1.0
+366,366,Only necessary user logs are kept by the service to ensure quality,,good,50,4.0
+367,367,The service does not use third-party analytics or tracking,,good,25,1.0
+368,368,This services gives no guarantee regarding quality,,bad,20,6.0
+369,369,You cannot delete your account for this service,,blocker,70,1.0
+370,370,The court of law governing the terms is in the Netherlands,,neutral,0,1.0
+371,371,This service reserves the right to disclose your personal information without notifying you,,bad,50,4.0
+372,372,This service does not force users into binding arbitration,,good,50,3.0
+373,373,The service allows you to use pseudonyms for personal accounts,,good,20,1.0
+374,374,You must use your real name to sign up for a team account,,bad,20,1.0
+375,375,Users agree to comply with the laws of California the United States,,neutral,0,1.0
+376,376,You can choose the copyright license,,good,10,3.0
+377,377,Сервис получает права на отзывы и комментарии на весь срок действия исключительного права,,bad,50,1.0
+378,378,"Вы несёте ответственность за сохранность логина и пароля, и действия от Вашего имени, если не уведомите о компрометации",,neutral,10,1.0
+379,379,Пользователь соглашается соблюдать законодательство страны сервиса,,neutral,0,1.0
+380,380,Service fines users $1000 for certain terms of service violations,,bad,80,1.0
+381,381,Service can block or censor user communications,,bad,60,1.0
+382,382,Users have a 6 month time period to take legal action against the service,,bad,50,1.0
+383,383,This service reserves the right to publicly reveal personal information without notifying you,,bad,50,1.0
+384,384,"The court of law governing the terms is in Seattle, Washington",,neutral,0,1.0
+385,385,This service is only available to users 13 years old and over; pledges are only for users at least 18 years old or with parental permission,,neutral,15,1.0
+386,386,"They reserve the right to suspend/terminate your access to or use of the Site without notice, in their sole discretion. ",,bad,60,1.0
+387,387,Pinterest collects user log data on its own website and other websites with Pin It buttons.,,bad,60,1.0
+388,388,This service will warn users about website maintenance,,good,30,1.0
+389,389,You are responsible for maintaining the security of your account and for the activities on your account.,,neutral,10,1.0
+390,390,"The service can change, redact, and delete specific content without prior notice and without a reason",,blocker,50,1.0
+391,391,The court of law governing the terms is in location Switzerland,,neutral,0,1.0
+392,392,The court of law governing the terms is in the UK,,neutral,0,1.0
+393,393,Quora collects all data you input and data of your device,,bad,50,1.0
+394,394,your personal data is used for limited purposes,,good,60,1.0
+395,395,you can request access and deletion of personal data,,good,50,1.0
+396,396,only necessary logs are kept,,good,50,1.0
+397,397,info given about intended use of your information,,good,30,1.0
+398,398,only temporary session cookies,,good,20,1.0
+399,399,you can leave at any time,,good,15,1.0
+400,400,translated into only a few languages,,neutral,0,1.0
+401,401,free software; you can run your own instance,,good,90,1.0
+402,402,Reddit holds unlimited copyright license on your content,,bad,50,1.0
+403,403,Reddit choice of law: San Francisco,,neutral,0,1.0
+404,404,"The court of law governing the terms is in Vienna-Innere Stadt, Austria. ",,neutral,0,1.0
+405,405,personal data is used for advertising,,bad,30,1.0
+406,406,pseudonym not allowed (user-to-user trust is relevant for service),,neutral,10,2.0
+407,407,The service can delete your account without prior notice and without a reason ,,bad,60,1.0
+408,408,Multiple Violations will result in termination of all accounts.,,good,50,1.0
+409,409,they may stop providing the service at any time,,bad,40,1.0
+410,410,The court of law governing the terms is in the State of California,,neutral,0,1.0
+411,411,The copyright license that users grant this service is limited to the parties that make up the service's broader platform.,,neutral,50,1.0
+412,412,The service promises (subject to law) to inform and/or notify users regarding government inquiries that may involve users' personal data ,,good,50,1.0
+413,413,The service can suspend your account for violating the terms of service,,neutral,15,1.0
+414,414,The court of law governing the terms is in the State of Delaware,,neutral,0,1.0
+415,415,User accounts can be terminated after having been in breach of the DMCA repeatedly,,good,50,1.0
+416,416,requires first-party cookies,,neutral,10,1.0
+417,417,You are free to choose your copyright license,,good,50,1.0
+418,418,You can get your data back,,good,40,1.0
+419,419,Right to leave the service,,good,15,1.0
+420,420,You must be at least 13 years old to use the service,,neutral,15,1.0
+421,421,Court of law is in California,,neutral,0,1.0
+422,422,sets third-party cookies and/or ads,,bad,70,2.0
+423,423,Softpedia uses third-party targeted advertising,,bad,40,1.0
+424,424,Softpedia choice of law is Romania,,neutral,0,1.0
+425,425,They delete user logs after 2 weeks,,good,80,1.0
+426,426,You stay in control of your copyright,,good,50,1.0
+427,427,Indemnification from claims related to your content or your account,,bad,40,1.0
+428,428,You can terminate your account,,good,15,1.0
+429,429,SoundCloud's jurisdiction is in Germany,,neutral,0,1.0
+430,430,This service can view your browser history,,blocker,50,1.0
+431,431,SpiderOak cannot decrypt your files,,good,50,1.0
+432,432,You grant perpetual license to anything you publish,,bad,80,1.0
+433,433,Spotify can delete your account without telling you,,bad,60,1.0
+434,434,Spotify may merge your current personal info with more if you participate in a Special Promotion,,bad,50,1.0
+435,435,Spotify doesn't provide refunds,,neutral,50,1.0
+436,436,Spotify states risks of public information,,good,40,1.0
+437,437,Personal data is defined,,good,30,1.0
+438,438,Spotify defines intended use of your information,,good,30,1.0
+439,439,Spotify gives no guarantee for quality of service,,bad,20,1.0
+440,440,Spotify provides limited solutions for software problems,,bad,20,1.0
+441,441,You can unsubscribe at any time,,good,15,1.0
+442,442,Your data is accessible to trading partners,,bad,10,1.0
+443,443,The ToS are only translated into a few languages,,neutral,0,1.0
+444,444,Users are responsible for charges even if device is lost,,neutral,10,1.0
+445,445,Trial and class action waiver,,bad,50,1.0
+446,446,No refund policy,,neutral,50,1.0
+447,447,Notifications 30 days before changes.,,good,40,1.0
+448,448,refund policy,,good,30,1.0
+449,449,A user can voluntarily cancel their account at any time.,,good,15,1.0
+450,450,Must be competent to enter the terms,,neutral,15,1.0
+451,451,Copyright license limited for the purposes of that same service but transferable and sublicenseable,,good,15,1.0
+452,452,ToS;DR does not track you,,good,100,1.0
+453,453,ToS;DR refers users to Heroku's Terms of Service for more information,,bad,25,1.0
+454,454,ToS;DR gives no guarantee regarding quality,,bad,20,1.0
+455,455,ToS;DR provides information on its password security mechanism,,good,15,1.0
+456,456,ToS;DR will continue using anonymized user-generated content even after erasure of personal information,,bad,15,1.0
+457,457,The terms for ToS;DR are easy to read,,good,15,1.0
+458,458,Vouchers Can be Redeemed for Cash,,good,30,1.0
+459,459,third parties may be involved in operating the service,,bad,15,1.0
+460,460,Tumblr requires third party cookies,,bad,70,1.0
+461,461,Tumblr provides access to previous TOS and privacy policy,,good,50,1.0
+462,462,You maintain ownership of your Tumblr content,,good,50,1.0
+463,463,"Tumblr can limit, restrict, suspend Services at any time without prior notice",,bad,40,1.0
+464,464,Copies of your content may remain indefinitely on Tumblr's systems,,blocker,30,1.0
+465,465,Third parties used by Tumblr are bound by confidentiality obligations,,good,20,1.0
+466,466,Tumblr has provisions for users outside the US,,neutral,0,1.0
+467,467,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of TunnelBear",,bad,60,1.0
+468,468,There is a date of the last update of the privacy policy,,neutral,50,1.0
+469,469,TunnelBear's data retention period is kept to the minimum necessary for fulfilling its purposes,,good,50,1.0
+470,470,TunnelBear is provided 'as is' and to be used at the users' sole risk,,bad,20,1.0
+471,471,Any liability on behalf of TunnelBear is only limited to the fees you paid as a user in the twelve months prior to the claim,,bad,10,
+472,472,Provides information on security practices,,good,15,1.0
+473,473,The service is transparent regarding goverment request or inqueries,,neutral,0,1.0
+474,474,TV Tropes uses your personal data to employ targeted third-party advertising,,bad,40,1.0
+475,475,Twitch can use and appropriate broadcaster content for anything,,bad,50,1.0
+476,476,Third party cookies,,bad,70,1.0
+477,477,Twitter provide archives of their terms,,good,50,1.0
+478,478,You can retrieve an archive of your data,,good,40,1.0
+479,479,Twitter does not require cookies to function,,neutral,10,1.0
+480,480,Uber can transfer the TOS to affiliates and successors without your consent,,bad,50,1.0
+481,481,You have the right to request lower Charges from Third Party Providers,,neutral,50,1.0
+482,482,Users are provided compensation according to Upcloud's service level agreement for any unscheduled interruptions,,good,30,1.0
+483,483,The service guarantees 100% virtual server and network availability to the Customer,,good,10,1.0
+484,484,The court of law governing the terms is in Finland.,,neutral,0,1.0
+485,485,your private content may be accessed by staff,,neutral,30,1.0
+486,486,"Although this service allows users to retrieve their data, the process is difficult and time-consuming.",,bad,10,1.0
+487,487,Privacy policy has folding paragraphs which are easy to read,,good,15,1.0
+488,488,"The court of law governing the terms is in Portland, Oregon, USA",,neutral,0,1.0
+489,489,"The court of law governing the terms is in the State of California, US",,neutral,0,1.0
+490,490,You publish your contributions under free licenses,,good,90,1.0
+491,491,"You cannot delete your contributions, but that makes sense for this service",,neutral,20,1.0
+492,492,Wikipedia users responsible for their own contributions,,neutral,10,1.0
+493,493,"The court of law governing the terms is in San Francisco County, California",,neutral,0,
+494,494,You can request the access and deletion of personal data.,,good,50,1.0
+495,495,Temporary session cookies,,good,20,1.0
+496,496,Wordpress.com may collect your device fingerprint.,,bad,50,1.0
+497,497,Limited copyright license to Wordpress.com including for promotion,,good,15,1.0
+498,498,No pseudonym allowed,,bad,20,1.0
+499,499,Yahoo! may collect your device fingerprint.,,bad,50,1.0
+500,500,"Processes a personal information (email, id but also device info, location)",,bad,50,1.0
+501,501,The copyright license is broader than necessary,,bad,50,1.0
+502,502,Reduction of legal period for cause of action,,bad,50,1.0
+503,503,They can remove your content at any time and without prior notice,,blocker,50,1.0
+504,504,Deleted videos are not really deleted,,blocker,30,1.0
+505,505,They help you to deal with take-down notices,,good,20,1.0
+506,506,You are solely responsible for your account,,neutral,10,1.0
+507,507,Jurisdiction and law of California,,neutral,0,1.0
