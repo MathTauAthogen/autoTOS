@@ -1,0 +1,114 @@
+[
+	{
+		"id": 0,
+		"old_ids": [32, 148, 468],
+		"title": "Has last updated date",
+		"effect": "neutral",
+		"weight": 50
+	},
+	{
+		"id": 1,
+		"old_ids": [15],
+		"title": "Only available to users of a certain age",
+		"effect": "neutral",
+		"weight": 15
+	},
+	{
+		"id": 2,
+		"old_ids": [38, 66, 157, 133, 159],
+		"title": "Tracking pixels and/or device fingerprinting",
+		"effect": "bad",
+		"weight": 50
+	},
+	{
+		"id": 3,
+		"old_ids": [6, 222, 470, 5, 102, 53],
+		"title": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+		"effect": "bad",
+		"weight": 20
+	},
+	{
+		"id": 4,
+		"old_ids": [41, 284, 116, 80, 271, 267, 46],
+		"title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+		"effect": "bad",
+		"weight": 60
+	},
+	{
+		"id": 5,
+		"old_ids": [29],
+		"title": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+		"effect": "bad",
+		"weight": 60
+	},
+	{
+		"id": 6,
+		"old_ids": [47, 156, 213, 270, 296, 390, 433],
+		"title": "The service can delete your account and/or other content without prior notice and without a reason",
+		"effect": "bad",
+		"weight": 60
+	},
+	{
+		"id": 7,
+		"old_ids": [16, 45, 143, 206, 81],
+		"title": "Terms may be changed any time at the service's discretion, with or without notice to the user",
+		"effect": "bad",
+		"weight": 70
+	},
+	{
+		"id": 8,
+		"old_ids": [43, 273, 389, 162, 96, 165, 216, 362],
+		"title": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+		"effect": "neutral",
+		"weight": 10
+	},
+	{
+		"id": 9,
+		"old_ids": [9, 331],
+		"title": "This service does not sell your personal data",
+		"effect": "good",
+		"weight": 25
+	},
+	{
+		"id": 10,
+		"old_ids": [42, 145, 360, 395, 494, 115, 65],
+		"title": "You can request access and deletion of personal data",
+		"effect": "good",
+		"weight": 50
+	},
+	{
+		"id": 11,
+		"old_ids": [31, 260],
+		"title": "This service can sell your personal data",
+		"effect": "bad",
+		"weight": 50
+	},
+	{
+		"id": 12,
+		"old_ids": [100, 74, 167],
+		"title": "Your data may be processed and stored anywhere in the world",
+		"effect": "bad",
+		"weight": 25
+	},
+	{
+		"id": 13,
+		"old_ids": [37, 98, 27, 422, 302, 423, 132],
+		"title": "This service uses third-party cookies for statistics and/or advertising",
+		"effect": "bad",
+		"weight": 70
+	},
+	{
+		"id": 14,
+		"old_ids": [78, 197],
+		"title": "You can opt out of promotional communications",
+		"effect": "good",
+		"weight": 10
+	},
+	{
+		"id": 15,
+		"old_ids": [90, 399, 419],
+		"title": "You have the right to leave this service at any time",
+		"effect": "good",
+		"weight": 15
+	},
+]

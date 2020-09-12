@@ -83,9 +83,30 @@ def iterative_stratification(tokens, proportions, lookup):
     return subsets, unlabeled
 
 
+def preprocess_labels(data):
+    # This modifies class ids based on the mapping in classes.json,
+    # removing all of the ids that aren't part of the predefined set
+    id_mapping = dict()
+    with open("classes.json", "r") as mapping:
+        mapping_json = json.loads(mapping.read())
+    for entry in mapping_json:
+        for i in entry["old_ids"]:
+            id_mapping[i] = entry["id"]
+
+    for token in data:
+        for i, label in enumerate(list(token["labels"])):
+            if label["class_id"] not in id_mapping.keys():
+                del token["labels"][i]
+                continue
+            token["labels"][i]["class_id"] = id_mapping[label["class_id"]]
+
+
 if __name__ == "__main__":
     with open(sys.argv[1], "r") as f:
         data = json.loads(f.read())
+
+    preprocess_labels(data)
+
     cleaned_data = {d["token"]: [lab["class_id"] for lab in d["labels"]] for d in data}
     lookup = {d["token"]: d for d in data}
 
