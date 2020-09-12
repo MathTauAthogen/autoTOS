@@ -14,8 +14,8 @@ gcloud projects add-iam-policy-binding $PROJECT_ID \
 gcloud iam service-accounts keys create key.json --iam-account \
 	$SA_NAME@$PROJECT_ID.iam.gserviceaccount.com
 
-export GOOGLE_APPLICATION_CREDENTIALS='../config/key.json'
+export GOOGLE_APPLICATION_CREDENTIALS="key.json"
 
 export BUCKET='autotos-model'
 
-gsutil mb gs://$BUCKET
+# gsutil mb gs://$BUCKET
