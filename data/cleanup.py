@@ -12,7 +12,8 @@ import string
 # Function removerange
 # Inputs: a, the first index of the substring; b, the last index of the substring; lens, an array of the current indices of the tokens; labels, a current list of all of the info about the tokens.
 # Output: A new lens and labels list, where lens has the combined token size and labels has all of the data about the token.
-def removerange(a, b, lens, labels, (sub,sub2)):
+def removerange(a, b, lens, labels, substitute):
+    sub, sub2 = substitute
     c = []
     inb = True
     for i in range(len(lens)):
@@ -50,9 +51,9 @@ for b in sluglist:
     with open("tos/"+b+".txt", "r") as g:
         full = g.read() #Get the full text
         printable = set(string.printable)
-        full = filter(lambda x: x in printable, full)
+        full = ''.join(filter(lambda x: x in printable, full))
         tokenlistb = full.splitlines() #Get a list of sentences
-        lens = [sum(map(len,tokenlistb[:i]))+i+1 for i in range(len(tokenlistb) + 1)] #Find the starting index of each sentences
+        lens = [sum(map(len,tokenlistb[:i]))+i+1 for i in range(len(tokenlistb) + 2)] #Find the starting index of each sentences
 
         full = " ".join(full.split('\n')) #Put the full text on only one line.
 
