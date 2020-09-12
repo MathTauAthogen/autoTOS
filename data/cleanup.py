@@ -23,6 +23,7 @@ def removerange(a, b, lens, labels, substitute):
         if((not inb) and lens[i]>b):
             c += [i]
             break
+    assert(c[0]>=1)
     return [lens[:c[0]]+lens[c[1]:], labels[:c[0] - 1]+[(sub,sub2,a,b)]+labels[c[1]:]]
 
 ###############################################################################################################
@@ -65,7 +66,7 @@ for b in sluglist:
     for i, row in sitedf.iterrows():
         sub = " ".join(row['excerpt'].split('\n'))
         printable = set(string.printable)
-        sub = filter(lambda x: x in printable, sub)
+        sub = ''.join(filter(lambda x: x in printable, sub))
         sub2 = row['class_id']
         try:
             ind = full.index(sub)
@@ -82,8 +83,9 @@ for b in sluglist:
 
     dff = [{"token":full[lens[i]-1:lens[i+1] - 2], "labels":[{"text":labels[i][0], "start":labels[i][2]-lens[i]+2, "end":labels[i][3]-lens[i]+1, "class_id":labels[i][1]} for j in range(i,i+1) if labels[j] != ('','','','')]} for i in range(len(labels))]
     c += dff
-    print(json.dumps(dff))
+    #print(json.dumps(dff))
 print("Finale:")
-print(json.dumps(c))
+with open('temp.json', 'w') as fp:
+    json.dump(c,fp)
 print("Borked:")
 print(borked)
