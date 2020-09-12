@@ -64,8 +64,10 @@ for b in sluglist:
     #sub = label, iterate over all
     #sub2 = its class_id
 
+    badlines = []
+
     for i, row in sitedf.iterrows():
-        sub = "".join("".join(row['excerpt'].split('\n')).split(". ")).strip(" ").strip(".")
+        sub = "".join("".join(str(row['excerpt']).split('\n')).split(". ")).strip(" ").strip(".")
         printable = set(string.printable)
         sub = ''.join(filter(lambda x: x in printable, sub))
         sub2 = row['class_id']
@@ -73,17 +75,15 @@ for b in sluglist:
             ind = full.index(sub)
             lens, labels = removerange(ind, ind + len(sub), lens, labels, (sub, sub2))
         except:
-            borked += [b]
-            borkedq = True
-            print(sub)
-            break
+            badlines += [(sub,sub2)]
 
     if(borkedq):
         continue
 
     #And finish it off
-
     dff = [{"token":full[lens[i]-1:lens[i+1] - 2], "labels":[{"text":labels[i][0], "start":labels[i][2]-lens[i]+1, "end":labels[i][3]-lens[i]+1, "class_id":labels[i][1]} for j in range(i,i+1) if labels[j] != ('','','','')]} for i in range(len(labels))]
+    dfb = [{"token":badlines[i][0], "labels":[{"text":badlines[i][0], "start":0, "end":len(badlines[i][0]), "class_id":badlines[i][1]}]}for i in range(len(badlines))]
+    c += dfb
     c += dff
     #print(json.dumps(dff))
 print("Finale:")
