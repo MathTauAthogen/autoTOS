@@ -1,7 +1,17 @@
+# Cleans up the data! See the Google Doc (https://docs.google.com/document/d/1Vjsw9VIRL8PDP4b7krbxwE0MRT4YMP06uGuQVYCLXdo/edit)
+# Puts it in the "Model Data" format
+#
+#
+# TODO list:
+# 1. Loop over all sites
+# 2. Introduce some kind of code standards
+# 3. Test with real data
+
 import pandas as pd
 
-df = pd.read_csv (r'labeled_excerpts.csv')
-
+# Function removerange
+# Inputs: a, the first index of the substring; b, the last index of the substring; lens, an array of the current indices of the tokens; labels, a current list of all of the info about the tokens.
+# Output: A new lens and labels list, where lens has the combined token size and labels has all of the data about the token.
 def removerange(a, b, lens, labels, (sub,sub2)):
     c = []
     inb = True
@@ -14,19 +24,28 @@ def removerange(a, b, lens, labels, (sub,sub2)):
             break
     return [lens[:c[0]]+lens[c[1]:], labels[:c[0] - 1]+[(sub,sub2,a,b)]+labels[c[1]:]]
 
-a = [] #All of model data; a list of lists which are each of the model data form.
-b = raw_input("Which TOS?")#TEMP: Test on one TOS at a time
-sitedf = df[df['slug'] == b]
-tokenlist = {}
-full = ""
-with open(b+".txt", "r") as g:
-    full = g.read()
-    tokenlistb = full.splitlines()
-    lens = [sum(map(len,tokenlistb[:i])) for i in range(len(tokenlistb) + 1)]
-    tokenlist = [{"token":tokenlistb[i], "start":lens[i], "end":lens[i+1]-1} for i in range(len(tokenlistb))]
-    full = "".join(full.split('\n'))
+###############################################################################################################
 
-labels = [('','') for i in range(len(tokenlistb))]
+b = raw_input("Which TOS?")#TEMP: Test on one TOS at a time
+
+#Initialize the Labelled Excerpts Data Table
+
+df = pd.read_csv (r'labeled_excerpts.csv')
+sitedf = df[df['slug'] == b]
+
+###############################################################################################################
+
+tokenlist = {} # A list of all of the sentences, which are newline-separated in the input.
+full = "" # The full text of the TOS of the site
+
+with open(b+".txt", "r") as g:
+    full = g.read() #Get the full text
+    tokenlistb = full.splitlines() #Get a list of sentences
+    lens = [sum(map(len,tokenlistb[:i])) for i in range(len(tokenlistb) + 1)] #Find the starting index of each sentences
+
+    full = "".join(full.split('\n')) #Put the full text on only one line.
+
+labels = [('','','','') for i in range(len(tokenlistb))] #Initialize something containing inner tuples that can be indexed to the same amount as the other values
 
 #sub = label, iterate over all
 #sub2 = its class_id
@@ -37,7 +56,8 @@ for i, row in sitedf.iterrows():
     ind = full.index(sub)
     lens, labels = removerange(ind, ind + len(sub), lens, labels, (sub, sub2))
 
+#And finish it off
 
-c = [{"token":full[lens[i]:lens[i+1] - 1], "labels":[{"text":labels[i][0], "start":labels[i][2], "end":labels[i][3], "class_id":labels[i][1]}]} for i in range(len(labels))]
+c = [{"token":full[lens[i]:lens[i+1] - 1], "labels":[{"text":labels[i][0], "start":labels[i][2], "end":labels[i][3], "class_id":labels[i][1]}]} for i in range(len(labels)) if labels[i] != ('','','','')]
 
 print(c)
