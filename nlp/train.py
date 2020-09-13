@@ -23,7 +23,7 @@ def train(train_set):
     tokens, labels = convert_model_data(train_set)
     model = SequenceLabeler(
         base_model=RoBERTa,
-        n_epochs=100,
+        n_epochs=5,
         chunk_long_sequences=True,
         eval_acc=True,
         oversample=True,

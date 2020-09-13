@@ -93,6 +93,8 @@ def preprocess_labels(data, filter_with_map=True):
         for i in entry["old_ids"]:
             id_mapping[i] = entry["id"]
 
+    text_stream = open("text.out", "w+")
+    label_stream = open("token.out", "w+")
     for token in data:
         for i, label in enumerate(list(token["labels"])):
             if len(label["text"].strip()) == 0:
@@ -108,7 +110,9 @@ def preprocess_labels(data, filter_with_map=True):
                     token["token"] += add_on_str
                 else:
                     text_stream.write(label["text"] + "\n")
-                    label_stream.write(token["token"] + "\n")
+                    label_stream.write(
+                        token["token"][label["start"] : label["end"]] + "\n"
+                    )
                     del token["labels"][i]
                     continue
 
@@ -121,6 +125,8 @@ def preprocess_labels(data, filter_with_map=True):
 
             else:
                 token["labels"][i]["class_id"] = str(label["class_id"])
+    text_stream.close()
+    label_stream.close()
 
 
 def print_freq_dict(data):
@@ -132,7 +138,7 @@ def print_freq_dict(data):
             else:
                 freq_dict[label["class_id"]] = 1
     freq_dict = dict(sorted(freq_dict.items(), key=lambda x: x[1]))
-    print(freq_dict)
+    print(freq_dict, sum(freq_dict.values()))
 
 
 if __name__ == "__main__":
