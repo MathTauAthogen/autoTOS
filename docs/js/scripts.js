@@ -51,8 +51,8 @@ function parse(fulltext) {
 
   }).then(content => {
     const verdict = document.getElementById("verdict");
-    const predictions = content.predictions[0].predictions;
-    const overall = content.predictions[0].sentiment;
+    const predictions = content[0].predictions;
+    const overall = content[0].sentiment;
 
 
     // sort statements by class
