@@ -34,13 +34,13 @@
           getting into.</span>
       </div>
       <textarea placeholder="▌" spellcheck="false"></textarea>
-      <button onclick="run();">Parse Terms of Service</button>
+      <button class="parse-button" onclick="run();">Parse Terms of Service</button>
       <div id="results-container">
         <div id="results-panel">
-          <button onclick="hide_elem('results-container');">close</button>
-          <h2>Results Summary</h2>
+          <button class="close-button" onclick="hide_elem('results-container');">close</button>
+          <h2 id="verdict"></h2>
           <h3 id="results-blank">We weren't able to identify any
-            features of that text. :(</h3>
+            features in that text. :(</h3>
           <table id="results-table">
             <tbody>
             </tbody>

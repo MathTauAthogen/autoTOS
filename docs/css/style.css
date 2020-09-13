@@ -108,7 +108,7 @@ textarea {
   color: var(--nord11);
 }
 
-main button {
+main .parse-button {
   border: none;
   border-radius: 5px;
   background-color: var(--nord13);
@@ -121,7 +121,7 @@ main button:hover {
   cursor: pointer;
 }
 
-main button:hover::after {
+main .parse-button:hover::after {
   content: " ➱";
 }
 
@@ -135,9 +135,9 @@ main button:focus {
 #results-container {
   position: absolute;
   top: 0;
-  bottom: 0;
   left: 0;
-  right: 0;
+  height: 100%;
+  width: 100%;
   background-color: rgba(0,0,0,0.2);
   display: none;
   flex-direction: column;
@@ -165,14 +165,18 @@ main button:focus {
   font-weight: 400;
 }
 
-#results-panel button {
+#results-panel .close-button {
   display: float;
   float: right;
   margin-top: 15px;
   background-color: var(--nord15);
+  border-radius: 5px;
+  padding: 10px;
+  color: black;
+  border: none;
 }
 
-#results-panel button:hover::after {
+#results-panel .close-button:hover::after {
   content: " ✘";
 }
 
@@ -191,29 +195,51 @@ main button:focus {
   vertical-align: top;
   border-top: 2px solid var(--nord0);
   border-bottom: 2px solid var(--nord0);
-  border-right: 1px solid var(--nord0);
+  border-left: 1px solid var(--nord0);
 }
 
-#results-table td:first-child {
+#results-table .regular td:first-child {
   width: 15px;
   vertical-align: middle;
   border-left: 2px solid var(--nord0);
 }
 
-#results-table td:nth-child(2) {
+#results-table .regular td:nth-child(2) {
   font-weight: 700;
 }
 
-#results-table td:last-child {
+#results-table .regular td:last-child {
   border-right: 2px solid var(--nord0);
+  border-left: none;
+  text-align: right;
 }
 
-#results-table td.good {
+#results-table .regular td.good {
   background-color: var(--nord14);
 }
 
-#results-table td.bad {
+#results-table .regular td.bad {
   background-color: var(--nord12);
+}
+
+#results-table .regular td.neutral {
+  background-color: var(--nord7);
+}
+
+#results-table .regular td button {
+  background-color: var(--nord6);
+  color: black;
+  border: none;
+  text-decoration: underline;
+}
+
+#results-table .details {
+  border: 1px dashed var(--nord9);
+}
+
+.highlight {
+  background-color: var(--nord13);
+  border-radius: 5px;
 }
 
 

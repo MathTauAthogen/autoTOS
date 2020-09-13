@@ -1,19 +1,30 @@
 {
-  "classes": [
+  "predictions": [
     {
-      "name": "Murder",
-      "description": "This is a license to kill",
-      "good": true
-    },
-    {
-      "name": "No maiming",
-      "description": "This license does not allow you to maim your opponents",
-      "good": false
-    },
-    {
-      "name": "Trial by combat",
-      "description": "You agree to waive your right to a court trial, binding arbitration, or any other mode of dispute resolution except for a trial by combat, which will be conducted from sunrise until sunset on the seventeenth day of the month during which the dispute arose, excepting the month of July, when the duel will take place on the eighteenth. Each party will be permitted only one of the following weapons, of his or her choosing: rubber chicken, war balloon, or weaponized toaster oven.",
-      "good": true
+      "predictions": [
+        {
+          "name": "Murder",
+          "description": "This is a license to kill.",
+          "effect": "good",
+          "weight": 50,
+          "text": "The Service permits the user to use fatal violence if necessary to accomplish this task."
+        },
+        {
+          "name": "No maiming",
+          "description": "This license does not allow you to maim your opponents.",
+          "effect": "bad",
+          "weight": 30,
+          "text": "User is not permitted to cause serious bodily injury to opponents encountered during execution of the Service."
+        },
+        {
+          "name": "Trial by combat",
+          "description": "You agree to hold a trial by combat instead of a court trial or binding arbitration.",
+          "effect": "neutral",
+          "weight": 10,
+          "text": "You agree to waive your right to a court trial, binding arbitration, or any other mode of dispute resolution except for a trial by combat, which will be conducted from sunrise until sunset on the seventeenth day of the month during which the dispute arose, excepting the month of July, when the duel will take place on the eighteenth. Each party will be permitted only one of the following weapons, of his or her choosing: rubber chicken, war balloon, or weaponized toaster oven."
+        }
+      ],
+      "sentiment": 7
     }
   ]
 }
