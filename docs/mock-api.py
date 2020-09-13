@@ -73,7 +73,10 @@ class RequestHandler(BaseHTTPRequestHandler):
                     self.send_header('Content-type', 'application/json')
                     self.end_headers()
                     self.wfile.write(json.dumps({
-                        'classes': []
+                        'predictions': [{
+                            'predictions': [],
+                            'sentiment': 0
+                        }]
                     }).encode('utf-8'))
 
                 else:
