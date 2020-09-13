@@ -53,10 +53,12 @@ function parse(fulltext) {
     const predictions = content.predictions[0].predictions;
     const overall = content.predictions[0].sentiment;
 
+
     // sort statements by class
     // e.g. [{name: 'classname', examples: [...]}]
     let classes = [];
     predictions.forEach(prediction => {
+      prediction.name = prediction.description;
       const matches = classes.filter(c => c.name === prediction.name);
       if (matches.length > 0) {
         matches[0].examples.push(prediction);
@@ -94,7 +96,7 @@ function parse(fulltext) {
       classes.forEach(c => {
         const item = c.examples[0];
         const thumbs_icon = document.createElement("td");
-        const class_name  = document.createElement("td");
+        // const class_name  = document.createElement("td");
         const description = document.createElement("td");
         const source_text = document.createElement("td");
 
@@ -111,13 +113,13 @@ function parse(fulltext) {
           thumbs_icon.classList.add("neutral");
         }
 
-        class_name.textContent = item.name;
+        // class_name.textContent = item.name;
         description.textContent = item.description;
 
         const row = document.createElement("tr");
         row.classList.add("regular");
         row.appendChild(thumbs_icon);
-        row.appendChild(class_name);
+        // row.appendChild(class_name);
         row.appendChild(description);
         row.appendChild(source_text);
         tbody.appendChild(row);
