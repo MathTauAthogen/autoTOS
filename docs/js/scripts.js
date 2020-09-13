@@ -1,5 +1,5 @@
 /* IMPORTANT: be sure to correctly set which API url is in use */
-const temp_api = "autotos.loca.lt/api/parse";
+const temp_api = "http://autotos.loca.lt/api/parse";
 const real_api = "https://autotos.me/api/parse";
 const mock_api = "http://localhost:3000/api/parse";
 const API_URL = temp_api;
