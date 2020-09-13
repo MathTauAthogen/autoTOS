@@ -50,7 +50,7 @@
 	},
 	{
 		"id": 7,
-		"old_ids": [16, 45, 143, 206, 81],
+		"old_ids": [16, 45, 143, 206],
 		"title": "Terms may be changed any time at the service's discretion, without notice to the user",
 		"effect": "bad",
 		"weight": 70
