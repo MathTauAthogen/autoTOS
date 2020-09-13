@@ -4,12 +4,16 @@
 
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.parse import parse_qs
+import ssl
 import json
 from predictor import Predictor
 import traceback
 
-# port number for test server
+# server config
 PORT = 3000
+SSL_KEY = 'ssl/private.key'
+SSL_CERT = 'ssl/ca_bundle.crt'
+
 # predictor object
 model_predictor = Predictor("../nlp/checkpoints/model.ckpt")
 
@@ -116,5 +120,10 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.send_header('Vary', 'Accept-Encoding, Origin')
         self.end_headers()
 
+print('Initializing server')
+httpd = HTTPServer(('0.0.0.0', PORT), RequestHandler)
+print('Wrapping SSL')
+httpd.socket = wrap_socket(httpd.socket, keyfile=SSL_KEY,
+                           certfile=SSL_CERT, server_side=True)
 print('Serving on port %d' % PORT)
-HTTPServer(('0.0.0.0', PORT), RequestHandler).serve_forever()
+httpd.serve_forever()

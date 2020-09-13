@@ -5,6 +5,11 @@ checkpoints
 logs
 *.swp
 
+# key files
+prediction/ssl/private.key
+prediction/ssl/ca_bundle.crt
+prediction/ssl/certificate.crt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
