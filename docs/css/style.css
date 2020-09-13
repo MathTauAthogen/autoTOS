@@ -96,6 +96,7 @@ textarea {
   width: 800px;  /* change for small screens */
   height: 50vh;
   box-shadow: 5px 5px 20px #bbb;
+  caret-color: var(--nord11);
 }
 
 @media only screen and (max-width: 850px) {
