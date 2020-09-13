@@ -10,6 +10,13 @@
           "text": "The Service permits the user to use fatal violence if necessary to accomplish this task."
         },
         {
+          "name": "Murder",
+          "description": "This is a license to kill.",
+          "effect": "good",
+          "weight": 50,
+          "text": "Feel free to kill!"
+        },
+        {
           "name": "No maiming",
           "description": "This license does not allow you to maim your opponents.",
           "effect": "bad",

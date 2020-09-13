@@ -50,8 +50,24 @@ function parse(fulltext) {
 
   }).then(content => {
     const verdict = document.getElementById("verdict");
-    const classes = content.predictions[0].predictions;
+    const predictions = content.predictions[0].predictions;
     const overall = content.predictions[0].sentiment;
+
+    // sort statements by class
+    // e.g. [{name: 'classname', examples: [...]}]
+    let classes = [];
+    predictions.forEach(prediction => {
+      const matches = classes.filter(c => c.name === prediction.name);
+      if (matches.length > 0) {
+        matches[0].examples.push(prediction);
+      } else {
+        classes.push({
+          name: prediction.name,
+          examples: [prediction]
+        });
+      }
+    });
+
 
     if (classes.length === 0) {
       show_elem("results-blank");
@@ -75,7 +91,8 @@ function parse(fulltext) {
         tbody.removeChild(tbody.childNodes[0]);
       }
 
-      classes.forEach(item => {
+      classes.forEach(c => {
+        const item = c.examples[0];
         const thumbs_icon = document.createElement("td");
         const class_name  = document.createElement("td");
         const description = document.createElement("td");
@@ -108,31 +125,38 @@ function parse(fulltext) {
         let open = false;
         const toggle = document.createElement("button");
         source_text.appendChild(toggle);
-        const details = document.createElement("tr");
-        const text = document.createElement("td");
-        const before = document.createElement("span");
-        const source = document.createElement("span");
-        const after  = document.createElement("span");
-        const context = get_text_context(fulltext, item.text, 10);
-        before.textContent = "..." + context.before;
-        source.textContent = item.text;
-        after.textContent  = context.after + "...";
-        text.appendChild(before);
-        text.appendChild(source);
-        text.appendChild(after);
-        text.colSpan = "4";
-        text.classList.add("details");
-        details.appendChild(text);
-        source.classList.add("highlight");
+        const details = c.examples.map(item => {
+          const details = document.createElement("tr");
+          const text = document.createElement("td");
+          const before = document.createElement("span");
+          const source = document.createElement("span");
+          const after  = document.createElement("span");
+          const context = get_text_context(fulltext, item.text, 20);
+          before.textContent = "..." + context.before;
+          source.textContent = item.text;
+          after.textContent  = context.after + "...";
+          text.appendChild(before);
+          text.appendChild(source);
+          text.appendChild(after);
+          text.colSpan = "4";
+          text.classList.add("details");
+          details.appendChild(text);
+          source.classList.add("highlight");
+          return details;
+        });
         toggle.textContent = "more";
         toggle.addEventListener("click", _ => {
           if (!open) {
             toggle.textContent = "less";
-            row.after(details);
+            details.forEach(detail => {
+              row.after(detail);
+            });
             open = true;
           } else {
             toggle.textContent = "more";
-            details.parentNode.removeChild(details);
+            details.forEach(detail => {
+              detail.parentNode.removeChild(detail);
+            });
             open = false;
           }
         });
