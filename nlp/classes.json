@@ -51,7 +51,7 @@
 	{
 		"id": 7,
 		"old_ids": [16, 45, 143, 206, 81],
-		"title": "Terms may be changed any time at the service's discretion, with or without notice to the user",
+		"title": "Terms may be changed any time at the service's discretion, without notice to the user",
 		"effect": "bad",
 		"weight": 70
 	},
@@ -67,7 +67,7 @@
 		"old_ids": [9, 331],
 		"title": "This service does not sell your personal data",
 		"effect": "good",
-		"weight": 25
+		"weight": 60
 	},
 	{
 		"id": 10,
@@ -88,7 +88,7 @@
 		"old_ids": [100, 74, 167],
 		"title": "Your data may be processed and stored anywhere in the world",
 		"effect": "bad",
-		"weight": 25
+		"weight": 10
 	},
 	{
 		"id": 13,
@@ -99,10 +99,10 @@
 	},
 	{
 		"id": 14,
-		"old_ids": [78, 197],
+		"old_ids": [78, 197, 201],
 		"title": "You can opt out of promotional communications",
 		"effect": "good",
-		"weight": 10
+		"weight": 50
 	},
 	{
 		"id": 15,
@@ -110,5 +110,12 @@
 		"title": "You have the right to leave this service at any time",
 		"effect": "good",
 		"weight": 15
+	},
+	{
+		"id": 16,
+		"old_ids": [81, 86, 229, 447, 23],
+		"title": "Users will be notified when terms are changed",
+		"effect": "good",
+		"weight": 30
 	}
 ]

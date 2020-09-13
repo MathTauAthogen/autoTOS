@@ -5,8 +5,22 @@
             "args": [
                 "build",
                 "-t",
-                "gcr.io/autotos/test",
+                "gcr.io/autotos/train",
                 "."
+            ]
+        },
+        {
+            "name": "gcr.io/cloud-builders/docker",
+            "args": [
+                "run",
+                "deploy",
+                "autotos-service-account",
+                "--image",
+                "gcr.io/autotos/train",
+                "--region",
+                "REGION",
+                "--platform",
+                "managed"
             ]
         }
     ]

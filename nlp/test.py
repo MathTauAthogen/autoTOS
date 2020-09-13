@@ -2,7 +2,6 @@ from finetune import SequenceLabeler
 from finetune.util.metrics import annotation_report
 import json
 import sys
-from itertools import chain
 from train import convert_model_data
 
 
@@ -21,23 +20,7 @@ def test(test_data):
     return predictions
 
 
-def tokenize(text):
-    return [
-        s
-        for s in chain(["".join(s.split(". ")) for s in text.split("\n")])
-        if len(s) != 0
-    ]
-
-
-def filter_confidence(predictions):
-    pass
-
-
 if __name__ == "__main__":
-    tokens = tokenize(open("../data/tos/amazon.txt", "r").read())
-    print("\n".join(list(tokens)))
-    print(evaluate(tokens))
-    exit(0)
 
     with open(sys.argv[1], "r") as f:
         test_set = json.loads(f.read())

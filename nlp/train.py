@@ -1,9 +1,8 @@
 import sys
 import json
+import pickle
 from finetune import SequenceLabeler
 from finetune.base_models import RoBERTa
-
-# NOTE: You will also need to run python3 -m spacy download en
 
 
 def convert_model_data(model_data):
@@ -31,8 +30,11 @@ def train(train_set):
         # max_empty_chunk_ratio=1.0,
     )
 
+    with open("checkpoints/orig_model.p", "wb") as file:
+        pickle.dump(model, file)
+
     model.fit(tokens, labels)
-    model.save("checkpoints/model-all.ckpt")
+    model.save("checkpoints/model.ckpt")
 
 
 if __name__ == "__main__":
