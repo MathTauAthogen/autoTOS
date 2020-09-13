@@ -63,12 +63,12 @@ class RequestHandler(BaseHTTPRequestHandler):
                 length = int(self.headers.get('content-length'))
                 request = json.loads(self.rfile.read(length))
 
-                if 'error' in request['text']:
+                if request['text'] == 'error':
                     self.send_response(400)
                     self.end_headers()
                     self.wfile.write(b'400 bad request')
 
-                elif 'blank' in request['text']:
+                elif request['text'] == 'blank':
                     self.send_response(200)
                     self.send_header('Content-type', 'application/json')
                     self.end_headers()
@@ -79,11 +79,21 @@ class RequestHandler(BaseHTTPRequestHandler):
                         }]
                     }).encode('utf-8'))
 
-                else:
+                elif request['text'] == 'mock':
                     with open('mock-response.json', 'r') as dummy:
                         response = json.loads(dummy.read())
                         self.send_response(200)
                         self.send_header('Content-type', 'application/json')
+                        self.end_headers()
+                        self.wfile.write(json.dumps(response).encode('utf-8'))
+
+                else:
+                    with open('wayfair-response.json', 'r') as dummy:
+                        response = json.loads(dummy.read())
+                        self.send_response(200)
+                        self.send_header('Content-type', 'application/json')
+                        self.send_header('Access-Control-Allow-Origin', '*')
+                        self.send_header('Vary', 'Accept-Encoding, Origin')
                         self.end_headers()
                         self.wfile.write(json.dumps(response).encode('utf-8'))
 
@@ -96,6 +106,15 @@ class RequestHandler(BaseHTTPRequestHandler):
             self.send_response(500)
             self.end_headers()
             self.wfile.write(b'500 internal server error')
+
+    def do_OPTIONS(self):
+        self.send_response(204)
+        self.send_header('Access-Control-Allow-Origin', '*')
+        self.send_header('Access-Control-Allow-Methods', 'POST, OPTIONS')
+        self.send_header('Access-Control-Allow-Headers', 'X-PINGOTHER, Content-Type')
+        self.send_header('Access-Control-Max-Age', '86400')
+        self.send_header('Vary', 'Accept-Encoding, Origin')
+        self.end_headers()
 
 print('Serving on port %d' % PORT)
 HTTPServer(('0.0.0.0', PORT), RequestHandler).serve_forever()

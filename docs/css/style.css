@@ -154,6 +154,8 @@ main button:focus {
   width: 700px;
   box-shadow: 5px 5px 20px #bbb;
   text-align: left;
+  max-height: 90%;
+  overflow-Y: scroll;
 }
 
 @media only screen and (max-width: 850px) {
