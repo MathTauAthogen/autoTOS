@@ -6,10 +6,10 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.parse import parse_qs
 import json
 from predictor import Predictor
+import traceback
 
 # port number for test server
 PORT = 3000
-
 # predictor object
 model_predictor = Predictor("../nlp/checkpoints/model.ckpt")
 
@@ -86,7 +86,7 @@ class RequestHandler(BaseHTTPRequestHandler):
                     }).encode('utf-8'))
 
                 else:
-                    text = response["text"]
+                    text = request["text"]
                     classification = model_predictor.predict([text])
 
                     self.send_response(200)
@@ -101,7 +101,8 @@ class RequestHandler(BaseHTTPRequestHandler):
                 self.end_headers()
                 self.wfile.write(b'404 not found')
 
-        except:
+        except Exception as e:
+            traceback.print_exc()
             self.send_response(500)
             self.end_headers()
             self.wfile.write(b'500 internal server error')

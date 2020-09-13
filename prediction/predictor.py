@@ -124,9 +124,11 @@ def calculate_sentiment(output_preds):
         else:
             signed_score -= pred["weight"]
 
-    # Transforms to [-1.0, 1.0] range
-    signed_normalized = signed_score / total_weight
-
+    if total_weight != 0:
+        # Transforms to [-1.0, 1.0] range
+        signed_normalized = signed_score / total_weight
+    else:
+        signed_normalized = 0.0
     return round(signed_normalized * 5 + 5, 1)
 
 

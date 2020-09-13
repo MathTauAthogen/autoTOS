@@ -1,12 +1,14 @@
 gcloud ai-platform models create autotos \
-  --regions us-east1
+  --regions us-central1 \
+  --enable-logging
 
 
-gcloud beta ai-platform versions create 1.0 \
+gcloud beta ai-platform versions create autotos1 \
   --model autotos \
   --runtime-version 1.15 \
   --python-version 3.7 \
-  --origin gs://autotos-model/checkpoints/model.ckpt \
-  --package-uris gs://your-bucket/path-to-staging-dir/my_custom_code-0.1.tar.gz \
-  --prediction-class predictor.Predictor
+  --origin gs://autotos-model/model.ckpt \
+  --package-uris gs://autotos-model/auto_tos_summarizer-0.1.tar.gz \
+  --prediction-class predictor.Predictor \
+  --machine-type n1-standard-2
 
