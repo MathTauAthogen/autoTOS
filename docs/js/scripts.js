@@ -1,7 +1,8 @@
 /* IMPORTANT: be sure to correctly set which API url is in use */
+const temp_api = "100.8.45.135:3000/api/parse";
 const real_api = "https://autotos.me/api/parse";
 const mock_api = "http://localhost:3000/api/parse";
-const API_URL = mock_api;
+const API_URL = temp_api;
 
 function show_elem(id) {
   const elem = document.getElementById(id);
