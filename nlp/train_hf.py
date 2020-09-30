@@ -2,39 +2,47 @@ import sys
 import json
 import pickle
 import tensorflow as tf
-import transformers # huggingface
-from transformers import RobertaConfig, RobertaModel, 
-    RobertaTokenizerFast, TFRobertaForSequenceClassification
+from transformers import (
+    RobertaTokenizerFast,
+    TFRobertaForSequenceClassification,
+)
 
 
 def convert_model_data(model_data):
     tokens = list()
     labels = list()
     for token in model_data:
-        tokens.append(token["token"])
-
         for label in token["labels"]:
-            label["label"] = label.pop("class_id")
-        labels.append(token["labels"])
+            tokens.append(label["text"])
+            labels.append(label["class_id"])
 
     return tokens, labels
 
 
 def train(train_set):
-    tokenizer = RobertaTokenizerFast.from_pretrained('roberta-base')
-    config = RobertaConfig()
-    model = TFRobertaForSequenceClassification(config)
+    tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
     tokens, labels = convert_model_data(train_set)
 
-    tokenized_input = [tokenizer(t) for t in tokens]
-    
-    items = tokenizer(tokens, labels)
+    train_encodings = tokenizer(tokens, truncation=False, padding=True)
 
-    with open("checkpoints/hf_orig_model.p", "wb") as file:
-        pickle.dump(model, file)
+    train_dataset = tf.data.Dataset.from_tensor_slices((dict(train_encodings), labels))
 
-    model.fit(items)
-    model.save("checkpoints/hf_model.ckpt")
+    model = TFRobertaForSequenceClassification.from_pretrained("roberta-base")
+
+    optimizer = tf.keras.optimizers.Adam(learning_rate=5e-5)
+    model.compile(
+        optimizer=optimizer, loss=model.compute_loss
+    )  # can also use any keras loss fn
+
+    cp_callback = tf.keras.callbacks.ModelCheckpoint(
+        filepath="checkpoints/hf_model.ckpt", save_weights_only=True, verbose=1
+    )
+    model.fit(
+        train_dataset.shuffle(1000).batch(16),
+        epochs=5,
+        batch_size=16,
+        callbacks=[cp_callback],
+    )
 
 
 if __name__ == "__main__":
