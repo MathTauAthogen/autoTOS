@@ -16,6 +16,9 @@ def convert_model_data(model_data):
     labels = list()
     for token in model_data:
         for label in token["labels"]:
+            if len(label["text"].split(" ")) > 512:
+                # token too long for processing
+                continue
             tokens.append(label["text"])
             labels.append(int(label["class_id"]))
 
@@ -104,4 +107,4 @@ if __name__ == "__main__":
     with open(sys.argv[1], "r") as f:
         train_set = json.loads(f.read())
     
-    # train(train_set)
+    train(train_set)
