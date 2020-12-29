@@ -7,7 +7,9 @@ from train_hf import convert_model_data
 
 
 def evaluate(tokens):
-    model = TFRobertaForSequenceClassification.load("checkpoints/model.ckpt", from_tf=True)
+    model = TFRobertaForSequenceClassification.load(
+        "checkpoints/model.ckpt", from_tf=True
+    )
     return model.predict(tokens)
 
 

@@ -87,7 +87,7 @@ def preprocess_labels(data, filter_with_map=True):
     # This modifies class ids based on the mapping in classes.json,
     # removing all of the ids that aren't part of the predefined set
     id_mapping = dict()
-    with open("classes.json", "r") as mapping:
+    with open("config/mapped_classes.json", "r") as mapping:
         mapping_json = json.loads(mapping.read())
     for entry in mapping_json:
         for i in entry["old_ids"]:
@@ -142,7 +142,8 @@ def print_freq_dict(data):
 
 
 if __name__ == "__main__":
-    with open(sys.argv[1], "r") as f:
+    fname = sys.argv[1] if len(sys.argv) > 1 else "../artifacts/annotated_sentences.json"
+    with open(fname, "r") as f:
         data = json.loads(f.read())
 
     preprocess_labels(data)
@@ -155,7 +156,7 @@ if __name__ == "__main__":
     )
 
     print_freq_dict(train_set)
-    with open("outputs/train-filter.json", "w+") as out:
+    with open("outputs/train_filter.json", "w+") as out:
         out.write(json.dumps(train_set + unlabeled))
-    with open("outputs/test-filter.json", "w+") as out:
+    with open("outputs/test_filter.json", "w+") as out:
         out.write(json.dumps(test_set))

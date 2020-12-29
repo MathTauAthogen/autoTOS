@@ -7,7 +7,7 @@ from transformers import (
     RobertaConfig,
     TFRobertaForSequenceClassification,
     TFTrainer,
-    TFTrainingArguments
+    TFTrainingArguments,
 )
 
 
@@ -32,16 +32,16 @@ def train(train_set):
     tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
     tokens, labels = convert_model_data(train_set)
 
-    train_encodings = tokenizer(
-        tokens, truncation=False, padding=True
-    )
+    train_encodings = tokenizer(tokens, truncation=False, padding=True)
 
     train_dataset = tf.data.Dataset.from_tensor_slices((dict(train_encodings), labels))
 
     config = RobertaConfig.from_pretrained("roberta-base")
-    config.num_labels = len(set(labels)) # number of classes in classes.json
+    config.num_labels = len(set(labels))  # number of classes in classes.json
 
-    model = TFRobertaForSequenceClassification.from_pretrained("roberta-base", config=config)
+    model = TFRobertaForSequenceClassification.from_pretrained(
+        "roberta-base", config=config
+    )
 
     optimizer = tf.keras.optimizers.Adam(learning_rate=5e-5)
     model.compile(
@@ -51,13 +51,14 @@ def train(train_set):
     cp_callback = tf.keras.callbacks.ModelCheckpoint(
         filepath="checkpoints/hf_model.ckpt", save_weights_only=True, verbose=1
     )
-    
+
     model.fit(
         train_dataset.shuffle(1000).batch(16),
         epochs=5,
         batch_size=16,
-        callbacks=[cp_callback]
+        callbacks=[cp_callback],
     )
+
 
 def builtin_train(train_set, test_set):
     """
@@ -69,16 +70,18 @@ def builtin_train(train_set, test_set):
     test_tokens, test_labels = convert_model_data(test_set)
 
     train_encodings = tokenizer(
-        train_tokens, truncation=False, padding=True,
-        return_tensors="tf"
+        train_tokens, truncation=False, padding=True, return_tensors="tf"
     )
     test_encodings = tokenizer(
-        test_tokens, truncation=False, padding=True,
-        return_tensors="tf"
+        test_tokens, truncation=False, padding=True, return_tensors="tf"
     )
 
-    train_dataset = tf.data.Dataset.from_tensor_slices((dict(train_encodings), train_labels))
-    test_dataset = tf.data.Dataset.from_tensor_slices((dict(test_encodings), test_labels))
+    train_dataset = tf.data.Dataset.from_tensor_slices(
+        (dict(train_encodings), train_labels)
+    )
+    test_dataset = tf.data.Dataset.from_tensor_slices(
+        (dict(test_encodings), test_labels)
+    )
 
     model = TFRobertaForSequenceClassification.from_pretrained("roberta-base")
 
@@ -89,22 +92,22 @@ def builtin_train(train_set, test_set):
         per_device_eval_batch_size=64,
         warmup_steps=500,
         weight_decay=0.01,
-        logging_dir='./logs'
+        logging_dir="./logs",
     )
 
     trainer = TFTrainer(
         model=model,
         args=args,
         train_dataset=train_dataset.shuffle(1000).batch(16).repeat(2),
-        eval_dataset=test_dataset
+        eval_dataset=test_dataset,
     )
 
     trainer.train()
 
 
-
 if __name__ == "__main__":
-    with open(sys.argv[1], "r") as f:
+    fname = sys.argv[1] if len(sys.argv) > 1 else "outputs/train_filter.json"
+    with open(fname, "r") as f:
         train_set = json.loads(f.read())
-    
+
     train(train_set)
