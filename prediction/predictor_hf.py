@@ -8,7 +8,7 @@ class Predictor(object):
     """Interface for constructing custom predictors."""
 
     def __init__(self, model_path):
-        self.model = TFRobertaForSequenceClassification.load(model_path, from_tf=True)
+        self.model = TFRobertaForSequenceClassification.from_pretrained(model_path, from_tf=True)
 
     def predict(self, instances, **kwargs):
         """Performs custom prediction.
