@@ -49,15 +49,16 @@ def train(train_set):
     )  # can also use any keras loss fn
 
     cp_callback = tf.keras.callbacks.ModelCheckpoint(
-        filepath="checkpoints/hf_model.ckpt", save_weights_only=True, verbose=1
+        "checkpoints/hf_model", save_weights_only=False, verbose=0
     )
 
     model.fit(
-        train_dataset.shuffle(1000).batch(16),
+        train_dataset.shuffle(1000).batch(4),
         epochs=5,
-        batch_size=16,
+        batch_size=4,
         callbacks=[cp_callback],
     )
+    model.save()
 
 
 def builtin_train(train_set, test_set):

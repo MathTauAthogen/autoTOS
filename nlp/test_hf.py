@@ -1,16 +1,34 @@
 from sklearn.metrics import classification_report
 
-from transformers import TFRobertaForSequenceClassification
+from transformers import (
+    RobertaTokenizerFast,
+    RobertaConfig,
+    TFRobertaForSequenceClassification,
+    TFTrainer,
+    TFPreTrainedModel,
+    TFTrainingArguments,
+)
+
 import json
 import sys
 from train_hf import convert_model_data
 
 
 def evaluate(tokens):
-    model = TFRobertaForSequenceClassification.load(
-        "checkpoints/model.ckpt", from_tf=True
+    tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
+
+    inputs = tokenizer(tokens, truncation=True, padding=True, return_tensors="tf")
+
+    config = RobertaConfig.from_pretrained("roberta-base")
+#    config.num_labels = len(set(labels))  # number of classes in classes.json
+
+    model = TFPreTrainedModel.from_pretrained(
+        "checkpoints/hf_model.ckpt.index", config=config, from_tf=True
     )
-    return model.predict(tokens)
+    mode.eval()
+    #model.load_weights("checkpoints/hf_model.ckpt")
+
+    return model(inputs)
 
 
 def test(test_data):
