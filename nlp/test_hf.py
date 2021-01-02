@@ -1,3 +1,5 @@
+import tensorflow as tf
+from tqdm import tqdm
 from sklearn.metrics import classification_report
 
 from transformers import (
@@ -11,32 +13,40 @@ from transformers import (
 
 import json
 import sys
+import numpy as np
 from train_hf import convert_model_data
 
 
 def evaluate(tokens):
     tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
+    config = RobertaConfig.from_pretrained("checkpoints/autoTOS_hf_model/")
 
-    inputs = tokenizer(tokens, truncation=True, padding=True, return_tensors="tf")
-
-    config = RobertaConfig.from_pretrained("roberta-base")
-#    config.num_labels = len(set(labels))  # number of classes in classes.json
-
-    model = TFPreTrainedModel.from_pretrained(
-        "checkpoints/hf_model.ckpt.index", config=config, from_tf=True
+    model = TFRobertaForSequenceClassification.from_pretrained(
+        "checkpoints/autoTOS_hf_model/", config=config
     )
-    mode.eval()
-    #model.load_weights("checkpoints/hf_model.ckpt")
 
-    return model(inputs)
+    predictions = list()
+
+    for token in tqdm(tokens):
+        inputs = tokenizer(token, truncation=True, padding=True, return_tensors="tf")
+        logits = model(inputs)[0]
+        probs = tf.nn.softmax(logits, axis=1).numpy()[0]
+        idx = np.argmax(probs)
+        predictions.append(
+            {"class_id": int(idx), "conf": float(probs[idx]), "text": token}
+        )
+
+    return predictions
 
 
 def test(test_data):
     tokens, labels = convert_model_data(test_data)
 
     predictions = evaluate(tokens)
-    print(predictions)
-    print(classification_report(labels, predictions))
+    
+    predicted_labels = [prediction["class_id"] for prediction in predictions]
+
+    print(classification_report(labels, predicted_labels))
 
     return predictions
 

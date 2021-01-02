@@ -25,19 +25,18 @@ def convert_model_data(model_data):
     return tokens, labels
 
 
-def train(train_set):
-    """
-    This works
-    """
+def get_tf_dataset(labeled_set):
     tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
-    tokens, labels = convert_model_data(train_set)
+    tokens, labels = convert_model_data(labeled_set)
 
-    train_encodings = tokenizer(tokens, truncation=False, padding=True)
+    encodings = tokenizer(tokens, truncation=False, padding=True)
 
-    train_dataset = tf.data.Dataset.from_tensor_slices((dict(train_encodings), labels))
+    return tf.data.Dataset.from_tensor_slices((dict(encodings), labels))
 
+
+def train(train_set):
+    train_dataset = get_tf_dataset(train_set)
     config = RobertaConfig.from_pretrained("roberta-base")
-    config.num_labels = len(set(labels))  # number of classes in classes.json
 
     model = TFRobertaForSequenceClassification.from_pretrained(
         "roberta-base", config=config
@@ -48,62 +47,12 @@ def train(train_set):
         optimizer=optimizer, loss=model.compute_loss
     )  # can also use any keras loss fn
 
-    cp_callback = tf.keras.callbacks.ModelCheckpoint(
-        "checkpoints/hf_model", save_weights_only=False, verbose=0
-    )
-
     model.fit(
         train_dataset.shuffle(1000).batch(4),
         epochs=5,
         batch_size=4,
-        callbacks=[cp_callback],
     )
-    model.save()
-
-
-def builtin_train(train_set, test_set):
-    """
-    This does not work
-    """
-    tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
-
-    train_tokens, train_labels = convert_model_data(train_set)
-    test_tokens, test_labels = convert_model_data(test_set)
-
-    train_encodings = tokenizer(
-        train_tokens, truncation=False, padding=True, return_tensors="tf"
-    )
-    test_encodings = tokenizer(
-        test_tokens, truncation=False, padding=True, return_tensors="tf"
-    )
-
-    train_dataset = tf.data.Dataset.from_tensor_slices(
-        (dict(train_encodings), train_labels)
-    )
-    test_dataset = tf.data.Dataset.from_tensor_slices(
-        (dict(test_encodings), test_labels)
-    )
-
-    model = TFRobertaForSequenceClassification.from_pretrained("roberta-base")
-
-    args = TFTrainingArguments(
-        output_dir="./checkpoints",
-        num_train_epochs=5,
-        per_device_train_batch_size=16,
-        per_device_eval_batch_size=64,
-        warmup_steps=500,
-        weight_decay=0.01,
-        logging_dir="./logs",
-    )
-
-    trainer = TFTrainer(
-        model=model,
-        args=args,
-        train_dataset=train_dataset.shuffle(1000).batch(16).repeat(2),
-        eval_dataset=test_dataset,
-    )
-
-    trainer.train()
+    model.save_pretrained("checkpoints/autoTOS_hf_model")
 
 
 if __name__ == "__main__":

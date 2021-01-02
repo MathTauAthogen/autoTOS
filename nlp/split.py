@@ -142,7 +142,9 @@ def print_freq_dict(data):
 
 
 if __name__ == "__main__":
-    fname = sys.argv[1] if len(sys.argv) > 1 else "../artifacts/annotated_sentences.json"
+    fname = (
+        sys.argv[1] if len(sys.argv) > 1 else "../artifacts/annotated_sentences.json"
+    )
     with open(fname, "r") as f:
         data = json.loads(f.read())
 
