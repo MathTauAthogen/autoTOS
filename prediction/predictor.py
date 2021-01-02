@@ -10,7 +10,7 @@ class Predictor(object):
     def __init__(self, model_path):
         self.model = SequenceLabeler.load(model_path)
 
-    def predict(self, instances, **kwargs):
+    def predict(self, tos, **kwargs):
         """Performs custom prediction.
 
         Instances are the decoded values from the request. They have already
@@ -25,7 +25,7 @@ class Predictor(object):
             A list of outputs containing the prediction results. This list must
             be JSON serializable.
         """
-        tokens = tokenize(instance)
+        tokens = tokenize(tos)
 
         predictions = self.model.predict(tokens)
         filtered_preds = filter_confidence(predictions, 0.9)

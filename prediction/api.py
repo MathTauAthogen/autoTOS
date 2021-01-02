@@ -3,7 +3,6 @@
 # A simple mock Python HTTP server to test the display using dummy data.
 
 from http.server import HTTPServer, BaseHTTPRequestHandler
-from urllib.parse import parse_qs
 import ssl
 import json
 from predictor import Predictor
@@ -110,7 +109,7 @@ class ModelRequestHandler(BaseHTTPRequestHandler):
                 self.end_headers()
                 self.wfile.write(b"404 not found")
 
-        except Exception as e:
+        except Exception:
             traceback.print_exc()
             self.send_response(500)
             self.end_headers()
