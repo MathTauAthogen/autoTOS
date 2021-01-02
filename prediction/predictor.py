@@ -25,7 +25,7 @@ class Predictor(object):
             A list of outputs containing the prediction results. This list must
             be JSON serializable.
         """
-        tokens = tokenize(instances[0])
+        tokens = tokenize(instance)
 
         predictions = self.model.predict(tokens)
         filtered_preds = filter_confidence(predictions, 0.9)

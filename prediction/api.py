@@ -96,7 +96,7 @@ class ModelRequestHandler(BaseHTTPRequestHandler):
 
                 else:
                     text = request["text"]
-                    classification = model_predictor.predict([text])
+                    classification = model_predictor.predict(text)
 
                     self.send_response(200)
                     self.send_header("Content-type", "application/json")
