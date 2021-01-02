@@ -3,12 +3,9 @@ from tqdm import tqdm
 from sklearn.metrics import classification_report
 
 from transformers import (
-    RobertaTokenizerFast,
+    RobertaTokenizer,
     RobertaConfig,
     TFRobertaForSequenceClassification,
-    TFTrainer,
-    TFPreTrainedModel,
-    TFTrainingArguments,
 )
 
 import json
@@ -18,7 +15,7 @@ from train_hf import convert_model_data
 
 
 def evaluate(tokens):
-    tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
+    tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
     config = RobertaConfig.from_pretrained("checkpoints/autoTOS_hf_model/")
 
     model = TFRobertaForSequenceClassification.from_pretrained(
@@ -32,6 +29,7 @@ def evaluate(tokens):
         logits = model(inputs)[0]
         probs = tf.nn.softmax(logits, axis=1).numpy()[0]
         idx = np.argmax(probs)
+
         predictions.append(
             {"class_id": int(idx), "conf": float(probs[idx]), "text": token}
         )
@@ -43,7 +41,7 @@ def test(test_data):
     tokens, labels = convert_model_data(test_data)
 
     predictions = evaluate(tokens)
-    
+
     predicted_labels = [prediction["class_id"] for prediction in predictions]
 
     print(classification_report(labels, predicted_labels))

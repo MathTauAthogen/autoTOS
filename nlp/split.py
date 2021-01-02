@@ -93,8 +93,6 @@ def preprocess_labels(data, filter_with_map=True):
         for i in entry["old_ids"]:
             id_mapping[i] = entry["id"]
 
-    text_stream = open("text.out", "w+")
-    label_stream = open("token.out", "w+")
     for token in data:
         for i, label in enumerate(list(token["labels"])):
             if len(label["text"].strip()) == 0:

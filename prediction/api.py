@@ -15,10 +15,15 @@ SSL_KEY = "ssl/private.key"
 SSL_CERT = "ssl/ca_bundle.crt"
 
 # predictor object
-model_predictor = Predictor("../nlp/checkpoints/autoTOS_hf_model/")
+MODEL_PATH = "../nlp/checkpoints/model.ckpt"
+
+model_predictor = Predictor(MODEL_PATH)
 
 
-class RequestHandler(BaseHTTPRequestHandler):
+class ModelRequestHandler(BaseHTTPRequestHandler):
+    def __init__(self, *args):
+        super().__init__(*args)
+
     def do_GET(self):
         try:
             if self.path == "/":
@@ -121,11 +126,12 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.end_headers()
 
 
-print("Initializing server")
-httpd = HTTPServer(("0.0.0.0", PORT), RequestHandler)
-print("Wrapping SSL")
-httpd.socket = ssl.wrap_socket(
-    httpd.socket, keyfile=SSL_KEY, certfile=SSL_CERT, server_side=True
-)
-print("Serving on port %d" % PORT)
-httpd.serve_forever()
+if __name__ == "__main__":
+    print("Initializing server")
+    httpd = HTTPServer(("0.0.0.0", PORT), ModelRequestHandler)
+    print("Wrapping SSL")
+    # httpd.socket = ssl.wrap_socket(
+    #     httpd.socket, keyfile=SSL_KEY, certfile=SSL_CERT, server_side=True
+    # )
+    print("Serving on port %d" % PORT)
+    httpd.serve_forever()

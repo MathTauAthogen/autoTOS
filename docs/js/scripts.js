@@ -2,7 +2,7 @@
 const temp_api = "http://autotos.loca.lt/api/parse";
 const real_api = "https://autotos.me/api/parse";
 const mock_api = "http://localhost:3000/api/parse";
-const API_URL = temp_api;
+const API_URL = mock_api;
 
 function show_elem(id) {
   const elem = document.getElementById(id);
@@ -51,8 +51,8 @@ function parse(fulltext) {
 
   }).then(content => {
     const verdict = document.getElementById("verdict");
-    const predictions = content[0].predictions;
-    const overall = content[0].sentiment;
+    const predictions = content.predictions;
+    const overall = content.sentiment;
 
 
     // sort statements by class

@@ -3,7 +3,7 @@ import json
 import pickle
 import tensorflow as tf
 from transformers import (
-    RobertaTokenizerFast,
+    RobertaTokenizer,
     RobertaConfig,
     TFRobertaForSequenceClassification,
     TFTrainer,
@@ -26,10 +26,10 @@ def convert_model_data(model_data):
 
 
 def get_tf_dataset(labeled_set):
-    tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
+    tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
     tokens, labels = convert_model_data(labeled_set)
-
-    encodings = tokenizer(tokens, truncation=False, padding=True)
+    print(tokens, labels)
+    encodings = tokenizer(tokens, truncation=True, padding=True, return_tensors="tf")
 
     return tf.data.Dataset.from_tensor_slices((dict(encodings), labels))
 
@@ -52,7 +52,7 @@ def train(train_set):
         epochs=5,
         batch_size=4,
     )
-    model.save_pretrained("checkpoints/autoTOS_hf_model")
+    model.save_pretrained("checkpoints/autoTOS_hf_model2")
 
 
 if __name__ == "__main__":
