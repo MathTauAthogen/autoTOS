@@ -22,37 +22,35 @@ import re
 
 # we will pre-compile some regexes and authentication data to speed up
 # the process
-match_service_id = re.compile(r'/services/(\d+)')
-match_doc_id = re.compile(r'doc_\d+')
-with open('cookies.config', 'r') as auth_data:
+match_service_id = re.compile(r"/services/(\d+)")
+match_doc_id = re.compile(r"doc_\d+")
+with open("cookies.config", "r") as auth_data:
     session, user = map(lambda s: s.strip(), auth_data.readlines())
-    cookies = {
-        '_phoenix_session': session,
-        'remember_user_token': user
-    }
+    cookies = {"_phoenix_session": session, "remember_user_token": user}
 
 # get service ID from a point ID by scraping the discussion document
 def get_service_id(point_id):
-    discussion_url = 'https://edit.tosdr.org/points/%s' % point_id
+    discussion_url = "https://edit.tosdr.org/points/%s" % point_id
     discussion_doc = requests.get(discussion_url)
-    soup = BeautifulSoup(discussion_doc.text, 'lxml')
-    for link in soup.find_all('a'):
-        href = link.get('href')
-        if 'services' in href:
+    soup = BeautifulSoup(discussion_doc.text, "lxml")
+    for link in soup.find_all("a"):
+        href = link.get("href")
+        if "services" in href:
             return match_service_id.search(href).group(1)
+
 
 # get the text from a 'document' div on a service annotation page
 def get_document_text(document_div):
-    return document_div.find(class_='documentContent').get('data-content')
+    return document_div.find(class_="documentContent").get("data-content")
+
 
 # get full text from a point ID
 def fulltext(point_id):
 
-
     service_id = get_service_id(point_id)
 
-    url = 'https://edit.tosdr.org/services/%s/annotate' % service_id
+    url = "https://edit.tosdr.org/services/%s/annotate" % service_id
     doc = requests.get(url, cookies=cookies)
-    soup = BeautifulSoup(doc.text, 'lxml')
+    soup = BeautifulSoup(doc.text, "lxml")
     divs = soup.find_all(id=match_doc_id)
     return list(map(get_document_text, divs))

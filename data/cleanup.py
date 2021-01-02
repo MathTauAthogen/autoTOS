@@ -17,20 +17,24 @@ def removerange(a, b, lens, labels, substitute):
     c = []
     inb = True
     for i in range(len(lens)):
-        if(inb and lens[i]>a):
+        if inb and lens[i] > a:
             inb = False
             c += [i]
-        if((not inb) and lens[i]>b):
+        if (not inb) and lens[i] > b:
             c += [i]
             break
-    assert(c[0]>=1)
-    return [lens[:c[0]]+lens[c[1]:], labels[:c[0] - 1]+[(sub,sub2,a,b)]+labels[c[1]:]]
+    assert c[0] >= 1
+    return [
+        lens[: c[0]] + lens[c[1] :],
+        labels[: c[0] - 1] + [(sub, sub2, a, b)] + labels[c[1] :],
+    ]
+
 
 ###############################################################################################################
 
-#Initialize the Labelled Excerpts Data Table
+# Initialize the Labelled Excerpts Data Table
 
-df = pd.read_csv (r'labeled_excerpts.csv')
+df = pd.read_csv(r"labeled_excerpts.csv")
 
 c = []
 
@@ -39,56 +43,92 @@ borked = []
 sluglist = list(df.slug.unique())
 with open("exclude.txt") as f:
     for a in f.read().splitlines():
-        for i,v in enumerate(sluglist):
-            if(a==v):
+        for i, v in enumerate(sluglist):
+            if a == v:
                 sluglist.pop(i)
 
 ###############################################################################################################
 for b in sluglist:
     borkedq = False
-    sitedf = df[df['slug'] == b]
-    full = "" # The full text of the TOS of the site
+    sitedf = df[df["slug"] == b]
+    full = ""  # The full text of the TOS of the site
 
-    with open("tos/"+b+".txt", "r") as g:
-        full = g.read() #Get the full text
+    with open("tos/" + b + ".txt", "r") as g:
+        full = g.read()  # Get the full text
         printable = set(string.printable)
-        full = ''.join(filter(lambda x: x in printable, full))
-        tokenlistb = full.splitlines() #Get a list of sentences
+        full = "".join(filter(lambda x: x in printable, full))
+        tokenlistb = full.splitlines()  # Get a list of sentences
         tokenlistb = [i.strip(" ").strip(".") for i in tokenlistb]
-        lens = [sum(map(len,tokenlistb[:i]))+i for i in range(len(tokenlistb) + 2)] #Find the starting index of each sentences
+        lens = [
+            sum(map(len, tokenlistb[:i])) + i for i in range(len(tokenlistb) + 2)
+        ]  # Find the starting index of each sentences
 
-        full = " ".join(tokenlistb) #Put the full text on only one line.
+        full = " ".join(tokenlistb)  # Put the full text on only one line.
 
-    labels = [('','','','') for i in range(len(tokenlistb))] #Initialize something containing inner tuples that can be indexed to the same amount as the other values
+    labels = [
+        ("", "", "", "") for i in range(len(tokenlistb))
+    ]  # Initialize something containing inner tuples that can be indexed to the same amount as the other values
     print(tokenlistb)
 
-    #sub = label, iterate over all
-    #sub2 = its class_id
+    # sub = label, iterate over all
+    # sub2 = its class_id
 
     badlines = []
 
     for i, row in sitedf.iterrows():
-        sub = " ".join(" ".join(str(row['excerpt']).split('\n')).split(". ")).strip(" ").strip(".")
+        sub = (
+            " ".join(" ".join(str(row["excerpt"]).split("\n")).split(". "))
+            .strip(" ")
+            .strip(".")
+        )
         printable = set(string.printable)
-        sub = ''.join(filter(lambda x: x in printable, sub))
-        sub2 = row['class_id']
+        sub = "".join(filter(lambda x: x in printable, sub))
+        sub2 = row["class_id"]
         try:
             ind = full.index(sub)
             lens, labels = removerange(ind, ind + len(sub), lens, labels, (sub, sub2))
         except:
-            badlines += [(sub,sub2)]
+            badlines += [(sub, sub2)]
 
-    if(borkedq):
+    if borkedq:
         continue
 
-    #And finish it off
-    dff = [{"token":full[lens[i]:lens[i+1]-1], "labels":[{"text":labels[i][0], "start":labels[i][2]-lens[i], "end":labels[i][3]-lens[i], "class_id":labels[i][1]} for j in range(i,i+1) if labels[j] != ('','','','')]} for i in range(len(labels))]
-    dfb = [{"token":badlines[i][0], "labels":[{"text":badlines[i][0], "start":0, "end":len(badlines[i][0]), "class_id":badlines[i][1]}]}for i in range(len(badlines))]
+    # And finish it off
+    dff = [
+        {
+            "token": full[lens[i] : lens[i + 1] - 1],
+            "labels": [
+                {
+                    "text": labels[i][0],
+                    "start": labels[i][2] - lens[i],
+                    "end": labels[i][3] - lens[i],
+                    "class_id": labels[i][1],
+                }
+                for j in range(i, i + 1)
+                if labels[j] != ("", "", "", "")
+            ],
+        }
+        for i in range(len(labels))
+    ]
+    dfb = [
+        {
+            "token": badlines[i][0],
+            "labels": [
+                {
+                    "text": badlines[i][0],
+                    "start": 0,
+                    "end": len(badlines[i][0]),
+                    "class_id": badlines[i][1],
+                }
+            ],
+        }
+        for i in range(len(badlines))
+    ]
     c += dfb
     c += dff
-    #print(json.dumps(dff))
+    # print(json.dumps(dff))
 print("Finale:")
-with open('temp.json', 'w') as fp:
-    json.dump(c,fp)
+with open("temp.json", "w") as fp:
+    json.dump(c, fp)
 print("Borked:")
 print(borked)
