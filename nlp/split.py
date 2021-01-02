@@ -87,7 +87,7 @@ def preprocess_labels(data, filter_with_map=True):
     # This modifies class ids based on the mapping in classes.json,
     # removing all of the ids that aren't part of the predefined set
     id_mapping = dict()
-    with open("config/mapped_classes.json", "r") as mapping:
+    with open("../config/mapped_classes.json", "r") as mapping:
         mapping_json = json.loads(mapping.read())
     for entry in mapping_json:
         for i in entry["old_ids"]:

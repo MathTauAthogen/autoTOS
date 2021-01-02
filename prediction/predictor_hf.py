@@ -138,12 +138,12 @@ if __name__ == "__main__":
     # For debugging purposes only
     p = Predictor("../nlp/checkpoints/model.ckpt")
 
-    instances = [open("../data/tos/wayfair.txt", "r").read()]
+    instances = [open("../artifacts/tos/wayfair.txt", "r").read()]
     predictions = p.predict(instances)
 
     filtered_preds = filter_confidence(predictions, 0.9)
 
-    with open("classes.json", "r") as map_file:
+    with open("../config/mapped_classes.json", "r") as map_file:
         mapping = json.loads(map_file.read())
 
     output_preds = [map_format_prediction(pred, mapping) for pred in filtered_preds]

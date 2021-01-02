@@ -15,7 +15,7 @@ SSL_KEY = "ssl/private.key"
 SSL_CERT = "ssl/ca_bundle.crt"
 
 # predictor object
-model_predictor = Predictor("../nlp/checkpoints/model.ckpt")
+model_predictor = Predictor("../nlp/checkpoints/autoTOS_hf_model/")
 
 
 class RequestHandler(BaseHTTPRequestHandler):
