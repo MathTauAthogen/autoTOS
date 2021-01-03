@@ -57,11 +57,23 @@ def strip_tags(html_str):
     return soup
 
 if __name__ == "__main__":
-    twitter_tos = "https://twitter.com/en/tos"
-    twitter_privacy = "https://twitter.com/en/privacy"
+    slug_to_url = {
+        "twitter": [
+            "https://twitter.com/en/tos",
+            "https://twitter.com/en/privacy"
+        ],
+        "duckduckgo": [
+            "https://duckduckgo.com/privacy"
+        ]
+    }
 
-    twitter_tos_text = tos_from_url(twitter_tos)
-    twitter_privacy_text = tos_from_url(twitter_privacy)
-
-    with open("../artifacts/tos/fromsite/twitter.txt", 'w') as twitter_file:
-        twitter_file.write(twitter_tos_text + twitter_privacy_text)
+    for slug, urls in slug_to_url.items():
+        try:
+            agreements = ""
+            for url in urls:
+                agreements += tos_from_url(url)
+            with open(f"../artifacts/tos/fromsite/{slug}.txt", 'w') as file_out:
+                file_out.write(agreements)
+        except Exception as e:
+            print(e)
+            continue
