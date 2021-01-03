@@ -1,16 +1,54 @@
-from transformers import TFRobertaForSequenceClassification
+from transformers import (
+    TFRobertaForSequenceClassification,
+    RobertaTokenizerFast,
+    RobertaConfig,
+)
 import json
 import os
 from itertools import chain
+import tensorflow as tf
+import numpy as np
+from tqdm import tqdm
+
+NULL_CLASS = 17
 
 
 class Predictor(object):
     """Interface for constructing custom predictors."""
 
-    def __init__(self, model_path):
+    def __init__(self, model_path, filter_conf=0.5):
+        self.tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
+        self.config = RobertaConfig.from_pretrained(model_path)
         self.model = TFRobertaForSequenceClassification.from_pretrained(
-            model_path, from_tf=True
+            model_path, config=self.config
         )
+        self.filter_conf = filter_conf
+
+    def classify(self, tokens):
+        predictions = list()
+
+        for token in tqdm(tokens):
+            inputs = self.tokenizer(
+                token, truncation=True, padding=True, return_tensors="tf"
+            )
+            logits = self.model(inputs)[0]
+
+            probs = tf.nn.softmax(logits, axis=1).numpy()[0]
+            idx = np.argmax(probs)
+
+            if idx == NULL_CLASS:
+                continue
+
+            predictions.append(
+                {
+                    "label": int(idx),
+                    "conf": float(probs[idx]),
+                    "raw_conf": float(logits[0][idx]),
+                    "text": token,
+                }
+            )
+
+        return predictions
 
     def predict(self, instances, **kwargs):
         """Performs custom prediction.
@@ -29,10 +67,10 @@ class Predictor(object):
         """
         tokens = tokenize(instances[0])
 
-        predictions = self.model.predict(tokens)
-        filtered_preds = filter_confidence(predictions, 0.9)
+        predictions = self.classify(tokens)
+        filtered_preds = filter_confidence(predictions, self.filter_conf)
 
-        with open("classes.json", "r") as map_file:
+        with open("../config/mapped_classes.json", "r") as map_file:
             mapping = json.loads(map_file.read())
 
         output_preds = [map_format_prediction(pred, mapping) for pred in filtered_preds]
@@ -40,7 +78,7 @@ class Predictor(object):
 
         response = {"predictions": output_preds, "sentiment": sentiment}
 
-        return [response]
+        return response
 
     @classmethod
     def from_path(cls, model_dir):
@@ -79,14 +117,9 @@ def map_format_prediction(prediction, mapping):
           text: "source text from document"
         }
     """
-    del prediction["start"]
-    del prediction["end"]
 
     label = prediction["label"]
-    desc = mapping[int(label)]
-
-    prediction["conf"] = float(prediction["confidence"][label])
-    del prediction["confidence"]
+    desc = mapping[label]
 
     prediction["description"] = desc["title"]
     prediction["effect"] = desc["effect"]
@@ -98,19 +131,11 @@ def map_format_prediction(prediction, mapping):
 def filter_confidence(predictions, cutoff=0.5):
     response_preds = list()
 
-    for token_prediction in predictions:
-        if len(token_prediction) == 0:
-            # Padding detected
+    for prediction in predictions:
+        if prediction["conf"] < cutoff:
             continue
-        for prediction in token_prediction:
-            label = prediction["label"]
-            for class_id, conf in prediction["confidence"].items():
-                if conf < 0.1:
-                    prediction["confidence"][class_id] = 0.0
-            if prediction["confidence"][label] < cutoff:
-                continue
 
-            response_preds.append(prediction)
+        response_preds.append(prediction)
 
     return response_preds
 
@@ -136,25 +161,11 @@ def calculate_sentiment(output_preds):
 
 if __name__ == "__main__":
     # For debugging purposes only
-    p = Predictor("../nlp/checkpoints/model.ckpt")
+    p = Predictor("../nlp/checkpoints/autoTOS_hf_model/", 0.9)
 
-    instances = [open("../data/tos/wayfair.txt", "r").read()]
-    predictions = p.predict(instances)
-
-    filtered_preds = filter_confidence(predictions, 0.9)
-
-    with open("classes.json", "r") as map_file:
-        mapping = json.loads(map_file.read())
-
-    output_preds = [map_format_prediction(pred, mapping) for pred in filtered_preds]
-    sentiment = calculate_sentiment(output_preds)
-
-    response = {"predictions": output_preds, "sentiment": sentiment}
-
-    print(response)
+    instances = [open("../artifacts/tos/wayfair.txt", "r").read()]
+    response = p.predict(instances)
 
     os.makedirs("outputs", exist_ok=True)
-    with open("outputs/response.json", "w+") as out:
+    with open("outputs/response_hf.json", "w+") as out:
         out.write(json.dumps(response))
-
-    exit(0)

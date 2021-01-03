@@ -10,7 +10,7 @@ class Predictor(object):
     def __init__(self, model_path):
         self.model = SequenceLabeler.load(model_path)
 
-    def predict(self, instances, **kwargs):
+    def predict(self, tos, **kwargs):
         """Performs custom prediction.
 
         Instances are the decoded values from the request. They have already
@@ -25,12 +25,12 @@ class Predictor(object):
             A list of outputs containing the prediction results. This list must
             be JSON serializable.
         """
-        tokens = tokenize(instances[0])
+        tokens = tokenize(tos)
 
         predictions = self.model.predict(tokens)
         filtered_preds = filter_confidence(predictions, 0.9)
 
-        with open("classes.json", "r") as map_file:
+        with open("../config/mapped_classes.json", "r") as map_file:
             mapping = json.loads(map_file.read())
 
         output_preds = [map_format_prediction(pred, mapping) for pred in filtered_preds]
@@ -38,7 +38,7 @@ class Predictor(object):
 
         response = {"predictions": output_preds, "sentiment": sentiment}
 
-        return [response]
+        return response
 
     @classmethod
     def from_path(cls, model_dir):
@@ -136,23 +136,11 @@ if __name__ == "__main__":
     # For debugging purposes only
     p = Predictor("../nlp/checkpoints/model.ckpt")
 
-    instances = [open("../data/tos/wayfair.txt", "r").read()]
-    predictions = p.predict(instances)
-
-    filtered_preds = filter_confidence(predictions, 0.9)
-
-    with open("classes.json", "r") as map_file:
-        mapping = json.loads(map_file.read())
-
-    output_preds = [map_format_prediction(pred, mapping) for pred in filtered_preds]
-    sentiment = calculate_sentiment(output_preds)
-
-    response = {"predictions": output_preds, "sentiment": sentiment}
-
-    print(response)
+    instances = [open("../artifacts/tos/wayfair.txt", "r").read()]
+    response = p.predict(instances)
 
     os.makedirs("outputs", exist_ok=True)
-    with open("outputs/response.json", "w+") as out:
+    with open("outputs/response_ft.json", "w+") as out:
         out.write(json.dumps(response))
 
     exit(0)
