@@ -2,29 +2,33 @@ import requests
 import lxml
 from bs4 import BeautifulSoup
 
+
 def get_point_text(point_id):
 
-	content = requests.get(f"https://edit.tosdr.org/points/{point_id}").content
-	soup = BeautifulSoup(content, "lxml")
+    content = requests.get(f"https://edit.tosdr.org/points/{point_id}").content
+    soup = BeautifulSoup(content, "lxml")
 
-	if b"Oops! It looks like you're doing many different things in a short period of time. We check for this to prevent abusive requests or other types of vandalism to our site. Please try again in 10 minutes." == content:
-		raise Exception(b"Please try again in 10 minutes")
+    if (
+        b"Oops! It looks like you're doing many different things in a short period of time. We check for this to prevent abusive requests or other types of vandalism to our site. Please try again in 10 minutes."
+        == content
+    ):
+        raise Exception(b"Please try again in 10 minutes")
 
-	quote = soup.find("blockquote")
-	
+    quote = soup.find("blockquote")
 
-	if quote is None:
-		quote = soup.select_one("div.container div.row div.col-sm-10")
-		if quote is None:
-			print(content)
-		else:
-			return str(quote)
+    if quote is None:
+        quote = soup.select_one("div.container div.row div.col-sm-10")
+        if quote is None:
+            print(content)
+        else:
+            return str(quote)
 
-	for tag in quote.findAll(True):
-		if tag.name == "footer":
-			tag.extract()
+    for tag in quote.findAll(True):
+        if tag.name == "footer":
+            tag.extract()
 
-	return quote.get_text().strip()
+    return quote.get_text().strip()
+
 
 if __name__ == "__main__":
-	print(get_point_text("5309"))
+    print(get_point_text("5309"))
