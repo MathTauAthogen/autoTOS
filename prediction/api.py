@@ -103,6 +103,8 @@ class ModelRequestHandler(BaseHTTPRequestHandler):
                     self.send_header("Vary", "Accept-Encoding, Origin")
                     self.end_headers()
                     self.wfile.write(json.dumps(classification).encode("utf-8"))
+                    with open("outputs/last_response.json", "w+") as out:
+                        out.write(str(json.dumps(classification)))
 
             else:
                 self.send_response(404)

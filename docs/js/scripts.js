@@ -89,6 +89,8 @@ function parse(fulltext) {
         verdict.textContent = "Overall Verdict: Good";
       }
 
+      verdict.textContent += " (" + overall + "/10)"
+
       const tbody = document.getElementsByTagName("tbody")[0];
       while (tbody.childNodes[0]) {
         tbody.removeChild(tbody.childNodes[0]);
