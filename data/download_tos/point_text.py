@@ -4,7 +4,15 @@ from bs4 import BeautifulSoup
 
 
 def get_point_text(point_id):
-
+    """
+    Given a point id (for ToS;DR),
+    Search that point and return the 
+    TOS snippet from there
+    Arguments:
+    point_id: string or integer
+    Returns:
+    string: TOS text
+    """
     content = requests.get(f"https://edit.tosdr.org/points/{point_id}").content
     soup = BeautifulSoup(content, 'lxml')
 
