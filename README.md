@@ -34,7 +34,6 @@ This repository contains the following folders:
 4. `cleanup.py`: uses `labeled_excerpts.csv`, adds extraneous (noise) data from the full TOS (broken down by sentence) for training, and generates `annotated_sentences.json`
 
 ![](https://gist.github.com/spencerng/63c95363c617bdbe0ec2c9e5d53785df/raw/d7c01cb18307a67d46df8391f3bdee362b3abe14/data-pipeline.svg)
-" height="300"/>
 
 
 ### Data files and artifacts
