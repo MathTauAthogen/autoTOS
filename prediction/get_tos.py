@@ -2,6 +2,13 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
+def urls_from_text(text):
+    """
+    Return a list of URLs from a piece of text using RegEx
+    """
+    # https://stackoverflow.com/a/48769624/12940893 for regex
+    url_regex = r"(?:(?:https?|ftp):\/\/)?[\w/\-?=%.]+\.[\w/\-&?=%.]+"
+    return re.findall(url_regex, text)
 
 def tos_from_url(url):
     """
@@ -23,6 +30,23 @@ def tos_from_url(url):
 
     return cleaner_text
 
+def all_tos_from_text_input(text):
+    """
+    Take a text input (as a list of URLs)
+    and return the agreements found on those links
+    
+    """
+    urls = urls_from_text(text)
+    agreements = ""
+
+    for url in urls:
+        try:
+            agreements += tos_from_url(url)
+        except Exception as e:
+            print(e)
+            continue
+
+    return agreements
 
 if __name__ == "__main__":
     slug_to_url = {
