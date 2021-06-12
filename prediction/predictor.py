@@ -137,7 +137,7 @@ if __name__ == "__main__":
     p = Predictor("../nlp/checkpoints/model.ckpt")
 
     instances = [open("../artifacts/tos/wayfair.txt", "r").read()]
-    response = p.predict(instances)
+    response = [p.predict(instance) for instance in instances]
 
     os.makedirs("outputs", exist_ok=True)
     with open("outputs/response_ft.json", "w+") as out:
