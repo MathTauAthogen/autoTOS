@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import json
+from predictor import Predictor
 
 def urls_from_text(text):
     """
@@ -52,15 +54,28 @@ if __name__ == "__main__":
     slug_to_url = {
         "twitter": ["https://twitter.com/en/tos", "https://twitter.com/en/privacy"],
         "duckduckgo": ["https://duckduckgo.com/privacy"],
+        "spotify": ["https://www.spotify.com/us/legal/privacy-policy/",
+                    "https://www.spotify.com/us/legal/end-user-agreement/"]
     }
 
+    predictor = Predictor("../nlp/checkpoints/model.ckpt")
+
     for slug, urls in slug_to_url.items():
+        print(f"Parsing {slug} TOS")
         try:
+            # capture text for agreements
             agreements = ""
             for url in urls:
                 agreements += tos_from_url(url)
-            with open(f"../artifacts/tos/fromsite/{slug}.txt", "w") as file_out:
-                file_out.write(agreements)
+            with open(f"../artifacts/tos/fromsite/{slug}.txt", "w") as outfile:
+                outfile.write(agreements)
+
+            # get TOS prediction
+            tos_eval = predictor.predict(agreements)
+
+            with open(f"../artifacts/eval/fromsite/{slug}.json", "w") as outfile:
+                json.dump(tos_eval, outfile, indent=4)
+
         except Exception as e:
             print(e)
             continue
