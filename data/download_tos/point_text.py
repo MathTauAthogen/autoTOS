@@ -14,7 +14,7 @@ def get_point_text(point_id):
     string: TOS text
     """
     content = requests.get(f"https://edit.tosdr.org/points/{point_id}").content
-    soup = BeautifulSoup(content, 'lxml')
+    soup = BeautifulSoup(content, "lxml")
 
     if (
         b"Oops! It looks like you're doing many different things in a short period of time. We check for this to prevent abusive requests or other types of vandalism to our site. Please try again in 10 minutes."

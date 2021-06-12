@@ -123,6 +123,7 @@ def calculate_sentiment(output_preds):
             signed_score += pred["weight"]
         else:
             signed_score -= pred["weight"]
+        del pred["weight"]
 
     if total_weight != 0:
         # Transforms to [-1.0, 1.0] range

@@ -24,7 +24,7 @@ import re
 # the process
 match_service_id = re.compile(r"/services/(\d+)")
 match_doc_id = re.compile(r"doc_\d+")
-with open("cookies.config", "r") as auth_data:
+with open("../config/cookies.config", "r") as auth_data:
     session, user = map(lambda s: s.strip(), auth_data.readlines())
     cookies = {"_phoenix_session": session, "remember_user_token": user}
 

@@ -10,7 +10,7 @@ import json
 import string
 
 # Function removerange
-# Inputs: first_index, the first index of the substring; 
+# Inputs: first_index, the first index of the substring;
 #   last_index, the last index of the substring;
 #   lens, an array of the current indices of the tokens;
 #   labels, a current list of all of the info about the tokens.
@@ -30,9 +30,10 @@ def removerange(first_index, last_index, lens, labels, substitute):
             break
     assert c[0] >= 1
     return [
-        lens[:c[0]] + lens[c[1]:],
-        labels[:c[0] - 1] + [(sub, sub2, first_index, last_index)] + labels[c[1]:],
+        lens[: c[0]] + lens[c[1] :],
+        labels[: c[0] - 1] + [(sub, sub2, first_index, last_index)] + labels[c[1] :],
     ]
+
 
 ###############################################################################################################
 
