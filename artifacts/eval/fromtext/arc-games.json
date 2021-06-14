@@ -1,0 +1,376 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "IF YOU ARE UNDER 18, DO NOT REGISTER AND DO NOT PROVIDE ANY INFORMATION UNLESS YOU HAVE FIRST OBTAINED YOUR PARENT\u2019S OR GUARDIAN\u2019S PERMISSION",
+            "conf": 0.999993085861206,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "2.1We may amend and/or modify these Terms, the Rules of Conduct, and any EULA at any time in our sole discretion",
+            "conf": 0.9967283606529236,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "2.2Amendments and modifications to the Terms will be published on the Website and shall be effective immediately after publishing them on the Website, or a copy of amendments or modifications will otherwise be provided to you",
+            "conf": 0.9439985156059265,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "and any EULA periodically so you will be familiar with their contents as they may be amended or modified from time to time",
+            "conf": 0.9516617655754089,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "4.2You must be 13 years of age or older to create an Account",
+            "conf": 0.9999925494194031,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are 13 or over, but are under the legal age to enter into a contract in the jurisdiction you reside in (\u201cLegal Age\u201d) and/or under 18 years of age, we require that you review these Terms with your parents or (legal) guardian to ensure they read and agree to them",
+            "conf": 0.9999998211860657,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "4.3By creating an Account or otherwise using the Service, you represent that you are of Legal Age or at least age 18 and agree to these Terms, or that you are over 13 years of age and your parents or legal guardian have read and agreed to these Terms, and you understand and agree that we are relying upon that representation in allowing you to use the Service.",
+            "conf": 0.9966048002243042,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "4.4Notwithstanding the above, certain portions of our Service may contain mature contents not suitable for anyone younger than the Legal Age or 18 years of age.",
+            "conf": 0.981819212436676,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We will require that you confirm that you are of Legal Age or 18 years of age or older to access such content",
+            "conf": 0.9999951720237732,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you enter any portion of the Service which is intended for or is marked for mature audiences only, you are certifying that you are of Legal Age or at least 18 years old and have the legal right to access such content.",
+            "conf": 0.9894729256629944,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any misuse of your Account or your User ID, you agree to accept all risks of misuse of and unauthorized access to your Account and to hold us and our affiliates harmless from and against any misuse use of your Account or your User ID, including, but not limited to, improper or unauthorized use by someone to whom you revealed your password.",
+            "conf": 0.9998493194580078,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "4.8Please note that, you are responsible for maintaining the confidentiality and security of your User ID and password at all times, and you agree to notify us if your password is lost, stolen, or disclosed to an unauthorized third party, or otherwise may have been compromised.",
+            "conf": 0.9986266493797302,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all activities and transactions that occur under your Account, and we are not responsible for any misuse use of your account, including without limitation in the event that your password is stolen or revealed to a third party and/or used for transactions.",
+            "conf": 0.9999427199363708,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "4.10 We will endeavour to notify you by email before we terminate your Account, unless we are terminating, deactivating or deleting your Account or User ID for a violation of these Terms or discontinuation of the Service",
+            "conf": 0.9029523730278015,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "However, we will not be liable in any manner for any failure to give notice",
+            "conf": 0.9453895688056946,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "4.12Please note that regardless of any notice, we reserve the right to discontinue the Service or to terminate or suspend your Account at any time in our sole discretion, for any reason, or for no reason",
+            "conf": 0.9999622702598572,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device",
+            "conf": 0.9790194630622864,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "User identifiers are small data files or similar data structure assigned to a user that will be used to enable you to continue in-",
+            "conf": 0.9236377477645874,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "across multiple platforms and help associate your identity across multiple platforms",
+            "conf": 0.9193483591079712,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "This license is revocable at any time with or without cause",
+            "conf": 0.9981613755226135,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "16.5We take no responsibility and assume no liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor are we liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter",
+            "conf": 0.9959120154380798,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "As a provider of interactive services, we are not liable for any statements, representations or User Content provided by users in any public forum, personal home page or other Interactive Area",
+            "conf": 0.9517888426780701,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Although we have no obligation to screen, edit or monitor any of the User Content, we reserve the right, and have absolute discretion, to remove, screen or edit any User Content posted or stored at any time and for any reason without notice",
+            "conf": 0.9999427795410156,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "19.2We make no claim or representation regarding, and accept no responsibility for, the quality, content, nature or reliability of third-party websites accessible by hyperlink from the Website, or websites linking to the Website",
+            "conf": 0.9827590584754944,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Such sites are not under our control and we are not responsible for the contents of any linked website or any link contained in a linked website, or any review, changes or updates to such websites.",
+            "conf": 0.9927771091461182,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You and PWE acknowledge and agree that Apple, and Apple\u2019s subsidiaries, are third party beneficiaries of this Agreement as relates to your license of the iTunes-Sourced Software, and that, upon your acceptance of the terms and conditions of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement as relates to your license of the iTunes-Sourced Software against you as a third party beneficiary thereof",
+            "conf": 0.9951101541519165,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not endorse or adopt any Third Party Content and can make no guarantee as to its accuracy or completeness",
+            "conf": 0.9998683929443359,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or promotions or as the result of the presence of such non-PWE advertisers or third party information.",
+            "conf": 0.9941723942756653,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Beta Games are provided for testing on an \u201cas is,\u201d \u201cas available\u201d basis and we make no warranty to you of any kind, express or implied",
+            "conf": 0.9999854564666748,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "In this case, all player history and data will be erased and each player will return to novice status",
+            "conf": 0.9859781265258789,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "24.4We may, from time to time, modify, amend, or supplement our fees, billing methods and terms applicable to Zen or to any purchases, and post those changes in these Terms, in separate Terms of Sale or in other terms or agreements posted on the Website or Service or otherwise provided to you by us",
+            "conf": 0.9750669002532959,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "24.7 We are not liable for \u201chacking\u201d or lost of your virtual goods from your account, however, we may, in our sole discretion, reimburse virtual goods or Zen upon proof that such loss was not due to your inappropriate use.",
+            "conf": 0.9898707270622253,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Price and availability of",
+            "conf": 0.9762262105941772,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "are subject to change with no notice",
+            "conf": 0.9878140091896057,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "25.2You acknowledge that the Service or any part thereof may be interrupted for reasons beyond our control, and we cannot guarantee that you will be able to access the Service whenever you may wish to do so",
+            "conf": 0.9972301721572876,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "26.5You may terminate your Account by delivering notice to us",
+            "conf": 0.933643639087677,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "27.1You agree to defend, indemnify and hold harmless PWE, its independent contractors, service providers and consultants, and their respective directors, employees, agents, partners, affiliates, and subsidiaries, from and against any claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys\u2019 fees) arising out of or related to any User Content you post, store or otherwise transmit on or through the Website, your conduct, your violations of these Terms, any misuse of the Service, or your violation of the rights of any third party",
+            "conf": 0.9999997019767761,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(c) We do not guarantee the completeness, accuracy or correctness of any information passed between players..",
+            "conf": 0.9999890327453613,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge that said information passed between users is \u2018as is\u2019 and that you will use such information only for your own risk",
+            "conf": 0.9678164124488831,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You may not hold PWE responsible for any in-game feature or item loss",
+            "conf": 0.9673669934272766,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee the availability of any in-game items, any Service or any levels to players  29",
+            "conf": 0.9999685883522034,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") THE SERVICE, THE GAMES, THE WEBSITE AND ALL MATERIALS CONTAINED THEREIN ARE PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED",
+            "conf": 0.9999274015426636,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PWE AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS DISCLAIM ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, PERFORMANCE OR SUITABILITY FOR YOUR INTENDED USE, TITLE AND NON-INFRINGEMENT AS TO THE SERVICE, THE GAME AND THE WEBSITE, INCLUDING ALL INFORMATION, CONTENT AND MATERIALS CONTAINED THEREIN",
+            "conf": 0.9589033126831055,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING THE FOREGOING, PWE DOES NOT REPRESENT OR WARRANT THAT THE SERVICE, THE GAMES, THE WEBSITE OR THE MATERIALS CONTAINED THEREIN ARE ACCURATE, COMPLETE, RELIABLE, AVAILABLE, CURRENT OR ERROR-FREE",
+            "conf": 0.9999634623527527,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PWE ALSO DOES NOT REPRESENT OR WARRANT THAT THE GAMES, THE WEBSITE OR ITS SERVERS ARE FREE OF VIRUSES, BUGS, ERRORS OR OTHER HARMFUL COMPONENTS OR DEFECTS, TRANSMIT DATA IN A SECURE MANNER, OR FUNCTION PROPERLY WITH THE SERVICE",
+            "conf": 0.9999935626983643,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PWE AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS MAKE NO WARRANTY THAT (i) THE SERVICE WILL MEET YOUR REQUIREMENTS",
+            "conf": 0.9357640147209167,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(ii) THE WEBSITE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE",
+            "conf": 0.9999788403511047,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WHILE PWE ATTEMPTS TO MAKE YOUR ACCESS AND USE OF THE SERVICE SAFE, PWE CANNOT AND DOES NOT REPRESENT OR WARRANT THAT THE SERVICE OR ITS SERVER(S) ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS",
+            "conf": 0.9204683303833008,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE WEBSITE OR SERVICE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.",
+            "conf": 0.9898653626441956,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "NO EVENT SHALL WE, PWE, ITS DIRECTORS, MEMBERS, AFFILIATES, SUBSIDIARIES, EMPLOYEES OR AGENTS BE LIABLE FOR ANY DIRECT, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE) OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR INABILITY TO USE THE WEBSITE, THE SERVICE, THE GAMES OR ANY OF THE CONTENT OR THE MATERIALS CONTAINED IN OR ACCESSED THROUGH THE WEBSITE OR THE SERVICE, INCLUDING WITHOUT LIMITATION ANY DAMAGES CASED BY OR RESULTING FROM RELIANCE BY USER ON ANY INFORMATION OBTAINED FROM US OR PWE, OR THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR EMAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS",
+            "conf": 0.9861062169075012,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we cannot be held responsible or liable for anything that occurs or results from accessing or subscribing to the Service",
+            "conf": 0.999998152256012,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "any provision of this Agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this Agreement and shall not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9897386431694031,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Cryptic Studios reserves the right to remove any New Game Materials for any reason at any time, without providing cause or recompense",
+            "conf": 0.9997580647468567,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 0.6
+}

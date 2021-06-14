@@ -1,0 +1,355 @@
+{
+    "predictions": [
+        {
+            "label": "6",
+            "text": "These Terms of Use limit Ellation's liability and obligations to you, grant us certain rights and allow us to change, suspend or terminate your access to and use of the Site and Services",
+            "conf": 0.9599050283432007,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "To become a Crunchyroll Member you must be at least 16 years of age",
+            "conf": 0.9999573826789856,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for safeguarding and maintaining the confidentiality of your username, password and corresponding",
+            "conf": 0.9719380736351013,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree not to disclose your password to anyone",
+            "conf": 0.9970120191574097,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you are entirely and solely responsible for any and all activities or actions that occur under your Crunchyroll account, whether or not you have authorized such activities or actions",
+            "conf": 0.9805712103843689,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Crunchyroll membership at any time, and you will continue to have access to the Site and/or Services through the end of your monthly billing period",
+            "conf": 0.999542772769928,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you cancel your membership, your account will automatically close at the end of your current billing period",
+            "conf": 0.9996969103813171,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Ellation will have no responsibility or liability for maintaining copies of User Submissions on our servers, and you are solely responsible for creating back-ups of your User Submissions.",
+            "conf": 0.993710994720459,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Ellation does not guarantee that any content (including without limitation Crunchyroll Content or User Submissions) will be made available through the Site or Services, continuously or at all",
+            "conf": 0.999998927116394,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "WHILE ELLATION IS UNDER NO OBLIGATION TO DO SO, ELLATION RESERVES THE RIGHT TO REMOVE AND PERMANENTLY DELETE ANY CONTENT FROM THE SITE OR SERVICES WITHOUT NOTICE, AND FOR ANY REASON ELLATION DEEMS SUFFICIENT",
+            "conf": 0.999121367931366,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Ellation reserves the right in its sole discretion, at any time, to modify, discontinue or terminate the Site or Services or to modify or terminate these Terms of Use without advance notice",
+            "conf": 0.9997339248657227,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Without limiting other remedies, Ellation may at any time suspend or terminate your Crunchyroll account and refuse to provide access to the Site or Services",
+            "conf": 0.999911904335022,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold Ellation and its affiliates, subsidiaries and distribution partners and their respective officers, directors, employees and/or agents harmless from and against any claims, liabilities, damages, losses and expenses, including, without limitation, reasonable attorneys' fees and costs, arising out of or in any way connected with: (i) your access to or use of the Site, Services,",
+            "conf": 0.9999967217445374,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Crunchyroll Content or User Submissions",
+            "conf": 0.9382564425468445,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SITE, SERVICES, Crunchyroll CONTENT AND ANY OTHER CONTENT MADE AVAILABLE THROUGH THE SITE OR SERVICES ARE PROVIDED \"AS IS\" WITH NO WARRANTY OF ANY KIND",
+            "conf": 0.9999558329582214,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ELLATION EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE SITE, SERVICES, Crunchyroll CONTENT AND ANY OTHER CONTENT MADE AVAILABLE THROUGH THE SITE OR SERVICES, INCLUDING ANY IMPLIED WARRANTY OF QUALITY, AVAILABILITY, MERCHANTABILITY,",
+            "conf": 0.9915711283683777,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IN ADDITION, ELLATION MAKES NO REPRESENTATION OR WARRANTY THAT THE SITE, SERVICES, Crunchyroll CONTENT OR ANY OTHER CONTENT MADE AVAILABLE THROUGH THE SITE OR SERVICES WILL BE ERROR FREE OR THAT ANY ERRORS WILL BE CORRECTED",
+            "conf": 0.9999178051948547,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES WILL ELLATION OR ITS AFFILIATES, SUBSIDIARIES, PARTNERS OR LICENSORS OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES AND/OR AGENTS BE LIABLE TO YOU OR ANY THIRD-PARTY FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH USE OF THE SITE, SERVICES, Crunchyroll CONTENT AND ANY OTHER CONTENT MADE AVAILABLE THROUGH THE SITE OR SERVICES INCLUDING, WITHOUT LIMITATION, INJURY OR DAMAGES RESULTING FROM THE CONDUCT OF ANY Crunchyroll USER, ONLINE OR OFFLINE, WHETHER OR NOT ELLATION HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9998971819877625,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The dispute will not be consolidated with any other matters or joined with any other cases or parties",
+            "conf": 0.9385243654251099,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND ELLATION AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR OUR INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999935030937195,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You must send your opt-out notice to one of the following physical or email addresses:",
+            "conf": 0.9602023363113403,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Ellation is not responsible for the activities or such sites, and has no liability to you for any harms, injuries or losses you might suffer as a result of using or accessing such websites",
+            "conf": 0.9999995827674866,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The failure of a party to enforce any right or provision of these Terms of Use will not be deemed a waiver of such right or provision",
+            "conf": 0.9999974370002747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Modified: 3/14/2019",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Privacy Policy  This Privacy Policy has an effective date of:: 11/13/2018",
+            "conf": 0.9999362826347351,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This Privacy Policy may be updated from time to time",
+            "conf": 0.9999424815177917,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you of any material changes by posting the new Privacy Policy on the Site",
+            "conf": 0.9995564818382263,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "When visitors use our Services, we and our third-party service providers also may automatically collect some non-personally identifiable information such as the type of computer operating system you are using (e.g., Microsoft Windows or Mac OS), the type of browser you are using (e.g., Internet Explorer, Firefox), the domain name of the Internet service provider you are using your activity while using our Services (e.g., which of our pages you have viewed, the content viewed, and the advertisements you have been shown) (\u201cUsage Information",
+            "conf": 0.9703298211097717,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ").",
+            "conf": 0.9174792170524597,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Our Services may use software technology such as \"cookies,\" \u201cflash cookies,\u201d \"web beacons,\" \u201cembedded scripts,\u201d or other similar technologies (collectively referred to as \"Tracking Technologies\").",
+            "conf": 0.9999986290931702,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "&nbsp;Web beacons or \"clear gifs\" are small pieces of code placed on websites used to collect advertising metrics, such as counting page views, promotion views or advertising responses.",
+            "conf": 0.9881100058555603,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Moreover, we, our third-party service providers and/or our partners may use Tracking Technologies to monitor the behavior and collect data about the visitors viewing a web page",
+            "conf": 0.9573970437049866,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Like many websites and online services, our Services currently do not alter their practices when they receive a \u201cDo Not Track\u201d signal from a visitor\u2019s browser.",
+            "conf": 0.9875485301017761,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications",
+            "conf": 0.997035801410675,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "In addition to these, you may opt-in to notifications including: media subscriptions and group updates",
+            "conf": 0.9999231100082397,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We will provide means to opt-out of any email notifications from us and will include links to opt-out in every email",
+            "conf": 0.9999845623970032,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We will not share or sell Personal Information, such as e-mail address, with other organizations for their marketing or promotional uses without your express consent",
+            "conf": 0.9999490976333618,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may share aggregated information that includes non-identifying information with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services",
+            "conf": 0.9982592463493347,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "note opting out through these mechanisms does not opt you out of being served advertising",
+            "conf": 0.9019272923469543,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may sell, transfer or otherwise share some or all of our assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy",
+            "conf": 0.9983057975769043,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You may ask for a copy of your personal information, to correct it, erase it or transfer to another organization",
+            "conf": 0.9997678399085999,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you do not opt-in or if you choose to opt-out at the time we offer that choice, we do not share your information with that identified third party for its direct marketing purposes",
+            "conf": 0.9996377825737,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "All Members may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the \"user preferences\" associated with their account",
+            "conf": 0.9943397045135498,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you completely delete all such information, your account may be deactivated",
+            "conf": 0.9999440312385559,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal data from minors under 16 years of age",
+            "conf": 0.9997624754905701,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "THESE SERVICES ARE INTENDED FOR A MATURE AUDIENCE AND NOT DIRECTED TO CHILDREN UNDER THE AGE OF 16 YEARS OF AGE",
+            "conf": 0.9996922612190247,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "IF YOU ARE UNDER 16 YEARS OF AGE, THEN YOU ARE NOT PERMITTED TO USE OR ACCESS THE SERVICES AT ANY TIME OR IN ANY MANNER WITHOUT AN ADULT\u2019S PERMISSION AND SUPERVISION",
+            "conf": 0.9999991059303284,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "Your information may be transferred to -- and maintained on -- computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction",
+            "conf": 0.9999904036521912,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you are located outside the United States and choose to provide information through our Services, please be advised that we transfer Personal Information to the United States and process it there",
+            "conf": 0.9987058639526367,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you",
+            "conf": 0.9374696612358093,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.8
+}

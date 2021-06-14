@@ -1,0 +1,551 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Date: Last Updated as of March 18, 2019",
+            "conf": 0.9999989867210388,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We can change these Terms at any time",
+            "conf": 0.999970555305481,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "To apply to become an Expert, you must be at least 18 years of age, capable of entering into legally binding contracts, and register for a Directly account (\u201cDirectly Account\u201c) by providing certain personal information about yourself (\u201cRegistration Information\u201d), as detailed in and subject to our Privacy Policy which is available here and incorporated into these Terms",
+            "conf": 0.9847150444984436,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant that: (a) your Directly Account and Registration Information are truthful and accurate",
+            "conf": 0.9974032640457153,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(b) you will maintain the accuracy and completeness of such information",
+            "conf": 0.9779457449913025,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "&nbsp;You may delete your Directly Account at any time and for any reason, by following the instructions in the Services",
+            "conf": 0.995969831943512,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "reserve, at all times, the right to accept or reject your",
+            "conf": 0.9336651563644409,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your Directly Account login information and are fully responsible for all activities that occur under your Directly Account.",
+            "conf": 0.9819522500038147,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may suspend or limit your rights to use the Services at any time for any reason at our sole discretion, including any use of the Services in violation of these Terms",
+            "conf": 0.9972641468048096,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "&nbsp;The Services help to optimize the routing and resolution of tasks to provide Expert Content, but Directly does not assume responsibility for any Expert Content or for actions by any independent third-parties, including but not limited to Experts, Customers, or Customers\u2019 end users",
+            "conf": 0.9976687431335449,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "&nbsp;We reserve the right, at any time, to modify, suspend, or discontinue the Services, or any part thereof with or without notice",
+            "conf": 0.9999889135360718,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "This means that you, and not we, are entirely responsible for content that you upload, post, email, transmit or otherwise make available via the Services, including any Task you view or complete.",
+            "conf": 0.986780047416687,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "&nbsp;Upon the termination, cancellation or expiration of your Directly Account for any reason, or upon Directly",
+            "conf": 0.9812599420547485,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "\u2019s request at any time, you will destroy all Confidential Information, together with any copies that may be authorized herein",
+            "conf": 0.9969484806060791,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Services is provided \u201cas-is,",
+            "conf": 0.9999879598617554,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "and as available",
+            "conf": 0.9999668598175049,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(b) will be available on an uninterrupted, timely, secure, or error-free basis",
+            "conf": 0.9999964833259583,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "or (c) will be accurate, reliable, complete, legal, or safe",
+            "conf": 0.9999560713768005,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event shall we (and our Customers, Customer users or Third Party Providers (collectively, \u201cPartners\u201d) be liable to you or any third party for any lost profit or any indirect, consequential, exemplary, incidental, special, or punitive damages arising from these Terms or your use of, or inability to use, the Services, even if we have been advised of the possibility of such damages.",
+            "conf": 0.997822642326355,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold us, our parents, subsidiaries, affiliates, any related companies, our Partners, suppliers, licensors, and the officers, directors, employees, agents and representatives of each of them harmless, including costs and attorneys\u2019 fees, from any claim or demand made by any third party due to or arising out of: &nbsp;(i) your use of the Services, (ii) your Expert Content, or (iii) your violation of these Terms",
+            "conf": 0.9999688863754272,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims",
+            "conf": 0.9638032913208008,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "will (1) defend, or at our option settle, any suit filed by a third party against you (a \u201cSuit",
+            "conf": 0.9360492825508118,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") to the extent such Suit claims that",
+            "conf": 0.9384347200393677,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may (a) suspend or limit your rights to use or access the Services (including your Directly Account), or (b) terminate these Terms, at any time for any reason at our sole discretion, including (i) for any use of the Services in violation of these Terms",
+            "conf": 0.9999701976776123,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Your agreement to the Arbitration Terms will preclude you from bringing any class, collective, or representative action against Directly, and also preclude you from participating in or recovering relief under any current or future class, collective, consolidated, or representative action brought against Directly by someone else",
+            "conf": 0.9999955892562866,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out by emailing us at legal@directly.com&nbsp;or",
+            "conf": 0.950961172580719,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "legal@directly.com&nbsp;or sending us written notification at Directly",
+            "conf": 0.9136087894439697,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You acknowledge and agree that you and Directly are each waiving the right to a trial by jury or to participate as a plaintiff or class member in any purported class action or representative proceeding",
+            "conf": 0.999991774559021,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Unless both you and Directly otherwise agree in writing, any arbitration will be conducted only on an individual basis and not in a class, collective, consolidated, or representative proceeding",
+            "conf": 0.9999492764472961,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "This means the dispute will not be consolidated with any other matters or joined with any other cases or parties",
+            "conf": 0.9649797677993774,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") in any state or federal court in a suit to vacate or enforce an arbitration award or otherwise",
+            "conf": 0.9633575677871704,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "you and",
+            "conf": 0.9270488619804382,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "(or the applicable",
+            "conf": 0.9408156871795654,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") waive all rights to a jury trial, instead electing that the dispute be resolved by a judge",
+            "conf": 0.9251142740249634,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "&nbsp;All claims and disputes within the scope of this Arbitration Terms must be arbitrated or litigated on an individual basis and not on a class basis, and claims of more than one User cannot be arbitrated or litigated jointly or consolidated with those of any other user or third party (including but not limited to Experts, users or Customers",
+            "conf": 0.999849259853363,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "request for interim measures shall not be deemed a waiver of any other rights or obligations under this",
+            "conf": 0.9041800498962402,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "&",
+            "conf": 0.9833624958992004,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "nbsp;These Terms are subject to revision, and if we make any substantial changes, we will notify you by sending you an email to the last e-mail address you provided to us (if any) and/or by prominently posting notice of the changes on our Services so it is visible when you visit and/or log-on to the Services for the first time after the change is posted",
+            "conf": 0.9999838471412659,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to these Terms will be effective immediately following our posting of notice of the changes on our Services",
+            "conf": 0.9996477961540222,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "&",
+            "conf": 0.9677464365959167,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision",
+            "conf": 0.9999964833259583,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "&nbsp;We reserve the right to change, alter or vary the Services, Services offered on or through the Services at any time without notice",
+            "conf": 0.9836047887802124,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: Last Updated as of March 18, 2019",
+            "conf": 0.9999989867210388,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Our Services (including directly.com) are intended for adults and not for children: Anyone under the age of 18 is not permitted to access or use directly.com or the Services",
+            "conf": 0.9999933242797852,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 18 you are prohibited from registering for or using a Directly Account or submitting any Data to us",
+            "conf": 0.9999986290931702,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We use first party and third-party cookies for several different purposes",
+            "conf": 0.9857197999954224,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third parties serve third party cookies through our website for advertising, analytics and other purposes",
+            "conf": 0.9995766878128052,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These third parties may use information about your visits to directly.com and other websites to provide relevant advertisements about goods and services that you may be interested in",
+            "conf": 0.960271418094635,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our Services and associated technology also enable one or more Third-Party Providers of analytic services (e.g., Google Analytics) to collect this type of information (such as device identifiers) so we can analyze how our Services are used.",
+            "conf": 0.9954586625099182,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Where Directly is processing and using your Personal Data, as permitted by law or under your consent, we will store your Personal Data (i) only for as long as is required to fulfil the purposes set out below, (ii) until you object to Directly\u2019s use of your Personal Data (where Directly has a legitimate interest in using your Personal Data), or (iii) until you withdraw your consent (where you consented to Directly using your Personal Data).",
+            "conf": 0.9999986886978149,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, where Directly is required by mandatory law to retain your Personal Data longer, or where your Personal Data is required for Directly to assert or defend against legal claims, we will retain your Personal Data until the end of the relevant retention period or until the claims in question have been settled.",
+            "conf": 0.9905069470405579,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Accordingly, even if you close your Directly Account, we may retain certain data to meet our obligations",
+            "conf": 0.9989364147186279,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Directly does not sell or rent Personal Data to marketers or unaffiliated third parties",
+            "conf": 0.9998900890350342,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If another company acquires our company or our assets, including pursuant to a bankruptcy or similar proceeding, that company will possess the Personal Data collected and stored by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy",
+            "conf": 0.9437766671180725,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you no longer want to receive marketing-related emails from us going forward, you may opt-out via the unsubscribe link included in such emails",
+            "conf": 0.999984860420227,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you ask us to delete your account (either via the Directly Account Settings page or by email), we will do so within a reasonable period of time, but we may need to retain some of your Personal Data in order to satisfy our legal obligations, or where we have a legitimate reason for doing so.",
+            "conf": 0.9929677844047546,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If your Personal Data changes, or if you no longer desire our Services, you may update it or deactivate your Directly Account by making the change in your account page, by emailing our Customer Support at hello@directly.com, or by contacting us by telephone or postal mail at the contact information listed below",
+            "conf": 0.975715696811676,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may be required to keep your Data and not delete it (or to keep your information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).",
+            "conf": 0.9999998807907104,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When we delete any Data, it will be deleted from the active database, but may remain in our archives",
+            "conf": 0.9999077320098877,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After deactivation of your Directly Account and deletion of Data from the active database, we may continue to use and disclose your Personal Data in accordance with this Privacy Policy",
+            "conf": 0.9996964335441589,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you have already registered an account, you can find out how to terminate or cancel your account, or correct, or delete your Data by emailing privacy@directly.com",
+            "conf": 0.9999198913574219,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You use our Website and Services at your own risk, and you\u2019re responsible for taking reasonable measures to secure your account (like using a strong password).",
+            "conf": 0.9999999403953552,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "We store and process Personal Data on servers located in the United States and we may transfer Personal Data (as defined under applicable law) to countries outside of your country of residence, which may have data protection laws that are different from those of the country where you reside",
+            "conf": 0.9999936819076538,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Subject to any exemptions provided by law, such individuals may have the right to request access to their Personal Data, as well as to seek to update, delete or correct this information",
+            "conf": 0.972653329372406,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track Because there is no accepted standard on how to respond to Do Not Track signals, we respond to such signals",
+            "conf": 0.9997551441192627,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Changes We may periodically update this Privacy Policy",
+            "conf": 0.9370646476745605,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any substantial changes, we may notify you by sending you an e-mail to the last e-mail address you provided to us (if any) and/or by prominently posting notice of the changes on the website and via Services, so it is visible when you visit and/or log-on to the website or Services for the first time after the change is posted",
+            "conf": 0.9999170899391174,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Where Directly is processing and using your Personal Data as permitted by law or under your consent, we will store your Personal Data (i) only for as long as is required to fulfil the purposes set out below, (ii) until you object to Directly\u2019s use of your Personal Data (where Directly has a legitimate interest in using your Personal Data), or (iii) until you withdraw your consent (where you consented to Directly using your Personal Data).",
+            "conf": 0.999998152256012,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, where Directly is required by mandatory law to retain your Personal Data longer or where your Personal Data is required for Directly to assert or defend against legal claims, we will retain your Personal Data until the end of the relevant retention period or until the claims in question have been settled.",
+            "conf": 0.9903553128242493,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "As a consequence, whenever Directly is using or otherwise processing your Personal Data for the purposes set out in this Privacy Policy, we may transfer your Personal Data to countries outside of the EEA, such as the United States, where such countries in which a statutory level of data protection applies that is not comparable to the level of data protection within the EEA",
+            "conf": 0.9997228980064392,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Please note, however, that we can delete your Personal Data only if there is no statutory obligation or prevailing right of Directly to retain it",
+            "conf": 0.999951183795929,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you request that Directly delete your Personal Data, you will not be able to continue to use the Services that requires Directly",
+            "conf": 0.9806007742881775,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u2019s use of your Personal Data",
+            "conf": 0.9845919609069824,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective April 12, 2018",
+            "conf": 0.9999933242797852,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Our Privacy Policy explains how you may access and/or submit requests to review, correct, update, suppress, or delete Personal Data",
+            "conf": 0.9904434680938721,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "This Privacy Shield Policy may be changed from time to time, consistent with the requirements of the Privacy Shield and in accordance with the process described in the Privacy Policy",
+            "conf": 0.9994432926177979,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "You can determine when this Privacy Shield Policy was last revised by referring to the \u201cLAST REVISED &amp",
+            "conf": 0.9932275414466858,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "UPDATED\u201d date at the top of this page",
+            "conf": 0.9998636245727539,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.3
+}

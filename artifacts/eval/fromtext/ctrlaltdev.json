@@ -1,0 +1,19 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "ctrlalt.dev does not collect or share your information",
+            "conf": 0.9999944567680359,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "ctrlalt.dev does not use cookies",
+            "conf": 0.9808224439620972,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 5.0
+}

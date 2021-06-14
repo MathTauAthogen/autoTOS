@@ -1,0 +1,376 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Terms of Service Posted February 12, 2018",
+            "conf": 0.9997585415840149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right, at any time, in our sole discretion, with or without notice, to terminate the accounts of, and block access to the Pocket Technologies to, any users who infringe any",
+            "conf": 0.9960010647773743,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You agree that, upon such termination, you will destroy or permanently erase all copies of the",
+            "conf": 0.9754000902175903,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Technologies",
+            "conf": 0.9220809936523438,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to refuse service, terminate accounts or limit access to the Pocket Technologies in our sole discretion",
+            "conf": 0.9997166991233826,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You warrant that your Registration Data and all of the other information that you provide to us will be truthful, accurate, and complete, and that you are authorized to provide such information",
+            "conf": 0.9992194175720215,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If you choose to create a user account, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your account.",
+            "conf": 0.9960479140281677,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You may not share your password or other account access information with any other party, temporarily or permanently, and you agree to accept responsibility for all activities that occur under your account or password, whether or not authorized by you.",
+            "conf": 0.9992875456809998,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to refuse service and/or terminate user accounts in our sole discretion",
+            "conf": 0.999670684337616,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We also reserve the right to terminate the account of any user who transfers or saves content in violation of this Agreement",
+            "conf": 0.9996964931488037,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We shall have no liability or responsibility to users for performance or nonperformance of such activities",
+            "conf": 0.9235305786132812,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We do not control, and are not responsible for, the content of, or products or services available through, any third-party websites, including without limitation the websites that offer videos, articles or other content that you choose to save to Pocket.",
+            "conf": 0.9980316162109375,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand and agree that we do not warrant and shall not be liable for any third-party materials or websites",
+            "conf": 0.995659589767456,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "DISCLAIMER OF WARRANTIES  Reasonable efforts are taken to improve the accuracy and integrity of the Pocket Technologies, but we are not responsible for mistakes, out-of-date information, inaccuracies, typographical or other errors",
+            "conf": 0.9509690999984741,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Notwithstanding any other provision of this Agreement, we reserve the right to change, suspend, remove, or disable access to any of the Pocket Technologies, content, or other materials comprising a part of the Pocket Technologies at any time without notice",
+            "conf": 0.99998939037323,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not warrant, and will not have any liability or responsibility for, your use of Pocket or the products or services we provide",
+            "conf": 0.9995625615119934,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Technologies, for any reason and without notice or liability",
+            "conf": 0.9491893649101257,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Our website, products and services may be unavailable from time to time due to mechanical, telecommunication, software, and other failures",
+            "conf": 0.9999681115150452,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE POCKET TECHNOLOGIES (INCLUDING, WITHOUT LIMITATION, OUR APPLICATION, SOFTWARE, PRODUCTS, SERVICES AND WEBSITE) ARE PROVIDED \"AS IS\" AND WITH ALL FAULTS.",
+            "conf": 0.9902579188346863,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE MAKE NO REPRESENTATION OR WARRANTY WHATSOEVER REGARDING THE COMPLETENESS, ACCURACY, ADEQUACY, SUITABILITY, FUNCTIONALITY, AVAILABILITY, OR OPERATION OF THE",
+            "conf": 0.9999655485153198,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TECHNOLOGIES",
+            "conf": 0.9997497797012329,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF",
+            "conf": 0.9126220345497131,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING THE FOREGOING, WE NEITHER WARRANT NOR REPRESENT THAT YOUR USE OF THE POCKET TECHNOLOGIES WILL NOT INFRINGE THE RIGHTS OF ANY THIRD PARTIES, NOR THAT THE POCKET TECHNOLOGIES WILL BE AVAILABLE FOR YOUR ACCESS OR USE, NOR THAT OPERATION OF THE POCKET TECHNOLOGIES WILL BE ERROR FREE OR UNINTERRUPTED",
+            "conf": 0.9821878671646118,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NOR ANY OF ITS PARENTS, SUBSIDIARIES OR AFFILIATES, NOR ANY OF THEIR EMPLOYEES, OFFICERS OR DIRECTORS, SHALL BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF DATA OR INFORMATION OF ANY KIND, LOSS OF BUSINESS, LOST PROFITS, INTERRUPTION OF BUSINESS, COST OF COVER OR ANY OTHER DAMAGES) ARISING OUT OF OR IN ANY WAY RELATED TO THIS AGREEMENT OR THE USE OR INABILITY TO USE THE POCKET TECHNOLOGIES, WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9999774694442749,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNIFICATION  You agree, at your own expense, to indemnify, defend and hold harmless Read It Later, Inc., its parents, subsidiaries and affiliates, and their officers, directors, employees, agents, distributors and licensees, from and against any judgments, losses, deficiencies, damages, liabilities, costs, claims, demands, suits, and expenses (including, without limitation, reasonable attorneys\u2019 fees, expert witness fees and expenses) incurred in, arising out of or in any way related to your breach of this Agreement, your use of the Pocket Technologies, or any of your other acts or omissions",
+            "conf": 0.9996689558029175,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "ANY DISPUTE OR CLAIM ARISING OUT OF OR RELATING IN ANY WAY TO YOUR",
+            "conf": 0.9395025372505188,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ", WILL BE RESOLVED BY BINDING ARBITRATION, RATHER THAN IN COURT, EXCEPT THAT YOU MAY ASSERT CLAIMS IN SMALL CLAIMS COURT IF YOUR CLAIMS QUALIFY",
+            "conf": 0.9805178642272949,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "WE EACH AGREE THAT ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED OR REPRESENTATIVE ACTION",
+            "conf": 0.999997079372406,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you cancel or decide not to renew, you will be downgraded to our free service upon cancellation or at the end of your subscription period, as applicable",
+            "conf": 0.9754179120063782,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We will provide users with notice of any material change to the terms and conditions applicable to the subscription service at least thirty days prior to such change taking effect",
+            "conf": 0.9999690651893616,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate this Agreement at any time and may do so immediately without notice, without any liability to you, and accordingly deny you access to the Pocket Technologies, in our sole discretion, if you have failed or we suspect you have failed to comply with any term or provision of this Agreement",
+            "conf": 0.9999628663063049,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Termination of this Agreement shall not act as a waiver of any breach of this Agreement and shall not release you from any liability for breach of your obligations under this Agreement",
+            "conf": 0.9999294877052307,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "), will be stored for 30 days",
+            "conf": 0.9253690838813782,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Following such 30 day period, we will have no obligation to save any such data",
+            "conf": 0.999293327331543,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We control and operate the Pocket Technologies from offices located in the United States and all servers that make it available reside in the United States",
+            "conf": 0.969684362411499,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Except as provided in the paragraph above, the Pocket Technologies are not for individuals under the age of 13",
+            "conf": 0.9970422983169556,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are 13 or older but under the age of 18, you should review this Agreement with your parent or guardian to make sure that you and your parent or guardian understand and agree to it",
+            "conf": 0.9999947547912598,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may, at any time, revise this Agreement",
+            "conf": 0.9571455717086792,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we modify the Terms of Service, we will post the modification on our website, through the Pocket Technologies, or otherwise provide you with notice of the modification",
+            "conf": 0.9814275503158569,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Posted March 18, 2019",
+            "conf": 0.9999982118606567,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "In addition to the methods described above, we may also collect information using cookies or other technologies when you access our website or use Pocket Technologies",
+            "conf": 0.9980981349945068,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may also use \"pixel tags,\" \"web beacons,\" \"clear GIFs\" or similar means (individually or collectively \"Pixel Tags\") in connection with emails that we send to our users in order to collect usage data.",
+            "conf": 0.9982171654701233,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use Pixel Tags, other technologies and the information we collect to count users who have visited certain pages on our Website, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns.",
+            "conf": 0.996141254901886,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use aggregated information to offer a list of top sites or content, to make recommendations to our users, to report on usage and trends, to improve the products and services that we offer, or to develop new products and services",
+            "conf": 0.9510312080383301,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Except as set forth below, we do not share any personally identifiable information unless you expressly agree that we may do so",
+            "conf": 0.9559163451194763,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "KEEPING INFORMATION We will keep your information only for as long as we need it to provide you services, manage our business or as required by law or contract",
+            "conf": 0.9999968409538269,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We're a global organization and our computers are in several different places around the world",
+            "conf": 0.9993255138397217,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We also use service providers whose computers may also be in various countries",
+            "conf": 0.9243357181549072,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain free from security issues",
+            "conf": 0.9719006419181824,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can access, correct, or delete your personal information and export your data from your Pocket Profile",
+            "conf": 0.9998054504394531,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of receiving these, and updates on our service and your use, by using the unsubscribe feature on any of our email correspondence or from your account settings",
+            "conf": 0.9999812245368958,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Please note this Privacy Policy will change from time to time",
+            "conf": 0.9989490509033203,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes to our Privacy Policy that affect user information already stored in our database, we will post a prominent notice on our Website notifying users that our Privacy Policy has changed",
+            "conf": 0.9706791043281555,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 2.7
+}

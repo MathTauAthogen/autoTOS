@@ -1,0 +1,376 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated: 21 May 2018",
+            "conf": 0.9999988079071045,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You may access and use the Website and the services available on the Website only if you are at least 13 years old",
+            "conf": 0.9999904036521912,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Your Account If you create an account on the Website, you are responsible for maintaining the security of your account and you are fully responsible for all activities that occur under the account.",
+            "conf": 0.9946569204330444,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions",
+            "conf": 0.9997024536132812,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We have the right (though not the obligation) to, in our sole discretion (i) refuse or remove any content that, in our reasonable opinion, violates any of our policy or procedure or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Website to any individual or entity for any reason, in our sole discretion",
+            "conf": 0.9964981079101562,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "By operating the Website, we do not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful or non-harmful",
+            "conf": 0.9994398951530457,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Age Restrictions Under no circumstances is the Website intended for direct use by persons under 13 years of age",
+            "conf": 0.999968409538269,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In order to use the Website on your own behalf, you must be at least 18 years of age",
+            "conf": 0.9999938011169434,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are between the ages of 13 and 18, you may still be able to use the Website, but you must have a parent or legal guardian provide valid and verifiable consent to your use of the Website and acceptance of these Terms of Service.",
+            "conf": 0.989898681640625,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect any personal data directly from persons under the age of 13",
+            "conf": 0.9991433024406433,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We have not reviewed, and cannot review, all of the material made available through third party websites and webpages to which the Website links, and that link to the Website that we are not responsible for, nor shall it be liable to you for your access and use of any such hyperlinks or websites.",
+            "conf": 0.9953053593635559,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "As such, we will not be responsible or liable to you in any way for any content, errors, or omissions, or for the results obtained from the use of any information contained in or provided to those third-party sites",
+            "conf": 0.9904232621192932,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We disclaim any responsibility for any harm resulting from your use of third-party websites and webpages",
+            "conf": 0.9463690519332886,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, ICANN ORGANIZATION, ITS SUBSIDIARIES AND AFFILIATES, AND EACH OF THEIR RESPECTIVE OFFICERS, DIRECTORS, MEMBERS, SHAREHOLDERS, EMPLOYEES, ASSOCIATES, AGENTS, LICENSORS, REPRESENTATIVES, AND THIRD-PARTY PROVIDERS WILL NOT BE LIABLE TO YOU FOR ANY COMPENSATORY, CONSEQUENTIAL, INCIDENTAL, EXEMPLARY, DIRECT, INDIRECT, SPECIAL, PUNITIVE, OR SIMILAR DAMAGES, THAT MAY RESULT FROM THE USE OF, ACCESS TO, OR THE INABILITY TO USE, THE WEBSITE OR ANY MATERIALS CONTAINED IN THE WEBSITE, WHETHER THE MATERIAL IS PROVIDED OR OTHERWISE SUPPLIED BY US OR ANY THIRD PARTY",
+            "conf": 0.9975600242614746,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If, notwithstanding the other provisions of these Terms and Conditions, we are found to be liable to you for any damages or losses arising out of your use of, access to or inability to use the Website or any material provided or otherwise supplied by us or any third party, our liability shall in no event exceed US $25.00",
+            "conf": 0.9655748009681702,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The availability of the Website may be interrupted due to technical conditions",
+            "conf": 0.9966475963592529,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not warrant that the functional aspects of the Website will be uninterrupted or error-free or that the Website or the servers that make it available are free of viruses or other harmful components",
+            "conf": 0.9999971985816956,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Without limiting the foregoing, everything in the Website is provided to you \"as is\" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement",
+            "conf": 0.9999939799308777,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") YOUR ABILITY TO COMBINE CLAIMS AND TO BRING CLAIMS THROUGH CLASS ACTIONS",
+            "conf": 0.9870569705963135,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Except as otherwise indicated in this Agreement, the arbitrator, and not any federal, state, or local court, shall have exclusive authority to resolve any dispute relating to the interpretation, applicability, and/or enforceability of this Agreement and any terms or documents incorporated herein, including any claim that all or any part of this Agreement, are void or voidable",
+            "conf": 0.9982566833496094,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The arbitrator shall not have authority to combine or aggregate similar claims or conduct any Class Action (as defined below), or make an award to any person or entity not a party to the arbitration",
+            "conf": 0.9999985694885254,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Class Action Waiver Each of us expressly agree that any Claim(s) must be brought in the respective party's individual capacity, and not as a plaintiff or class member in any purported class, collective, representative, multiple plaintiff, or similar proceeding (\"Class Action\").",
+            "conf": 0.9999809265136719,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Each of us expressly agree to waive any ability to maintain any Class Action in any forum raising a Claim covered by this Section",
+            "conf": 0.9999845623970032,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Notwithstanding any other provision of this Agreement to the contrary, any Claim, dispute, or controversy alleging that all or part of the Class Action waiver contained in this Section is invalid, illegal, unenforceable, void, or voidable may be determined only by a court of competent jurisdiction and not by an arbitrator",
+            "conf": 0.9999822974205017,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Termination We may terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately",
+            "conf": 0.9996160268783569,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to terminate your account (if you have one), please contact globalsupport@icann.org",
+            "conf": 0.9961077570915222,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "This Agreement may be modified by the posting by us of a revised version on the Website",
+            "conf": 0.9746726751327515,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to enforce, or delay in enforcing, any provision of these Terms of Service will not constitute a waiver of such right",
+            "conf": 0.9999940395355225,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date of Terms of Service These Terms of Service are effective and were last updated on 21 May 2018",
+            "conf": 0.9999977350234985,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: 21 May 2018",
+            "conf": 0.9999988079071045,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "3.2 Third-Party Cookies: We may use third-party service providers to assist us by providing certain statistical and analytics information",
+            "conf": 0.9659491777420044,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We primarily use Google Analytics for this",
+            "conf": 0.9994240999221802,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "4.1 We use Google Analytics, a web analytics service provided by Google, Inc.",
+            "conf": 0.9659477472305298,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google Analytics uses cookies, which are text files placed on your computer, to help the Website analyze how users use the Website.",
+            "conf": 0.9916577935218811,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "The information generated by the cookie about your use of the Website will be transmitted to and stored by Google on servers in the United States",
+            "conf": 0.9810168743133545,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "4.2 You also can opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser: (click here",
+            "conf": 0.9982302784919739,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "https://tools.google.com/dlpage/gaoptout?hl=en-GB)",
+            "conf": 0.9863489866256714,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "7.1 We may use web beacons (also called web bugs, pixel tags, or clear GIFs) primarily to collect and maintain aggregated data (such as the number of visitors) to help us see which areas are most popular with our users and improve and update the content on our Website",
+            "conf": 0.9999998807907104,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: 21 May 2018",
+            "conf": 0.9999988079071045,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Cookies and other user tracking technologies devices may be stored on the",
+            "conf": 0.971358597278595,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We will retain certain Personal Information stored on our servers in accordance with our general archival practices and as required or permitted by law",
+            "conf": 0.9851363301277161,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will store the User's Personal Information only for as long as is required to fulfill the purposes set out above",
+            "conf": 0.9997899532318115,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, where we are required by law to retain a User's Personal Information longer or where a User's Personal Information is required for us to assert or defend against legal claims, we will retain the User's Personal Information until the end of the relevant retention period or until the claims in question have been resolved",
+            "conf": 0.9996479153633118,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "effectuate a reorganization or organizational change resulting in the divestiture or transfer of any of our operation, unit, function, or asset to such third party;",
+            "conf": 0.9999984502792358,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We will not sell or otherwise share any Personal Information with third parties for marketing purposes",
+            "conf": 0.9999767541885376,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "The User's Personal Information also may be transferred and Processed in other countries where our staff or third-party service providers are located",
+            "conf": 0.9999911785125732,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices of such linked third-party sites, and their owners and operators.",
+            "conf": 0.9794838428497314,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "While we will take reasonable and appropriate security measures to protect against unauthorized access, disclosure, alteration or destruction of Personal Information received, WE DISCLAIM ANY AND ALL LIABILITY FOR UNAUTHORIZED ACCESS OR USE OR COMPROMISE OF YOUR PERSONAL INFORMATION TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.",
+            "conf": 0.9997801780700684,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "be entitled to obtain access to information on the Processing of Personal Information, to object to certain Processing, request information portability, and have their Personal Information rectified, deleted, or otherwise restricted in terms of Processing, in each case as permitted under applicable law",
+            "conf": 0.906156599521637,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If a User no longer wishes to receive certain electronic communications from us, the User may opt-out from such communication by following the unsubscribe instructions at the bottom of such communication or by accessing any available preference setting functionality in the Website",
+            "conf": 0.9999622106552124,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Minors We do not knowingly collect or require Personal Information from children under the age of 13",
+            "conf": 0.9999580383300781,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change this Privacy Policy at any time",
+            "conf": 0.9998512268066406,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The date this Privacy Policy was last revised is identified at the top of the page",
+            "conf": 0.9998074173927307,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.3
+}

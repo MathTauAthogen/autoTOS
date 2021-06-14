@@ -1,0 +1,20 @@
+{
+    "duckduckgo": [
+        "https://duckduckgo.com/privacy"
+    ],
+    "google": [
+        "https://policies.google.com/terms?hl=en",
+        "https://policies.google.com/privacy?hl=en"
+    ],
+    "spotify": [
+        "https://www.spotify.com/us/legal/privacy-policy/",
+        "https://www.spotify.com/us/legal/end-user-agreement/"
+    ],
+    "telegram": [
+        "https://telegram.org/privacy"
+    ],
+    "twitter": [
+        "https://twitter.com/en/tos",
+        "https://twitter.com/en/privacy"
+    ]
+}

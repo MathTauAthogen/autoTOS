@@ -1,0 +1,838 @@
+{
+    "predictions": [
+        {
+            "label": "3",
+            "text": "4.1 From time to time, Coinbase Pro or Prime may suspend trading temporarily for maintenance or upgrades",
+            "conf": 0.9428648948669434,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You represent and warrant that you are of legal age to enter into a binding agreement and are otherwise legally able and competent to enter into and carry out these Terms",
+            "conf": 0.9999879598617554,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Coinbase may modify these Terms from time to time in its discretion",
+            "conf": 0.9997347593307495,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "It is your responsibility to monitor updates to these Terms",
+            "conf": 0.9803823232650757,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Market Data is provided \"as is\" and \"as available\", and Coinbase hereby disclaims all warranties, express, statutory, or implied (including, without limitation, implied warranties of title, non-infringement, merchantability, fitness for a particular purpose, and all warranties arising from course of dealing, usage or trade practice).",
+            "conf": 0.9999996423721313,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "for clarity and without limiting the foregoing, Coinbase makes no guarantees regarding the accuracy, completeness, timeliness, security, availability, or integrity of the Market Data or that the Market Data will be uninterrupted or operate in combination with any software, service, system, or other data",
+            "conf": 0.9999966025352478,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You access and use the Market Data entirely at your sole risk, and Coinbase will not be responsible for any actions you take based on the Market Data",
+            "conf": 0.9984117150306702,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "To the maximum extent permitted by law, you must indemnify and hold harmless Coinbase, its affiliates, and its and their respective directors, officers, employees, and agents (\"Coinbase Protected Parties\") against all liabilities, costs, damages, and expenses arising out of or relating to your use of Market Data, including damages arising directly from your act or omission (including without limitation breach of these Terms) as well as judgments, settlements, and expenses (including reasonable attorneys' fees and legal costs) arising from a threatened or actual suit, investigation, proceeding, or other claim between you and a Coinbase Protected Party or between a third party and a Coinbase Protected Party arising out of or relating to your use of Market Data",
+            "conf": 0.9999972581863403,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the maximum extent permitted by applicable law, the Coinbase Protected Parties will not be liable for any direct, indirect, incidental, special, punitive, or consequential damages of any kind\u2014including lost profits or trading losses\u2014related to the market data or these Terms, irrespective of whether such damages arise from claims brought in contract, tort, negligence, warranty, strict liability, or any other theory at law or equity, and even if Coinbase has been advised of the possibility of such damages.",
+            "conf": 0.9968819618225098,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If we cannot resolve the dispute through our support team, you and Coinbase agree that any dispute arising under this Agreement shall be finally settled in binding arbitration, on an individual basis, in accordance with the American Arbitration Association's rules for arbitration of consumer-related disputes (accessible at",
+            "conf": 0.9735594391822815,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: March 13, 2018",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "In some cases, we may use cookies and similar technologies to collect",
+            "conf": 0.9999145865440369,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We treat information collected by cookies and other technologies as",
+            "conf": 0.952505886554718,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "information will be treated as personal information for as long as it",
+            "conf": 0.9990976452827454,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use first party and third party cookies to recognize you as a",
+            "conf": 0.9962612986564636,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may place cookies from third-party service providers who may use",
+            "conf": 0.9999841451644897,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "and no longer have any effect when you log out of your account or",
+            "conf": 0.9349218606948853,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "(",
+            "conf": 0.9197947382926941,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "In addition to cookies, we may use other similar technologies, like web",
+            "conf": 0.999986469745636,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "beacons to track users of our Services",
+            "conf": 0.9921684861183167,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons, or \"clear gifs,\"",
+            "conf": 0.9941660761833191,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Coinbase uses third party service providers to display advertising on",
+            "conf": 0.9999887347221375,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "our Services and serve advertising on other third party sites that are",
+            "conf": 0.971019983291626,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you opt-out, we will remove all data about you and",
+            "conf": 0.9992038607597351,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of third-party advertising",
+            "conf": 0.9692792892456055,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "networks and similar entities that use targeting/advertising cookies,",
+            "conf": 0.9995312094688416,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Once you click the link, you may choose to opt-out of such advertising",
+            "conf": 0.9999721646308899,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "third-party advertising networks and similar entities that use these",
+            "conf": 0.9999406933784485,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "been adopted, our Sites do not currently process or respond to \"DNT\"",
+            "conf": 0.9988667368888855,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may update this Cookie Notice from time to time to reflect, for",
+            "conf": 0.9999933242797852,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: May 16, 2018",
+            "conf": 0.9999980926513672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We reserve the right to modify this Privacy Policy at any time, and when required by law, we will notify you of changes to this Privacy Policy",
+            "conf": 0.9818087220191956,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Services prior to the change becoming effective",
+            "conf": 0.9989539384841919,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Except as described in this Privacy Policy, Coinbase will not give, sell, rent or loan any personal Information to any third party",
+            "conf": 0.999453604221344,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Coinbase will never sell or rent your personal information",
+            "conf": 0.9999763369560242,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may share your information with companies or other entities that we plan to merge with or be acquired by",
+            "conf": 0.9817490577697754,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "You will receive prior notice of any change in applicable policies",
+            "conf": 0.999737024307251,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Please note that merchants you interact with may have their own privacy policies, and Coinbase is not responsible for their operations, including, but not limited to, their information practices",
+            "conf": 0.9989647269248962,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "We may store and process all or part of your personal and transactional information, including certain payment information, such as your encrypted bank account and/or routing numbers, in the United States and elsewhere in the world where our facilities or our service providers are located",
+            "conf": 0.999983012676239,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "When registering with our Services, it is important to choose a password of sufficient length and complexity, to not reveal this password to any third-parties, and to immediately notify us if you become aware of any unauthorized access to or use of your account.",
+            "conf": 0.9849107265472412,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "As a global entity, Coinbase may store, transfer, and otherwise process your personal information in countries outside of the country of your residence, including the United States and possibly other countries",
+            "conf": 0.9999710321426392,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "However, if you close your account, your personal information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, as required by law, or in accordance with this Privacy Policy",
+            "conf": 0.9544966220855713,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Coinbase will retain your personal information for a minimum of five years or as necessary to comply with our legal obligations or to resolve disputes",
+            "conf": 0.9995434880256653,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "other technical data collected through cookies, pixel tags and other similar technologies that uniquely identify your browser",
+            "conf": 0.9687155485153198,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly request of collect personal information from any person under the age of 18",
+            "conf": 0.9997706413269043,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If a user submitting personal information is suspected of being younger than 18 years of age, Coinbase will require the user to close his or her account and will not allow buying or selling digital currencies",
+            "conf": 0.9986588954925537,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We will also take steps to delete the information as soon as possible",
+            "conf": 0.9992045164108276,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: January 31, 2019",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "least 18 years old, and reside in the United States",
+            "conf": 0.9999000430107117,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or modify this Agreement at any time by posting the",
+            "conf": 0.9997147917747498,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "terminate your use of the Services and close your account",
+            "conf": 0.9981316924095154,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "You agree to keep us updated if any of the information you provide changes",
+            "conf": 0.9672945737838745,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Access to Coinbase Services may become degraded or unavailable during",
+            "conf": 0.9982256889343262,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Although we strive to provide you with excellent service, we do not represent that",
+            "conf": 0.9998958706855774,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "the Coinbase Site or other Coinbase Services will be available without interruption",
+            "conf": 0.999999463558197,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "and we do not guarantee that any order will be executed, accepted, recorded, or remain",
+            "conf": 0.9999784827232361,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Coinbase shall not be liable for any losses resulting from or arising out of",
+            "conf": 0.9999908208847046,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We assume no responsibility for the operation of",
+            "conf": 0.9998229742050171,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "responsible for such operating changes and not liable for any loss of value you",
+            "conf": 0.9986506104469299,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "valid court order, or except as provided herein, Coinbase will not sell, transfer,",
+            "conf": 0.931592583656311,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Coinbase may, at any time, terminate recurring",
+            "conf": 0.9895995855331421,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any claim for unauthorized or",
+            "conf": 0.9620116353034973,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can withdraw your consent at any time by closing your account with us",
+            "conf": 0.9999809861183167,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, we may retain and continue to process your personal information for",
+            "conf": 0.9995349645614624,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to refuse to process, or to",
+            "conf": 0.9996653199195862,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "bear no liability or responsibility in the event you enter an incorrect",
+            "conf": 0.9806281924247742,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We have no control over, or liability for, the",
+            "conf": 0.9698173403739929,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for ensuring that a third",
+            "conf": 0.9997215270996094,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "and agree that you are responsible for any and all orders, trades, and other",
+            "conf": 0.982501208782196,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Although we intend to provide accurate and timely",
+            "conf": 0.9999984502792358,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "limitation, the Content) may not always be entirely accurate, complete or",
+            "conf": 0.999994695186615,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "an effort to continue to provide you with as complete and accurate information",
+            "conf": 0.9985827207565308,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "as possible, information may be changed or updated from time to time without",
+            "conf": 0.9112265706062317,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Site are your sole responsibility and we shall have no liability for such",
+            "conf": 0.9998959302902222,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Coinbase makes no representations or warranties to its accuracy",
+            "conf": 0.9999726414680481,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "are not responsible for any aspect of the information, content, or services",
+            "conf": 0.9999857544898987,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "From time to time, Coinbase may make available special offers",
+            "conf": 0.9397323131561279,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Coinbase may revoke any special offer at any time without",
+            "conf": 0.9592403173446655,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Coinbase shall have no obligation to make special offers available to",
+            "conf": 0.9919533133506775,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Coinbase makes no recommendation and does not provide any advice",
+            "conf": 0.999580442905426,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are fully responsible for all",
+            "conf": 0.9998754858970642,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Further, you acknowledge and agree that you will not hold Coinbase responsible",
+            "conf": 0.9883895516395569,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "for, and will indemnify Coinbase from, any liability arising out of or related",
+            "conf": 0.9999122619628906,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right at all times to monitor, review, retain",
+            "conf": 0.9937068223953247,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "reserve the right to cancel and/or suspend your Coinbase Account(s) and/or block",
+            "conf": 0.9872456789016724,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Coinbase reserves the right to change",
+            "conf": 0.9861135482788086,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "and/or (b) deactivate or cancel your Coinbase Account(s) if: (i) We are so",
+            "conf": 0.9677355289459229,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Services for any reason, we will provide you with notice of our actions unless a",
+            "conf": 0.9978447556495667,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "you have died, we will freeze your Coinbase Account and during this time, no",
+            "conf": 0.9987015128135681,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Nothing in this Agreement shall be deemed or is intended to be",
+            "conf": 0.9969089031219482,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We assume no responsibility for",
+            "conf": 0.9998366236686707,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "All Coinbase trades are executed automatically, based on",
+            "conf": 0.9563597440719604,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Coinbase will not be held responsible for the decisions",
+            "conf": 0.9999914169311523,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "we shall have the right to ask the arbitrator or small claims court to dismiss",
+            "conf": 0.9792970418930054,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "BROUGHT IN A PARTY\u2019S INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER",
+            "conf": 0.9999876618385315,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "IN ANY PURPORTED CLASS, COLLECTIVE ACTION, OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999983906745911,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "A TRIAL BY JURY AND THE RIGHT TO PARTICIPATE IN A CLASS ACTION",
+            "conf": 0.9973099231719971,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We shall not bear any liability, whatsoever, for any",
+            "conf": 0.9630053043365479,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold",
+            "conf": 0.9759950637817383,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "representatives, harmless from any claim or demand (including attorneys' fees",
+            "conf": 0.9957596063613892,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE COINBASE SERVICES ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9999985098838806,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS, IMPLIED OR STATUTORY",
+            "conf": 0.9392755627632141,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SERVICES, OR ANY OF THE MATERIALS CONTAINED THEREIN, WILL BE CONTINUOUS,",
+            "conf": 0.9987674355506897,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "AGREE THAT COINBASE WILL NOT BE LIABLE FOR ANY LOSSES OR DAMAGES ARISING OUT OF",
+            "conf": 0.9975544214248657,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Coinbase makes no representations about the accuracy, order, timeliness or",
+            "conf": 0.9999990463256836,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree that we shall not be liable to you or",
+            "conf": 0.9625111222267151,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "material change, we will endeavor to provide you advanced notice via our website",
+            "conf": 0.9998974204063416,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "merger, acquisition, sale, or other change of control",
+            "conf": 0.9905035495758057,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We shall not be liable for delays, failure in performance",
+            "conf": 0.9717720150947571,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Certifying that you are 18 years or older,",
+            "conf": 0.9970757365226746,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "and costs may apply, and Coinbase does not guarantee that we will raise your",
+            "conf": 0.9984888434410095,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may amend this policy at any time by providing a revised",
+            "conf": 0.9986088871955872,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will provide you with prior notice of any material changes via our",
+            "conf": 0.9999042749404907,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "It is your responsibility to provide us with a true, accurate and complete",
+            "conf": 0.9999827742576599,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "It is your responsibility to use a strong password and maintain control of all",
+            "conf": 0.9995293021202087,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Coinbase is not liable for unauthorized, mistaken, or accidental transfers",
+            "conf": 0.9160231947898865,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not represent that Coinbase Pro and/or its constituent Coinbase Pro Accounts, APIs, and related services, will be available without interruption",
+            "conf": 0.9999942183494568,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Although we will strive to provide you with continuous operations, we do not guarantee continuous access or that there will be no delays, failures, errors, omissions or loss of transmitted information, nor do we guarantee that any order will be executed, accepted, recorded, or remain open",
+            "conf": 0.9999951720237732,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Coinbase reserves the right to cancel any open trades and/or suspend Coinbase Pro activity in accordance with the Trading Rules",
+            "conf": 0.9853320121765137,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.1
+}

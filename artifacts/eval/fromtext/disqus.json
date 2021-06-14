@@ -1,0 +1,579 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Updated over a week ago",
+            "conf": 0.9756698608398438,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated over a week ago",
+            "conf": 0.9779893755912781,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Because of these principles, we do not actively monitor users' content and will not edit or remove user content, except in cases of violations of our Terms of Service",
+            "conf": 0.9998276233673096,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated over a week ago",
+            "conf": 0.9248664379119873,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated over a week ago",
+            "conf": 0.9991766214370728,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated over a week ago",
+            "conf": 0.9965219497680664,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "9.1Deletion or return of data:Upon termination or expiry of the Agreement, Publisher shall delete the Personal Data (including copies) then in Publisher's possession, except to the extent that Publisher is required by an applicable law to retain some or all of the Personal Data.",
+            "conf": 0.9896376132965088,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Disqus does not intentionally collect, and Publisher does intentionally process or transfer any sensitive personal data in relation to these data subjects",
+            "conf": 0.9720138907432556,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "&nbsp;We do not share your information with these partners, however, in the course of serving or displaying ads through Disqus, these partners may place a cookie on your browser",
+            "conf": 0.9669617414474487,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated May 24, 2018",
+            "conf": 0.9999982714653015,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the practices employed by websites linked to or from the Service, including Partner Sites, or the information or content contained thereon",
+            "conf": 0.9991612434387207,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Service is not intended for use by children under the age of 13",
+            "conf": 0.9999580383300781,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal information from children under 13 or knowingly allow such persons to register for an account",
+            "conf": 0.9999924898147583,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We collect this personal data by using cookies, server logs and other similar technologies as described below",
+            "conf": 0.9998691082000732,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use cookies to collect Technical Data and information about how you use the Service and Partner Sites (e.g., the pages you view, the links you click and other actions you take), to track your usage of the Service on Partner Sites over time, and to personalize the content we show you, including ads.",
+            "conf": 0.9714033007621765,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Clear Gifs (Web Beacons) Information: When you use the Service, we may employ clear gifs (also known as web beacons) which are used to collect Technical Data and information such as online usage patterns.",
+            "conf": 0.9897463321685791,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links or advertisements are clicked by recipients",
+            "conf": 0.9903740882873535,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Disqus uses, and also engages third party ad partners and affiliates who use, [cookie IDs, device IDs (including mobile), hashed email addresses, IP address, ISP and browser information, demographic or interest data, content viewed and actions taken on the Service or Partner Sites, \u00a0including information about the websites you\u2019ve viewed and advertisements you\u2019ve interacted within order to provide you with more relevant advertising targeted to your preferences and interests derived from your interaction with the Service, Partner Sites or other third party websites",
+            "conf": 0.9725453853607178,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Email marketing messages may be tailored to your interests based on the information described above in this section, for information about how to opt-out from such messages please click here",
+            "conf": 0.9998961687088013,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets",
+            "conf": 0.9948585033416748,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Alternatively, we may seek to acquire other businesses or merge with them",
+            "conf": 0.9626356959342957,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "To delete your account entirely, please follow these steps",
+            "conf": 0.9999675750732422,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you prefer to opt out of targeted advertising (also called interest based advertising) by Disqus, you may do so by clicking on the \u201copt-out page\u201d link here: \u00a0opt out page",
+            "conf": 0.9803930521011353,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Our opt-out mechanism is managed through cookies, if you delete cookies from your browser or use a different browser, you may need to opt-out again, depending on the jurisdiction",
+            "conf": 0.9417600631713867,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Also note, you will still see targeted ads (interest based ads) from third parties",
+            "conf": 0.9872636198997498,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out from targeted advertising from third parties in general if they are members of the Network Advertising Initiative (NAI), or Participate in the Digital Advertising Alliance\u2019s Ad Choices Tool (DAA) by visiting the respective opt-out pages on the NAI or DAA websites .",
+            "conf": 0.9998307824134827,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of Newsletters and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as \"unsubscribe\").",
+            "conf": 0.9999987483024597,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may also unsubscribe or manage your email subscription by clicking this link: Manage My Disqus Email Settings",
+            "conf": 0.99957674741745,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note, unsubscribing from Disqus emails will unsubscribe you from Disqus notification emails and Disqus digest emails",
+            "conf": 0.9999880194664001,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "a.We will only retain your Personal Data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements",
+            "conf": 0.9998090863227844,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Disqus",
+            "conf": 0.9942421317100525,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Request erasure of your personal data",
+            "conf": 0.9687709808349609,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it",
+            "conf": 0.9999663233757019,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law.",
+            "conf": 0.989433765411377,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "is unlawful but",
+            "conf": 0.9057309627532959,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "do not want us to erase it",
+            "conf": 0.9188725352287292,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Under certain circumstances, participants may be liable for transfer of personal data from the EU to third parties outside the EU",
+            "conf": 0.9999527335166931,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Disqus may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically",
+            "conf": 0.9999905824661255,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This Privacy Policy was last modified on May 24, 2018",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "THESE TERMS CONTAIN A MANDATORY ARBITRATION OF DISPUTES PROVISION THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS, AND ALSO LIMITS THE REMEDIES AVAILABLE TO YOU IN THE EVENT OF A DISPUTE",
+            "conf": 0.9973440766334534,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You may only access and use the Service if you agree to be bound by these Terms, are over the age of 13, and are not a person barred from receiving or using the Services under the laws of the applicable jurisdiction",
+            "conf": 0.9999999403953552,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Disqus reserves the right to revoke your license to use the Service at any time and for any reason",
+            "conf": 0.999707818031311,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may, without prior notice to you, add or remove functionalities or features, and we may suspend or stop the Service altogether",
+            "conf": 0.9871178865432739,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for the activity that occurs on your account, and you must keep your account password secure.",
+            "conf": 0.9909712076187134,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Disqus will not be liable for any losses caused by any unauthorized use of your account",
+            "conf": 0.9999576807022095,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Disqus takes no responsibility and assumes no liability for any User Content that you or any other User or third-party posts or sends over the Service",
+            "conf": 0.9994289875030518,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You shall be solely responsible for your User Content and the consequences of posting or publishing it, and you agree that we are only acting as a passive conduit for your online distribution and publication of your User Content",
+            "conf": 0.9820305109024048,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any User Content or communications posted via the Services or endorse any opinions expressed via the Services",
+            "conf": 0.9999926686286926,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We may not monitor or control the User Content posted via the Services and, we cannot take responsibility for such User Content",
+            "conf": 0.998878538608551,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Disqus shall not be liable for any damages you incur as a result of User Content",
+            "conf": 0.9997472763061523,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to remove User Content alleged to be infringing without prior notice, at our sole discretion and without liability to you",
+            "conf": 0.9687925577163696,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Disqus reserves the right to change these features at any time and to disable access to the feeds and the API at any time for any reason or no reason",
+            "conf": 0.9946892857551575,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Disqus may update and revise these rules at any time, please review Disqus Basic Rules for more information",
+            "conf": 0.9998502135276794,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE IS PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9998480677604675,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE DISQUS ENTITIES DO NOT WARRANT OR REPRESENT AND DISCLAIM, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL LIABILITY FOR: (I) THE COMPLETENESS",
+            "conf": 0.9769802689552307,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ACCURACY, RELIABILITY OR CORRECTNESS OF THE SERVICES OR ANY CONTENT",
+            "conf": 0.9894648194313049,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") THAT THE SERVICE WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION, UNINTERRUPTED, SECURE, OR ERROR FREE",
+            "conf": 0.9991438388824463,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ANY CONTENT DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DOWNLOADED AT YOUR OWN RISK AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM SUCH DOWNLOAD OR YOUR USE OF THE SERVICE",
+            "conf": 0.9880375862121582,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE DISQUS ENTITIES, BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES, THAT RESULT FROM THE USE OF, OR INABILITY TO USE, THIS SERVICE.",
+            "conf": 0.999304473400116,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES WILL THE DISQUS ENTITIES BE RESPONSIBLE FOR ANY DAMAGE, LOSS OR INJURY RESULTING FROM HACKING, TAMPERING OR OTHER UNAUTHORIZED ACCESS OR USE OF THE SERVICE OR YOUR ACCOUNT OR THE INFORMATION CONTAINED THEREIN",
+            "conf": 0.992828905582428,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "ALL CLAIMS MUST BE BROUGHT IN THE PARTIES\u2019 INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999791979789734,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE THAT, BY ENTERING INTO THESE TERMS, YOU ARE WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION",
+            "conf": 0.9999955892562866,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any dispute resolution proceedings relating to these Terms or the Site will be conducted only on an individual basis and not as a class, consolidated, joined or representative action and the parties expressly waive all rights to commence or participate in any class, consolidated or representative action/proceeding",
+            "conf": 0.9999924302101135,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In the event, for any reason, arbitration is not permitted by applicable law, the parties waive all rights to trial by jury and waive all right to commence or participate in any class action, consolidated, representative or class proceedings",
+            "conf": 0.9999967813491821,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless Disqus and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney\u2019s fees) relating to your use of Service or actions taken through the Service, your User Content or any other data or content transmitted or received by you",
+            "conf": 0.9998548626899719,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Disqus\u2019 failure to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision",
+            "conf": 0.9999971985816956,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "These Terms were first published and made effective on February 14th, 2017",
+            "conf": 0.9999975562095642,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Publisher is solely responsible for the activity that occurs on Publisher\u2019s account, and is required to keep its account password secure.",
+            "conf": 0.999226987361908,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Licensor will not be liable for any losses caused by any unauthorized use Publisher",
+            "conf": 0.9346902370452881,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Licensor reserves the right, in its sole discretion, not to run Ads on the Applicable Site(s) for any reason, or no reason, including, but not limited to, quality of the content or content requirements from Licensor",
+            "conf": 0.9710939526557922,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "\u2019s advertisers",
+            "conf": 0.9481161832809448,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "(vi) upon termination of this Agreement or upon Licensor's request, destroy or return all Disqus Personal Data to Licensor (unless a law requires storage of the Disqus Personal Data), and (vii) make available to Licensor all information reasonably necessary to demonstrate compliance with the obligations laid down in this",
+            "conf": 0.9394861459732056,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "except for the express warranties provided for herein, the service, and any support services are provided to Publisher \u201cas is\u201d and Licensor expressly disclaims all warranties, express, implied or statutory, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and noninfringement, and any warranties arising out of course of dealing, usage, or trade",
+            "conf": 0.9999741911888123,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Licensor does not warrant that the service or any updates will meet Publisher's specific requirements or that the operation of the service or updates will be completely error-free or uninterrupted",
+            "conf": 0.9999977350234985,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Licensor shall not be liable to Publisher for any inoperability of the service or for any loss of information or other injury, damage or disruption of any kind",
+            "conf": 0.9252867698669434,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "in no event will either party be liable to the other for any special, indirect, incidental or consequential damages (including without limitation loss of use, data, business or profits or costs of cover) arising out of or in connection with this agreement or the use or performance of the service and/or update(s), whether such liability arises from any claim based upon contract, warranty, tort (including negligence), product liability or otherwise, and whether or not Licensor has been advised of the possibility of such loss or damage.",
+            "conf": 0.9979270100593567,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Licensor shall indemnify, defend and hold harmless Client and its affiliates, and their respective shareholders, officers, directors, employees, agents, successors and assigns from and against any and all third party claims for losses, liabilities, costs, expenses (including amounts paid in settlement and reasonable attorneys\u2019 fees and expenses), penalties, judgments and damages resulting from any claim by a third party that the Services or infringe or violate the intellectual property rights of any third party, provided, in each case, that Licensee is promptly notified in writing of the claim",
+            "conf": 0.9999989867210388,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Publisher agrees to indemnify, defend and hold harmless Licensor, its affiliates and their respective officers, directors, and employees from and against any and all Losses to the extent that such is based upon any third party claim in connection with (i) Publisher",
+            "conf": 0.999992311000824,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s breach of any of its representations or warranties made hereunder",
+            "conf": 0.9999955296516418,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "This Agreement shall terminate: (i) by a party thirty (30) business days after the other party\u2019s receipt of written notice that such party is in material breach of any of the terms or conditions set forth in this Agreement, unless such party cures such breach within said thirty (30) business days period or (ii) upon written notice if the other party becomes insolvent, makes a general assignment for the benefit of creditors, files a voluntary petition of bankruptcy, suffers or permits the appointment of a receiver for its business or assets, becomes subject to any proceedings under any bankruptcy or insolvency law, whether domestic or foreign, or has wound up or liquidated its business voluntarily or otherwise, and same has not been discharged or terminated within ninety (90) days",
+            "conf": 0.9176453351974487,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of this Agreement is held to be void, invalid or inoperative, the remaining provisions of this Agreement shall continue in effect and the invalid portion of any provision shall be deemed modified to the least degree necessary to remedy such invalidity while retaining the original intent of the parties.The failure of either party to partially or fully exercise any rights or the waiver of either party of any breach shall not prevent a subsequent exercise of such right or be deemed a waiver of any subsequent breach of the same or any other term of this Agreement",
+            "conf": 0.969295859336853,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "provided, however, that either party may assign its rights and obligations under this Agreement without the approval of the other party to any subsidiary or Affiliate or successor in connection with a merger, consolidation, sale of all of the equity interests of the party, or a sale of all or substantially all of the assets of the party to which this Agreement relates",
+            "conf": 0.9963499307632446,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.7
+}

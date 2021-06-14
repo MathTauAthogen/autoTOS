@@ -1,0 +1,593 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "July 24, 2019By",
+            "conf": 0.999987006187439,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change this Policy at any time by posting the revised Policy to our website",
+            "conf": 0.974807620048523,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "1.5 Epic, in its sole discretion, can revoke your permission to create Fan Content at any time and for any reason",
+            "conf": 0.986409068107605,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "IF YOU ACCEPT THESE TERMS, YOU AND EPIC AGREE TO RESOLVE DISPUTES IN BINDING, INDIVIDUAL ARBITRATION AND GIVE UP THE RIGHT TO GO TO COURT INDIVIDUALLY OR AS PART OF A CLASS ACTION, AND EPIC AGREES TO PAY YOUR ARBITRATION COSTS FOR ALL DISPUTES OF UP TO $10,000 THAT ARE MADE IN GOOD FAITH (SEE",
+            "conf": 0.9999967813491821,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are legally and financially responsible for all actions USING OR ACCESSING OUR SOFTWARE, including the actions of anyone YOU ALLOW TO access to your account.",
+            "conf": 0.997502863407135,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the legal age of majority, your parent or legal guardian must consent to these terms",
+            "conf": 0.9999903440475464,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update these Terms from time to time",
+            "conf": 0.9997797012329102,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may withdraw or amend the Services, and any related service or content, or restrict access (including by means of cancellation, termination, or modification, or suspension of a user account) to all or certain users (including you) without notice and without liability to you in our reasonable discretion",
+            "conf": 0.999920129776001,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If you choose, or are provided with, a user name, password, or any other piece of information as part of our security procedures, you must treat such information as confidential (other than user name), and you must not disclose it to others",
+            "conf": 0.9830281138420105,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Epic takes no responsibility and assumes no liability for any content Posted by you or any third party",
+            "conf": 0.9969527721405029,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Epic has the right but not the obligation to monitor and edit or remove any User Contributions",
+            "conf": 0.9997889399528503,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Epic also has the right to terminate your access to all or part of the Services for any or no reason, including without limitation, any violation of these Terms",
+            "conf": 0.9998746514320374,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to withdraw linking permission without notice",
+            "conf": 0.9863829612731934,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no control over the contents of those sites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them.",
+            "conf": 0.9934144616127014,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Services and all information, content, materials, products (including software), and other services included on or otherwise made available to you through the Services are provided by Epic on an \u201cas is\u201d and \u201cas available\u201d basis",
+            "conf": 0.9999915957450867,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Epic makes no representations or warranties of any kind, express or implied, as to the operation of the Services, or the information, content, materials, products (including software), or other services included on or otherwise made available to you through the Services",
+            "conf": 0.9999010562896729,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the full extent permissible by law, Epic will not be liable for any loss of profits or any indirect, incidental, punitive, special or consequential damages arising out of or in connection with this these Terms",
+            "conf": 0.9964655637741089,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify, and hold harmless Epic, its affiliates, and licensors, and their respective officers, directors, employees, contractors, agents, licensors, and suppliers from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys\u2019 fees) resulting from your User Contributions or violation of these Terms",
+            "conf": 0.999998152256012,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "seek to bring, join, or participate in any class or representative action, collective or class-wide arbitration, or any other action where another individual or entity acts in a representative capacity (e.g., private attorney general actions).",
+            "conf": 0.9999996423721313,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "consolidate or combine individual proceedings or permit an arbitrator to do so without the express consent of all parties to these Terms and all other actions or arbitrations",
+            "conf": 0.9891641139984131,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The sole exception is that if the Class Action Waiver is found invalid, unenforceable, or illegal, You and Epic agree that it will not be severable",
+            "conf": 0.9995064735412598,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of these Terms by Epic shall be deemed a further or continuing waiver of such term or condition or any other term or condition, and any failure of Epic to assert a right or provision under these Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.999988853931427,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on September 10, 2019",
+            "conf": 0.9999980926513672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We generally collect information in three ways: (1) you voluntarily provide information to us, such as by creating an account, making purchases, or signing up for email alerts, (2) we collect information automatically, such as through cookies or our games and other software, and (3) other parties, such as social networks, may provide information to us",
+            "conf": 0.9755625128746033,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We collect information automatically through technologies such as web browsers, cookies, log files, web beacons, and our back-end servers collect usage data transmitted from our games and other software.",
+            "conf": 0.9962255358695984,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We store personal information for as long as we reasonably need it to fulfill the purposes for which it was collected",
+            "conf": 0.9964951872825623,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, if you register for our services and create an account, we will store your information for as long as needed to maintain your account, provide the services you requested, enforce any applicable terms that govern your use of the services, and maintain appropriate records to reflect our delivery of services to you",
+            "conf": 0.9983152151107788,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We also may share certain limited information, such as device identifiers, with advertisers and other marketing partners for purposes of gauging the effectiveness of advertising and other marketing strategies",
+            "conf": 0.9620488882064819,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We reserve the right to transfer information about our users in the event we sell or transfer all or substantially all our business or assets",
+            "conf": 0.998070240020752,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of receiving our messages at any time by using the opt-out mechanism provided in the message",
+            "conf": 0.9999112486839294,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Not all of our websites and online services currently respond to browser \u201cdo not track\u201d signals, so you will need to use your browser settings to effectively manage cookies",
+            "conf": 0.9998778104782104,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "In some cases, blocking or disabling cookies may cause our websites, games, and applications not to work as intended and some features may not be available",
+            "conf": 0.9197574257850647,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "You can limit interest-based advertising by opting out at www.aboutads.info/choices/ or www.networkadvertising.org/choices/.",
+            "conf": 0.9982730150222778,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 18 and have an account for our websites, mobile apps, game engines, games, or other online services, you may request that we remove certain content that you provided, such as deleting or editing comments you have posted",
+            "conf": 0.9998314380645752,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can update your account information any time through our website",
+            "conf": 0.9915651082992554,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "In some cases, your information is accessible when you log into a feature we offer, and in those cases you need to keep your user credentials and password confidential and secure so that your information is protected",
+            "conf": 0.9878993630409241,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Epic services are intended to be appropriate for general audiences and are not directed to children (usually considered to be under 13, depending on where you reside).",
+            "conf": 0.998026967048645,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "By using the Epic services, you acknowledge and agree that your information may be processed outside your country of residence, including in other jurisdictions (like the United States) that may have different data protection frameworks than your region",
+            "conf": 0.9999303221702576,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Epic entities located in the EU process your personal information, then we will provide you with the ability to request access to and correction or deletion of your personal information",
+            "conf": 0.9301013946533203,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You also may request that we provide you with a copy of your personal information, or update it or delete it on your behalf",
+            "conf": 0.9998594522476196,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, we will not provide you with access to information that includes personal information about another person, and we will keep limited personal information notwithstanding a request to delete if necessary for us to establish, exercise, or defend against a legal claim",
+            "conf": 0.9980478286743164,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To request access to, or correction or deletion of your personal information, please submit your request by sending an email to the address specified in the \u201cHow to Contact Us\u201d section below.",
+            "conf": 0.9816527962684631,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To the extent French data protection law is applicable to you, you have the right to establish instructions in respect of the preservation, the deletion and the transmission of your personal data after your death",
+            "conf": 0.978553056716919,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "This policy may be updated periodically to reflect changes in our personal information practices or relevant laws",
+            "conf": 0.9141444563865662,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "We will indicate at the top of this policy when this policy was last updated",
+            "conf": 0.9995148181915283,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on May 24, 2018",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We generally collect or receive information in three ways: (1) you voluntarily provide information to us, such as by creating an account, making purchases, or signing up for email alerts, (2) we collect information automatically, such as through cookies or our games and other software, and (3) other parties, such as social networks, may provide information to us",
+            "conf": 0.971132755279541,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We collect information automatically through technologies such as web browsers, cookies, log files, web beacons, and our back-end servers collect usage data transmitted from our games and other software.",
+            "conf": 0.9962255358695984,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Please note that if certain features on our website are provided by third parties, those third parties may also use automated means of data collection and may record information about your use of our website or others\u2019 websites over time",
+            "conf": 0.961601972579956,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We store personal information for as long as we reasonably need it to fulfill the purposes for which it was collected",
+            "conf": 0.9964951872825623,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, if you register for our services and create an account, we will store your information for as long as needed to maintain your account, provide the services you requested, enforce any applicable terms that govern your use of the services, and maintain appropriate records to reflect our delivery of services to you",
+            "conf": 0.9983152151107788,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We also may share certain limited information, such as device identifiers, with advertisers and other marketing partners for purposes of gauging the effectiveness of advertising and other marketing strategies",
+            "conf": 0.9620488882064819,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We reserve the right to transfer information about our users in the event we sell or transfer all or substantially all our business or assets",
+            "conf": 0.9999789595603943,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of receiving our messages at any time by using the opt-out mechanism provided in the message",
+            "conf": 0.9999112486839294,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Not all of our websites and online services currently respond to browser \u201cdo not track\u201d signals, so you will need to use your browser settings to effectively manage cookies",
+            "conf": 0.9998778104782104,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "In some cases, blocking or disabling cookies may cause our websites, games, and applications not to work as intended and some features may not be available",
+            "conf": 0.9197574257850647,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "You can limit interest-based advertising by opting out at www.aboutads.info/choices/ or www.networkadvertising.org/choices/.",
+            "conf": 0.9982730150222778,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 18 and have an account for our websites, mobile apps, game engines, games, or other online services, you may request that we remove certain content that you provided, such as deleting or editing comments you have posted",
+            "conf": 0.9998314380645752,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can update your account information any time through our website",
+            "conf": 0.9915651082992554,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "In some cases, your information is accessible when you log into a feature we offer, and in those cases you need to keep your user credentials and password confidential and secure so that your information is protected",
+            "conf": 0.9975395202636719,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children",
+            "conf": 0.9290482401847839,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "\u2019s Privacy Epic does not direct its websites, games, game engines, or applications to children (usually considered to be under the age of 13, depending on the country where you reside).",
+            "conf": 0.9948081970214844,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "As part of our international operations, we may transfer information about you to any jurisdiction where we do business",
+            "conf": 0.9999504089355469,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We will transfer your personal information for any of the purposes identified in this policy to our subsidiaries, affiliates, service providers, and business partners that may be located outside of the jurisdiction where you are located",
+            "conf": 0.9977075457572937,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "When we transfer personal information from the EU to entities within our organization located outside of the EU, we rely on standard contractual clauses adopted by the European Commission to help establish adequate safeguards",
+            "conf": 0.9484889507293701,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Epic entities located in the EU process your personal information, then we will provide you with the ability to request access to and correction or deletion of your personal information",
+            "conf": 0.9301013946533203,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You also may request that we provide you with a copy of your personal information, or update it or delete it on your behalf",
+            "conf": 0.9998594522476196,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, we will not provide you with access to information that includes personal information about another person, and we will keep limited personal information notwithstanding a request to delete if necessary for us to establish, exercise, or defend against a legal claim",
+            "conf": 0.9980478286743164,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To request access to, or correction or deletion of your personal information, please submit your request by sending an email to the address specified in the \u201cHow to Contact Us\u201d section below",
+            "conf": 0.9812146425247192,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "This policy may be updated periodically to reflect changes in our personal information practices or relevant laws",
+            "conf": 0.9135915040969849,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "We will indicate at the top of this policy when this policy was last updated",
+            "conf": 0.9995148181915283,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update these Terms from time to time",
+            "conf": 0.9997797012329102,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may withdraw or amend the Services, and any related service or content, or restrict access (including by means of cancellation, termination, or modification, or suspension of a user account) to all or certain users (including you) without notice and without liability to you",
+            "conf": 0.9999729990959167,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If you choose, or are provided with, a user name, password, or any other piece of information as part of our security procedures, you must treat such information as confidential (other than user name), and you must not disclose it to others",
+            "conf": 0.9830281138420105,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Epic takes no responsibility and assumes no liability for any content Posted by you or any third party",
+            "conf": 0.9969527721405029,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Epic has the right but not the obligation to monitor and edit or remove any User Contributions",
+            "conf": 0.9997889399528503,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Epic also has the right to terminate your access to all or part of the Services for any or no reason, including without limitation, any violation of these Terms",
+            "conf": 0.9998746514320374,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to withdraw linking permission without notice",
+            "conf": 0.9863829612731934,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no control over the contents of those sites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them.",
+            "conf": 0.9934144616127014,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Services and all information, content, materials, products (including software), and other services included on or otherwise made available to you through the Services are provided by Epic on an \u201cas is\u201d and \u201cas available\u201d basis",
+            "conf": 0.9999915957450867,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Epic makes no representations or warranties of any kind, express or implied, as to the operation of the Services, or the information, content, materials, products (including software), or other services included on or otherwise made available to you through the Services",
+            "conf": 0.9999010562896729,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the full extent permissible by law, Epic will not be liable for any loss of profits or any indirect, incidental, punitive, special or consequential damages arising out of or in connection with this Agreement",
+            "conf": 0.9977526664733887,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify, and hold harmless Epic, its affiliates, and licensors, and their respective officers, directors, employees, contractors, agents, licensors, and suppliers from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys\u2019 fees) resulting from your User Contributions or violation of these Terms",
+            "conf": 0.999998152256012,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of these Terms by Epic shall be deemed a further or continuing waiver of such term or condition or any other term or condition, and any failure of Epic to assert a right or provision under these Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.999988853931427,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.3
+}

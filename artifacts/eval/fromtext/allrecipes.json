@@ -1,0 +1,467 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Terms of Service AgreementEffective Date: March 16,",
+            "conf": 0.999997615814209,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Subject to Section 15.9 of this Agreement, Meredith reserves the right to modify this Agreement or its policies relating to the Services at any time, effective upon posting of an updated version of this Agreement or any applicable Supplemental Terms on the applicable Services",
+            "conf": 0.9773874878883362,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree to monitor your Account to restrict its use by minors and other unauthorized users and agree not to share your Account or password with anyone",
+            "conf": 0.9988292455673218,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Meredith reserves the right to remove or reclaim any usernames at any time and for any reason",
+            "conf": 0.9999351501464844,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Without limiting the foregoing, Meredith reserves the right in its sole discretion to pre-screen, refuse, or remove any content",
+            "conf": 0.9153010845184326,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Meredith does not control and is not responsible for Third-Party Links",
+            "conf": 0.9997380971908569,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold Meredith, its corporate parents, subsidiaries, and affiliates, and the officers, directors, employees, agents, representatives, partners and licensors of each (collectively, the \"Meredith Parties\") harmless from any damages, losses, costs, liabilities and expenses (including reasonable attorneys' fees) relating to or arising out of any claims concerning: (a) Your Content",
+            "conf": 0.9998000860214233,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "This provision does not require you to indemnify any of the Meredith Parties for any unconscionable commercial practice by such party or for such party's negligence, fraud, deception, false promise, misrepresentation or concealment, suppression or omission of any material fact",
+            "conf": 0.99913489818573,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF THE SERVICES AND ANY PRODUCTS OFFERED THROUGH THE SERVICES IS AT YOUR SOLE RISK, AND THE SERVICES AND ANY PRODUCTS ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS, WITH ALL FAULTS.",
+            "conf": 0.9949102997779846,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE MEREDITH PARTIES EXPRESSLY DISCLAIM ALL WARRANTIES, REPRESENTATIONS, AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OR CONDITIONS OF",
+            "conf": 0.9833206534385681,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "MEREDITH PARTIES MAKE NO WARRANTY, REPRESENTATION OR CONDITION THAT: (1) THE SERVICES OR ANY PRODUCTS WILL MEET YOUR REQUIREMENTS OR (2) YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE",
+            "conf": 0.9999859929084778,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE OR LOSS THAT RESULTS FROM YOUR USE OF SUCH DATA OR INFORMATION.",
+            "conf": 0.9830483794212341,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BYAPPLICABLE LAW, THE MEREDITH PARTIES SHALL NOT BE LIABLE FOR ANY LOSS OF PROFITS OR REVENUE OR FOR INDIRECT, INCIDENTAL, PUNITIVE, EXEMPLARY, SPECIAL OR CONSEQUENTIAL DAMAGES, OR DAMAGES OR COSTS DUE TO LOSS OF DATA, PRODUCTION, OR USE, BUSINESS INTERRUPTION OR PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, WHETHER OR NOT MEREDITH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9999022483825684,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "At its sole discretion, Meredith may modify or discontinue the Services, or may modify, suspend or terminate your access to the Services, for any reason, with or without notice to you and without liability to you or any third party",
+            "conf": 0.9999338388442993,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree that any dispute between you and us relating in any way to the Services, our advertising or marketing practices, any Products sold or distributed through the Services, or this Agreement, will be resolved by binding arbitration, rather than in court, except that (1) you may assert claims in small claims court if your claims qualify, so long as the matter remains in such court and advances only on an individual (non-class, non-representative) basis",
+            "conf": 0.9780119061470032,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "IF YOU AGREE TO ARBITRATION WITH MEREDITH, YOU ARE AGREEING IN ADVANCE THAT YOU WILL NOT PARTICIPATE IN OR SEEK TO RECOVER MONETARY OR OTHER RELIEF IN ANY LAWSUIT FILED AGAINST MEREDITH ALLEGING CLASS, COLLECTIVE, AND/OR REPRESENTATIVE CLAIMS ON YOUR BEHALF",
+            "conf": 0.9999952912330627,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The arbitrator, and not any federal, state or local court or agency shall have exclusive authority to resolve any dispute related to the interpretation, applicability, enforceability or formation of this Arbitration Agreement including, but not limited to any claim that all or any part of this Arbitration Agreement is void or voidable",
+            "conf": 0.9986579418182373,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND MEREDITH HEREBY WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO SUE IN COURT (OTHER THAN SMALL CLAIMS COURT AS PERMITTED HEREIN) AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY",
+            "conf": 0.9556371569633484,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS, COLLECTIVE OR REPRESENTATIVE BASIS",
+            "conf": 0.9999980330467224,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "ONLY INDIVIDUAL RELIEF IS AVAILABLE FOR CLAIMS COVERED BY THIS ARBITRATION AGREEMENT, AND CLAIMS OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER",
+            "conf": 0.9991251826286316,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "THIS AGREEMENT AND ANY ACTION RELATED THERETO WILL BE GOVERNED AND INTERPRETED BY AND UNDER THE LAWS OF THE STATE OFIOWA, CONSISTENT WITH THE FEDERAL ARBITRATION ACT, WITHOUT GIVING EFFECT TO ANY CONFLICT OF LAW OR OTHER PRINCIPLES THAT PROVIDE FOR THE APPLICATION OF THE LAW OF ANOTHER JURISDICTION",
+            "conf": 0.9215463995933533,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any waiver or failure to enforce any provision of this Agreement on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion",
+            "conf": 0.9999958872795105,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Privacy PolicyEffective February 16,",
+            "conf": 0.913605809211731,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of many third-party tracking technologies for interest-based advertising, follow the instructions here",
+            "conf": 0.9949937462806702,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of precise location tracking of your mobile device, follow the instructions here",
+            "conf": 0.9959538578987122,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of promotions sent by mail from third parties, click here",
+            "conf": 0.9996521472930908,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of promotions sent by mail from Meredith Corporation, click here",
+            "conf": 0.9994804263114929,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We won\u2019t knowingly allow anyone under the age of 13 to provide us any personally identifying information online",
+            "conf": 0.999861478805542,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you\u2019re under 13, please do not register for any of our services or provide us information about yourself",
+            "conf": 0.9999980926513672,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Some information may be collected automatically through cookies, beacons and other tracking and personalization technologies.",
+            "conf": 0.983849287033081,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Together with other assets, if a Meredith website or Service is sold to another company",
+            "conf": 0.9757696986198425,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can stop the delivery of commercial email messages you receive from any Meredith brand by using the unsubscribe link in any such email you receive",
+            "conf": 0.9999901652336121,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can remove your name and postal address from lists we sell or rent to third parties for their direct marketing purposes by using the opt-out form here",
+            "conf": 0.9954678416252136,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of our use of your Web Site viewing behavior data to serve you interest-based advertising on third-party sites and email newsletters here or by clicking on the Ad Choices icon in the footer of our websites and navigating to the consumer opt-out form",
+            "conf": 0.9999300241470337,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "We have adopted commercially reasonable procedures to help us secure your information but no data transmissions or storage can be guaranteed to be 100% secure",
+            "conf": 0.9612147808074951,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: February 16, 2017",
+            "conf": 0.9999974370002747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children under 13",
+            "conf": 0.9999101758003235,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We won't knowingly allow anyone under the age of 13 to provide us any personally identifying information online",
+            "conf": 0.9999406933784485,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you're under 13, please do not register for any of our Services or provide us with any personally identifying information (such as your name, email address or phone number).",
+            "conf": 0.9999980330467224,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Some of our Services also may participate in third-party advertising networks or similar services that collect information about your computer or device and your activity online and as a mobile user to tailor some of the advertising that you see on our Services and other third-party sites, mobile apps and marketing channels in their networks to your interests.",
+            "conf": 0.9907313585281372,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Meredith or third-party contractors we engage may collect certain information automatically when you use our Services, including but not limited to:",
+            "conf": 0.9874034523963928,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Information collected through cookies, web beacons and other tracking technologies (",
+            "conf": 0.9968072175979614,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "descriptions of these terms",
+            "conf": 0.9280990958213806,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": ").",
+            "conf": 0.9116443991661072,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Like most website and mobile application operators, we, our service providers or other third parties acting on our behalf or with our permission, use embedded scripts, \"cookies,\" web beacons, device identifiers and other tracking technologies to operate, analyze, improve and protect the security of our Services and tailor content and advertising to user interests",
+            "conf": 0.9999586939811707,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of advertisements you see on our Services and other websites also may use tracking technologies to collect information about your use of our Services.",
+            "conf": 0.978984534740448,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons (sometimes called \"transparent GIFs,\" \"clear GIFs,\" or \"pixel tags\") are small strings of code that embed a small graphic image (usually invisible) on a web page or in an email or advertisement.",
+            "conf": 0.991441547870636,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Control the display of advertising and develop and deliver advertising tailored to your interests, including advertising that you see on our Services, advertising you see on third-party websites, mobile applications and email programs, and offers and advertising you may receive offline or as push-notifications, from us or others;",
+            "conf": 0.9913719892501831,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We share our users' email addresses with service providers that send email messages and deliver targeted advertising on our behalf",
+            "conf": 0.9937454462051392,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not authorize our service providers to share your email address with their other clients",
+            "conf": 0.9968422651290894,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Except as described in this policy, we will not sell or rent your email address to unaffiliated third parties for their email marketing purposes, without your consent",
+            "conf": 0.9990570545196533,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Through cookies and other tracking technologies, Google collects information about user activity to provide us with this service and processes and stores such information pursuant to its privacy policy available here",
+            "conf": 0.9473380446434021,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We cannot be responsible for any unauthorized third-party use of such information",
+            "conf": 0.9461439847946167,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "Over time, we may reorganize or transfer various assets and lines of business",
+            "conf": 0.9475815296173096,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Notwithstanding anything to the contrary stated herein or on our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Meredith or our affiliates",
+            "conf": 0.9976396560668945,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To remove your name and postal address from lists that we sell or rent to third parties for their direct marketing purposes, or to opt-out of receiving marketing offers for other Meredith magazines and products by mail, please use the opt-out form available here or send your request to us in a letter addressed to Meredith Corporation, Opt-Out Postal,",
+            "conf": 0.9966799020767212,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that if you choose to opt-out of Meredith\u2019s promotional mailings, you may still receive renewal notices and related offers for any magazines to which you subscribe.Email.You can opt-out from any Meredith email newsletter or commercial email list and prevent the collection of related email response information by our email service providers by using the unsubscribe link at the bottom of each message and/ or by visiting the Email Preferences page on our sites and updating your preferences.",
+            "conf": 0.9944788217544556,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you no longer want to receive third-party email offers that you requested through our Services, simply follow the advertiser's unsubscribe link or opt-out instructions that should be included in every commercial message you receive",
+            "conf": 0.9999960064888,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of our use of your website viewing data to serve interest-based advertising on third-party websites and email newsletters, visit the DAA\u2019s Consumer Choice Page",
+            "conf": 0.9962172508239746,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Note that you must opt-out separately from each computer or device and browser that you use to access our Services and if you clear your cookies, you will need to repeat the opt-out process",
+            "conf": 0.9993999004364014,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of interest-based advertising from Google by visiting the About Google Ads page or permanently opt out of the DoubleClick cookie by installing the DoubleClick opt out extension",
+            "conf": 0.9995532631874084,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "For information about Google Analytics\u2019 information practices and related opt-out choices, click here",
+            "conf": 0.9285244345664978,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": ", our authorized service providers and/or other third-party partners involved in the delivery of advertising you receive through our mobile applications may collect information about your mobile device, including unique anonymous advertising identifiers and the names and IDs of apps you have installed, as well as information about how you use our mobile applications and other unaffiliated applications",
+            "conf": 0.9151196479797363,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We and our partners use this information to enable interest-based advertising you receive through our Services and within third-party apps and other marketing channels",
+            "conf": 0.9943676590919495,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track.We do not currently respond to browser do-not-track signals",
+            "conf": 0.9999734163284302,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "For the purposes set out in this Online Privacy Policy, personally-identifying information may be transferred to, processed, stored and accessed by us, our affiliates and our unaffiliated service providers in the United States and in other jurisdictions where we or they operate",
+            "conf": 0.9999804496765137,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.8
+}

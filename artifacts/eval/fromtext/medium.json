@@ -1,0 +1,250 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "PolicyMediumBlockedUnblockFollowFollowingMar 18, 2014This",
+            "conf": 0.9729901552200317,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "PolicyMediumBlockedUnblockFollowFollowingAug 13, 2012",
+            "conf": 0.9765214920043945,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: May 25, 2018",
+            "conf": 0.9999970197677612,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We will never publish through your third-party account without your permission.Information DisclosureMedium won\u2019t transfer information about you to third parties for the purpose of providing or facilitating third-party advertising to you",
+            "conf": 0.9905146360397339,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We won\u2019t sell information about you",
+            "conf": 0.999932050704956,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "use browser cookies and similar technologies to recognize you when you return to our Services",
+            "conf": 0.9930907487869263,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Some third-party services that we use to provide the Medium Service, such as Google Analytics, may place their own cookies in your browser.",
+            "conf": 0.9761477112770081,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you have a Medium account, you can access, modify or export your personal information, or delete your account here",
+            "conf": 0.9954370260238647,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You use the Service at your own risk, and you\u2019re responsible for taking reasonable measures to secure your account",
+            "conf": 0.9999097585678101,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "we are involved in a merger, acquisition, bankruptcy, reorganization or sale of assets such that your information would be transferred or become subject to a different privacy policy, we\u2019ll notify you in advance so you can opt out of any such new policy by deleting your account before transfer",
+            "conf": 0.9588434100151062,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can\u2019t opt out of this type of \u201ctransactional\u201d email (unless you delete your account).",
+            "conf": 0.9999569654464722,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "But, you can opt out of non-administrative emails such as digests, newsletters, and activity notifications through your account\u2019s \u201cSettings\u201d page",
+            "conf": 0.9999985694885254,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Changes to this\u00a0PolicyMedium may periodically update this Policy",
+            "conf": 0.9470151662826538,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you would like to delete your personal information, you can delete your account at any time",
+            "conf": 0.9998595118522644,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Deleted account profile pages will yield an error 404 \u201cfile not found\u201d page, immediately upon initiating deletion, and will become unrecoverable in our system after a period of fourteen days",
+            "conf": 0.9745838642120361,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "It may take several additional days for your personal data to be de-indexed from search engines, depending on those search engines\u2019 practices, over which Medium may have limited or no control",
+            "conf": 0.9986317157745361,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To delete your payment or billing information, you will need to do so with your payment provider, as Medium only has minimal secure access to those records as needed to provide the services",
+            "conf": 0.9729215502738953,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You may withdraw consent by deleting your account at any time through the Settings page, which will erase your personal information completely within 14 days (except to the extent Medium is prevented by law from deleting your information).",
+            "conf": 0.9999767541885376,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "ServiceMediumBlockedUnblockFollowFollowingAug 13, 2012",
+            "conf": 0.9476921558380127,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective: March 7, 2016",
+            "conf": 0.9999968409538269,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We can change these Terms at any time",
+            "conf": 0.999970555305481,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We will never sell your content to third parties without your explicit permission",
+            "conf": 0.9999222159385681,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You",
+            "conf": 0.9984184503555298,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "\u2019re responsible for the content you post",
+            "conf": 0.9967681169509888,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We can remove any content you post for any reason",
+            "conf": 0.9986322522163391,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can delete any of your posts, or your account, anytime",
+            "conf": 0.9997134804725647,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may keep backup copies of your deleted post or account on our servers for up to 14 days after you delete it",
+            "conf": 0.9999096989631653,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "We may change, terminate, or restrict access to any aspect of the service, at any time, without notice",
+            "conf": 0.9995737075805664,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Medium is only for people 13 years old and over",
+            "conf": 0.9673255085945129,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we learn someone under 13 is using Medium, we",
+            "conf": 0.9629432559013367,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "\u2019ll terminate their account",
+            "conf": 0.9316632151603699,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "If you\u2019re outside the United States, you consent to letting Medium transfer, store, and process your information (including your personal information and content) in and out of the United States",
+            "conf": 0.9989504814147949,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Medium provides the Services to you as is",
+            "conf": 0.9718502163887024,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "No implied warranty of merchantability, fitness for a particular purpose, availability, security, title or non-infringement",
+            "conf": 0.9987737536430359,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Medium won\u2019t be liable to you for any damages that arise from your using the Services",
+            "conf": 0.9997080564498901,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 5.1
+}

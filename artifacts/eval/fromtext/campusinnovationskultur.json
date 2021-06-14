@@ -1,0 +1,26 @@
+{
+    "predictions": [
+        {
+            "label": "10",
+            "text": "Sofern zwischen Ihnen und uns ein Vertragsverh\u00e4ltnis begr\u00fcndet, inhaltlich ausgestaltet oder ge\u00e4ndert werden soll oder Sie an uns eine Anfrage stellen, erheben und verwenden wir personenbezogene Daten von Ihnen, soweit dies zu diesen Zwecken erforderlich ist (Bestandsdaten",
+            "conf": 0.9916069507598877,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Auf Anordnung der zust\u00e4ndigen Stellen d\u00fcrfen wir im Einzelfall Auskunft \u00fcber diese Daten (Bestandsdaten) erteilen, soweit dies f\u00fcr Zwecke der Strafverfolgung, zur Gefahrenabwehr, zur Erf\u00fcllung der gesetzlichen Aufgaben der Verfassungsschutzbeh\u00f6rden oder des Milit\u00e4rischen Abschirmdienstes oder zur Durchsetzung der Rechte am geistigen Eigentum erforderlich ist.",
+            "conf": 0.9544820189476013,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "KommentarfunktionenWir erheben personenbezogene Daten im Rahmen der Ver\u00f6ffentlichung eines Inhalts oder einer Kommentierung zu einem Artikel oder Beitrag nur in dem Umfang, wie sie von Ihnen mitgeteilt werden",
+            "conf": 0.9482179284095764,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 10.0
+}

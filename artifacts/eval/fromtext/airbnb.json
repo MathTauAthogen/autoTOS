@@ -1,0 +1,1013 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated: November 1, 2019",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies and other similar technologies when you use our platform, use our mobile app, or engage with our online ads or email communications",
+            "conf": 0.9687817096710205,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may collect certain information by automated means using technologies such as cookies, web beacons, pixels, browser analysis tools, server logs, and mobile identifiers.",
+            "conf": 0.9932457804679871,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Third parties, including Facebook, may use cookies, web beacons, and other storage technologies to collect or receive information from our websites and elsewhere on the internet and use that information to provide measurement services and target ads",
+            "conf": 0.9996562004089355,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ", that third parties, including Facebook, may collect or receive information from your app and other apps and use that information to provide measurement services and targeted ads",
+            "conf": 0.955524742603302,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Users can opt-out of the collection and use of information for ad targeting by updating their Facebook account ad settings and by contacting opt-out@airbnb.com with a description of your request and validation information",
+            "conf": 0.9985367059707642,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track Signals",
+            "conf": 0.9762687683105469,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "While you may disable the usage of cookies through your browser settings, the Airbnb Platform currently does not respond to a \u201cDo Not Track\u201d signal in the HTTP header from your browser or mobile application due to lack of standardization regarding how that signal should be interpreted.",
+            "conf": 0.9917179942131042,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our websites and applications are not directed to children under 16 and we do not knowingly collect any personal information directly from children under 16",
+            "conf": 0.9999850392341614,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may use the personal information to provide, personalize, measure, and improve our advertising and marketing such as to:",
+            "conf": 0.9999887943267822,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Airbnb may terminate any Text Message Service or your participation in it at any time with or without notice, including, for example, before you have received any or all messages that you otherwise would have received, but these SMS Terms still will apply",
+            "conf": 0.999885082244873,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of marketing emails, simply click the link labeled \u201cunsubscribe\u201d at the bottom of any marketing email we send you or access the notification settings in your Airbnb Account",
+            "conf": 0.9999914169311523,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that even if you opt-out of marketing communications, we may still need to contact you with important transactional information about your account",
+            "conf": 0.9956664443016052,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "For example, even if you opt-out of emails, we may still send you activity confirmations or fraud alerts",
+            "conf": 0.999990701675415,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that you may, at any time ask Airbnb to cease processing your data for these direct marketing purposes by sending an e-mail to opt-out@airbnb.com",
+            "conf": 0.9901478290557861,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "In some cases, you may opt-out of this feature in your Account settings",
+            "conf": 0.9438852667808533,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If Airbnb undertakes or is involved in any merger, acquisition, reorganization, sale of assets, bankruptcy, or insolvency event, then we may sell, transfer or share some or all of our assets, including your information in connection with such transaction or in contemplation of such transaction (e.g., due diligence).",
+            "conf": 0.9999990463256836,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also share aggregated information (information about our users that we combine together so that it no longer identifies or references an individual user) and other anonymized information for regulatory compliance, industry and market analysis, research, demographic profiling, marketing and advertising, and other business purposes",
+            "conf": 0.9839716553688049,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We will not review, scan, or analyze your messaging communications to send third party marketing messages to you, and we will not sell reviews or analyses of these communications",
+            "conf": 0.9705854654312134,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We generally retain your personal information for as long as is necessary for the performance of the contract between you and us and to comply with our legal obligations",
+            "conf": 0.9994820356369019,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In certain jurisdictions, you can request to have all your personal information deleted entirely.\" Please note that if you request the erasure of your personal information:",
+            "conf": 0.9999988079071045,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Additionally, some copies of your information (e.g., log records) may remain in our database, but are disassociated from personal identifiers",
+            "conf": 0.9983517527580261,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If we are processing your personal information based on your consent you may withdraw your consent at any time by changing your Account settings or by sending a communication to Airbnb specifying which consent you are withdrawing",
+            "conf": 0.9604499340057373,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Where your personal information is processed for direct marketing purposes, you may, at any time ask Airbnb to cease processing your data for these direct marketing purposes by sending an e-mail to opt-out@airbnb.com",
+            "conf": 0.9984667301177979,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "For example, information collected within the EEA may be transferred, stored, and processed outside of the EEA for the purposes described in this Privacy Policy",
+            "conf": 0.937818706035614,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "California residents also have the right to submit a request for deletion of information under certain circumstances",
+            "conf": 0.9986338019371033,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell personal information to third parties",
+            "conf": 0.9999077916145325,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We do allow third parties to collect personal information through our Service and share personal information with third parties for the business purposes described in this Privacy Policy, including without limitation advertising and marketing on our Service and elsewhere based on users\u2019 online activities over time and across different sites, services, and devices",
+            "conf": 0.9974818229675293,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Airbnb reserves the right to modify this Privacy Policy at any time in accordance with this provision",
+            "conf": 0.996491551399231,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will also provide you with notice of the modification by email at least thirty (30) days before the date they become effective",
+            "conf": 0.9998907446861267,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "after April 30, 2018 at 8AM UTC",
+            "conf": 0.9289147257804871,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: January 21, 2019",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies and other similar technologies when you use our platform, use our mobile app, or engage with our online ads or email communications",
+            "conf": 0.9687817096710205,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may collect certain information by automated means using technologies such as cookies, web beacons, pixels, browser analysis tools, server logs, and mobile identifiers.",
+            "conf": 0.9932457804679871,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Third parties, including Facebook, may use cookies, web beacons, and other storage technologies to collect or receive information from our websites and elsewhere on the internet and use that information to provide measurement services and target ads",
+            "conf": 0.9996562004089355,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ", that third parties, including Facebook, may collect or receive information from your app and other apps and use that information to provide measurement services and targeted ads",
+            "conf": 0.955524742603302,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Users can opt-out of the collection and use of information for ad targeting by updating their Facebook account ad settings and by contacting opt-out@airbnb.com with a description of your request and validation information",
+            "conf": 0.9985367059707642,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track Signals",
+            "conf": 0.9762687683105469,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "While you may disable the usage of cookies through your browser settings, the Airbnb Platform currently does not respond to a \u201cDo Not Track\u201d signal in the HTTP header from your browser or mobile application due to lack of standardization regarding how that signal should be interpreted.",
+            "conf": 0.9917179942131042,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our websites and applications are not directed to children under 16 and we do not knowingly collect any personal information directly from children under 16",
+            "conf": 0.9999850392341614,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may use the personal information to provide, personalize, measure, and improve our advertising and marketing such as to:",
+            "conf": 0.9999887943267822,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Airbnb may terminate any Text Message Service or your participation in it at any time with or without notice, including, for example, before you have received any or all messages that you otherwise would have received, but these SMS Terms still will apply",
+            "conf": 0.999885082244873,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of marketing emails, simply click the link labeled \u201cunsubscribe\u201d at the bottom of any marketing email we send you or access the notification settings in your Airbnb Account",
+            "conf": 0.9999914169311523,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that even if you opt-out of marketing communications, we may still need to contact you with important transactional information about your account",
+            "conf": 0.9956664443016052,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "For example, even if you opt-out of emails, we may still send you activity confirmations or fraud alerts",
+            "conf": 0.999990701675415,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that you may, at any time ask Airbnb to cease processing your data for these direct marketing purposes by sending an e-mail to opt-out@airbnb.com",
+            "conf": 0.9901478290557861,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "In some cases, you may opt-out of this feature in your Account settings",
+            "conf": 0.9438855648040771,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If Airbnb undertakes or is involved in any merger, acquisition, reorganization, sale of assets, bankruptcy, or insolvency event, then we may sell, transfer or share some or all of our assets, including your information in connection with such transaction or in contemplation of such transaction (e.g., due diligence).",
+            "conf": 0.9999990463256836,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also share aggregated information (information about our users that we combine together so that it no longer identifies or references an individual user) and other anonymized information for regulatory compliance, industry and market analysis, research, demographic profiling, marketing and advertising, and other business purposes",
+            "conf": 0.9839716553688049,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We will not review, scan, or analyze your messaging communications to send third party marketing messages to you, and we will not sell reviews or analyses of these communications",
+            "conf": 0.9705854654312134,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We generally retain your personal information for as long as is necessary for the performance of the contract between you and us and to comply with our legal obligations",
+            "conf": 0.9994820356369019,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In certain jurisdictions, you can request to have all your personal information deleted entirely.\" Please note that if you request the erasure of your personal information:",
+            "conf": 0.9999988079071045,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Additionally, some copies of your information (e.g., log records) may remain in our database, but are disassociated from personal identifiers",
+            "conf": 0.9983517527580261,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If we are processing your personal information based on your consent you may withdraw your consent at any time by changing your Account settings or by sending a communication to Airbnb specifying which consent you are withdrawing",
+            "conf": 0.9604499340057373,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Where your personal information is processed for direct marketing purposes, you may, at any time ask Airbnb to cease processing your data for these direct marketing purposes by sending an e-mail to opt-out@airbnb.com",
+            "conf": 0.9984667301177979,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "For example, information collected within the EEA may be transferred, stored, and processed outside of the EEA for the purposes described in this Privacy Policy",
+            "conf": 0.937818706035614,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Airbnb reserves the right to modify this Privacy Policy at any time in accordance with this provision",
+            "conf": 0.996491551399231,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will also provide you with notice of the modification by email at least thirty (30) days before the date they become effective",
+            "conf": 0.9998907446861267,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "after April 30, 2018 at 8AM UTC",
+            "conf": 0.9289147257804871,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We also use other technologies with similar functionality to cookies, such as web beacons, pixels, mobile identifiers, and tracking URLs, to obtain Log Data (as described in the Privacy Policy).",
+            "conf": 0.9999935030937195,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "For example, our email messages may contain web beacons and tracking URLs to determine whether you have opened a certain message or accessed a certain link",
+            "conf": 0.999992847442627,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, to help us better understand how people use the Airbnb Platform, we work with a number of analytics partners, including Google Analytics",
+            "conf": 0.9560569524765015,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third parties may also use such tracking technologies to serve ads that they believe are most likely to be of interest to you and measure the effectiveness of their ads both on the Airbnb Platform and on other websites and online services",
+            "conf": 0.9775818586349487,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Targeting and advertising cookies we use may include Google, and other advertising networks and services we use from time to time",
+            "conf": 0.9998247027397156,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "For more information about targeting and advertising cookies and how you can opt out, you can visit the Network Advertising Initiative\u2019s opt-out page, the Digital Advertising Alliance\u2019s opt-out page, or http://youronlinechoices.eu",
+            "conf": 0.9996960759162903,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Platform may not work as intended or may not work at all",
+            "conf": 0.9717374444007874,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: November 1, 2019",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "1.3 While we may help facilitate the resolution of disputes, Airbnb has no control over and does not guarantee (i) the existence, quality, safety, suitability, or legality of any Listings or Host Services, (ii) the truth or accuracy of any Listing descriptions, Ratings, Reviews, or other Member Content (as defined below), or (iii) the performance or conduct of any Member or third party",
+            "conf": 0.9985306859016418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Due to the nature of the Internet, Airbnb cannot guarantee the continuous and uninterrupted availability and accessibility of the Airbnb Platform",
+            "conf": 0.9527286291122437,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Airbnb reserves the right to modify these Terms at any time in accordance with this provision",
+            "conf": 0.9997852444648743,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will also provide you with notice of the modifications by email at least thirty (30) days before the date they become effective",
+            "conf": 0.9999155402183533,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are liable for any and all activities conducted through your Airbnb Account, unless such activities are not authorized by you and you are not otherwise negligent (such as failing to report the unauthorized use or loss of your credentials).",
+            "conf": 0.9815738797187805,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Images and you will stop using the",
+            "conf": 0.9144570827484131,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all Member Content that you make available on or through the",
+            "conf": 0.9259018898010254,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "(ii) accept all risks and responsibility for such payment, and (iii) hold Airbnb harmless from any liability for such payment;",
+            "conf": 0.9999117255210876,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "15.2 You may terminate this Agreement at any time by sending us an email",
+            "conf": 0.9867272973060608,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "The Airbnb Platform and Collective Content is provided \u201cas is\u201d, without warranty of any kind, either express or implied",
+            "conf": 0.9999647736549377,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Service and to the maximum extent permitted by law, you agree to release and hold harmless Airbnb from all liabilities and claims that arise in any way from any injury, death, loss or harm that occurs to that minor during the Host Service or in any way related to your Host Service",
+            "conf": 0.9561976790428162,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Neither Airbnb nor any other party involved in creating, producing, or delivering the Airbnb Platform or Collective Content will be liable for any incidental, special, exemplary or consequential damages, including lost profits, loss of data or loss of goodwill, service interruption, computer damage or system failure or the cost of substitute products or services, or for any damages for personal or bodily injury or emotional distress arising out of or in connection with (i) these Terms, (ii) from the use of or inability to use the Airbnb Platform or Collective Content, (iii) from any communications, interactions or meetings with other Members or other persons with whom you communicate, interact or meet with as a result of your use of the Airbnb Platform, or (iv) from your publishing or booking of a Listing, including the provision or use of a Listing\u2019s Host Services, whether based on warranty, contract, tort (including negligence), product liability or any other legal theory, and whether or not Airbnb has been informed of the possibility of such damage, even if a limited remedy set forth herein is found to have failed of its essential purpose.",
+            "conf": 0.9999344944953918,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "To the maximum extent permitted by applicable law, you agree to release, defend (at Airbnb\u2019s option), indemnify, and hold Airbnb and its affiliates and subsidiaries, including but not limited to, Airbnb Payments, and their officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with (i) your breach of these Terms or our Policies or Standards, (ii) your improper use of the Airbnb Platform or any Airbnb Services, (iii) your interaction with any Member, stay at an Accommodation, participation in an Experience, Event or other Host Service, participation in the Group Payment Service, including without limitation any injuries, losses or damages (whether compensatory, direct, incidental, consequential or otherwise) of any kind arising in connection with or as a result of such interaction, stay, participation or use, (iv) Airbnb\u2019s Collection and Remittance of Occupancy Taxes, or (v) your breach of any laws, regulations or third party rights",
+            "conf": 0.9999947547912598,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "19.11 No Class Actions or Representative Proceedings",
+            "conf": 0.9991130828857422,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You and Airbnb acknowledge and agree that, to the fullest extent permitted by law, we are each waiving the right to participate as a plaintiff or class member in any purported class action lawsuit, class-wide arbitration, private attorney general action, or any other representative proceeding as to all Disputes",
+            "conf": 0.9999902248382568,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless you and Airbnb both otherwise agree in writing, the arbitrator may not consolidate more than one party\u2019s claims and may not otherwise preside over any form of any class or representative proceeding",
+            "conf": 0.999992847442627,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the \u201cclass action lawsuit\u201d waiver or the \u201cclass-wide arbitration\u201d waiver in this Section 19.11 is held unenforceable with respect to any Dispute, then the entirety of the Arbitration Agreement will be deemed void with respect to such Dispute and the Dispute must proceed in court",
+            "conf": 0.9996901750564575,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Notwithstanding the provisions of Section 3 (\u201cModification of these Terms\u201d), if Airbnb changes this Section 19 (\u201cDispute Resolution and Arbitration Agreement\u201d) after the date you last accepted these Terms (or accepted any subsequent changes to these Terms), you may reject any such change by sending us written notice (including by email) within thirty (30) days of the date such change became effective, as indicated in the \u201cLast Updated\u201d date above or in the date of Airbnb\u2019s email to you notifying you of such change",
+            "conf": 0.9976944327354431,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "22.5 Airbnb",
+            "conf": 0.9930621981620789,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s failure to enforce any right or provision in these Terms will not constitute a waiver of such right or provision unless acknowledged and agreed to by us in writing",
+            "conf": 0.9999937415122986,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: November 1, 2019",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "1.3 While we may help facilitate the resolution of disputes, Airbnb has no control over and does not guarantee (i) the existence, quality, safety, suitability, or legality of any Listings or Host Services, (ii) the truth or accuracy of any Listing descriptions, Ratings, Reviews, or other Member Content (as defined below), or (iii) the performance or conduct of any Member or third party",
+            "conf": 0.9985306859016418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Airbnb reserves the right to modify these Terms at any time in accordance with this provision",
+            "conf": 0.9997852444648743,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will also provide you with notice of the modifications by email at least thirty (30) days before the date they become effective",
+            "conf": 0.9999155402183533,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are liable for any and all activities conducted through your Airbnb Account, unless such activities are not authorized by you and you are not otherwise negligent (such as failing to report the unauthorized use or loss of your credentials).",
+            "conf": 0.9815738797187805,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Images and you will stop using the",
+            "conf": 0.9144570827484131,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all Member Content that you make available on or through the",
+            "conf": 0.9259018898010254,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Members are entitled to terminate their participation in the mediation or similar resolution process at any time",
+            "conf": 0.9807199835777283,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "If you do so, you: (i) accept all risks and responsibility for such payment, and (ii) hold Airbnb harmless from any liability for such payment;",
+            "conf": 0.9999292492866516,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "15.2 You may terminate this Agreement at any time by sending us an email",
+            "conf": 0.9867274165153503,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "To the maximum extent permitted by applicable law, you agree to release, defend (at Airbnb\u2019s option), indemnify, and hold Airbnb and its affiliates and subsidiaries, including but not limited to, Airbnb Payments, and their officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with (i) your breach of these Terms or our Policies or Standards, (ii) your improper use of the Airbnb Platform or any Airbnb Services, (iii) your interaction with any Member, stay at an Accommodation, participation in an Experience, Event or other Host Service, participation in the Group Payment Service, including without limitation any injuries, losses or damages (whether compensatory, direct, incidental, consequential or otherwise) of any kind arising in connection with or as a result of such interaction, stay, participation or use, or (iv) your breach of any laws, regulations or third party rights",
+            "conf": 0.9999949336051941,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "19.11 No Class Actions or Representative Proceedings",
+            "conf": 0.9991130828857422,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You and Airbnb acknowledge and agree that, to the fullest extent permitted by law, we are each waiving the right to participate as a plaintiff or class member in any purported class action lawsuit, class-wide arbitration, private attorney-general action, or any other representative proceeding as to all Disputes",
+            "conf": 0.9999908208847046,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless you and Airbnb both otherwise agree in writing, the arbitrator may not consolidate more than one party\u2019s claims and may not otherwise preside over any form of any class or representative proceeding",
+            "conf": 0.999992847442627,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the \u201cclass action lawsuit\u201d waiver or the \u201cclass-wide arbitration\u201d waiver in this Section 19.11 is held unenforceable with respect to any Dispute, then the entirety of the Arbitration Agreement will be deemed void with respect to such Dispute and the Dispute must proceed in court",
+            "conf": 0.9996901750564575,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Notwithstanding the provisions of Section 3 (\u201cModification of these Terms\u201d), if Airbnb changes this Section 19 (\u201cDispute Resolution and Arbitration Agreement\u201d) after the date you last accepted these Terms (or accepted any subsequent changes to these Terms), you may reject any such change by sending us written notice (including by email) within thirty (30) days of the date such change became effective, as indicated in the \u201cLast Updated\u201d date above or in the date of Airbnb\u2019s email to you notifying you of such change",
+            "conf": 0.9976944327354431,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "22.5 Airbnb",
+            "conf": 0.9930620193481445,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s failure to enforce any right or provision in these Terms will not constitute a waiver of such right or provision unless acknowledged and agreed to by us in writing",
+            "conf": 0.9999937415122986,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: January 21, 2019",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "1.3 While we may help facilitate the resolution of disputes, Airbnb has no control over and does not guarantee (i) the existence, quality, safety, suitability, or legality of any Listings or Host Services, (ii) the truth or accuracy of any Listing descriptions, Ratings, Reviews, or other Member Content (as defined below), or (iii) the performance or conduct of any Member or third party",
+            "conf": 0.9985306859016418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Due to the nature of the Internet, Airbnb cannot guarantee the continuous and uninterrupted availability and accessibility of the Airbnb Platform",
+            "conf": 0.9527286291122437,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Airbnb reserves the right to modify these Terms at any time in accordance with this provision",
+            "conf": 0.9997852444648743,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will also provide you with notice of the modifications by email at least thirty (30) days before the date they become effective",
+            "conf": 0.9999155402183533,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are liable for any and all activities conducted through your Airbnb Account, unless such activities are not authorized by you and you are not otherwise negligent (such as failing to report the unauthorized use or loss of your credentials).",
+            "conf": 0.9815738797187805,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Images and you will stop using the",
+            "conf": 0.9144570827484131,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all Member Content that you make available on or through the",
+            "conf": 0.9259018898010254,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "(ii) accept all risks and responsibility for such payment, and (iii) hold Airbnb harmless from any liability for such payment;",
+            "conf": 0.9999117255210876,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "15.2 You may terminate this Agreement at any time by sending us an email",
+            "conf": 0.9867272973060608,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "The Airbnb Platform and Collective Content is provided \u201cas is\u201d, without warranty of any kind, either express or implied",
+            "conf": 0.9999647736549377,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Service and to the maximum extent permitted by law, you agree to release and hold harmless Airbnb from all liabilities and claims that arise in any way from any injury, death, loss or harm that occurs to that minor during the Host Service or in any way related to your Host Service",
+            "conf": 0.9561976790428162,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Neither Airbnb nor any other party involved in creating, producing, or delivering the Airbnb Platform or Collective Content will be liable for any incidental, special, exemplary or consequential damages, including lost profits, loss of data or loss of goodwill, service interruption, computer damage or system failure or the cost of substitute products or services, or for any damages for personal or bodily injury or emotional distress arising out of or in connection with (i) these Terms, (ii) from the use of or inability to use the Airbnb Platform or Collective Content, (iii) from any communications, interactions or meetings with other Members or other persons with whom you communicate, interact or meet with as a result of your use of the Airbnb Platform, or (iv) from your publishing or booking of a Listing, including the provision or use of a Listing\u2019s Host Services, whether based on warranty, contract, tort (including negligence), product liability or any other legal theory, and whether or not Airbnb has been informed of the possibility of such damage, even if a limited remedy set forth herein is found to have failed of its essential purpose.",
+            "conf": 0.9999344944953918,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "To the maximum extent permitted by applicable law, you agree to release, defend (at Airbnb\u2019s option), indemnify, and hold Airbnb and its affiliates and subsidiaries, including but not limited to, Airbnb Payments, and their officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with (i) your breach of these Terms or our Policies or Standards, (ii) your improper use of the Airbnb Platform or any Airbnb Services, (iii) your interaction with any Member, stay at an Accommodation, participation in an Experience, Event or other Host Service, participation in the Group Payment Service, including without limitation any injuries, losses or damages (whether compensatory, direct, incidental, consequential or otherwise) of any kind arising in connection with or as a result of such interaction, stay, participation or use, (iv) Airbnb\u2019s Collection and Remittance of Occupancy Taxes, or (v) your breach of any laws, regulations or third party rights",
+            "conf": 0.9999947547912598,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "19.11 No Class Actions or Representative Proceedings",
+            "conf": 0.9991130828857422,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You and Airbnb acknowledge and agree that, to the fullest extent permitted by law, we are each waiving the right to participate as a plaintiff or class member in any purported class action lawsuit, class-wide arbitration, private attorney general action, or any other representative proceeding as to all Disputes",
+            "conf": 0.9999902248382568,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless you and Airbnb both otherwise agree in writing, the arbitrator may not consolidate more than one party\u2019s claims and may not otherwise preside over any form of any class or representative proceeding",
+            "conf": 0.999992847442627,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the \u201cclass action lawsuit\u201d waiver or the \u201cclass-wide arbitration\u201d waiver in this Section 19.11 is held unenforceable with respect to any Dispute, then the entirety of the Arbitration Agreement will be deemed void with respect to such Dispute and the Dispute must proceed in court",
+            "conf": 0.9996901750564575,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Notwithstanding the provisions of Section 3 (\u201cModification of these Terms\u201d), if Airbnb changes this Section 19 (\u201cDispute Resolution and Arbitration Agreement\u201d) after the date you last accepted these Terms (or accepted any subsequent changes to these Terms), you may reject any such change by sending us written notice (including by email) within thirty (30) days of the date such change became effective, as indicated in the \u201cLast Updated\u201d date above or in the date of Airbnb\u2019s email to you notifying you of such change",
+            "conf": 0.9976944327354431,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "22.5 Airbnb",
+            "conf": 0.9930621981620789,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s failure to enforce any right or provision in these Terms will not constitute a waiver of such right or provision unless acknowledged and agreed to by us in writing",
+            "conf": 0.9999937415122986,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: January 21, 2019",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "1.3 While we may help facilitate the resolution of disputes, Airbnb has no control over and does not guarantee (i) the existence, quality, safety, suitability, or legality of any Listings or Host Services, (ii) the truth or accuracy of any Listing descriptions, Ratings, Reviews, or other Member Content (as defined below), or (iii) the performance or conduct of any Member or third party",
+            "conf": 0.9985306859016418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Airbnb reserves the right to modify these Terms at any time in accordance with this provision",
+            "conf": 0.9997852444648743,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will also provide you with notice of the modifications by email at least thirty (30) days before the date they become effective",
+            "conf": 0.9999155402183533,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are liable for any and all activities conducted through your Airbnb Account, unless such activities are not authorized by you and you are not otherwise negligent (such as failing to report the unauthorized use or loss of your credentials).",
+            "conf": 0.9815738797187805,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Images and you will stop using the",
+            "conf": 0.9144570827484131,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all Member Content that you make available on or through the",
+            "conf": 0.9259018898010254,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Members are entitled to terminate their participation in the mediation or similar resolution process at any time",
+            "conf": 0.9807199835777283,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "If you do so, you: (i) accept all risks and responsibility for such payment, and (ii) hold Airbnb harmless from any liability for such payment;",
+            "conf": 0.9999292492866516,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "15.2 You may terminate this Agreement at any time by sending us an email",
+            "conf": 0.9867272973060608,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "To the maximum extent permitted by applicable law, you agree to release, defend (at Airbnb\u2019s option), indemnify, and hold Airbnb and its affiliates and subsidiaries, including but not limited to, Airbnb Payments, and their officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with (i) your breach of these Terms or our Policies or Standards, (ii) your improper use of the Airbnb Platform or any Airbnb Services, (iii) your interaction with any Member, stay at an Accommodation, participation in an Experience, Event or other Host Service, participation in the Group Payment Service, including without limitation any injuries, losses or damages (whether compensatory, direct, incidental, consequential or otherwise) of any kind arising in connection with or as a result of such interaction, stay, participation or use, or (iv) your breach of any laws, regulations or third party rights",
+            "conf": 0.9999949336051941,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "19.11 No Class Actions or Representative Proceedings",
+            "conf": 0.9991130828857422,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You and Airbnb acknowledge and agree that, to the fullest extent permitted by law, we are each waiving the right to participate as a plaintiff or class member in any purported class action lawsuit, class-wide arbitration, private attorney-general action, or any other representative proceeding as to all Disputes",
+            "conf": 0.9999908208847046,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless you and Airbnb both otherwise agree in writing, the arbitrator may not consolidate more than one party\u2019s claims and may not otherwise preside over any form of any class or representative proceeding",
+            "conf": 0.999992847442627,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the \u201cclass action lawsuit\u201d waiver or the \u201cclass-wide arbitration\u201d waiver in this Section 19.11 is held unenforceable with respect to any Dispute, then the entirety of the Arbitration Agreement will be deemed void with respect to such Dispute and the Dispute must proceed in court",
+            "conf": 0.9996901750564575,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Notwithstanding the provisions of Section 3 (\u201cModification of these Terms\u201d), if Airbnb changes this Section 19 (\u201cDispute Resolution and Arbitration Agreement\u201d) after the date you last accepted these Terms (or accepted any subsequent changes to these Terms), you may reject any such change by sending us written notice (including by email) within thirty (30) days of the date such change became effective, as indicated in the \u201cLast Updated\u201d date above or in the date of Airbnb\u2019s email to you notifying you of such change",
+            "conf": 0.9976944327354431,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "22.5 Airbnb",
+            "conf": 0.9930621981620789,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s failure to enforce any right or provision in these Terms will not constitute a waiver of such right or provision unless acknowledged and agreed to by us in writing",
+            "conf": 0.9999937415122986,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.7
+}

@@ -1,0 +1,75 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "(Stand: Karlsruhe, 18.06.2019",
+            "conf": 0.998880922794342,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Erreichbar zu unseren Gesch\u00e4ftszeiten Montag bis Freitag von 09:00 \u2013 17:00 Uhr",
+            "conf": 0.9049827456474304,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Wenn Sie Widerspruch einlegen, werden wir Ihre betroffenen personenbezogenen Daten nicht mehr verarbeiten, es sei denn, wir k\u00f6nnen zwingende schutzw\u00fcrdige Gr\u00fcnde f\u00fcr die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten \u00fcberwiegen oder die Verarbeitung dient der Geltendmachung, Aus\u00fcbung oder Verteidigung von Rechtsanspr\u00fcchen (Widerspruch nach Art.",
+            "conf": 0.9755693674087524,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Wenn wir Ihre personenbezogenen Daten nicht mehr ben\u00f6tigen, Sie sie jedoch zur Aus\u00fcbung, Verteidigung oder Geltendmachung von Rechtsanspr\u00fcchen ben\u00f6tigen, haben Sie das Recht, statt der L\u00f6schung die Einschr\u00e4nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen",
+            "conf": 0.9777378439903259,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Die durch Cookies und Web Beacons erzeugten Informationen \u00fcber die Benutzung dieser Website (einschlie\u00dflich Ihrer IP-Adresse) und Auslieferung von Werbeformaten werden an einen Server von Google in den USA \u00fcbertragen und dort gespeichert.",
+            "conf": 0.9981899857521057,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Datenschutzerkl\u00e4rung Version 3.0 06.03.2018 Seite",
+            "conf": 0.9374778270721436,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Die hier erhobenen Daten werden ausschlie\u00dflich f\u00fcr den Zweck verwendet, zu dem sie erhoben wurden, und zu dem ein Nutzer eingewilligt hat",
+            "conf": 0.9930366277694702,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "(Stand: Karlsruhe, 13.05.2019",
+            "conf": 0.9999884963035583,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "billiger.de entstehen k\u00f6nnen, es sei denn, diese sind von solute vors\u00e4tzlich oder grob fahrl\u00e4ssig verursacht worden oder es handelt sich um die Verletzung von Leben, K\u00f6rper oder Gesundheit",
+            "conf": 0.9263436198234558,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Nutzungsbedingungen solute ist berechtigt, bei Verst\u00f6\u00dfen gegen eine oder mehrere dieser Bestimmungen vor\u00fcbergehend oder endg\u00fcltig, sowie unbeschadet weiterer rechtlicher Schritte, gegen den betroffenen Nutzer, dessen Konto, Beitr\u00e4ge und Inhalte zu sperren, zu l\u00f6schen, die Ver\u00f6ffentlichung von Beitr\u00e4gen und Profilen des Nutzers ganz oder teilweise zu verhindern und/oder seinen Zugang zu dem Dienst ganz oder teilweise zu sperren",
+            "conf": 0.9375478625297546,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 7.8
+}

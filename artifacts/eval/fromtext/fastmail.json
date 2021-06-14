@@ -1,0 +1,383 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We don\u2019t ever sell or monetize confidential data or even \u201caggregate customer data\u201d",
+            "conf": 0.9956713318824768,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you request destruction of your data by deleting specific items, or closing your account, the data is removed in a time-delayed manner.",
+            "conf": 0.9834360480308533,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "System logs are retained for 180 days before being deleted",
+            "conf": 0.9992481470108032,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Emails, contacts, calendars, and other personal data including notes that have been deleted in Fastmail or Pobox Mailstore are kept in backups for between 7 and 14 days after deletion",
+            "conf": 0.9999105334281921,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After an account is terminated, data and backups are purged within a timeframe of between 37 days to 1 year after closure depending on how long the account was active for, and whether the account was explicitly closed or lapsed due to lack of payment",
+            "conf": 0.9994329214096069,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "As an Australian company, we do not respond to US court orders",
+            "conf": 0.9801197052001953,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Cancel your account",
+            "conf": 0.989850640296936,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "My account has been locked",
+            "conf": 0.9891303777694702,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last update: 2018-05-24",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "It will not be automatically deleted when the browser is closed but is stored by the browser and will remain valid until its set expiry date (unless deleted by the user before the expiry date).",
+            "conf": 0.9999874830245972,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "This list (together with the rest of this policy) is subject to change by FastMail from time to time",
+            "conf": 0.9806399941444397,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We have engaged Innocraft's Matomo to analyse the activities of visitors to the Website through the use of cookies and other tracking technologies which enable them to monitor traffic to, and use of the Website.",
+            "conf": 0.9852192401885986,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Once you have closed your browser, this type of cookie is deactivated unless you have chosen to remain logged in",
+            "conf": 0.918773889541626,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Like all cookies, you are able to remove or block\u00a0particular cookies at any time (see below)",
+            "conf": 0.9790111184120178,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Third party services that set cookies When you visit our websites, or purchase products or services, we use the following third party services which may set cookies:",
+            "conf": 0.9974787831306458,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Service These Terms of Service came into effect on May 24th, 2018",
+            "conf": 0.9999975562095642,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "This Service is provided only to individuals who are at least 18 years old or minors who have parental permission to open and maintain an account",
+            "conf": 0.9996481537818909,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for any and all activities that occur in relation to the Service under your account (including the content of transmissions from your account, or any content uploaded or published through your account), except to the extent that a third party accesses your account as a result of FastMail\u2019s negligence.",
+            "conf": 0.9991039633750916,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that FastMail is not responsible or liable for the deletion or failure to store messages, files or other information.",
+            "conf": 0.9817502498626709,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "The Linked Sites are not under the control of FastMail and FastMail is not responsible for the contents of any linked site or any link contained in a Linked Site, or any changes or updates to such sites.",
+            "conf": 0.9926260113716125,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Changes are periodically added to the information herein",
+            "conf": 0.9778735637664795,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FastMail does not represent or warrant that the Service will be uninterrupted or error-free, that defects will be corrected, or that the Service or the server that makes it available are free of viruses or other harmful components",
+            "conf": 0.9999961256980896,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FastMail does not warrant or represent that the use or the results of the use of the Service or the materials made available as part of the Service will be correct, accurate, timely, or otherwise reliable",
+            "conf": 0.9999892115592957,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FastMail make no representations about the suitability, reliability, availability, timeliness, and accuracy of the service for any purpose",
+            "conf": 0.9999980330467224,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Service is provided \u201cas is\u201d without warranty of any kind",
+            "conf": 0.9999880194664001,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event shall FastMail be liable for any direct, indirect, punitive, incidental, special, consequential damages or any damages whatsoever including, without limitation, damages for loss of use, data or profits, arising out of or in any way connected with the use or performance of the Service or related web sites, with the delay or inability to use the Service or related web sites, the provision of or failure to provide services, or for any information, software, products, services and related graphics obtained through the Service, or otherwise arising out of the use of the Service, whether based on contract, tort, negligence, strict liability or otherwise, even if FastMail has been advised of the possibility of damages.",
+            "conf": 0.999700665473938,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Indemnification You agree to indemnify and hold FastMail, its parents, subsidiaries, affiliates, officers and employees, harmless from any claim, demand, or damage, including reasonable attorneys\u2019 fees, asserted by any third party due to or arising out of your use of or conduct on the Service",
+            "conf": 0.9995717406272888,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Termination FastMail may terminate your access to any part or all of the Service and any related service(s) effective immediately if you fail to comply with these Terms, or where required to by law",
+            "conf": 0.9996322393417358,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Changes to these Terms of Service FastMail reserves the right to change these Terms or its policies regarding the use of the Service at any time and to notify you by posting an updated version of these Terms on this web site",
+            "conf": 0.9006235599517822,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "is responsible for your personal information (Personal Information) and we take",
+            "conf": 0.9292653799057007,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Updates We may review or update this privacy policy from time to time to keep it",
+            "conf": 0.9999251961708069,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We will place any updates on this webpage, so please regularly check for",
+            "conf": 0.9971315264701843,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices of any third party",
+            "conf": 0.9999651908874512,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can also delete certain information, or your entire FastMail account should you wish to do so",
+            "conf": 0.9999604225158691,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "suspend or terminate your account access",
+            "conf": 0.989188015460968,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "restrict your ability to delete or edit your information or your privacy settings",
+            "conf": 0.9990358352661133,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "if, in the future, we sell or transfer some or all of our business or assets to a third party, we may disclose information to a potential or actual third party purchaser of our business or assets",
+            "conf": 0.997824490070343,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "we may share in aggregate, statistical form, nonpersonal information regarding the visitors to our website, traffic patterns, and website usage with our partners and affiliates",
+            "conf": 0.9705291986465454,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "even after opting in, you can ask us to stop sending email marketing by following the \u201cunsubscribe\u201d or opt-out links in electronic communications",
+            "conf": 0.9999899864196777,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Matomo uses cookies to monitor traffic to, and use of our marketing websites only",
+            "conf": 0.9475411176681519,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Information about the use of our website generated by these cookies is generally transferred to a Matomo server in the USA and stored there",
+            "conf": 0.9999228119850159,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Matomo respects Do Not Track browser flags",
+            "conf": 0.9860565066337585,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "you may opt out of tracking by setting your browser to Do Not Track",
+            "conf": 0.9865520596504211,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "may be processed outside of the European Union, in countries such as the",
+            "conf": 0.998754620552063,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "destroying your personal information if it is no longer needed to provide you with our service;",
+            "conf": 0.9820075631141663,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "How long do we store/retain your personal information We will store your personal information for as long as is reasonably necessary",
+            "conf": 0.9999982714653015,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some circumstances we may store your personal information for longer periods",
+            "conf": 0.9999869465827942,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "your IP address, we retain this information for approximately 90 days",
+            "conf": 0.9313974976539612,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Where you request that we delete your account from our system, we will",
+            "conf": 0.9991198182106018,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "immediately lock the account and archive the information, then delete it from",
+            "conf": 0.9225839972496033,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "FastMail product collects age, and there is an age in your jurisdiction under which parental consent or authorisation is required to use the product, the product will either block users under that age or will ask them to provide consent or authorisation from a parent or guardian before they can use it",
+            "conf": 0.9572948217391968,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "you can request access to, erasure of and updates to your personal information",
+            "conf": 0.9955886602401733,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u201cprocess",
+            "conf": 0.9122487902641296,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Any operation or set of operations that is performed upon Personal Data, whether or not by automatic means, including, but not limited to collection, recording, organisation, storage, access, adaptation, alteration, retrieval, consultation, use, disclosure, dissemination, making available, alignment, combination, blocking, deleting, erasure, or destruction",
+            "conf": 0.9766846895217896,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 4.4
+}

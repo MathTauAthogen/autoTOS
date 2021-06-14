@@ -1,0 +1,278 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We don\u2019t store your searches permanently We don\u2019t create personal profiles of you based on your search history",
+            "conf": 0.9447994828224182,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We don\u2019t sell your data to advertisers Many web services collect user data in order to sell it without asking your permission",
+            "conf": 0.998720645904541,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We don\u2019t sell your data or your searches to advertising companies",
+            "conf": 0.9983447194099426,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We don\u2019t use external tracking tools Most websites use external tracking tools, like Google Analytics, to optimize their services",
+            "conf": 0.9988594055175781,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We don\u2019t use such third party trackers, in order to prevent others from accessing your searches",
+            "conf": 0.9481525421142578,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not, and never will, share or sell any data we collect ourselves with any third party",
+            "conf": 0.9998613595962524,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We only keep fully anonymised search data after 7 days",
+            "conf": 0.9908624291419983,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Ecosia\u2019s servers are located around the world in order to provide a fast response no matter where you are",
+            "conf": 0.9985885620117188,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "After 7 days we remove all personal information (like the",
+            "conf": 0.9847070574760437,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ") from the search data",
+            "conf": 0.9360127449035645,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not store any personal information in the cookie",
+            "conf": 0.9999446868896484,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "? After 7 days we remove all personal information (like the IP address) from the search data we collect ourselves",
+            "conf": 0.9729945659637451,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Will any data ever be shared with 3rd parties? We will never share your searches with anyone except services that are directly involved in answering your search request, like Bing",
+            "conf": 0.9939559102058411,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "They all store it securely and don't share it with anyone",
+            "conf": 0.9589218497276306,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Ecosia does use third party tools on non-search pages where absolutely necessary to help us understand and tune our marketing campaigns",
+            "conf": 0.9083819389343262,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "At Ecosia, we don\u2019t create personal profiles of you, but anonymize all searches after 7 days",
+            "conf": 0.9888171553611755,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Google has lots of other services (Android, Chrome, Gmail, YouTube, Google Analytics being used on other websites etc.), which means they can combine data from a lot of sources and create a detailed profile of you to show you personalized search results and advertisements.",
+            "conf": 0.9949354529380798,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "The data are deleted once they are no longer required to achieve the purpose of your gathering",
+            "conf": 0.993363082408905,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "It is possible to save the data for longer than this",
+            "conf": 0.9929921627044678,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In this case, the users\u2019 IP addresses are deleted or anonymised so that they can no longer be associated with the visiting client",
+            "conf": 0.986110270023346,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Persistent cookies are automatically deleted after a specified length of time, which may differ from one cookie to another",
+            "conf": 0.9988057017326355,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may delete the cookies in the security settings of your browser at any time",
+            "conf": 0.990565299987793,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The anonymised data is saved for as long as is necessary for the",
+            "conf": 0.9248310327529907,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "The data is not transferred to any third party",
+            "conf": 0.9705240726470947,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you do not confirm your registration within 24 hours, your information is locked and deleted automatically after one month",
+            "conf": 0.9465429186820984,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We explicitly do not give your email address to any third party",
+            "conf": 0.9995449185371399,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The other data gathered as part of your registration are generally deleted within a seven-day period",
+            "conf": 0.9999592900276184,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may unsubscribe from the newsletter at any time",
+            "conf": 0.9998933672904968,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "These data are saved for as long as they are required for evaluation of the survey, generally up to two years",
+            "conf": 0.998915433883667,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After this, they are deleted or anonymised",
+            "conf": 0.9170256853103638,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you do not confirm your registration within 24 hours, your information is locked and deleted automatically after one month",
+            "conf": 0.9465429186820984,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In this case, your data are locked and they are deleted automatically one month later",
+            "conf": 0.9994907379150391,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In all cases, your documents are deleted no later than one month after the end of the application process",
+            "conf": 0.9999955892562866,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The data arising in this context are deleted after their storage is no longer necessary or restricted if legal storage obligations exist",
+            "conf": 0.9999822974205017,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The anonymised data are saved for as long as is necessary for the evaluation",
+            "conf": 0.9450951814651489,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "The data are not transferred to any third party",
+            "conf": 0.9531928300857544,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "In some places, but never on search pages, Ecosia allows third-party providers to set cookies in order to check the success of Ecosia advertising campaigns",
+            "conf": 0.9432399272918701,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "declaration version date: 02/08/2018",
+            "conf": 0.9965919852256775,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Ecosia GmbH does not assume responsibility for the content of sites to which it links and the way in which search results are displayed",
+            "conf": 0.9985560178756714,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 8.5
+}

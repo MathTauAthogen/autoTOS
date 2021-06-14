@@ -1,0 +1,306 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "do not intentionally gather personal information from visitors who are under the age of 13",
+            "conf": 0.9998610615730286,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If a child under 13 submits personal information to the Company and we learn that the personal information is the information of a child under 13, we will attempt to delete the information as soon as possible",
+            "conf": 0.9983738660812378,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "In addition, we use \u201cPixel Tagsb\u201d (also referred to as clear Gifs, Web beacons, or Web bugs).",
+            "conf": 0.9999975562095642,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel Tags are tiny graphic images with a unique identifier, similar in function to Cookies that are used to track online movements of Web users.",
+            "conf": 0.9966599941253662,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In contrast to Cookies, which are stored on a user\u2019s computer hard drive, Pixel Tags are embedded invisibly in Web pages.",
+            "conf": 0.9942768812179565,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use a number of third party service provides, such as Google Analytics, to help analyze how users use the Service (\u201cAnalytics Companies\u201d).",
+            "conf": 0.9999997615814209,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These Analytics Companies uses Cookies to collect information such as how often users visit the Service, what features they use on our Application, and what other sites they used prior to coming to the Site.",
+            "conf": 0.98798006772995,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "This Policy does not apply to and we are not responsible for the Cookies used by these Analytics Companies",
+            "conf": 0.9959917664527893,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We will not sell your Curated Content to any third party.(c) Third Party Service ProvidersWe may share your personal information with third party service providers to: provide you with the Services that we offer you through our Site",
+            "conf": 0.9982830286026001,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that you are solely responsible for your use of those websites and that it is your responsibility to review the terms of use and privacy policy of the third party provider of such SNSs.",
+            "conf": 0.9943481087684631,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We will not be responsible or liable for: (i) the availability or accuracy of such SNSs",
+            "conf": 0.9614683985710144,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "may share some or all of your personal information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets",
+            "conf": 0.9954190850257874,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event of an insolvency, bankruptcy, or receivership, personal information may also be transferred as a business asset",
+            "conf": 0.9931967854499817,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If another company acquires our company, business, or assets, that company will possess the personal information collected by us and will assume the rights and obligations regarding your personal information as described in this Privacy Policy.(f",
+            "conf": 0.9450198411941528,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to \u201copt-out\u201d by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below",
+            "conf": 0.9999987483024597,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Changing or Deleting Your Personal InformationYou may change any of your personal information in your Account by clicking the \u201cErase account\u201d text within the \u201cOrganize\u201d page of your Account or by visiting",
+            "conf": 0.9908353686332703,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "feedly.com/i/erase and following the directions therein",
+            "conf": 0.9947258234024048,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You may requested deletion of your personal information by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).",
+            "conf": 0.9999998807907104,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When we delete any information, it will be deleted from the active database, but may remain in our archives",
+            "conf": 0.9999108910560608,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your personal information, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site and within our Application",
+            "conf": 0.9994248747825623,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site or within the Application",
+            "conf": 0.9999720454216003,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "THE TERMS OF USE INCLUDE A CLASS ACTION WAIVER AND A WAIVER OF JURY TRIALS, AND REQUIRE BINDING ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES",
+            "conf": 0.9998634457588196,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "PLEASE NOTE THAT THE TERMS ARE SUBJECT TO CHANGE BY THE COMPANY IN ITS SOLE DISCRETION AT ANY TIME",
+            "conf": 0.987301766872406,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "We will also update the \u201cLast Updated\u201d date at the top of the Terms of Use",
+            "conf": 0.9992439150810242,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to the Terms will be effective immediately for new users of the Service, and will be effective thirty (30) days after posting notice of such changes on the Website for existing users, provided that any material changes shall be effective for users who have an Account with us upon the earlier of thirty (30) days after posting notice of such changes on the Website or thirty (30) days after dispatch of an e- mail notice of such changes to Registered Users (defined in Section 2.1 below).",
+            "conf": 0.9994735717773438,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "You acknowledge and agree that the Company may update the Company Properties with or without notifying you",
+            "conf": 0.9718283414840698,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You represent that you are (x) at least thirteen (13) years old",
+            "conf": 0.99216228723526,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You may not share your Account or password with anyone, and you agree to (a) notify the Company immediately of any unauthorized use of your password or any other breach of security.",
+            "conf": 0.9984259009361267,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you do not wish your Account to renew automatically, or if you want to change or terminate your subscription, please log in and go to the \u201cChange/Cancel Membership\u201d page on your \u201cAccount Settings\u201d page",
+            "conf": 0.9978364109992981,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you cancel your subscription, you may use your subscription until the end of your then-current subscription term",
+            "conf": 0.9377393126487732,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "agree to indemnify and hold the Company, its parents, subsidiaries, affiliates, officers, employees, agents, partners and licensors (collectively, the \u201cCompany Parties\u201d) harmless from any losses, costs, liabilities and expenses (including reasonable attorneys\u2019 fees) relating to or arising out of: (a) your use of, or inability to use, the Company Properties",
+            "conf": 0.9986757636070251,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "EXPRESSLY UNDERSTAND AND AGREE THAT TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF THE COMPANY PROPERTIES IS AT YOUR SOLE RISK, AND THE COMPANY PROPERTIES ARE PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS, WITH ALL FAULTS",
+            "conf": 0.9948051571846008,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE COMPANY PARTIES MAKE NO WARRANTY, REPRESENTATION OR CONDITION THAT: (1) THE COMPANY PROPERTIES WILL MEET YOUR REQUIREMENTS",
+            "conf": 0.999838650226593,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(2) YOUR USE OF THE COMPANY PROPERTIES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE",
+            "conf": 0.9969852566719055,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "UNDERSTAND AND AGREE THAT IN NO EVENT SHALL COMPANY PARTIES BE LIABLE FOR ANY LOSS OF PROFITS, REVENUE OR DATA, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE COMPANY PROPERTIES, OR DAMAGES OR COSTS DUE TO LOSS OF PRODUCTION OR USE, BUSINESS INTERRUPTION, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR PERSONAL OR PROPERTY DAMAGE OR EMOTIONAL DISTRESS, WHETHER OR NOT COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, ARISING OUT OF OR IN CONNECTION WITH THE TERMS, OR FROM ANY COMMUNICATIONS, INTERACTIONS OR MEETINGS WITH OTHER USERS OF THE COMPANY PROPERTIES, ON ANY THEORY OF LIABILITY, RESULTING FROM: (1) THE USE OR INABILITY TO USE THE COMPANY PROPERTIES",
+            "conf": 0.9999971985816956,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "), the Company has the right to, immediately and without notice, suspend or terminate any Services provided to you",
+            "conf": 0.9050493836402893,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that all terminations for cause shall be made in the Company\u2019s sole discretion and that the Company shall not be liable to you or any third party for any termination of your Account.10.3 Termination of Services by YouIf you want to terminate the Services provided by the Company, you may do so by (a) notifying the Company at any time and (b) closing your Account for all of the Services that you use",
+            "conf": 0.9894056916236877,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Termination of all Services also includes deletion of your password and all related information, files and Content associated with or inside your Account (or any part thereof), including Your Content",
+            "conf": 0.9970158934593201,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You hereby release the Company Parties and their successors from claims, demands, any and all losses, damages, rights, and actions of any kind, including personal injuries, death, and property damage, that is either directly or indirectly related to or arises from your use of the Company Properties, including but not limited to, any interactions with or conduct of other Users or third-party websites of any kind arising in connection with or as a result of the Terms or your use of the Company Properties",
+            "conf": 0.9712947607040405,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In the event any litigation should arise between you and the Company in any state or federal court in a suit to vacate or enforce an arbitration award or otherwise, YOU AND THE COMPANY WAIVE ALL RIGHTS TO A JURY TRIAL, instead electing that the dispute be resolved by a judge",
+            "conf": 0.9452059268951416,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED OR LITIGATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS BASIS, AND CLAIMS OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR LITIGATED JOINTLY OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER",
+            "conf": 0.9999954104423523,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "A request for interim measures shall not be deemed a waiver of any other rights or obligations under this Arbitration Agreement",
+            "conf": 0.9861517548561096,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "any provision of the Terms is, for any reason, held to be invalid or unenforceable, the other provisions of the Terms will remain enforceable, and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by",
+            "conf": 0.9981443285942078,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.0
+}

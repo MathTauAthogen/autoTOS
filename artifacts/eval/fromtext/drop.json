@@ -1,0 +1,376 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "You represent that you are (1) at least 18 years of age, (2) of legal age to form a binding contract, and (3) not a person barred from receiving services under the laws of the United States or other applicable jurisdiction",
+            "conf": 0.9999967217445374,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Drop reserves the right to refuse or cancel any person\u2019s registration for this Site, remove any person from this Site and prohibit any person from using this Site for any reason whatsoever, and to limit or terminate your access to or use of the Site at any time without notice",
+            "conf": 0.9999810457229614,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible or liable for any content, advertising, products or other materials on or available from such sites or resources",
+            "conf": 0.9998723864555359,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Drop is not responsible or liable, directly or indirectly, for any damage, loss or liability caused or alleged to be caused by or in connection with any use of or reliance on any such content, products or services available on or through any such linked site or resource.",
+            "conf": 0.9971986413002014,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for protecting your login credentials, including any password",
+            "conf": 0.9966723322868347,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you will be responsible for any and all statements made, and acts or omissions that occur, through the use of your login credentials",
+            "conf": 0.9785417318344116,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Drop will communicate with you by email or by posting notices on this Site",
+            "conf": 0.9434305429458618,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify and hold harmless Drop from and against any and all fines, penalties, liabilities, losses and other damages of any kind whatsoever (including attorneys\u2019 and experts\u2019 fees), incurred by Drop and such parties, and shall defend Drop and such parties against any and all claims arising out of (1) your breach of these Terms and Use",
+            "conf": 0.9999936819076538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You represent that all of the information, data and other materials you provide on this Site or to Drop through any other means are true, accurate, current and complete",
+            "conf": 0.9999706149101257,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You represent that all of the information, data and other materials you provide on this Site or to Drop through any other means are true, accurate, current and complete",
+            "conf": 0.9999706149101257,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree to accept responsibility for all activities that occur under your account or password.",
+            "conf": 0.9893745183944702,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your account and password, and for restricting access to your account.",
+            "conf": 0.9982415437698364,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Drop membership at any time by contacting Drop Support",
+            "conf": 0.9991992712020874,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "You represent that all of the information, data and other materials you provide on this Site or to Drop through any other means are true, accurate, current and complete",
+            "conf": 0.9999706149101257,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Drop does not guarantee, however, that the descriptions are accurate, complete, reliable, current or error-free",
+            "conf": 0.9999916553497314,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We cannot, however, insure against pricing errors",
+            "conf": 0.9974609017372131,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Drop, in its sole discretion, may monitor, not post or remove any such content",
+            "conf": 0.9617176055908203,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "You acknowledge and agree that Drop may, in its sole discretion, modify, add or remove any portion of these Terms of Service at any time and in any manner, including the terms of Drop membership, by posting revised Terms of Service on the Site",
+            "conf": 0.9964331984519958,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "January 21st, 2013",
+            "conf": 0.9999934434890747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may also collect personal information from third parties, such as social networks",
+            "conf": 0.9579558372497559,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Personal information may be disclosed to third parties in connection with a transaction, such as a merger, sale of assets or shares, reorganisation, financing, change of control or acquisition of all or a portion of our business",
+            "conf": 0.9855200052261353,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "4.3 You can change your preferences about the notifications you receive by clicking the unsubscribe link at the bottom of our emails or logging into your account on our website and changing your preferences, although this will not unsubscribe you from administrative emails from us",
+            "conf": 0.9999852180480957,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "information for up to 6 years from the date of your",
+            "conf": 0.9150577783584595,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For all other categories of personal data, we will store it for no longer than necessary for the purposes set out above and in accordance with our legal obligations and legitimate business interests",
+            "conf": 0.9998394250869751,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "As we are located in the USA, any information",
+            "conf": 0.9531592130661011,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "will initially be collected and stored in the USA",
+            "conf": 0.9623530507087708,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You have the right, in some circumstances, to require us to erase your personal information without undue delay if the continued processing of that personal information is not justified",
+            "conf": 0.9820331335067749,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell (as such term is defined in the CCPA) the personal information we collect (and will not sell it without providing a right to opt out).",
+            "conf": 0.9925656914710999,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not \u201csell\u201d personal information as most people would typically understand that term",
+            "conf": 0.9999237060546875,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "However, we do allow certain third-party partners and providers to collect information about consumers directly through our services for purposes of analyzing and optimizing our services, delivering ads, providing content and ads that are more relevant, measuring statistics and the success of ad campaigns, and detecting and reporting fraud.",
+            "conf": 0.9903315305709839,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "We do not sell the personal information of consumers we know to be less than 16 years of age, unless we receive affirmative authorization (the \"Right to Opt In\") from either the minor who is between 13 and 16 years of age, or the parent or guardian of a minor less than 13 years of age.",
+            "conf": 0.9928683042526245,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 18 and you want to remove your name or comments from our website or publicly displayed content, please contact us directly via Drop Support or email us at privacy@drop.com",
+            "conf": 0.9998610019683838,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "5",
+            "text": "requires us to let you know how we respond to web browser \"Do Not Track\" (DNT) signals",
+            "conf": 0.9165382385253906,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Because there currently isn't an industry or legal standard to recognizing or honoring DNT signals, we don't respond to them at this time",
+            "conf": 0.9064208269119263,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use third-party analytics tools such as Google Analytics, to help us measure traffic and usage trends for the Online Services and to understand more about the demographics of our users.",
+            "conf": 0.9827740788459778,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Please be aware that advertisers and other third parties may use their own cookies tags when you click on an advertisement or link on our website",
+            "conf": 0.9524388909339905,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We also use clear gifs in HTML-based emails sent to our Customers to track which emails are opened and which links are clicked by recipients",
+            "conf": 0.9985496401786804,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "We are unable to respond to Do Not Track signals set by your browser at this time",
+            "conf": 0.9998196959495544,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "8.1 We participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements based on your browsing history",
+            "conf": 0.9963748455047607,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We permit third party online advertising networks, social media companies and other third party services to collect information about your use of our Service over time so that they may play or display ads on our Service, on other websites, apps or services you may use, and on other devices you may use.",
+            "conf": 0.9943550229072571,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "8.2 Typically, though not always, the information used for interest-based advertising is collected through cookies or similar tracking technologies.",
+            "conf": 0.9524479508399963,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We and our third party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research",
+            "conf": 0.9961082935333252,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "8.3 We may also use certain forms of display advertising and other advanced features through Google Universal Analytics, such as Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting",
+            "conf": 0.9957057237625122,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Doubleclick advertising cookie) or other third party cookies together to inform, optimise, and display ads based on your past visits to the Service.",
+            "conf": 0.9925035834312439,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at",
+            "conf": 0.9284703731536865,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "8.4 To learn about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit:",
+            "conf": 0.9725761413574219,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that opting-out of receiving interest-based advertising through the NAI\u2019s and DAA\u2019s or Your Online Choices online resources will only opt-out a user from receiving interest-based ads on that specific browser or device, but the user may still receive interest-based ads on his or her other devices",
+            "conf": 0.998758852481842,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.",
+            "conf": 0.9953680038452148,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "10.1 Our Service is not directed at persons under 16 years old and we do not knowingly collect personal information from anyone younger than 16 years old",
+            "conf": 0.9999754428863525,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update this privacy policy from time to time and so you should review this page periodically",
+            "conf": 0.9996012449264526,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will usually do this through email or by placing a notice on our Service",
+            "conf": 0.907645583152771,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this privacy policy",
+            "conf": 0.9798292517662048,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: January 7, 2020",
+            "conf": 0.9999523758888245,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.8
+}

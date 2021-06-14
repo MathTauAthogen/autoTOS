@@ -1,0 +1,187 @@
+{
+    "predictions": [
+        {
+            "label": "8",
+            "text": "DIY Tube cannot be held responsible for the content uploaded by its members",
+            "conf": 0.9999464154243469,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve all rights (but not the obligation) to remove and/or edit such content",
+            "conf": 0.9998499751091003,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DIY Tube cannot be held responsible for the accuracy, safety, usefulness or originality of any content found on the site",
+            "conf": 0.9883868098258972,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You also agree to hold harmless, to the extent permitted by law, DIY Tube Video Community and its partners and associated websites, regarding any and all matters related to your use of DIY Tube Video Community.&nbsp;By the use of this website you release us from all liability afforded to us under state and federal laws",
+            "conf": 0.9997385144233704,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "DIY Tube Video Community cannot be held responsible for any type of content shown by third party links or advertisers.",
+            "conf": 0.9802927374839783,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Members reserve the right to accept or remove any comments written on their video or channel space",
+            "conf": 0.9943857789039612,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "DIY Tube cannot be held liable for any content uploaded through its software",
+            "conf": 0.9998716115951538,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "DIY Tube will not be held responsible for abuse made by individual members of the community",
+            "conf": 0.9993224143981934,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "in DIY Tube Video Community is provided \u201cAS \u2013 IS\u201d with no warranty or guaranty of functionality",
+            "conf": 0.988136351108551,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If you are an owner of an account on this website, you are solely responsible for maintaining the confidentiality of your private user details (username and password).",
+            "conf": 0.9999891519546509,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all activities that occur under your account or password.",
+            "conf": 0.9853043556213379,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Do not give out or share your private account information to others",
+            "conf": 0.9978017210960388,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You may be held responsible for damages occurring from the misuse or abuse of your",
+            "conf": 0.9814022779464722,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve all rights to terminate accounts, edit or remove content and cancel orders at our sole discretion",
+            "conf": 0.999790608882904,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "DIY Tube cannot be held liable for loss of data or theft due to hacked accounts or weak passwords.",
+            "conf": 0.9904866814613342,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Frozen accounts will be retained for a period of time in order to allow the",
+            "conf": 0.9355721473693848,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "DIY Tube Video Community reserves the right to immediately terminate an account without warning for the protection of the community as a whole, if needed",
+            "conf": 0.9991185069084167,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "No guaranty of payment will be made at this time, nor can it be guaranteed in the future",
+            "conf": 0.9513360857963562,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Channel owners and video owners reserve the full right to modify, filter or delete any comments or content on their own channel which they deem unfit or in violation of their own freedom",
+            "conf": 0.9985791444778442,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to amend or modify these terms without prior notice",
+            "conf": 0.999580979347229,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "may place a tag (also called a \u201cweb beacon",
+            "conf": 0.9096212983131409,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": ") in HTML-based",
+            "conf": 0.912377655506134,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We will not be responsible for any personal information you post publicly",
+            "conf": 0.9993452429771423,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We will not be responsible for any harassment or misuse of information you post publicly on DIY TUBE",
+            "conf": 0.9997026324272156,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not use your email address or other personal information to send commercial or marketing messages without your consent",
+            "conf": 0.9306768178939819,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We may use cookies, web beacons, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit DIY TUBE",
+            "conf": 0.9861751198768616,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.9
+}

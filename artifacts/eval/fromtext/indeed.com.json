@@ -1,0 +1,1118 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Cookie Policy Last Updated: July 6,\u00a02018",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "When we use session cookies to track the total number of visitors to our Site, this is done on an anonymous aggregate basis (as cookies do not in themselves carry any personal data).",
+            "conf": 0.99764084815979,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Like most websites, we use cookies for a variety of purposes in order to improve your online experience, for analytics and for marketing, but specifically we use Cookies on the Site for the following purposes:",
+            "conf": 0.9999975562095642,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies from third-party partners such as Google and Facebook for marketing purposes",
+            "conf": 0.9992132186889648,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not share any personal information or information about individual user activities with these partner entities",
+            "conf": 0.9780786037445068,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Some of our cookie/device tracking happens via 3rd party vendors like SiftScience, other times we use our own indexes to identify activity related to specific cookies.",
+            "conf": 0.9788807034492493,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Indeed and Google use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our Site",
+            "conf": 0.9998388886451721,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of Google Analytics for Display Advertisers including AdWords and opt-out of customized Google Display Network ads by visiting the Google Ads Preferences Manager",
+            "conf": 0.9625785946846008,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "it is a unique user identifier 10 years Optimizely opt-out",
+            "conf": 0.9504237174987793,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "From time to time, it may be necessary for us to change this cookie policy",
+            "conf": 0.9649606943130493,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Policy Last Updated: July 6, 2018",
+            "conf": 0.985325276851654,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Indeed may amend this Privacy Policy at any time",
+            "conf": 0.9571225643157959,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Please review the \u201cLast Updated\u201d legend at the top of this page to determine when this Privacy Policy was last amended",
+            "conf": 0.9997967481613159,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Any changes to this Privacy Policy will become effective on the \u201cLast Updated\u201d date indicated above",
+            "conf": 0.9722860455513,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "In particular, Indeed shall not retain Personal Data for any longer than necessary for the purposes of performing the processing outlined in this Privacy Policy",
+            "conf": 0.9996147751808167,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When a",
+            "conf": 0.9289390444755554,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Seeker closes an account, the Job Seeker will no longer have access to any of the data we make available under that account name, including but not limited to,",
+            "conf": 0.9427652955055237,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "history,",
+            "conf": 0.9728825092315674,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ",",
+            "conf": 0.9741549491882324,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "the",
+            "conf": 0.9658894538879395,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ",",
+            "conf": 0.975581169128418,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ", and any other data associated with the account",
+            "conf": 0.9241109490394592,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Indeed reserves the right to keep any materials in a closed account as necessary to preserve and protect its rights to the extent permitted by law (for example, to preserve records of a dispute) or to comply with its obligations under local law (for example, if requested to retain by law enforcement).",
+            "conf": 0.9989736080169678,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "A closed account does not mean that all of the data is expunged from the Indeed systems, although it will not be readily available under the",
+            "conf": 0.9998748898506165,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Seeker",
+            "conf": 0.9323626160621643,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u2019s original account name",
+            "conf": 0.9992749094963074,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Employers may close an account at any time by contacting Indeed Customer Support",
+            "conf": 0.937192976474762,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The Site is not for use by anyone under the age of 16",
+            "conf": 0.999972403049469,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "To use the Site you agree that you must be the minimum age (described in this paragraph below) or older",
+            "conf": 0.9879372119903564,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The minimum age for these purposes shall be 16, however if local laws require that you must be older in order for Indeed to lawfully provide the services in the Site to you then that older age shall apply as the applicable minimum age",
+            "conf": 0.9999947547912598,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In all jurisdictions outside the European Union, if you are under the age of 18 or the age of majority in your jurisdiction, you must use Indeed under the supervision of your parent, legal guardian or responsible adult",
+            "conf": 0.9999991655349731,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Indeed may also share your information with third parties (including operators of third-party websites and/or social networking sites) in order to show you targeted advertisements and other content that has been customized for you",
+            "conf": 0.9850142598152161,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To unsubscribe at any time, reply to the text with STOP or contact Indeed Customer Support",
+            "conf": 0.9999002814292908,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "In the course of providing these services, those companies may have access to Personal Data, and this may involve transfers of such Personal Data to other countries",
+            "conf": 0.9938329458236694,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "However, we will not be liable (to the fullest extent permitted by law) for any damages that may result from the misuse of any information, including Personal Data, by these companies",
+            "conf": 0.9999510645866394,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "However, we will not be liable (to the fullest extent permitted by law) for any damages that may result from the misuse of any information, including Personal Data, by these companies",
+            "conf": 0.9999510645866394,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "Information collected pursuant to this Privacy Policy, including Personal Data, may be disclosed to one or more third parties in connection with any change of ownership or control in Indeed\u2019s business (whether by merger, sale, or otherwise), or any other reorganization or joint venture, or assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceeding), and any such information may be used by such third party in accordance with this Privacy Policy",
+            "conf": 0.9942001104354858,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Alternatively, if you do not wish to do this, you may make a formal request delete your Personal Data held by Indeed",
+            "conf": 0.9978246092796326,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In order to do so, please email to privacy-dept @ indeed.com from the email address associated with your account, and paste the following sentence in your email: \u201cI am requesting to delete my personal data.\u201d Once your request has been confirmed, Indeed will initiate the necessary steps to execute this exercise, including the deletion of your Indeed account.",
+            "conf": 0.9854175448417664,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "PLEASE NOTE: by requesting the deletion of your Personal Data, you will no longer be able to create an account with Indeed using the same email address.",
+            "conf": 0.9860266447067261,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you simply wish to close your account, please click the \u201cclose my account\u201d button in your account page",
+            "conf": 0.9999125599861145,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "We do not respond to the browser \u201cDo Not Track\u201d (DNT) signal if enabled by the user in their web browser",
+            "conf": 0.9999932646751404,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When we set or read cookies on non-Indeed sites that have integrated our job search and display features, we do so, for example, to provide a personalized job search experience to users on those sites",
+            "conf": 0.9862852096557617,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you no longer want to receive marketing materials from us based upon your Personal Data, going forward, you may opt out of receiving such marketing related messages by sending an email to opt-out @ indeed.com (remove spaces when sending email).",
+            "conf": 0.9999711513519287,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We may change this Agreement by notifying you of such changes by any reasonable means, including by posting a revised Agreement through the Site",
+            "conf": 0.9997848868370056,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "The \u201cLast Updated\u201d legends in each section of the terms and conditions indicate when this Agreement was last changed",
+            "conf": 0.9894108176231384,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may, at any time and without liability, modify or discontinue all or part of the Site (including access to the Site via any third-party links).",
+            "conf": 0.9999994039535522,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Indeed General Terms of Service Last Updated: June 22, 2018",
+            "conf": 0.9996590614318848,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Indeed does not have any obligation to screen any Job Listing, or to include any Job Listing in its search results or other listings, and may exclude or remove any Job Listing from the Site for any or no reason",
+            "conf": 0.9995478987693787,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Indeed assumes no responsibility, and disclaims all liability, for the content, accuracy, completeness, legality, reliability, or availability of any Job Listing",
+            "conf": 0.999600887298584,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that Indeed may reject or remove any Job Listing, any part of any",
+            "conf": 0.9520595669746399,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Page, or any questions for",
+            "conf": 0.9773833155632019,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Seekers for any or no reason",
+            "conf": 0.9655129313468933,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, and licensors from any third-party claim or liability (including without limitation reasonable legal fees) arising out of any Career Page\u00a0created by you, or any Job Listing or screener questions (or answers thereto) posted by you, or any message sent by you (including any questions for Job Seekers contained in any of the foregoing).",
+            "conf": 0.9999936819076538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Indeed assumes no responsibility, and disclaims all liability, for the content, accuracy, completeness, legality, reliability, or availability of any job listing, Career Page, job solicitation, screener question, answer to screener question, resume information you post, send or receive through the Site",
+            "conf": 0.99997878074646,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Once",
+            "conf": 0.909049928188324,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You the Employer agree to indemnify Indeed for any and all claims arising out of an",
+            "conf": 0.982677161693573,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Employer",
+            "conf": 0.9699214696884155,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s \u00a0use of a",
+            "conf": 0.9549062848091125,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Tool, including any claims that any",
+            "conf": 0.9409958720207214,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "tool does not comply with the Americans with",
+            "conf": 0.9285975098609924,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Act or that such",
+            "conf": 0.985866129398346,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ", does not guarantee their delivery or receipt, and does not guarantee the date or time at which they may be",
+            "conf": 0.9353960156440735,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "at any time",
+            "conf": 0.950275719165802,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Indeed reserves the right to change or remove these features at any time, in Indeed",
+            "conf": 0.9757437705993652,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "\u2019s sole discretion",
+            "conf": 0.9590932726860046,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that Indeed is not responsible or liable for any such third parties or for the availability of, or the materials located on or through, any External Sites",
+            "conf": 0.9145176410675049,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "We may stop offering any such third party sites or services at any time",
+            "conf": 0.9251521825790405,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are additionally not responsible for any payment that may be asked of you by such third party",
+            "conf": 0.9837014079093933,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Further, you agree to fully indemnify and defend Indeed for any claims arising out of your use of GoodHire\u2019s services or a background check provided to you by GoodHire",
+            "conf": 0.9892860054969788,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, you agree to fully indemnify and defend Indeed for any claims arising out of your agreement to allow a",
+            "conf": 0.9886012673377991,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to fully indemnify and defend Indeed for any claims arising out of your agreement to allow a",
+            "conf": 0.9892898797988892,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "to be conducted by GoodHire or any",
+            "conf": 0.9034026265144348,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right at all times (but will not have any obligation) to terminate users, and reclaim usernames or URLs, for any reason",
+            "conf": 0.9997967481613159,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Although Indeed has no obligation to do so, Indeed may monitor User Content, and reserves the right to delete any User Content or portion thereof that, in Indeed\u2019s sole discretion, violates the above rules, including any User Content that is unrelated to the specific portion of the Site on which it is posted, or that is an advertisement, recruiting or other commercial message, or that Indeed deems in its sole discretion to be inappropriate",
+            "conf": 0.996375560760498,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless Indeed and its affiliates from any claims resulting from any such User Content",
+            "conf": 0.9999827742576599,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you are solely responsible for (and that Indeed has no responsibility or liability to you or to any third party for) any breach of your obligations under this Agreement and for any consequences (including any loss or damage which Indeed may suffer) of any such breach",
+            "conf": 0.9997394680976868,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you so register, you agree to (a) provide true, accurate, current and complete information about yourself as prompted by our registration form (including your email address) and (b) be responsible for the confidentiality and use of your username and password, and not transfer or resell your use of or access to the Site to any third party.",
+            "conf": 0.9902396202087402,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Indeed is not responsible and disclaims all liability if your email is used improperly or falsely by a third party",
+            "conf": 0.9834867715835571,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You further agree to indemnify and hold harmless Indeed from any allegations, claims, actions, suits, demands, damages, liabilities, obligations, losses, settlements, judgments, costs and expenses (including without limitation attorneys\u2019 fees and costs) that result from the sharing of this data and access to your account",
+            "conf": 0.9999957084655762,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You agree that Indeed assumes no liability in regards to the accuracy of the statements above and that you are fully responsible for said accuracy",
+            "conf": 0.9704959988594055,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right at all times (but will not have an obligation) to terminate users or to reclaim usernames or URLs",
+            "conf": 0.9999004006385803,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Indeed disclaims any and all responsibility or liability for the accuracy, content, completeness, legality, reliability, operability or availability of information or material displayed in or linked from the Indeed search results (including Jobs Listings) or otherwise made available on the Site by Indeed or third parties (including User Content), regardless of whether paid for or used for free",
+            "conf": 0.9996819496154785,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Indeed disclaims any responsibility or liability for the accuracy, content, completeness or reliability of information provided by Indeed for informational purposes only, including but not limited to, Indeed Analytics data like",
+            "conf": 0.9946229457855225,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge you are not paying Indeed for the aforementioned information.\u00a0Indeed disclaims any responsibility for the deletion, failure to store, mis-delivery, or untimely delivery of any information, emails, attachments or material (including User Content).",
+            "conf": 0.994687557220459,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will Indeed be responsible for any loss or damage to any content or personal injury or death, resulting from anyone\u2019s use of the Site, Services, User Content, or third party applications, websites, software or content posted on or through the Site or transmitted to users or any interactions between users of the Site or Services, whether online or offline",
+            "conf": 0.9892217516899109,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE SITE, AND ALL MATERIALS, INFORMATION, ADVICE, JOB LISTINGS, CAREER GUIDE, USER CONTENT, PRODUCTS AND SERVICES AVAILABLE ON OR THROUGH THE SITE ARE PROVIDED \u201cAS IS,\u201d WITH NO WARRANTIES WHATSOEVER, EITHER EXPRESS OR IMPLIED",
+            "conf": 0.9998951554298401,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, DISCLAIM ANY WARRANTIES REGARDING THE SECURITY, RELIABILITY, TIMELINESS, AND PERFORMANCE OF THE SITE, AND ALL MATERIALS, INFORMATION, ADVICE, JOB LISTINGS, USER CONTENT, PRODUCTS AND SERVICES AVAILABLE ON OR THROUGH THE SITE",
+            "conf": 0.9984268546104431,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU UNDERSTAND AND AGREE THAT YOU DOWNLOAD OR OTHERWISE OBTAIN MATERIAL OR DATA THROUGH THE USE OF THE SITE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGES TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM DOWNLOADING OR OBTAINING ANY SUCH MATERIAL OR DATA.",
+            "conf": 0.999379575252533,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES SHALL INDEED OR ITS AFFILIATES, OR ITS OR THEIR THIRD-PARTY LICENSORS, BE LIABLE TO ANY USER ON ACCOUNT OF THAT USER",
+            "conf": 0.9145627021789551,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "SUCH LIMITATION OF LIABILITY SHALL APPLY TO PREVENT RECOVERY OF INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, AND PUNITIVE DAMAGES WHETHER SUCH CLAIM IS BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), INDEMNITY, OR OTHERWISE, EVEN IF INDEED OR ITS AFFILIATES, OR ITS OR THEIR THIRD-PARTY LICENSORS, HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY",
+            "conf": 0.9851555824279785,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "As partial consideration for your use of the Site and these services, you (either an Employer or Job Seeker) agree not to sue Indeed as a class plaintiff or class representative, join as a class member, or participate as an adverse party in any way in a class-action lawsuit against Indeed regarding your use of the Site",
+            "conf": 0.9999938607215881,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Apple is not responsible for maintenance or other support services for the App and shall not be responsible for any other claims, losses, liabilities, damages, costs or expenses with respect to the App, including any third-party product liability claims, claims that the App fails to conform to any applicable legal or regulatory requirement, claims arising under consumer protection or similar legislation, and claims with respect to intellectual property infringement",
+            "conf": 0.9901750683784485,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Site is not for use by anyone under the age of 16",
+            "conf": 0.999972403049469,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "To use the Site you agree that you must be the minimum age (described in this paragraph below) or older",
+            "conf": 0.9879372119903564,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The minimum age for these purposes shall be 16, however if local laws require that you must be older in order for Indeed to lawfully provide the services in the Site to you then that older age shall apply as the applicable minimum age",
+            "conf": 0.9999947547912598,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In all jurisdictions outside the European Union, if you are under the age of 18 or the age of majority in your jurisdiction, you must use Indeed under the supervision of your parent, legal guardian or responsible adult",
+            "conf": 0.9999991655349731,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Program Terms Last Updated: January 17, 2018",
+            "conf": 0.9926164150238037,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant that all information you provide to Indeed is correct and current",
+            "conf": 0.9945716857910156,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INDEED",
+            "conf": 0.9999146461486816,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u2019S PROVISION OF THE PROGRAM AND THE SITE IS PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9999343752861023,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITH RESPECT TO THE PROGRAM AND YOUR USE THEREOF, INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, EXPRESSLY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY THAT ANY EMAIL ADDRESS THAT HAS BEEN PROVIDED TO INDEED IS VALID, THAT ANY EMAIL SENT BY INDEED AT YOUR REQUEST WILL REACH THE INTENDED RECIPIENT, THAT ANY INTENDED RECIPIENT OF ANY SUCH EMAIL WILL READ SUCH EMAIL, OR THAT ANY SUCH INTENDED RECIPIENT WILL ACT UPON SUCH EMAIL",
+            "conf": 0.9887808561325073,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT FOR AMOUNTS PAYABLE PURSUANT TO SECTION 6 HEREUNDER AND FOR ANY BREACH BY YOU OF SECTION 1, TO THE FULLEST EXTENT PERMITTED BY LAW: (a) NEITHER PARTY WILL BE LIABLE UNDER THESE IRP TERMS FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.",
+            "conf": 0.9926947355270386,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, and licensors from any third-party claim or liability (including without limitation reasonable legal fees) arising out of any contact you have with the recipient (or intended recipient), any email you request to be sent pursuant to these IRP Terms, or any phone call or text message you make to a recipient",
+            "conf": 0.9999998807907104,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Indeed policies may be modified at any time",
+            "conf": 0.9945361018180847,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You shall protect your passwords and take full responsibility for your own, and third party, use of your accounts.",
+            "conf": 0.9953451752662659,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Unless otherwise stated in an Insertion Order or other agreement to advertise with Indeed, you may independently cancel online any advertisement at any time (such cancellation is generally effective within 24 hours).",
+            "conf": 0.9149787425994873,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Indeed may modify the Program or these IAP Terms at any time without liability and your use of the Program after notice that these IAP Terms have changed indicates acceptance of the updated IAP Terms",
+            "conf": 0.9987273216247559,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant that (x) all your information is correct and current",
+            "conf": 0.9907624125480652,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Violation of these policies may result in immediate termination of these IAP Terms or your account without notice, and may subject you to legal penalties and consequences",
+            "conf": 0.9990476369857788,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Indeed or Partners may reject or remove any Job Ad, and Indeed may disable any Employer\u2019s account, for any or no reason without notice",
+            "conf": 0.9956854581832886,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "By using NetVerify, you are submitting your identification documents for verification directly to NetVerify, you are agreeing to share your identification with NetVerify, and you agree that NetVerify is solely responsible for any use or loss of data",
+            "conf": 0.9974417686462402,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "INDEED",
+            "conf": 0.9999146461486816,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u2019S PROVISION OF THE PROGRAM AND THE SITE IS PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9999343752861023,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT FOR AMOUNTS PAYABLE PURSUANT TO SECTION 6 HEREUNDER, AND FOR ANY BREACH BY YOU OF SECTION 1, TO THE FULLEST EXTENT PERMITTED BY LAW: (a) NEITHER PARTY WILL BE LIABLE UNDER THESE IAP TERMS FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.",
+            "conf": 0.9949830174446106,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, licensors, and Partners from any third party claim or liability (including without limitation reasonable legal fees) arising out of your Program use, Creative, site or Your Services, or breach of these IAP Terms",
+            "conf": 0.9999999403953552,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Program Terms Last Updated: February 14, 2018",
+            "conf": 0.9797526597976685,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In order to participate as a publisher in the Program, all participants must be at least eighteen years of age",
+            "conf": 0.9997409582138062,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "shall be true, accurate and complete",
+            "conf": 0.9650097489356995,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Publisher hereby agrees to defend, indemnify and hold Indeed harmless from and against any claims, demands, liabilities, expenses, losses, damages and attorney fees arising from or relating to a violation or purported violation by Publisher of the AAUP",
+            "conf": 0.9999962449073792,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "As of March 3, 2017",
+            "conf": 0.9692241549491882,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "of March\u00a031, 2017",
+            "conf": 0.9971197247505188,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "of March\u00a031, 2017",
+            "conf": 0.9668835997581482,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "INDEED",
+            "conf": 0.9999233484268188,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u2019S PROVISION OF THE PROGRAM AND PROGRAM ELEMENTS (THE \u201cSERVICE\u201d) AND THE SITE IS PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9999369978904724,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "NEITHER INDEED NOR ITS AFFILIATES, OR ITS OR THEIR LICENSORS, MAKE ANY WARRANTY THAT (i) THE SERVICE OR SITE WILL MEET PUBLISHER",
+            "conf": 0.9943228363990784,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u2019S REQUIREMENTS",
+            "conf": 0.9681529402732849,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(ii) THE SERVICE OR ACCESS TO THE SITE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE",
+            "conf": 0.999925434589386,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NEITHER INDEED NOR ITS AFFILIATES, OR ITS OR THEIR LICENSORS, SHALL BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL OR OTHER DAMAGES INCURRED BY PUBLISHER FROM PARTICIPATION IN THE PROGRAM, WHETHER BASED IN CONTRACT (INCLUDING FUNDAMENTAL BREACH), TORT (INCLUDING NEGLIGENCE) OR OTHERWISE.",
+            "conf": 0.9979147911071777,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Terms Last Updated: May 8, 2018",
+            "conf": 0.9999983310699463,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Indeed does not guarantee that any Employer will receive, access, read or respond to any Response, or that there will be no mistakes in the transmission of the data",
+            "conf": 0.9881172180175781,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Whether you are a Candidate or Employer, you understand and agree that Indeed does not have any obligation to screen any Assessment or Response, or to include any Assessment or Response in the Site, and may exclude or remove any Assessment or Response from the Site for any or no reason without liability or notice",
+            "conf": 0.998304009437561,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Indeed will not be liable for any costs or damages arising out of or related to such transaction",
+            "conf": 0.9927432537078857,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Indeed assumes no responsibility, and disclaims all liability, for the content, accuracy, validity, completeness, legality, reliability, or availability of the Site, the Indeed Assessments tool, and any Assessment or Response",
+            "conf": 0.9999653100967407,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INDEED ASSESSMENTS AND ALL MATERIALS, INFORMATION, ASSESSMENTS, RESPONSES, PRODUCTS, AND SERVICES AVAILABLE ON OR THROUGH INDEED ASSESSMENTS, ARE PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS, WITH NO WARRANTIES WHATSOEVER, EITHER EXPRESS OR IMPLIED",
+            "conf": 0.9999769926071167,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INDEED EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING WITHOUT LIMITATION ANY WARRANTY THAT ANY ASSESSMENT OR RESPONSE THAT HAS BEEN PROVIDED TO INDEED IS VALID OR ACCURATE, THAT ANY COMMUNICATION (INCLUDING WITHOUT LIMITATION ASSESSMENTS AND RESPONSES) WILL REACH THE INTENDED RECIPIENT, THAT THE INTENDED RECIPIENT OF THE COMMUNICATION SENT AT YOUR REQUEST WILL READ IT, OR THAT THE INTENDED RECIPIENT OF YOUR COMMUNICATION WILL ACT UPON IT",
+            "conf": 0.9535715579986572,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INDEED DISCLAIMS ANY WARRANTY THAT INDEED ASSESSMENTS WILL BE ERROR-FREE OR UNINTERRUPTED OR THAT ALL ERRORS WILL BE CORRECTED",
+            "conf": 0.999873697757721,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT FOR YOUR BREACH OF SECTION 7 (CONFIDENTIALITY) OR INDEMNIFICATION AMOUNTS PAYABLE HEREUNDER, TO THE FULLEST EXTENT PERMITTED BY LAW: (a) NEITHER PARTY WILL BE LIABLE FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.",
+            "conf": 0.9954628348350525,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless Indeed from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney\u2019s fees) arising from: (a) your violation of any term of this Agreement",
+            "conf": 0.9984595775604248,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Indeed may suspend Indeed Assessments, the Site, your account, or any other provision of tools to you, and we may terminate this Agreement with you, at our sole discretion, at any time, with or without notice",
+            "conf": 0.9999743103981018,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to terminate this Agreement, you may do so by notifying Indeed at any time and closing your account",
+            "conf": 0.9832013249397278,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Terms Last Updated: April 6, 2018",
+            "conf": 0.9999966621398926,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Indeed will not be liable for any costs or damages arising out of or related to such transaction",
+            "conf": 0.9927432537078857,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to cancel your Subscription, you must do so no later than 15 days prior to the end of any Term",
+            "conf": 0.9374806880950928,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "INDEED EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY THAT THE CANDIDATE PROFILE INFORMATION THAT HAS BEEN PROVIDED TO INDEED IS VALID, THAT THE COMMUNICATION SENT BY AN",
+            "conf": 0.9028705358505249,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT FOR INDEMNIFICATION AMOUNTS PAYABLE TO THIRD PARTIES HEREUNDER, TO THE FULLEST EXTENT PERMITTED BY LAW: (a) NEITHER PARTY WILL BE LIABLE FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.",
+            "conf": 0.9994477033615112,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless Indeed from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney\u2019s fees) arising from: (a) your violation of any term of this Agreement",
+            "conf": 0.9984595775604248,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may suspend Indeed Prime, your account or any other provision of tools to you, and we may terminate this Agreement with you, at our sole discretion, at any time, with or without notice",
+            "conf": 0.9999577403068542,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to terminate this Agreement, you may do so by notifying Indeed Prime at any time and closing your account",
+            "conf": 0.9709441661834717,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Terms Last Updated: January 18, 2017",
+            "conf": 0.9999960064888,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Indeed policies may be modified at any time",
+            "conf": 0.9945361614227295,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You shall protect your passwords and take full responsibility for your own, and third party, use of your accounts.",
+            "conf": 0.9953451752662659,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Indeed may modify ITA or these ITA Terms at any time without liability, and your use of ITA after notice that these ITA Terms have changed indicates acceptance of the updated ITA Terms",
+            "conf": 0.9992822408676147,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant that (x) all your information is correct and current",
+            "conf": 0.9907622933387756,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Indeed or Partners may reject or remove any Targeted Ad, and Indeed may disable any Employer\u2019s account, for any or no reason without notice",
+            "conf": 0.9999112486839294,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INDEED",
+            "conf": 0.9999146461486816,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u2019S PROVISION OF THE PROGRAM AND THE SITE IS PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9999343752861023,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT FOR AMOUNTS PAYABLE PURSUANT TO SECTION 6 HEREUNDER, AND FOR ANY BREACH BY YOU OF SECTION 1, TO THE FULLEST EXTENT PERMITTED BY LAW: (a) NEITHER PARTY WILL BE LIABLE UNDER THESE IAP TERMS FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.",
+            "conf": 0.9949830174446106,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, licensors and Partners from any third party claim or liability (including without limitation reasonable legal fees) arising out of your ITA use, Creative, site or Your Services, or your breach of these ITA Terms",
+            "conf": 0.9999976754188538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.1
+}

@@ -55,27 +55,32 @@ if __name__ == "__main__":
         "twitter": ["https://twitter.com/en/tos", "https://twitter.com/en/privacy"],
         "duckduckgo": ["https://duckduckgo.com/privacy"],
         "spotify": ["https://www.spotify.com/us/legal/privacy-policy/",
-                    "https://www.spotify.com/us/legal/end-user-agreement/"]
+                    "https://www.spotify.com/us/legal/end-user-agreement/"],
+        "telegram": ["https://telegram.org/privacy"],
     }
 
-    predictor = Predictor("../nlp/checkpoints/model.ckpt")
+    with open("tos_urls.json", "w") as outfile:
+        json.dump(slug_to_url, outfile, indent=4)
 
-    for slug, urls in slug_to_url.items():
-        print(f"Parsing {slug} TOS")
-        try:
-            # capture text for agreements
-            agreements = ""
-            for url in urls:
-                agreements += tos_from_url(url)
-            with open(f"../artifacts/tos/fromsite/{slug}.txt", "w") as outfile:
-                outfile.write(agreements)
 
-            # get TOS prediction
-            tos_eval = predictor.predict(agreements)
+    # predictor = Predictor("../nlp/checkpoints/model.ckpt")
 
-            with open(f"../artifacts/eval/fromsite/{slug}.json", "w") as outfile:
-                json.dump(tos_eval, outfile, indent=4)
+    # for slug, urls in slug_to_url.items():
+    #     print(f"Parsing {slug} TOS")
+    #     try:
+    #         # capture text for agreements
+    #         agreements = ""
+    #         for url in urls:
+    #             agreements += tos_from_url(url)
+    #         with open(f"../artifacts/tos/fromsite/{slug}.txt", "w") as outfile:
+    #             outfile.write(agreements)
 
-        except Exception as e:
-            print(e)
-            continue
+    #         # get TOS prediction
+    #         tos_eval = predictor.predict(agreements)
+
+    #         with open(f"../artifacts/eval/fromsite/{slug}.json", "w") as outfile:
+    #             json.dump(tos_eval, outfile, indent=4)
+
+    #     except Exception as e:
+    #         print(e)
+    #         continue

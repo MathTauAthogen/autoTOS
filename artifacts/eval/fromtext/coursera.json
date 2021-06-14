@@ -1,0 +1,509 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "PolicyTerms of",
+            "conf": 0.9684942364692688,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "PolicyEffective: May 15, 2018",
+            "conf": 0.9433209300041199,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons are small graphic files linked to our servers that allow us to track your use of our Site and related functionalities",
+            "conf": 0.9999890923500061,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Cookies and web beacons allow Coursera to serve you better and more efficiently, and to personalize your experience on our Site",
+            "conf": 0.9986294507980347,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Coursera uses or may use cookies and/or web beacons to help us determine and identify repeat visitors, the type of content and sites to which a user of our Site links, the length of time each user spends at any particular area of our Site, and the specific functionalities that users choose to use.",
+            "conf": 0.9967144727706909,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third-party cookiesIn addition to our own cookies, we may also use various third-party cookies to report usage statistics of the Site and refine marketing efforts",
+            "conf": 0.9882797002792358,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective: July 11, 2018",
+            "conf": 0.9999911189079285,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "No Information From Children Under 13",
+            "conf": 0.9499585032463074,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We also use (or may use) cookies and web beacons when you visit our Site.",
+            "conf": 0.9810438752174377,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We may also archive this information and/or use it for future communications with you, where we are legally entitled to do so",
+            "conf": 0.9196058511734009,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Also, we may archive this information and/or use it for future communications with you, where we are legally entitled to do so",
+            "conf": 0.9691382646560669,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Your photo identification document will be deleted after successful verification of your profile information",
+            "conf": 0.975334107875824,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may also archive this information and/or use it for future communications with you where we are legally entitled to do so",
+            "conf": 0.9362075924873352,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "Coursera may disclose and/or transfer your Personally Identifiable Information to an acquirer, assignee or other successor entity in connection with a sale, merger, or reorganization of all or substantially all of the equity, business or assets of Coursera to which your Personally Identifiable Information relates",
+            "conf": 0.9960869550704956,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not endorse and are not responsible for the privacy practices of these Third Party Sites",
+            "conf": 0.9993980526924133,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Identifiable",
+            "conf": 0.9641470909118652,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "you reside or are located in the EEA, we keep your Personally Identifiable Information for no longer than necessary for the purposes for which the Personally Identifiable Information is processed",
+            "conf": 0.9970483779907227,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "\u2019s Sites are primarily operated and managed on servers located and operated within",
+            "conf": 0.9656267166137695,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "In order to provide our products and services to you, we may send and store your Personally Identifiable Information (also commonly referred to as personal data) outside of the country where you reside or are located, including to the United States",
+            "conf": 0.9999768733978271,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Accordingly, if you reside or are located outside of the United States, your Personally Identifiable Information may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection for your Personally Identifiable Information",
+            "conf": 0.9997991919517517,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "PolicyPlease note that we review our privacy practices from time to time, and that these practices are subject to change",
+            "conf": 0.9789666533470154,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you of any material change to this Privacy Policy by posting a notice on our Site\u2019s homepage for a reasonable period of time following such update, and by changing the effective date (located at the bottom of this page",
+            "conf": 0.9999927878379822,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "In line with this belief, we do not knowingly collect or maintain Personally Identifiable Information on our Site from persons under 13 years of age, and no part of our Site is directed to persons under 13 years of age",
+            "conf": 0.9999949336051941,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13 years of age, then please do not use or access this Site at any time or in any manner",
+            "conf": 0.999997079372406,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We will take appropriate steps to delete any Personally Identifiable Information of persons less than 13 years of age that has been collected on our Site without verified parental consent upon learning of the existence of such Personally Identifiable Information",
+            "conf": 0.9854470491409302,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of June 28, 2017",
+            "conf": 0.999992847442627,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You also have the ability to opt out at any time from the use of your personal information for direct marketing purposes",
+            "conf": 0.9999428391456604,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "In addition, we reserve the right to transfer Personal Information in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).",
+            "conf": 0.9999985694885254,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "To the extent necessary for those purposes, we will take reasonable steps to ensure that Personal Information is accurate, complete, current and reliable for its intended use",
+            "conf": 0.9991170167922974,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Policy from time-to-time in accordance with the requirements of the",
+            "conf": 0.9383229613304138,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "2018-07-11: Updated for",
+            "conf": 0.9784918427467346,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2018-05-16: Added table of contents and summary",
+            "conf": 0.9989502429962158,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2018-03-16: Updated for GDPR and removed",
+            "conf": 0.9372051358222961,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2015-11-04",
+            "conf": 0.9692317843437195,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2014-01-02: Initial revision",
+            "conf": 0.9949638247489929,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective: July 11, 2018",
+            "conf": 0.9999911189079285,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Coursera account",
+            "conf": 0.9524577260017395,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Any use or access by anyone under the age of 13 is prohibited, and certain courses may have additional requirements and/or restrictions",
+            "conf": 0.999984085559845,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You also agree that you will create, access, and/or use only one user account, and you will not share with any third party access to or access information for your account",
+            "conf": 0.9969826936721802,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to remove or modify User Content for any reason, including User Content that we believe violates these Terms",
+            "conf": 0.9926202893257141,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "While we work to protect the security of your account and related information, Coursera cannot guarantee that unauthorized third parties will not be able to defeat our security measures.",
+            "conf": 0.9839702844619751,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Accordingly, Coursera may terminate your use of any Service for any reason",
+            "conf": 0.9996386170387268,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "None of Coursera, its participating institutions and instructors, its contributors, sponsors, and other business partners, and their employees, contractors, and other agents (the \"Coursera Parties\") shall have any liability to you for any such action",
+            "conf": 0.9994773864746094,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can stop using our Services at any time, although we'll be sorry to see you go",
+            "conf": 0.9984145164489746,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "SERVICES AND ALL INCLUDED CONTENT ARE PROVIDED ON AN \"AS IS\" BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED",
+            "conf": 0.9999406337738037,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE COURSERA PARTIES FURTHER DISCLAIM ANY AND ALL LIABILITY RELATED TO YOUR ACCESS OR USE OF THE SERVICES OR ANY RELATED CONTENT",
+            "conf": 0.9544521570205688,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU ACKNOWLEDGE AND AGREE THAT ANY ACCESS TO OR USE OF THE SERVICES OR SUCH CONTENT IS AT YOUR OWN RISK.Limitation of LiabilityTO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COURSERA PARTIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM: (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES.",
+            "conf": 0.9979051947593689,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "BARRED.IndemnificationYou agree to indemnify, defend, and hold harmless the Coursera Parties from any and all claims, liabilities, expenses, and damages, including reasonable attorneys' fees and costs, made by any third party related to: (a) your use or attempted use of the Services in violation of these Terms",
+            "conf": 0.9221843481063843,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "reserve the right to revise the Terms at our sole discretion at any time",
+            "conf": 0.9994062781333923,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Any revisions to the Terms will be effective immediately upon posting by us",
+            "conf": 0.9241624474525452,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "For any material changes to the Terms, we will take reasonable steps to notify you of such changes",
+            "conf": 0.9852796792984009,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective: April 3rd, 2015",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Although we do not routinely screen or monitor content provided by users, we may remove or edit inappropriate content or activity reported to us or suspend, disable, or terminate a user's access to all or part of the Services",
+            "conf": 0.9997804164886475,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "to share content that",
+            "conf": 0.9029309749603271,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Please keep in mind that learners who are as young as 13 use Coursera, and we do not allow content that is inappropriate for these younger learners",
+            "conf": 0.9999802708625793,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Share your password, let anyone access your account, or do anything that might put your account at risk",
+            "conf": 0.9242439270019531,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of April 3rd, 2015",
+            "conf": 0.9999947547912598,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of May 15, 2018",
+            "conf": 0.9999955296516418,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of April 3, 2015",
+            "conf": 0.9999977350234985,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2018-07-11",
+            "conf": 0.9291195869445801,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2016-11-01",
+            "conf": 0.9847995638847351,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2015-04-03",
+            "conf": 0.9384805560112,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2014-09-12: Changed 'Terms of Service' to 'Terms of Use'",
+            "conf": 0.9978259801864624,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2014-01-02: Updated and moved privacy policy to a new page",
+            "conf": 0.9996778964996338,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2013-06-13",
+            "conf": 0.9086968302726746,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2013-06-05:",
+            "conf": 0.946275532245636,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2013-02-28: Changed effective dates",
+            "conf": 0.9999949336051941,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2012-12-22:",
+            "conf": 0.9148552417755127,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2012-09-20:",
+            "conf": 0.956559956073761,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2012-08-30: Added",
+            "conf": 0.9833329916000366,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2012-08-28",
+            "conf": 0.9587275385856628,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "2012-08-20: Added",
+            "conf": 0.9230999946594238,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.6
+}

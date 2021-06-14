@@ -1,0 +1,236 @@
+{
+    "predictions": [
+        {
+            "label": "14",
+            "text": "e) subject to your right to opt out and subject to applicable law, sending you newsletters and other promotional materials about services you may be interested in",
+            "conf": 0.9881877899169922,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "In addition, with respect to our newsletter, we require your express opt-in consent to receive these materials",
+            "conf": 0.9923048615455627,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain this information for as long as we continue to have a business need to do so (which will be at least as long as you continue to maintain an active account on the site or have travel arrangements pending), unless a longer period is required by law",
+            "conf": 0.9999720454216003,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "However, you are always permitted to opt-out of continuing to receive our newsletters",
+            "conf": 0.9999789595603943,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain this information for so long as we continue to have a business need to do so, unless a longer period is required by law",
+            "conf": 0.9997535943984985,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain this information only as long as necessary to complete your purchase, unless you have opted to save your billing information in your account",
+            "conf": 0.9972248077392578,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain this information for so long as we continue to have a business need to do so, unless a longer period is required by law",
+            "conf": 0.9997535943984985,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Note that while you can in some circumstances request removal of this type of information, as described in this privacy policy below, in some cases we may not be able to remove personal information voluntarily disclosed by you due to technical limitations (for example, the data may not be searchable).",
+            "conf": 0.999996542930603,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the personal information you choose to post in this manner",
+            "conf": 0.999984085559845,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We will retain this information for so long as we continue to have a business need to do so, taking into account our legal, accounting, and tax obligations, unless a longer period is required by law",
+            "conf": 0.9997071027755737,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain this information for so long as we continue to have a business need to do so, taking into account our legal, accounting, and tax obligations (which will be at least as long as we maintain a business relationship), unless a longer period is required by law",
+            "conf": 0.9999018311500549,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may share information, including personal information, in connection with, during negotiations of, or as a part of the closing of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company in which personal information about the users of our site is among the assets transferred",
+            "conf": 0.9871993064880371,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, rent, or lease any personal information that we collect about you through the site to anyone for any purpose, other than as disclosed, unless you have given us your separate express \u201copt-in\u201d consent to do so",
+            "conf": 0.9999806880950928,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may (directly or through third parties) use this information to analyze trends, administer our site, track users\u2019 movement around our site, and gather information.&nbsp",
+            "conf": 0.9850074052810669,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "site may use analytics tools and services to collect information about use of our site, such as how often users visit our site, what pages they visit when they do so, and what other sites they used prior to visiting our site",
+            "conf": 0.999788761138916,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use the information we collect from the analytics services to maintain and improve our sites and our products and",
+            "conf": 0.9995213747024536,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "services.&nbsp;The analytics services we use include Google Analytics, Facebook Ads, Content Square, Criteo, and others.&nbsp;",
+            "conf": 0.9927875399589539,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "As noted above, our site uses and allows certain third parties to use cookies",
+            "conf": 0.9942569136619568,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Some cookies are deleted once you close your browser or application (session cookies), while other cookies are retained even after you exit so that you can be recognized when you return (persistent cookies).",
+            "conf": 0.9978087544441223,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "As mentioned above, we use analytics services to analyze user behavior, so these third parties will place these types of cookies on our site.",
+            "conf": 0.9894049167633057,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "However, we do not currently commit to responding to browsers\u2019 DNT signals",
+            "conf": 0.9998306035995483,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Unfortunately, no electronic data transmission over the Internet can be guaranteed to be 100% secure",
+            "conf": 0.931163489818573,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "As a result, while we believe that we use reasonable measures to protect personal information, we cannot ensure or warrant the security of any information transmitted or otherwise provided to us or received from us",
+            "conf": 0.9830915331840515,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you have an account on our site, it is your responsibility for keeping the password confidential.",
+            "conf": 0.9931488037109375,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You can always opt out of receiving promotional communications such as our newsletters by selecting the \u201cunsubscribe\u201d link included in any email communications, or by contacting us at us at&nbsp;support@evaneos.com",
+            "conf": 0.9999701976776123,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to request any earlier removal of your personal information, please contact us",
+            "conf": 0.9380292296409607,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "at&nbsp;support@evaneos.com",
+            "conf": 0.9707165956497192,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that we may not be able to completely remove personal information from the site or our systems in certain circumstances",
+            "conf": 0.9971047043800354,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "In addition, although users of our site are required to be at least 18 years old, if any California residents under the age of 18 have improperly used the site, created an account, and posted content or information on the site, they can request removal by contacting us at&nbsp;support@evaneos.com, detailing where the content is posted and confirming that they posted it.",
+            "conf": 0.9919310212135315,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Right to Erasure \u2013&nbsp;this is the right to ask us to delete or remove your personal information from our systems.",
+            "conf": 0.9795081615447998,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly gather any personal information from children under the age of 13",
+            "conf": 0.9999102354049683,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We will post any changes we make to this privacy policy on this page, and any changes will be effective once the new policy is posted",
+            "conf": 0.972217321395874,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "You can determine when this privacy policy was last updated by referring to the \u201cLast Modified\u201d legend at the",
+            "conf": 0.9775620102882385,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 5.9
+}

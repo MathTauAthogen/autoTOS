@@ -1,0 +1,453 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "we don't sell it to third parties",
+            "conf": 0.9983073472976685,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We use common internet technologies, such as cookies and web server logs",
+            "conf": 0.9891500473022461,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service",
+            "conf": 0.9651885032653809,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "All of this information is entirely optional, and you have the ability to access, modify, and delete it at any time",
+            "conf": 0.9851239323616028,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to request erasure of data we process on the basis of consent, please",
+            "conf": 0.9228018522262573,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "What information Bitwarden does not collect  We do not intentionally collect sensitive personal information, such as social security numbers, genetic data, health information, or religious information",
+            "conf": 0.9910785555839539,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Although Bitwarden does not request or intentionally collect any sensitive personal information, we realize that you might store this kind of information in your account",
+            "conf": 0.9368624687194824,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you're a child under the age of 13, you may not have an account on Bitwarden",
+            "conf": 0.9999961853027344,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Bitwarden does not knowingly collect information from or direct any of our content specifically to children under 13",
+            "conf": 0.9998801946640015,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account",
+            "conf": 0.9973405599594116,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Other countries may have different minimum age limits, and if you are below the minimum age for providing consent for data collection in your country, you may not use Bitwarden without obtaining your parents' or legal guardians' consent",
+            "conf": 0.9959802627563477,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not share, sell, rent, or trade User Personal Information with third parties for their commercial purposes",
+            "conf": 0.999970555305481,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "However, we do not sell this information to advertisers or marketers",
+            "conf": 0.9992979168891907,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "While Bitwarden processes all User Personal Information in the United States, our third party vendors may process data outside of the United States or the European Union",
+            "conf": 0.9999901652336121,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may share User Personal Information if we are involved in a merger, sale, or acquisition",
+            "conf": 0.9467582702636719,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Data retention and deletion  Generally, Bitwarden will retain User Personal Information for as long as your account is active or as needed to provide you services",
+            "conf": 0.9999544620513916,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may retain certain User Personal Information indefinitely, unless you delete it or request its deletion",
+            "conf": 0.9993142485618591,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, we don't automatically delete inactive user accounts, so unless you choose to delete your account, we will retain your account information indefinitely",
+            "conf": 0.9406126737594604,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you would like to cancel your account or delete your User Personal Information, you may do so in your web vault settings",
+            "conf": 0.9999797344207764,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 30 days",
+            "conf": 0.9949439764022827,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use a number of third party analytics and service providers (such as Google Analytics) to help us evaluate our users' use of Bitwarden",
+            "conf": 0.9999070763587952,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "We do not currently respond to your browser's Do Not Track signal, and we do not permit third parties other than our analytics and service providers to track Bitwarden users' activity over time on Bitwarden",
+            "conf": 0.9729329347610474,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We store and process the information that we collect in the United States in accordance with this Privacy Statement (our subprocessors may store and process data outside the United States).",
+            "conf": 0.9999984502792358,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "There's an unsubscribe link located at the bottom of each of the marketing emails we send you",
+            "conf": 0.9999927878379822,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that you can not opt out of receiving important communications from us, such as mails from our support team or system emails",
+            "conf": 0.9934583306312561,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Our emails might contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is",
+            "conf": 0.9211639761924744,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Although most changes are likely to be minor, Bitwarden may change our Privacy Statement from time to time",
+            "conf": 0.9999346733093262,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "\u00a9 2015 - 2019",
+            "conf": 0.932274580001831,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We provide our service as is, and we make no promises or guarantees about this service",
+            "conf": 0.9999952912330627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for damages or losses arising from your use or inability to use the",
+            "conf": 0.9299948811531067,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "The Bitwarden Terms of Service Effective date: June 1, 2017 A.",
+            "conf": 0.9965965151786804,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "A User must be at least 13 years of age",
+            "conf": 0.9996603727340698,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "you must be 13 or over",
+            "conf": 0.9517640471458435,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You alone are responsible for your account and anything that happens while you are signed in to or using your account.",
+            "conf": 0.9976443648338318,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for keeping your account secure",
+            "conf": 0.9999938607215881,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be age 13 or older",
+            "conf": 0.9997979402542114,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Bitwarden does not target our Service to children under 13, and we do not permit any Users under 13 on our Service",
+            "conf": 0.9999923706054688,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we learn of any User under the age of 13, we will terminate that User's account immediately",
+            "conf": 0.9883705973625183,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for keeping your account secure while you use our Service",
+            "conf": 0.9999875426292419,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all content posted and activity that occurs under your account (even when content is posted by others who have accounts under your account).",
+            "conf": 0.9999982714653015,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the security of your account and password.",
+            "conf": 0.9813359975814819,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Bitwarden cannot and will not be liable for any loss or damage from your failure to comply with this security obligation",
+            "conf": 0.9961601495742798,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account",
+            "conf": 0.99521803855896,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may close your account at any time",
+            "conf": 0.9999765753746033,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Bitwarden",
+            "conf": 0.917615532875061,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can delete your account at any time by going into your web vault Settings",
+            "conf": 0.9999842047691345,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Bitwarden has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately",
+            "conf": 0.9997296929359436,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We provide our service as is, and we make no promises or guarantees about this service",
+            "conf": 0.9999943971633911,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Bitwarden provides the Website and the Service \"as is\" and \"as available,\" without warranty of any kind",
+            "conf": 0.9999960064888,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement",
+            "conf": 0.9998822808265686,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "that the Service will be uninterrupted, timely, secure, or error-free",
+            "conf": 0.999992311000824,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "that the information provided through the Service is accurate, reliable or correct",
+            "conf": 0.9999783039093018,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.",
+            "conf": 0.9866867661476135,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement",
+            "conf": 0.9958850741386414,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from",
+            "conf": 0.9999983906745911,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your use of the service",
+            "conf": 0.9554440379142761,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys' fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Bitwarden (1) promptly gives you written notice of the claim, demand, suit or proceeding",
+            "conf": 0.9999951720237732,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Bitwarden of all liability).",
+            "conf": 0.9439612627029419,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them",
+            "conf": 0.9975184202194214,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments",
+            "conf": 0.9989587068557739,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website",
+            "conf": 0.9998992681503296,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice",
+            "conf": 0.9999979138374329,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any failure on the part of Bitwarden to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision",
+            "conf": 0.9999957084655762,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "\u00a9 2015 - 2019",
+            "conf": 0.9316540360450745,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.1
+}

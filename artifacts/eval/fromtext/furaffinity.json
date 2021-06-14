@@ -1,0 +1,390 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Updated - 5/25/2018",
+            "conf": 0.9999814629554749,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Do not share or try to obtain private information",
+            "conf": 0.9964802861213684,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Affinity is \u00a9 2005-2018 IMVU",
+            "conf": 0.9585331082344055,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Server Local Time: Sep 23rd, 2018 04:09 PM",
+            "conf": 0.9903445839881897,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Policy Updated: 5/25/2018 1",
+            "conf": 0.9585093259811401,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Reminders may be removed and reposted only after 4 hours have elapsed",
+            "conf": 0.996951699256897,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "humanoids with a childlike body or younger than 18 years old,",
+            "conf": 0.9551498889923096,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "cannot contain characters under 18 or adolescent animals",
+            "conf": 0.9298516511917114,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Affinity is \u00a9 2005-2018 IMVU",
+            "conf": 0.9585331082344055,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Server Local Time: Sep 23rd, 2018 04:08 PM",
+            "conf": 0.9950869083404541,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated - 5/25/2018",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Affinity may need to update this Privacy Policy from time to time",
+            "conf": 0.9649109244346619,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The Site is not directed to children under the age of 13",
+            "conf": 0.9999768733978271,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Fur Affinity does not target its Site to children under 13",
+            "conf": 0.9999619722366333,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Fur Affinity does not knowingly collect personally identifiable information from children under the age of 13",
+            "conf": 0.9995334148406982,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 13, please do not provide us with any personally identifiable information",
+            "conf": 0.9999596476554871,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Please note: for users in the EU the minimum age to create an account is 16",
+            "conf": 0.9999929070472717,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Third party providers of external services that provide advertising, such as DoubleClick by Google, may track users over time and over our Site and third party apps or websites and such third parties may also place cookies, via our Site",
+            "conf": 0.9998109936714172,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may analyze this data for trends and statistics in the aggregate, and we may use such aggregate information to administer the Site, track users' movement, and gather broad demographic information for aggregate use",
+            "conf": 0.9999908804893494,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We will not sell your personally identifiable information to any company or organization, but we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Fur Affinity participates or to a purchaser or acquirer of all or substantially all of Fur Affinity's assets to which the Site relates",
+            "conf": 0.9999862909317017,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not disclose any personally identifiable information to third parties for their direct marketing purposes",
+            "conf": 0.9948086142539978,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will endeavor to destroy your information when we no longer have a legitimate business need to use it, except for backups that are archived and retained in the ordinary course of business",
+            "conf": 0.9999983310699463,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You have the right to obtain a copy of all personal data that Fur Affinity holds about you, such as personal details or correspondence, generally, within a 30 day time limit and free of charge",
+            "conf": 0.9930224418640137,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You have a right to request that Fur Affinity delete your personal data that it holds",
+            "conf": 0.9998379945755005,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This isn't an automatic right, and what Fur Affinity is able to delete will depend on the type of data that we hold about you, whether it was obtained via consent, what purpose it serves, and whether Fur Affinity has an obligation to keep the data, among other things.",
+            "conf": 0.9915301203727722,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Note that unless you request deletion, and such request is determined to be appropriate, while you remain a user, we'll process and retain your data as described in this Privacy Notice in order to enable you to use the Services.",
+            "conf": 0.9882966876029968,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once you stop being a user, we will hold your data as described in the data retention section",
+            "conf": 0.9931322336196899,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You have a right to withdraw your consent",
+            "conf": 0.9519472718238831,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Our computer systems and third party hosting provider systems are currently based in the United States and may be located in other countries, so your personal data will be processed by us in the U.S.",
+            "conf": 0.9999861717224121,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you create a user account with the Site as a visitor from outside the United States, by using the Site you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy",
+            "conf": 0.9991939663887024,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Affinity is \u00a9 2005-2018 IMVU",
+            "conf": 0.9585331082344055,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Server Local Time: Sep 23rd, 2018 04:07 PM",
+            "conf": 0.9777339100837708,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated: 5/25/2018 1",
+            "conf": 0.98907071352005,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "1.2Fur Affinity reserves the right to enforce these terms via content removal (submissions, journals, comments, etc), account suspension, and account termination at the discretion of its staff",
+            "conf": 0.9993623495101929,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we are not responsible for any loss of data, information, or financial hardships that may result from us enforcing these terms.",
+            "conf": 0.9809974431991577,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We reserve the right to remove content from the site and we are not liable for any lost content",
+            "conf": 0.999994695186615,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You have the right to appeal action taken against you",
+            "conf": 0.9942567944526672,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "2.1Fur Affinity reserves the right to change these documents at any time, without prior notice, and for any reason",
+            "conf": 0.9997539520263672,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "You will be notified of these changes via site announcements",
+            "conf": 0.9982637166976929,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to update site policy at any time",
+            "conf": 0.9999942779541016,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Most changes we make to the rules go into effect after 14 days of being announced, unless you are personally asked to agree immediately before continuing to use the website",
+            "conf": 0.9995107054710388,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "3.1By registering an account, you agree that you are at least thirteen (13) years of age in the US or are sixteen (16) if you are a resident of the EU",
+            "conf": 0.9999970197677612,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "No individual under the age of thirteen (13) may register an account, use our services, provide any personal information to Fur Affinity, or otherwise upload or transmit personal information through our services (Name, address, telephone number, email address, etc).",
+            "conf": 0.9999974370002747,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be a minimum of at least 13 years old to use this site",
+            "conf": 0.9997915625572205,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Due to various policies in the EU policy we require EU residents be at least 16 years or older",
+            "conf": 0.9999862313270569,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "3.7You agree that we reserve the right to remove, reclaim, or rename any account for any reason, such as violating site policy or having been abandoned by its owner",
+            "conf": 0.9978318214416504,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "All content and information contained within the account will be deleted before the transfer is complete",
+            "conf": 0.9990434050559998,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "5.1Our services may change without prior notice to you",
+            "conf": 0.9503076076507568,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may change, suspend, or discontinue any or all of our services at any time, including availability of any product, feature, database, and content (yours or ours).",
+            "conf": 0.9999995827674866,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If need be, we reserve the right to disable or remove features or even limit access to the site completely if need be",
+            "conf": 0.9995286464691162,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "5.2Fur Affinity's services are provided on an \"as is\" and \"as available\" basis",
+            "conf": 0.9804195165634155,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not warranty our services or content (yours or ours).",
+            "conf": 0.9998423457145691,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Sometimes the site may go offline",
+            "conf": 0.9208970665931702,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Affinity is \u00a9 2005-2018 IMVU",
+            "conf": 0.9585331082344055,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Server Local Time: Sep 23rd, 2018 04:06 PM",
+            "conf": 0.9922713041305542,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.6
+}

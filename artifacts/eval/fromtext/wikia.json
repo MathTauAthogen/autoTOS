@@ -1,0 +1,313 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Date of Last Revision: December 6, 2018",
+            "conf": 0.9999988079071045,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We will try to give you reasonable notice of any major changes",
+            "conf": 0.9919371008872986,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, at our sole discretion, to change, modify, add, or delete portions of this Agreement at any time and without further notice.",
+            "conf": 0.9869776964187622,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You confirm that you are of legal age to form a binding contract with the Company, or an emancipated minor, or have parental or legal guardian consent and are fully able and competent to enter into, and comply with, these Terms of Use",
+            "conf": 0.9999933242797852,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In any case, you confirm that you are 16 or older (applicable to users located in the European Economic Area (\u201cEEA\u201d) excluding the U.K.) or 13 or older (applicable to users located in the rest of the world including the U.K.), and acknowledge that the Service is not intended for children under such ages, as applicable.",
+            "conf": 0.9976596236228943,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In the EEA (excluding the UK), 16 or older",
+            "conf": 0.9983949661254883,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In the rest of the world (including the UK), 13 or older",
+            "conf": 0.9618069529533386,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You must not disclose it to any third party, and you agree to maintain the security of your password and identification and to be fully responsible for all use of your account and for any actions that take place using your account.",
+            "conf": 0.9993274807929993,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The Company may terminate your account, delete your profile and any content or information that you have posted on the Service and/or prohibit you from using or accessing the Service for any reason, or no reason, at any time in its sole discretion, with or without notice",
+            "conf": 0.9997658133506775,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You understand and agree that others may, but are not obligated to, edit, delete or remove (without notice) any Content from the Site, for any reason or no reason",
+            "conf": 0.9998200535774231,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no liability to you or any other person for loss, damage, or destruction to your Content",
+            "conf": 0.9999839067459106,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "The Company may also provide links to articles on third party websites, As set forth below under Disclaimers and Limitation of Liability, because Company has no control over such third party websites, the Company is not responsible for the availability of such websites and is not responsible for any content on such websites.",
+            "conf": 0.9898074269294739,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Solicit personal information from any user under the age of 18",
+            "conf": 0.9527899026870728,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "The Company is not responsible for the content or conduct, whether online or offline, of any user of the Service or other site or services that may be referenced, or linked to, in the Service",
+            "conf": 0.9989239573478699,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Because Company has no control over such sites and services, you acknowledge and agree that Company is not responsible for the availability of such external sites or services, and does not endorse and is not responsible or liable for any content, advertising, products or other materials on or available from such sites or services.",
+            "conf": 0.9954663515090942,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Service is provided \"as-is\" and \"AS AVAILABLE\".",
+            "conf": 0.9999993443489075,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Company does not and cannot guarantee any specific results from use of the Service",
+            "conf": 0.9997043609619141,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU ACKNOWLEDGE THAT YOU USE THIS SERVICE AT YOUR OWN RISK , and that the Company will not be liable to you for any loss or damage, whether in contract, tort, breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with these Terms of Use, including:",
+            "conf": 0.9999372363090515,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify the Company, its directors, employees, owners, agents, and users from any liability resulting from your use of this Service or its content or other materials thereon",
+            "conf": 0.9999660849571228,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event will the Company, its directors, employees, owners, agents, or users be liable to you or any third party for any indirect, incidental, consequential, special or punitive damages, including lost profit, goodwill, or other loss, be it tangible or intangible, arising from your use of the Service or any Content or other materials thereon, even if the Company has been advised or was otherwise aware of the possibility of such damage.",
+            "conf": 0.9983847141265869,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "IN ADDITION, THE COMPANY DOES NOT REPRESENT OR WARRANT TO YOU THAT (A) YOUR USE OF THE SERVICE WILL MEET YOUR REQUIREMENTS, BE THEY EXPRESS OR IMPLIED",
+            "conf": 0.9246123433113098,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree not to commence or prosecute any action in connection with your use of the Service other than in the state and federal courts of California, and you hereby consent to and waive all defenses of lack of personal jurisdiction and forum non conveniens with respect to venue and jurisdiction in the state and federal courts of California",
+            "conf": 0.9595126509666443,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the Company does not exercise or enforce any right, remedy, or provision of these Terms of Use, this shall not constitute a waiver of such right or provision in that or any other instance",
+            "conf": 0.9999961853027344,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Date of Last Revision: December 6, 2018",
+            "conf": 0.999998927116394,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 16 (applicable to users located in the EEA excluding the U.K.) or 13 (applicable to users located in the rest of the world including the U.K.), you may not use the Website unless your parent or an authorized individual with parental responsibility has provided us with their consent for your use of our Website",
+            "conf": 0.9999998807907104,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Our Website also uses cookies to collect information about you and to distinguish you from other users of our Website",
+            "conf": 0.9258672595024109,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our Website works with third parties, including advertising companies and website analysis firms, who use cookies to collect information when you visit our Website and third party sites about your browsing activities, such as IP address and user search history data.",
+            "conf": 0.9833143353462219,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This information, collected through cookies, is typically used by these third party advertising networks to serve you with advertisements tailored to meet your preferences and likely interests",
+            "conf": 0.998396635055542,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "\u2019s ADX, which uses cookies to collect information about your browsing history to target advertising",
+            "conf": 0.9844892024993896,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Salesforce is an NAI member and, as stated below, you may use the NAI opt-out tool to cease our use of the Krux data for the purpose of sending you personalized advertisements",
+            "conf": 0.9954727292060852,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of receiving personalized website ads from advertisers and ad networks that are members of the Network Advertising Initiative (\u201cNAI\u201d) or who follow the DAA Self-Regulatory Principles for Online Behavioral Advertising using their respective opt-out tools",
+            "conf": 0.9274775385856628,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "The NAI's opt-out tool can be found here NAI opt-out and the DAA's opt out tool can be found here Choices",
+            "conf": 0.9948641061782837,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Note that opting-out may not stop information from being collected on the web and will not stop your receiving advertising",
+            "conf": 0.9989575743675232,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "However, if you opt-out, the applicable advertiser will not use any information collected from our applicable Website or mobile app for the purpose of displaying personalized ads",
+            "conf": 0.9936646223068237,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We also collect anonymized details about visitors to our website for the purposes of aggregate statistics or reporting purposes",
+            "conf": 0.9456117749214172,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Where we have given you, or where you have chosen, a password that enable you to access certain parts of our Website, you are responsible for keeping this confidential.",
+            "conf": 0.9825558662414551,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Subject to the rights of users located in the EEA as described below, we will retain information (including personal information) for as long as we need to use it for the reasons set out in this privacy policy and will delete it after that time except where we need to keep any personal information to comply with our legal obligations, resolve disputes, or enforce our agreements.",
+            "conf": 0.9922266006469727,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Please note that this privacy policy applies only to the personal information that we collect through our Website and we cannot be responsible for personal information that third parties may collect, store and use through their websites",
+            "conf": 0.9422947764396667,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "The right to ask us to update or correct any out-of-date or incorrect personal information that we hold about you (in accordance with applicable data protection laws",
+            "conf": 0.9399003386497498,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "The rights to request that we stop using or delete your personal information (in certain circumstances we may not be able to stop using your personal information but if that is the case, we will let you know why).",
+            "conf": 0.9999462366104126,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "The right to opt out of any marketing communications that we (or any third party to whom we have disclosed your personal information with your consent) may send you",
+            "conf": 0.9853926301002502,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please also note for security and fraud investigation and prevention purposes, we will retain the full IP address for users located in the EEA for up to 12 months",
+            "conf": 0.9045450687408447,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Where personal information is held by us, it is held in the U.S.A.",
+            "conf": 0.9997599124908447,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We will also transfer the personal information that we collect about you to third party processors located in countries that are outside the EEA, or to members of our group of companies in connection with the above purposes",
+            "conf": 0.9991766810417175,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.1
+}

@@ -1,0 +1,89 @@
+{
+    "predictions": [
+        {
+            "label": "10",
+            "text": "shall be retained as long as needed to fulfill such purposes",
+            "conf": 0.9124746322631836,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn",
+            "conf": 0.9999434947967529,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.",
+            "conf": 0.9866081476211548,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once the retention period expires, Personal Data shall be deleted",
+            "conf": 0.9999585747718811,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period",
+            "conf": 0.9993179440498352,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Inc.)Google Analytics is a web analysis service provided by Google Inc.",
+            "conf": 0.946498692035675,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google utilizes the Data collected to track and examine the use of this website, to prepare reports on its activities and share them with other Google services",
+            "conf": 0.9982003569602966,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google may use the Data collected to contextualize and personalize the ads of its own advertising network.",
+            "conf": 0.9674324989318848,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Have their Personal Data deleted or otherwise removed",
+            "conf": 0.9999254941940308,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.",
+            "conf": 0.975813090801239,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this website and/or \u2013 as far as technically and legally feasible \u2013 sending a notice to Users via any contact information available to the Owner",
+            "conf": 0.9991123080253601,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: 25 May",
+            "conf": 0.9999977946281433,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 6.4
+}

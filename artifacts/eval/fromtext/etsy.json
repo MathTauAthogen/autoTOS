@@ -1,0 +1,1055 @@
+{
+    "predictions": [
+        {
+            "label": "10",
+            "text": "Persistent cookies are stored on your browser cache or mobile device until you choose to delete them, and otherwise typically delete themselves at expiration",
+            "conf": 0.9954258799552917,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "In addition to cookies, there are other similar technologies used by Etsy and elsewhere on the web or in mobile ecosystems",
+            "conf": 0.9476757645606995,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons: These are tiny graphics (sometimes called \u201cclear GIFs\u201d or \u201cweb pixels\u201d) with a unique identifier that are used to understand browsing activity.",
+            "conf": 0.9901688098907471,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In contrast to cookies, which are stored on a user's computer hard drive, web beacons are rendered invisibly on web pages when you open a page.",
+            "conf": 0.996224045753479,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Like mobile identifiers, internet-connected devices such as voice activated assistants or smart TVs may send identifiers and other data analogous to web browsers or mobile SDKs.",
+            "conf": 0.9855471253395081,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "The Site employs Google Analytics to help understand how Etsy is used by its community",
+            "conf": 0.9998791813850403,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "\u2019s first-party data and third-party cookies (like Google",
+            "conf": 0.9043502807617188,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Etsy partners with third-party service providers that may use various Cookie Technologies to permit us and them to learn about which ads you see and click when you visit Etsy, the Apps, and affiliated sites or to show you ads on and off Etsy",
+            "conf": 0.9871009588241577,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Some third-party service providers may provide information like demographics, cross-device information, or interest categories from a combination of sources that, while not identifying you personally, permit us to provide you with more relevant and useful advertising",
+            "conf": 0.9877223372459412,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "computer, mobile device or network device (like an IoT device such as a voice-activated assistant or smart TV",
+            "conf": 0.9161373376846313,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "However, these technologies may allow us or a third party to recognize you, either from a single device or across devices, over time",
+            "conf": 0.9932173490524292,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "For Google Analytics Advertising Features, you can opt-out through Google Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out listed above).",
+            "conf": 0.989790678024292,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Various third parties provide browser plug-ins and apps that can help provide you information on and limit or block third-party cookies, web beacons, and some Javascript-based technologies.",
+            "conf": 0.9980970025062561,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on Jun 25, 2019",
+            "conf": 0.9999986290931702,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the content or the privacy policies or practices of any of our members, websites hosted through Pattern by Etsy, third-party websites, or third-party apps.",
+            "conf": 0.9975611567497253,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Etsy\u2019s Terms of Use require all account owners to be at least 18 years of age",
+            "conf": 0.9999319911003113,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minors under 18 years of age and at least 13 years of age are permitted to use Etsy's Services only if they have the appropriate permission and direct supervision by the owner of the account",
+            "conf": 0.999997615814209,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children under age 13 are not permitted to use Etsy or the Services",
+            "conf": 0.999991774559021,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for any and all account activity conducted by a minor on your account",
+            "conf": 0.9954411387443542,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "We will transfer personal information only to those countries to which we are permitted by law to transfer personal information, and we will take steps to ensure that your personal information continues to enjoy appropriate protections",
+            "conf": 0.9735018610954285,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may collect information about your use of the Services for advertising, for analytics, to serve content, and to protect the Services",
+            "conf": 0.9965482950210571,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can also request the deletion of the personal information in your account",
+            "conf": 0.9997653961181641,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "(iii) data deletion (including the right to have Etsy delete your personal information, except information we are required to retain by law, regulation, or to protect the safety, security, and integrity of Etsy, by contacting us).",
+            "conf": 0.9999993443489075,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We use non-technically necessary cookies and similar technologies.",
+            "conf": 0.963606595993042,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our third-party partners may use cookies or similar technologies in order to provide you with advertising based upon your browsing activities and interests.",
+            "conf": 0.9771184325218201,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you no longer wish to use the Services or receive service-related messages (except for legally required notices), then you may close your account",
+            "conf": 0.9766635894775391,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Click here to learn how to close your account",
+            "conf": 0.9328582286834717,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of receiving marketing communications via email or Conversations in your account settings or by following the unsubscribe link in any marketing email you receive",
+            "conf": 0.9999927878379822,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "When you register for an account, subscribe to a newsletter, or provide us with your email address or phone number such as for a Guest Checkout purchase, you receive notice of and agree (in some jurisdictions and situations, by an additional unambiguous consent) to receive marketing emails and messages from us",
+            "conf": 0.935078501701355,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe at any time from marketing emails or messages through the opt-out link included in marketing emails or messages",
+            "conf": 0.9999908804893494,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Etsy generally does not remove content from community spaces, and your posts may remain public after your account is closed, although your name will no longer be displayed alongside the post",
+            "conf": 0.9733462333679199,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Etsy will not disclose your name, email address, or other personal information to third parties without your consent, except as specified",
+            "conf": 0.9444398283958435,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "As part of this, we may work with advertising partners such as Facebook or Google, and we may use analytics aggregated from usage information including, for example, search keywords, favorites, browsing history, and purchase history.",
+            "conf": 0.9860689640045166,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "These third parties have only limited access to your information, may use your information only to perform these tasks on our behalf, and are obligated to Etsy not to disclose or use your information for other purposes",
+            "conf": 0.9870316982269287,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "In these types of transactions (such as a sale, merger, liquidation, receivership, or transfer of all or substantially all of Etsy\u2019s assets), member information is typically one of the business assets that is transferred",
+            "conf": 0.9781259298324585,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the full extent applicable in your jurisdiction, Etsy is not responsible for the privacy or security practices of these sellers, API users, or other websites on the internet, even those linked to or from the Services",
+            "conf": 0.9818372130393982,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "To the extent that Etsy is deemed to transfer personal information outside of the EEA, we rely separately, alternatively, and independently on the following legal bases to transfer your information:",
+            "conf": 0.9917071461677551,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "However, Etsy Ireland UC may rely on the EU-US Privacy Shield to transfer personal information to some of our third party service providers in the United States, where they are certified to receive such information under the Privacy Shield Program",
+            "conf": 0.9722118377685547,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "As we operate in countries worldwide (including in the US) and use technical infrastructure in the US to deliver the Services to you, in accordance with the contract between us, we need to transfer your personal information to the US and to other jurisdictions as necessary to provide the Services",
+            "conf": 0.9999889135360718,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "It is important that you protect against unauthorized access to your account and information by choosing your password carefully and by keeping your password and computer secure, such as by signing out after using the Services.",
+            "conf": 0.9926103353500366,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Etsy will retain your information only for as long as is necessary for the purposes set out in this policy, for as long as your account is active (i.e., for the lifetime of your Etsy member account), as described in this policy, or as needed to provide the Services to you",
+            "conf": 0.9999761581420898,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "These log files are generally retained for a brief period of time, except in cases where they are used for site safety and security, to improve site functionality, or we are legally obligated to retain them for longer time periods",
+            "conf": 0.9999833106994629,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to manage, change, limit, or delete your personal information, you can do so via your Etsy account settings or by contacting us",
+            "conf": 0.985588014125824,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "&nbsp;By visiting your account settings, you can access, correct, change, and delete certain personal information associated with your account",
+            "conf": 0.9275752305984497,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In certain circumstances, you also have the right to request the deletion of your personal information, and to obtain a copy of your personal information in an easily accessible format.",
+            "conf": 0.9827156066894531,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Where we use your personal data for direct marketing purposes, you can always object using the unsubscribe link in such communications or changing your account settings",
+            "conf": 0.9999961853027344,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This process may take up to approximately two weeks after which your account will be deleted to the extent permitted",
+            "conf": 0.9205554723739624,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Depending on which of our Services you've used (such as whether you've made purchases or sales on Etsy), we may be required to retain certain information for legal, regulatory, tax, security, or compliance reasons for a limited period of time, after which it will be deleted.",
+            "conf": 0.9907530546188354,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or update this policy from time to time",
+            "conf": 0.9993118047714233,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "LoCall: 1890 25 22 31",
+            "conf": 0.9990973472595215,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on Jun 25, 2019",
+            "conf": 0.9999986290931702,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "This policy was published on June 25, 2019",
+            "conf": 0.9999977946281433,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "It will take effect on July 25, 2019",
+            "conf": 0.9999465942382812,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "By agreeing to the Terms, you agree to resolve all disputes through binding individual arbitration, which means that you waive any right to have those disputes decided by a judge or jury, and that you waive your right to participate in class actions, class arbitrations, or representative actions",
+            "conf": 0.9999856352806091,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You must be 18 years or older to use our Services",
+            "conf": 0.9999982714653015,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minors under 18 and at least 13 years of age are only permitted to use our Services through an account owned by a parent or legal guardian with their appropriate permission and under their direct supervision",
+            "conf": 0.9999985694885254,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children under 13 years are not permitted to use Etsy or the Services",
+            "conf": 0.9999924302101135,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for any and all account activity conducted by a minor on your account",
+            "conf": 0.9954410791397095,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You're responsible for your account",
+            "conf": 0.9999696612358093,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You\u2019re solely responsible for any activity on your account",
+            "conf": 0.9796032309532166,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you",
+            "conf": 0.9394895434379578,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "\u2019re sharing an account with other people, then the person whose financial information is on the account will ultimately be responsible for all activity",
+            "conf": 0.9628581404685974,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "As we mentioned above, you\u2019re solely responsible for any activity on your account, so it\u2019s important to keep your account password secure.",
+            "conf": 0.9982244968414307,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand that you are solely responsible for Your Content",
+            "conf": 0.9976344108581543,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "We'd hate to see you go, but you may terminate your account with Etsy at any time from your account settings",
+            "conf": 0.9998157620429993,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate or suspend your account (and any related accounts) and your access to the Services at any time, for any reason, and without advance notice",
+            "conf": 0.9990130662918091,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Etsy may refuse service to anyone, at any time, for any reason",
+            "conf": 0.9664283990859985,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you or Etsy terminate your account, you may lose any information associated with your account, including Your Content",
+            "conf": 0.9924831390380859,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Etsy reserves the right to change, suspend, or discontinue any of the Services at any time, for any reason",
+            "conf": 0.9999901652336121,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "the items in our marketplaces are produced, listed, and sold directly by independent sellers, so Etsy cannot and does not make any warranties about their quality, safety, or even their legality",
+            "conf": 0.9906473159790039,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that Etsy does not make any warranties with respect to your Gift Card balance and is not responsible for any unauthorized access to, or alteration, theft, or destruction of a Gift Card or Gift Card code that results from any action by you or a third party.",
+            "conf": 0.9882449507713318,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "ETSY IS DEDICATED TO MAKING OUR SERVICES THE BEST THEY CAN BE, BUT WE\u2019RE NOT PERFECT AND SOMETIMES THINGS CAN GO WRONG",
+            "conf": 0.9807800054550171,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU UNDERSTAND THAT OUR SERVICES ARE PROVIDED \u201cAS IS\u201d AND WITHOUT ANY KIND OF WARRANTY (EXPRESS OR IMPLIED).",
+            "conf": 0.9999985098838806,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE DO NOT GUARANTEE THAT: (I) THE SERVICES WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR LOCATION",
+            "conf": 0.9999967813491821,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY LAW, NEITHER ETSY, NOR OUR EMPLOYEES OR DIRECTORS SHALL BE LIABLE TO YOU FOR ANY LOST PROFITS OR REVENUES, OR FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE SERVICES OR THESE TERMS.",
+            "conf": 0.9990313053131104,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "We hope this never happens, but if Etsy gets sued because of something that you did, you agree to defend and indemnify us",
+            "conf": 0.9920050501823425,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "That means you\u2019ll defend Etsy (including any of our employees) and hold us harmless from any legal claim or demand (including reasonable attorney\u2019s fees) that arises from your actions, your use (or misuse) of our Services, your breach of the Terms, or your account\u2019s infringement of someone else\u2019s rights",
+            "conf": 0.999985933303833,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We reserve the right to handle our legal defense however we see fit, even if you are indemnifying us, in which case you agree to cooperate with us so we can execute our strategy",
+            "conf": 0.9504417181015015,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any arbitration under the Terms will take place on an individual basis \u2014 class arbitrations and class actions are not permitted",
+            "conf": 0.9999969005584717,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You understand that by agreeing to the Terms, you and Etsy are each waiving the right to trial by jury or to participate in a class action or class arbitration",
+            "conf": 0.9999995231628418,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "section at least 30 days prior to the date the change will become effective",
+            "conf": 0.9569408297538757,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may update these Terms from time to time",
+            "conf": 0.9997797012329102,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to enforce any part of the Terms is not a waiver of our right to later enforce that or any other part of the Terms",
+            "conf": 0.9999961853027344,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on Jun 25, 2019",
+            "conf": 0.9999986290931702,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "By agreeing to the Terms, you agree to resolve all disputes through binding individual arbitration, which means that you waive any right to have those disputes decided by a judge or jury, and that you waive your right to participate in class actions, class arbitrations, or representative actions",
+            "conf": 0.9999856352806091,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You must be 18 or older to use our Services",
+            "conf": 0.999998927116394,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minors under 18 and at least 13 years of age are only permitted to use our Services through an account owned by a parent or legal guardian with their appropriate permission and under their direct supervision",
+            "conf": 0.9999985694885254,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children under 13 are not permitted to use Etsy or the Services",
+            "conf": 0.9999923706054688,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for any and all account activity conducted by a minor on your account",
+            "conf": 0.9954410791397095,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your account",
+            "conf": 0.9999750256538391,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You\u2019re solely responsible for any activity on your account",
+            "conf": 0.9796032309532166,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "As we mentioned above, you\u2019re solely responsible for any activity on your account, so it\u2019s important to keep your account password secure.",
+            "conf": 0.9982244968414307,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand that you are solely responsible for Your Content",
+            "conf": 0.9976344108581543,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "We'd hate to see you go, but you may terminate your account with Etsy at any time from your account settings",
+            "conf": 0.9998157620429993,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate or suspend your account (and any related accounts) and your access to the Services at any time, for any reason, and without advance notice",
+            "conf": 0.9990130662918091,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Etsy may refuse service to anyone, at any time, for any reason",
+            "conf": 0.9664283990859985,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you or Etsy terminate your account, you may lose any information associated with your account, including Your Content",
+            "conf": 0.9924831390380859,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Etsy reserves the right to change, suspend, or discontinue any of the Services at any time, for any reason",
+            "conf": 0.9999901652336121,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "the items in our marketplaces are produced, listed, and sold directly by independent sellers, so Etsy cannot and does not make any warranties about their quality, safety, or even their legality",
+            "conf": 0.9906473159790039,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that Etsy does not make any warranties with respect to your Gift Card balance and is not responsible for any unauthorized access to, or alteration, theft, or destruction of a Gift Card or Gift Card code that results from any action by you or a third party.",
+            "conf": 0.9882449507713318,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Etsy is dedicated to making our Services the best they can be, but we\u2019re not perfect and sometimes things can go wrong",
+            "conf": 0.9754055738449097,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You understand that our Services are provided \u201cas is\u201d and without any kind of warranty (express or implied).",
+            "conf": 0.9999997615814209,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee that: (i) the Services will be secure or available at any particular time or location",
+            "conf": 0.9999951720237732,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the fullest extent permitted by law, neither Etsy, nor our employees or directors shall be liable to you for any lost profits or revenues, or for any consequential, incidental, indirect, special, or punitive damages arising out of or in connection with the Services or these Terms",
+            "conf": 0.9998128414154053,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "We hope this never happens, but if Etsy gets sued because of something that you did, you agree to defend and indemnify us",
+            "conf": 0.9920051097869873,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "That means you\u2019ll defend Etsy (including any of our employees) and hold us harmless from any legal claim or demand (including reasonable attorney\u2019s fees) that arises from your actions, your use (or misuse) of our Services, your breach of the Terms, or your account\u2019s infringement of someone else\u2019s rights",
+            "conf": 0.999985933303833,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We reserve the right to handle our legal defense however we see fit, even if you are indemnifying us, in which case you agree to cooperate with us so we can execute our strategy",
+            "conf": 0.9504417181015015,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any arbitration under the Terms will take place on an individual basis--class arbitrations and class actions are not permitted",
+            "conf": 0.9999958276748657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You understand that by agreeing to the Terms, you and Etsy are each waiving the right to trial by jury or to participate in a class action or class arbitration",
+            "conf": 0.9999995231628418,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "section at least 30 days prior to the date the change will become effective",
+            "conf": 0.9569408297538757,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may update these Terms from time to time",
+            "conf": 0.9997797012329102,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to enforce any part of the Terms is not a waiver of our right to later enforce that or any other part of the Terms",
+            "conf": 0.9999961853027344,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on May 23, 2018",
+            "conf": 0.9999974370002747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the content or the privacy policies or practices of any of our members, websites hosted through Pattern by Etsy, third-party websites, or third-party apps.",
+            "conf": 0.9975611567497253,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Etsy\u2019s Terms of Use require all account owners to be at least 18 years of age",
+            "conf": 0.9999319911003113,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minors under 18 years of age and at least 13 years of age are permitted to use Etsy's Services only if they have the appropriate permission and direct supervision by the owner of the account",
+            "conf": 0.999997615814209,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children under age 13 are not permitted to use Etsy or the Services",
+            "conf": 0.999991774559021,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for any and all account activity conducted by a minor on your account",
+            "conf": 0.9954411387443542,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "We will transfer personal information only to these countries to which we are permitted by law to transfer personal information, and we will take steps to ensure that your personal information continues to enjoy appropriate protections",
+            "conf": 0.9863343238830566,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may collect information about your use of the Services for advertising, analytics, to serve content and to protect the Services, including your IP address, browser information (including referrers), device information (such as iOS IDFA, IDFV for limited non-advertising purposes, Android AAID, and, when enabled by you, location information provided by your device).",
+            "conf": 0.9929746985435486,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can also request the deletion of the personal information in your account",
+            "conf": 0.9997653961181641,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "(iii) data deletion (including the right to have Etsy delete your personal information, except information we are required to retain, by contacting us).",
+            "conf": 0.9999967813491821,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We use non-technically necessary cookies and similar technologies.",
+            "conf": 0.9636062979698181,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our third-party partners may use cookies or similar technologies in order to provide you with advertising based upon your browsing activities and interests.",
+            "conf": 0.9771184325218201,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you no longer wish to use the Services or receive service-related messages (except for legally required notices), then you may close your account",
+            "conf": 0.9766635894775391,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Click here to learn how to close your account",
+            "conf": 0.9328582286834717,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "When you register for an account, subscribe to a newsletter, or provide us with your email address or phone number such as for a Guest Checkout purchase, you receive notice of and agree (in some jurisdictions and situations, by an additional unambiguous consent) to receive marketing emails and messages from us",
+            "conf": 0.935078501701355,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe at any time from marketing emails through the opt-out link included in marketing emails or messages",
+            "conf": 0.9999878406524658,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Members may also control some marketing emails or messages through their account settings as well as through the opt-out link included in marketing emails or messages",
+            "conf": 0.9999777674674988,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Etsy generally does not remove content from community spaces, and your posts may remain public after your account is closed, although your name will no longer be displayed alongside the post",
+            "conf": 0.9733462333679199,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Etsy will not disclose your name, email address or other personal information to third parties without your consent, except as specified in this policy",
+            "conf": 0.9224656224250793,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "As part of this, we may work with advertising partners such as Facebook or Google",
+            "conf": 0.9276659488677979,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "These third parties have only limited access to your information, may use your information only to perform these tasks on our behalf, and are obligated to Etsy not to disclose or use your information for other purposes",
+            "conf": 0.9870316982269287,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "In these types of transactions (such as a sale, merger, liquidation, receivership, or transfer of all or substantially all of Etsy\u2019s assets), member information is typically one of the business assets that is transferred",
+            "conf": 0.9781259298324585,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Etsy is not responsible for the privacy or security practices of these sellers, API users, or other websites on the Internet, even those linked to or from the Services.",
+            "conf": 0.9919076561927795,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "To the extent that Etsy is deemed to transfer personal information outside of the EEA, we rely separately, alternatively, and independently on the following legal bases to transfer your information:",
+            "conf": 0.9917071461677551,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "However, Etsy Ireland UC may rely on the EU-US Privacy Shield to transfer personal information to some of our third party service providers in the United States, where they are certified to receive such information under the Privacy Shield Program",
+            "conf": 0.9722118377685547,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "As we operate in countries worldwide (including in the US) and use technical infrastructure in the US to deliver the Services to you, in accordance with the contract between us, we need to transfer your personal information to the US and to other jurisdictions as necessary to provide the Services",
+            "conf": 0.9999889135360718,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "It is important that you protect against unauthorized access to your account and information by choosing your password carefully and by keeping your password and computer secure, such as by signing out after using the Services.",
+            "conf": 0.9926103353500366,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Etsy will retain your information only for as long as is necessary for the purposes set out in this policy, for as long as your account is active (i.e., for the lifetime of your Etsy member account), as described in this policy, or as needed to provide the Services to you",
+            "conf": 0.9999761581420898,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "These log files are generally retained for a brief period of time, except in cases where they are used for site safety and security, to improve site functionality, or we are legally obligated to retain them for longer time periods",
+            "conf": 0.9999833106994629,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to manage, change, limit, or delete your personal information, you can do so via your Etsy account settings or by contacting us",
+            "conf": 0.985588014125824,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In certain circumstances, you also have the right to request the deletion of your personal information, and to obtain a copy of your personal information in an easily accessible format.",
+            "conf": 0.9827156066894531,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Where we use your data for direct marketing purposes, you can always object using the unsubscribe link in such communications or changing your account settings",
+            "conf": 0.9999958276748657,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "of personal information, and if Etsy is sued, fined, or otherwise incurs expenses because of something that you did as a joint data controller of buyer personal information, you agree to indemnify Etsy for the expenses it occurs in connection with your processing of",
+            "conf": 0.921815812587738,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "For example, you can withdraw your consent to email marketing by using the unsubscribe link in such communications or by changing your account settings",
+            "conf": 0.9998501539230347,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can choose to withdraw your consent to our processing of your information and your use of the Services at any time by closing your account through your account settings and then emailing legal@etsy.com to request that your personal information be deleted, except for information that we are required to retain.",
+            "conf": 0.9862515926361084,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or update this policy from time to time",
+            "conf": 0.9993118047714233,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "LoCall: 1890 25 22 31",
+            "conf": 0.9990973472595215,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on May 23, 2018",
+            "conf": 0.9999974370002747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.3
+}

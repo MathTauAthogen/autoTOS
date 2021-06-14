@@ -1,0 +1,628 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Date: January 1, 2020",
+            "conf": 0.9999956488609314,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Reviewed: December 18, 2019",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to modify this Privacy Policy at any time, for reasons such as operational practices or regulatory changes",
+            "conf": 0.9995445013046265,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes to this Privacy Policy, we will bring them to your attention by changing the Effective Date, posting the updated Privacy Policy on this page, sending you an email, and/or by some other means",
+            "conf": 0.9994994401931763,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Performance/analytical cookies allow us to understand how visitors use our Website and Service and help us measure the performance of our advertising campaigns in order to help us improve our campaigns and the Service\u2019s content for those who engage with our advertising",
+            "conf": 0.9586496353149414,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Retargeting/advertising cookies collect data about your online activity and identify your interests so that we can provide advertising that we believe is relevant to you",
+            "conf": 0.9942682981491089,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We employ tracking pixels (also known as web beacons) which are used to anonymously track the online usage patterns of our Users",
+            "conf": 0.9999943375587463,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition, we also use tracking pixels in some HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients.",
+            "conf": 0.9958831071853638,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We collect analytics data, or use third-party analytics tools, to help us measure",
+            "conf": 0.9477164149284363,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use third-party service providers to provide site metrics and other analytics services",
+            "conf": 0.9990328550338745,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Some of our advertising (\u201cBehavioral Advertising\u201d) involves using tracking tools such as cookies, pixel tags, and web beacons, to collect information about a user\u2019s online activities (over time and across non-affiliated websites and applications) and providing ads to the user based the user\u2019s interests (as inferred from the user\u2019s online activity) or use of our Service.",
+            "conf": 0.9964362382888794,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Targeting Services help us display Behavioral Advertising, prevent you from seeing repeated ads, and enable us to research the usefulness of ads",
+            "conf": 0.9312136173248291,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Personal Data may be transferred to a third party if we undergo a merger, acquisition, bankruptcy or other transaction in which that third party assumes control of our business (in whole or in part).",
+            "conf": 0.9999980926513672,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Company Transactions: We would share Personal Data with third parties in connection with any company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings",
+            "conf": 0.9835942387580872,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party, and we would share Personal Data with the party that is acquiring our assets",
+            "conf": 0.9948537945747375,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Shopify and Teespring may transfer, process or store your data outside of the United States and such data may be subject to disclosure as required by applicable law",
+            "conf": 0.9999938011169434,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We sell your Personal Data, subject to your right to opt-out of these sales to the following parties (see the \u201cYour Rights\u201d section below for information about how to opt-out).",
+            "conf": 0.9995047450065613,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We sell your Personal Data to the following categories of third parties:",
+            "conf": 0.995612382888794,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": ": If you do not want to receive promotional emails from us, you can click the \u201cunsubscribe\u201d button on the promotional email communications or email us at privacy@genius.com with the subject \u201cMarketing Opt-Out\u201d",
+            "conf": 0.9964786767959595,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Note that you will not be able to unsubscribe or opt-out of non-promotional messages regarding your account, such as account verification, password reminders, changes or updates to features of the Service, or technical and security notices",
+            "conf": 0.9999958276748657,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to have your user name and email address excluded from any such sharing with partners, please email privacy@genius.com with the subject \u201cMarketing Opt-Out",
+            "conf": 0.9980223178863525,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "\u201d If you have any questions about this opt-out or our marketing practices, please email us at privacy@genius.com",
+            "conf": 0.9915177226066589,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Service Provider Opt Out: You can opt-out directly from some Advertising Service Providers and providers of Tracking Tools by using their opt-out tools",
+            "conf": 0.9804590940475464,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Some Advertising Service Providers or providers of Tracking Tools may participate in the Network Advertising Initiative's (NAI) Opt-Out Tool (http://www.networkadvertising.org/choices/) and/or the Digital Advertising Alliance (DAA) Consumer Choice Page (http://www.aboutads.info/choices/), and you can opt-out of certain services and learn more about your choices by visiting the links included here",
+            "conf": 0.9816707968711853,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track: Your browser may offer you a \u201cDo Not Track\u201d option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites",
+            "conf": 0.9997661113739014,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Some opt-out features are cookie-based, meaning that when you use these opt-out features, an \u201copt-out\u201d cookie will be placed on your computer or other device indicating that you do not want to receive Behavioral Advertising from certain companies",
+            "conf": 0.9992974996566772,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Opting-out of Behavioral Advertising does not mean that you will no longer receive online ads",
+            "conf": 0.9927999973297119,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Data Retention: We retain Personal Data about you for a period of time consistent with the original purpose of collection, whether or not you have an account with us",
+            "conf": 0.9953591823577881,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For instance, we may retain your Personal Data for as long as you have an open account with us or as otherwise necessary to provide you the Service, and for a reasonable period of time afterward",
+            "conf": 0.9999493956565857,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some cases we retain Personal Data for longer, if doing so is necessary to pursue our legitimate business interests, conduct audits, comply with our legal obligations, resolve disputes or collect fees owed, enforce our agreements, or as otherwise permitted or required by applicable law, rule or regulation",
+            "conf": 0.9863417148590088,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you wish to change or delete your profile and Personal Data, you can contact us at privacy@genius.com, and we will amend or delete your Personal Data within a reasonable time after your request, if feasible, or if you reside in the EU, as set forth in Section 8 below.",
+            "conf": 0.9926073551177979,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We may be able to anonymize your information such that you will no longer be reasonably identifiable",
+            "conf": 0.9810582399368286,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "servers, and you authorize Genius to transfer, store and process your information to and in the U.S., and possibly other countries",
+            "conf": 0.9997455477714539,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "As noted in the Terms of Service (",
+            "conf": 0.999563992023468,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "https://genius.com/static/terms), we do not knowingly collect or solicit Personal Data from anyone under the age of 13 (or if you are in the EU, we do not knowingly collect or solicit Personal Data from anyone under the age of 16).",
+            "conf": 0.9997575879096985,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13 (or under 16 in the EU), please do not attempt to register for the Service or send any Personal Data about yourself to us",
+            "conf": 0.9999980926513672,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we learn that we have collected Personal Data from a child under age 13 (or under age 16 in the EU), we will delete that information as quickly as possible",
+            "conf": 0.993903636932373,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.",
+            "conf": 0.9953680038452148,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Please note that we do not currently sell your Personal Data as sales are defined in Nevada Revised Statutes Chapter 603A.",
+            "conf": 0.989890992641449,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Deletion: You have the right to request that we delete the Personal Data that we have collected from you",
+            "conf": 0.989834725856781,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Sales Opt-Out and Opt-In: You have the right to opt-out of the sale of your Personal Data",
+            "conf": 0.9962214827537537,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you are between 13 and 16 years of age, you must authorize us to sell your Personal Data, which you may do by clicking the Opt-In link above.",
+            "conf": 0.9830107688903809,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13 years of age, your parent or guardian must authorize us to sell your Personal Data, which your parent or guardian may do by clicking the Opt-In link above",
+            "conf": 0.999952495098114,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Erasure: You can request that we erase some or all of your Personal Data from our systems",
+            "conf": 0.9998825192451477,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: June 24, 2020",
+            "conf": 0.999982476234436,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, in our sole discretion, to change or modify portions of these Terms at any time",
+            "conf": 0.9999516010284424,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we modify these Terms, we will post a notice at the top of our Service for a period of seven (7) days",
+            "conf": 0.9998942017555237,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "You agree to periodically visit this page to review the current Terms so you are aware of any revision to which you are bound",
+            "conf": 0.9610812664031982,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "We will indicate at the top of this page the date these terms were last revised",
+            "conf": 0.9932968616485596,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "THESE TERMS CONTAIN A MANDATORY INDIVIDUAL ARBITRATION AND CLASS ACTION/JURY TRIAL WAIVER PROVISION THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS",
+            "conf": 0.9998301267623901,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "This Service is intended solely for users who are 13 years of age or older",
+            "conf": 0.999982476234436,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Any registration by, use of or access to the Service by anyone under 13 is unauthorized and in violation of these Terms",
+            "conf": 0.9999820590019226,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using the Service, you represent and warrant that you are 13 years of age or older",
+            "conf": 0.9999988079071045,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect or solicit Personal Data from children under 13",
+            "conf": 0.999883770942688,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "if you are a child under 13, please do not attempt to register for the Service or send any Personal Data about yourself to us",
+            "conf": 0.9999986886978149,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Please note that if you are located in the European Union, we do not knowingly collect or solicit Personal Data from children under 16, so if you are a child under 16 and you are located in the European Union, you should not attempt to register for the Service or send us any Personal Data",
+            "conf": 0.9999998807907104,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Genius may terminate this license at any time for any reason or no reason",
+            "conf": 0.9514124989509583,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Member Account, Password and Security: You are responsible for maintaining the confidentiality of your password and account, if any, and are fully responsible for any and all activities that occur under your password or account.",
+            "conf": 0.9969253540039062,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree to (a) immediately notify Genius of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session when accessing the Service",
+            "conf": 0.9971775412559509,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Genius will not be liable for any loss or damage arising from your failure to comply with this Section",
+            "conf": 0.9484531283378601,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Service:  Genius reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) or any User account with or without notice",
+            "conf": 0.9999728202819824,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Genius has no responsibility or liability for the deletion or failure to store any data or other content maintained or transmitted by or through Genius, including without limitation, User Content (as defined below).",
+            "conf": 0.9999850988388062,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge that Genius reserves the right to terminate accounts that are inactive for an extended period of time",
+            "conf": 0.9958289265632629,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "You further acknowledge that Genius reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice",
+            "conf": 0.9997778534889221,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge and agree that we have no obligation to display any particular item of User Content and may filter the display of User Content in our sole discretion for no reason or for any reason",
+            "conf": 0.9093888401985168,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "GENIUS TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR ANY USER CONTENT THAT YOU OR ANY OTHER USER OR THIRD PARTY POSTS OR SENDS OVER THE SERVICE",
+            "conf": 0.9496219754219055,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Third Party Material: Under no circumstances will Genius be liable in any way for any content posted by third parties (including third parties utilizing live.genius.com to present performances or other activities) or at the direction of Users, including, but not limited to, for any errors or omissions in any content, or for any loss or damage of any kind incurred as a result of the use of any User Content posted, emailed or otherwise transmitted via the Service.",
+            "conf": 0.9889647960662842,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge that Genius does not pre-screen any User Content or content provided by any third-party, but that Genius and its designees shall have the right (but not the obligation) in their sole discretion to refuse or remove any User Content or third-party content that is available via the Service",
+            "conf": 0.9839245080947876,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "agree that you must evaluate, and bear all risks associated with, the use of any content found on the Service, including any reliance on the accuracy, completeness, or usefulness of such content",
+            "conf": 0.9272340536117554,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ": The Service may be temporarily unavailable from time to time for maintenance or other reasons",
+            "conf": 0.9422229528427124,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Genius is not responsible for cookies, web beacons, clear gifs, or other code you or any third parties place on your computer or device in any way, including any association of Service content with such code.",
+            "conf": 0.9972683191299438,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "However, please remember that the manner in which third party services use, store and disclose your information is governed solely by the policies of such third parties, and Genius shall have no liability or responsibility for the privacy practices or other actions of any third party site or service that may be enabled within your Genius Service.",
+            "conf": 0.9983265995979309,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "In addition, Genius is not responsible for the accuracy, availability or reliability of any information, content, goods, data, opinions, advice or statements made available in connection with third party services",
+            "conf": 0.9999094605445862,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "As such, Genius is not liable for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such third party service",
+            "conf": 0.9888502359390259,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless Genius and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, injury (including death), costs or debt, and expenses (including but not limited to attorney's fees) arising from or relating to: (i) your use of and access to the Service, including any data or content transmitted or received by you",
+            "conf": 0.999998927116394,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9999459981918335,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "GENIUS EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF",
+            "conf": 0.9065924286842346,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "GENIUS MAKES NO WARRANTY THAT (I) THE SERVICE WILL MEET YOUR REQUIREMENTS, (II) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, OR (IV) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS.",
+            "conf": 0.9968401193618774,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT GENIUS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY DAMAGES, OR DAMAGES FOR LOSS OF PROFITS INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF GENIUS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, RESULTING FROM: (I) THE USE OR THE INABILITY TO USE THE SERVICE.",
+            "conf": 0.9999526739120483,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Class Action/Jury Trial Waiver: WITH RESPECT TO ALL PERSONS AND ENTITIES, REGARDLESS OF WHETHER THEY HAVE OBTAINED OR USED THE SERVICE FOR PERSONAL, COMMERCIAL OR OTHER PURPOSES, ALL CLAIMS MUST BE BROUGHT IN THE PARTIES' INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION OR OTHER REPRESENTATIVE PROCEEDING",
+            "conf": 0.9974419474601746,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "THIS WAIVER APPLIES TO CLASS ARBITRATION, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON'S CLAIMS",
+            "conf": 0.998232364654541,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE THAT, BY ENTERING INTO THIS AGREEMENT, YOU AND GENIUS ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR OTHER REPRESENTATIVE PROCEEDING OF ANY KIND",
+            "conf": 0.9999938607215881,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "In addition to the termination rights set forth elsewhere herein, you agree that Genius, in its sole discretion, may suspend or terminate your account (or any part thereof) or use of the Service and remove and discard any content (including without limitation your User Content) within the Service, for any reason, including, without limitation, for lack of use or if Genius believes that you have violated or acted inconsistently with the letter or spirit of these Terms",
+            "conf": 0.9999546408653259,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Genius may also in its sole discretion and at any time discontinue providing the Service, or any part thereof, with or without notice",
+            "conf": 0.9999980330467224,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that any termination of your access to the Service under any provision of these Terms may be effected without prior notice, and acknowledge and agree that Genius may immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or the Service",
+            "conf": 0.9998717904090881,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you are solely responsible for your interactions with any other User in connection with the Service and Genius will have no liability or responsibility with respect thereto.",
+            "conf": 0.9942077994346619,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Genius to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.9999969601631165,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "The Service may also provide notices to you of changes to these Terms or other matters by displaying notices or links to notices generally on the Service",
+            "conf": 0.9961697459220886,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "We cannot guarantee a response in any particular time period",
+            "conf": 0.9716695547103882,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.2
+}

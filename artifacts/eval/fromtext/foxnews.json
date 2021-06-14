@@ -1,0 +1,446 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Terms of Use Fox News Network, LLC Terms of Use Agreement Effective as of October 26, 2016",
+            "conf": 0.9821640253067017,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Company may modify this Agreement at any time, and each such modification will be effective upon posting on the Company Sites",
+            "conf": 0.9107248187065125,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "PLEASE NOTE THAT THE \"ARBITRATION AGREEMENT\" SECTION BELOW CONTAINS PROVISIONS THAT REQUIRE (i) WITH LIMITED EXCEPTIONS, ALL DISPUTES ARISING BETWEEN YOU AND COMPANY UNDER THIS AGREEMENT TO BE RESOLVED IN BINDING ARBITRATION, AND NOT IN COURT, AND (ii) YOU AND COMPANY WAIVE THE RIGHT TO BRING OR PARTICIPATE IN A CLASS ACTION IN CONNECTION WITH SUCH DISPUTES",
+            "conf": 0.9998865127563477,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You take full responsibility for your participation on the Site",
+            "conf": 0.9771418571472168,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your password and are responsible for all use of your account.",
+            "conf": 0.9873453974723816,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree not to use the account, username, email address or password of another member or subscriber at any time and not to allow any other person to use your account",
+            "conf": 0.9987215995788574,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Company may change, suspend or discontinue the Site (or any feature thereof) at any time",
+            "conf": 0.9998380541801453,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge that from time to time the Site may be inaccessible or inoperable for any reason, including, without limitation: (i) equipment malfunctions",
+            "conf": 0.9999003410339355,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate your account on the Company Sites at any time, for any reason, by emailing foxnewsonline@foxnews.com, Subject: Terminate My Account",
+            "conf": 0.9856444597244263,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Company may terminate your account and/or access to the Company Services at any time, for any or no reason, with or without prior notice or explanation, and shall have no liability to you for such termination",
+            "conf": 0.999719500541687,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You must be 18 years of age or older to purchase a Site Product",
+            "conf": 0.9999974370002747,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Company provides no refunds for, makes no warranty for, and to the fullest extent provided by law, accepts no liability regarding purchases you make on the Company Sites",
+            "conf": 0.9989421963691711,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for any and all transactions utilizing your Personal Financial Information, including, but not limited to, any and all charges",
+            "conf": 0.9660114049911499,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that in the event Processor experiences a data breach that affects your Personal Financial Information, Company will in no way be responsible or liable to you for any such breach.",
+            "conf": 0.9911673665046692,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Company reserves the right, in its sole discretion, to terminate your access to the Site, or any portion thereof, at any time, for any reason or for no reason at all, without prior notice or any notice",
+            "conf": 0.9998575448989868,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Company reserves the right, but disclaims any obligation or responsibility, to remove User Content that violates this Agreement, as determined by Company, or for any other reason, in Company's sole discretion and without notice to you",
+            "conf": 0.9993886947631836,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If Company sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Company may transfer your information to the party or parties involved in the transaction as part of that transaction",
+            "conf": 0.9780577421188354,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You assume full responsibility for maintaining backup copies of your User Content, and Company assumes no responsibility for any loss of your User Content due to its being removed by Company or for any other reason.",
+            "conf": 0.9979828000068665,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Company reserves the right, but disclaims any obligation or responsibility, to prevent you from posting User Content to any Forum and to restrict or remove your User Content from a Forum or refuse to include your User Content in a Forum for any reason at any time, in Company's sole discretion and without notice to you",
+            "conf": 0.9999919533729553,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Company is not responsible for the content or accuracy of any information posted on a Forum, and shall not be responsible for any decisions made based on such information",
+            "conf": 0.9996262192726135,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge that (i) deletion of your User Content from the Company Sites will not result in, and Company assumes no responsibility for, the deletion of such User Content by any third parties who were provided with or had access to such User Content prior to your deleting it from the Company Sites, and (ii) termination of your account or your use of the Company Services will not result in the immediate or automatic deletion of your User Content consistent with this Agreement",
+            "conf": 0.9618715643882751,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If at any time, Company chooses in its sole discretion to monitor the Company Services, Company nonetheless assumes no responsibility for Content other than Company Content, no obligation to modify or remove any inappropriate Content, and no responsibility for the conduct of any user",
+            "conf": 0.990419864654541,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Company is not responsible for and makes no warranties, express or implied, as to the Third Party Services or the providers of such Third Party Services (including, but not limited to, the accuracy or completeness of the information provided by such Third Party Service or the privacy practices thereof).",
+            "conf": 0.9983807802200317,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Company is not responsible for the content or practices of any websites other than the Company Sites, even if the website links to the Company Sites and even if it is operated by a Company Affiliate or a company otherwise connected with the Company Sites.",
+            "conf": 0.9884595274925232,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "By using the Company Services, you acknowledge and agree that Company is not responsible or liable to you for any content or other materials hosted and served from any website other than the Company Sites",
+            "conf": 0.9973268508911133,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE COMPANY SERVICES ARE PROVIDED \"AS-IS\" AND \"AS AVAILABLE\" AND COMPANY DOES NOT GUARANTEE OR PROMISE ANY SPECIFIC RESULTS FROM USE OF OR CONTINUOUS AVAILABILITY OF THE COMPANY SERVICES",
+            "conf": 0.9999695420265198,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, COMPANY EXPRESSLY DISCLAIMS ANY WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF",
+            "conf": 0.9451953768730164,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, COMPANY MAKES NO WARRANTY THAT YOUR USE OF THE COMPANY SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE, THAT DEFECTS TO THE COMPANY SERVICES WILL BE CORRECTED, THAT THE COMPANY SERVICES OR THE SERVERS ON WHICH THEY ARE AVAILABLE WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT ANY INFORMATION OBTAINED BY YOU ON, THROUGH OR IN CONNECTION WITH THE COMPANY SERVICES OR THIRD PARTY SERVICES (INCLUDING, BUT NOT LIMITED TO, THROUGH USER CONTENT OR THIRD PARTY ADVERTISEMENTS) WILL BE ACCURATE, RELIABLE, TIMELY OR COMPLETE.",
+            "conf": 0.9989036917686462,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES WILL COMPANY BE RESPONSIBLE FOR ANY LOSS OR DAMAGE (INCLUDING BUT NOT LIMITED TO LOSS OF DATA, PROPERTY DAMAGE, PERSONAL INJURY OR DEATH) RESULTING FROM USE OF THE COMPANY SERVICES, PROBLEMS OR TECHNICAL MALFUNCTION IN CONNECTION WITH USE OF THE COMPANY SERVICES, ATTENDANCE AT A COMPANY EVENT, ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED IN CONNECTION WITH THE COMPANY SERVICES, ANY USER CONTENT, ANY THIRD PARTY ADVERTISEMENT OR THIRD PARTY SERVICE TRANSMITTED ON, THROUGH OR IN CONNECTION WITH THE COMPANY SERVICES, OR THE CONDUCT OF ANY USERS OF THE COMPANY SERVICES, WHETHER ONLINE OR OFFLINE.",
+            "conf": 0.9888633489608765,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU ASSUME RESPONSIBILITY FOR THE ENTIRE COST OF ANY MAINTENANCE, REPAIR OR CORRECTION TO YOUR COMPUTER SYSTEM OR OTHER PROPERTY OR RECOVERY OR RECONSTRUCTION OF LOST DATA NECESSITATED BY YOUR USE OF THE COMPANY SERVICES.",
+            "conf": 0.9953078627586365,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, COMPANY WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING, WITHOUT LIMITATION, LOST PROFIT DAMAGES ARISING FROM YOUR USE OF OR INABILITY TO USE THE COMPANY SERVICES.",
+            "conf": 0.9993206262588501,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Each of you and Company agrees to give up the right to sue in court",
+            "conf": 0.9177990555763245,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Each of you and Company also agrees to give up the ability to seek to represent, in a class action or otherwise, anyone but each of you and Company (see paragraph 9 below).",
+            "conf": 0.9999995827674866,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "(5) You and the Company acknowledge and agree to abide by the following rules for arbitration: (a) YOU AND COMPANY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, REPRESENTATIVE OR MULTI-CLAIMANT PROCEEDING, AND THE ARBITRATOR SHALL HAVE NO POWER TO AWARD CLASS-WIDE RELIEF",
+            "conf": 0.9996499419212341,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless Company expressly agrees, the arbitrator may not consolidate other persons' claims with yours, and may not otherwise preside over any form of a representative, multi-claimant or class proceeding",
+            "conf": 0.999995231628418,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVE ANY RIGHT YOU MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION (INCLUDING, BUT NOT LIMITED TO, ANY CLAIMS, COUNTERCLAIMS, CROSS-CLAIMS, OR THIRD PARTY CLAIMS) ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT",
+            "conf": 0.9951935410499573,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold Company, its Company Affiliates, subcontractors and other partners, and their respective officers, agents, partners and employees, harmless from any loss, liability, claim, or demand, including, but not limited to, reasonable attorneys' fees, made by any third party due to or arising out of or in connection with your misuse of the Company Sites or the Company Services (including, without, limitation, any use of your account, whether or not authorized by you), your breach of this Agreement, your violation of any rights of another or any Content that you Transmit through the Company Services",
+            "conf": 0.9999977946281433,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Company to exercise or enforce any right or provision of this Agreement will not operate as a waiver of such right or provision",
+            "conf": 0.9999967813491821,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Except as otherwise expressly provided herein, if any provision of this Agreement is unlawful, void or unenforceable, that provision is deemed severable from this Agreement and does not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9900984168052673,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of October 26, 2016",
+            "conf": 0.9999982118606567,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "As set forth in our Terms of Use, the Fox News Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age",
+            "conf": 0.999997079372406,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data.",
+            "conf": 0.9993387460708618,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third parties that support the Fox News Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Fox News Services usage statistics, may also use these technologies to collect similar information when you use the Fox News Services or third-party services.",
+            "conf": 0.9949707984924316,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track Signals",
+            "conf": 0.9977092742919922,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "At this time we do not respond to browser 'Do Not Track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted",
+            "conf": 0.9999874830245972,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Fox News and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the Fox News Services (on any of your devices) or another service",
+            "conf": 0.9763160347938538,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and information the different devices you use and your activity on such devices, to assist them in delivering advertising that is more relevant to your interests.",
+            "conf": 0.9865337610244751,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you want to stop receiving promotional materials, you can follow the unsubscribe instructions at the bottom of each email",
+            "conf": 0.9999723434448242,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "There are certain service notification emails that you may not opt-out of such as notifications of changes to the Fox News Services or policies",
+            "conf": 0.9999774098396301,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "To complete a merger or sale of assets",
+            "conf": 0.9592010378837585,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If Fox News sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business (including in connection with a bankruptcy or similar proceedings), Fox News may transfer your information to the party or parties involved in the transaction as part of that transaction",
+            "conf": 0.9999991059303284,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "However, no one can guarantee the complete safety of your information",
+            "conf": 0.998509407043457,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out from:",
+            "conf": 0.999980628490448,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Receiving electronic communications from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by following the unsubscribe instructions in the email",
+            "conf": 0.9927216172218323,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To cancel your account, email deleteaccount@foxnews.com, subject, \"Delete My Account\" and include the email address that you registered your account with (if different from the email address you're sending the email from).",
+            "conf": 0.9838393926620483,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies",
+            "conf": 0.9994931221008301,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised",
+            "conf": 0.9985331892967224,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "This includes the use of cookies and other tracking technologies as described above",
+            "conf": 0.9912671446800232,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Fox News is not responsible for the privacy practices of unaffiliated companies, and once you leave the Fox News Services or click an advertisement you should check the applicable privacy policy of the other service",
+            "conf": 0.9033018350601196,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "In addition, Fox News is not responsible for the privacy or data security practices of other organizations, such as Facebook, Tumblr, Twitter, Apple, Google, Microsoft or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including in connection with any information you disclose to other organizations through or in connection with the Fox News Services.",
+            "conf": 0.999505341053009,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law",
+            "conf": 0.9997217655181885,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies",
+            "conf": 0.9994931221008301,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements",
+            "conf": 0.9531110525131226,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 2.0
+}

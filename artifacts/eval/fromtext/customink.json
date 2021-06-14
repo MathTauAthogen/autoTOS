@@ -1,0 +1,299 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Modified: 5/18/16",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Limit of CustomInk.com's Responsibility CustomInk.com will be responsible for acting only on those instructions sent to CustomInk.com that actually are received and does not assume responsibility for malfunctions in communications facilities not under its control that may affect the accuracy or timeliness of any orders you send",
+            "conf": 0.9984228610992432,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "CustomInk.com is not responsible for any losses or delays in transmission of orders arising out of the use of any Internet Access Service Provider or caused by any browser software or any computer virus or related problem that may be attributable to services provided by any Internet Access Service Provider",
+            "conf": 0.9284012913703918,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The information and materials contained in this Site, including text, graphics, links or other items, are provided \"as is\", \"as available\".",
+            "conf": 0.9999995827674866,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CustomInk.com does not warrant the accuracy, adequacy or completeness of the information and materials on the Site and expressly disclaims liability for errors or omissions in this information and materials",
+            "conf": 0.9999125599861145,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "No warranty of any kind, implied, express or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose or freedom from computer virus, is given in conjunction with the information and materials",
+            "conf": 0.9976969361305237,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event will CustomInk.com be liable for any damages, including without limitation, direct or indirect, special, incidental, or consequential damages, losses or expenses arising in connection with this site or use thereof or inability to use by any party, or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure, even if CustomInk.com, or representatives thereof, are advised of the possibility of such damages, losses or expenses",
+            "conf": 0.9999990463256836,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Indemnity You agree to defend, indemnify and hold CustomInk.com and its affiliates harmless from and against any and all claims, damages, costs and expenses, including reasonable attorneys' fees, arising from or relating to your use of CustomInk.com's Site and the Service, your violation of this Agreement, or your violation of any rights of another",
+            "conf": 0.999180257320404,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on: 6/10/2016",
+            "conf": 0.9999982118606567,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Modified: July 23, 2018",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This Policy may change from time to time (see Changes to this Policy).",
+            "conf": 0.9999850988388062,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may collect information directly from you, automatically through your use of our Site, and from third parties",
+            "conf": 0.916002094745636,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Custom Ink may share your information if we become involved in a transaction involving the sale of our assets, such as a merger or acquisition, if we are transferred to another company, in the event of a bankruptcy, or as part of any other business transfer",
+            "conf": 0.9770039916038513,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, we may share anonymized or aggregated information to inform a third party",
+            "conf": 0.910492479801178,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": ", you can erase cookies from your computer hard drive, block or disable cookies or receive a warning before a cookie is stored",
+            "conf": 0.9797804355621338,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Clear graphics interchange format images (\u201cGIFs\u201d) are tiny graphics with a unique identifier, similar in function to cookies, that are embedded invisibly on web pages or in emails",
+            "conf": 0.98675537109375,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We or our service providers may use clear GIFs (also known as web beacons, web bugs or pixel tags) in connection with our Site to track the activities of visitors to our Site, help us manage content and compile statistics about usage of our Site.",
+            "conf": 0.9930858612060547,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use applications, servers and other technology provided by third-party companies, such as Google Analytics, to help us improve our Site, performance and user experiences.",
+            "conf": 0.9885061979293823,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These entities may use cookies and information-gathering tools, such as web beacons or LSOs, to perform their services.",
+            "conf": 0.9940353035926819,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Our Site does not respond to do not track signals (e.g., the Mozilla Firefox Do Not Track feature), though you may be able to disable certain tracking as discussed above (e.g., by disabling cookies).",
+            "conf": 0.9999958276748657,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "There is still no universally accepted standard regarding tracking, but for more information about do not track signals, please click here",
+            "conf": 0.9468322992324829,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use third-party marketing or advertising companies (e.g., Google Customer Match) to serve advertisements on our Site and on third-party websites or other media (e.g., social networking platforms).",
+            "conf": 0.9999975562095642,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These third parties may use cookies, JavaScript, web beacons (including clear GIFs), LSOs and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you.",
+            "conf": 0.9871741533279419,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Opting out from one or more companies listed on the DAA Consumer Choice Page or the NAI Consumer Opt-Out Page will opt you out from those companies\u2019 delivery of interest-based content or advertisements to you, but it does not mean you will no longer receive any advertising through our Site or on other websites.",
+            "conf": 0.9905784130096436,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that we may maintain copies of your information and Content even after you have updated the information or canceled your account",
+            "conf": 0.999026358127594,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "In the event you do not wish to receive such emails from Custom Ink, you may opt out of such communications by following the opt-out instructions contained within the body of any email message you receive or by emailing us at privacy@customink.com and requesting that you no longer receive communications from us",
+            "conf": 0.9998990297317505,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may also opt out of our sharing your information with third parties for their own marketing purposes on a going forward basis by emailing us at privacy@customink.com",
+            "conf": 0.9980762004852295,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "The information we collect from you through our services may be transferred to, stored at, and processed in the USA and other destinations outside the European Economic Area (\u201cEEA\u201d) or other country in which you are located",
+            "conf": 0.999929666519165,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "You explicitly consent and agree to such transfer, storing and/or processing of your Personal Information outside the EEA or other country in which you are located",
+            "conf": 0.9597482085227966,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "The right to have your Personal Information erased (\u201cright to be forgotten",
+            "conf": 0.9999268651008606,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ") if certain grounds are met",
+            "conf": 0.9999504089355469,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Our Site is not targeted to children under thirteen (13) years of age and we do not knowingly collect Personal Information from children under 13",
+            "conf": 0.9999808073043823,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In the case of residents of the European Union, we do not collect Personal Information from anyone under the age of 16 except with parental consent, subject to an EU member state providing by law for a lower age (not below 13 years)",
+            "conf": 0.9999999403953552,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We cannot ensure or warrant the security of any such information, and you provide such information at your own risk",
+            "conf": 0.9832375645637512,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "For example, if you have an account with us, you should take steps to protect against unauthorized access to your account by, among other things, choosing a robust password that nobody else knows or can easily guess and keeping your log-in and password private",
+            "conf": 0.981271505355835,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We retain your Personal Information, if provided by you through our Site, for as long as your inquiry is active (as determined by us) and for a reasonable time thereafter, or if applicable, for as long as you remain on our marketing list",
+            "conf": 0.999969482421875,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We also may retain your Personal Information for a longer period of time on the basis of our legitimate interests in providing our Services to you or as necessary to comply with our tax and legal obligations, to resolve disputes, and to enforce our agreements",
+            "conf": 0.9996481537818909,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Even if we delete some or all of your Personal Information, we may continue to retain and use aggregated or anonymous data previously collected so that it can no longer be used for personal identification and/or anonymize or aggregate your Personal Information",
+            "conf": 0.988057017326355,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Please note that we will not be liable for disclosures of your data due to errors or unauthorized acts of third parties",
+            "conf": 0.9250199794769287,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "This Policy was last updated as of the \u201cLast Modified\u201d date above",
+            "conf": 0.999984860420227,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Custom Ink may modify this Policy at any time and will post any updates to our Site",
+            "conf": 0.9989736080169678,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We therefore encourage you to review this page frequently for any changes",
+            "conf": 0.9504662156105042,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.1
+}

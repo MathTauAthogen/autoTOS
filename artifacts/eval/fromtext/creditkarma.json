@@ -1,0 +1,222 @@
+{
+    "predictions": [
+        {
+            "label": "3",
+            "text": "We reserve the right in our sole and absolute discretion to make changes to how we operate and provide our Services, including adding new services, modifying existing services, or suspending, discontinuing, or terminating your access to any or all portions of our Services",
+            "conf": 0.9974949359893799,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You are 18 years of age or older",
+            "conf": 0.9999822378158569,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Any information you provide to us, both when you register and in the future, is and will be true, accurate, current and complete",
+            "conf": 0.9999971985816956,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "You must not sell, transfer, or assign your account to anyone else",
+            "conf": 0.9823349714279175,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You must keep your password confidential, you must not share it and you may not allow anyone else to log into our Services as you",
+            "conf": 0.9996528029441833,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all activities that occur under your member account",
+            "conf": 0.9399144649505615,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right to limit the availability of our Services or the provision of any of our Content to any person, geographic area, or jurisdiction, at any time and in our sole and absolute discretion",
+            "conf": 0.9521716237068176,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not control, maintain, or endorse the Third Party Content or Third Party Services, and we are not responsible or liable for any Third Party Content or Third Party Services, including any damages, losses, failures, or problems caused by, related to, or arising from Third Party Content or Third Party Services.",
+            "conf": 0.9946979284286499,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any information that you agree to share with third parties in connection with Third Party Content or Third Party Services",
+            "conf": 0.9948438405990601,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not endorse, represent, or guarantee the completeness, accuracy, reliability, or usefulness of any Community Content",
+            "conf": 0.9999955296516418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Credit Karma may, but is not obligated to, review, monitor, edit, control, distribute, refuse to distribute, block access, re-format, alter, delete, or remove Community Content for any reason, including to satisfy applicable law, enforce the Agreement (including our Community Rules), or protect the rights, property or safety of Credit Karma, Credit Karma users, or any third party, in each case without notice and in our sole and absolute discretion",
+            "conf": 0.9999721050262451,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Summary We don't take responsibility for Community Content that you or other users provide (we think it'll be great, but we just can't know for sure).",
+            "conf": 0.9576368927955627,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WE PROVIDE OUR SERVICES, OUR CONTENT, AND ALL CONTENT AND MATERIALS AVAILABLE THROUGH OUR SERVICES \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d WITHOUT ANY WARRANTY OR CONDITION OF ANY KIND, EXPRESS OR IMPLIED",
+            "conf": 0.9999094009399414,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CREDIT KARMA, ON BEHALF OF ITSELF, ITS AFFILIATES AND ITS LICENSORS, DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO OUR SERVICES, OUR CONTENT, OR THE COMMUNITY CONTENT, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT, QUALITY, ACCURACY, TITLE AND NON-INFRINGEMENT, AND ANY WARRANTY ARISING OUT OF COURSE OF DEALING, USAGE OR TRADE",
+            "conf": 0.9941257238388062,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU ASSUME ALL RISK FOR ANY DAMAGE THAT MAY RESULT FROM YOUR USE OF OR ACCESS TO OUR SERVICES, YOUR DEALINGS WITH ANY OTHER MEMBER OR THIRD PARTY, AND YOUR USE OF OUR CONTENT, THE COMMUNITY CONTENT, OR OTHER CONTENT AVAILABLE THROUGH OUR SERVICES",
+            "conf": 0.926965057849884,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING ANY COMPUTER SYSTEM OR MOBILE DEVICE USED IN CONNECTION WITH OUR SERVICES), OR THE LOSS OF DATA THAT MAY RESULT FROM THE USE OF OUR SERVICES OR THE USE OF ANY OF OUR CONTENT, THE COMMUNITY CONTENT OR OTHER CONTENT AVAILABLE THROUGH OUR SERVICES.",
+            "conf": 0.9968741536140442,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "CREDIT KARMA EXPRESSLY DISCLAIMS ANY LIABILITY FOR ANY ERRORS OR OMISSIONS IN OUR CONTENT OR OUR SERVICES, INCLUDING THE INACCURACY OR INCOMPLETENESS OF ANY SUCH",
+            "conf": 0.9379163384437561,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "REPORTS,",
+            "conf": 0.9342653155326843,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SCORES, OFFERS OR OTHER INFORMATION, TOOLS OR ANALYSES AVAILABLE THROUGH OUR SERVICES OR OUR CONTENT",
+            "conf": 0.959250807762146,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "It explains that we don't make any warranties about our services or content (including any tips you might pick up).",
+            "conf": 0.9989882707595825,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "CREDIT KARMA AND ITS REPRESENTATIVES, AGENTS, AND ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EQUITY HOLDERS, EMPLOYEES, PARENT ENTITIES, SUBSIDIARIES, AFFILIATED ENTITIES, REPRESENTATIVES, AGENTS AND LICENSORS (COLLECTIVELY, THE \u201cCREDIT KARMA PARTIES\u201d) WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (SUCH AS LOSS OF PROFITS, LOSS OF GOODWILL, LOSS OF USE, LOSS OF DATA, BUSINESS INTERRUPTION, OR OTHER INTANGIBLE LOSSES) ARISING OUT OF OR RELATING IN ANY WAY TO OUR SERVICES, OUR CONTENT OR THE COMMUNITY CONTENT.",
+            "conf": 0.9999328851699829,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You will defend (if requested by any Credit Karma Party), indemnify, and hold harmless the Credit Karma Parties from and against any and all claims, losses, expenses, demands, or liabilities, including attorneys' fees and costs, incurred by the Credit Karma Parties in connection with any claim by a third party arising out of or in any way related to: (1) your use of our Services, our Content or the Community Content",
+            "conf": 0.9999870657920837,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "This means that any dispute will be resolved outside of class-action litigation",
+            "conf": 0.995098888874054,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU UNDERSTAND AND AGREE THAT BY ENTERING INTO THE AGREEMENT, YOU AND CREDIT KARMA ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION",
+            "conf": 0.9999893307685852,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "10.6 No Class Actions",
+            "conf": 0.9996289014816284,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND CREDIT KARMA AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR A CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999755024909973,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and Credit Karma agree otherwise, the arbitrator may not consolidate more than one person's claims or otherwise preside over any form of a representative or class proceeding",
+            "conf": 0.9999995827674866,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Summary The Agreement lasts until your account is deactivated and you completely stop using our services (but there are a few parts that have to live on forever).",
+            "conf": 0.9507178068161011,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "11.2 Deactivating Your Member Account If you decide you want to deactivate your account you can do so by visiting our help page",
+            "conf": 0.9635818600654602,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may modify the Agreement at any time",
+            "conf": 0.995877206325531,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "12.4 Waiver Only in Writing Credit Karma's failure to enforce any of its rights or act with respect to a breach by you or others of the Agreement does not constitute a waiver of any rights and will not limit Credit Karma's rights with respect to that breach or any subsequent breaches",
+            "conf": 0.9931081533432007,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.0
+}

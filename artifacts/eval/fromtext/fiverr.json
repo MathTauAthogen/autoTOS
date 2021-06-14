@@ -1,0 +1,180 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last update: November 2018",
+            "conf": 0.9999968409538269,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This Policy may change from time to time",
+            "conf": 0.9951046705245972,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell or rent your personal information to third parties for their direct marketing purposes without your explicit consent",
+            "conf": 0.9999597668647766,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may use your information to contact you - to provide notices related to your activities, or offer you promotions and general updates, but we will not let any other person, including sellers and buyers, contact you, other than through your user profile on the Site",
+            "conf": 0.9869517683982849,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Your personal information may be stored in systems based around the world, and may be processed by third party service providers acting on our behalf",
+            "conf": 0.9999313950538635,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You have a right to prevent direct marketing of any form at any time - this can be exercised by following the opt-out link attached to each communication or by sending an email to optout@fiverr.com",
+            "conf": 0.9999555945396423,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "How long do we keep your information?  We apply a general rule of keeping personal information only for as long as is required to fulfil the purpose for which it was collected",
+            "conf": 0.9934097528457642,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Children Under the Age of 13  Our Site is not intended for children under 13 years of age",
+            "conf": 0.9999905824661255,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "No one under age 13 should provide any personal information to or on the Site",
+            "conf": 0.9999858736991882,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal information from children under 13",
+            "conf": 0.9997414946556091,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Sharing Personal Information with Third Parties  We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent",
+            "conf": 0.999969482421875,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may combine your personal information with information we collect automatically or obtain from other companies and use it to improve and personalize our services, content and advertising",
+            "conf": 0.9779304265975952,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you do not wish to receive marketing communications from us, you can opt-out through the link attached to each communication or by sending an email to optout@fiverr.com",
+            "conf": 0.9999942183494568,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "your personal information may be disclosed if we go through a business transition such as a merger, sale, transfer of all or a portion of Fiverr's assets, acquisition, bankruptcy or similar event",
+            "conf": 0.9742207527160645,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Some of the personal information you provide to us may be stored or processed on our behalf by third party suppliers and data processors and may be located in other jurisdictions, such as the United States and Israel, whose laws may differ from the jurisdiction in which you live",
+            "conf": 0.9999738931655884,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "When you visit the Site, we may use industry-wide technologies such as \"cookies\" (or similar technologies), which store certain information on your computer and which will allow us, among other things, to enable automatic sign-in to the Site, make your browsing much more convenient and effortless and allow us to test user experience and offer you personalized browsing or promotions.",
+            "conf": 0.9982571601867676,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "The Site uses cookies to collect statistical data about its use, to tailor the Site's functionality to suit personal preferences and to assist with various aspects of Site operation",
+            "conf": 0.9482786059379578,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In particular, we use Google Analytics cookies to obtain an overall view of user habits and volumes, and to help improve the overall experience on the Site.",
+            "conf": 0.9885421991348267,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google Analytics is a third-party web analysis service provided by Google Inc, which uses performance cookies and targeting cookies",
+            "conf": 0.9996938109397888,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "The information generated by these cookies about your use of the Site (including your IP address) will be transmitted to and stored by Google Inc on servers in the United States",
+            "conf": 0.981696605682373,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "This creates an opt-out cookie which prevents the further processing of your data",
+            "conf": 0.9511614441871643,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Users who have registered to the Site agree to keep their password in strict confidence and not disclose such password to any third party",
+            "conf": 0.9878955483436584,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "to erase your personal information in limited circumstances where it is no longer necessary in relation to the purposes for which it was collected or processed",
+            "conf": 0.9996465444564819,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Additionally, as permitted by applicable laws, we may need to retain certain personal information for a limited period of time for record-keeping, accounting and fraud prevention purposes",
+            "conf": 0.9994710683822632,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change this Policy at any time, so please re-visit this page frequently",
+            "conf": 0.9999812245368958,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 4.4
+}

@@ -1,0 +1,411 @@
+{
+    "predictions": [
+        {
+            "label": "7",
+            "text": "BitChute has the discretion to update these Terms at any time",
+            "conf": 0.9999659061431885,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "As our Service is constantly evolving over time, we may change or discontinue all or any part of the Service, at any time and without notice, at our sole discretion",
+            "conf": 0.9999951720237732,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You may use the Service anonymously only if you are aged 16 years or over and are not barred from using the Service under any applicable law",
+            "conf": 0.9999987483024597,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are aged 16 years or over, but still a minor or lack the required legal capacity to enter into a contract where you live, then you must have a parent or legal guardian's permission to use the Service, and your parent or legal guardian must agree to be bound by these Terms on your behalf.",
+            "conf": 0.9910933375358582,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all activities that are carried out or occur under your Account, whether or not you know about them",
+            "conf": 0.9743502140045166,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "that you are aged 16 or over,",
+            "conf": 0.9999961853027344,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all of your Content",
+            "conf": 0.999065101146698,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can remove your Content by specifically deleting it",
+            "conf": 0.9996089935302734,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify, defend and hold harmless BitChute and it's affiliates, directors, officers, employees and agents, from and against all third party actions that:",
+            "conf": 0.9999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "that the information in the notice is true and accurate",
+            "conf": 0.9946349263191223,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate your access to and use of the Service at our sole discretion, at any time and without notice to you",
+            "conf": 0.9993882775306702,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Account at any time from within the Service",
+            "conf": 0.9999502301216125,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE AND CONTENT ARE PROVIDED \"AS IS,\" WITHOUT WARRANTY OF ANY KIND",
+            "conf": 0.9999359846115112,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE MAKE NO WARRANTY THAT THE SERVICE WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS",
+            "conf": 0.9999758005142212,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE MAKE NO WARRANTY REGARDING THE QUALITY, ACCURACY, TIMELINESS, TRUTHFULNESS, COMPLETENESS OR RELIABILITY OF ANY CONTENT",
+            "conf": 0.9998854398727417,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NEITHER BITCHUTE NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SERVICE OR CONTENT WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE SERVICES ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE SERVICE OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT BITCHUTE HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.",
+            "conf": 0.9999696016311646,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Any notices or other communications provided by",
+            "conf": 0.9152474403381348,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "BitChute's failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision",
+            "conf": 0.9999978542327881,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any term, clause or provision of these Terms is deemed to be unlawful, void or for any reason unenforceable, then that term, clause or provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9990531802177429,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This document was last updated on April 25th, 2020",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your own actions on the platform",
+            "conf": 0.9148991703987122,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "As an individual, you are responsible for your own actions, and you may be held accountable for any content that you add to the site, including but not limited to videos, titles, descriptions, comments and any other associated items.",
+            "conf": 0.9910051226615906,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are not responsible for the actions of others on the site, however you should consider that others may be influenced and/or incited by the content you produce",
+            "conf": 0.9996200799942017,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "This document was last updated on March 21st, 2019",
+            "conf": 0.9999966025352478,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your own actions on the platform",
+            "conf": 0.9148991703987122,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "As an individual, you are responsible for our own actions, and you may be held accountable for any content that you add to the site, including but not limited to videos, titles, descriptions, comments and any other associated items.",
+            "conf": 0.9919071793556213,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are not responsible for the actions of others on the site, however you should consider that others maybe influenced and/or incited by the content you produce",
+            "conf": 0.9999393820762634,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "This document was last updated on August 23rd, 2018",
+            "conf": 0.9999969005584717,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "BitChute has the discretion to update the Terms at any time",
+            "conf": 0.9999118447303772,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "As our Service is constantly evolving over time, we may change or discontinue all or any part of the Service, at any time and without notice, at our sole discretion",
+            "conf": 0.9999951720237732,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This document was last updated on September 12th, 2018",
+            "conf": 0.9999966025352478,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "BitChute has the discretion to update these Terms at any time",
+            "conf": 0.9999659061431885,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "As our Service is constantly evolving over time, we may change or discontinue all or any part of the Service, at any time and without notice, at our sole discretion",
+            "conf": 0.9999951720237732,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You may use the Service anonymously only if you are aged 13 years or over and are not barred from using the Service under any applicable law",
+            "conf": 0.9999987483024597,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are aged 13 years or over, but still a minor or lack the required legal capacity to enter into a contract where you live, then you must have a parent or legal guardian's permission to use the Service, and your parent or legal guardian must agree to be bound by these Terms on your behalf",
+            "conf": 0.9999996423721313,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all activities that are carried out or occur under your Account, whether or not you know about them",
+            "conf": 0.9743502140045166,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "that you are aged 16 or over,",
+            "conf": 0.9999961853027344,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all of your Content",
+            "conf": 0.999065101146698,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can remove your Content by specifically deleting it",
+            "conf": 0.9996089935302734,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify, defend and hold harmless BitChute and it's affiliates, directors, officers, employees and agents, from and against all third party actions that:",
+            "conf": 0.9999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "that the information in the notice is true and accurate",
+            "conf": 0.9946349263191223,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate your access to and use of the Service at our sole discretion, at any time and without notice to you",
+            "conf": 0.9993882775306702,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Account at any time from within the Service",
+            "conf": 0.9999502301216125,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE AND CONTENT ARE PROVIDED \"AS IS,\" WITHOUT WARRANTY OF ANY KIND",
+            "conf": 0.9999359846115112,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE MAKE NO WARRANTY THAT THE SERVICE WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS",
+            "conf": 0.9999758005142212,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE MAKE NO WARRANTY REGARDING THE QUALITY, ACCURACY, TIMELINESS, TRUTHFULNESS, COMPLETENESS OR RELIABILITY OF ANY CONTENT",
+            "conf": 0.9998854398727417,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NEITHER BITCHUTE NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SERVICE OR CONTENT WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE SERVICES ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE SERVICE OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT BITCHUTE HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.",
+            "conf": 0.9999696016311646,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Any notices or other communications provided by",
+            "conf": 0.9152474403381348,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "BitChute's failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision",
+            "conf": 0.9999978542327881,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any term, clause or provision of these Terms is deemed to be unlawful, void or for any reason unenforceable, then that term, clause or provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9990531802177429,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This document was last updated on September 12th, 2018",
+            "conf": 0.9999966025352478,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "BitChute has the discretion to update the Terms at any time",
+            "conf": 0.9999118447303772,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "As our Service is constantly evolving over time, we may change or discontinue all or any part of the Service, at any time and without notice, at our sole discretion",
+            "conf": 0.9999951720237732,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc",
+            "conf": 0.99870365858078,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email",
+            "conf": 0.9999926686286926,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, trade, or rent Users personal identification information to others",
+            "conf": 0.9999738931655884,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "To any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets",
+            "conf": 0.9985897541046143,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This document was last updated on April 23rd, 2018",
+            "conf": 0.9999975562095642,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.8
+}

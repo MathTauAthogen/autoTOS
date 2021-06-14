@@ -1,0 +1,418 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Dropbox Terms of Service Posted: April 17, 2018",
+            "conf": 0.9494865536689758,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective: May 25, 2018",
+            "conf": 0.9999964833259583,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We aren\u2019t responsible for the content people post and share via the Services",
+            "conf": 0.9998867511749268,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Finally, to use our Services, you must be at least 13, or in some cases, even older.",
+            "conf": 0.9741312265396118,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you live in France, Germany, or the Netherlands, you must be at least 16",
+            "conf": 0.9998900890350342,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Dropbox Paid Account at any time",
+            "conf": 0.9998958706855774,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We may change the fees in effect but will give you advance notice of these changes via a message to the email address associated with your account",
+            "conf": 0.999984085559845,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Termination You",
+            "conf": 0.9365155100822449,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "\u2019re free to stop using our Services at any time",
+            "conf": 0.9999209642410278,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to suspend or terminate your access to the Services with notice to you if:",
+            "conf": 0.9999700784683228,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Services \u201cAS IS\u201d We strive to provide great Services, but there are certain things that we can't guarantee",
+            "conf": 0.9999966025352478,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY LAW, DROPBOX AND ITS AFFILIATES, SUPPLIERS AND DISTRIBUTORS MAKE NO WARRANTIES, EITHER EXPRESS OR IMPLIED, ABOUT THE SERVICES",
+            "conf": 0.999939501285553,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES ARE PROVIDED \"AS IS.\" WE ALSO DISCLAIM ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT",
+            "conf": 0.9835450649261475,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "WE DON\u2019T EXCLUDE OR LIMIT OUR LIABILITY TO YOU WHERE IT WOULD BE ILLEGAL TO DO SO\u2014THIS INCLUDES ANY LIABILITY FOR DROPBOX\u2019S OR ITS AFFILIATES\u2019 FRAUD OR FRAUDULENT MISREPRESENTATION IN PROVIDING THE SERVICES",
+            "conf": 0.9745886325836182,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IF YOU USE THE SERVICES FOR ANY COMMERCIAL, BUSINESS, OR RE-SALE PURPOSE, DROPBOX, ITS AFFILIATES, SUPPLIERS OR DISTRIBUTORS WILL HAVE NO LIABILITY TO YOU FOR ANY LOSS OF PROFIT, LOSS OF BUSINESS, BUSINESS INTERRUPTION, OR LOSS OF BUSINESS OPPORTUNITY.",
+            "conf": 0.9921138882637024,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You can decline this agreement to arbitrate by clicking here and submitting the opt-out form within 30 days of first registering your account",
+            "conf": 0.9482594728469849,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You may only resolve disputes with us on an individual basis, and may not bring a claim as a plaintiff or a class member in a class, consolidated, or representative action",
+            "conf": 0.9999958276748657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations aren\u2019t allowed",
+            "conf": 0.9998607039451599,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Assignment Dropbox\u2019s failure to enforce a provision is not a waiver of its right to do so later",
+            "conf": 0.9868561029434204,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Modifications We may revise these Terms from time to time to better reflect:",
+            "conf": 0.9914352297782898,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "These updated terms will be effective no less than 30 days from when we notify you",
+            "conf": 0.9966142773628235,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Posted: April 17, 2018",
+            "conf": 0.9999968409538269,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective: May 25, 2018",
+            "conf": 0.9999964833259583,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We use technologies like\u00a0cookies and pixel tags\u00a0to provide, improve, protect, and promote our Services.",
+            "conf": 0.993378758430481,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Users who receive these marketing materials can opt out at any time",
+            "conf": 0.9999322295188904,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you do not want to receive marketing materials from us, simply click the \u2018unsubscribe\u2019 link in any email, or update your preferences in the Notifications section of your personal account",
+            "conf": 0.9999755620956421,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you receive an email and no longer wish to be contacted by Dropbox, you can unsubscribe and remove yourself from our contact list via the message itself",
+            "conf": 0.9994238018989563,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We may share information as discussed below, but we won\u2019t sell it to advertisers or other third parties",
+            "conf": 0.9995325207710266,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you sign up for an account with us, we\u2019ll retain information you store on our Services for as long as your account is in existence or as long as we need it to provide you the Services",
+            "conf": 0.9964462518692017,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you delete your account, we will initiate deletion of this information after 30 days",
+            "conf": 0.998356819152832,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "To provide you with the Services, we may store, process, and transmit information in the United States and locations around the world\u2014including those outside your country",
+            "conf": 0.9999911785125732,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Changes If we are involved in a reorganization, merger, acquisition, or sale of our assets, your information may be transferred as part of that deal",
+            "conf": 0.9661051630973816,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may revise this Privacy Policy from time to time, and will post the most current version on our website",
+            "conf": 0.9869471788406372,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Erase or delete all or some of Your Stuff in your Dropbox account",
+            "conf": 0.9943028092384338,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Posted: 17 April 2018",
+            "conf": 0.9999961853027344,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Dropbox may update the Security Measures from time to time",
+            "conf": 0.9978141784667969,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The Services are not intended for End Users under the age of 13",
+            "conf": 0.9999930262565613,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Customer will ensure that it does not allow any person under 13 to use the Services",
+            "conf": 0.9997047185897827,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Dropbox may terminate this Agreement and suspend Customer",
+            "conf": 0.9062269926071167,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "and (c) Dropbox will delete any End User Accounts and Stored Data relating to Customer\u2019s account in a commercially reasonable period of time following receipt of an Administrator\u2019s request to do so",
+            "conf": 0.9770166277885437,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Customer will indemnify, defend, and hold harmless Dropbox from and against all liabilities, damages, and costs (including settlement costs and reasonable attorneys' fees) arising out of any Claim against Dropbox and its Affiliates regarding: (a) Customer Data",
+            "conf": 0.9997691512107849,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Dropbox will indemnify, defend, and hold harmless Customer from and against all liabilities, damages, and costs (including settlement costs and reasonable attorneys' fees) arising out of any Claim against Customer to the extent based on an allegation that Dropbox's technology used to provide the Services to the Customer infringes or misappropriates any copyright, trade secret, U.S.",
+            "conf": 0.999997079372406,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES AND SOFTWARE ARE PROVIDED \"AS IS.\" TO THE FULLEST EXTENT PERMITTED BY LAW, EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, NEITHER CUSTOMER NOR DROPBOX AND ITS AFFILIATES, SUPPLIERS, AND DISTRIBUTORS MAKE ANY WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE, OR NON-INFRINGEMENT.",
+            "conf": 0.9960190653800964,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(c) Beta Services may not be as reliable or available as the Services",
+            "conf": 0.9959510564804077,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY LAW, EXCEPT FOR DROPBOX OR CUSTOMER'S INDEMNIFICATION OBLIGATIONS, NEITHER CUSTOMER NOR DROPBOX AND ITS AFFILIATES, SUPPLIERS, AND DISTRIBUTORS WILL BE LIABLE UNDER THIS AGREEMENT FOR (I) INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR (II) LOSS OF USE, DATA, BUSINESS, REVENUES, OR PROFITS (IN EACH CASE WHETHER DIRECT OR INDIRECT), EVEN IF THE PARTY KNEW OR SHOULD HAVE KNOWN THAT SUCH DAMAGES WERE POSSIBLE AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE.",
+            "conf": 0.9999642372131348,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Customer may only resolve disputes with Dropbox on an individual basis and will not bring a claim in a class, consolidated or representative action",
+            "conf": 0.9999951124191284,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Class arbitrations, class actions, private attorney general actions and consolidation with other arbitrations are not allowed",
+            "conf": 0.999973475933075,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Dropbox may revise this Agreement from time to time and the most current version will always be posted on the Dropbox Business website",
+            "conf": 0.9992402195930481,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Dropbox may not assign this Agreement without providing notice to Customer, except Dropbox may assign this Agreement or any rights or obligations under this Agreement to an Affiliate or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets without providing notice",
+            "conf": 0.993221640586853,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Posted: April 12, 2017",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective: April 12, 2017",
+            "conf": 0.9999967217445374,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Dropbox\u2019s Privacy Policy will be changing effective May 25, 2018",
+            "conf": 0.9581339955329895,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We use technologies like cookies and pixel tags to provide, improve, protect and promote our Services.",
+            "conf": 0.9966247081756592,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We may share information as discussed below, but we won't sell it to advertisers or other third parties",
+            "conf": 0.9998238682746887,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We'll retain information you store on our Services for as long as we need it to provide you the Services",
+            "conf": 0.9992687702178955,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you delete your account, we'll also delete this information",
+            "conf": 0.9999520182609558,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "To provide you with the Services, we may store, process and transmit information in the United States and locations around the world - including those outside your country",
+            "conf": 0.9999906420707703,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Changes  If we are involved in a reorganization, merger, acquisition or sale of our assets, your information may be transferred as part of that deal",
+            "conf": 0.9522566199302673,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may revise this Privacy Policy from time to time, and will post the most current version on our website",
+            "conf": 0.9919377565383911,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.1
+}

@@ -1,0 +1,404 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We do not sell, give, rent or trade your personal data to advertisers, marketers or spammers",
+            "conf": 0.9999618530273438,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We store your personal data only so long as we need it to provide our services to you and fulfill the purposes described in this Privacy Policy",
+            "conf": 0.9645358920097351,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We will not share such information with third parties, including advertisers or marketers or spammers",
+            "conf": 0.9975138306617737,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We use cookies to help us understand how visitors use our site, but we never sell or transfer any of this information to third parties",
+            "conf": 0.9992066621780396,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices of any websites linked to our site if they are not controlled or owned by Reputation.com.",
+            "conf": 0.9885620474815369,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "We like to send you information and updates via email but you are welcome to opt out of receiving this information at any time",
+            "conf": 0.9995391368865967,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "This Privacy Policy is legally binding and may be updated from time to time",
+            "conf": 0.9998970031738281,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective August 1, 2018",
+            "conf": 0.9999932050704956,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "If you request us to do so, by signing up for one of our services which involves collecting or tracking your Personal Data, we may collect your Personal Data from third-party sources and platforms (such as online review sites, social media sites or other sites on the Internet).",
+            "conf": 0.9071559309959412,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "This information is never sold, rented, traded or given to third parties such as advertisers, spammers or marketers, though in some cases it may be provided to a third party that has been engaged to provide certain services to us and that is under an agreement of confidentiality with respect to such personal data",
+            "conf": 0.9999522566795349,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you are an individual in the EU or Switzerland, we will only send you this information if you consent to us doing so at the time you provide us with your Personal Data (in such case, our legal basis for the processing of your Personal Data will be your consent, but you shall always have the option to unsubscribe).Public",
+            "conf": 0.9925203323364258,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices of third-party sites and any information you post on these sites are governed by the privacy policy or practices and terms of service of that site",
+            "conf": 0.9999892115592957,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "If you ask us to delete your data and we are required to fulfil your request, to keep basic data to identify you and prevent further unwanted processing",
+            "conf": 0.9999996423721313,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Reputation.com will not sell or rent any of your Personal Data to third parties",
+            "conf": 0.9999859929084778,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Reputation.com will not share any of your Personal Data with third parties except in the limited circumstances described below:",
+            "conf": 0.9974888563156128,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "They are contractually prohibited from using your Personal Data for any other purpose and are never permitted to share your information with any third parties",
+            "conf": 0.9995673894882202,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "As with any other business, it is possible that Reputation.com in the future could merge with or be acquired by another company",
+            "conf": 0.9215662479400635,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "agreement with us, we collect, store and process your Personal Data on servers located in the United States",
+            "conf": 0.9235422015190125,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Due to the unpredictable nature of Internet routing, your information may pass through other countries while in transit to our servers",
+            "conf": 0.991917610168457,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Right to erasure: You may ask us to delete or remove your Personal Data, such as where you withdraw your consent.",
+            "conf": 0.9851992726325989,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may review, correct, update, change or delete your Personal Data on your Reputation.com account profile at any time",
+            "conf": 0.9895703196525574,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you wish your Personal Data to be deleted from our database, you may email your request to privacy@reputation.com",
+            "conf": 0.9982490539550781,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your information for at least as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements",
+            "conf": 0.999897301197052,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may also keep your information for longer periods of time consistent with our normal business practices and record-keeping requirements",
+            "conf": 0.998268723487854,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain Personal Data we process on behalf of our clients for as long as needed to provide Services to our client",
+            "conf": 0.9992874264717102,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you have elected to receive marketing communications from us, we retain information about your marketing preferences until you opt out of receiving these communications and in accordance with our policies",
+            "conf": 0.9842106103897095,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the security of your password",
+            "conf": 0.9999844431877136,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for any and all activities that occur under your account",
+            "conf": 0.9998639225959778,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you do share your Reputation.com password with a third party for any reason, the third party will have access to your account and your Personal Data, and you may be responsible for actions taken using your password.",
+            "conf": 0.9995470643043518,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Reputation.com and its partners use cookies or similar technologies to analyze trends, administer the website, track users\u2019 movements around the website, and to gather demographic information about our user base as a whole.",
+            "conf": 0.9256336688995361,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies from Google Analytics, a web analytics service provided by Google Inc.",
+            "conf": 0.9997075200080872,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We partner with a third parties to manage our advertising on other sites Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests.",
+            "conf": 0.983261227607727,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To opt out of receiving any advertising from these providers, please opt out here or email us at privacy@reputation.com Please note you will continue to receive generic ads",
+            "conf": 0.9999634027481079,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "by informing us what",
+            "conf": 0.9407918453216553,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Clear gifs are tiny graphics with a unique identifier, similar in function to cookies and are used to learn about the interactions of our users with the Site and our outbound emails.",
+            "conf": 0.9856066107749939,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In contrast to cookies, which are stored on a user",
+            "conf": 0.9459187388420105,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Please be aware that we, Reputation.com, are not responsible for the privacy practices of such other sites",
+            "conf": 0.9827402234077454,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at privacy@reputation.com",
+            "conf": 0.9999752044677734,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We also offer an opportunity to opt-out of certain communications on the Site, via our user account area",
+            "conf": 0.999880850315094,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may send you push notifications from time-to-time in order to update you about any events or promotions that we may be running",
+            "conf": 0.9601816534996033,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "If we decide to make material changes to our privacy policy, we will notify you by e-mail through the primary e-mail address specified in your account and/or post those changes to this privacy statement on the Site homepage, prior to the changes taking effect",
+            "conf": 0.9941352009773254,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to modify this Privacy Statement at any time",
+            "conf": 0.99993497133255,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event Reputation.com, goes through a business transition, such as a merger, an acquisition by another company, or a sale of a portion of its assets, users\u2019 Personal Data will, in most instances, be part of the assets transferred",
+            "conf": 0.9563817977905273,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Reputation.com Inc.",
+            "conf": 0.9950242042541504,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "\u2019s Terms of Use(Updated May 1,",
+            "conf": 0.9754272699356079,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "and (c) you are 13 years of age or older",
+            "conf": 0.9999964237213135,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children under the age of 13 are prohibited from creating any accounts or purchasing or enrolling for any Services",
+            "conf": 0.9999946355819702,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are entirely responsible for maintaining the confidentiality of the information you hold for your account, including your login ID and password, and for any and all activity that occurs under your account as a result of your failing to keep this information secure and confidential.",
+            "conf": 0.9997488260269165,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Reputaton.com cannot and will not be liable for any loss or damage from your failure to comply with this security obligation",
+            "conf": 0.999972403049469,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "take seriously our responsibility to keep secure the information that our users and customers entrust to us",
+            "conf": 0.9549050331115723,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Your use of the Website and all Content is on an \u201cas is\u201d basis, at your own risk, and we do not make and expressly disclaim any express or implied warranties, representations or endorsements whatsoever (including without limitation warranties of title or non-infringement, or the implied warranties of merchantability or fitness for a particular purpose) with regard to the Website or the Content",
+            "conf": 0.999992847442627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Such Linked Sites are not under our control, and we are not responsible for and do not endorse the content of such Linked Sites, including any information or materials contained on such Linked Sites",
+            "conf": 0.9991838335990906,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNITYYou agree to indemnify, hold harmless and defend us, our officers, directors, employees, agents, and third-party suppliers or affiliates, at your expense, against any and all third-party claims, actions, proceedings, and suits brought against us or any of our officers, directors, employees, agents, third-party suppliers or affiliates, and pay all related liabilities, damages, settlements, penalties, fines, costs or expenses (including, without limitation, reasonable attorneys\u2019 fees and other litigation expenses) incurred by us or any of our officers, directors, employees, agents, third-party suppliers or affiliates, arising out of or relating to: (a) your breach of any term or condition of this Agreement",
+            "conf": 0.9988822937011719,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NEITHER WE, NOR OUR THIRD PARTY SUPPLIERS, WILL BE LIABLE TO YOU OR ANY THIRD-PARTY CLAIMANT FOR ANY INDIRECT, SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, LOST DATA OR LOSS OF GOODWILL), OR INCIDENTAL DAMAGES, WHETHER BASED ON A CLAIM OR ACTION OF CONTRACT, WARRANTY, NEGLIGENCE, STRICT LIABILITY, OR OTHER TORT, BREACH OF ANY STATUTORY DUTY, INDEMNITY OR CONTRIBUTION, OR OTHERWISE, EVEN IF WE OR OUR THIRD PARTY SUPPLIERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH LIABILITY",
+            "conf": 0.9999966025352478,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "By agreeing to this binding arbitration provision, the parties understand that they are waiving certain rights and protections which may otherwise be available if a Claim were determined by litigation in court, including, without limitation, the right to seek or obtain certain types of damages precluded by this arbitration provision, the right to a jury trial, certain rights of appeal, the right bring a claim as a class member in any purported class or representative proceeding",
+            "conf": 0.9996851086616516,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "AMENDMENTS OR MODIFICATIONSWe may amend, modify or terminate any terms of this Agreement at any time and such amendment, modification or termination will be effective at the time we post the revised terms on the site",
+            "conf": 0.9825552105903625,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "You can determine when this agreement was last revised by referring to the \u201clast updated\u201d legend at the top of this agreement",
+            "conf": 0.9486469626426697,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 5.2
+}

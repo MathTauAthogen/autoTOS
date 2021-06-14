@@ -1,0 +1,306 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Posted and effective 12 August 2016",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "SpiderOak reserves the right to update the Services from time to time",
+            "conf": 0.9990476369857788,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Administrators may also have the ability to monitor, restrict, or terminate access to Services accounts",
+            "conf": 0.9971351623535156,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Customer will ensure that it does not allow any person under 13 to use the Services",
+            "conf": 0.9997047185897827,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "SpiderOak reserves the right to revise Service rates, and will provide Customer at least 10 days notice prior to such a revision",
+            "conf": 0.9994425773620605,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If this Agreement terminates: (i) the rights granted by SpiderOak to Customer will cease immediately (except as set forth in this section), (ii) SpiderOak may provide Customer access to its account at then-current fees so that Customer may export its Stored Data, and (iii) after a commercially reasonable period of time, SpiderOak may delete any Stored Data relating to Customer\u2019s account.",
+            "conf": 0.9968303442001343,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Customer will indemnify, defend, and hold harmless SpiderOak from and against all liabilities, damages, and costs (including settlement costs and reasonable attorneys\u2019 fees) arising out of any claim by a third party against SpiderOak and its affiliates regarding (i) Customer Data, (ii) Customer\u2019s use of the Services in violation of this Agreement, or (iii) End Users\u2019 use of the Services in violation of this Agreement",
+            "conf": 0.999988853931427,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "SpiderOak will indemnify, defend, and hold harmless Customer from and against all liabilities, damages, and costs (including settlement costs and reasonable attorneys\u2019 fees) arising out of any claim by a third party against Customer to the extent based on an allegation that SpiderOak\u2019s technology used to provide the Services to the Customer infringes or misappropriates any copyright, trade secret, U.S.",
+            "conf": 0.9999958276748657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES ARE PROVIDED \u201cAS IS",
+            "conf": 0.9997979998588562,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u201d TO THE FULLEST EXTENT PERMITTED BY LAW, NEITHER CUSTOMER NOR SPIDEROAK AND ITS AFFILIATES, SUPPLIERS, OR DISTRIBUTORS MAKE ANY WARRANTY, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A",
+            "conf": 0.9972212314605713,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PARTICULAR USE, AND NON-INFRINGEMENT",
+            "conf": 0.9508775472640991,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY LAW, EXCEPT FOR SPIDEROAK OR CUSTOMER\u2019S INDEMNIFICATION OBLIGATIONS, NEITHER CUSTOMER NOR SPIDEROAK AND ITS AFFILIATES, SUPPLIERS, OR DISTRIBUTORS WILL BE LIABLE UNDER THIS AGREEMENT FOR (i) INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR (ii) LOSS OF USE, DATA, BUSINESS, REVENUES, PROFITS, GOODWILL OR OTHER INTANGIBLE LOSSES (IN EACH CASE WHETHER DIRECT OR INDIRECT), EVEN IF THE PARTY KNEW OR SHOULD HAVE KNOWN THAT SUCH DAMAGES WERE POSSIBLE AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE.",
+            "conf": 0.9999542832374573,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Customer may only resolve disputes with SpiderOak on an individual basis and will not bring a claim in a class, consolidated, or representative action",
+            "conf": 0.9999962449073792,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "SpiderOak may revise this Agreement from time to time",
+            "conf": 0.9967615008354187,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of SpiderOak to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of that right or provision",
+            "conf": 0.9999964833259583,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "SpiderOak may not assign this Agreement without providing notice to Customer, except SpiderOak may assign this Agreement or any rights or obligations under this Agreement to an affiliate or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets without providing notice",
+            "conf": 0.9940680265426636,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Copyright \u00a9 2007 - 2018",
+            "conf": 0.9999081492424011,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Posted and effective as of 4 June, 2016",
+            "conf": 0.999998927116394,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "SpiderOak never sells your information or shares it with third-party advertisers",
+            "conf": 0.9997113347053528,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If all or part of SpiderOak is sold, merged, or otherwise transferred to another company in the future, your information may be transferred as part of that transaction",
+            "conf": 0.9796718955039978,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Account Termination You can disable your SpiderOak account at any time by signing in and canceling it either online or in the application itself",
+            "conf": 0.9999499320983887,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You use SpiderOak at your own risk, and are responsible for taking reasonable measures to secure your account (such as choosing a strong, unique passphrase and keeping it secret).",
+            "conf": 0.9999919533729553,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may revise this Privacy Policy from time to time",
+            "conf": 0.9972199201583862,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Posted and effective as of 4 June 2016",
+            "conf": 0.9999990463256836,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You",
+            "conf": 0.9010707139968872,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "that we don\u2019t retain",
+            "conf": 0.950217604637146,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "However, we have the right\u2014but no duty\u2014to review and remove files for any reason",
+            "conf": 0.999584972858429,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Please don\u2019t use SpiderOak if you\u2019re a minor",
+            "conf": 0.9929853081703186,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "In our sole discretion, we may, at any time\u2014with or without notice\u2014change, eliminate or restrict access to our services, and modify, suspend, or terminate a user account",
+            "conf": 0.9998451471328735,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "SpiderOak is not liable for any damages as a result of these actions",
+            "conf": 0.999963104724884,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We don\u2019t endorse or assume responsibility for any third-party sites, information, materials, products, or services",
+            "conf": 0.9951457381248474,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We work to protect your content and account, but we can\u2019t 100% guarantee that third parties won\u2019t be able to defeat our security measures.",
+            "conf": 0.9887527823448181,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children SpiderOak is only for users 13 years old and older",
+            "conf": 0.9874594211578369,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we learn a child under 13 is using our service, we\u2019ll terminate the child\u2019s account",
+            "conf": 0.9517021775245667,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Please note that an administrator of a group or team may be able to access, restrict, retain, terminate, or remove information from your account with or without notice to you",
+            "conf": 0.9999524354934692,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel your account any time you\u2019d like by simply signing in and canceling your service",
+            "conf": 0.9997737407684326,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Disclaimers\u00a0SpiderOak is provided \u201cas is\u201d without any warranties, express or implied",
+            "conf": 0.9990803003311157,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the fullest extent allowed by law, SpiderOak shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from (A) your access to, use of, inability to access, or inability to use SpiderOak.",
+            "conf": 0.9959022402763367,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "NO CLASS ACTIONS You may bring disputes only on an individual basis and not in a class, consolidated, or representative action",
+            "conf": 0.9999830722808838,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No Waiver No waiver of any provision of these Terms shall be a further or continuing waiver of that term",
+            "conf": 0.9923331141471863,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "SpiderOak\u2019s failure to assert any right or provision under these Terms does not constitute a waiver of that right or provision",
+            "conf": 0.9999849796295166,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Modification The Terms may be modified from time to time",
+            "conf": 0.9866430759429932,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The date of the most recent revisions will always be at",
+            "conf": 0.9041250348091125,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.5
+}

@@ -1,0 +1,12 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "copyright 2007-2018",
+            "conf": 0.9541762471199036,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 0.0
+}

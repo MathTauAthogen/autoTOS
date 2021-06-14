@@ -1,0 +1,593 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Date: July 17, 2018",
+            "conf": 0.9998857975006104,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "They are then deleted from your device once you leave the Service",
+            "conf": 0.998055636882782,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may also opt out or change your behavioral advertising cookie preferences by visiting the opt-out page for the Digital Advertising Alliance(U.S.",
+            "conf": 0.9962031245231628,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may change this Cookie Policy at any time",
+            "conf": 0.9998469948768616,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Please take a look at the date at the top of this page to see when this Cookie Policy was last updated",
+            "conf": 0.999931275844574,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "allow us to improve our services by collecting information about your use of the Service",
+            "conf": 0.901835024356842,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition to cookies, we may also use other similar tracking technologies on our services.",
+            "conf": 0.9922893643379211,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web Beacons (also called \"tracking pixels\", \"internet tags\", \"pixel tags\" or \"clear gifs\"): Web beacons are small blocks of code or graphic images embedded in web pages, mobile applications, advertisements and e-mail messages.",
+            "conf": 0.9968708157539368,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track Response",
+            "conf": 0.985602617263794,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Certain web browsers may allow you to enable a \"do not track\" option that sends signals to the websites you visit indicating that you do not want your online activities tracked",
+            "conf": 0.9873627424240112,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "We do not respond to \"do not track\" signals at this time",
+            "conf": 0.9999345541000366,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last modified on August 6, 2018 and effective on August 6, 2018",
+            "conf": 0.9999930262565613,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "THESE TERMS CONTAIN A BINDING ARBITRATION CLAUSE AND A CLASS ACTION WAIVER",
+            "conf": 0.9986734986305237,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Any use or access to the Service by anyone under 13 is strictly prohibited and in violation of this Agreement and you agree that you will not allow your minor children under the age of 13 to engage in such use",
+            "conf": 0.9999978542327881,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may permanently or temporarily terminate or suspend your access to the Service without notice and liability for any reason, including if in our sole determination you violate any provision of this Agreement, or for no reason",
+            "conf": 0.9998045563697815,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely and entirely responsible for all activities that occur on your download page",
+            "conf": 0.999690055847168,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Humble Bundle shall not be responsible for any losses arising out of the unauthorized use of your download page",
+            "conf": 0.9978185892105103,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Humble Bundle does not assume any responsibility or liability for any such fee, account or third party software or content",
+            "conf": 0.9934824109077454,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Humble Bundle reserves the right to change prices and availability of Products at any time",
+            "conf": 0.9897323250770569,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Humble Bundle reserves the right at any time after receipt of your order to accept or decline your order for any reason",
+            "conf": 0.9971851706504822,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Humble Bundle shall have no liability for issues encountered with downloading, activating or using Products due to factors beyond its control, including your computer's performance and the speed of your internet connection",
+            "conf": 0.9787563681602478,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Once a Product is purchased and you receive the Product, it is your responsibility to keep the Product from being misplaced, damaged or destroyed, and Humble Bundle shall be without liability to you in the event of any loss, damage or destruction.",
+            "conf": 0.9796174168586731,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Notwithstanding any other provision of these Terms, Humble Bundle and its licensors reserve the right, without liability to you, to change, suspend, remove, or disable access to any Products, content, or other materials comprising a part of or sold through the Service at any time without notice",
+            "conf": 0.9999794960021973,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Accordingly, in the event that Humble Bundle changes any part of the Service or discontinues the Service, which Humble Bundle may do at its election, you acknowledge that you may no longer be able to use Products to the same extent as prior to such change or discontinuation, and that Humble Bundle shall have no liability to you in such case",
+            "conf": 0.9887039661407471,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "HUMBLE BUNDLE AND ITS LICENSORS DO NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE SERVICE AND INFORMATION CONTAINED THEREON AND/OR THE PRODUCTS WILL BE SATISFACTORY, UNINTERRUPTED, SECURE, VIRUS-FREE OR ERROR-FREE, AND YOU AGREE THAT FROM TIME TO TIME HUMBLE BUNDLE MAY REMOVE THE SERVICE FOR INDEFINITE PERIODS OF TIME, OR CANCEL THE SERVICE AT ANY TIME, WITHOUT NOTICE TO YOU",
+            "conf": 0.9999970197677612,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE AND ALL PRODUCTS AND SERVICES DELIVERED TO YOU THROUGH THE SERVICE ARE (EXCEPT AS EXPRESSLY STATED BY HUMBLE BUNDLE) PROVIDED \"AS IS\" AND \"AS AVAILABLE\" FOR YOUR USE, WITHOUT WARRANTIES OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, AND HUMBLE BUNDLE AND ITS LICENSORS DISCLAIM ALL WARRANTIES AND CONDITIONS INCLUDING, WITHOUT LIMITATION, ALL IMPLIED WARRANTIES CONDITIONS OF SATISFACTORY QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT, AND ANY WARRANTIES ARISING FROM A COURSE OF DEALING, USAGE OR TRADE PRACTICE.",
+            "conf": 0.9975990056991577,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO CASE SHALL HUMBLE BUNDLE, AND ITS AFFILIATES AND ITS AND THEIR DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, CONTRACTORS, OR LICENSORS (THE \"HUMBLE BUNDLE PARTIES\") BE LIABLE FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF THE SERVICE OR ANY PRODUCTS OR SERVICES DELIVERED TO YOU THROUGH THE SERVICE OR FOR ANY OTHER CLAIM RELATED IN ANY WAY TO YOUR USE OF THE SERVICE, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS IN ANY CONTENT, OR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT (OR PRODUCT) POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE, AND WHETHER ARISING IN TORT (INCLUDING NEGLIGENCE), CONTRACT, STRICT LIABILITY OR OTHERWISE",
+            "conf": 0.994763970375061,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "By using the Service, you agree to indemnify and hold Humble Bundle, its affiliates, and licensors, and their respective directors, officers, shareholders, employees and agents, harmless with respect to any claims, liability, damages, expenses and costs (including but not limited to reasonable attorneys' fees) arising out of the actual or alleged breach of these Terms by you or through your download page or your use or access of the Service",
+            "conf": 0.9999914765357971,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Nothing in this Section shall modify the binding arbitration clause and waiver for class action and jury trial in Section 9(i).",
+            "conf": 0.9884495735168457,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Humble Bundle reserves the right, at any time and from time to time, to update, revise, supplement, and otherwise modify these Terms and to impose new or additional rules, policies, terms, or conditions on your use of the Service or Products",
+            "conf": 0.9999303221702576,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Humble Bundle reserves the right to takes steps it believes are reasonably necessary or appropriate to enforce and/or verify compliance with any part of these Terms (including but not limited to H",
+            "conf": 0.9450892210006714,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "'s right to cooperate with any legal process relating to your use of the Service and/or",
+            "conf": 0.9416931867599487,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ", and/or a third party claim that your use of the Service and/or Products is unlawful and/or infringes such third party's rights).",
+            "conf": 0.9273320436477661,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Humble Bundle does not warrant or endorse and does not assume and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third parties",
+            "conf": 0.976250410079956,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND HUMBLE BUNDLE AGREE THAT (A) THERE IS NO RIGHT OR AUTHORITY FOR ANY DISPUTE TO BE ARBITRATED ON A CLASS-ACTION BASIS OR TO UTILIZE CLASS ACTION PROCEDURES",
+            "conf": 0.999885618686676,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You must use this address to opt out:",
+            "conf": 0.9571091532707214,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Humble Bundle's failure to enforce any right or provisions in these Terms will not constitute a waiver of such provision, or any other provision of these Terms",
+            "conf": 0.9999948740005493,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated September 27, 2018",
+            "conf": 0.999997615814209,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This Policy may be amended or updated from time to time, so please check it regularly for updates",
+            "conf": 0.9999029040336609,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law",
+            "conf": 0.9879627227783203,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Information collected through the use of cookies, Javascript, pixel tags, and other technologies, including information collected using such methods and technologies about (i) your visits to, and interaction and engagement with, the Services, content and ads on third party websites, applications, platforms and other media channels (\u201cChannels\u201d), and (ii) your interaction with emails including the content and ads therein (collectively,\u00a0\u201cOnline Data\u201d).",
+            "conf": 0.9996464252471924,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web Beacons, which are electronic files that allow a website to count users who have visited that page or to access certain cookies.",
+            "conf": 0.9891964197158813,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel Tags, also known as clear GIFs, beacons, spotlight tags or web bugs, which are a method for passing information from the user\u2019s computer to a third party website.",
+            "conf": 0.9957992434501648,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Children.\u00a0The Services are not intended for use by children, especially those under 13",
+            "conf": 0.9983109831809998,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "No one under the age of 13 should provide any Personal Information",
+            "conf": 0.9999909996986389,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minors under the age of 18 are not permitted to make purchases through the Services or obtain coupons or codes from the Services to purchase goods or services on third party websites",
+            "conf": 0.999918520450592,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Please note that Humble Bundle is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the Services or information that you choose to make public in your member profile or other areas of the Services that allow users to upload or post content.",
+            "conf": 0.9909113049507141,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "these third parties may also track your activity over time and over a network of sites",
+            "conf": 0.9959592819213867,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may unsubscribe for free at any time",
+            "conf": 0.9998372197151184,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may unsubscribe from our newsletter lists at any time by following the unsubscribe instructions included in every email we send",
+            "conf": 0.9999772906303406,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We will not send you any emails from a list you have selected to be unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of any other Services you have requested or for additional emails you have signed up for",
+            "conf": 0.99985271692276,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Certain third parties may collect information about you for online behavioral advertising purposes in order for you to receive relevant interest-based advertising on the Services and on other websites, platforms and media channels",
+            "conf": 0.9996941089630127,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Certain tracking technologies enable us to assign a unique identifier to you, and relate information about your use of the Services to other information about you, including your User Information.",
+            "conf": 0.9923288822174072,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "When you receive email messages or newsletters from us, we may use web beacons, embedded scripts, customized links, clear GIFs or similar technologies to determine whether the email has been opened and which links you click in order to provide you with more focused email communications or other information, and/or to aggregate that information with other data we collect to use for some or all of the purposes outlined in this Privacy Policy.",
+            "conf": 0.9993234872817993,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We and our partners (including",
+            "conf": 0.9057338237762451,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "not limited to e-commerce partners, affiliates, and analytics providers) also may use technologies such as pixel tags, IP addresses, and Local Storage such as HTML5 to analyze trends",
+            "conf": 0.9313905239105225,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Certain third parties may collect information about you for online behavioral advertising (\u201cOBA\u201d) purposes in order for you to receive relevant interest-based advertising on the Services and on other websites, platforms and media channels",
+            "conf": 0.9995079040527344,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation);",
+            "conf": 0.9999967217445374,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein or any information third parties obtain through your use of Third Party Features",
+            "conf": 0.9988625049591064,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Some of our advertisers may use third party advertising service companies to serve advertisements, for OBA or otherwise, and perform related services when you interact with the Channels.",
+            "conf": 0.9801927208900452,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Often, these third party advertising companies employ cookies and other technologies to measure the effectiveness of website, app and email advertisements and to create a record of interaction with our content that they use in conjunction with their advertising which appears on other sites or applications, or for reporting website traffic, app use, statistics, advertisement data and/or other activities on the Services.",
+            "conf": 0.9923632740974426,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We may transfer your Personal Information to recipients in other countries",
+            "conf": 0.999164342880249,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "For this reason, we may transfer your User Information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located",
+            "conf": 0.9996749758720398,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "However, we cannot guarantee there will not be a breach, and we are not responsible for any breach of security or for the actions of any third parties",
+            "conf": 0.9986039400100708,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Any such transmission is at your own risk and you are responsible for ensuring that any Personal Information that you send to us are sent securely",
+            "conf": 0.9315876364707947,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Data Retention We take every reasonable step to ensure that your User Information is only retained for as long as they are needed",
+            "conf": 0.9924651980400085,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Online Data related to OBA is kept by Humble Bundle for not more than 180 days after which it will expire, subject to certain conditions",
+            "conf": 0.999771237373352,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The criteria for determining the duration for which we will keep your User Information are as follows: we will retain copies of your User Information in a form that permits identification only for as long as is necessary in connection with the purposes set out in this Policy, unless applicable law requires a longer retention period.",
+            "conf": 0.9895129203796387,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Unless there is a specific legal requirement for us to keep the information, we plan to retain it for no longer than is necessary to fulfill a legitimate business need",
+            "conf": 0.9998605847358704,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Except as may be set forth in this Privacy Policy, Online Data related to OBA is retained by Humble Bundle for not more than 180 days after which it shall expire",
+            "conf": 0.9991947412490845,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "the right to request the erasure, or restriction of Processing, of your Personal Information",
+            "conf": 0.996683657169342,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You may access, correct, or request deletion of your personal information by logging into your account or contacting us through our DSAR Portal",
+            "conf": 0.999742865562439,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out or unsubscribe to a newsletter or other email list at any time by following the instructions at the end of the newsletters or emails you receive",
+            "conf": 0.9999724626541138,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Please allow five to ten business days for changes to take effect",
+            "conf": 0.9734715819358826,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "On some parts of the Service, member service-related communications are an integral part of such Services to which you subscribe and you may continue to receive emails as part of that particular portion of the Services unless you cancel your account, even if you opt out of the newsletters or email list",
+            "conf": 0.9998447299003601,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you have provided more than one email address to us, you may continue to be contacted unless you request to unsubscribe each email address you have provided",
+            "conf": 0.9985540509223938,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "There are a variety of tracking technologies that may be included in mobile applications, and these are not browser-based like cookies and cannot be controlled by browser settings.",
+            "conf": 0.996203601360321,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Some use device identifier, or other identifiers such as \u201cAd IDs\u201d to associate app user activity to a particular app and to track user activity across apps",
+            "conf": 0.9352264404296875,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Humble Bundle is not responsible for any third party data practices, and we recommend that you carefully review their online policies",
+            "conf": 0.9965949654579163,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "Opting out only means that those selected members should no longer deliver certain interest-based advertising to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks).",
+            "conf": 0.9384485483169556,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers\u2019 \u201cdo not track\u201d signals",
+            "conf": 0.9999561905860901,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We recommend that you review our Terms and Conditions regularly, in order to review any changes we might make from time to time",
+            "conf": 0.9984903931617737,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Policy May Change We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them",
+            "conf": 0.9763752222061157,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we believe there is a significant change to this Privacy Policy or our data collection and use practices, we will indicate on our websites that our Privacy Policy has changed prior to the change becoming effective",
+            "conf": 0.9304378628730774,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 2.6
+}

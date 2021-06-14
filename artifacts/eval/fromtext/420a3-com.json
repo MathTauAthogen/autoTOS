@@ -1,0 +1,320 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated July 4, 2019",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated July 4, 2019",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "use Google Analytics or run Google Ads, or use any 3rd party tracking cookies period",
+            "conf": 0.9999435544013977,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated July 4, 2019",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "THE AGREEMENT TO ARBITRATE REQUIRES (WITH LIMITED EXCEPTION) THAT YOU SUBMIT CLAIMS YOU HAVE AGAINST US TO BINDING AND FINAL ARBITRATION, AND FURTHER (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST COMPANY ON AN INDIVIDUAL BASIS, NOT AS 4.2 PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, AND (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON AN INDIVIDUAL BASIS.",
+            "conf": 0.9975294470787048,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "420A3.com DOES NOT ENDORSE, AND IS NOT RESPONSIBLE FOR THE ACCURACY OR RELIABILITY OF, ANY OPINION, ADVICE, STATEMENT, OR OTHER INFORMATION MADE ON THE SITE OR SERVICES, INCLUDING USER CONTENT AND THIRD PARTY MATERIALS (EACH AS DEFINED BELOW).",
+            "conf": 0.9991730451583862,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You must be 21 years of age or a Legal Medical Marijuana card holder to use the Site and/or Services",
+            "conf": 0.9999944567680359,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant that: (a) all required registration information you submit is truthful and accurate",
+            "conf": 0.9875239133834839,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "and (b) you will maintain the accuracy of such information at all times",
+            "conf": 0.9941923022270203,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may deactivate your 420A3.com Account at any time, for any reason, by following the instructions on the Site",
+            "conf": 0.9907757639884949,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your",
+            "conf": 0.9917178750038147,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "420A3.com Account login information and are fully responsible for all activities that occur under your",
+            "conf": 0.977763295173645,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "420A3.com Account",
+            "conf": 0.9385818243026733,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "420A3.com cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements",
+            "conf": 0.9989604949951172,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "420A3.com reserves the right, at any time, to modify, suspend, or discontinue the Site or Services or any part thereof with or without notice",
+            "conf": 0.9999985098838806,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that 420A3.com is not responsible for any User Content, including its accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality, or any other aspect thereof",
+            "conf": 0.9999580383300781,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "420A3.com does not assume and will not have any liability or responsibility to you or any other person or user for your use or misuse of any User Content",
+            "conf": 0.9997749328613281,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNITY.&nbsp;You agree to indemnify and hold 420A3.com (and its officers, employees, and agents) harmless from any and all losses, damages, liabilities, claims, actions, judgments, awards, penalties, fines, costs and expenses (including reasonably attorneys\u2019 fees) arising from or relating to any claim or demand made by any third party due to or arising out of (i) your use or misuse of the Site or Services, (ii) your User Content, (iii) your violation of this Agreement",
+            "conf": 0.9721154570579529,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that 420A3.com is not responsible for Third-Party Materials, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof",
+            "conf": 0.9997981786727905,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "420A3.com does not assume and will not have any liability or responsibility to you or any other person or user for any Third-Party Materials",
+            "conf": 0.9531419277191162,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Each user of the Site or Services is solely responsible for any and all of its User Content",
+            "conf": 0.9568861722946167,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Because we do not control User Content, you acknowledge and agree that we are not responsible for any User Content and we make no guarantees regarding the accuracy, currency, suitability, or quality of any User Content, and we assume no responsibility for any User Content.",
+            "conf": 0.9912108182907104,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that 420A3.com will not be responsible for any loss or damage incurred as the result of any such interactions.",
+            "conf": 0.9912101030349731,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You hereby release and forever discharge 420A3.com (and our officers, employees, agents, successors, and assigns) from, and hereby waive and relinquish your rights with respect to, each and every past, present and future dispute, claim, controversy, demand, right, obligation, liability, action and cause of action of every kind and nature (including personal injuries, death, and property damage), that has arisen or arises directly or indirectly out of, or relates directly or indirectly to, any interactions with, or act or omission of, other Site or Service users or Third Party Materials",
+            "conf": 0.9999053478240967,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SITE AND SERVICES ARE PROVIDED \"AS-IS\" AND \"AS AVAILABLE\" AND WE (AND OUR SUPPLIERS) EXPRESSLY DISCLAIM, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, ACCURACY, OR NON-INFRINGEMENT",
+            "conf": 0.9986964464187622,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(B) WILL BE AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS",
+            "conf": 0.9998961687088013,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL 420A3.com (AND OUR SUPPLIERS) BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY LOST PROFIT OR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES ARISING FROM OR RELATING TO THIS AGREEMENT OR YOUR USE OF, OR INABILITY TO USE, THE SITE OR SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9995939135551453,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ACCESS TO, AND USE OF, THE SITE AND SERVICES ARE AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA RESULTING THEREFROM.",
+            "conf": 0.9874362945556641,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, 420A3.com's (AND OUR SUPPLIERS\u2019) LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS AGREEMENT (FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION), WILL AT ALL TIMES BE LIMITED TO THE GREATER OF (A) FIFTY US DOLLARS ($50) OR (B) AMOUNTS YOU\u2019VE PAID 420A3.com IN THE PRIOR 12 MONTHS (IF ANY).",
+            "conf": 0.9999380111694336,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may (a) suspend your rights to use the Site and/or Services (including your 420A3.com Account) or (b) terminate this Agreement, at any time for any reason at our sole discretion, including for any use of the Site or Services in violation of this Agreement",
+            "conf": 0.999589741230011,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND 420A3.com AGREE THAT ANY SUCH ARBITRATION SHALL BE CONDUCTED ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED OR REPRESENTATIVE ACTION",
+            "conf": 0.9995848536491394,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Notwithstanding any provision in this Agreement to the contrary, if the class-action waiver in the prior sentence is deemed invalid or unenforceable, however, neither you nor we are entitled to arbitration",
+            "conf": 0.9998172521591187,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "may amend these Terms at any time in our sole discretion",
+            "conf": 0.9996277689933777,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to exercise or enforce any right or provision of this Agreement shall not operate as a waiver of such right or provision, nor shall any single or partial exercise by 420A3.com of any right or power hereunder preclude further exercise of that or any other right hereunder",
+            "conf": 0.9999974966049194,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Does not use Google Analytics, Google Ads or any other 3rd party tracking or ad delivery software",
+            "conf": 0.9396848678588867,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated July 4, 2019",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "By submitting personal information through our Services, you expressly consent to the transfer of your personal data to our servers in the U.S.",
+            "conf": 0.9255542755126953,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We DON'T share your data",
+            "conf": 0.9992777705192566,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "The ONLY event that would cause us to pass user data to another entity is if 420A3 is acquired by or merged with another company or involved in any other business deal (or negotiation of a business deal) involving sale or transfer of all or part of our business or assets, we may transfer or assign your information as part of or in connection with the transaction",
+            "conf": 0.9882992506027222,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Finally, in the event of insolvency, bankruptcy, or receivership, information may be transferred as a business asset",
+            "conf": 0.9360957741737366,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To help protect yourself and your information, choose a unique password for our Services and do not use a password on our Services that you would use on any other website or online service",
+            "conf": 0.9930869936943054,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of receiving promotional emails from 420A3 by following the instructions in those emails or by reviewing the settings in your account",
+            "conf": 0.999934732913971,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations",
+            "conf": 0.9998558759689331,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may also send requests about your personal information, including changes to your contact preferences, changes to or deletions of your information or content you post, and requests to opt-out of sharing your personal information with third parties by emailing support@420A3.com",
+            "conf": 0.9317522644996643,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "From time to time, we may revise the Policy",
+            "conf": 0.9705026745796204,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.7
+}

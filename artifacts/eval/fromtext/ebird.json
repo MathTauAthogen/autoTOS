@@ -1,0 +1,68 @@
+{
+    "predictions": [
+        {
+            "label": "7",
+            "text": "Cornell Lab of",
+            "conf": 0.9682067036628723,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "reserves the right to change the Terms at any time without prior notice",
+            "conf": 0.9999571442604065,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The Terms were last updated on May 25, 2018",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The&nbsp;Services and all material and information posted on it is provided to you \u201cas is\u201d without any warranties",
+            "conf": 0.9999588131904602,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Because Cornell Lab of Ornithology has no control over such sites and resources, you acknowledge and agree that Cornell Lab of Ornithology is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such sites or resources.",
+            "conf": 0.996081531047821,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You further acknowledge and agree that Cornell Lab of Ornithology shall not be responsible or liable for any damage or loss caused or alleged to be caused in connection with use of or reliance on any such linked content, goods or services available on or through any such linked site or resource.",
+            "conf": 0.9969887733459473,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend, and hold harmless Cornell Lab of Ornithology",
+            "conf": 0.9550008177757263,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "and their respective officers, directors, employees, agents, members, licensors, representatives, and third party providers to the&nbsp;Services from and against all losses, expenses, damages, and costs, including reasonable attorneys\u2019 fees, resulting from any violation of these Terms",
+            "conf": 0.9902172684669495,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No action of Cornell Lab of Ornithology may be construed as a waiver of any part of these Terms of Use",
+            "conf": 0.989319920539856,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 0.0
+}

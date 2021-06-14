@@ -1,0 +1,733 @@
+{
+    "predictions": [
+        {
+            "label": "3",
+            "text": "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,",
+            "conf": 0.9999974370002747,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE",
+            "conf": 0.9903967380523682,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "The PHP Group may publish revised and/or new versions of the license from time to time",
+            "conf": 0.9560752511024475,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THIS SOFTWARE IS PROVIDED BY THE PHP DEVELOPMENT TEAM ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS",
+            "conf": 0.9398640394210815,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ARE DISCLAIMED",
+            "conf": 0.9941246509552002,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL THE PHP DEVELOPMENT TEAM OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES",
+            "conf": 0.9979569911956787,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE",
+            "conf": 0.9701128602027893,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Version 3, 29 June 2007",
+            "conf": 0.9999969005584717,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "This document and the information contained herein is provided on an \"AS IS\" basis and USERLAND DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF",
+            "conf": 0.992050051689148,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE AWESOMIUM SOFTWARE, INCLUDING, WITHOUT LIMITATION, ALL SOFTWARE, DOCUMENTS, FUNCTIONS, MATERIALS, AND INFORMATION, IS PROVIDED \u201cAS IS",
+            "conf": 0.9999301433563232,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u201d TO THE FULLEST EXTENT PERMISSIBLY BY LAW, AWESOMIUM TECHNOLOGIES MAKES NO OTHER REPRESENTATIONS, EXTENDS NO OTHER WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A",
+            "conf": 0.954345166683197,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ASSUMES NO LIABILITY TO YOU OR ANY OTHER PERSON FOR OR ON ACCOUNT OF ANY INJURY, LOSS OR DAMAGE, OF ANY KIND OR NATURE, SUSTAINED BY, OR ANY DAMAGE ASSESSED OR ASSERTED AGAINST, OR ANY OTHER LIABILITY INCURRED BY OR IMPOSED ON YOU OR ANY OTHER PERSON (INCLUDING DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES",
+            "conf": 0.9899284243583679,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)), ARISING OUT OF OR IN CONNECTION WITH OR RESULTING FROM THE USE OF THE AWESOMIUM SOFTWARE OR THIS EULA, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE",
+            "conf": 0.9835272431373596,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF",
+            "conf": 0.9903925657272339,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ARE DISCLAIMED",
+            "conf": 0.9931355714797974,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES.",
+            "conf": 0.9925987124443054,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE",
+            "conf": 0.9701126217842102,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A",
+            "conf": 0.9806789755821228,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.",
+            "conf": 0.996403157711029,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF THE COPYRIGHT HOLDER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+            "conf": 0.9974158406257629,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE SOFTWARE PROVIDED HEREUNDER IS ON AN \"AS IS\" BASIS, AND THE COPYRIGHT HOLDER HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS",
+            "conf": 0.9999775290489197,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Software distributed under the License is distributed on an \"AS IS\" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied",
+            "conf": 0.9999831914901733,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The authors make NO WARRANTY or representation, either express or implied, with respect to this software, its quality, accuracy, merchantability, or fitness for a particular purpose",
+            "conf": 0.9999591708183289,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "This software is provided \"AS IS\", and you, its user, assume the entire risk as to its quality and accuracy",
+            "conf": 0.9999745488166809,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "the authors accept NO LIABILITY for damages of any kind",
+            "conf": 0.9488981366157532,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "This library is provided with all faults, and the entire risk of satisfactory quality, performance, accuracy, and effort is with the user",
+            "conf": 0.9925117492675781,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are",
+            "conf": 0.9991863369941711,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "libpng versions 0.89, June 1996, through 0.96, May 1997, are",
+            "conf": 0.9995906949043274,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "libpng versions 0.5, May 1995, through 0.88, January 1996, are",
+            "conf": 0.9982565641403198,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The PNG Reference Library is supplied \"AS IS\".",
+            "conf": 0.9975422620773315,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "assume no liability for direct, indirect, incidental, special, exemplary, or consequential damages, which may result from the use of the PNG Reference Library, even if advised of the possibility of such damage",
+            "conf": 0.991599440574646,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "September 10, 2009",
+            "conf": 0.9999812841415405,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Version 2.0, January 2004",
+            "conf": 0.9999968409538269,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied",
+            "conf": 0.9999750852584839,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "This software is provided 'as-is', without any express or implied warranty",
+            "conf": 0.9999929070472717,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event will the authors be held liable for any damages arising from the use of this software",
+            "conf": 0.90414959192276,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE SOFTWARE IS PROVIDED \u201cAS IS\u201d, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A",
+            "conf": 0.9821022748947144,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE",
+            "conf": 0.9989020228385925,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "This Website is intended solely for users who are thirteen (13) years of age or older",
+            "conf": 0.9999949932098389,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Any registration by, use of or access to this Website by anyone under 13, is unauthorized, unlicensed and in violation of this POLICY",
+            "conf": 0.9999948143959045,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using the Service or this Website, you represent and warrant that you are 13 or older, and that you agree to abide by all of the terms and conditions of this POLICY.\u00a0 If you are a minor (under the age of 18), your parent(s) or guardian(s) must complete the registration process, in which case he/she/they will take full responsibility for all obligations under this POLICY, the Privacy Policy located on another page of this Website and all applicable end user or similar license agreements applicable to the Website, Services and any related software.",
+            "conf": 0.9955376982688904,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that it is your sole responsibility to maintain the security of any password you may be assigned to access Your Account",
+            "conf": 0.9999971985816956,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree to provide only accurate information in setting up Your Account",
+            "conf": 0.9999951720237732,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Information you provide in setting up Your Account may be collected, stored, and used as provided in the Privacy Policy located on another page of this Website",
+            "conf": 0.9820831418037415,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "For an annual subscription for a Service, Id Software will provide you with notice of any changes to the fees or billing methods at least twenty (20) days in advance by posting such changes on the Website",
+            "conf": 0.9784924387931824,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "You are responsible for reviewing the Website to obtain timely notice of such changes",
+            "conf": 0.9819526672363281,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Your continued use of the Website and/or any Service twenty (20) days or more after posting of the changes means that you accept such changes",
+            "conf": 0.9836778044700623,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Id Software may terminate any Service at any time by giving you notice of such termination within the time period specified when you joined the particular Service, or if no time period for notice of termination was specified, then within thirty (30) days of the date such notice is posted on the applicable Service",
+            "conf": 0.999820351600647,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Id Software also reserves the right to terminate without notice Your Account for any reason, such as your violation of this POLICY or for no reason in Id Software\u2019s sole discretion",
+            "conf": 0.996734082698822,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You have the right to cancel Your Account or a particular subscription to a Service at any time",
+            "conf": 0.9980964660644531,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If you do not agree to the terms in this POLICY, your sole remedy is to not use the Services and to cancel your Account or applicable subscriptions",
+            "conf": 0.9979450106620789,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You understand and agree that the cancellation of Your Account or a particular subscription is your sole right and remedy with respect to any dispute with Id Software, including but not limited to, any dispute related to or arising out of (1) any term of this POLICY or Id Software",
+            "conf": 0.9775169491767883,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "\u2019s enforcement or application of this POLICY",
+            "conf": 0.9007757902145386,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your interactions with other Website and Service users",
+            "conf": 0.9902489185333252,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Such Third Party Websites and Third Party Applications, Software or Content are not investigated, monitored or checked for accuracy, appropriateness, or completeness by Id Software, and Id Software is not responsible for any Third Party Websites accessed through the Website or any Third Party Applications, Software or Content posted on, available through or installed from the Website or Services, including the content, accuracy, offensiveness, opinions, reliability, privacy practices or other policies of or contained in the Third Party Websites or the Third Party Applications, Software or Content",
+            "conf": 0.9954348206520081,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ID SOFTWARE, ITS AFFILIATES AND THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, LICENSORS, AGENTS, SUCCESSORS, AND ASSIGNS SHALL NOT BE LIABLE FOR ACTUAL, SPECIAL, INDIRECT, CONSEQUENTIAL, PUNITIVE, OR ANY OTHER TYPE OF DAMAGE, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA,",
+            "conf": 0.999997615814209,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "WHETHER OR NOT SUCH DAMAGES ARE FORESEEABLE, AND/OR WHETHER OR NOT ID SOFTWARE WAS ADVISED OR WARNED OF THE POSSIBILITY OF SUCH DAMAGES, AND/OR WHETHER OR NOT SUCH DAMAGES ARISE UNDER CONTRACT, TORT, STRICT PRODUCT LIABILITY, OR OTHER THEORY",
+            "conf": 0.9946615695953369,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS AND/OR EXCLUSIONS OF INCIDENTAL OR CONSEQUENTIAL DAMAGES MAY NOT APPLY TO YOU",
+            "conf": 0.9403944611549377,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN SUCH JURISDICTIONS, ID SOFTWARE'S LIABILITY IS LIMITED AND EXCLUDED TO THE GREATEST EXTENT ALLOWED BY LAW",
+            "conf": 0.9723093509674072,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL THE ENTIRE LIABILITY OF ID SOFTWARE ARISING FROM OR IN ANY WAY RELATED TO THE WEBSITE OR SERVICES OR ANY PART THEREOF EXCEED IN THE AGGREGATE THE FEES PAID BY YOU IN RESPECT OF YOUR USE OF THE SERVICES OVER THE PRIOR THREE",
+            "conf": 0.9746317863464355,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Website and the Services may be temporarily unavailable from time to time for maintenance or other reasons",
+            "conf": 0.999889075756073,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will Id Software be responsible for any loss or damage, including any loss or damage to any user content or personal injury or death, resulting from anyone's use of the Website or the Services, any user content or Third Party Applications, Software or Content posted on or through the Website or the Services or transmitted to users, or any interactions between users of the Website or Services, whether online or offline.",
+            "conf": 0.9989110231399536,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ID SOFTWARE SHALL NOT BE LIABLE FOR ANY DAMAGES, LOSSES, OR LAWSUITS ARISING FROM OR RELATING TO ANY",
+            "conf": 0.9999338984489441,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD HARMLESS ID SOFTWARE, ITS AFFILIATES AND THEIR RESPECTIVE DIRECTORS, EMPLOYEES, OFFICERS, LICENSEES, AGENTS, SUCCESSORS, AND ASSIGNS FROM AND AGAINST ALL DAMAGES, LOSSES, LAWSUITS, AND CLAIMS, INCLUDING, WITHOUT LIMITATION, ATTORNEYS' FEES AND EXPENSES, ARISING FROM OR RELATING TO ANY VIOLATION OF THIS POLICY BY YOU, AT YOUR DIRECTION, OR WITH YOUR ASSISTANCE OR COOPERATION, AND/OR YOUR NEGLIGENT OR INTENTIONALLY WRONGFUL ACTS OR OMISSIONS AND/OR YOUR ACTS AND OMISSIONS TO ACT IN USING THE WEBSITE, SERVICES, AND/OR SOFTWARE IN ACCORDANCE WITH THIS POLICY AND ANY APPLICABLE EULA",
+            "conf": 0.9995801448822021,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE THAT ID SOFTWARE HAS THE RIGHT TO CONTROL THE DEFENSE AND ANY SETTLEMENT OF ALL SUCH DAMAGES, LOSSES, LAWSUITS, AND CLAIMS AT YOUR SOLE COST AND EXPENSE.",
+            "conf": 0.989284336566925,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You further agree to indemnify and hold Id Software harmless for any improper or illegal use of Your Account, including the illegal or improper use of Your Account by someone to whom you have given permission to use Your Account",
+            "conf": 0.999976634979248,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree that you will be personally responsible for your use of the Website and Services and for all of your communication and activity on the Website and Services, including any content you contribute, and that you will indemnify and hold harmless Id Software, its affiliates, employees, officers, and directors from any liability or damages arising from your conduct on the Website and Services, including any content that you contribute",
+            "conf": 0.999985933303833,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This POLICY was last updated September 8, 2011",
+            "conf": 0.9999702572822571,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "In no event shall Licensor be held responsible for any damage in the event your passwords are disclosed, including but limited to any damage that occurs to Your Account, your characters or your scores.\u00a0 Further, Licensor shall not be liable for any financial or emotional damage or distress you may suffer and/or for subsequent loss or damage to Your Account, characters, scores as a result of the disclosure of your passwords to a third party.\u00a0 You shall not disclose your passwords to any third party or allow anyone to use your password to access Your Account, or to use the Software.\u00a0 It is also prohibited to obtain, attempt to obtain, use, or attempt to use the password of anyone else.\u00a0 SUCH DISCLOSURE AND/OR USE IS A BREACH OF THIS AGREEMENT.\u00a0 WE NEVER ASK YOU FOR YOUR PASSWORD BY TELEPHONE OR E-MAIL, AND YOU SHOULD NOT DISCLOSE IT THIS WAY IF SOMEONE ASKS YOU TO DO SO.",
+            "conf": 0.9998688101768494,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF NON INFRINGEMENT, TITLE, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO THE SOFTWARE, CUSTOM, TRADE, QUIET ENJOYMENT, ACCURACY OF INFORMATIONAL CONTENT, OR SYSTEM INTEGRATION, OR ANY WARRANTIES ARISING UNDER ANY STATUTE, COURSE OF DEALING, OR OTHER LEGAL REQUIREMENT OR OTHERWISE",
+            "conf": 0.9992654919624329,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SOFTWARE IS PROVIDED \"AS IS\" AND WITHOUT WARRANTY",
+            "conf": 0.9992837309837341,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "LICENSOR DOES NOT WARRANT OR REPRESENT THAT THE SOFTWARE OR THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE OR THAT THE SOFTWARE WILL MEET YOUR SPECIFIC OR SPECIAL REQUIREMENTS",
+            "conf": 0.9994690418243408,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Except as set forth below, exclusive venue for all litigation regarding this Agreement shall be in Dallas County, Texas USA, and you agree to submit to the jurisdiction of the federal and state courts in Dallas County, Texas, for any such litigation",
+            "conf": 0.9760484099388123,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You hereby agree to indemnify, defend and hold harmless Licensor, its affiliates and their respective officers, employees, directors, agents, licensees (excluding you), sub-licensees (excluding you), successors, and assigns from and against all losses, lawsuits, damages, causes of action, and claims relating to and/or arising from:\u00a0 (i) your breach of this Agreement",
+            "conf": 0.9988903403282166,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that your unauthorized use of the Software, or any part thereof, immediately and irreparably may damage Licensor such that Licensor could not be compensated adequately solely by a monetary award, and in such event, and at Licensor's option, Licensor shall be entitled to an injunctive order, in addition to all other available remedies, including a monetary award, to prohibit such unauthorized use without the necessity of Licensor proving damages or posting bond or other security",
+            "conf": 0.9745004177093506,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "LICENSOR, ITS AFFILIATES AND THEIR RESPECTIVE OFFICERS, EMPLOYEES, DIRECTORS, SHAREHOLDERS, REPRESENTATIVES, AGENTS, LICENSEES (EXCLUDING YOU), SUBLICENSEES (EXCLUDING YOU), SUCCESSORS, AND ASSIGNS SHALL NOT BE LIABLE UNDER ANY CIRCUMSTANCES FOR LOSS OF DATA OR RECORDS, DAMAGE TO ANY SYSTEMS, HARDWARE OR SOFTWARE, LOSS OF PROFITS, LOST SAVINGS, ACTUAL, SPECIAL, INCIDENTAL, CONSEQUENTIAL, INDIRECT, OR PUNITIVE DAMAGES, THIRD PARTY CLAIMS, OR ANY OTHER DAMAGES ARISING FROM ANY ALLEGED CLAIM FOR BREACH OF WARRANTY, BREACH OF CONTRACT, NEGLIGENCE, STRICT PRODUCT LIABILITY, OR OTHER LEGAL THEORY, EVEN IF LICENSOR OR ITS AGENTS HAVE BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH DAMAGES, OR EVEN IF LICENSOR OR ITS AGENTS RECEIVE NOTICE OF THE POSSIBILITY OF ANY SUCH DAMAGES, OR EVEN IF SUCH DAMAGES ARE FORESEEABLE, OR LIABLE FOR ANY CLAIM BY ANY OTHER PARTY",
+            "conf": 0.999183714389801,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you",
+            "conf": 0.9637246131896973,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL THE ENTIRE LIABILITY OF LICENSOR ARISING FROM OR IN ANY WAY RELATED TO THE SOFTWARE OR ANY PART THEREOF, OR THIS AGREEMENT, EXCEED IN THE AGGREGATE THE FEES PAID BY YOU IN RESPECT OF YOUR USE OF THE SERVICES OVER THE PRIOR THREE",
+            "conf": 0.9822328686714172,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Should any provision of this Agreement be held to be void, invalid, unenforceable, or illegal by a court of competent jurisdiction, the validity and enforceability of the other provisions shall not be affected thereby",
+            "conf": 0.9962152242660522,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision is determined to be unenforceable by a court of competent jurisdiction, you agree to a modification of such provision to provide for enforcement of the provision's intent, to the extent permitted by applicable law",
+            "conf": 0.9980661869049072,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Failure of Licensor to enforce any provision of this Agreement shall not constitute or be construed as a waiver of such provision or of the right to enforce such provision",
+            "conf": 0.9996214509010315,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "IMMEDIATELY UPON YOUR FAILURE TO COMPLY WITH THIS AGREEMENT OR YOUR BREACH OF ANY TERM OR PROVISION OF THIS AGREEMENT, THIS AGREEMENT AND THE LICENSE GRANTED TO YOU HEREIN AUTOMATICALLY SHALL TERMINATE, WITHOUT NOTICE, AND LICENSOR MAY PURSUE ALL RELIEF AND REMEDIES AGAINST YOU THAT ARE AVAILABLE UNDER APPLICABLE LAW AND/OR THIS AGREEMENT",
+            "conf": 0.9920101165771484,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: November 11, 2010",
+            "conf": 0.9990489482879639,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to make changes to this Privacy Policy",
+            "conf": 0.9400267004966736,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make a material change to this Privacy Policy, we will notify you by posting the change on the Website or in this Privacy Policy and, if necessary, give you additional choices regarding such change",
+            "conf": 0.9839723110198975,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality of the password and log in information applicable to Your Account",
+            "conf": 0.9544376134872437,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Id Software uses third party tools to track your anonymous activity on our Website in order to collect information",
+            "conf": 0.9404229521751404,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We also use standard technologies, such as cookies, web beacons, and other HTML tools, to collect information about your use of our Website, personalize your experience on our Website, monitor advertisements and other activities, and to record certain information",
+            "conf": 0.9999743103981018,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "web bugs, beacons or tags) are small graphic images placed on a web page, web-based document, or in an e-mail message.",
+            "conf": 0.9941067695617676,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Similarly, and to the extent that we use other advertisers, those companies may place cookies on the browsers of visitors to the Website, collect information regarding your activities online, including the sites you visit, and/or log information that is needed to measure presentation of, and serve advertising to the appropriate geographic region, and to the correct location within the game",
+            "conf": 0.916725754737854,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For more information about the practices of other large ad serving companies that may collect information based on your interaction with ads on this site and others, or to \"opt out\" of targeted advertising delivered by National Advertising Initiative (NAI) member ad networks, you should visit www.networkadvertising.org",
+            "conf": 0.9868550896644592,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Id Software will not sell your Personal Information to third parties, but may share Personal Information with third parties or Id Software Affiliates, as defined below",
+            "conf": 0.9998961091041565,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Id Software may share your Personal Information to related and affiliated entities (\u201cId Software Affiliates\u201d) some of which may be located in the U.S., Canada, Europe, Asia and elsewhere",
+            "conf": 0.9921708106994629,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Id Software does not knowingly solicit Personal Information from persons under the age of 13",
+            "conf": 0.9999014139175415,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13 years of age, you should not access, or attempt to obtain access to, QUAKE LIVE.\u00a0 Teenagers under the age of 18 and over the age of 12 should encourage their parents to review this Privacy Policy",
+            "conf": 0.9999987483024597,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "However, Id Software cannot guarantee that Personal Information will be secure and Id Software shall not be responsible for an unauthorized access to or disclosure of Personal Information",
+            "conf": 0.9989235997200012,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Id Software is not responsible for the privacy practices or the content of other Websites",
+            "conf": 0.9995070099830627,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe from future marketing communications by logging into Your Account at www.quakelive.com \"Edit my Profile\" and modifying your communication preferences",
+            "conf": 0.9999059438705444,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as Id Software.",
+            "conf": 0.9993976354598999,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ID SOFTWARE, ITS AFFILIATES AND THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, LICENSORS, AGENTS, AND ASSIGNS SHALL NOT BE LIABLE FOR SPECIAL, INDIRECT, CONSEQUENTIAL, PUNITIVE, OR ANY OTHER TYPE OF DAMAGE, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA,",
+            "conf": 0.9999967217445374,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ID SOFTWARE SHALL NOT BE LIABLE FOR ANY DAMAGES, LOSSES, OR LAWSUITS ARISING FROM OR RELATING TO ANY EVENT OR OCCURRENCE BEYOND ID SOFTWARE'S COMMERCIALLY PRACTICABLE AND REASONABLE CONTROL, INCLUDING, BUT NOT LIMITED TO, ANY ACT OF",
+            "conf": 0.9326384663581848,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD HARMLESS ID SOFTWARE, ITS AFFILIATES, AND THEIR RESPECTIVE DIRECTORS, EMPLOYEES, OFFICERS, AGENTS, SUCCESSORS, AND ASSIGNS FROM AND AGAINST ALL DAMAGES, LOSSES, LAWSUITS, AND CLAIMS, INCLUDING, WITHOUT LIMITATION, SUCH PARTIES\u2019 ATTORNEYS' FEES AND EXPENSES, ARISING FROM OR RELATING TO ANY VIOLATION OF THIS PRIVACY POLICY BY YOU, AT YOUR DIRECTION, OR WITH YOUR ASSISTANCE OR COOPERATION, AND/OR YOUR NEGLIGENT OR INTENTIONALLY WRONGFUL ACTS OR OMISSIONS AND/OR YOUR ACTS AND OMISSIONS TO ACT IN USING THE WEBSITE IN ACCORDANCE WITH THIS POLICY",
+            "conf": 0.999385416507721,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE THAT ID SOFTWARE HAS THE RIGHT TO CONTROL THE DEFENSE AND ANY SETTLEMENT OF ALL SUCH DAMAGES, LOSSES, LAWSUITS, AND CLAIMS AT YOUR SOLE COST AND EXPENSE",
+            "conf": 0.9991605281829834,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This Privacy Policy was last updated November 22, 2010",
+            "conf": 0.9999977946281433,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 0.9
+}

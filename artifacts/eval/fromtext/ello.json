@@ -1,0 +1,600 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Updated April 25, 2017",
+            "conf": 0.9999936819076538,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Unless otherwise stated on the Creative Brief, the Creative Brief is open to Artists aged at least 18, or the age of majority in their country of residence, if this is not 18 or over",
+            "conf": 0.999984860420227,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "all individuals in the Artist Team agree to release and hold harmless Ello, the Judging Panel, and their respective parent companies, affiliates, subsidiaries, divisions, contractors, subcontractors, partners and any other organizations responsible for fulfilling, administering, advertising or promoting the Creative Brief, and all of their respective past, present and future officers, directors, employees, agents, representatives, successors and assigns (\u201cReleased Parties",
+            "conf": 0.9999925494194031,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") from any losses, whether directly, indirectly or consequentially out of any dispute between any of the individuals in a Artist Team",
+            "conf": 0.9999948143959045,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the fullest extent permitted by applicable law the Released Parties accept no liability to you or any third-party for any loss of use, revenue, profit, data, or for any consequential, incidental, indirect, exemplary, special or punitive damages whether arising out of breach of contract, tort (including negligence) or otherwise, regardless of whether such damage was foreseeable and whether or not such party has been advice of the possibly of such damage, and notwithstanding the failure of any agreed or other remedy of its essential purpose",
+            "conf": 0.9999315738677979,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "to release and hold harmless the Released Parties from and against any and all losses, harm, damages, injury, costs, expenses liability and claims of any kind (including attorneys\u2019 fees), arising out of or relating to your creation or submission of Work, participation in the Creative Brief or any Creative-Brief related activity, acceptance or use or misuse of any Incentive, or the copying, displaying, performing, usage or exploitation of a Work;",
+            "conf": 0.9999937415122986,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "to indemnify, defend and hold harmless the Released Parties from any third- party claims, or actions of any kind and from any losses arising out of any breach or alleged breach by you in any rules or laws, your participation in the Creative Brief, submission of a Work, or acceptance or use or misuse of any Incentive;",
+            "conf": 0.9999998807907104,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "that the Released Parties assume no responsibility for any injury or damage to your or to anyone else\u2019s computer, regardless of how caused, relating to or resulting from entering or downloading files, materials or software or any other activity in connection with the Creative Brief;",
+            "conf": 0.999995231628418,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "that Talenthouse and the Released Parties have neither made nor are in any manner responsible or liable for any warranty, representations or guarantees, express or implied, in fact or in law, relative to any Incentive or any component thereof, including, but not limited to, express warranties provided by the supplier of the Incentive (or any component thereof) or their affiliates",
+            "conf": 0.9885546565055847,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Ello\u2019s and the Released Parties\u2019 failure to enforce any provision of these Official Rules shall not constitute a waiver of that provision",
+            "conf": 0.9996619820594788,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "any disputes, claims and causes of action against the Released Parties related to the Creative Brief, or Incentives other than those concerning the administration of the Creative Brief or determination of Awardee(s) will be resolved individually, without resort to any form of class action",
+            "conf": 0.9999948740005493,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated August 22, 2018",
+            "conf": 0.9999927282333374,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies to analyze how visitors use our websites and to help us provide a better experience for visitors",
+            "conf": 0.9999903440475464,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "A persistent cookie will be stored by the browser and will remain valid until a set expiry date (unless deleted by the user before the expiry date).",
+            "conf": 0.9972270131111145,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "They are unique identifiers used to record a user's actions as they",
+            "conf": 0.9478966593742371,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "They are unique identifiers used to record a user's actions as they",
+            "conf": 0.9478966593742371,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "No personally identifiable data is collected about you",
+            "conf": 0.9896112680435181,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Updated March 10, 2020",
+            "conf": 0.9999964833259583,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "We reserve the right to enforce or not to enforce these guidelines in whatever way we see fit, at our sole discretion",
+            "conf": 0.9953888654708862,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change these guidelines at any time",
+            "conf": 0.999908983707428,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated April 25, 2017",
+            "conf": 0.9999966621398926,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "a mission-driven organization, with a commitment to never display paid advertising, sell member data to third parties",
+            "conf": 0.9327294230461121,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to opt-out of anonymized data collection you may do so on your Settings page",
+            "conf": 0.9887931942939758,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Furthermore, if you do not wish to have your data anonymized, you may opt-out of anonymous on your Ello settings page",
+            "conf": 0.9886044859886169,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Updated August 22, 2018",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "also how you can opt-out of sharing some of this information",
+            "conf": 0.9729893207550049,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "If you choose either of these options, we make best efforts not to send any data about your user behavior, anonymized or otherwise, to any third party service providers",
+            "conf": 0.974200963973999,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can always opt-out of non-administrative emails",
+            "conf": 0.9999725222587585,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "We have made it easy for you to delete posted content from your personal account, and also to delete your account altogether (there\u2019s a link to do so on your personal settings page).",
+            "conf": 0.9999853372573853,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, we may store backups of your content on our servers, even after it is deleted or after you delete your account",
+            "conf": 0.9996585249900818,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "There are many other third party services and websites that may place cookies in your browser",
+            "conf": 0.9630489349365234,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can access or change your personal profile and contact information or delete your account through your Ello personal settings page",
+            "conf": 0.9823154807090759,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you choose to delete or deactivate your account, you can no longer retrieve your content or reactivate your account, and we cannot do so for you",
+            "conf": 0.9997756481170654,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We or an authorized affiliate and/or service provider we work with to store data may keep backups of Ello\u2019s data and code, which may or may not include posts and other information that you put on the Site, even after you have deleted your account",
+            "conf": 0.9924666881561279,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Therefore, even after you delete your account, your data may remain in stored backups, although it will be no longer visible or publicly accessible on the Site",
+            "conf": 0.999995231628418,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Children Under 13 The Site is intended for the general public, but is not meant for children under 13",
+            "conf": 0.9999906420707703,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We don\u2019t knowingly collect personal information from children under 13",
+            "conf": 0.9992409348487854,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "As a result, regardless of where you live, your content is transferred to and stored in the United States, and you hereby consent to the transfer, processing, and storage of your content in the United States",
+            "conf": 0.9999901652336121,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Ello may update this policy from time to time",
+            "conf": 0.9876721501350403,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will let you know if we make significant changes by sending a notice to the email address connected with your Ello account, or by placing a notice in a prominent place on our web site",
+            "conf": 0.9518026113510132,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Updated January 22, 2019 \u2013",
+            "conf": 0.9361785054206848,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "As a network that does not serve advertisements and that does not sell information about its users or use of the Site (defined below) to third parties, Ello has also",
+            "conf": 0.9496439695358276,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "also how you can opt-out of sharing some of this information",
+            "conf": 0.9729893207550049,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Ello uses an anonymized version of Google Analytics to gather and aggregate general information about user behavior.",
+            "conf": 0.967444896697998,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "If you choose either of these options, we make best efforts not to send any data about your user behavior, anonymized or otherwise, to Google or any other third party service provider",
+            "conf": 0.9942110776901245,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can always opt-out of non-administrative emails",
+            "conf": 0.9999725222587585,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "We have made it easy for you to delete posted content from your personal account, and also to delete your account altogether (there\u2019s a link to do so on your personal settings page).",
+            "conf": 0.9999853372573853,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, we may store backups of your content on our servers, even after it is deleted or after you delete your account",
+            "conf": 0.9996585249900818,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "There are many other third party services and web sites that may place cookies in your browser",
+            "conf": 0.9970648288726807,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can access or change your personal profile and contact information or delete your account through your Ello personal settings page",
+            "conf": 0.9823154807090759,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you choose to delete or deactivate your account, you can no longer retrieve your content or reactivate your account, and we cannot do so for you",
+            "conf": 0.9997756481170654,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We or a third party we work with may keep backups of Ello\u2019s data and code, which may or may not include posts and other information that you put on the Site, even after you have deleted your account",
+            "conf": 0.9945117235183716,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Therefore, even after you delete your account, your data may remain in backups on our system, although it will be no longer visible or publicly accessible on the Site",
+            "conf": 0.9999903440475464,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Children Under 13 The Site is intended for the general public, but is not meant for children under 13",
+            "conf": 0.9999906420707703,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We don\u2019t knowingly collect personal information from children under 13",
+            "conf": 0.9992409348487854,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "As a result, regardless of where you live, your content is transferred to and stored in the United States, and you hereby consent to the transfer, processing, and storage of your content in the United States",
+            "conf": 0.9999901652336121,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Ello may update this policy from time to time",
+            "conf": 0.9876721501350403,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will let you know if we make significant changes by sending a notice to the email address connected with your Ello account, or by placing a notice in a prominent place on our web site",
+            "conf": 0.9518026113510132,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "You can also always find the most current version of this policy on our web site, as well as older versions",
+            "conf": 0.9005424976348877,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated April 25, 2017",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update these Terms from time to time",
+            "conf": 0.9997797012329102,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will let you know if we make significant changes by sending a notice to the email address connected with your Ello account, or by placing a notice in a prominent place on our web site",
+            "conf": 0.9518026113510132,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "To be eligible to use Ello, you must be at least 13 years old, you must be old enough to enter into a contract with us, and you must have a valid email address.",
+            "conf": 0.9849220514297485,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right (though we have no obligation) to refuse or remove any Content you post or transfer to Ello for any reason",
+            "conf": 0.9999744296073914,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "When you delete Content or your account is terminated, we will use reasonable efforts to remove all of your Content from Ello",
+            "conf": 0.9951481223106384,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Note that we do retain backups of Content on our servers, and some of your Content may remain on our servers (though not publicly visible) even after you ask to have it deleted",
+            "conf": 0.9998120069503784,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you delete your account or Content, it may be permanently unrecoverable",
+            "conf": 0.9996927380561829,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may delete or modify any part or all of this Service at any time, without notice",
+            "conf": 0.995203971862793,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may add features and functionality from time to time, and we reserve the right to limit use of certain features or functions",
+            "conf": 0.9880922436714172,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Also, if you haven't logged into your account for 365 days, we may delete your account to make room for new users",
+            "conf": 0.9924708604812622,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Again, we will send you a warning e-mail to let you know that your account is about to be removed, giving you a chance to log in and keep your account",
+            "conf": 0.9193568825721741,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "No Children Under 13 You need to be 13 years or older to use Ello",
+            "conf": 0.9999964833259583,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you\u2019re under 13, please don\u2019t use Ello",
+            "conf": 0.9999921917915344,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we learn that you or anyone else is under 13 and is using Ello, we\u2019ll close the child\u2019s account",
+            "conf": 0.9943580627441406,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "As a result, regardless of where you live, your Content is transferred to and stored in the United States, and you hereby consent to the transfer, processing, and storage of your Content in the United States",
+            "conf": 0.9267896413803101,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ELLO AND ALL CONTENT IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9999328851699829,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ELLO IS PROVIDED WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF",
+            "conf": 0.9697571396827698,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING THE FOREGOING, ELLO, ITS SUBSIDIARIES, AND ITS LICENSORS DO NOT WARRANT THAT ELLO OR CONTENT ON ELLO IS ACCURATE, RELIABLE OR CORRECT",
+            "conf": 0.9999071955680847,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You understand that Ello is not responsible or liable for, and you hereby release Ello, to the fullest extent allowed by applicable law from: (a) your interactions or disputes you have with other Ello users, whether those interactions are through Ello or in the real, physical world, (b) your own acts and omissions, and (c) your Content",
+            "conf": 0.9730932712554932,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ELLO, ITS AFFILIATES, AGENTS, DIRECTORS, EMPLOYEES, SUPPLIERS OR LICENSORS BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES, THAT RESULT FROM THE USE OF, OR INABILITY TO USE, THIS SERVICE.",
+            "conf": 0.9995154738426208,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, ELLO\u2019S LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THESE TERMS OR YOUR USE OF ELLO (FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION), WILL NOT EXCEED THE GREATER OF (A) $100 OR (B) TOTAL FEES PAID BY YOU TO ELLO DURING THE SIX (6) MONTHS PRIOR TO THE TIME SUCH CLAIM AROSE",
+            "conf": 0.9637323021888733,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to exercise or enforce any right or provision of these terms shall not operate as a waiver of such right or provision",
+            "conf": 0.9999963641166687,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You acknowledge and agree that you and Ello are each waiving the right to participate as a plaintiff or class member in any purported class action or representative proceeding",
+            "conf": 0.9999735355377197,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and Ello otherwise agree, the arbitrator may not consolidate more than one person\u2019s claims, and may not otherwise preside over any form of any class or representative proceeding",
+            "conf": 0.9999963045120239,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated April 26, 2017",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.1
+}

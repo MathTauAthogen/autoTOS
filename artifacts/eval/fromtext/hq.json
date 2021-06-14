@@ -1,0 +1,411 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": ", the Contest is open to individual persons who are at least 18 years old as of the date of entry",
+            "conf": 0.9516079425811768,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "malfunctions of the telephone network, computer on-line system, computer equipment, software, program malfunctions or other failures, delayed computer transactions or network connections that are human, mechanical or technical in nature, or any combination thereof",
+            "conf": 0.9567942023277283,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE CONTEST IS PROVIDED \"AS IS\" AND SPONSOR DOES NOT MAKE ANY, AND HEREBY DISCLAIMS ANY AND ALL, REPRESENTATIONS OR WARRANTIES OF ANY KIND REGARDING THE CONTEST",
+            "conf": 0.9997193217277527,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NOTWITHSTANDING ANYTHING ELSE HEREIN OR OTHERWISE, SPONSOR SHALL NOT BE LIABLE OR OBLIGATED WITH RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT OR UNDER CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY FOR (A) ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF REVENUE, GOODWILL, OR ANTICIPATED PROFITS) (B) AMOUNTS IN EXCESS OF THE PRIZE FOR THE APPLICABLE CONTEST, (C) DATA LOSS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, AND/OR (D) ANY MATTER BEYOND SUCH PARTIES\u2019 REASONABLE CONTROL.",
+            "conf": 0.9997532963752747,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "By entering the Contest, you agree to and hereby do release and hold harmless Sponsor, its respective parents, subsidiaries and affiliated entities, directors, officers, employees, attorneys, agents, and representatives (the \"Released Parties\") from any damage, injury, death, loss, claim, action, demand, or other liability (collectively, \u201cClaims\u201d) that may arise from your acceptance, possession and/or use of any Prize or your participation in this Contest, or from any misuse or malfunction of any Prize awarded, regardless of whether such Claims, or knowledge of the facts constituting such Claims, exist at the time of entry or arise at any time thereafter, and indemnify each of the Released Parties from any damages arising therefrom",
+            "conf": 0.9999906420707703,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Sponsor reserves the right to modify these Official Rules in any way or at any time",
+            "conf": 0.9774846434593201,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "acknowledge that this information may be personal to you, and by creating an Account and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous",
+            "conf": 0.9921268820762634,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may unsubscribe from some of these messages by emailing us at support@hy.pe, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes",
+            "conf": 0.9997840523719788,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services\u2019 privacy policies",
+            "conf": 0.9995743036270142,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party",
+            "conf": 0.9945147037506104,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Should you ever decide to delete your Account, you may do so through the App, by deleting the App or by emailing support@hy.pe",
+            "conf": 0.9999643564224243,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can delete your Account",
+            "conf": 0.999896228313446,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible",
+            "conf": 0.9971378445625305,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may amend this Privacy Policy from time to time",
+            "conf": 0.9994782209396362,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email",
+            "conf": 0.9970506429672241,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date:&nbsp;July 6, 2017",
+            "conf": 0.9999904036521912,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may also collect personal information from third parties, such as social networks",
+            "conf": 0.9579561352729797,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We will store the personal information we collect about you for no longer than necessary for the purposes set out in Annex 1 and Annex 2 and in accordance with our legal obligations and legitimate business interests.",
+            "conf": 0.9836018085479736,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "Purchasers and third parties in connection with a business transaction: your personal information may be disclosed to third parties in connection with a transaction, such as a merger, sale of assets or shares, reorganisation, financing, change of control or acquisition of all or a portion of our business",
+            "conf": 0.988310694694519,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "As we are located in the USA, any information we collect from you will initially be collected and stored in the USA",
+            "conf": 0.9357475638389587,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You have the right, in some circumstances, to require us to erase your personal information without undue delay if the continued processing of that personal information is not justified",
+            "conf": 0.9820331335067749,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.",
+            "conf": 0.9953680038452148,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Our Service is not directed at persons under 18 and we do not knowingly collect personal information from children under 18",
+            "conf": 0.9999462962150574,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update this privacy policy from time to time and so you should review this page periodically",
+            "conf": 0.9994679689407349,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will usually do this through email or by placing a notice on our Service",
+            "conf": 0.907645583152771,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this privacy policy",
+            "conf": 0.9798292517662048,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "This privacy policy was last modified on May 18th, &nbsp;2018",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": ", policies and procedures that may be published from time to time through the App by us, each of which is incorporated by reference and each of which may be updated from time to time without notice to you",
+            "conf": 0.9178220629692078,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "ARBITRATION NOTICE AND CLASS ACTION WAIVER: EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN THE ARBITRATION SECTION BELOW (SECTION 13), YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION",
+            "conf": 0.9999265074729919,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You represent and warrant that you are an individual person at least 18 years of age",
+            "conf": 0.9999936819076538,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under age 18, you may not, under any circumstances or for any reason, use the Services",
+            "conf": 0.9999992847442627,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for the activity that occurs on your Account, and for keeping your Account password and login credentials secure.",
+            "conf": 0.9964320063591003,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You shall have the ability to delete your Account, either directly or through a request made to one of our employees or affiliates",
+            "conf": 0.996531069278717,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "You represent that all User Content provided by you is accurate, complete, up-to-date, and in compliance with all applicable laws, rules and regulations",
+            "conf": 0.9999162554740906,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that all Content, including User Content, accessed by you using the Services is at your own risk and you will be solely responsible for any damage or loss to you or any other party resulting therefrom.",
+            "conf": 0.9986899495124817,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee that any Content you access on or through the Services is or will continue to be accurate",
+            "conf": 0.9999924898147583,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee that any Content will be made available on the App or through the Services",
+            "conf": 0.9999678134918213,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to, but do not have any obligation to, (i) remove, edit or modify or otherwise manipulate any Content in our sole discretion, at any time, without notice to you and for any reason (including, but not limited to, upon receipt of claims or allegations from third parties or authorities relating to such Content or if we are concerned that you may have violated these Terms of Use), or for no reason at all and (ii) to remove or block any Content from the Services",
+            "conf": 0.9999918341636658,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge and agree that we may terminate any HQ Account at any time for any reason (including, but not limited to, our independent assessment or the receipt of claims or allegations from third parties or authorities).",
+            "conf": 0.9999608397483826,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "These other resources are not under our control, and you acknowledge that we are not responsible or liable for the content, functions, accuracy, legality, appropriateness or any other aspect of such websites or resources",
+            "conf": 0.9979651570320129,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You further acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such website or resource.",
+            "conf": 0.9991362690925598,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate your access to all or any part of the Services at any time, with or without cause, with or without notice, effective immediately, which may result in the forfeiture and destruction of all information associated with your use of the Services",
+            "conf": 0.9999046921730042,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to terminate your Account, you may do so by removing the App from your device and following the instructions on the App or through the Services",
+            "conf": 0.9903995990753174,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES AND CONTENT ARE PROVIDED \"AS IS\", \u201cAS AVAILABLE\u201d AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED",
+            "conf": 0.9882888197898865,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE, AND OUR DIRECTORS, EMPLOYEES, AGENTS, SUPPLIERS, PARTNERS AND CONTENT PROVIDERS DO NOT WARRANT THAT: (I) THE SERVICES WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR LOCATION",
+            "conf": 0.9999986290931702,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You shall defend, indemnify, and hold harmless us, our affiliates and each of our and their respective employees, contractors, directors, suppliers and representatives from all liabilities, claims, and expenses, including reasonable attorneys\u2019 fees, that arise from or relate to your use or misuse of, or access to, the Services, Content, or otherwise from your User Content, violation of these Terms of Use, or infringement by you, or any third party using your Account or identity in the Services, of any intellectual property or other right of any person or entity",
+            "conf": 0.9999983906745911,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL WE, NOR OUR DIRECTORS, EMPLOYEES, AGENTS, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS, BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY WITH RESPECT TO THE SERVICES (I) FOR ANY LOST PROFITS, DATA LOSS, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, COMPENSATORY OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER (HOWEVER ARISING), (II) FOR ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE (REGARDLESS OF THE SOURCE OF ORIGINATION), OR (III) FOR ANY DIRECT DAMAGES IN EXCESS OF (IN THE AGGREGATE) OF&nbsp;THE GREATER OF (A) THE VALUE OF THE PRIZES YOU HAVE WON DURING THE IMMEDIATELY PREVIOUS THREE (3) MONTH PERIOD OR (B) $50.00.",
+            "conf": 0.9999139308929443,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability or formation of these Terms, including, but not limited to any claim that all or any part of these Terms are void or voidable, or whether a claim is subject to arbitration",
+            "conf": 0.9995138645172119,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis",
+            "conf": 0.9999913573265076,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND COMPANY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999934434890747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes",
+            "conf": 0.9999755620956421,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You have the right to opt out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt out to the following address:",
+            "conf": 0.9778264760971069,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "04/20/2018",
+            "conf": 0.9244672060012817,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Company will provide 60-days\u2019 notice of any changes to this section",
+            "conf": 0.9989721179008484,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Except with regarding to Section 13, we reserve the right, in our sole discretion, to modify or replace any of these Terms of Use, or change, suspend, or discontinue the Services (including without limitation, the availability of any feature, database, or content) at any time by posting a notice on the App or by sending you notice through the Services, via email or by another appropriate means of electronic communication",
+            "conf": 0.99990314245224,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder",
+            "conf": 0.9999903440475464,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to enforce any part of these Terms of Use shall not constitute a waiver of our right to later enforce that or any other part of these Terms of Use",
+            "conf": 0.999995768070221,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date of Terms of Use: July&nbsp;6, 2017",
+            "conf": 0.9999978542327881,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.0
+}

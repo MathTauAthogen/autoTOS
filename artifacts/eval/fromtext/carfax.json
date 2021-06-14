@@ -1,0 +1,425 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "OCTOBER 2017",
+            "conf": 0.9999903440475464,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "CARFAX RESERVES THE RIGHT, AT ITS DISCRETION, TO UPDATE OR REVISE THESE TERMS OF USE",
+            "conf": 0.9168531894683838,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CARFAX has the right at any time to change or discontinue any aspect or feature of any Service, including, without limitation, the content and availability of the Service or the equipment required to access or use the Service.",
+            "conf": 0.9940733313560486,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "By creating an account, you represent and warrant to CARFAX that (i) you are over the age of eighteen (18) and have the power and authority to enter into and perform the obligations under these Terms of Use, (ii) you own the vehicles for which you are using the myCARFAX Service and (iii) all information provided by you to CARFAX through the Site is accurate and complete.",
+            "conf": 0.9980698823928833,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality of any password you use to access your account.",
+            "conf": 0.990837812423706,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "CARFAX is not responsible for and does not verify or warrant the accuracy or completeness of the information provided by sellers and the information may contain errors or omissions",
+            "conf": 0.9999907612800598,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "NEITHER CARFAX, ITS AFFILIATES, NOR ANY OF THEIR RESPECTIVE EMPLOYEES, AGENTS, THIRD PARTY CONTENT PROVIDERS, OR LICENSORS (collectively, \u201cCARFAX Parties",
+            "conf": 0.9913842678070068,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") MAKE ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, TO ANY ACTUAL OR PROSPECTIVE BUYER OR OWNER OF ANY VEHICLE AS TO THE EXISTENCE, OWNERSHIP OR CONDITION OF THE VEHICLE, OR AS TO THE ACCURACY OR COMPLETENESS OF ANY INFORMATION ABOUT A VEHICLE LISTED ON THE SITE",
+            "conf": 0.9298430681228638,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CARFAX is not responsible for and does not verify or warrant the accuracy or completeness of any information provided by buyer or seller",
+            "conf": 0.9999412298202515,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "CARFAX has the right but not the obligation to monitor and edit or remove any Submission",
+            "conf": 0.999933660030365,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "CARFAX takes no responsibility and assumes no liability for any Submission posted, stored or uploaded by you or any third party or any response thereto, or for any loss or damage thereto or caused thereby, nor is CARFAX liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter",
+            "conf": 0.9971133470535278,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Services are provided \u201cAS IS\u201d and \u201cAS AVAILABLE\u201d",
+            "conf": 0.99993896484375,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CARFAX does not guarantee the accuracy, integrity, or quality of any ratings, reviews or any other content (user generated or otherwise) on the Site",
+            "conf": 0.9999744892120361,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will CARFAX be liable in any way for any such content, including, but not limited to, any errors or omissions in any ratings, reviews or any other content, or any loss or damage of any kind incurred as a result of the use of or any Submissions or other content",
+            "conf": 0.9751580953598022,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "CARFAX DOES NOT MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE SITE, OR AS TO THE ACCURACY OR RELIABILITY OF ANY CONTENT, INFORMATION, SERVICE, OR MATERIALS PROVIDED THROUGH THE SITE",
+            "conf": 0.9997977018356323,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Although CARFAX has no obligation to screen, edit or monitor any of the information posted to or distributed through the Site, CARFAX reserves the right, and has absolute discretion, to remove, screen or edit without notice any information posted or stored on the Site at any time and for any reason",
+            "conf": 0.9999735951423645,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CARFAX does not endorse, warrant or guarantee the products or services available through the Third Party Offers (or any other third-party products or services advertised on or linked from any Services).",
+            "conf": 0.9740040898323059,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Services may include links to third party web sites, but CARFAX dos not control or assume any responsibility for such web sites.",
+            "conf": 0.9861477017402649,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "CARFAX shall not be liable for any loss, liability, cost or damage arising either directly or indirectly from your access to or use of (or inability to access or use) the Site, including any content including, but not limited to, any loss of use, system damage, impairment or interruption, lost data, personal injury or any other pecuniary or financial loss, whether in an action of contract, negligence, equity or other legal theory.",
+            "conf": 0.9977348446846008,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "It is solely your responsibility to evaluate the accuracy, completeness and usefulness of all reviews, opinions, advice, services and other content provided on the Site",
+            "conf": 0.9092499017715454,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "None of the CARFAX Parties warrant that the Services will be uninterrupted or error free",
+            "conf": 0.9999967217445374,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "nor do they make any warranty as to the results that may be obtained from use of the Services, or as to the accuracy or reliability of any information, service, or materials provided through the Services",
+            "conf": 0.9999918937683105,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "None of the CARFAX Parties guarantee the delivery or accuracy of the content of any alert",
+            "conf": 0.9997870922088623,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You also agree that none of the CARFAX Parties shall be liable for any delays, failure to deliver or misdirected delivery of any alert, for any errors in the content of an alert or for any actions taken or not taken by you or any third party in reliance on an alert",
+            "conf": 0.9343061447143555,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "The CARFAX Parties do not guarantee the correctness or completeness of the Services and none of the CARFAX Parties will be liable for any loss or injury caused, in whole or part, either by its negligence or circumstances beyond its control in procuring, compiling, collecting, interpreting or making available the Services",
+            "conf": 0.9822655320167542,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES, INCLUDING BUT NOT LIMITED TO THE SITE, TOOLS AND CONTENT CONTAINED THEREIN, IS PROVIDED TO YOU \u201cAS IS",
+            "conf": 0.9998917579650879,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u201d CARFAX PARTIES DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES IN REGARD TO QUALITY, AVAILABILITY, PERFORMANCE, NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OTHER THAN THOSE WARRANTIES WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION OR MODIFICATION UNDER APPLICABLE LAW",
+            "conf": 0.9953476190567017,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT WILL ANY OF THE CARFAX PARTIES BE LIABLE IN CONTRACT, IN TORT (INCLUDING FOR ITS OWN NEGLIGENCE) OR UNDER ANY OTHER LEGAL THEORY (INCLUDING STRICT LIABILITY) FOR ANY DAMAGES, INCLUDING, WITHOUT LIMITATION, DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, CONSEQUENTIAL, OR SIMILAR DAMAGES, INCLUDING, WITHOUT LIMITATION, LOST PROFITS OR REVENUES, LOSS OF USE, OR SIMILAR ECONOMIC LOSS, ARISING OUT OF THE USE OF OR INABILITY TO USE ANY SERVICE.",
+            "conf": 0.9997401833534241,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL THE TOTAL LIABILITY OF THE CARFAX PARTIES TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION WHETHER IN CONTRACT, TORT (INCLUDING ITS OWN NEGLIGENCE) OR UNDER ANY OTHER LEGAL THEORY (INCLUDING STRICT LIABILITY) EXCEED THE AMOUNT PAID BY YOU, IF ANY, FOR ACCESSING ANY SERVICES",
+            "conf": 0.9707125425338745,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify, and hold harmless CARFAX Parties from and against any and all claims, actions, demands, damages, costs, liabilities, losses, and expenses (including reasonable attorneys\u2019 fees) arising out of (i) your use of any Service or any content therein, (ii) any distribution, publication, refusal to publish, deletion, editing or other use of any Submission you provide, (iii) your violation of these Terms of Use, (iv) your violation or infringement of any third party\u2019s rights, or (v) any actual, prospective or terminated sale or other transaction between you and a third party",
+            "conf": 0.9999940991401672,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "CARFAX also reserves the right to suspend or terminate any Service, in whole or in part, at any time for any reason or for no reason",
+            "conf": 0.99959796667099,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You and CARFAX both agree that any and all disputes or claims arising out of or relating in any way to any Services, or from any advertising for any such Services, including any question regarding the existence, validity, or termination of these Terms of Use, as well as any issue regarding the interpretation of this Section 19, will be resolved by binding arbitration before a sole arbitrator, rather than in court, except that you may assert claims in small claims court if your claims qualify and CARFAX may pursue a collection action against you in court",
+            "conf": 0.9993471503257751,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You and CARFAX agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, representative, consolidated or mass action",
+            "conf": 0.9999935030937195,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You shall not join or consolidate claims or arbitrate or otherwise participate in any claim as a class representative, class member or in a private attorney general capacity",
+            "conf": 0.9999978542327881,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If for any reason a claim proceeds in court rather than in arbitration or small claims court, including if you opt out under Section 19(a)(ix), we each waive any right to a jury trial and agree that any such proceeding shall be conducted only on an individual basis and not in a class, representative, consolidated or mass action",
+            "conf": 0.9999963045120239,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The CARFAX Parties assume no responsibility, and shall not be liable for, any damages to, or viruses that may infect, your computer equipment or other property on account of your access to, use of, or browsing in the Service or your downloading of any materials, data, text, images, video, or audio from the Service.",
+            "conf": 0.9995629787445068,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default",
+            "conf": 0.9934994578361511,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "MOTOR FURNISHES THE DATABASES ON AN \u201cAS IS\u201d BASIS AND WITHOUT ANY WARRANTY",
+            "conf": 0.9999354481697083,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "MOTOR DOES NOT WARRANT THAT USE OF THE DATABASES WILL BE UNINTERRUPTED OR ERROR FREE, OR WILL MEET YOUR REQUIREMENTS",
+            "conf": 0.9991222620010376,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES SHALL MOTOR BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY KIND OR NATURE WHATSOEVER, ARISING OUT OF OR IN ANY WAY RELATED TO THIS AGREEMENT OR THE DATABASES.",
+            "conf": 0.9934882521629333,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "(iii) No delay or failure by MOTOR to exercise or enforce at any time any right or provision hereof shall be considered a waiver thereof or of MOTOR\u2019s right thereafter to exercise or enforce each and every right and provision of this Agreement",
+            "conf": 0.9991912245750427,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective November 2017",
+            "conf": 0.9999908804893494,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "You should check this Privacy Statement frequently for any changes",
+            "conf": 0.9537566304206848,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "CARFAX web sites are not directed at children under 13 and we will not knowingly allow anyone under 13 to provide any personally identifiable information",
+            "conf": 0.9999855756759644,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13, please do not provide any information about yourself",
+            "conf": 0.999997079372406,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "please do not disclose any personally identifiable information or other sensitive information",
+            "conf": 0.9948591589927673,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "CARFAX web sites may contain web beacons to collect data regarding user traffic patterns.",
+            "conf": 0.9770596027374268,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may collect, or have a third party collect on our behalf, data on the number of visits, paths taken, time spent on CARFAX web sites, how visitors use and navigate through the CARFAX web sites (examples include, the number of users who visit various pages within the CARFAX web sites, information accessed by such visitors, whether they scroll up or down on particular pages or complete any forms).",
+            "conf": 0.9980650544166565,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Currently, CARFAX uses third-party software to monitor the CARFAX web sites, and such software may capture information about your visit that will help us improve the quality of our service",
+            "conf": 0.9966647624969482,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In addition, CARFAX may use Firebase Analytics provided by Google to collect certain information",
+            "conf": 0.9998413920402527,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "CARFAX may also collect (for itself or through a third party service provider) information about pages visited, vehicles researched and viewed and other similar information to create a better user experience and to serve targeted advertising.&nbsp",
+            "conf": 0.9994911551475525,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "CARFAX may include web beacons in some of our email communications to gauge the effectiveness of our customer communications and marketing campaigns.",
+            "conf": 0.9856218099594116,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use information collected through cookies and web beacons to analyze usage, learn about users and deliver customized content and advertising and uncover ways in which we can improve CARFAX web sites and make them easier to use.",
+            "conf": 0.995879054069519,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We do not retain the full payment card account number submitted in the process of purchasing a CARFAX Report in our systems, but we may store partial payment card numbers for up to six months for our reference",
+            "conf": 0.9889224171638489,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "to our affiliates or to third parties, who may aggregate such online activity information across multiple web sites and may use such information for predictive advertising, measuring the effectiveness of advertising, cross device linking or for other purposes.",
+            "conf": 0.9188094139099121,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "CARFAX is not responsible for the privacy practices or the content of any third party web sites",
+            "conf": 0.9999883770942688,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "to update or change the information and opt out of marketing emails",
+            "conf": 0.934772253036499,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of receiving promotional emails from CARFAX when you complete the CARFAX Report order form, or you may unsubscribe at any time by using the link included on all marketing emails",
+            "conf": 0.9999896287918091,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To unsubscribe from receiving promotional emails from CARFAX you can unsubscribe here",
+            "conf": 0.9999786019325256,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to modify this Privacy Statement at any time",
+            "conf": 0.99993497133255,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.2
+}

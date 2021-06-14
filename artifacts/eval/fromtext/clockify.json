@@ -1,0 +1,425 @@
+{
+    "predictions": [
+        {
+            "label": "4",
+            "text": "IN ADDITION, THESE TERMS INCLUDE A BINDING ARBITRATION CLAUSE AND A CLASS ACTION WAIVER IN SECTION 22 OF THE TERMS OF USE",
+            "conf": 0.9942813515663147,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you are a natural person, you need to be at the age of majority (legal age) to be able to use the Service",
+            "conf": 0.9990195631980896,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Legal age depends on the national legislation applicable to the User (probably you need to be 18 years old).",
+            "conf": 0.999963104724884,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using the Service, you represent that you are of legal age",
+            "conf": 0.9994122385978699,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are not at the required age, please stop using the Service or Clockify immediately",
+            "conf": 0.9989337921142578,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "AGREEMENT AMENDMENTS COING may revise and update these Terms of Use or any part of Agreement at any time",
+            "conf": 0.9998478293418884,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "(2) The User did not unsubscribe from the Paid Plan within such a period or by the end of the then-current Subscription Term, whichever date is later",
+            "conf": 0.9933799505233765,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "COING is not responsible for the processing of Client's",
+            "conf": 0.9103044867515564,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "and shall not be liable for any matter in connection therewith",
+            "conf": 0.9697709083557129,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "\u2014 User must maintain the security of the account and password, and share it solely with the authorized persons",
+            "conf": 0.9762722849845886,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "User is responsible and liable for any use of the Website, Services or Clockify through Client's account, whether authorized or unauthorized.COING cannot be held liable for any loss, damages or expenses incurred due to User's failure to comply with this obligation.",
+            "conf": 0.9988701939582825,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "User will be liable for all losses, damages, liability and expenses incurred by COING or a third-party as a consequence of authorized use of the account",
+            "conf": 0.9885888695716858,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Users are fully responsible for all the activities that occur under their User Accounts",
+            "conf": 0.9999358057975769,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "USER CONTENT Users are also solely responsible for all text, documents or other content or information uploaded, entered or otherwise transmitted in connection with your use of the Services and/or Software ( \"User Content\").",
+            "conf": 0.9999421238899231,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "COING reserves the right to refuse, limit or cancel the Service, terminate User Accounts, or remove or edit User Content in its sole discretion",
+            "conf": 0.999727725982666,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Nevertheless, COING has no obligation to monitor User Content (and will make no attempt to do so) and has no obligation to remove any User Content",
+            "conf": 0.9916256666183472,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "COING cannot be held responsible for any loss, damage, expense or other harmful consequences to any User resulting from User Content.",
+            "conf": 0.9822074174880981,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "COING may not be liable for any loss, damages or undesirable consequences resulting from such action",
+            "conf": 0.9999945163726807,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The service is provided on an \"as is\" and \"as available\" basis",
+            "conf": 0.9999903440475464,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "User is solely responsible for any damage User may suffer resulting from the use of the Service",
+            "conf": 0.9969108700752258,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "(b) the Service will be uninterrupted, timely, secure, error-free or of satisfactory quality,",
+            "conf": 0.9999998211860657,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(c) the results that may be obtained from the use of the Service will be accurate or reliable,",
+            "conf": 0.9999996423721313,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "COING and/or its suppliers make no representations about the suitability, reliability, availability, continuity, timeliness, and accuracy of the Service and Software",
+            "conf": 0.9999982714653015,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "(1) to modify, suspend or terminate operation of or access to Clockify, or any part of the Service or any feature for any reason,",
+            "conf": 0.998296320438385,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the maximum extent permitted by applicable law, in no event shall COING and/or its suppliers, employees and representatives be liable for: any indirect, punitive, incidental, special, consequential damages or any damages whatsoever (including, without limitation, damages for loss of use, data or profits, or business interruption) arising out of or in any way connected:",
+            "conf": 0.9999669194221497,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "COING has no control and cannot be held liable for the breach of security of any User\u2019s data outside Cloud Clockify (for example, when a User installs Clockify desktop app, some data may be stored locally).",
+            "conf": 0.9999451637268066,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNIFICATION You agree to indemnify and hold COING harmless from any and all demands, losses, liability, claims or expenses (including attorneys' fees) made against COING by any third party due to or arising out of or in connection with your use of Clockify and the Services or, if you are an Admin User, in connection with the Regular user's use, including but not limited to:",
+            "conf": 0.999997079372406,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In addition, in relation to Server Clockify, Client shall defend, indemnify and hold harmless COING, its officers, directors, employees, contractors, agents and representatives from and against all claims made by, and all damages, liabilities, penalties, fines, costs and expenses payable to, any third party, which arise from Client's or its End User's:",
+            "conf": 0.9999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "(1) you cancel your subscription and/or request for your User Account and all of your Workspaces to be deactivated and deleted;",
+            "conf": 0.9994703531265259,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your subscription at any time, although only an authorized representative of an Enterprise may cancel the Enterprise's account",
+            "conf": 0.9995957016944885,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "User is aware and accepts that closing User Account does not necessarily mean that all Workspaces the User had access to will be automatically deleted",
+            "conf": 0.9522714018821716,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "COING may deny you access to all or any part of the Services or terminate your account with or without prior notice if you engage in any conduct or activities that COING determines, at its sole discretion, violate this Agreement or the rights of COING or any third party, or is otherwise inappropriate",
+            "conf": 0.9992002248764038,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "COING may, at its sole discretion, at any time and for any reason, terminate the Cloud Clockify Service, terminate this Agreement, or suspend or terminate any User Account at Cloud Clockify",
+            "conf": 0.9994941353797913,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "COING may, at its sole discretion for any reason, terminate the Service and/or terminate the Agreement with Client in relation to Server Clockify, after the expiry of 60 days from the day the notice of such termination is sent to Client",
+            "conf": 0.9997696280479431,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you are an authorized user of an Enterprise, your Enterprise may decide to revoke your authorization or terminate your account",
+            "conf": 0.9838964939117432,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "NO WAIVER Our failure to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.9999995827674866,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "COING has no control over such websites and shall not carry any responsibility neither for the availability of those websites nor for the Terms of Use and Privacy Policy that applies to their visitors and users",
+            "conf": 0.9992989301681519,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "NO CLASS ACTION Except where prohibited by law, as a condition of using the Software and/or Service, you agree that any and all disputes, claims and causes of action arising out of or connected with the Software and/or Service, shall be resolved individually, without resort to any form of class action",
+            "conf": 0.9999949336051941,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "class arbitrations and class/representative/collective actions are not permitted",
+            "conf": 0.9999834895133972,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "THE PARTIES AGREE THAT A PARTY MAY BRING CLAIMS AGAINST THE OTHER PARTY ONLY IN EACH INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PUTATIVE CLASS, COLLECTIVE AND/ OR REPRESENTATIVE PROCEEDING, SUCH AS IN THE FORM OF A PRIVATE ATTORNEY GENERAL ACTION AGAINST THE OTHER",
+            "conf": 0.9999942779541016,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and COING agree otherwise, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding",
+            "conf": 0.9999998211860657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "above, COING MAKES NO WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A",
+            "conf": 0.9734512567520142,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PARTICULAR PURPOSE, OR NONINFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OR ANY IMPLIED WARRANTY ARISING FROM STATUTE, COURSE OF",
+            "conf": 0.9341683387756348,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "COING does not warrant that the Software will perform without error or that it will run without immaterial interruption",
+            "conf": 0.9999826550483704,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "(d) all User Data and other information associated with the User Account may be deleted, or may become inaccessible to User;",
+            "conf": 0.9996278285980225,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "These Terms of Use are effective as of 17/09/2019",
+            "conf": 0.999997079372406,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "This includes activities such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction",
+            "conf": 0.9971180558204651,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Persons who are 15 years of age or older may give free consent to the processing of their personal data",
+            "conf": 0.9999996423721313,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Until the account is deleted in accordance with the Terms of Use",
+            "conf": 0.9587101340293884,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If the processing is based on your consent, we keep the information until you withdraw your consent or for one year, whichever date comes first",
+            "conf": 0.9995532631874084,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may unsubscribe from receiving a newsletter from us",
+            "conf": 0.9998984336853027,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may use your email for this purpose until you unsubscribe or until you delete your User Account",
+            "conf": 0.9998533129692078,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We may transfer your personal data to countries other than the one you reside in",
+            "conf": 0.9992521405220032,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We retain personal data for as long as we reasonably require it for legal or business purposes",
+            "conf": 0.9991781711578369,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When we no longer need personal information, or when you request us to delete your information, where this is legal, we will securely delete or destroy it",
+            "conf": 0.9997531175613403,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Right to Erasure You have the right to request from us that your personal data is deleted in certain circumstances including:",
+            "conf": 0.9999688267707825,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u2014 The personal data are no longer needed for the purpose for which they were collected;",
+            "conf": 0.9990329742431641,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Right to Restriction of Processing If the accuracy of the personal data is contested, you consider the processing is unlawful but you do not want it erased, we no longer need the personal data but you require it for the establishment, exercise or defense of legal claims or you have objected to the processing and verification, you can exercise your right to the restriction of processing",
+            "conf": 0.9990918636322021,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change Privacy Policy from time to time at our sole discretion",
+            "conf": 0.9997979402542114,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on October 15, 2019",
+            "conf": 0.9999899864196777,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.3
+}

@@ -1,0 +1,586 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective date: May 7, 2019",
+            "conf": 0.9999882578849792,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "we don't sell it to third parties",
+            "conf": 0.9983073472976685,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We don\u2019t collect information from children under 13, and we don\u2019t collect sensitive data",
+            "conf": 0.9964750409126282,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not host advertising on GitHub and we do not sell your personal information",
+            "conf": 0.9998854398727417,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies for the overall functionality of our website, and we use a small number of tracking and analytics services on a few parts of our site.",
+            "conf": 0.9838371872901917,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you of material changes to this Privacy Statement 30 days in advance of any such changes becoming effective",
+            "conf": 0.9999060034751892,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may use aggregated, non-personally identifying information to operate, analyze, improve, and optimize our website and service",
+            "conf": 0.9684197306632996,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use common internet technologies, such as cookies and web server logs, to collect Technical Information.",
+            "conf": 0.9772838950157166,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "All of this information is entirely optional, and you have the ability to access, modify, and delete it at any time (while you are not able to delete your email address entirely, you can make it private).",
+            "conf": 0.9856407046318054,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to request erasure of data we process on the basis of consent or object to our processing of personal information, please use our Privacy contact form.",
+            "conf": 0.9813989400863647,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you're a child under the age of 13, you may not have an account on GitHub",
+            "conf": 0.9999963045120239,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "GitHub does not knowingly collect information from or direct any of our content specifically to children under 13",
+            "conf": 0.9998615980148315,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account",
+            "conf": 0.9973405599594116,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Other countries may have different minimum age limits, and if you are below the minimum age for providing consent for data collection in your country, you may not use GitHub without obtaining your parents' or legal guardians' consent",
+            "conf": 0.9980713129043579,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not share, sell, rent, or trade User Personal Information with third parties for their commercial purposes, except where you have specifically told us to (such as by buying an integration from Marketplace).",
+            "conf": 0.9999935030937195,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not host advertising on GitHub",
+            "conf": 0.9319759011268616,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "However, we do not sell this information to advertisers or marketers",
+            "conf": 0.9992979168891907,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "While GitHub processes all User Personal Information in the United States, our third party vendors may process data outside of the United States or the European Union",
+            "conf": 0.999991238117218,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may share User Personal Information if we are involved in a merger, sale, or acquisition",
+            "conf": 0.9477761387825012,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell that content",
+            "conf": 0.9989590644836426,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you're already a GitHub user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting GitHub Support or GitHub Premium Support",
+            "conf": 0.9375772476196289,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Generally, GitHub will retain User Personal Information for as long as your account is active or as needed to provide you services",
+            "conf": 0.9999112486839294,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may retain certain User Personal Information indefinitely, unless you delete it or request its deletion",
+            "conf": 0.9992271661758423,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, we don\u2019t automatically delete inactive user accounts, so unless you choose to delete your account, we will retain your account information indefinitely",
+            "conf": 0.9322170615196228,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you would like to cancel your account or delete your User Personal Information, you may do so in your user profile",
+            "conf": 0.9999728202819824,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days",
+            "conf": 0.9956888556480408,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You may contact GitHub Support or GitHub Premium Support to request the erasure of the data we process on the basis of consent within 30 days",
+            "conf": 0.9990615844726562,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, we will delete or deidentify your personal information, including your user name and email address, from the author field of issues, pull requests, and comments by associating them with the ghost user",
+            "conf": 0.9932957887649536,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We are unable to change or delete data in the Git commit history \u2014 the Git software is designed to maintain a record \u2014 but we do enable you to control what information you put in that record",
+            "conf": 0.9999596476554871,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "On certain areas of the website, we may also use cookies to identify you and/or your device to advertise GitHub products and services to you on third party sites.",
+            "conf": 0.9779756665229797,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use a number of third party analytics and service providers to help us evaluate our users' use of GitHub",
+            "conf": 0.9296075701713562,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Some browsers have incorporated \"Do Not Track\" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked",
+            "conf": 0.9625308513641357,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "a browser that supports it, cookies on some parts of our website will track your online browsing activity on other online services over time, though we do not permit third parties other than our analytics and service providers to track GitHub users' activity over time on GitHub",
+            "conf": 0.9813014268875122,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We store and process the information that we collect in the United States in accordance with this Privacy Statement (our subprocessors may store and process data outside the United States).",
+            "conf": 0.9999984502792358,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "There's an unsubscribe link located at the bottom of each of the marketing emails we send you",
+            "conf": 0.9999927878379822,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that you can not opt out of receiving important communications from us, such as emails from our Support team or system emails, but you can configure your notifications settings in your profile",
+            "conf": 0.9995348453521729,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Our emails might contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is",
+            "conf": 0.9926050305366516,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Although most changes are likely to be minor, GitHub may change our Privacy Statement from time to time",
+            "conf": 0.9998983144760132,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your GitHub account",
+            "conf": 0.9998747706413269,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel this agreement and close your Account at any time",
+            "conf": 0.9999544024467468,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "We provide our service as is, and we make no promises or guarantees about this service",
+            "conf": 0.999996542930603,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement",
+            "conf": 0.9983991384506226,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are fully responsible for your use of the service",
+            "conf": 0.9994956254959106,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights",
+            "conf": 0.9990870952606201,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective date: April 19, 2019",
+            "conf": 0.9999974370002747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "A User must be at least 13 years of age",
+            "conf": 0.9996603727340698,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "you must be 13 or over",
+            "conf": 0.9517640471458435,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You alone are responsible for your Account and anything that happens while you are signed in to or using your Account",
+            "conf": 0.995620846748352,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for keeping your Account secure",
+            "conf": 0.9993300437927246,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be age 13 or older",
+            "conf": 0.9990471005439758,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service",
+            "conf": 0.9999899864196777,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for keeping your Account secure while you use our Service",
+            "conf": 0.9045538306236267,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all content posted and activity that occurs under your Account (even when content is posted by others who have Accounts under your Account).",
+            "conf": 0.9996479749679565,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the security of your Account and password.",
+            "conf": 0.9634565711021423,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation",
+            "conf": 0.9967944025993347,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We have the right to remove content or close Accounts if we need to",
+            "conf": 0.9996854066848755,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content.",
+            "conf": 0.9929250478744507,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any public display or misuse of your User-Generated Content",
+            "conf": 0.9995338320732117,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post",
+            "conf": 0.9457985162734985,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "You must provide Users with a method of deleting any User Personal Information or User-Generated Content you have collected through GitHub after it is no longer needed for the limited and specified purposes for which the User authorized its collection, except where retention is required by law or otherwise permitted, such as through a license",
+            "conf": 0.9990568161010742,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for any fees associated with your use of GitHub",
+            "conf": 0.9825525283813477,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may close your Account at any time",
+            "conf": 0.9998916387557983,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel your Account at any time by going into your Settings in the global navigation bar at the top of the screen",
+            "conf": 0.9977059960365295,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups",
+            "conf": 0.9998419880867004,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately",
+            "conf": 0.9994637370109558,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "GitHub reserves the right to refuse service to anyone for any reason at any time",
+            "conf": 0.9929921627044678,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We provide our service as is, and we make no promises or guarantees about this service",
+            "conf": 0.999996542930603,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "GitHub provides the Website and the Service \u201cas is\u201d and \u201cas available,\u201d without warranty of any kind",
+            "conf": 0.9999873042106628,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement",
+            "conf": 0.9998822808265686,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "that the Service will be uninterrupted, timely, secure, or error-free",
+            "conf": 0.999992311000824,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "that the information provided through the Service is accurate, reliable or correct",
+            "conf": 0.9999783039093018,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.",
+            "conf": 0.9866867661476135,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement",
+            "conf": 0.9983991384506226,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from",
+            "conf": 0.9999982714653015,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your use of the service",
+            "conf": 0.9554440975189209,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If you have a dispute with one or more Users, you agree to release GitHub from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes",
+            "conf": 0.9689256548881531,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys\u2019 fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding",
+            "conf": 0.9999929666519165,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "(2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability).",
+            "conf": 0.9956287741661072,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them",
+            "conf": 0.9975184202194214,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments",
+            "conf": 0.9987277388572693,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website",
+            "conf": 0.9998992681503296,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice",
+            "conf": 0.9999982714653015,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision",
+            "conf": 0.9999949336051941,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 4.4
+}

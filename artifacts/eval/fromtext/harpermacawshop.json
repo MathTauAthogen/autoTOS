@@ -1,0 +1,47 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective date: December 1st, 2015",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this information to help us improve your shopping experience.",
+            "conf": 0.9764014482498169,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Harper Macaw does not sell or exchange names or any other information about our customers with third parties",
+            "conf": 0.999956488609314,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically",
+            "conf": 0.9999216198921204,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website",
+            "conf": 0.9993078708648682,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective date: December 1st, 2015",
+            "conf": 0.9999978542327881,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.8
+}

@@ -1,0 +1,341 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Edited November 25th, 2019",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated June 21, 2019",
+            "conf": 0.9999974966049194,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you create an account on the Service (your \u201cAccount",
+            "conf": 0.9997960329055786,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "), you are responsible for maintaining the security of your Account and its Content (as defined below), and you are fully responsible for all activities that occur under your Account and any other actions taken on the Service.",
+            "conf": 0.9981047511100769,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Dribbble will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions",
+            "conf": 0.9980936646461487,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We reserve the right to modify our billing rates at any time upon thirty (30) days written notice by posting such fee changes to the Service or through email notification to you",
+            "conf": 0.999819815158844,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Dribbble reserves the right to refuse or remove any Content or terminate or deny access to your use of the Service for any reason whatsoever",
+            "conf": 0.9999200105667114,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend and hold the Indemnified Parties (as defined in Section 13 below) harmless from and against any and all claims, losses, liability, demands, obligations, expenses (including reasonable attorney\u2019s fees), fees, fines, taxes, penalties, assessments, and judgments arising out of or relating to any candidate you Hire, including without limitation (a) claims by any such candidates for breach of contract, discrimination, and harassment, (b) actions concerning misclassification, benefits, taxes, and statutory violations, and (c) an assertion or determination that Dribbble is an employer or joint employer of any such candidates",
+            "conf": 0.9999989867210388,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Dribbble does not have any control over those non-Dribbble websites and webpages, and is not responsible for their contents or their use.",
+            "conf": 0.99074786901474,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are still responsible for any and all personal information that is part of any Content",
+            "conf": 0.9999610781669617,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "It is your responsibility to check the Terms periodically for changes",
+            "conf": 0.9994516372680664,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Dribbble may terminate your access to all or any part of the Service at any time, with or without cause, with or without notice, effective immediately",
+            "conf": 0.9999426603317261,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to terminate the Terms or your Account (if you have one), you may simply discontinue using the Service",
+            "conf": 0.9975004196166992,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "The Service are provided on an \u201cas is\u201d and \u201cas available\u201d basis",
+            "conf": 0.999981701374054,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Dribbble expressly disclaims all representations, warranties, or conditions of any kind with respect to the Service, whether express or implied, including, but not limited to, any implied warranties or conditions of merchantability, fitness for a particular purpose, accuracy, completeness, performance, system integration, quiet enjoyment, title, and non-infringement",
+            "conf": 0.9990993142127991,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that, under no legal theory, including, but not limited to negligence, breach of warranty or condition, breach of contract or tort, will Dribbble or its owners, officers, directors, affiliates, contractors, employees or agents, be liable to you or any third party acting on your behalf for any indirect, incidental, special, consequential, punitive, or exemplary damages or damages for loss of profits, goodwill, use, data, or other intangible losses or the cost of any substitute equipment, facilities or services (even if Dribbble has been advised of the possibility of such damages), arising from or relating to the Terms or your use of or your inability to use the Service, or for any damages arising from or related to the Terms",
+            "conf": 0.9985529184341431,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You also agree that Dribbble will not be responsible or liable for any loss or damage of any kind incurred as the result of any interactions or dealings with advertisers or as the result of the presence of such advertisers on the Service.",
+            "conf": 0.9990050196647644,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "and (ii) you hereby expressly give up your right to participate as a member of a class of claimants, in any lawsuit including but not limited to class action lawsuits involving any such dispute",
+            "conf": 0.9999426603317261,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend, and hold harmless Dribbble, and its subsidiaries, affiliates, co-branders, all third-party advertisers, technology providers, service providers or other partners, and each of their respective officers, directors, agents, shareholders, employees and representatives (together, the \u201cIndemnified Parties\u201d), from and against any third party claim, demand, loss, damage, cost, or liability (including, reasonable attorneys\u2019 fees) (collectively and individually, \u201cClaims\u201d) incurred by or made against the Indemnified Parties in connection with any Claims arising out of or relating to the Terms, the Service, including but without limitation in relation to: (a) your use, non-use or misuse of, or connection to the Service and any Content",
+            "conf": 0.9999973773956299,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Dribbble reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Dribbble and you agree to cooperate with Dribbble",
+            "conf": 0.9597811102867126,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s defense of these Claims",
+            "conf": 0.9718877077102661,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any portion of the Terms is deemed unlawful, void or unenforceable by any arbitrator or court of competent jurisdiction, the Terms as a whole will not be deemed unlawful, void or unenforceable, but only that portion of the Terms that is unlawful, void or unenforceable will be stricken from the Terms",
+            "conf": 0.9389393329620361,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree that if Dribbble does not exercise or enforce any legal right or remedy which is contained in the Terms (or which Dribbble has the benefit of under any applicable law), this will not be taken to be a formal waiver of Dribbble\u2019s rights and that those rights or remedies will still be available to Dribbble",
+            "conf": 0.999991774559021,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated October 4, 2019",
+            "conf": 0.9999952912330627,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Amendments to this Privacy Policy will be posted to the Site and/or Services and will be effective when posted",
+            "conf": 0.9746814966201782,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Dribbble shall not be liable to you or any other person for any damages that might result from unauthorized use, publication, disclosure or any other misuse of such payment information, including credit card information.",
+            "conf": 0.9896573424339294,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "Your personal information may be stored and processed in any country where we have facilities or in which we engage third party service providers",
+            "conf": 0.9999940991401672,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "By using the Services, you consent to the transfer of information to countries outside your country of residence, which may have different data protection rules than in your country",
+            "conf": 0.9697543978691101,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": ") requirements providing adequate protection for the transfer of personal information from the EU/EEA to third country",
+            "conf": 0.9047724604606628,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We provide an opt-out function within all email communications of this nature, or will cease to communicate with you for this purpose if you contact us and tell us not to communicate this information to you",
+            "conf": 0.9924860000610352,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Age of Consent We do not knowingly provide the Services to, and will not knowingly collect the personal information from anyone under the age of consent",
+            "conf": 0.999981701374054,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you live in a country in the EU/EEA, you must be at least 16 years old to use our Services or such greater age required in your country to register for or use our Services",
+            "conf": 0.9999971389770508,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you live in any other country except those in the EU/EEA, you must be at least 13 years old to use our Services or such greater age required in your country to register for or use our Services",
+            "conf": 0.9999872446060181,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In addition to being of the minimum required age to use our Services under applicable law, if you are not old enough to have authority to agree to our Privacy Policy in your country, your parent or guardian must agree to our Privacy Policy on your behalf",
+            "conf": 0.9999976754188538,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Neither the Site nor the Services are intended for children under 13 years of age, and no one under age 13 may provide any personal information to, on or through the Site or Services",
+            "conf": 0.999993622303009,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal information from children under 13",
+            "conf": 0.9997414946556091,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13, do not use or provide any information to, on or through the Site or Services, make any purchases through the Site or Services, use any of the interactive or public comment features, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use",
+            "conf": 0.9999568462371826,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": ") the right to erasure of personal information about you, under certain conditions",
+            "conf": 0.9785994291305542,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Links The Site and/or Services may contain links to other sites and we are not responsible for the privacy practices or the content of such sites",
+            "conf": 0.9999505877494812,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "Change of Ownership or Business Transition In the event of a change of ownership or other business transition, such as a merger, acquisition or sale of our assets, your information may be transferred in accordance with applicable privacy laws",
+            "conf": 0.9999900460243225,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We strongly recommend that you do not disclose your password to anyone",
+            "conf": 0.9642459750175476,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Ultimately, you are responsible for maintaining the secrecy of your identification, passwords and/or any personal information in your possession for the use of the Site and/or Services",
+            "conf": 0.9134361743927002,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for, and cannot control, the use by others of any information which you provide to them and you should use caution in selecting the personal information you provide to others through the Site or Services.",
+            "conf": 0.9968072772026062,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Similarly, we cannot assume any responsibility for the content of any personal information or other information which you receive from other users through the Site or Services, and you release us from any and all liability in connection with the contents of any personal information or other information which you may receive using the Site or Services.",
+            "conf": 0.9995346665382385,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We cannot guarantee, or assume any responsibility for verifying, the accuracy of the personal information or other information provided by any third party",
+            "conf": 0.9805673956871033,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You release us from any and all liability in connection with the use of such personal information or other information of others",
+            "conf": 0.9987755417823792,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We will maintain your personal information for as long as they are needed, or as required by applicable laws, regulations, or government orders",
+            "conf": 0.9999984502792358,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may update this Privacy Policy from time to time",
+            "conf": 0.9996366500854492,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.7
+}

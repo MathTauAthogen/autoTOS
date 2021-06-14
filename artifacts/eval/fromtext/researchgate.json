@@ -1,0 +1,355 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated: January 08th,",
+            "conf": 0.9999982714653015,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: October 23rd, 2017.For",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Agreement to arbitrate, class action waiver and release",
+            "conf": 0.9591696262359619,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You may not accept, adopt, or post content that falsely or misleadingly implies an incorrect identity, inaccurate biographical facts, or misleading information about your qualifications, work experience, or achievements.You warrant and represent that all Personal Information you provide is accurate and complete",
+            "conf": 0.9678204655647278,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "When necessary and/or appropriate, as when another User reports inappropriate content to us, we may delete, modify, or reformat any materials, content, or information submitted by you",
+            "conf": 0.9957877397537231,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that all content accessed by you in connection with your use of the Service is at your own risk and you will be solely responsible for any damage or loss to any party resulting from your access to or your inability to access such content.If you have chosen to make your information publicly available, you understand that Member Submissions may be shared with third parties in connection with your use of the Service, and that we cannot and do not control any such third parties.",
+            "conf": 0.9996379613876343,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18, you may not use or attempt to register for the Service.You are obliged to keep your password to access the Service secret",
+            "conf": 0.9999873638153076,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ResearchGate will not disclose your password to any third party, shall only use it during the login process, and shall not ask for your password at any time other than during the login process.",
+            "conf": 0.9889416098594666,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for anything that happens through your account, unless you close it or report misuse.You must not",
+            "conf": 0.9680036306381226,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Changes to these TermsWe reserve the right to modify these Terms at any time",
+            "conf": 0.974054217338562,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will provide notice regarding any modifications by sending an email and/or posting an online notice on the Service, and asking Members to accept the new terms",
+            "conf": 0.9998183846473694,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "You are obliged to check your account regularly for a notice about changes to these Terms",
+            "conf": 0.9183157682418823,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "IndemnityYou will indemnify and hold ResearchGate (including our affiliates and subsidiaries, as well as our and their respective officers, directors, employees, agents) harmless from any claim or demand, including reasonable legal fees, made by any third party due to or arising out of your breach of these Terms, your improper use of the Service, or your breach of any law or your violation of the rights of a third party",
+            "conf": 0.9409952759742737,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "1215/2012.If",
+            "conf": 0.9999670386314392,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If ResearchGate does not act to enforce a breach of these Terms, that does not mean ResearchGate has waived its rights to enforce these Terms",
+            "conf": 0.9999234080314636,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision or portion of these Terms is held to be or becomes invalid, illegal, unenforceable, or in conflict with the law of any applicable jurisdiction, the validity, legality, and enforceability of the remaining provisions shall not in any way be affected or impaired thereby",
+            "conf": 0.999647319316864,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "No warranty and releaseThe Service is provided \"as is\" and we disclaim any and all representations and warranties, whether express or implied, including, but not limited to, implied warranties of title, merchantability, fitness for any particular purpose, or non-infringement",
+            "conf": 0.9999924898147583,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not promise any specific results, effects, or outcome from the use of the Service.We do not represent or warrant that the Service and the data and information provided are accurate, up-to-date, complete, or reliable",
+            "conf": 0.9999927878379822,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible or liable for any damage, disadvantage, or loss of profit, whether material or immaterial, that is caused by the usage or non-usage of the Service.",
+            "conf": 0.9924562573432922,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Neither you nor we shall be entitled to join or consolidate claims in arbitration by or against other individuals or entities, or arbitrate any claim as a representative member of a class or in a private attorney general capacity",
+            "conf": 0.9999970197677612,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "The notice must be sent within 30 days of the effective date of these Terms or your first use of the Service, whichever is later",
+            "conf": 0.9985274076461792,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We will provide 30 days\u2019 notice of any changes to this section",
+            "conf": 0.9997062683105469,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: October 23rd,",
+            "conf": 0.9999977946281433,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "ResearchGate reserves the right to modify this Privacy Policy at any time, in particular, to reflect changes in market conditions affecting ResearchGate",
+            "conf": 0.9219445586204529,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "In the event we modify this Privacy Policy, any new version shall be effective 30 days immediately after the posting of such revised Privacy Policy on the Service, unless stated otherwise",
+            "conf": 0.9815026521682739,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes to this Privacy Policy, we will notify Members by email or other reasonable means, including through notifications on our Service",
+            "conf": 0.9988791346549988,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "if we do so, we will inform you by updating this Privacy Policy",
+            "conf": 0.9086464643478394,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Information we automatically collectWe and service providers acting on our behalf store log files and use tracking technologies such as cookies, web beacons, tracking pixels, and local shared objects, also known as flash cookies, to collect information relating to you and your use of the Service.\u201cCookies\u201d are small files that enable us to store and collect specific information related to you and your use of the Service on your computer or other end devices.",
+            "conf": 0.9986571669578552,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can also delete cookies from your computer\u2019s hard drive at any time",
+            "conf": 0.974413275718689,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "\u2019s features.In addition to cookies, ResearchGate uses so-called pixels, web beacons, clear GIFs, and other similar mechanisms (\u201cPixels\u201d).",
+            "conf": 0.9851945042610168,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ".Third party advertising including tailored advertising and analyticsWe have advertising on our Service so we can continue to offer many of our features for free",
+            "conf": 0.9915089011192322,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When advertisers or ad networks place advertisements on our Service, they may collect or we may share the following types of information from within our Service:",
+            "conf": 0.9988456964492798,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Advertisers or ad networks may collect this information through the use of tracking technologies like browser cookies and web beacons (see explanations above), and they may use a single tracking technology or multiple tracking technologies at the same time.The information collected may be used to:",
+            "conf": 0.9990513920783997,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "offer you targeted advertising in order to personalize your experience by showing you advertisements that are more relevant to you",
+            "conf": 0.9676289558410645,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google services may include Google Analytics, a web analytics service, Google Analytics Advertising Features, namely for remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, and integrated services that require Google Analytics to collect data via advertising cookies and anonymous identifiers, and Google\u2019s DoubleClick Services.",
+            "conf": 0.998869001865387,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Any information generated by the cookies about your use of the Service (including your IP address) will be transmitted to and stored by Google on servers in the United States of America",
+            "conf": 0.9921652674674988,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This enables us to display advertisements that best match to your particular interests",
+            "conf": 0.973786473274231,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In order to show these advertisements and measure their performance on and off our Service, we work with a variety of business partners",
+            "conf": 0.9805590510368347,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Please be aware that this will not opt you out of being served advertising",
+            "conf": 0.97536700963974,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may use your Personal Information to communicate with you about ResearchGate and products or services by email, postal mail, telephone, text message, or other means",
+            "conf": 0.9996952414512634,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to stop receiving promotional communications from us, you can follow the unsubscribe instructions at the bottom of each email we send, contact us here or, if you have an account with us, change your preferences by signing into your account through the Service",
+            "conf": 0.9997519850730896,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Sharing of Personal Information with third partiesGenerally, ResearchGate does not share the Personal Information collected - or that you provide to ResearchGate - with third parties unless we have obtained your prior consent",
+            "conf": 0.9517515301704407,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "In addition, in the event that assets of ResearchGate are transferred or sold to another entity, Personal Information may be transferred to the acquiring entity and/or to potential acquiring entities to the extent permitted by applicable law and we will seek your consent where required",
+            "conf": 0.9033807516098022,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "AreaThe Personal Information that ResearchGate collects from you and that you provide to ResearchGate is processed in Canada and is stored on servers in Canada",
+            "conf": 0.9703139066696167,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Your Personal Information may also be transferred to any third parties as described in this Privacy Policy",
+            "conf": 0.9416136741638184,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Some of these third parties with whom your Personal Information will be shared are located outside of the European Economic Area, in countries whose data protection laws may not be as extensive as those which apply to us",
+            "conf": 0.9958731532096863,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your User ID and password which relate to your access to certain pages of the Service and/or any account you set up with us.",
+            "conf": 0.9893134236335754,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree to accept responsibility for all activities which occur in relation to the same",
+            "conf": 0.9631183743476868,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We will not be responsible to you if there is unauthorized access to your login details or unauthorized activity on the Service as a result of your login details becoming known by someone else, unless this was due to our negligence.Despite our efforts regarding security it is important to bear in mind that the Internet is not a secure means of communication.",
+            "conf": 0.94862300157547,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We will retain Personal Information from closed or inactive accounts to the extent and as long as it is necessary and relevant for our operations and/or to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Service, and/or take other actions otherwise permitted by law.In general, Personal Information from closed or inactive accounts will be deleted or anonymized one year after the account is closed or deactivated unless we have reasonable grounds to believe that the Personal Information should be retained for one of the purposes identified above.",
+            "conf": 0.9993723034858704,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 2.7
+}

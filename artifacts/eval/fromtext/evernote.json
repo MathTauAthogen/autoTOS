@@ -1,0 +1,383 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective date: August 28, 2017",
+            "conf": 0.9999914169311523,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Skitch does not access any additional personal information",
+            "conf": 0.9969971179962158,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Skitch Touch does not access any additional personal information",
+            "conf": 0.999099612236023,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Evernote Web Clipper does not access any additional personal information",
+            "conf": 0.9996767044067383,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Evernote Clearly does not access any additional personal information",
+            "conf": 0.9994926452636719,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: August 28, 2017",
+            "conf": 0.9999890923500061,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "These Terms may be amended as new features, technology, or legal requirements arise, so please check back from time to time",
+            "conf": 0.9993653893470764,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the accuracy, completeness and confidentiality of your Basic Subscriber Information, and you will be responsible for all activities that occur under your account, including activities of others to whom you have provided your Basic Subscriber \u00a0Information.",
+            "conf": 0.9919606447219849,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for any loss or damage arising from your failure to provide us with accurate information or to keep your Basic Subscriber Information secure.",
+            "conf": 0.991212010383606,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Evernote also has no responsibility for the availability of the Internet and other telecommunication services necessary to access the Service",
+            "conf": 0.9460747838020325,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We will not have any liability to you (or anyone you share your Basic Subscriber Information with) as a result of your or their actions under those circumstances",
+            "conf": 0.9363294839859009,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "that each owner of intellectual property is responsible for protecting their rights and taking any legal or other action they determine to be appropriate to do so, and Evernote does not accept any obligation to take any particular action to enforce or protect any party",
+            "conf": 0.9838738441467285,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s intellectual property rights on their behalf",
+            "conf": 0.9773653149604797,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Evernote is not directed to minors, and any use by minors should only be done with the guidance, supervision and consent of their parents, guardians and/or authorized school officials",
+            "conf": 0.995426595211029,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "The Service is available worldwide, but your data is stored in the United States, as described in our Privacy Policy",
+            "conf": 0.9995168447494507,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you use the Service, you acknowledge that you may be sending electronic communications (including your Basic Subscriber Information and Content), through computer networks owned by Evernote, its Service Providers, and other third parties located in California and other locations in the United States and other countries",
+            "conf": 0.999849796295166,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Evernote may act to temporarily limit your use of the Service, suspend access to your account, or close your account, with or without notice according to these Terms",
+            "conf": 0.9996626973152161,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "In most cases, in the event we elect to close your account, we will provide at least 30 days advance notice to you at the email address you have provided to us, so you have a chance to retrieve any Content stored on the Service servers (unless we determine that we are legally prohibited from providing such notice or enabling you to do so).",
+            "conf": 0.9615224003791809,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Some advertising or other messaging content we provide will be based upon information provided by third parties, and we shall not be responsible or liable for any loss or damage of any sort incurred by you as a result of any advertisements or other messages.",
+            "conf": 0.9993955492973328,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We may have little or no control over such sites or developers and, accordingly, you acknowledge and agree that (i) we are not responsible for the availability of such external sites, content or applications.",
+            "conf": 0.997606098651886,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "(ii) we are not responsible or liable for any content or other materials or performance available from such sites or applications and (iii) we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, materials or applications.",
+            "conf": 0.9937006831169128,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold Evernote, its subsidiaries, affiliates, officers, agents, employees, advertisers, Service Providers and other partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including legal and other professional fees) arising from or in any way related to any third party claims relating to your use of any of the Service, any violation of these Terms of Service or any other actions connected with your use of the Service (including all actions taken under your account",
+            "conf": 0.9999999403953552,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "To the maximum extent permitted by law, the Service Is Available \u201cAs Is",
+            "conf": 0.999964714050293,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u201d YOU EXPRESSLY UNDERSTAND AND AGREE THAT:",
+            "conf": 0.9978054165840149,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE IS PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9998480677604675,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, EVERNOTE EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING,",
+            "conf": 0.9291406869888306,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "EVERNOTE DOES NOT WARRANT THAT (i) THE SERVICE WILL MEET ALL OF YOUR REQUIREMENTS",
+            "conf": 0.9992294311523438,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(ii) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE",
+            "conf": 0.9999499917030334,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT YOUR OWN DISCRETION AND RISK AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER OR OTHER DEVICE OR LOSS OF DATA RESULTING FROM THE DOWNLOAD OR USE OF ANY SUCH MATERIAL.",
+            "conf": 0.9902876615524292,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT EVERNOTE, ITS SUBSIDIARIES, AFFILIATES, SERVICE PROVIDERS, AND LICENSORS, AND OUR AND THEIR RESPECTIVE OFFICERS, EMPLOYEES, AGENTS AND SUCCESSORS SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, COVER OR OTHER INTANGIBLE LOSSES (EVEN IF EVERNOTE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) RESULTING FROM: (i) THE USE OR THE INABILITY TO USE THE SERVICE OR TO USE PROMOTIONAL CODES OR EVERNOTE POINTS.",
+            "conf": 0.9999826550483704,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This email address may be updated as part of any update to these Terms of Service",
+            "conf": 0.9909008741378784,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND EVERNOTE AGREE, AS PART OF THE ARBITRATION AGREEMENT, THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS PART OF ANY PURPORTED CLASS OR REPRESENTATIVE ACTION OR PROCEEDING",
+            "conf": 0.9999932050704956,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "WE REFER TO THIS AS THE \u201cPROHIBITION OF CLASS AND REPRESENTATIVE ACTIONS",
+            "conf": 0.9998998045921326,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u201d UNLESS BOTH YOU AND WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN YOUR OR OUR CLAIM WITH ANOTHER PERSON'S OR PARTY'S CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE OR CLASS PROCEEDING",
+            "conf": 0.9999851584434509,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Except with respect to the Prohibition of Class and Representative Actions, if a court decides that any part of this Arbitration Agreement is invalid or unenforceable, the other parts of this Arbitration Agreement shall continue to apply",
+            "conf": 0.998943567276001,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If a court decides that the Prohibition of Class and Representative Actions is invalid or unenforceable, then this entire Arbitration Agreement shall be null and void",
+            "conf": 0.9991759657859802,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: May 25, 2018",
+            "conf": 0.9999948740005493,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Although significant changes are rare, this policy may be amended as new features, technology, or legal requirements arise, so please check back from time to time",
+            "conf": 0.9999260306358337,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Usage data may be collected through cookies, and similar technologies",
+            "conf": 0.9996054172515869,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of promotional communications at any time by following the opt-out or \u201cunsubscribe\u201d instructions provided in emails or by logging into your Evernote service account via our web site at www.evernote.com and going to Settings &gt",
+            "conf": 0.9991590976715088,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You will continue to receive essential Service-related and account-related information (such as notification that your paid subscription is about to expire), even if you unsubscribe from promotional emails or turn off in-app notifications",
+            "conf": 0.9999932646751404,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Evernote is not in the business of selling or renting your information",
+            "conf": 0.9997666478157043,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not share your information with any third parties for their own advertising purposes",
+            "conf": 0.9985997080802917,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Evernote is not responsible for any publication or use of any information you choose to post in these locations",
+            "conf": 0.9995245337486267,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "In the event of a merger, sale, or reorganization of all or part of our business, information covered by this policy may be transferred in connection with that deal",
+            "conf": 0.9199795722961426,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "As described on our Cookie Information page, we contract with third-party advertising networks in order to deliver relevant Evernote advertisements to you across the Internet and to manage our communications with you",
+            "conf": 0.9958555102348328,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of certain ad targeting and retargeting services by visiting the Digital Advertising Alliance\u2019s opt-out page, or the Network Advertising Initiative\u2019s opt-out page",
+            "conf": 0.9997900128364563,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We vigilantly protect the privacy of your account",
+            "conf": 0.9665145874023438,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "However, if you prefer, you can contact us at compliance@evernote.com to ask us to provide access to, correct, update, or delete your personal information",
+            "conf": 0.9996660947799683,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The Evernote service\u2019s back-up systems may retain residual copies of your deleted Content for up to one year due to the nature of those systems\u2019 operations",
+            "conf": 0.9998509287834167,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For users who are inactive for extended periods of time, we may close your account to satisfy our obligations under applicable law, and in accordance with our data retention policy",
+            "conf": 0.9994667172431946,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "As described above, you can delete your Content at any time, and you can stop using the Evernote service at any time",
+            "conf": 0.99996018409729,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "This means that if you store information in or submit data to the Evernote website or Evernote Software and sync such Evernote Software with the Evernote service, you acknowledge your personal information will be transmitted to, hosted, and accessed in the United States",
+            "conf": 0.9655299782752991,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under the Privacy Shield, Evernote Corporation will remain liable if its third-party service providers process your personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage",
+            "conf": 0.9741684794425964,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.7
+}

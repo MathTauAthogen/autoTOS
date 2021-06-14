@@ -1,0 +1,306 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Date: 2018.5.24",
+            "conf": 0.9999959468841553,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you (including by posting the updated Terms on the Services) of changes to these Terms",
+            "conf": 0.9998531341552734,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "PLEASE NOTE THAT SECTION X CONTAINS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER THAT MAY AFFECT YOUR RIGHTS FOR RESOLVING ANY DISPUTE WITH US",
+            "conf": 0.9993987083435059,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You also represent that you either are over the age of majority in your country or, consistent with applicable law, use the Services only with the permission and under the supervision of a parent or legal guardian that has reviewed and agreed to these Terms",
+            "conf": 0.9999774098396301,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children (as defined under applicable law) may not register for an account and may not provide any personal information to Nexon or others through the Services",
+            "conf": 0.9947724938392639,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You will keep your username and password confidential and secure, and will not use the same password that you use for other websites or services",
+            "conf": 0.9846221208572388,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "By accepting these Terms you understand and agree that performance of these Terms and provision of the Services may require transfer of the information that we collect from your country to other countries, which may not provide the same level of protection as the European Union/European Economic Area or your home country",
+            "conf": 0.9995650053024292,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are and will remain solely responsible for all communications, images, videos, sounds, content or part of the content of databases, databases, content and any other materials or information that you upload or transmit through the Services, including without limitation any text, voice transmissions or recordings, or gameplay clips (\u201cUser Content\u201d).",
+            "conf": 0.9997879862785339,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge and agree that Nexon may (but is not required to) moderate, monitor, review, and record any User Content (including the content of your oral or written communications) that you post, transmit, or make available on or through the Services and may, without prior notice to you and in its sole judgment, remove User Content for any or no reason, at any time",
+            "conf": 0.9999748468399048,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Unless required by law, Nexon assumes no liability for any failure to remove, or any delay in removing, User Content and does not assume any responsibility or liability for the use and/or storage of User Content.",
+            "conf": 0.9927184581756592,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Price and availability of items are subject to change without notice, consistent with applicable law",
+            "conf": 0.9899953007698059,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible or liable for any credit card or bank-related charges or fees related to any of your transactions.",
+            "conf": 0.9806554913520813,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "WE MAY WITHHOLD, SUSPEND, MODIFY, OR TERMINATE YOUR ACCESS TO THE SERVICES FOR ANY OR NO REASON AT ANY TIME WITHOUT NOTICE UNLESS OTHERWISE REQUIRED BY APPLICABLE LAW",
+            "conf": 0.9998140335083008,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "NEXON AND ITS DEVELOPERS AND SERVICE PROVIDERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY, RELIABILITY, AVAILABILITY, TIMELINESS, ACCURACY, FITNESS, PERFORMANCE, OR INTEROPERABILITY OF THE INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND ANY CONTENT CONTAINED WITHIN THE SERVICES FOR ANY PURPOSE",
+            "conf": 0.9999868869781494,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES ARE PROVIDED \u201cAS IS\u201d WITHOUT WARRANTY OF ANY KIND",
+            "conf": 0.9998729228973389,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU SPECIFICALLY AGREE THAT In no event will NEXON, OUR REPRESENTATIVES, MANAGERS, PARTNERS, SHAREHOLDERS, JOINT VENTURERS, THIRD-PARTY CONTRACTORS, EMPLOYEES, LICENSEES, LICENSORS, ADVERTISERS, OR AGENTS be liable for any direct or indirect, special, incidental, consequential, or punitive damages, lost profits, or other damages whatsoever arising in connection with the use of THE SERVICES, any interruption in availability of THE SERVICES, delay in operation or transmission, computer virus, loss of data, or use, misuse, reliance, review, manipulation, or other utilization in any manner whatsoever of THE SERVICES or the data collected through THE SERVICES, WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, even if WE HAVE been advised of the possibility of such damages or loss.",
+            "conf": 0.9997810125350952,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend and hold NEXON, ALONG WITH OUR REPRESENTATIVES, MANAGERS, PARTNERS, SHAREHOLDERS, JOINT VENTURERS, THIRD-PARTY CONTRACTORS, EMPLOYEES, LICENSEES, LICENSORS, ADVERTISERS, AND AGENTS, harmless from and against any and all loss, costs, expenses (including reasonable attorneys\u2019 fees and expenses), claims, damages and liabilities related to or associated with your use of our SERVICES and any alleged violation by you of these Terms",
+            "conf": 0.999993085861206,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You are giving up the right to litigate (or participate in as a party or class member) all Disputes in court before a judge or jury",
+            "conf": 0.9999933242797852,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Neither you nor we will seek to have any Dispute heard as a class action or in any other proceeding in which either party acts or proposes to act in a representative capacity",
+            "conf": 0.9999917149543762,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to enforce any provisions of these Terms or respond to a violation by any party does not waive our right to subsequently enforce any terms or conditions of the Terms or respond to any violations",
+            "conf": 0.9999933242797852,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: 2018.5.24",
+            "conf": 0.9999959468841553,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We collect information when you use our Services, including your Internet protocol (\u201cIP",
+            "conf": 0.9916827082633972,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": ") address and other identifiers that are assigned to your device and application when you access the Internet or use the Services, browser type, browser version, browser language setting, operating system, device name and type, MAC address and other device identifiers, information from your device (including information from and about your hard drive and other storage devices, central processing unit, random access memory, video card, and peripheral hardware, software and applications installed on your device), Internet service and mobile service provider, pages that you visit before and after using the Services, the date and time of your visit, download information, the links you click and areas you view within the Services, game metrics and usage data, and other standard server log information",
+            "conf": 0.9838948249816895,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We share information with third-party partners and service providers, including payment processing and gateway companies, platform services, game developers, game publishers, customer support services, cloud storage and hosting providers, social media companies (who may collect information when you use the Services or when you connect the Services to your social media accounts) and analytics and advertising companies, to help us provide and improve the Services and operate our business",
+            "conf": 0.9824141263961792,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If Nexon is involved in a corporate transaction, such as a merger, acquisition by another company, asset sale, or in the unlikely event of bankruptcy, we may transfer your information to the successor organization in such transaction in accordance with applicable law",
+            "conf": 0.9827057719230652,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "When you use the Services or interact with emails from us, we and our third-party business partners may collect and store information about your use of our Services using cookies, pixel tags, local storage, and similar technologies.",
+            "conf": 0.9926242232322693,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel tags are very small images or small pieces of data embedded in images, also known as \u201cweb beacons\u201d or \u201cclear GIFs,\u201d that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your device.",
+            "conf": 0.9988619685173035,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Local storage is similar to a cookie except that it can store larger amounts of information and can be stored elsewhere on your device",
+            "conf": 0.9074111580848694,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies and similar technologies (collectively, \u201ccookies",
+            "conf": 0.9719706773757935,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": ") for the following functions and purposes:",
+            "conf": 0.9301824569702148,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use analytics and research cookies to collect information about how visitors use our Services, including the total number of people that use our Services and the types of devices they use",
+            "conf": 0.9780422449111938,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use advertising cookies to customize the advertising that is shown to you on the Services and on third-party websites and services",
+            "conf": 0.998661994934082,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We allow third parties, including our analytics providers, advertising networks, and other advertising service providers, to collect information about your use of the Services across your applications and your different devices using cookies and similar technologies.",
+            "conf": 0.9824785590171814,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of receiving commercial email messages from us by following the unsubscribe instructions provided in our emails",
+            "conf": 0.9999827146530151,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "If you choose to refuse, disable, or delete cookies and similar technologies, some of the functionality of the Services may no longer be available to you",
+            "conf": 0.9558883905410767,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Some web browsers may transmit \u201cdo-not-track\u201d signals to the websites with which the user communicates",
+            "conf": 0.9999499320983887,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Nexon currently does not take action in response to these signals",
+            "conf": 0.9991588592529297,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "While it is not possible to turn off all advertising, you do have the ability to control whether you receive interest-based ads based on information collected or received about your online activities and interests over time and across unaffiliated sites and services and your different devices",
+            "conf": 0.977019190788269,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal information from children who are under the age of 13 (or the age otherwise defined under applicable law) without parental consent or unless permitted by applicable law",
+            "conf": 0.9999971389770508,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Data we collect will be retained only for so long as reasonably necessary for the purposes set out above, unless applicable law requires otherwise",
+            "conf": 0.9998600482940674,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Information we collect may be transferred to countries outside your home country for the purposes set out in this Privacy Policy",
+            "conf": 0.9999564290046692,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may make changes to this Privacy Policy, in which case we will notify you before such changes take effect by posting the updated policy through the Services or otherwise in accordance with applicable law",
+            "conf": 0.9999226331710815,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to this Privacy Policy will take effect after a reasonable time period as specified in the notice of such changes",
+            "conf": 0.9993900060653687,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 1.1
+}

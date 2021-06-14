@@ -1,0 +1,96 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We don\u2019t share your personal information with anyone except to provide you with services, products, to comply with the law, or to protect our rights",
+            "conf": 0.9832741022109985,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications, modify the communications preferences in your account or contact us using the contact details provided below",
+            "conf": 0.9998960494995117,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can also ask us to stop using your information \u2013 the simplest way to do this is to withdraw your consent, which you can do at any time, either by clicking the unsubscribe link at the end of any newsletter, or by emailing, writing or telephoning us using the contact details above",
+            "conf": 0.9956508874893188,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We keep your order information for so long as reasonably required in accordance with our record retention policy",
+            "conf": 0.999548077583313,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.",
+            "conf": 0.993969202041626,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "request Timescale The right to be informed When data is collected (if supplied by data subject) or within one month (if not supplied by data subject) The right of access One month The right to rectification One month The right to erasure Without undue delay The right to restrict processing Without undue delay The right to data portability One month The right to object On receipt of objection Rights",
+            "conf": 0.9943558573722839,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "No personal information is stored within the cookie",
+            "conf": 0.9314112067222595,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control.",
+            "conf": 0.9890240430831909,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets",
+            "conf": 0.9019325375556946,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If Canonical or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets",
+            "conf": 0.9946507811546326,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Where we transfer and store your information The information that we collect from you will be transferred to, and stored at, a destination outside the European Economic Area (\u201dEEA\u201d).",
+            "conf": 0.9996521472930908,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential.",
+            "conf": 0.9969057440757751,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site",
+            "conf": 0.9118223786354065,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 6.0
+}

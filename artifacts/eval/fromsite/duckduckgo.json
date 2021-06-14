@@ -5,112 +5,98 @@
             "text": "We don't collect or share personal information",
             "conf": 0.999896764755249,
             "description": "This service does not sell your personal data",
-            "effect": "good",
-            "weight": 60
+            "effect": "good"
         },
         {
             "label": "9",
             "text": "DuckDuckGo does not collect or share personal information",
             "conf": 0.9999865889549255,
             "description": "This service does not sell your personal data",
-            "effect": "good",
-            "weight": 60
+            "effect": "good"
         },
         {
             "label": "0",
             "text": "Last updated on 04/11/12",
             "conf": 0.9999980330467224,
             "description": "Has last updated date",
-            "effect": "neutral",
-            "weight": 5
+            "effect": "neutral"
         },
         {
             "label": "0",
             "text": "Before that, on 03/11/12",
             "conf": 0.9999909996986389,
             "description": "Has last updated date",
-            "effect": "neutral",
-            "weight": 5
+            "effect": "neutral"
         },
         {
             "label": "0",
             "text": "Before that, on 11/16/10",
             "conf": 0.9999824166297913,
             "description": "Has last updated date",
-            "effect": "neutral",
-            "weight": 5
+            "effect": "neutral"
         },
         {
             "label": "0",
             "text": "Before that, on 9/25/10",
             "conf": 0.9995753169059753,
             "description": "Has last updated date",
-            "effect": "neutral",
-            "weight": 5
+            "effect": "neutral"
         },
         {
             "label": "0",
             "text": "Before that, on 9/16/10",
             "conf": 0.9999358654022217,
             "description": "Has last updated date",
-            "effect": "neutral",
-            "weight": 5
+            "effect": "neutral"
         },
         {
             "label": "9",
             "text": "searches, we do not log (store) it at all",
             "conf": 0.9724592566490173,
             "description": "This service does not sell your personal data",
-            "effect": "good",
-            "weight": 60
+            "effect": "good"
         },
         {
             "label": "10",
             "text": "First, most server software auto-stores this information, so you have to go out of your way not to store it",
             "conf": 0.9979152679443359,
             "description": "You can request access and deletion of personal data",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "10",
             "text": ", this information is not saved on our servers at all, but resides solely on your computer",
             "conf": 0.9097979068756104,
             "description": "You can request access and deletion of personal data",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "9",
             "text": "We also save searches, but again, not in a personally identifiable way, as we do not store IP addresses or unique User agent strings",
             "conf": 0.9858383536338806,
             "description": "This service does not sell your personal data",
-            "effect": "good",
-            "weight": 60
+            "effect": "good"
         },
         {
             "label": "9",
             "text": "We do not use any third parties to do the code insertion, and we do not work with any sites that share personally identifiable information (e.g",
             "conf": 0.9996224045753479,
             "description": "This service does not sell your personal data",
-            "effect": "good",
-            "weight": 60
+            "effect": "good"
         },
         {
             "label": "9",
             "text": "This means that no information is shared from DuckDuckGo to the sites, and the only information that is collected from this process is product information, which is not tied to any particular user and which we do not save or store on our end",
             "conf": 0.9893414974212646,
             "description": "This service does not sell your personal data",
-            "effect": "good",
-            "weight": 60
+            "effect": "good"
         },
         {
             "label": "16",
             "text": "we will update the text of this page and provide notice to you",
             "conf": 0.9997903108596802,
             "description": "Users will be notified when terms are changed",
-            "effect": "good",
-            "weight": 30
+            "effect": "good"
         }
     ],
     "sentiment": 9.5

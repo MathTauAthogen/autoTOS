@@ -1,0 +1,306 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We do not allow any third party to place cookies in connection with our services",
+            "conf": 0.931320071220398,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Cookies that are already stored may be deleted at any time",
+            "conf": 0.9955617785453796,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Idka own this data alone, and we will never use it for advertising or share, sell nor otherwise disseminate it",
+            "conf": 0.9388236999511719,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "There are several forms of cookies, such as zombie cookies and cookies that are combined with URLs, query strings, JSON Web tokens, Etags, DOM properties, \u201cLocal Stored Objects",
+            "conf": 0.9850875735282898,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "(also known as \u201cFlash Cookies",
+            "conf": 0.9740068912506104,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "), HTML5 Web storage cookies, etc",
+            "conf": 0.9667388200759888,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Zombie cookies, for example, have the ability to re-create themselves after they have been deleted (using information stored separately in different locations on your device).",
+            "conf": 0.9963932633399963,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Social media services use cookies and tracking technologies, but they also allow a vast array of partners to use their services to place various types of cookies on your device (third party cookies).",
+            "conf": 0.9795363545417786,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "this, is advance methodology to make devices leave digital footprints (screen attributes unique to each device \u2013 like a finger print) and combining this with IP addresses from which the device is used over time and so forth, so it will be more or less impossible to escape the tracking.",
+            "conf": 0.9831911325454712,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may delete your account at any time",
+            "conf": 0.9999807476997375,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Delete is for real \u2013 your data will disappear for ever!",
+            "conf": 0.9867210388183594,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Idka provides the Service and the Website \u201cas-is\u201d and \u201cas available\u201d",
+            "conf": 0.9999792575836182,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Sorry \u2013 no warranties!",
+            "conf": 0.9998184442520142,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "By creating an account, you confirm that you are 15 years of age or older, or that you are acting on the behalf of a User of whom you are the natural or legal guardian, and that you accept the terms set forth in this document, our Cookie policy, our Privacy policy and our Payment Terms",
+            "conf": 0.9959614276885986,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Idka may change the Terms at any time, in accordance with the procedures set forth in Section 9",
+            "conf": 0.9991434216499329,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Disclaimer Idka and/or our affiliated companies (collectively included under the term Idka) provides the Service and the Website \u201cas-is\u201d and \u201cas available\u201d",
+            "conf": 0.9999990463256836,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Idka is not responsible nor liable for any distasteful, inappropriate, offensive, obscene, explicit, X-rated, unlawful or objectionable content or information you may come across on the Service or the Website, nor for any action or conduct by Users whether it be online or offline, to the extent permitted by law",
+            "conf": 0.9831008911132812,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Idka makes no representations or warranties of any kind as to the Service and the Website, its functionality and/or the content thereof, such as the availability of the Service and/or Website on any platform for access and use, nor against loss of data whether in transit or in storage",
+            "conf": 0.999942421913147,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "In particular, Idka expressly disclaims all warranties and representation in respect of fitness for a particular purpose, accuracy, completeness, integrity or non-infringement",
+            "conf": 0.9996764659881592,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Idka does not guarantee nor promise any specific results from use of the Service and the Website",
+            "conf": 0.9997028708457947,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Features, functions and appearances may change or be removed at any time as a result of improvements, maintenance, or for any other reason",
+            "conf": 0.9091588258743286,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Idka assumes no responsibility for any technical malfunction of any communication network or lines, computer systems or equipment, servers or providers, software, failure of any email or other functions, used directly or indirectly by the User or Idka",
+            "conf": 0.9090092182159424,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may discontinue the service due to lack of funds or resources, we may be the target of attacks and intrusions, be mandated by laws and regulations or competent courts to shut down, alter or remove parts or the whole of the service",
+            "conf": 0.9588637351989746,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We promise to help, protect and notify our users in such situations to the best of our abilities, but we do not assume any responsibility or accept any liability for such events, interruptions or occurrences, including any third-party, follow-on implications, damage, harm, impairment, destruction, loss or cost, unless, and then to the minimum extent, mandated by applicable laws and regulations.",
+            "conf": 0.9960042238235474,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstance shall Idka be responsible for any loss or damage, including loss of data, resulting from use of the Service, the Website or any associated services, attendance at an event organized through the Website or the services, from any content posted on or through the Service or the Website, nor from the conduct of any Users of the Service or the Website, whether online or offline and irrespective of platform",
+            "conf": 0.9673429727554321,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any links or linked-to content and such websites are in no way investigated, monitored or checked for accuracy or completeness by us",
+            "conf": 0.98093181848526,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Idka does not control or guarantee the accuracy, relevance, timeliness or completeness of information contained on a linked service",
+            "conf": 0.9999955892562866,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You may at any time delete any materials you have uploaded and delete your Account, in which case all the information stored on the Account will be deleted completely and in full",
+            "conf": 0.9982621073722839,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "The right to close and delete an Account at will",
+            "conf": 0.999800980091095,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "nor will User be subject to the sale of any such information to any third party",
+            "conf": 0.9988628625869751,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The right to delete any digital resources that is stored in or linked to your profile at any time",
+            "conf": 0.9924401640892029,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Any such deletion shall be in full and \u201cforever\u201d, provided however, that some information may be temporarily stored for the sole purpose of back-ups to ensure operational quality",
+            "conf": 0.9976804852485657,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Not create a new account if your Account is suspended, closed or deleted by Idka in accordance with these Terms",
+            "conf": 0.9997360110282898,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee that the Service will be bug-free, safe, secure and always available",
+            "conf": 0.9999991059303284,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Changes to terms and policies We may amend, restate and revise these Terms and Conditions and any applicable policy without restrictions, provided:",
+            "conf": 0.9415549635887146,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "You are informed of the change via email or a statement appearing on the Website, in the form of a broadcast, a prompt at login or during use of the Service or similar explicit fashion (a \u201cNotice\u201d) with a link to the relevant amended, restated or revised Terms and/or policies",
+            "conf": 0.9999834895133972,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "The amended, restated or revised Terms and/or policies dose not enter into force until 5 days after Notice is given",
+            "conf": 0.9983773231506348,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "liability Idka will not be liable for any lost profits or other consequential, special, direct, indirect, or incidental damage arising out of or in connection with these Terms, the Service or the Website",
+            "conf": 0.9924459457397461,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Indemnification of Idka If a claim of any kind is brought against Idka related to or based on your actions, your Account or your use of the Service or Website, including the content of information uploaded or in any way stated, expressed or shared on the Service of the Website, you will hold Idka harmless from and against all expenses (including reasonable legal and expert fees), losses, damages and indirect losses arising from the claim",
+            "conf": 0.9812662601470947,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "As User, you release Idka and Idka\u2019s directors, officers, employees, agents and affiliates from any claims and damages, known and unknown, arising out of or in any way connected with any claim you have against any such third parties",
+            "conf": 0.997139036655426,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If we fail to enforce any of these Terms, it will not be considered a waiver",
+            "conf": 0.9999880790710449,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We rely solely on subscription fees for income, and we do not need and will not sell or share any information for commercial or partnership reasons",
+            "conf": 0.9960257411003113,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Idka does not accept any third party cookies and is not part of any or feeds information to any advertcing network",
+            "conf": 0.999779999256134,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 4.5
+}

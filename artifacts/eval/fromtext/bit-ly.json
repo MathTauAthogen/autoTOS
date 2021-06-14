@@ -1,0 +1,320 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Date: March 12, 2019",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We cannot take responsibility for the content or privacy policies of those Third Party Services",
+            "conf": 0.9999679327011108,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may unsubscribe from receiving certain types of these messages through your Account settings, although Bitly reserves the right to contact you when we believe it is necessary, such as for administrative and account management purposes",
+            "conf": 0.9996457099914551,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Unless you request deletion of your personal information as described in this Privacy Policy, all content submitted by you to the Services may be retained by Bitly, even after you terminate your Account and may continue to be shared by third parties, as described in this Privacy Policy",
+            "conf": 0.9986833930015564,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may receive a confirmation when you open an email from us",
+            "conf": 0.9610402584075928,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Our third-party partners may use cookies, web beacons, pixel tags or similar technologies in order to provide you advertising based upon your browsing activities and interests.",
+            "conf": 0.990256667137146,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you would like to opt-out of the Bitly Links, please click on the opt-out choice for Bitly Links below",
+            "conf": 0.9999766945838928,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not knowingly collect personal information from children",
+            "conf": 0.9637811183929443,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may transfer and/or provide information about our users in connection with an acquisition, sale of company assets, or other situation where user information would be transferred as one of our business assets",
+            "conf": 0.9945693016052246,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "The information you provide may be transferred, processed and/or accessed by us in the United States or another country where we (or our service providers) operate",
+            "conf": 0.9999956488609314,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We retain the personal information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws",
+            "conf": 0.9946770071983337,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you have a Bitly Account, you may access, correct, or request deletion of your personal information by logging into your Account.",
+            "conf": 0.9772742390632629,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can delete your Account at any time through your Account settings page",
+            "conf": 0.9999831318855286,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you delete your Account, you will no longer be able to access or use the Services",
+            "conf": 0.9996286034584045,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Bitly may amend this Privacy Policy from time to time",
+            "conf": 0.9991186261177063,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email, and we will indicate when those changes will become effective",
+            "conf": 0.9993385672569275,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: March, 2019",
+            "conf": 0.9999988675117493,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "THIS AGREEMENT CONTAINS AN ARBITRATION PROVISION AND CLASS ACTION WAIVER AS DESCRIBED IN THE ARBITRATION SECTION BELOW",
+            "conf": 0.96355801820755,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION, AND YOU ARE WAIVING YOUR RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999923706054688,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "reserves the right, in its sole discretion, to modify or replace this Agreement at any time",
+            "conf": 0.984693706035614,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "\u2019s responsibility to check this Agreement periodically for changes and that its use of the Bitly Services following the posting of any changes to this Agreement constitutes acceptance of those changes",
+            "conf": 0.9253655672073364,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Bitly may add, remove, suspend, discontinue, modify or update the Bitly Services at any time, at its discretion",
+            "conf": 0.9999697208404541,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "if",
+            "conf": 0.9149233102798462,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Customer may not combine any Bitly Link Metrics with any personally identifiable information and may not sublicense, sell, syndicate or otherwise share Bitly Link Metrics with any third party",
+            "conf": 0.9674245715141296,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Bitly may update, refresh or change the manner of accessing the Bitly Services in its discretion",
+            "conf": 0.9460675120353699,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Bitly reserves the right to suspend Customer\u2019s use of the Bitly Services without notice in the event that it believes, in good faith, the security of Customer\u2019s Bitly account has been compromised, or the Customer\u2019s Bitly account is being used for an unlawful purpose",
+            "conf": 0.9052631855010986,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "And may suspend or terminate Customer",
+            "conf": 0.9902206063270569,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "\u2019s access to the Services without notice for violation of the Agreement",
+            "conf": 0.9699751734733582,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SERVICES ARE PROVIDED \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A",
+            "conf": 0.9781671166419983,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED",
+            "conf": 0.9840518236160278,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "BITLY DOES NOT WARRANT THAT: (I) THE BITLY SERVICES WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR LOCATION",
+            "conf": 0.9999915957450867,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(II) SHORTENED URLS, THE BITLY SERVICES AND BITLY LINK METRICS WILL BE ACCURATE, ERROR-FREE OR THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED",
+            "conf": 0.9959625601768494,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "BITLY DOES NOT WARRANT THAT THE BITLY LINK METRICS WILL BE COMPLETELY CORRECT, ACCURATE, TIMELY OR OTHERWISE RELIABLE",
+            "conf": 0.9999275207519531,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "will defend, indemnify and hold harmless Bitly, its parents, subsidiaries, affiliates and their employees, officers, directors, representatives, contractors, customers, business partners, successors and assigns (\u201cBitly Indemnitees",
+            "conf": 0.9999865293502808,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") from and against any third party claims and actions, and resulting damages, liabilities and costs (including reasonable attorneys\u2019 fees and expenses) incurred by Bitly Indemnitees arising out of or directly or indirectly related to (a) the Customer Content, Customer Services or any other Customer products and services",
+            "conf": 0.9999952912330627,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NO EVENT SHALL BITLY BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY WITH RESPECT TO THE BITLY SERVICES, BITLY LINK METRICS OR OTHERWISE HEREUNDER FOR ANY CLAIM RELATED TO (I) ANY LOST PROFITS, DATA LOSS, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, COMPENSATORY, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER (HOWEVER ARISING).",
+            "conf": 0.9987338185310364,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "each agree that any dispute, claim or controversy arising out of or relating to these Terms of Service or the breach, termination, enforcement, interpretation or validity thereof or the use of the Services or Content (collectively, \u201cDisputes",
+            "conf": 0.999983012676239,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") will be resolved solely by binding, individual arbitration and not in a class, representative or consolidated action or proceeding",
+            "conf": 0.9999812841415405,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Federal Arbitration Act governs the interpretation and enforcement of these Terms of Service, and that you and Bitly are each waiving the right to a trial by jury or to participate in a class action",
+            "conf": 0.9999945163726807,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If we prevail in arbitration we\u2019ll pay all of our attorneys\u2019 fees and costs and won\u2019t seek to recover them from you",
+            "conf": 0.9403693079948425,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND BITLY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999931454658508,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, if the parties\u2019 dispute is resolved through arbitration, the arbitrator may not consolidate another person\u2019s claims with your claims, and may not otherwise preside over any form of a representative or class proceeding",
+            "conf": 0.9999874234199524,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If Bitly changes any of the terms of this \u201cDispute Resolution\u201d Section after the date you first accepted these Terms of Service (or accepted any subsequent changes to these Terms of Service), you may reject any such change by sending us written notice (including by email to&nbsp;support@bitly.com) within 30 days of the date such change became effective, as indicated in the \u201cLast Updated\u201d date above or in the date of Bitly\u2019s email to you notifying you of such change",
+            "conf": 0.9904534220695496,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "With the exception of any of the provisions in Section 20(e) of these Terms (\u201cClass Action Waiver\u201d), if an arbitrator or court of competent jurisdiction decides that any part of these Terms of Service is invalid or unenforceable, the other parts of these Terms of Service will still apply",
+            "conf": 0.9999911785125732,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "failure of Bitly to enforce any right or provision of these Terms will not constitute a waiver of future enforcement of that right or provision",
+            "conf": 0.9999961256980896,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.6
+}

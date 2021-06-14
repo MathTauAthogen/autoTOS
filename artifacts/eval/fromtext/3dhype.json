@@ -1,0 +1,12 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Het privacybeleid is voor het laatst gewijzigd op 7 maart 2019",
+            "conf": 0.9994252324104309,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 0.0
+}

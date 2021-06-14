@@ -1,0 +1,803 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "THESE TERMS OF USE WERE UPDATED ON FEBRUARY 11TH 2019",
+            "conf": 0.9999974370002747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "These Terms may be updated by OLX at any time at its sole discretion",
+            "conf": 0.9999843239784241,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You understand that OLX does not control, and is not responsible for ads, directory information, business listings/information, messages between users, including without limitation e-mails sent from outside OLX\u2019s domain or other means of electronic communication, whether through the Platform or another Third Party Website (defined below) or offerings, comments, user postings, files, images,",
+            "conf": 0.990338921546936,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "listings/information and directory information or any other material made available through the Platform and the Service (\"Content\"), and that by using the Platform and the Service, you may be exposed to Content that is offensive, indecent,",
+            "conf": 0.9473942518234253,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that you are responsible for and must evaluate, and bear all risks associated with, the use of any Content, that you may not rely on said Content, and that under no circumstances will OLX be liable in any way for the Content or for any loss or damage of any kind incurred as a result of the browsing, using or reading any Content listed, emailed or otherwise made available via the Service.",
+            "conf": 0.9992818236351013,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge and agree that OLX cannot and does not pre-screen or approve any Content, but that OLX has the right, in its sole and absolute discretion, to refuse, delete or move any Content that is or may be available through the Service, for violating these Terms and such violation being brought to OLX\u2019s knowledge or for any other reason or no reason at all",
+            "conf": 0.9999624490737915,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that you are solely responsible for your own Content posted on, transmitted through, or linked from the Service and the consequences of posting, transmitting, linking or publishing it",
+            "conf": 0.974938690662384,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "More specifically, you are solely responsible for all Content that you upload, email or otherwise make available via the Service",
+            "conf": 0.9931154847145081,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "OLX makes no warranty the veracity or the accuracy of the generated Description",
+            "conf": 0.9999473690986633,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "OLX reserves the right to remove any Content without prior notice",
+            "conf": 0.9999306201934814,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated on: [04/02/2019]",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand that when using the Platform, you will be exposed to Content from a variety of sources and that OLX is not responsible for the accuracy, usefulness, safety, or intellectual property rights of or relating to such Content, and you agree and assume all liability for your use.",
+            "conf": 0.9926698803901672,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless OLX, its officers, subsidiaries, affiliates, successors, assigns, directors, officers, agents, service providers, suppliers and employees, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorneys' fees) arising from: (i) your use of and access to the Platform and/or the Service",
+            "conf": 0.9999978542327881,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that OLX shall not be liable for your interactions with any organizations and/or individuals on the Platform or through the Service",
+            "conf": 0.9969180226325989,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree and acknowledge that OLX shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or interactions.",
+            "conf": 0.9913613796234131,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In the event that you have a dispute with one or more other users, you hereby release OLX, its officers, employees, agents and successors from any and all claims, demands and damages (actual and consequential) of every kind or nature, known or unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way related to such disputes and/or our Service",
+            "conf": 0.999464750289917,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that OLX has no responsibility or liability for the deletion or failure to store any Content maintained or transmitted by the Platform or the Service",
+            "conf": 0.9999552369117737,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that OLX reserves the right at any time to modify, limit or discontinue the Service (or any part thereof) with or without notice and that OLX shall not be liable to you or to any third party for any such modification, suspension or discontinuance of the Service.",
+            "conf": 0.9961499571800232,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge and agree that OLX, in its sole and absolute discretion, has the right (but not the obligation) to delete or deactivate your account, block your e-mail or IP address, or otherwise terminate your access to or use of the Service (or any part thereof), immediately and without notice, and remove and discard any Content within the Service, for any reason or no reason at all, including, without limitation, if OLX believes that you have violated these Terms",
+            "conf": 0.9998897314071655,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE PLATFORM AND THE SERVICE IS ENTIRELY AT YOUR OWN RISK AND THAT THE PLATFORM AND THE SERVICE ARE PROVIDED ON AN \"AS IS\" OR \"AS AVAILABLE\" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND",
+            "conf": 0.999966025352478,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "OLX MAKES NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE PLATFORM'S CONTENT OR THE CONTENT OF ANY THIRD PARTY WEBSITES LINKED TO THE PLATFORM AND",
+            "conf": 0.9395957589149475,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL OLX, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE FOR DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES (EVEN IF OLX HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM ANY ASPECT OF YOUR USE OF THE PLATFORM OR THE SERVICE, INCLUDING WITHOUT LIMITATION WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF THE PLATFORM OR THE SERVICE, FROM INABILITY TO USE THE PLATFORM OR THE SERVICE, OR THE INTERRUPTION, SUSPENSION, MODIFICATION, ALTERATION, OR TERMINATION OF THE PLATFORM OR THE SERVICE.",
+            "conf": 0.9998021721839905,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "users of under 18 years of age, are only allowed to access the Platform and use the Service, in the event of approval of their legal representatives or in the event that it concerns an act or a transaction that is usual and acceptable standard in civil life and practice",
+            "conf": 0.9978467226028442,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You affirm that you are either at least 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms, and to abide by and comply with these Terms",
+            "conf": 0.9994627237319946,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In any case, you affirm that you are over the age of 13, as the Platform is not intended for children under 13",
+            "conf": 0.9999907612800598,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "NOTICE TO CHILDREN UNDER THE AGE OF 13 AND THEIR PARENTS OR GUARDIANS If you are under the age of 13, YOU MUST NOT USE THIS PLATFORM",
+            "conf": 0.9999908208847046,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The failure of OLX to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.9999966025352478,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use a third-party payment gateway for purchases, and other third-party companies to monitor site traffic, which may, in some instances, store your information (see Section",
+            "conf": 0.982254683971405,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ") below).",
+            "conf": 0.9202660322189331,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In some instances, our third-party service providers may use cookies on the Platform",
+            "conf": 0.9799773693084717,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the content of these Third- Party Websites or for the security of your personal information when you use the Third Party Websites.",
+            "conf": 0.9956628084182739,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We use third-party advertising companies to serve ads when you visit the Platform",
+            "conf": 0.9977597594261169,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "On the Platform, Google, as a third-party vendor, uses Cookies to serve ads",
+            "conf": 0.9993832111358643,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "You may opt out of targeting advertising for all NAI member ad networks by visiting:&nbsp;http://www.networkadvertising.org/.",
+            "conf": 0.9990457892417908,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree and acknowledge that OLX is not liable for the information published in search results or by any Third-Party Website that carries OLX postings",
+            "conf": 0.9788793325424194,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We may retain such information for as long as is required to fulfill our business objective, even after your account is terminated",
+            "conf": 0.9995834231376648,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You should not disclose your password information to anyone and you should always remember to log off if using a shared computer",
+            "conf": 0.9866399168968201,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "While we strive to use a commercially acceptable means to protect the personal information you provide, we cannot guarantee its security",
+            "conf": 0.973019003868103,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Therefore, you acknowledge and agree that we assume no liability regarding the theft, loss, alteration or misuse of personal or other information or Content, including, without limitation, such information that has been provided to third parties or other users, or with regards to the failure of a third party to abide by the agreement between us and such third party.",
+            "conf": 0.9969529509544373,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you are responsible for maintaining the confidentiality of your username and password, and all uses of your account, whether or not you have authorized such use.",
+            "conf": 0.9932742118835449,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We may also send you any legally required notifications and certain notifications, including but not limited to, service-related notices or notices regarding a change to any of our policies",
+            "conf": 0.9993711709976196,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of certain e-mail communications from us, including our newsletters, advice on buying and selling on the Platform, notifications that a user has commented on your posting, and notifications that you can refresh your posting",
+            "conf": 0.999982476234436,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If substantially all of our assets are sold or merged into another company, the acquiring company shall be given access to your personal information without your consent",
+            "conf": 0.9958751797676086,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we sell only a part of our business, the acquiring entity shall have access to your personal information without your consent and we may send you a notice regarding this sale",
+            "conf": 0.9965613484382629,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change these Terms from time to time, and at our sole discretion",
+            "conf": 0.9999390840530396,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may send you a notice regarding material changes to these Terms, including the Privacy Policy or the Platform",
+            "conf": 0.9998510479927063,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "You should make note of the \"last updated date\" at the beginning of the Terms",
+            "conf": 0.999096155166626,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on 11th Feb 2019",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "In addition, we use web beacons which are small graphic images (also known as \u201cpixel tags\u201d or \u201cclear GIFs\u201d) on our Platform.",
+            "conf": 0.9952203035354614,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Please note those third-party websites may also use cookies",
+            "conf": 0.9954776763916016,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not control those third-party websites and are not responsible for the cookies they set or access",
+            "conf": 0.9998204112052917,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Third-parties such as advertising networks and providers of external services like web traffic analysis may use cookies, web beacons, software development kits (SDKs) or similar technologies to collect information about your visit to our Platform.",
+            "conf": 0.9948872923851013,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In order to better understand how you use our platform, we work with various analytics partners",
+            "conf": 0.9519162178039551,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We allow analytics partners such as Google and Facebook analytics to use cookies, SDKs and other related technologies",
+            "conf": 0.9861994981765747,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "may use targeting and advertising cookies to serve ads they believe are most likely to be of interest to you and to measure the effectiveness of such ads on our Platform",
+            "conf": 0.9997619986534119,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "You may opt out of third-party cookies from Google Analytics through its ads settings or through https://adssettings.google.com",
+            "conf": 0.9995414018630981,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "You may opt out of interest-based targeting cookies set by participating ad servers through the following websites powered by the Digital Advertising Alliance:",
+            "conf": 0.9999104142189026,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on 11th Feb 2019",
+            "conf": 0.9999982714653015,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "If you disable or refuse cookies, please note that some parts of our Services/Platform may become inaccessible or not function properly",
+            "conf": 0.9774894714355469,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may amend this privacy statement from time to time",
+            "conf": 0.9993308186531067,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post changes on this page and will let you know by e-mail or through our Platform",
+            "conf": 0.9994112253189087,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you do not agree with the changes, you may delete your account by going to account setting and select delete account",
+            "conf": 0.9973517060279846,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You have the right to ask us to delete or remove your personal data",
+            "conf": 0.9983657598495483,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "In order to improve our Services, we will sometimes share your non-identifiable information with analytics providers that help us analyse how people are using our Platform",
+            "conf": 0.9181200265884399,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may choose to sell, transfer, or merge parts of our business or our assets",
+            "conf": 0.9763017296791077,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Alternatively, we may seek to acquire other businesses or merge with them",
+            "conf": 0.9626356959342957,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements",
+            "conf": 0.9994753003120422,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We do not control these websites/apps and are not responsible for those policies",
+            "conf": 0.9995561242103577,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "These Terms may be updated by OLX at any time at its sole discretion",
+            "conf": 0.9999843239784241,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "OLX may send you notices of changes to the Website or the Terms pursuant to Section 21(I) herein",
+            "conf": 0.9989038705825806,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You understand that OLX does not control, and is not responsible for ads, directory information, business listings/information, messages between users, including without limitation e-mails outside OLX\u2019s e-mail system or other means of electronic communication, whether through the Website or another Third Party Website (defined below) or offerings, comments, user postings, files, images,",
+            "conf": 0.9812690615653992,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ",",
+            "conf": 0.9740436673164368,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "/information and directory information or any other material made available through the Website and the Service (\"Content\"), and that by using the Website and the Service, you may be exposed to Content that is offensive,",
+            "conf": 0.9298170208930969,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that you are responsible for and must evaluate, and bear all risks associated with, the use of any Content, that you may not rely on said Content, and that under no circumstances will OLX be liable in any way for the Content or for any loss or damage of any kind incurred as a result of the use of any Content listed, e-mailed or otherwise made available via the Service.",
+            "conf": 0.9989838600158691,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge and agree that OLX does not pre-screen or approve any Content, but that OLX has the right, in its sole and absolute discretion, to refuse, delete or move any Content that is or may be available through the Service, for violating these Terms or for any other reason or no reason at all",
+            "conf": 0.9999641180038452,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that you are solely responsible for your own Content posted on, transmitted through, or linked from the Service and the consequences of posting, transmitting, linking or publishing it",
+            "conf": 0.974938690662384,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "More specifically, you are solely responsible for all Content that you upload, email or otherwise make available via the Service",
+            "conf": 0.9931154847145081,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "OLX reserves the right to remove any Content without prior notice",
+            "conf": 0.9999306201934814,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "OLX may remove such Content and/or terminate a user's access for uploading such material in violation of these Terms at any time, without prior notice and at its sole discretion",
+            "conf": 0.9999439716339111,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "OLX reserves all rights in and to the content of any RSS feeds provided through the Service and may terminate any RSS feed at any time without notice",
+            "conf": 0.9994881749153137,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You understand that when using the Website, you will be exposed to Content from a variety of sources, and that OLX is not responsible for the accuracy, usefulness, safety, or intellectual property rights of or relating to such Content, and you agree and assume all liability for your use.",
+            "conf": 0.9929543137550354,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless OLX, its officers, subsidiaries, affiliates, successors, assigns, directors, officers, agents, service providers, suppliers and employees, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorneys' fees) arising from: (i) your use of and access to the Website and/or the Service",
+            "conf": 0.999998152256012,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that OLX shall not be liable for your interactions with any organizations and/or individuals on the Website or through the Service",
+            "conf": 0.9979521632194519,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree and acknowledge that OLX shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or interactions.",
+            "conf": 0.9913613796234131,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In the event that you have a dispute with one or more other users, you hereby release OLX, its officers, employees, agents and successors from any and all claims, demands and damages (actual and consequential) of every kind or nature, known or unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way related to such disputes and/or our Service",
+            "conf": 0.981490969657898,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that OLX has no responsibility or liability for the deletion or failure to store any Content maintained or transmitted by the Website or the Service",
+            "conf": 0.9999340176582336,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that OLX reserves the right at any time to modify or discontinue the Service (or any part thereof) with or without notice, and that OLX shall not be liable to you or to any third party for any such modification, suspension or discontinuance of the Service.",
+            "conf": 0.9959648847579956,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge and agree that OLX, in its sole and absolute discretion, has the right (but not the obligation) to delete or deactivate your account, block your e-mail or IP address, or otherwise terminate your access to or use of the Service (or any part thereof), immediately and without notice, and remove and discard any Content within the Service, for any reason or no reason at all, including, without limitation, if OLX believes that you have violated these Terms",
+            "conf": 0.9998897314071655,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE WEBSITE AND THE SERVICE IS ENTIRELY AT YOUR OWN RISK AND THAT THE WEBSITE AND THE SERVICE ARE PROVIDED ON AN \"AS IS\" OR \"AS AVAILABLE\" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND",
+            "conf": 0.9999750256538391,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "OLX MAKES NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE WEBSITE'S CONTENT OR THE CONTENT OF ANY THIRD PARTY WEBSITES LINKED TO THE WEBSITE AND ASSUMES",
+            "conf": 0.9603566527366638,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL OLX, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE FOR DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES (EVEN IF OLX HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM ANY ASPECT OF YOUR USE OF THE WEBSITE OR THE SERVICE, INCLUDING WITHOUT LIMITATION WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF THE WEBSITE OR THE SERVICE, FROM INABILITY TO USE THE WEBSITE OR THE SERVICE, OR THE INTERRUPTION, SUSPENSION, MODIFICATION, ALTERATION, OR TERMINATION OF THE WEBSITE OR THE SERVICE.",
+            "conf": 0.9998618364334106,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You affirm that you are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms, and to abide by and comply with these Terms",
+            "conf": 0.9992454051971436,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In any case, you affirm that you are over the age of 13, as the Website is not intended for children under 13",
+            "conf": 0.999997079372406,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 13, YOU MUST NOT USE THIS WEBSITE",
+            "conf": 0.9999959468841553,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The failure of OLX to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.9999966025352478,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In some instances, our third-party service providers may use cookies on the Website",
+            "conf": 0.9949355125427246,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the content of these Third-Party Websites or for the security of your personal information when you use the Third Party Websites.",
+            "conf": 0.9960183501243591,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We use third-party advertising companies to serve ads when you visit the Website",
+            "conf": 0.998108446598053,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "On the Website, Google, as a third-party vendor, uses Cookies to serve ads",
+            "conf": 0.9995740056037903,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "You may opt out of targeting advertising for all NAI member ad networks by visiting: http://www.networkadvertising.org/.",
+            "conf": 0.9985066056251526,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree and acknowledge that OLX is not be liable for the information published in search results or by any Third-Party Website that carries OLX postings",
+            "conf": 0.9867691397666931,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We may retain such information for as long as is required to fulfill our business objective, even after your account is terminated",
+            "conf": 0.9995834231376648,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You should not disclose your password information to anyone and you should always remember to log off if using a shared computer",
+            "conf": 0.9866399168968201,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "While we strive to use a commercially acceptable means to protect the personal information you provide, we cannot guarantee its security",
+            "conf": 0.973019003868103,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Therefore, you acknowledge and agree that we assume no liability regarding the theft, loss, alteration or misuse of personal or other information or Content, including, without limitation, such information that has been provided to third parties or other users, or with regards to the failure of a third party to abide by the agreement between us and such third party.",
+            "conf": 0.9969529509544373,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you are responsible for maintaining the confidentiality of your username and password, and all uses of your account, whether or not you have authorized such use.",
+            "conf": 0.9932742118835449,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We may also send you any legally required notifications and certain notifications, including but not limited to, service related notices or notices regarding a change to any of our policies",
+            "conf": 0.9994651079177856,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of certain e-mail communications from us, including our newsletters, advice on buying and selling on the Website, notifications that a user has commented on your posting, and notifications that you can refresh your posting",
+            "conf": 0.9999878406524658,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If substantially all of our assets are sold or merged into another company, we will notify you of the transaction",
+            "conf": 0.9888073205947876,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we sell only a part of our business, the acquiring entity shall have access to your personal information without your consent and we may send you a notice regarding this sale",
+            "conf": 0.9965613484382629,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change these Terms from time to time, and at our sole discretion",
+            "conf": 0.9999390840530396,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may send you a notice regarding material changes to these Terms, including the Privacy Policy or the Website",
+            "conf": 0.9998876452445984,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "You should make note of the \u201clast updated date\u201d at the beginning of the Terms",
+            "conf": 0.9993303418159485,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "If you are located outside of the United States, please be aware that any personal information you provide to us will be transferred to the United States",
+            "conf": 0.9999937415122986,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.3
+}

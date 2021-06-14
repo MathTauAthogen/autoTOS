@@ -1,0 +1,117 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "FreeSteamKeys.com does not sell, exchange, or release your personal information without your consent to any third parties",
+            "conf": 0.9999775886535645,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not rent or sell our Users\u2019 Personal Information to third parties",
+            "conf": 0.999984860420227,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We do, however, provide you with the opportunity to receive newsletters via email",
+            "conf": 0.9763203263282776,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you decide to opt in to receive newsletters, you may opt out of receiving these newsletters at any time",
+            "conf": 0.9999771118164062,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Third-party advertisers, links, websites and third-party apps (like Rafflecopter, Gleam, and others) may ask your email, or other information, and also create and access cookies, which will be subject to their privacy policies \u2013 we accept no responsibility or liability for the use of such third parties\u2019 websites.",
+            "conf": 0.9936800599098206,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Our Privacy Policy may change from time to time",
+            "conf": 0.998986542224884,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice",
+            "conf": 0.9997861981391907,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "This means that you, and not the Site, are entirely responsible for all content that you post, transmit or otherwise make available via the Site",
+            "conf": 0.987503170967102,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Management does not guarantee its accuracy, integrity or quality",
+            "conf": 0.9999852776527405,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "FreeSteamKeys.com reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content",
+            "conf": 0.9998252987861633,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services",
+            "conf": 0.9076974391937256,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that FreeSteamKeys.com shall not be responsible for any loss or damage of any sort relating to your dealings with such third-party websites or advertisers.",
+            "conf": 0.9913193583488464,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "member",
+            "conf": 0.9047874808311462,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We also reserve the right to remove, edit, move or close any posting for any reason",
+            "conf": 0.9999544620513916,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Please be aware that the Agreement may change from time to time",
+            "conf": 0.987159788608551,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post any changes on this page and, if the changes are significant, we will provide a more prominent notice",
+            "conf": 0.9995450377464294,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 4.2
+}

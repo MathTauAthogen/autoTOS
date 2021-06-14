@@ -1,0 +1,397 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "you\u2019re under the age required to manage your own Google Account, you must have your parent or legal guardian\u2019s permission to use a Google Account",
+            "conf": 0.9998171329498291,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We don\u2019t make any other commitments about our services",
+            "conf": 0.9586812257766724,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "And unless required by law, we don\u2019t provide implied warranties, such as the implied warranties of merchantability, fitness for a particular purpose, and non-infringement",
+            "conf": 0.9900322556495667,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "For business users and organizations onlyIf you\u2019re a business user or organization, then to the extent allowed by applicable law:You\u2019ll indemnify Google and its directors, officers, employees, and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the services or violation of these terms or service-specific additional terms",
+            "conf": 0.9895950555801392,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs, and legal fees",
+            "conf": 0.9989415407180786,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Google won\u2019t be responsible for the following liabilities:loss of profits, revenues, business opportunities, goodwill, or anticipated savingsindirect or consequential losspunitive damagesGoogle\u2019s total liability arising out of or relating to these terms is limited to the greater of (1) US$500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breachIf you\u2019re legally exempt from certain responsibilities, including indemnification, then those responsibilities don\u2019t apply to you under these terms",
+            "conf": 0.9983194470405579,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "servicesGoogle reserves the right to suspend or terminate your access to the services or delete your Google Account if any of these things happen",
+            "conf": 0.9261217713356018,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Of course, you",
+            "conf": 0.9167121648788452,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "\u2019re always free to stop using our services at any time",
+            "conf": 0.9592791199684143,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we materially change these terms or service-specific additional terms, we\u2019ll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new service or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements",
+            "conf": 0.910561740398407,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can also end your relationship with us at any time by closing your Google Account",
+            "conf": 0.9959564208984375,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "suffered by another individual or organization from",
+            "conf": 0.9071568846702576,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "CheckupEffective February 4, 2021",
+            "conf": 0.9151540994644165,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "The information we collect includes unique identifiers, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number",
+            "conf": 0.9453688263893127,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Your location can be determined with varying degrees of accuracy by:GPSIP addressSensor data from your deviceInformation about things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devicesThe types of location data we collect depend in part on your device and account settings",
+            "conf": 0.9804750680923462,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also receive information from advertisers to provide advertising and research services on their behalf",
+            "conf": 0.9918591976165771,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use various technologies to collect and store information, including cookies, pixel tags, local storage, such as browser web storage or application data caches, databases, and server logs",
+            "conf": 0.9889330267906189,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use a variety of tools to do this, including Google Analytics",
+            "conf": 0.9999972581863403,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When you visit sites that use Google Analytics, a Google Analytics customer may choose to enable Google to link information about your activity from that site with activity from other sites that use our ad services",
+            "conf": 0.9999971985816956,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "youWe use information we collect, like your email address, to interact with you directly",
+            "conf": 0.9954501986503601,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services",
+            "conf": 0.9999881982803345,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can browse by date and by topic, and delete part or all of your activity.Go to My ActivityGoogle DashboardGoogle Dashboard allows you to manage information associated with specific products.Go to DashboardYour personal informationManage your contact information, such as your name, email, and phone number.Go to Personal InfoWhen you\u2019re signed out, you can manage information associated with your browser or device, including:Signed-out search personalization: Choose whether your search activity is used to offer you more relevant results and recommendations.YouTube settings: Pause and delete your YouTube Search History and your YouTube Watch History.Ad Settings: Manage your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.Exporting, removing & deleting your informationYou can export a copy of content in your Google Account if you want to back it up or use it with a service outside of Google.Export your dataYou can also request to remove content from specific Google services based on applicable law.To delete your information, you can:Delete your content from specific Google servicesSearch for and then delete specific items from your account using My ActivityDelete specific Google products, including your information associated with those productsDelete your entire Google AccountDelete your informationAnd finally, Inactive Account Manager allows you to give someone else access to parts of your Google Account in case you\u2019re unexpectedly unable to use your account",
+            "conf": 0.9798571467399597,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "When Google shares your informationWe do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:With your consentWe\u2019ll share personal information outside of Google when we have your consent",
+            "conf": 0.9819678068161011,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies",
+            "conf": 0.9749316573143005,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If Google is involved in a merger, acquisition, or sale of assets, we\u2019ll continue to ensure the confidentiality of your personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy",
+            "conf": 0.9218911528587341,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": ".Exporting & deleting your informationYou can export a copy of your information or delete it from your Google Account at any timeYou can export a copy of content in your Google Account if you want to back it up or use it with a service outside of Google.Export your dataTo delete your information, you can:Delete your content from specific Google servicesSearch for and then delete specific items from your account using My ActivityDelete specific Google products, including your information associated with those productsDelete your entire Google AccountDelete your informationRetaining your informationWe retain the data we collect for different periods of time depending on what it is, how we use it, and how you configure your settings:Some data you can delete whenever you like, such as the content you create or upload",
+            "conf": 0.9989737868309021,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can also delete activity information saved in your account, or choose to have it deleted automatically after a set period of time.Other data is deleted or anonymized automatically after a set period of time, such as advertising data in server logs.We keep some data until you delete your Google Account, such as information about how often you use our services.And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.When you delete data, we follow a deletion process to make sure that your data is safely and completely removed from our servers or retained only in anonymized form",
+            "conf": 0.9979479908943176,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems",
+            "conf": 0.9999385476112366,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can read more about Google\u2019s data retention periods, including how long it takes us to delete your information",
+            "conf": 0.9970632791519165,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "maintain servers around the world and your information may be processed on servers located outside of the country where you live",
+            "conf": 0.9999290108680725,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Google does not sell your personal information",
+            "conf": 0.9999121427536011,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "The CCPA also provides the right to request information about how Google collects, uses, and discloses your personal information",
+            "conf": 0.9993125200271606,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "And it gives you the right to access your information and request that Google delete that information",
+            "conf": 0.9999957084655762,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can exercise your rights by using these controls, which allow you to access, review, update and delete your information, as well as export and download a copy of it",
+            "conf": 0.999984622001648,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "\u2019re using",
+            "conf": 0.9248231649398804,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google uses information for analytics and measurement to understand how our services are used, as well as to fulfill obligations to our partners like publishers, advertisers, developers, or",
+            "conf": 0.9275042414665222,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If changes are significant, we",
+            "conf": 0.9995743632316589,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "\u2019ll provide a more prominent notice (including, for certain services, email notification of Privacy Policy",
+            "conf": 0.9997338652610779,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "However, some website features or services may not function properly without cookies",
+            "conf": 0.9815081357955933,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can edit or delete your account at any time through your Google Account settings",
+            "conf": 0.9989398121833801,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Pixel tagA pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened",
+            "conf": 0.9997898936271667,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "are often used in combination with",
+            "conf": 0.9336612820625305,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "25/Mar/2003",
+            "conf": 0.9766295552253723,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "/Mar/2003 10:15:32 is the date and time of",
+            "conf": 0.9691866636276245,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Different identifiers vary in how permanent they are, whether they can be reset by users, and how they can be accessed",
+            "conf": 0.9995929002761841,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising",
+            "conf": 0.9999818205833435,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "may see particular ads.advertising and research services on their behalfFor example, advertisers may upload data from their loyalty-card programs so that they can better understand the performance of their ad campaigns",
+            "conf": 0.9423497319221497,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use this information to help",
+            "conf": 0.9036102294921875,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "example, we analyze how people interact with advertising to improve the performance of our",
+            "conf": 0.9683574438095093,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer",
+            "conf": 0.959739089012146,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites",
+            "conf": 0.999998152256012,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic",
+            "conf": 0.9999979734420776,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Learn morepersonalized adsYou may also see personalized ads based on information from the advertiser",
+            "conf": 0.9990694522857666,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies",
+            "conf": 0.998092532157898,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "adsFor example, we collect information about views and interactions with ads so we can provide aggregated reports to advertisers, like telling them whether we served their ad on a page and whether the ad was likely seen by a viewer",
+            "conf": 0.9141404628753662,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These services may share information about your activity with Google and, depending on your account settings and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information",
+            "conf": 0.9334518909454346,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.3
+}

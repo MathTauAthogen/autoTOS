@@ -1,0 +1,390 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Revised: March 4, 2019",
+            "conf": 0.9999990463256836,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We use standard Internet technologies, such as cookies, web beacons, session replay/screen capture, and similar technologies to collect this information, as explained below in the section on cookies.",
+            "conf": 0.9958056807518005,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We may retain your information for as long as needed to: provide you services",
+            "conf": 0.9982823729515076,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may share your information if Herbalife is involved in a merger, acquisition, or sale of or transfer of assets, or in the unlikely event of bankruptcy",
+            "conf": 0.9698711633682251,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure and while we strive to protect your personal information, we cannot guarantee or warrant its complete security",
+            "conf": 0.9293659329414368,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Please be aware that information you provide to us or that we obtain as a result of your use of the Sites may be collected in your country and subsequently transferred to another country in accordance with applicable law",
+            "conf": 0.9999754428863525,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The Sites are general audience web sites that are not directed to children younger than 13",
+            "conf": 0.9635224342346191,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect, use or disseminate any personal information from children under the age of 13, unless permitted by law",
+            "conf": 0.9999882578849792,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Herbalife, as well as certain third parties that provide content and other functionality on our Sites, use cookies, web beacons, session replay/screen capture, and other similar technologies for various purposes, including to analyze trends, administer the website, track users\u2019 movements around the Sites and to gather demographic information about our user base as a whole.",
+            "conf": 0.9991602301597595,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons and similar technologies are small bits of code, which are embedded in web pages, advertisements, and e-mails, that communicate with third parties.",
+            "conf": 0.9886813163757324,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use web beacons, for example, to count the number of users who have visited a particular web page, to deliver or communicate with cookies, and to understand usage patterns.",
+            "conf": 0.9967451095581055,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We also may include web beacons in e-mails to understand whether messages have been opened, acted on, or forwarded.",
+            "conf": 0.9862262010574341,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Web browsers may allow you to send \u201cDo Not Track\u201d requests",
+            "conf": 0.9880852103233337,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "We do not currently take actions to respond to Do Not Track signals because there is no current industry standard concerning what, if anything, websites should do when they receive such signals",
+            "conf": 0.9999814629554749,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may display advertising on our website and partner with third parties to manage advertising on other websites for our products and services",
+            "conf": 0.9992199540138245,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also partner with third parties, including business partners, advertising networks, and other advertising service providers, who gather information about you on our Sites and other sites to provide you with advertisements on the Sites and elsewhere online based on your browsing history and tailored to your interests, preferences, and characteristics",
+            "conf": 0.9996412396430969,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Policy",
+            "conf": 0.9855060577392578,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Some third parties collect information about users of our Sites to provide interest-based advertising on our Sites and elsewhere, including across browsers and devices",
+            "conf": 0.9966158270835876,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These third parties may use the information they collect on our Sites to make predictions about your interests in order to provide you ads (from us and other companies) across the Internet",
+            "conf": 0.9940634369850159,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may also be able to opt out of interest-based advertising through the settings within the mobile app or your mobile device, but your opt-out choice may apply only to the browser or device you are using when you opt out, so you should opt out on each of your browsers and devices if you want to disable all cross-device linking for interest-based advertising",
+            "conf": 0.9704073071479797,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that even if you use an industry-based opt-out for interest-based advertising, you will continue to receive generic advertisements and your experience on our Sites may be degraded",
+            "conf": 0.9501563310623169,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some cases, we may not be able to remove your personal information",
+            "conf": 0.9889310598373413,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We have no responsibility or liability for the content, actions or policies of third party websites",
+            "conf": 0.999893307685852,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "These entities may collect or receive certain information about your use of the Sites, including through the use of cookies, Web beacons, and similar technologies.",
+            "conf": 0.9895716905593872,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Herbalife is not responsible for the privacy practices of these entities",
+            "conf": 0.9996897578239441,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "If you access third-party services, such as Facebook, Google, or Twitter, through the Sites, to login to the Sites or to share information about your experience on the Sites with others, these third-party services may be able to collect information about you, including information about your activity on the Site, and they may notify your connections on the third-party services about your use of the Site, in accordance with their own privacy policies",
+            "conf": 0.9667888283729553,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This Privacy Policy was last updated on the date listed at the beginning of this Policy",
+            "conf": 0.9999600648880005,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Herbalife reserves the right to change this Privacy Policy at any time",
+            "conf": 0.9999602437019348,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to this Policy will be effective immediately upon notice, which may be provided to you by posting the latest version on the Sites",
+            "conf": 0.9996941685676575,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Use Last Revised: February 2, 2017",
+            "conf": 0.9999988675117493,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of any of the provisions of this Agreement shall constitute a waiver of any other provisions hereof (whether or not similar), nor shall any such waiver constitute a continuing waiver unless otherwise expressly provided",
+            "conf": 0.9847702383995056,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right at any time to:",
+            "conf": 0.9544094800949097,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Enhance, add to, modify or discontinue the Site or other Offerings, or any portion of the Site or other Offerings, at any time in our sole discretion",
+            "conf": 0.9906396269798279,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "From time to time, we reserve the right, in our sole discretion, to modify, update, add to, discontinue, remove, revise or otherwise change any portion of this Agreement, in whole or in part, at any time.",
+            "conf": 0.9798893928527832,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "For changes to this Agreement that we consider to be material, we will place a notice on the Site by revising the link on the homepage to read substantially as \"Updated Terms of Use\" for a reasonable amount of time",
+            "conf": 0.9997237920761108,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You represent and warrant that you are eighteen (18) years of age or older, or if you are under the age of eighteen (18) you are at least the age of thirteen (13) and are accessing the Site with the knowledge and consent of your parent or legal guardian, who will also be deemed to have agreed to this Agreement.",
+            "conf": 0.9917381405830383,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right, but are not obligated, to delete, move or edit content, in whole or in part, submitted by you to the Site for any reason in our sole discretion",
+            "conf": 0.9999904036521912,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "In addition, we may delete, move, edit or disclose the contents of messages when it is required to do so by law or in a good faith belief that such action is necessary to protect and defend our rights and property or to protect the safety of our users or the public",
+            "conf": 0.9996374249458313,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "participate in any part of the Site if you are under the age of 18",
+            "conf": 0.9999932050704956,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We do not endorse the Community Content in the User Forums and specifically disclaim any responsibility or liability, subject to Section 16 of this Agreement, to any person or entity (including, without limitation, persons who may use or rely on such material) for any loss, damage (whether actual, consequential, punitive or otherwise), injury, claim, liability or other cause of any kind or character based upon or resulting from any Community Content provided through a User Forum",
+            "conf": 0.9948431253433228,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may add, change, discontinue, remove or suspend any of the Material at any time, without notice and without liability",
+            "conf": 0.9999886155128479,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If you register with the Site, you agree to accept responsibility, subject to Section 16 of this Agreement, for all activities that occur under your account, email or password, if any, and agree you will not sell, transfer or assign your membership, any membership rights or any Site issued email address or e-card/e-message functionality.",
+            "conf": 0.9972597360610962,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your password, if any, and for restricting access to your computer so that others may not access the password protected portion of the Site or your Site issued email account using your name in whole or in part.",
+            "conf": 0.9998112916946411,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may, in our sole discretion, and at any time, with or without notice, terminate your access and membership, for any reason or no reason at all",
+            "conf": 0.9991030693054199,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the content or performance of any portion of the Internet including other World Wide Websites to which the Site may be linked for from which the Site may be accessed.",
+            "conf": 0.9894633889198303,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Although we attempt to maintain the integrity of the Site and other Offerings, we make no guarantee as to the accuracy or completeness of the Site or other Offerings",
+            "conf": 0.9999922513961792,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU UNDERSTAND AND AGREE THAT THIS SITE AND ALL MATERIAL AND INTELLECTUAL PROPERTY CONTAINED ON IT ARE DISTRIBUTED \"AS IS\" \"AS AVAILABLE\" \"WITH ALL FAULTS\" AND WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE OR THOSE ARISING BY STATUTE OR OTHERWISE IN LAW OR FROM A COURSE OF DEALING OR USAGE OF TRADE",
+            "conf": 0.9997738003730774,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU AGREE THAT WE AND OUR PARENTS, AFFILIATES, SUBSIDIARIES, LICENSORS AND ASSIGNS, AND EACH OF THEIR RESPECTIVE EMPLOYEES, OFFICERS AND DIRECTORS (COLLECTIVELY, THE \"RELEASED PARTIES\"), ARE NOT LIABLE TO YOU FOR DAMAGES OF ANY KIND, WHETHER BASED IN TORT, CONTRACT, STRICT LIABILITY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OR RESULTING IN ANY WAY FROM OR IN CONNECTION WITH THIS SITE, THE OFFERINGS, THE USER FORUMS, THE MATERIAL, OR ANY ERRORS OR OMISSIONS IN ITS TECHNICAL OPERATION OR THE MATERIAL, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER CAUSED IN WHOLE OR IN PART BY NEGLIGENCE, ACTS OF GOD, TELECOMMUNICATIONS FAILURE, THEFT OR DESTRUCTION OF, OR UNAUTHORIZED ACCESS TO, THIS SITE OR ITS RELATED INFORMATION OR PROGRAMS.",
+            "conf": 0.9999009966850281,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We make no representation or warranty whatsoever regarding the completeness, accuracy, currency or adequacy of any information, facts, views, opinions, statements or recommendations contained on this Site, in any Offering and/or the Material",
+            "conf": 0.9999818801879883,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any resulting damage to any user's computer from any such security breach, or from any virus, bugs, tampering, unauthorized intervention, fraud, error, omission, interruption, deletion, defect, delay in operation or transmission, computer line failure or any other technical or other malfunction.",
+            "conf": 0.9916154742240906,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We make no representation or warranty whatsoever regarding the suitability, functionality, availability or operation of this Site",
+            "conf": 0.999991238117218,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "This Site may be temporarily unavailable due to maintenance or malfunction of computer equipment",
+            "conf": 0.9186210036277771,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The following provisions in these Terms of Use do not apply to you and are not intended to vary, diminish or alter your rights under New Jersey law: specifically, nothing in these Terms of Use limits, varies, diminishes, affects, or otherwise voids or alters your rights under New Jersey law as they relate to limitations of liability or exculpation (including, but not limited to, limitations on indirect, incidental, special, exemplary, consequential or similar damages), dispute resolution, indemnification, venue or jurisdiction, statutes of limitation or repose periods for bringing claims, plain language requirements, representations and warranties of any type or nature (including, but not limited to, conditions of merchantability, of satisfactory quality, of fitness for a particular purpose, of accuracy, of quiet enjoyment, and non-infringement), contract remedies, personal injury, tort and negligence claims, conditions of sale, fee-shifting provisions, waiver of attorney fees and/or costs, and copyright",
+            "conf": 0.9996374249458313,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "BY USING THIS SITE YOU AGREE TO INDEMNIFY, DEFEND AND HOLD THE RELEASED PARTIES HARMLESS FROM AND AGAINST ANY THIRD PARTY CLAIMS, ALLEGED CLAIMS, DEMANDS, CAUSES OF ACTION, JUDGMENTS, DAMAGES, LOSSES, LIABILITIES, AND ALL COSTS AND EXPENSES OF DEFENSE, INCLUDING, WITHOUT LIMITATION, REASONABLE ATTORNEYS' FEES, ARISING OUT OF OR RELATING TO: YOUR BREACH OF YOUR REPRESENTATIONS, WARRANTIES, COVENANTS OR AGREEMENTS HEREUNDER",
+            "conf": 0.9999867677688599,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right to modify or discontinue this Site, or any portion thereof without notice to you or any third party",
+            "conf": 0.9998743534088135,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.3
+}

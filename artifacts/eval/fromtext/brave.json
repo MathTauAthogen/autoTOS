@@ -1,0 +1,236 @@
+{
+    "predictions": [
+        {
+            "label": "10",
+            "text": ", and for seven years afterwards",
+            "conf": 0.9661228060722351,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Beyond seven years, we no longer store your personal information, only information about your company",
+            "conf": 0.991617739200592,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Every email we send like this includes an unsubscribe link",
+            "conf": 0.9999902844429016,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ", update incorrect information, delete it, object to our use of it, or get a copy of it",
+            "conf": 0.9010222554206848,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We\u2019ll update this policy whenever we make material changes to our practices, and we\u2019ll announce it to let you know",
+            "conf": 0.9999863505363464,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Terms of Use Brave reserves the right, at its sole discretion, to modify or replace any of the Terms of Use, or change, suspend, or discontinue the Service (including without limitation, the availability of any feature, database, or content) at any time by posting a notice on the Brave websites or Service or by sending you an email",
+            "conf": 0.9876384735107422,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "It is your responsibility to check the Terms of Use periodically for changes",
+            "conf": 0.9997577667236328,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Termination Brave may terminate your access to all or any part of the Service at any time if you fail to comply with these Terms of Use, which may result in the forfeiture and destruction of all information associated with your account",
+            "conf": 0.9998611211776733,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Further, either party may terminate the Services for any reason and at any time upon written notice",
+            "conf": 0.9974288940429688,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to terminate your account, you may do so by following the instructions on the Service",
+            "conf": 0.9883723258972168,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE (INCLUDING, WITHOUT LIMITATION, THE BRAVE BROWSER AND ANY CONTENT) IS PROVIDED \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d AND IS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED",
+            "conf": 0.9994317293167114,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You shall defend, indemnify, and hold harmless Brave, its affiliates and each of its, and its affiliates employees, contractors, directors, suppliers and representatives from all liabilities, losses, claims, and expenses, including reasonable attorneys\u2019 fees, that arise from or relate to (i) your use or misuse of, or access to, the Service, or (ii) your violation of the Terms of Use or any applicable law, contract, policy, regulation or other obligation",
+            "conf": 0.999993085861206,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL BRAVE OR ITS DIRECTORS, EMPLOYEES, AGENTS, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS, BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY WITH RESPECT TO THE SERVICE (I) FOR ANY LOST PROFITS, DATA LOSS, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER, OR SUBSTITUTE GOODS OR SERVICES, (II) FOR YOUR RELIANCE ON THE SERVICE OR (III) FOR ANY DIRECT DAMAGES IN EXCESS (IN THE AGGREGATE) OF THE FEES PAID BY YOU FOR THE SERVICE OR, IF GREATER, $500.",
+            "conf": 0.9989856481552124,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder",
+            "conf": 0.9998545050621033,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Use Effective Date:",
+            "conf": 0.9998115301132202,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "February 11, 2016",
+            "conf": 0.9036135077476501,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "LAST UPDATED: FEB 11, 2019",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "The IP address of all server requests are stored for no more than 30 days",
+            "conf": 0.9762861728668213,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Every email we send like this includes an unsubscribe link",
+            "conf": 0.9999902844429016,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Children under the age of 131 are not permitted to use the website, sign up for email updates, join the community forum, or send Brave any other information",
+            "conf": 0.9999970197677612,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "these may no longer be personal data because once user name is removed the former user may no longer be identifiable",
+            "conf": 0.9996668696403503,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ", update incorrect information, delete it, object to our use of it, or get a copy of it",
+            "conf": 0.9010222554206848,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We\u2019ll update this policy whenever we make material changes to our practices, and we\u2019ll announce it to let you know",
+            "conf": 0.9993592500686646,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Some countries in the European Union have defined a child as any person under the age of 13",
+            "conf": 0.9720573425292969,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "LAST UPDATED: FEB 11, 2019",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "Every email we send like this includes an unsubscribe link",
+            "conf": 0.9999902844429016,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The minimum age to",
+            "conf": 0.9510518312454224,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": ", update incorrect information, delete it, object to our use of it, or get a copy of it",
+            "conf": 0.9010222554206848,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We\u2019ll update this policy whenever we make material changes to our practices, and we\u2019ll announce it to let you know",
+            "conf": 0.9993592500686646,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "LAST UPDATED: FEB 11, 2019",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We don\u2019t write any personal data to the blockchain",
+            "conf": 0.964361846446991,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ", update incorrect information, delete it, object to our use of it, or get a copy of it",
+            "conf": 0.9010222554206848,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We\u2019ll update this policy whenever we make material changes to our practices, and we\u2019ll announce it to let you know",
+            "conf": 0.9993592500686646,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 6.3
+}

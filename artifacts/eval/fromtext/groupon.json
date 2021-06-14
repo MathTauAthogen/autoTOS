@@ -1,0 +1,152 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated: September 13, 2012",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of notice on the Site prior to the change becoming effective",
+            "conf": 0.9989185929298401,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "You can determine when this Privacy Statement was last revised by referring to the date it was \u201cLast Updated\u201d above",
+            "conf": 0.9986830353736877,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may choose to subscribe to some types of messages, and may choose to unsubscribe from others",
+            "conf": 0.9999920725822449,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that even if you unsubscribe from promotional email messages, we may still need to contact you with important transactional information related to your account and your purchases",
+            "conf": 0.9995985627174377,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "For example, even if you have unsubscribed from our promotional email messages, we will still send you confirmations when you make purchases on the Site",
+            "conf": 0.9711452126502991,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of being targeted by certain Third-Party Ad-Servers online using the National Advertising Initiative\u2019s Opt-Out Tool, or on TRUSTe\u2019s site",
+            "conf": 0.9984690546989441,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to opt out of receiving offers directly from our Business Partners, you can follow the opt-out instructions in the emails that they send you",
+            "conf": 0.999987006187439,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "with Third-Party Ad-Servers to place our ads and/or ads of our merchants or Business Partners on the Site and on third-party sites, and to analyze the effectiveness of those ads",
+            "conf": 0.9867410659790039,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not share Personal Information with Third-Party Ad-Servers",
+            "conf": 0.9997514486312866,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "They do this by using Cookies, clear gifs and other technologies",
+            "conf": 0.9916897416114807,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "This Privacy Statement does not cover the collection methods or use of the information collected by Third-Party Ad-Servers, and Groupon is not responsible for Cookies or clear gifs in third party ads",
+            "conf": 0.9204705953598022,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We also use cookies, tags, web beacons, local shared objects, files, tools and programs to keep records, store your preferences, improve our advertising, and collect Non-Identifying Information, including Device Data and your interaction with the Site and our Business Partners' web sites.",
+            "conf": 0.9993352293968201,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can access, update and delete your , Financial Account Information, and the other information you provided to us in your profile by logging into your account and accessing the \u201cMy Account\u201d section of the Site or sending us an email at privacy@groupon.com",
+            "conf": 0.9981396198272705,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "While we are ready to assist you in managing your subscriptions, closing your account, and removing your active profile, we cannot always delete records of past interactions and transactions",
+            "conf": 0.9995434284210205,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your Personal Information for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes",
+            "conf": 0.9998605847358704,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to cancel your account or request that we no longer use your Personal Information to provide you services contact us at support@groupon.com.",
+            "conf": 0.9843578934669495,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Children\u2019s Privacy Groupon does not intend that any portion of the Site will be accessed or used by children under the age of thirteen, and such use is prohibited",
+            "conf": 0.999992847442627,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using Groupon, you represent that you are at least eighteen years old and understand that you must be at least eighteen years old in order to create an account and purchase the goods or services advertised through the Site.",
+            "conf": 0.9901416897773743,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "are more permanent cookies that are stored on your computers or mobile devices even beyond when you exit your browser",
+            "conf": 0.9002688527107239,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel Tags and Web Beacons means tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed specific actions.",
+            "conf": 0.9971345663070679,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 6.1
+}

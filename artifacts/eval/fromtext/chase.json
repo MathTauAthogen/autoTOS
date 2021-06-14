@@ -1,0 +1,117 @@
+{
+    "predictions": [
+        {
+            "label": "12",
+            "text": "You consent to the transmission, transfer or processing of such information to, or through, any country in the world, as we deem necessary or appropriate (including to countries outside the EEA), and by using and providing information through this Website you agree to such transfers",
+            "conf": 0.9622529149055481,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If you use JPMorgan Chase\u2019s Website or systems to access data related to any account(s) of which you are not the owner or authorized user as reflected in JPMorgan Chase\u2019s systems, you shall indemnify, defend, and hold harmless JPMorgan Chase &amp",
+            "conf": 0.9998189806938171,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "It is believed to be reliable, but JPMorgan Chase does not warrant its completeness, timeliness or accuracy",
+            "conf": 0.9999862313270569,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "The information and materials contained in this Website-and the terms and conditions of the access to and use of such information and materials-are subject to change without notice",
+            "conf": 0.9438349008560181,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "JPMORGAN CHASE OR ITS SUPPLIERS MAY DISCONTINUE OR MAKE CHANGES IN THE INFORMATION, PRODUCTS OR SERVICES DESCRIBED HEREIN AT ANY TIME WITHOUT PRIOR NOTICE TO YOU AND WITHOUT ANY LIABILITY TO YOU.",
+            "conf": 0.9819859862327576,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ANY DATED INFORMATION IS PUBLISHED AS OF ITS DATE ONLY, AND JPMORGAN CHASE DOES NOT UNDERTAKE ANY OBLIGATION OR RESPONSIBILITY TO UPDATE OR AMEND ANY SUCH INFORMATION",
+            "conf": 0.9968594312667847,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FURTHERMORE, BY OFFERING THIS WEBSITE AND INFORMATION, PRODUCTS OR SERVICES VIA THIS WEBSITE, NO DISTRIBUTION OR SOLICITATION IS MADE BY JPMORGAN CHASE TO ANY PERSON TO USE THE WEBSITE OR SUCH INFORMATION, PRODUCTS OR SERVICES IN JURISDICTIONS WHERE THE PROVISION OF THE WEBSITE AND SUCH INFORMATION, PRODUCTS OR SERVICES IS PROHIBITED BY LAW.",
+            "conf": 0.9972484111785889,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Access to the Website may from time to time be unavailable, delayed, limited or slowed due to, among other things:",
+            "conf": 0.999988317489624,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Website not controlled by JPMorgan Chase, JPMorgan Chase makes no warranties, either express or implied, concerning the content of such site, including the accuracy, completeness, reliability or suitability thereof for any particular purpose, nor does Chase warrant that such site or content is free from any claims of copyright, trademark or other infringement of the rights of third parties or that such site or content is devoid of viruses or other contamination",
+            "conf": 0.95232754945755,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "BECAUSE OF THE POSSIBILITY OF HUMAN AND MECHANICAL ERROR AS WELL AS OTHER FACTORS, THE WEBSITE (INCLUDING ALL INFORMATION AND MATERIALS CONTAINED ON THE WEBSITE) IS PROVIDED \"AS IS\" \"AS AVAILABLE\".",
+            "conf": 0.9999998807907104,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "JPMORGAN CHASE AND THIRD PARTY DATA PROVIDERS ARE NOT PROVIDING ANY WARRANTIES AND REPRESENTATIONS REGARDING THE WEBSITE",
+            "conf": 0.9980378150939941,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "JPMORGAN CHASE AND THIRD PARTY DATA PROVIDERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS OF ANY KIND WITH REGARD TO THE WEBSITE, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT OF THIRD PARTY RIGHTS, FREEDOM FROM VIRUSES OR OTHER HARMFUL CODE, OR FITNESS FOR ANY PARTICULAR PURPOSE",
+            "conf": 0.9127283692359924,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "JPMORGAN CHASE AND THIRD PARTY DATA PROVIDERS DO NOT WARRANT THE ACCURACY, ADEQUACY, OR COMPLETENESS OF THE INFORMATION AND MATERIALS CONTAINED ON THE WEBSITE AND EXPRESSLY DISCLAIMS LIABILITY FOR ERRORS OR OMISSIONS IN THE MATERIALS AND INFORMATION",
+            "conf": 0.9999875426292419,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "FURTHERMORE, JPMORGAN CHASE AND ITS AFFILIATES WILL NOT BE LIABLE FOR ANY DELAY, DIFFICULTY IN USE, COMPUTER VIRUSES, MALICIOUS CODE, OR OTHER DEFECT IN WEBSITE, ANY INCOMPATIBILITY BETWEEN THE WEBSITE AND THE USER'S FILES AND THE USER'S BROWSER OR OTHER SITE ACCESSING PROGRAM, OR ANY OTHER PROBLEMS EXPERIENCED BY THE USER DUE TO CAUSES BEYOND JPMORGAN CHASE AND ITS AFFILIATES' CONTROL",
+            "conf": 0.9776579141616821,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES WILL JPMORGAN CHASE BE LIABLE FOR ANY LOST PROFITS, LOST OPPORTUNITY OR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF ANY USE OF OR INABILITY TO USE THE WEBSITE OR ANY PORTION THEREOF, REGARDLESS OF WHETHER JPMORGAN CHASE HAS BEEN APPRISED OF THE LIKELIHOOD OF SUCH DAMAGES OCCURRING AND REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, WARRANTY, TORT, (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE.",
+            "conf": 0.999681830406189,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In the event any of the terms or provisions of these Terms and Conditions shall be held to be unenforceable, the remaining terms and provisions shall be unimpaired and the unenforceable term or provision shall be replaced by such enforceable term or provision as comes closest to the intention underlying the unenforceable term or provision",
+            "conf": 0.9256687760353088,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 0.0
+}

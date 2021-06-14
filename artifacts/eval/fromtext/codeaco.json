@@ -1,0 +1,236 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated 8/14/2020",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated 8/15/2020",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We don't disclose or sell your information to third-parties",
+            "conf": 0.9997867345809937,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Our custom made analytics system is completely anonymous, and collects no personal information",
+            "conf": 0.996178150177002,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not share this with anyone else, or use this to send you promotional emails",
+            "conf": 0.9913181066513062,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "These logs are deleted after thirty (30) days",
+            "conf": 0.9983856081962585,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "It does not set cookies, read cookies, or collect any personal information",
+            "conf": 0.9719608426094055,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee it's absolute security",
+            "conf": 0.9986842274665833,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services",
+            "conf": 0.9999716281890869,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Our Services do not address anyone under the age of 13",
+            "conf": 0.9999570846557617,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal identifiable information from children under 13",
+            "conf": 0.999589204788208,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update our Privacy Policy from time to time",
+            "conf": 0.9974668622016907,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Account Deletion At any time, you may request your account to be deleted",
+            "conf": 0.9998970031738281,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For security reasons, your data will be retained for seven (7) after the deletion request",
+            "conf": 0.9998030066490173,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After that period, you account and all associated data will be permanantley deleted from all of our servers",
+            "conf": 0.9994784593582153,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Service Last updated 8/15/2020",
+            "conf": 0.9999626874923706,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children under the age of 13 are not allowed to create an account or otherwise use our website",
+            "conf": 0.9999901652336121,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Additionally, if you are in the European Economic Area, you must be over the age required by the laws of your country to create an account or otherwise use Codeaco, or we need to have received verifiable consent from your parent or legal guardian",
+            "conf": 0.9999748468399048,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right to modify, suspend, or discontinue Codeaco (in whole or in part) at any time, with or without notice to you",
+            "conf": 0.9999875426292419,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for the information associated with Your Account and anything that happens related to Your Account",
+            "conf": 0.9993625283241272,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We take no responsibility for and we do not expressly or implicitly endorse any of Your Content",
+            "conf": 0.9902995824813843,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete or remove Your Content for a violation of our Content Policy, or if you otherwise create liability for us",
+            "conf": 0.9993423223495483,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Third-Party Content is not under our control, and we are not responsible for any of their websites, products, or services.",
+            "conf": 0.9948596358299255,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Except to the extent prohibited by law, you agree to defend, indemnify, and hold us, our licensors, our third party service providers and our officers, employees, licensors, and agents harmless, including costs and attorneys' fees, from any claim or demand made by any third party due to or arising out of (a) your use of CODEACO, (b) your violation of these Terms, (c) your violation of applicable laws or regulations, or (d) Your Content",
+            "conf": 0.9987348914146423,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims",
+            "conf": 0.9929143786430359,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Codeaco ARE PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF",
+            "conf": 0.9759131073951721,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CODEACO, ITS LICENSORS, AND ITS THIRD PARTY SERVICE PROVIDERS DO NOT WARRANT THAT CODEACO ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR FREE",
+            "conf": 0.9999819993972778,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CODEACO DOES NOT CONTROL, ENDORSE, OR TAKE RESPONSIBILITY FOR ANY CONTENT AVAILABLE ON OR LINKED TO CODEACO OR THE ACTIONS OF ANY THIRD PARTY OR USER, INCLUDING MODERATORS",
+            "conf": 0.932317316532135,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WHILE CODEACO ATTEMPTS TO MAKE YOUR ACCESS TO AND USE OF OUR SERVICES SAFE, WE DO NOT REPRESENT OR WARRANT THAT OUR SERVICES OR SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS",
+            "conf": 0.9837460517883301,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT AND UNDER NO THEORY OF LIABILITY, INCLUDING CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, WARRANTY, OR OTHERWISE, WILL CODEACO ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, OR LOST PROFITS ARISING FROM OR RELATING TO THESE TERMS OR CODEACO, INCLUDING THOSE ARISING FROM OR RELATING TO CONTENT MADE AVAILABLE ON CODEACO THAT IS ALLEGED TO BE DEFAMATORY, OFFENSIVE, OR ILLEGAL",
+            "conf": 0.9998481273651123,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ACCESS TO, AND USE OF, CODEACO IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR LOSS OF DATA RESULTING THEREFROM",
+            "conf": 0.938714861869812,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Termination  You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing your use of all Services",
+            "conf": 0.9342936873435974,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may suspend or terminate your Accounts, status as a moderator, or ability to access or use Codeaco at any time for any or no reason, including for a violation of these Terms or our Content Policy",
+            "conf": 0.9998482465744019,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.9
+}

@@ -1,0 +1,313 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "This Privacy Notice is effective as of May 25, 2018",
+            "conf": 0.9999969005584717,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Yes, I'm over the age of 16",
+            "conf": 0.9998889565467834,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We will never sell your data",
+            "conf": 0.9999445080757141,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We may share your information with service providers, who are prohibited from using your information for their own purposes",
+            "conf": 0.9582704305648804,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We respect your rights to opt out of our communications",
+            "conf": 0.9920021295547485,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can always opt out of getting such communications from us by unsubscribing from the email directly or by contacting our Customer Service department by email to:&nbsp;optout@cengage.com or phone at +1 800.354.9706 (",
+            "conf": 0.9922925233840942,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We also do not allow any children under the age of 16 to register with Cengage directly",
+            "conf": 0.9999977946281433,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: May 25, 2018",
+            "conf": 0.9990410804748535,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minors If you are entering into these Terms on your own behalf, you represent that you are at least 18 years of age and have the legal capacity to enter into these Terms",
+            "conf": 0.9999963045120239,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18 years of age, your parent or guardian must enter into these Terms on your behalf, and this parent or guardian represents that he or she accepts these Terms on your behalf and that you are 13 or older",
+            "conf": 0.9999999403953552,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You are not allowed to use the Services if you are under the age of 13",
+            "conf": 0.9999916553497314,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Cengage will not be liable for any loss or damage resulting from your reliance on Your Content or any third-party Content available through the Services.",
+            "conf": 0.9958885908126831,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Cengage reserves the right (but has no obligation) to pre-screen, review, flag, filter, modify, refuse, or remove Content from the Services",
+            "conf": 0.9998677372932434,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Cengage is not liable for damage to, deletion of, or failure to store, Your Content",
+            "conf": 0.9999523162841797,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Cengage may suspend or terminate user accounts for which applicable fees are unpaid,&nbsp;that are inactive for an extended period of time, or in the event of a violation of these terms of use with or without notice",
+            "conf": 0.9998692870140076,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Cengage may establish and change these general practices and limits at any time, with or without notice",
+            "conf": 0.9964353442192078,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Services and Cengage Materials are provided by Cengage on an \"as is\" and \"as available\" basis",
+            "conf": 0.9999952912330627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Cengage makes no representations or warranties of any kind, express or implied, as to the Services, Cengage Materials, or other information, content or materials made available through the Services, including the",
+            "conf": 0.9310057759284973,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "&nbsp;Cengage does not warrant or make any representations regarding the use of or the result of the use of any Services, Cengage Materials or Services Items in terms of their correctness, accuracy, reliability, or otherwise, and you (and not Cengage) assume the entire cost of all necessary servicing, repair and correction",
+            "conf": 0.9971153140068054,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "&nbsp;CENGAGE DOES NOT WARRANT THAT THE SERVICES, CENGAGE MATERIALS, OR SERVICES ITEMS WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE SERVICES, CENGAGE MATERIALS, OR SERVICES ITEMS OR THE SERVERS THAT MAKE THEM AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS",
+            "conf": 0.999438464641571,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Limitation of Liability Neither Cengage nor its suppliers, nor their respective directors, employees, officers or representatives will be liable for any damages of any kind arising from the use of or inability to use the Services, Cengage Materials, or Services Items including, but not limited to, any direct, indirect, incidental, special, consequential, exemplary or punitive damages, or any lost profits, lost data, or loss of revenue.",
+            "conf": 0.9942903518676758,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE TO INDEMNIFY, DEFEND AND HOLD HARMLESS CENGAGE, ITS AFFILIATES AND SUPPLIERS, AND THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES AND REPRESENTATIVES, FROM ANY AND ALL DEMANDS, CLAIMS, ACTIONS, DAMAGES, LOSSES, LIABILITIES, COSTS AND EXPENSES, INCLUDING ATTORNEYS\u2019 FEES AND COURT COSTS, DIRECTLY OR INDIRECTLY ARISING OUT OF OR IN CONNECTION WITH YOUR ACCESS OR USE OF THE SERVICES, CENGAGE MATERIALS, OR SERVICES ITEMS",
+            "conf": 0.9998534321784973,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will Cengage, or its affiliates, suppliers or agents be liable for any loss or damage caused by the Collaboration Tools, including your reliance on information obtained through the Collaboration Tools.",
+            "conf": 0.9878884553909302,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "nbsp;Because Cengage has no control over these websites, Cengage is not responsible for such websites\u2019 content or accessibility via the internet and does not endorse products, services, or information provided by such websites",
+            "conf": 0.9936098456382751,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Cengage shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with, use or reliance on any Content, goods, or services available on or through any other website.",
+            "conf": 0.9985405802726746,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You agree that Cengage may terminate, suspend, or block your use of all or part of the Services, without liability or refund, if in Cengage",
+            "conf": 0.9949839115142822,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "\u2019s sole determination you have breached these Terms",
+            "conf": 0.9926873445510864,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that upon termination of your participation in the Services for any reason, Cengage may delete all information related to you on or within the Services and may prevent your continued access to and use of the Services",
+            "conf": 0.9997954368591309,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Cengage may change these Terms from time to time",
+            "conf": 0.9976261258125305,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Cengage to exercise or enforce any right or provision of these Terms does not constitute a waiver of such right or provision",
+            "conf": 0.9999972581863403,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "waiver of any term of these Terms by Cengage shall be deemed a further or continuing waiver of such term or any other term",
+            "conf": 0.9844792485237122,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Please note that the Service will be unavailable for use occasionally, including during periods when Cengage is performing preventive maintenance or upgrades",
+            "conf": 0.9923367500305176,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Except as set forth above, the Physical Products and rented textbooks are provided by Cengage on an \"as is\" basis, and Cengage makes no representations or warranties of any kind, express or implied, as to the Physical Products or rented textbooks",
+            "conf": 0.999994158744812,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Cengage does not warrant or make any representations regarding the use of or the result of the use of any Physical Products or rented textbooks in terms of their correctness, accuracy, reliability",
+            "conf": 0.9988828301429749,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge that the Aplia Website might be unavailable on one or more occasions, including time periods during which the Aplia Website is scheduled to be unavailable for use due to preventive maintenance or upgrades",
+            "conf": 0.9904829263687134,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You acknowledge that Cengage is not a party to, and Cengage is not liable for breaches of, any Developer Offering Terms, and that Cengage is an intended third-party beneficiary of, and may enforce directly against you, all such Developer Offering Terms",
+            "conf": 0.9998770952224731,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "&nbsp;Cengage is not responsible or liable for: (1) the availability, delivery, functionality, or performance of Developer Offerings, including their content, accuracy, or reliability or (2) the acts and omissions (including privacy practices) of the developers of Developer Offerings",
+            "conf": 0.956059992313385,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Cengage, not Apple, is solely responsible for the App and its content",
+            "conf": 0.9988505244255066,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Cengage will not share the UDID or any other individual App user data with third parties, except in the case of a court order, subpoena, or a lawful government demand",
+            "conf": 0.9846200942993164,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you do not wish to receive push notifications from us, click \"Don't Allow\" or other similar button when prompted",
+            "conf": 0.9736624360084534,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Each Admin User will be required to have an account and password, and you will be solely responsible for all activity on the PathBrite Service occurring under an Admin User's account, including with respect to User Content.",
+            "conf": 0.9967032074928284,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "However, in the event Questia discontinues the service or ceases to do business, or in the event of an acquisition of Questia, change of control of Questia, significant merger, or other legal reorganization, Questia may",
+            "conf": 0.9321428537368774,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We will then keep the data for an additional year, at which point we will delete your data",
+            "conf": 0.9979410767555237,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Although we are vigilant about ensuring the highest level of integrity of digitized titles, we do not guarantee the quality or accuracy of any information provided in the Service",
+            "conf": 0.9995728135108948,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.6
+}

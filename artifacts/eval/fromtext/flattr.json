@@ -1,0 +1,306 @@
+{
+    "predictions": [
+        {
+            "label": "10",
+            "text": "number of flattrs, which are retained for a period of six (6) months after deletion of the account",
+            "conf": 0.9828494787216187,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Data sent with your consent: Identifier will be removed three (3) months after submission",
+            "conf": 0.9999874830245972,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Request erasure of your data, unless such data needs to be retained for legal purposes",
+            "conf": 0.9997815489768982,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "PLEASE NOTE: \u201cCollection\u201d and \u201cProcessing\u201d of personal data does not mean, that the data leaves your device",
+            "conf": 0.9754326343536377,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u201cProcessing\u201d of personal data means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction",
+            "conf": 0.999979555606842,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can remove channels at any time",
+            "conf": 0.9997894167900085,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We delete unclaimed",
+            "conf": 0.9651597142219543,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "after a second cycle, so users can see them for one (1) more month after",
+            "conf": 0.9428210258483887,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "URLs without a recipient will be deleted after one (1) month after the end of a subscription period",
+            "conf": 0.9914601445198059,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Transaction data of contributions from Contributors",
+            "conf": 0.9440346360206604,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "are deleted as follows: Historic data are kept for three (3) months and basic transaction data are kept in accordance with tax retention periods for tax purposes only",
+            "conf": 0.9999961256980896,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Deletion of accounts When deleting an account, all account data will be deleted directly, except for the following data, which must be retained for accounting purposes and/or for providing the Flattr service for a short period and will be automatically deleted at the end of the respective period:",
+            "conf": 0.9999977350234985,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Flattrs, meaning the number of flattrs including the flattred URL, will be retained for a period of six (6) months after deletion of the account",
+            "conf": 0.9991545081138611,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "will be retained for a period of three (3) months",
+            "conf": 0.9180817604064941,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can deactivate analytics by clicking on Opt-Out",
+            "conf": 0.9564750790596008,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Analytics data will be automatically deleted after 180 days",
+            "conf": 0.9999780654907227,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Of course you can unsubscribe the newsletter at any time by opting-out in your profile settings",
+            "conf": 0.9999839663505554,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "In addition, every newsletter contains the information on how you can unsubscribe the newsletter with effect for the future",
+            "conf": 0.9999889135360718,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "This data will never be sent to us or any other party",
+            "conf": 0.9999670386314392,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Deletion of Extension data We delete all data collected in connection with the Extension as follows: Events, flattrs, session data and the domains, which you have black- and/or whitelisted will be deleted in connection with the deletion of the Extension.",
+            "conf": 0.9970009922981262,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In case you should have actively submitted those data to us, we will delete the submitted data 35 days after successful submission",
+            "conf": 0.9845201373100281,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "On a daily basis, we delete sessions and visits after the processing of the history, unless it fails",
+            "conf": 0.9987931251525879,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Please note that the efficiency and range of our services may be restricted as a result",
+            "conf": 0.9871631264686584,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Do we disclose any personal data? We will not transfer your personal data to third parties as a matter of course without letting you know in advance or asking for your prior permission",
+            "conf": 0.997792661190033,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "The legal structure may be adapted, subsidiaries, business units or components may be created, bought or sold",
+            "conf": 0.9798822402954102,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Erasure of your data You have the right to demand from us the erasure of your personal data, where - inter alia - one of the following grounds applies:",
+            "conf": 0.999996542930603,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note, if data needs to be retained for legal purposes we will restrict the respective data",
+            "conf": 0.9384236931800842,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "As our Services evolve, we may change this Privacy Policy from time to time",
+            "conf": 0.9988070726394653,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "May 2018",
+            "conf": 0.9933503866195679,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "May 2018",
+            "conf": 0.9733977317810059,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "24 October 2017 until now",
+            "conf": 0.9999932050704956,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can revoke your consent at any time by visiting this page and clicking the button below",
+            "conf": 0.9982922673225403,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "3 May 2017 until September 30, 2017",
+            "conf": 0.9999930262565613,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In case any of your activities in connection with the use of our Services is illegal, infringes third party rights or breaches this agreement and this activity affects us, You must indemnify us from all third party claims",
+            "conf": 0.9856048822402954,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "All Users that are natural persons must be of full legal age, meaning at least 18 years old (\u201cAdults\u201d).",
+            "conf": 0.9999949336051941,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "When and how do we modify these Terms? We reserve the right to amend and adapt these Terms with future effect",
+            "conf": 0.9385711550712585,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to refuse the registration of, or cancel an account at our sole discretion, at any time and for no reason at all",
+            "conf": 0.9996806979179382,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "4.3 Availability of our Services Our Services will be available for use (\u201csystem uptime\u201d) 24 hours a day, 365 days a year with 96% availability on average (\u201cSLA\u201d).",
+            "conf": 0.9999978542327881,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Both parties have the right to terminate the agreement with prior written notice (electronic means is sufficient) of one (1) week until the end of,",
+            "conf": 0.9726166129112244,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Deletion of Your Account and withdrawal of budget For a full deletion of Your account and all data related to it, Your payment account must be empty.",
+            "conf": 0.9867692589759827,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Until all money is contributed or withdrawn we will block Your account for use, but are not entitled to delete Your data due to payment regulatory provisions",
+            "conf": 0.9997648596763611,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify us from all claims, including damages claims, asserted against us by other Users or other third parties, including public authorities, due to violations of their rights due to or arising out of:",
+            "conf": 0.9999953508377075,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "October 12th, 2017",
+            "conf": 0.9999839663505554,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 7.5
+}

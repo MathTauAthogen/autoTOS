@@ -1,0 +1,103 @@
+{
+    "predictions": [
+        {
+            "label": "2",
+            "text": "A pixel tag is not technically a cookie but is a similar type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies.",
+            "conf": 0.9956715703010559,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Amnesty International and Amnesty Decoders\u00a0support the use of Google Analytics within the site so that we can monitor activity on our website",
+            "conf": 0.9980350732803345,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google Analytics cookies collect standard internet log information and visitor behaviour information in an anonymous form",
+            "conf": 0.9931039214134216,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use both Facebook and Twitter pixel tags",
+            "conf": 0.9901677966117859,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel tags are used to track conversion from social media to our website",
+            "conf": 0.9970473647117615,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Annual Report 2017/2018",
+            "conf": 0.9997611045837402,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "This policy was last updated on [1] June 2018 and is reviewed every 12 months",
+            "conf": 0.9999738335609436,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are aged 18 or under and would like to get involved in Amnesty International\u2019s work, please make sure that you have your parent/guardian\u2019s permission before giving us personal information.",
+            "conf": 0.9949693083763123,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We only hold your personal information on our systems for as long as is necessary for the purposes outlined above",
+            "conf": 0.9996092915534973,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We remove personal data from our systems once it is no longer required, in line with our guidelines on how long important information must remain accessible for future use or reference, as well as when and how data can be destroyed when it is no longer needed",
+            "conf": 0.9999033808708191,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The length of time each category of data will be retained will vary depending on how long we need to process it for, the reason it was collected and in line with any statutory requirements",
+            "conf": 0.9019494652748108,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After this time the data will either be deleted or we may retain a secure anonymised record for research and analytical purposes",
+            "conf": 0.9995414614677429,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "All our email communications to you will contain an unsubscribe link",
+            "conf": 0.999975860118866,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Annual Report 2017/2018",
+            "conf": 0.9997611045837402,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.4
+}

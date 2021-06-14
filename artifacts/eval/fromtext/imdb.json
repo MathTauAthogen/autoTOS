@@ -1,0 +1,222 @@
+{
+    "predictions": [
+        {
+            "label": "16",
+            "text": "We will communicate with you by e-mail or by posting notices on this site or through the other IMDb Services",
+            "conf": 0.9555708169937134,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "If you use any IMDb Service, you are responsible for maintaining the confidentiality of log-in information and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password.",
+            "conf": 0.9996141791343689,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "IMDb reserves the right to refuse service, terminate accounts, or remove or edit content in its sole discretion",
+            "conf": 0.9996283650398254,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "IMDb reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content",
+            "conf": 0.9999128580093384,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "and that you will indemnify IMDb for all claims resulting from",
+            "conf": 0.9466456174850464,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "you supply",
+            "conf": 0.9459706544876099,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "IMDb has the right but not the obligation to monitor and edit or remove any activity or content",
+            "conf": 0.9999849200248718,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IMDb takes no responsibility and assumes no liability for any content posted by you or any third party",
+            "conf": 0.9991551637649536,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE IMDB SERVICES AND ALL INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) AND OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE IMDB SERVICES ARE PROVIDED BY IMDB ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS.",
+            "conf": 0.9936280846595764,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IMDB MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE IMDB SERVICES OR THE INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE IMDB SERVICES",
+            "conf": 0.9999533295631409,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IMDB DOES NOT WARRANT THAT THE IMDB SERVICES, INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE IMDB SERVICES, ITS SERVERS, OR ELECTRONIC COMMUNICATIONS SENT FROM IMDB ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS",
+            "conf": 0.9848194718360901,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IMDB WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF ANY IMDB SERVICE, OR FROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH ANY IMDB SERVICE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES.",
+            "conf": 0.9998809099197388,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You and IMDb each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action",
+            "conf": 0.9999921917915344,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to make changes to our site, policies, and these our site, policies, Terms, and these Conditions of Use at any time",
+            "conf": 0.9996959567070007,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition",
+            "conf": 0.9873163104057312,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may discontinue some or all of any IMDb Software we provide, and we may terminate your right to use any IMDb Software at any time and in such event may modify it to make it inoperable",
+            "conf": 0.9999676942825317,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "In order to keep the IMDb Software up-to-date, we may offer automatic or manual updates at any time and without notice to you",
+            "conf": 0.9186519980430603,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated, February 8, 2018",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We use web beacons (also known as \u201caction tags\u201d or \u201csingle-pixel gifs\u201d) and other technologies to measure the effectiveness of certain site features and to conduct research and analysis.",
+            "conf": 0.9931293725967407,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "As we continue to develop our business, we might sell or buy additional services or business units",
+            "conf": 0.9077611565589905,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not provide any personally identifiable customer information to these advertisers or third-party websites",
+            "conf": 0.9963570833206177,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or \"serve\") the advertisements that appear on our website directly to your browser",
+            "conf": 0.9995567202568054,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content.",
+            "conf": 0.9914608597755432,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice",
+            "conf": 0.984431266784668,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "IMDb also displays personalized third-party advertising based on personal information about users, such as information you submit to us about movies you own or have watched.&nbsp",
+            "conf": 0.9913579821586609,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Although IMDb does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the ad (for example, users in the northwestern United States who bought, watched, or browsed for romantic comedies).",
+            "conf": 0.9998485445976257,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "(If you do not want to receive legal notices from us, such as this Privacy Notice, those notices will still govern your use of IMDb, and it is your responsibility to review them for changes.)",
+            "conf": 0.9060577750205994,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "IMDb is not intended for use by children under the age of 13",
+            "conf": 0.9999675750732422,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13, you may not submit information about yourself to IMDb",
+            "conf": 0.9999974966049194,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This Notice and the Terms and Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use",
+            "conf": 0.9999830722808838,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes",
+            "conf": 0.9953718185424805,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 1.2
+}

@@ -1,0 +1,103 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "(updated July 31, 2020",
+            "conf": 0.9694439768791199,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If we update it, we will revise the date, place notices on CL if changes are material, and/or obtain your consent as required by law",
+            "conf": 0.9992257952690125,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not share your data with third parties for marketing purposes",
+            "conf": 0.9986550807952881,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "We do not respond to \"Do Not Track\" signals (see allaboutdnt.com).",
+            "conf": 0.9999776482582092,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "in connection with a merger, bankruptcy, or sale/transfer of assets",
+            "conf": 0.9693534970283508,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "By accessing CL or providing us data, you agree we may use and disclose data we collect as described here or as communicated to you, transmit it outside your resident jurisdiction, and store it on servers in the United States",
+            "conf": 0.9931936860084534,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "(last updated August 16, 2019",
+            "conf": 0.9997298121452332,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may modify the TOU at any time in our sole discretion",
+            "conf": 0.9966434836387634,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree we may moderate CL access/use in our sole discretion, e.g., by blocking, filtering, re-categorizing, re-ranking, deleting, delaying, holding, omitting, verifying, or terminating your access/license/account",
+            "conf": 0.9905005097389221,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "To the full extent permitted by law, craigslist, Inc., and its officers, directors, employees, agents, licensors, affiliates, and successors in interest (\"CL Entities\") (1) make no promises, warranties, or representations as to CL, including its completeness, accuracy, availability, timeliness, propriety, security or reliability",
+            "conf": 0.9999856948852539,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(2) provide CL on an \"AS IS\" and \"AS AVAILABLE\" basis and any risk of using CL is assumed by you",
+            "conf": 0.9802819490432739,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "CL Entities are NOT liable for any direct, indirect, consequential, incidental, special, punitive, or other losses, including lost profits, revenues, data, goodwill, etc., arising from or related to CL, and in no event shall such liability exceed $100 or the amount you paid us in the year preceding such loss",
+            "conf": 0.999668538570404,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "(2) indemnify and hold CL Entities harmless from any Claims, losses, liability, or expenses (including attorneys' fees) that arise from a third party and relate to your use of CL",
+            "conf": 0.9995819926261902,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our actions or silence toward you or anyone else does not waive, modify, or limit the TOU or our ability to enforce it",
+            "conf": 0.999745786190033,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.7
+}

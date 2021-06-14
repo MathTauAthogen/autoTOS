@@ -1,0 +1,376 @@
+{
+    "predictions": [
+        {
+            "label": "10",
+            "text": "We store personal information for only as long as we have a reason to keep it",
+            "conf": 0.9775302410125732,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Pixel tags (also called web beacons) are small blocks of code placed on websites and emails.",
+            "conf": 0.9816047549247742,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell our users\u2019 private personal information",
+            "conf": 0.9999606609344482,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We generally discard information about you when we no longer need the information for the purposes for which we collect and use it\u2013which are described in the section above on How and Why We Use Information\u2013and we are not legally required to continue to keep it",
+            "conf": 0.9999515414237976,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Opt-Out of Electronic Communications: You may opt out of receiving promotional messages from us",
+            "conf": 0.9998558163642883,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices",
+            "conf": 0.986460268497467,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Set Your Browser to Reject Cookies: At this time, Automattic does not respond to \u201cdo not track\u201d signals across all of our Services",
+            "conf": 0.9982270002365112,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Close Your Account: While we\u2019d be very sad to see you go, if you no longer want to use our Services :( :( :( :(, you can close your WordPress.com account.",
+            "conf": 0.9885923266410828,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above\u2013for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.",
+            "conf": 0.9906395673751831,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Request correction or deletion of your personal data;",
+            "conf": 0.9971799850463867,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren\u2019t able to do that, or you would like to contact us about one of the other rights, scroll down to How to Reach Us to, well, find out how to reach us.",
+            "conf": 0.9865406155586243,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Because Automattic\u2019s Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of companies, or third party data processors",
+            "conf": 0.9998863339424133,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These ad networks and analytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services.",
+            "conf": 0.9657363891601562,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time",
+            "conf": 0.9998489618301392,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or the WordPress.com Blog, or sending you a notification through email or your dashboard).",
+            "conf": 0.999946653842926,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "May 25, 2018:",
+            "conf": 0.9999591708183289,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "January 3, 2018",
+            "conf": 0.9999843835830688,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "August 22, 2017: Added",
+            "conf": 0.9913057684898376,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "November 2, 2016: Added",
+            "conf": 0.9796984791755676,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "February 18, 2015:\u00a0Updated",
+            "conf": 0.9690276980400085,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "September 18, 2013:",
+            "conf": 0.9999834299087524,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "February 1, 2011:",
+            "conf": 0.9938295483589172,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "July 1, 2010:",
+            "conf": 0.9315401911735535,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "October 29, 2009:",
+            "conf": 0.9999130964279175,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "March 10, 2009:",
+            "conf": 0.9999756813049316,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Access to and use of our Services is only for those over the age of 13 (or 16 in the European Union).",
+            "conf": 0.9999987483024597,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are younger than this, you may not register for or use our Services",
+            "conf": 0.9999973773956299,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Any person who registers as a user or provides their personal information to our Services represents that they are 13 years of age or older (16 years or older in the European Union).",
+            "conf": 0.9999997615814209,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You will be solely responsible and liable for any activity that occurs under your username",
+            "conf": 0.99930340051651,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for keeping your password secure",
+            "conf": 0.9999761581420898,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you create a blog or website on WordPress.com, you are responsible for maintaining the security of your account and blog, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the blog.",
+            "conf": 0.9959501028060913,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Automattic will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions",
+            "conf": 0.9990361332893372,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Without limiting any of those representations or warranties, Automattic has the right (though not the obligation) to, in Automattic\u2019s sole discretion, (i) reclaim your username or website\u2019s URL due to prolonged inactivity, (ii) refuse or remove any content that, in Automattic\u2019s reasonable opinion, violates any Automattic policy or is in any way harmful or objectionable, or (iii) terminate or deny access to and use of WordPress.com to any individual or entity for any reason",
+            "conf": 0.9562234282493591,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You\u2019re fully responsible for the content of any website you own that runs Jetpack (\u201cJetpack Content\u201d).",
+            "conf": 0.9840929508209229,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You",
+            "conf": 0.972194254398346,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "\u2019re fully responsible for your VaultPress Content",
+            "conf": 0.94233638048172,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": ", but because the tax law changes rapidly, we cannot guarantee that all the services are completely current",
+            "conf": 0.9740010499954224,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We also do not warrant that the results you obtain from the use of these services (rates and labels, for example) will be accurate or reliable",
+            "conf": 0.999997615814209,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "By operating our Services, Automattic does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful, or non-harmful",
+            "conf": 0.9982690811157227,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Automattic disclaims any responsibility for any harm resulting from the use by visitors of our Services, or from any downloading by those visitors of content there posted",
+            "conf": 0.9152625203132629,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may change our fees at any time",
+            "conf": 0.9946927428245544,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "When applicable, we may give you advance notice of the fee changes",
+            "conf": 0.9981514811515808,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Automattic does not have any control over those non-WordPress.com websites, and is not responsible for their contents or their use.",
+            "conf": 0.9841200113296509,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Any use of a Third Party Service is at your own risk, and we shall not be responsible or liable to anyone for Third Party Services",
+            "conf": 0.9751542210578918,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "In rare cases, we may at our discretion, suspend, disable, or remove Third Party Services from your account or website",
+            "conf": 0.9739253520965576,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make changes that are material, we will let you know by posting on one of our blogs, or by sending you an email or other communication before the changes take effect",
+            "conf": 0.9991897344589233,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "The notice will designate a reasonable period of time after which the new terms will take effect",
+            "conf": 0.9983547329902649,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Automattic may terminate your access to all or any part of our Services at any time, with or without cause, with or without notice, effective immediately",
+            "conf": 0.9998549222946167,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to terminate this Agreement or your WordPress.com account (if you have one), you may simply discontinue using our Services",
+            "conf": 0.954185426235199,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Our Services are provided \u201cas is",
+            "conf": 0.9999940395355225,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u201d Automattic and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement",
+            "conf": 0.99998539686203,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Neither Automattic nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted",
+            "conf": 0.9999953508377075,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold harmless Automattic, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all claims and expenses, including attorneys\u2019 fees, arising out of your use of our Services, including but not limited to your violation of this Agreement",
+            "conf": 0.9999915361404419,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.9
+}

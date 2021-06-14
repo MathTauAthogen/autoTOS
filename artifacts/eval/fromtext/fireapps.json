@@ -1,0 +1,250 @@
+{
+    "predictions": [
+        {
+            "label": "3",
+            "text": "FireApps may change, suspend or discontinue the Services for any reason, at any time, including the availability of any feature or Content",
+            "conf": 0.9999966025352478,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "FireApps may modify this Agreement at any time by posting a notice on the Services, or by sending you a notice via e-mail or postal mail",
+            "conf": 0.9990540742874146,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You certify to FireApps that if you are an individual (i.e., not a corporation) you are at least 18 years of age",
+            "conf": 0.9999588131904602,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "FireApps will use reasonable efforts to ensure that the Services are available twenty-four hours a day, seven days a week",
+            "conf": 0.9683670997619629,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You bear all responsibility and liability for the accuracy, completeness, quality, integrity, legality, reliability, appropriateness, and intellectual property ownership or right of the Customer Data and",
+            "conf": 0.9556199312210083,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u2019s access, possession and use as permitted herein",
+            "conf": 0.9808210730552673,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "FireApps reserves the right to remove any Customer Data from the Site and the Services at any time, for any reason or for no reason at all",
+            "conf": 0.9999548196792603,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "FireApps may, but is not obligated to, monitor Customer Data and remove any content or prohibit any use of the Services, including by refusing to send e-mail to your end users, if FireApps believes in its sole discretion such content or use may be (or is alleged to be) in violation of these Terms of Service or any applicable laws or may impact delivery",
+            "conf": 0.9999461770057678,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "FireApps does not assume liability for any Customer Data",
+            "conf": 0.996804416179657,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all Customer Data submitted under your account, including Customer Data contributed by a third party under your account",
+            "conf": 0.9604987502098083,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES, CONTENT, RESULTS, SITE AND ANY SOFTWARE ARE PROVIDED ON AN \u201cAS IS\u201d BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE,",
+            "conf": 0.9951610565185547,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT ALLOWED BY LAW, FIREAPPS DISCLAIMS ANY LIABILITY OR RESPONSIBILITY FOR THE ACCURACY, RELIABILITY, AVAILABILITY, COMPLETENESS, LEGALITY OR OPERABILITY OF THE MATERIAL PROVIDED THROUGH THE SERVICES",
+            "conf": 0.9990898966789246,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "FireApps reserves the right to refuse registration of or cancel an account in its discretion",
+            "conf": 0.9214766025543213,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You shall be responsible for maintaining the confidentiality of your FireApps password and for all activity of any person who accesses the Services using your password.",
+            "conf": 0.9995428919792175,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify and hold FireApps, its directors, officers, employees, agents, and representatives harmless, including costs and attorneys\u2019 fees, from any claim or demand made by any third party due to or arising out of your access to or use of the Services, your violation of this Agreement, or your infringement, or the infringement by any third party using your registration information, of any intellectual property, or other right of any person or entity, including but not limited to any third party claims relating to your disclosure of end personally identifiable information of your end users to FireApps",
+            "conf": 0.9999982118606567,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL FIREAPPS, ITS DIRECTORS, OFFICERS, SHAREHOLDERS, EMPLOYEES, MEMBERS, AGENTS AND REPRESENTATIVES BE LIABLE WITH RESPECT TO THE SERVICES FOR (A) ANY INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND.",
+            "conf": 0.9953856468200684,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "FireApps may also terminate or suspend any and all Services immediately, without prior notice or liability, if you breach any of the terms or conditions of this Agreement",
+            "conf": 0.9979307055473328,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder",
+            "conf": 0.9998545050621033,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not purchase or receive information about you from third parties (other than our customers).",
+            "conf": 0.9998143315315247,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you.",
+            "conf": 0.9775741100311279,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our partners may link the personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information",
+            "conf": 0.9443560838699341,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes",
+            "conf": 0.9905389547348022,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "FireApps retains standard web log data 10 years after you visit a Customer Site, and aggregations and reports for up to 20 years after you visit a Customer Site",
+            "conf": 0.9484755396842957,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "In addition, we may provide statistical collective user information, not information about you personally, to our partners so that they understand how often people use specific components of our Site and Services",
+            "conf": 0.9312412738800049,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We may also send e-mails with service updates, news or promotions",
+            "conf": 0.9946255683898926,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Like the information you provide to us, we do not share this information with anyone except authorized third parties in connection with providing you with our Services",
+            "conf": 0.9681814908981323,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Cookies are alphanumeric identifiers that we transfer to your computer",
+            "conf": 0.9374931454658508,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "\u2019s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people",
+            "conf": 0.9105575084686279,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Some of our business partners may use cookies on our Site",
+            "conf": 0.9872922301292419,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "As we develop our business, we might sell or buy businesses or assets",
+            "conf": 0.9591802358627319,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Information may be part of the transferred assets",
+            "conf": 0.9725592732429504,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may deactivate and wipe all off your data on FireApps account anytime",
+            "conf": 0.9999156594276428,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Some information may remain in our records after deletion of your account",
+            "conf": 0.994011402130127,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13, you may use the Site and Services only with the supervision of your parent or guardian",
+            "conf": 0.9999991059303284,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "These other websites are not under FireApps\u2019s control and FireApps is not responsible for the privacy or security practices or the content of such websites",
+            "conf": 0.9346407651901245,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.2
+}

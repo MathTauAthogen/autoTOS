@@ -1,0 +1,376 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "AgreementEffective as of August 30,",
+            "conf": 0.99760502576828,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "BY ACCESSING OR USING THE SITE, SERVICES AND/OR SOFTWARE, YOU CONFIRM THAT YOU ARE AT LEAST 18 YEARS OLD (OR IF YOU ARE BETWEEN 13 AND 17 YEARS OLD, INCLUSIVE, THAT YOU ARE USING THE SITE, SERVICES AND/OR SOFTWARE ONLY WITH THE APPROVAL OF YOUR PARENT OR GUARDIAN), THAT YOU ARE LEGALLY ABLE TO ENTER INTO THIS AGREEMENT, AND THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THIS AGREEMENT.",
+            "conf": 0.9997782111167908,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "UNDER THE ARBITRATION AGREEMENT (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST GRAMMARLY AND ITS LICENSORS AND ITS SUPPLIERS ON YOUR OWN BEHALF, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON YOUR OWN BEHALF, AND (3) YOU ARE WAIVING YOUR RIGHT TO A JURY TRIAL AND YOUR RIGHT TO HAVE YOUR CLAIMS DECIDED BY A JUDGE OR",
+            "conf": 0.9999997019767761,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You shall be&nbsp;solely responsible for the security and proper use of&nbsp;all user IDs, passwords or&nbsp;other security devices used in&nbsp;connection with the Site and/or the Services, and shall take all reasonable steps to&nbsp;ensure that they are kept confidential and secure, are used properly and are not disclosed to&nbsp;or&nbsp;used by&nbsp;any other person or&nbsp;entity.",
+            "conf": 0.9998994469642639,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all activity in&nbsp;connection with access to&nbsp;the Site and/or Services through your account or&nbsp;using your password, and for the security of&nbsp;your computer systems, and in&nbsp;no&nbsp;event shall Grammarly be&nbsp;liable for any loss or&nbsp;damages relating to&nbsp;such activity",
+            "conf": 0.9999996423721313,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Enterprise Subscriber responsibility for Authorized UsersEnterprise Subscribers shall ensure that the total number of&nbsp;Authorized Users does not exceed the maximum number of&nbsp;seats authorized by&nbsp;and purchased from Grammarly (each of&nbsp;which&nbsp;seats represents a&nbsp;unique (named) Authorized User).",
+            "conf": 0.9326912760734558,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your subscription at&nbsp;any time, although only an authorized representative of an Enterprise Subscriber may cancel the Enterprise Subscriber\u2019s account",
+            "conf": 0.9854385256767273,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Grammarly may deny you access to&nbsp;all or&nbsp;any part of&nbsp;the Services or&nbsp;terminate your account with or&nbsp;without prior notice if&nbsp;you engage in&nbsp;any conduct or&nbsp;activities that Grammarly determines, in its sole discretion, violate this Agreement or&nbsp;the rights of&nbsp;Grammarly or&nbsp;any third party, or&nbsp;is otherwise inappropriate",
+            "conf": 0.9789467453956604,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If you are an Authorized User of an Enterprise Subscriber, and this Agreement or the applicable agreement for Services and Software is terminated in relation to such Enterprise Subscriber, or if you otherwise lose access to the Services and Software via your Enterprise Subscriber (e.g., if you graduate from that Enterprise Subscriber or are no longer employed by that Enterprise Subscriber), Grammarly may elect in its discretion to (a) terminate your account or (b) downgrade your account to an individual subscriber account, at which point you agree that your use of the Services and Software will be as an individual subscriber in accordance with the terms of this Agreement (which Agreement at that point will be solely between you and Grammarly).",
+            "conf": 0.9655191898345947,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If you are an Authorized User of an Enterprise Subscriber, your Enterprise Subscriber may elect in its discretion and at any time to revoke your Authorized User status and (a) terminate your account or (b) downgrade your account to an individual subscriber account, at which point you agree that your use of the Services and Software will be as an individual subscriber in accordance with the terms of this Agreement (which Agreement at that point will be solely between you and Grammarly).",
+            "conf": 0.9920754432678223,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Upon termination of your account(s) for any reason, your right to use the Services and Software and to access the Site and any of its content will immediately cease and all content in your account(s) will be deleted",
+            "conf": 0.97889244556427,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "may terminate this Agreement immediately upon notice to&nbsp;the other party if&nbsp;the other party has a&nbsp;receiver or&nbsp;similar party appointed for all or&nbsp;substantially all of&nbsp;its property, is&nbsp;declared insolvent by&nbsp;a&nbsp;court of&nbsp;competent jurisdiction, ceases to&nbsp;do&nbsp;business in&nbsp;the ordinary course, files a&nbsp;petition in&nbsp;bankruptcy or&nbsp;has a&nbsp;petition filed against it&nbsp;in&nbsp;bankruptcy, becomes the subject of&nbsp;any court or&nbsp;administrative proceeding related to&nbsp;its liquidation or&nbsp;insolvency (whether voluntary or&nbsp;involuntary) that is&nbsp;not dismissed within ninety (90) days, or&nbsp;makes an&nbsp;assignment for the benefit of&nbsp;its creditors",
+            "conf": 0.9839164614677429,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Upon the expiration or termination of this Agreement, your right to use the Services and Software and to access the Site and any of its content will immediately cease and Grammarly may elect in its discretion to (a) terminate your Authorized Users\u2019 accounts or (b) downgrade your Authorized Users\u2019 accounts to individual subscriber accounts",
+            "conf": 0.9980471134185791,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Grammarly has no&nbsp;obligation to&nbsp;monitor any User Content and shall have no&nbsp;liability to&nbsp;you or&nbsp;any other person or&nbsp;entity with respect thereto, including, without limitation, liability with respect to&nbsp;any information (including your confidential information) contained in&nbsp;or&nbsp;apparent from any User Content.",
+            "conf": 0.9962342977523804,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Grammarly may from time to&nbsp;time update or&nbsp;revise this Agreement",
+            "conf": 0.9992009997367859,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt not to&nbsp;receive email correspondence, other than technical notifications and email regarding issues related to&nbsp;your account and your use of&nbsp;the Site and Services, at&nbsp;any time by&nbsp;following the link included in&nbsp;the email messages.",
+            "conf": 0.9998332858085632,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "only send marketing communications to users located in the European Economic Area (EEA) with your prior consent, and you may withdraw your consent at any time by clicking the \u201cunsubscribe\u201d link found within Grammarly emails and changing your contact preferences",
+            "conf": 0.9752432107925415,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note you will continue to receive transactional messages related to our Services, even if you unsubscribe from marketing emails",
+            "conf": 0.999975860118866,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Grammarly may from time to&nbsp;time update or&nbsp;revise the Privacy Policy",
+            "conf": 0.9979522824287415,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If&nbsp;Grammarly updates or&nbsp;revises the Privacy Policy, Grammarly will notify you either by&nbsp;email to&nbsp;your most recently provided email address, by&nbsp;posting the updated or&nbsp;revised Privacy Policy on&nbsp;the Site or&nbsp;by&nbsp;any other manner chosen",
+            "conf": 0.9003150463104248,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "and exploit",
+            "conf": 0.9172592163085938,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "and all such Feedback as it deems appropriate, at its sole discretion, without obligation or liability of any kind to you, your Enterprise Subscriber (if applicable) or any other person or entity",
+            "conf": 0.9363998174667358,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "IndemnityYou shall indemnify, release and hold harmless Grammarly and its parents, subsidiaries, affiliates, licensors and suppliers, and each of&nbsp;their respective officers, directors, employees and agents, from and against any loss, liability (including settlements, judgments, fines and penalties) and costs (including reasonable attorney fees, court costs and other litigation expenses) relating to&nbsp;any claim or&nbsp;demand made by&nbsp;any third party due to&nbsp;or&nbsp;arising out of&nbsp;your access to&nbsp;the Site, use of&nbsp;the Services or&nbsp;Software, violation of&nbsp;this Agreement, or&nbsp;infringement of&nbsp;any intellectual property or&nbsp;other right of&nbsp;any person or&nbsp;entity",
+            "conf": 0.9998996257781982,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU AGREE THAT YOUR USE OF&nbsp;THE SITE, SERVICES AND SOFTWARE ARE AT&nbsp;YOUR OWN SOLE RISK AND THAT THE SITE, SERVICES AND ANY SOFTWARE ARE PROVIDED ON&nbsp;AN&nbsp;\u201cAS&nbsp;IS,\u201d \u201cWHERE&nbsp;IS,\u201d \u201cAS&nbsp;AVAILABLE,\u201d \u201cWITH ALL&nbsp;FAULTS\u201d BASIS, WITHOUT WARRANTIES OF&nbsp;ANY KIND, EITHER EXPRESS OR&nbsp;IMPLIED.",
+            "conf": 0.9978035688400269,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree that, by entering into this Agreement, you and Grammarly are each waiving the right to a trial by jury or to participate in a class action",
+            "conf": 0.9999863505363464,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Prohibition of Class and Representative Actions and Non-Individualized ReliefYOU AND GRAMMARLY AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION OR PROCEEDING",
+            "conf": 0.9999934434890747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "UNLESS BOTH YOU AND GRAMMARLY AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON\u2019S OR PARTY\u2019S CLAIMS AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, OR CLASS PROCEEDING",
+            "conf": 0.9999954104423523,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons",
+            "conf": 0.9744839072227478,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Grammarly may freely assign this Agreement, including, without limitation, in connection with a merger, acquisition, bankruptcy, reorganization, or sale of some or all of our assets or stock",
+            "conf": 0.9945502877235413,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If&nbsp;any one or&nbsp;more of&nbsp;the provisions of&nbsp;this Agreement are for any reason held to&nbsp;be&nbsp;invalid, illegal or&nbsp;unenforceable by&nbsp;a&nbsp;court of&nbsp;competent jurisdiction, the remaining provisions of&nbsp;this Agreement shall be&nbsp;unimpaired and shall remain in&nbsp;full force and effect, and the invalid, illegal or&nbsp;unenforceable provision(s) shall be&nbsp;replaced by&nbsp;a&nbsp;valid, legal and enforceable provision or&nbsp;provisions that comes closest to&nbsp;the intent of&nbsp;the parties underlying the invalid, illegal or&nbsp;unenforceable provision(s).",
+            "conf": 0.9497488737106323,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "PolicyEffective as of June 28, 2018At",
+            "conf": 0.9999938607215881,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can stop sharing that information with us at any time by removing Grammarly\u2019s access to that account",
+            "conf": 0.9952287077903748,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may also obtain data from our third-party partners and service providers to analyze how users use our Site, Software, and/or Services",
+            "conf": 0.92918860912323,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "to\u00a0send you direct marketing emails and special offers about Grammarly, from which you can unsubscribe at any time",
+            "conf": 0.9999659061431885,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We\u00a0need to do so in connection with a\u00a0merger, acquisition, bankruptcy, reorganization, sale of some or all of our assets or stock, public offering of securities, or steps in consideration of such activities (e.g., due diligence).",
+            "conf": 0.9998372197151184,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Grammarly does\u00a0not share your Personal Data with third parties for the purpose of\u00a0enabling them to\u00a0deliver their advertisements to\u00a0you.Does Grammarly sell or rent my Personal Data?No, Grammarly does not sell or rent your Personal Data.",
+            "conf": 0.9997578263282776,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Grammarly uses cookies and similar technologies, including tracking pixels and web beacons, to\u00a0collect usage and analytic data that helps\u00a0us provide our Site, Software, and/or Services to\u00a0you, as well as to help deliver ads for relevant Grammarly products and services to\u00a0you when you visit certain pages on\u00a0the Site and then visit certain third-party sites.",
+            "conf": 0.9991382360458374,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Our products currently do not respond to Do Not Track requests",
+            "conf": 0.9988794922828674,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Will Grammarly send me\u00a0emails?From time to\u00a0time, we\u00a0may want to\u00a0contact you with information about product announcements, software updates, and special offers",
+            "conf": 0.9801307320594788,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of\u00a0such communications at\u00a0any time by\u00a0clicking the \u201cunsubscribe\u201d link found within Grammarly emails and changing your contact preferences",
+            "conf": 0.9999833703041077,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "All Grammarly account holders will continue to\u00a0receive transactional messages related to our Services, even if\u00a0you unsubscribe from promotional emails",
+            "conf": 0.9987597465515137,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Does Grammarly ever make any of\u00a0my\u00a0Personal Data or\u00a0User Content public?No, we do not share Personal Data or User Content except in the limited circumstances described in\u00a0the \u201cDoes Grammarly share my Information?\u201d section of the Policy",
+            "conf": 0.9685744643211365,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Does Grammarly collect information from children?Grammarly does not knowingly collect personal information from children under the age of\u00a013",
+            "conf": 0.9983288645744324,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age\u00a0of\u00a013, please do not submit any personal information through the Site, Service, and/or Software",
+            "conf": 0.999998927116394,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Please note that, for security reasons, Grammarly Premium users will first be instructed to cancel their subscriptions before they can delete their Grammarly account.",
+            "conf": 0.9989219307899475,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, we may keep some of your Personal Data for as long as reasonably necessary for our legitimate business interests, including fraud detection and prevention and to comply with our legal obligations including tax, legal reporting, and auditing obligations.What happens if\u00a0Grammarly closes my\u00a0account?If\u00a0Grammarly closes your account due to\u00a0your violation of\u00a0the Terms of\u00a0Service, then you may contact Grammarly to\u00a0request deletion of\u00a0your data.",
+            "conf": 0.9994263648986816,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Have your Personal Data corrected or deleted",
+            "conf": 0.9991928339004517,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Some Personal Data can be updated by you: You can update your\u00a0name and email address, as well as language preference, through your Grammarly account settings",
+            "conf": 0.9979666471481323,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can remove your Personal Data from Grammarly by deleting your account",
+            "conf": 0.9841057658195496,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can ask us to stop using your Personal Data, including when we use your Personal Data to send you marketing emails",
+            "conf": 0.9969096183776855,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We only send marketing communications\u00a0to users located in the EEA with your prior consent, and you may withdraw your consent at\u00a0any time by\u00a0clicking the \u201cunsubscribe\u201d link found within Grammarly emails and changing your contact preferences",
+            "conf": 0.9984870553016663,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note you will continue to\u00a0receive transactional messages related to our Services, even if\u00a0you unsubscribe from marketing emails",
+            "conf": 0.9999805688858032,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We\u00a0will notify you of any material changes that impact your rights under this Policy by email (to\u00a0your most recently provided email address) or\u00a0post any other revisions to\u00a0this Policy, along with their effective date, in\u00a0an\u00a0easy-to-find area of\u00a0the Site, so\u00a0we\u00a0recommend that you periodically check back here to\u00a0stay informed of\u00a0any changes",
+            "conf": 0.999911904335022,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 3.8
+}

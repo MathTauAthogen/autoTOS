@@ -1,0 +1,243 @@
+{
+    "predictions": [
+        {
+            "label": "3",
+            "text": "Service Colloq may terminate parts of or the complete Service at any time",
+            "conf": 0.999550998210907,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Colloq is not responsible for content published by others and cannot be held liable for any damages caused by such content",
+            "conf": 0.9999861717224121,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Colloq may not be held liable for your use of any of these third-party services, including those that have a link on our Website",
+            "conf": 0.9779627323150635,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Colloq will not be liable for the actions of a user\u2019s account",
+            "conf": 0.9908294677734375,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Users can delete their account at any time",
+            "conf": 0.9999818801879883,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Backups are securely stored for one month before they will be deleted",
+            "conf": 0.9993705153465271,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Colloq and yourself can terminate your account at any time, but we require you to grant us permission to display your contributed content, in order to ensure the continuity of the services provided by Colloq",
+            "conf": 0.9711259007453918,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may edit and alter User-Generated Content to correct errors or remove inappropriate content at any time without notification",
+            "conf": 0.9381310939788818,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "No Refunds We reserve the right to delete your account at any time",
+            "conf": 0.998449981212616,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Prices and features might change at any time and we do not offer refunds",
+            "conf": 0.9984652996063232,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for content that we don\u2019t own and control",
+            "conf": 0.9980450868606567,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Agreement Changes We reserve the right, at our sole discretion, to change, extend or remove content of these Terms of Service at any time by changing the content of this page consecutively.",
+            "conf": 0.9885404706001282,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will provide notice of such changes by revising the date at the top of this page",
+            "conf": 0.9981299638748169,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "If our Users are affected by material amendments to these agreements, such as a pricing change, we will notify them at least 14 days prior to the change by posting a notice on Colloq",
+            "conf": 0.9270784258842468,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We may modify this agreement without notice, unless the amendments are related to pricing changes in which case we will respect a 14 days\u2019 notice",
+            "conf": 0.9878640174865723,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Our Services are provided \u201cas is\u201d",
+            "conf": 0.979278564453125,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Neither Colloq nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted",
+            "conf": 0.9999949932098389,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We provide our services \u201cas is",
+            "conf": 0.9996474385261536,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u201d",
+            "conf": 0.9978544116020203,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no promises or guarantees about this service",
+            "conf": 0.9999317526817322,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Colloq will not be liable for any damage or loss emerging from your use or inability to use our services or otherwise arising under these agreements",
+            "conf": 0.9994227290153503,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold harmless Colloq or foobartel Ltd., its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all claims and expenses, including attorneys\u2019 fees, arising out of your use of our Services, including but not limited to your violation of this Agreement",
+            "conf": 0.999730110168457,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "May, 15th 2018",
+            "conf": 0.9999566078186035,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not share your data with any third parties unless required to operate our service or separately agreed by you",
+            "conf": 0.9975956678390503,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "It is your right to access or delete the personal information we store as long as it is not in conflict with local law to retain certain information",
+            "conf": 0.9996369481086731,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that due to local laws to retain certain data, we may not be able to remove all of your information immediately, but will do our best to comply with your request to delete the data as soon as possible",
+            "conf": 0.9999999403953552,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "While we are currently hosting our services in Frankfurt, Germany, we may expand to other server locations offered by our hosting service providers in order to ensure the reliablity and performance of our service around the world",
+            "conf": 0.9996224641799927,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We won\u2019t send you newsletters unless you signed up for them",
+            "conf": 0.9891358613967896,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of any marketing or other emails not required to operate our service safely and in compliance to laws at any time via the \u2018unsubscribe\u2019 link in each email",
+            "conf": 0.9999930262565613,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may update this privacy policy in the future",
+            "conf": 0.9893067479133606,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes we will notify you by email (using the email address stored in your account) or by displaying a notice banner on our site before the changes become effective",
+            "conf": 0.998846173286438,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "May, 15th 2018:",
+            "conf": 0.9998956322669983,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "March, 23rd 2018",
+            "conf": 0.9999696612358093,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We won\u2019t spam you nor will we share your email with any third parties",
+            "conf": 0.9965202212333679,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 4.9
+}

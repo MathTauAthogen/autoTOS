@@ -1,0 +1,166 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "Legal Age If you are not old enough to legally agree to this document, please have a parent or guardian agree on your behalf",
+            "conf": 0.9999844431877136,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Account Expiry As AnkiWeb is a free service, we need to periodically delete unused account",
+            "conf": 0.9976224899291992,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "your account is not accessed in 6 months or longer",
+            "conf": 0.9322192072868347,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may elect to remove the shared deck from our servers at any time",
+            "conf": 0.9983680844306946,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "As the service is provided to you at no charge, we reserve the right to suspend or remove your access to the service at our sole discretion",
+            "conf": 0.9975882172584534,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Changes If we make significant changes to these terms, we will notify you via a",
+            "conf": 0.9995838403701782,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "Transfer In the event of a company acquisition, restructure, or bankruptcy, we may transfer these rights and obligations to the new legal entity",
+            "conf": 0.9999803900718689,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE IS PROVIDED \"AS IS\".",
+            "conf": 0.9999727010726929,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE MAKE NO WARRANTY THAT THE SERVICE WILL BE ERROR FREE OR THAT ACCESS WILL BE CONTINUOUS OR UNINTERRUPTED",
+            "conf": 0.9999545216560364,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL WE BE LIABLE FOR ANY GENERAL, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR OTHER DAMAGES, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA, INCORRECT DATA, BUSINESS INTERRUPTION, OR ANY OTHER DAMAGES OR LOSSES INCURRED BY YOUR USE OF, OR INABILITY TO USE THIS SERVICE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE THEORY OF LIABILITY",
+            "conf": 0.9949278831481934,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated 2018-10-17",
+            "conf": 0.9999968409538269,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "AnkiWeb previously used Google Analytics for usage statistics, and it may have stored some tracking cookies on your computer.",
+            "conf": 0.9816551208496094,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Logs are automatically removed after 1 month",
+            "conf": 0.9299606084823608,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We use servers and cloud services located inside secure data centers in the EU and the USA to store your data",
+            "conf": 0.9977781176567078,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "As mentioned in our terms and conditions, account data may expire if the account has not been used in 6 months or more",
+            "conf": 0.9487313628196716,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to remove your user data, you can delete your AnkiWeb account from the Account section of the website",
+            "conf": 0.9865750670433044,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you delete your account, we will delete your user data",
+            "conf": 0.9997203946113586,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Some of your user data may remain in backups and logs when your account is deleted",
+            "conf": 0.9993160963058472,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This data will automatically expire within a month",
+            "conf": 0.9856257438659668,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "As your password secures your account, please ensure you use a secure password, and don't use the same password on multiple sites",
+            "conf": 0.9980642795562744,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If significant changes to this policy are made, we will notify you via a message when visiting the website, a message when you use the synchronization feature, or via email",
+            "conf": 0.9862030744552612,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "Transfer In the event of a company acquisition, restructure, or bankruptcy, we may",
+            "conf": 0.9999833106994629,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated 2018-09-02",
+            "conf": 0.9999974370002747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 5.3
+}

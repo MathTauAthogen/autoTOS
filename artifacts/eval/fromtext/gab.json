@@ -1,0 +1,243 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated: January 2nd, 2017",
+            "conf": 0.999997615814209,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Service Last updated: August 18th, 2016",
+            "conf": 0.9818359017372131,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may modify the Terms at any time, in our sole discretion",
+            "conf": 0.9998673796653748,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Because our Services are evolving over time we may change or discontinue all or any part of the Services, at any time and without notice, at our sole discretion",
+            "conf": 0.9999984502792358,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "May",
+            "conf": 0.9086134433746338,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You may use the Services only if you are 13 years or older and are not barred from using the Services under applicable law",
+            "conf": 0.9999993443489075,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you don't, we might have to suspend or terminate your Account",
+            "conf": 0.9372748136520386,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You're responsible for all activities that occur under your Account, whether or not you know about them",
+            "conf": 0.9995137453079224,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "we won't take your User Content and sell it to others",
+            "conf": 0.9994978904724121,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all of your User Content",
+            "conf": 0.9994438290596008,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can remove your User Content by specifically deleting it",
+            "conf": 0.9973819851875305,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right, but are not obligated, to remove or disable access to any Content, at any time and without notice, including, but not limited to, if we, at our sole discretion, consider any Content to be objectionable or in violation of the Community Guidelines",
+            "conf": 0.9999520778656006,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We provide these links only as a convenience and are not responsible for the content, products or services on or available from those websites or resources or links displayed on such websites",
+            "conf": 0.9659797549247742,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge sole responsibility for and assume all risk arising from, your use of any third-party websites or resources",
+            "conf": 0.9998428821563721,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate your access to and use of the Services, at our sole discretion, at any time and without notice to you",
+            "conf": 0.9988680481910706,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Account at any time from within the app",
+            "conf": 0.999970018863678,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Warranty Disclaimers The Services and Content are provided \"AS IS,\" without warranty of any kind",
+            "conf": 0.9898808598518372,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no warranty that the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis",
+            "conf": 0.9999948740005493,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no warranty regarding the quality, accuracy, timeliness, truthfulness, completeness or reliability of any Content",
+            "conf": 0.9999998211860657,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Limitation of Liability NEITHER Gab NOR ANY OTHER party involved in creating, producing, or delivering the services or content will be liable for any incidental, special, exemplary or consequential damages, INCLUDING LOST PROFITS, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE SERVICES arising ouT of or in connection with thESE TERMS or from the use OF or inability to use the ServiceS or CONTENT, whether based on warranty, contract, tort (including negligence), PRODUCT LIABILITY or any other legal theory, and whether or not GAB has been informed of the possibility of such damage, EVEN IF A limited REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PUrPOSE.",
+            "conf": 0.9996105432510376,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Gab's failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision",
+            "conf": 0.9999971985816956,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: August 18th, 2016",
+            "conf": 0.9999983310699463,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may revise this Privacy Policy from time to time",
+            "conf": 0.9997684359550476,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes to this Privacy Policy, we'll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we'll update the \"Last Updated Date\" above to indicate when those changes will become effective",
+            "conf": 0.9999898076057434,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Some third party services providers that we engage may also track and report information about how and when you interact with our App and information about your mobile device (such as device hardware, operating system, and location).",
+            "conf": 0.9894100427627563,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction",
+            "conf": 0.9947336912155151,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "When you receive such promotional communications from us, you will have the opportunity to \"opt-out\" (either through your Account or by following the unsubscribe instructions provided in the email you receive).",
+            "conf": 0.9999963641166687,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We do need to send you certain communications regarding the Services (e.g., account management and updates to our Terms of Service or this Privacy Policy) and you will not be able to opt-out of those communications",
+            "conf": 0.9999059438705444,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you want us to delete your PII and your Account, please contact us at legal@gab.ai with your request",
+            "conf": 0.9454919099807739,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We'll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law",
+            "conf": 0.9999995231628418,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Accordingly, we cannot guarantee the absolute security of any information",
+            "conf": 0.9883531928062439,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We're not responsible for the content, privacy or security practices and policies of any Third Party Service",
+            "conf": 0.9999964833259583,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction",
+            "conf": 0.9998634457588196,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our Policy Toward Children Our Services are not directed to children under the age of 13 and we do not knowingly collect PII from children under age 13",
+            "conf": 0.9973157048225403,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.1
+}

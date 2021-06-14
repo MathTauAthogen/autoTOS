@@ -1,0 +1,579 @@
+{
+    "predictions": [
+        {
+            "label": "2",
+            "text": "CBS, service providers working on our behalf, and businesses who collect information on our pages, may automatically receive certain information associated with you and/or your device(s) as part of your use of the CBS Services through browser or device-based tracking technologies such as cookies, pixels, tags, beacons, scripts, or other technology.",
+            "conf": 0.9979721307754517,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Tracking pixels (sometimes referred to as web beacons or clear GIFs) are tiny electronic tags with a unique identifier that are sometimes embedded in websites, online ads and/or email, and that are designed to provide usage information like ad impressions (how many times an ad is viewed) or clicks, to measure popularity of the Services and associated advertising, and to access information from user cookies.",
+            "conf": 0.9996325373649597,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Your opt-out choice is often stored in a cookie",
+            "conf": 0.9950703978538513,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "That may mean that if you opt-out, then block cookies, we may not know about, or be able to honor, your opt-out",
+            "conf": 0.999924898147583,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Modified: December 30, 2019",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We and our service providers operating on our behalf, other businesses who collect information on our pages, may automatically collect or receive certain information associated with you and/or your device(s) as part of your use of the CBS Services through device-based tracking technologies such as cookies, pixels, tags, beacons, scripts or other technology.",
+            "conf": 0.9988452792167664,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use this information to ensure that the CBS Services work properly, and to deliver customized content and advertising, including personalized ads, to you",
+            "conf": 0.9992313981056213,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may share your information in connection with a substantial corporate transaction, such as the sale of a CBS Service, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy",
+            "conf": 0.9657391905784607,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Consistent with applicable law, we may share your video viewing behavior with third parties including advertising companies, analytics partners, and social media sites",
+            "conf": 0.9960057735443115,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of receiving emails or text messages from particular CBS Services or other services or partners by following the instructions contained in any such message or by contacting us directly through your account settings",
+            "conf": 0.9999628663063049,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that even if you unsubscribe to commercial messages, we may still need to send you communications relating to your use of the CBS Services",
+            "conf": 0.9988157153129578,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you ask us to shut down your account or delete your information, we will disable your account within a reasonable period of time subject to any agreement between you and us",
+            "conf": 0.9750832319259644,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Some of your information may also remain in back-up storage for a period of time even if you ask us to delete it",
+            "conf": 0.9995887875556946,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Please note that no data transmission or storage can be guaranteed to be 100% secure",
+            "conf": 0.9333775043487549,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We want you to feel confident using CBS Services but we cannot ensure or warrant the security of any information you transmit to us",
+            "conf": 0.9285677075386047,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "When Nevada",
+            "conf": 0.9422113299369812,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "opt out of the sale of their information, website operators must ensure that the information is not sold to another business that will further license or sell the information to others",
+            "conf": 0.9710935354232788,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Please be aware that information you provide to us or that we obtain as a result of your use of the CBS Services may be collected in your country and subsequently transferred to the United States or another country in accordance with applicable law",
+            "conf": 0.9999915957450867,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "By using and participating in any CBS Services or providing us with your information, you acknowledge the collection, international transfer, storage, and processing of your information",
+            "conf": 0.9971818923950195,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Most CBS Services are intended for a general audience and do not knowingly collect or store contact information about children under the age of 13 in the United States or the appropriate age for services directed toward children as defined under applicable laws in other jurisdictions",
+            "conf": 0.9999899864196777,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Some CBS Services may ask for your full date of birth date to ensure that they are not collecting information from children under 13 in the United States or the appropriate age for services directed toward children as defined under applicable laws in other jurisdictions or to identify when additional steps may need to be taken when information has been collected from children under 18 or under the age of majority in their jurisdiction, if higher than 18.",
+            "conf": 0.9936319589614868,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices of those third parties , and we recommend that you review the privacy policies of any third party property you visit.",
+            "conf": 0.9842554926872253,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We will update this Privacy Policy from time to time to reflect changes in our practices and service offerings",
+            "conf": 0.9366170763969421,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes to the way we use personal information we collect, we will notify you in advance by email through the email address you most recently provided to us or by prominently posting a prominent notice of the changes on the CBS Services",
+            "conf": 0.9845945239067078,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Updated on: Tuesday 2 June 2015",
+            "conf": 0.9999974966049194,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to make those changes, and to change these terms in line with them",
+            "conf": 0.9355313777923584,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Last.fm cannot be held responsible for the content of those sites",
+            "conf": 0.9999109506607056,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Changes to the Properties and the Terms of Use We reserve the right to add, delete, change or modify parts of these Terms of Use at our sole discretion and at any time without notice to you",
+            "conf": 0.9487361311912537,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we do this, we will post the changes to the Terms of Use on this page and will indicate the effective date of the Terms of Use at the top of the page",
+            "conf": 0.9757248163223267,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "It is important for you to refer to these Terms of Use from time to time to make sure that you are aware of any additions, revisions, or modifications that we may have made to these Terms of Use",
+            "conf": 0.973229169845581,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may add, change, remove, suspend or discontinue any aspect of the Website and/or the Services at any time without notice",
+            "conf": 0.9999977350234985,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Last.fm may not have knowledge of, and is not responsible for, the content, information, services, products or advertisements presented by any Other Site which you use at your own risk",
+            "conf": 0.9997226595878601,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Last.fm does not warrant or make any representation regarding the legality, accuracy, quality or authenticity of content, information, services or products presented by Other Sites",
+            "conf": 0.9999217391014099,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Last.fm accepts no responsibility for the content or conduct of Other Sites",
+            "conf": 0.9972596764564514,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Last.fm reserves the right to remove links or block the Last.fm widget at any time and for any reason in its absolute discretion",
+            "conf": 0.9999995827674866,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Last.fm reserves the right, in its sole discretion, to terminate any user\u2019s account or take such other action as Last.fm sees fit in relation to any user who breaches Last.fm\u2019s acceptable use policy or any of the other terms set forth herein",
+            "conf": 0.9967035055160522,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "If you choose to provide information to the Website, you agree to provide only true, accurate, current and complete information",
+            "conf": 0.9999572038650513,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If you create a user account, you agree to accept responsibility for all activities that occur under your account or password, if any, and agree you will not sell, transfer or assign your user account.",
+            "conf": 0.9912163019180298,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your password, if any, and for restricting access to your computer so that others may not access any password-protected portion of the Website or other Properties using your name, user name or password in whole or in part.",
+            "conf": 0.9997326135635376,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Last.fm makes no representations or warranties as to the completeness, accuracy, adequacy, currency or reliability of any Content and will not be liable for any lack of the foregoing",
+            "conf": 0.9999930262565613,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Last.fm will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or the offering of such products, services, and other Content on the Website.",
+            "conf": 0.9963428378105164,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Last.fm reserves the right, but is not obligated, to delete, move or edit Your Upload Information, in whole or in part, submitted by you to a User Forum for any reason in their sole discretion",
+            "conf": 0.9999971985816956,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will Last.fm be liable in any way for any of Your Upload Information including, but not limited to, any errors or omissions in Your Upload Information, or for any loss or damage of any kind incurred as a result of Your Upload Information",
+            "conf": 0.9989968538284302,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You agree and understand that Last.fm, its parent, subsidiaries, affiliates, and partners are not obligated to use Your Upload Information submitted through the Website or otherwise, and may alternatively choose, in its sole discretion, to discard, refuse to post, limit or block access to Your Uploaded Information without any liability whatsoever",
+            "conf": 0.9932267665863037,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge that the Web Site, through Last.fm, its parent, subsidiaries, affiliates, and partners undertakes no obligation to pre-screen Your Upload Information, but that it has the right, in its sole discretion to monitor, modify, transmit over various networks, refuse, move, block access to or remove any of Your Upload Information",
+            "conf": 0.9997130036354065,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Since Last.fm, its parent, subsidiaries, affiliates, and partners may not pre-screen user generated content, you may bear legal responsibility for others' exposure to any offensive indecent or objectionable content in Your Upload Information",
+            "conf": 0.9999921321868896,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE PROPERTIES, INCLUDING, WITHOUT LIMITATION, ALL CONTENT, SOFTWARE, AND FUNCTIONS MADE AVAILABLE ON OR ACCESSED THROUGH OR SENT FROM THE WEBSITE, ARE PROVIDED \"AS IS,\" \"AS AVAILABLE, \" AND \"WITH ALL FAULTS.\" TO THE FULLEST EXTENT PERMISSIBLE BY LAW, LAST.FM AND ITS PARENTS, SUBSIDIARIES AND AFFILIATES MAKE NO REPRESENTATION OR WARRANTIES OR ENDORSEMENTS OF ANY KIND WHATSOEVER (EXPRESS OR IMPLIED) ABOUT: (A) THE PROPERTIES",
+            "conf": 0.9996746182441711,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "LAST.FM DOES NOT WARRANT THAT THE PROPERTIES, ANY OF THE PROPERTIES' FUNCTIONS OR ANY CONTENT CONTAINED THEREIN WILL BE UNINTERRUPTED OR ERROR-FREE",
+            "conf": 0.9998871088027954,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES SHALL LAST.FM, ITS PARENT, SUBSIDIARIES, OR AFFILIATES OR THE DIRECTORS, OFFICERS, EMPLOYEES, OR OTHER REPRESENTATIVES OF EACH OF THEM (COLLECTIVELY, THE \"LAST.FM ENTITIES AND INDIVIDUALS\") BE LIABLE TO YOU FOR ANY LOSS OR DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION, FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, ECONOMIC, PUNITIVE, OR CONSEQUENTIAL DAMAGES THAT ARE DIRECTLY OR INDIRECTLY RELATED TO (1) THE PROPERTIES, THE CONTENT, OR YOUR UPLOAD INFORMATION.",
+            "conf": 0.9998626708984375,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "THE LAST.FM ENTITIES AND INDIVIDUALS ARE NOT RESPONSIBLE FOR ANY DAMAGE TO ANY USER'S COMPUTER, HARDWARE, COMPUTER SOFTWARE, OR OTHER EQUIPMENT OR TECHNOLOGY INCLUDING, WITHOUT LIMITATION, DAMAGE FROM ANY SECURITY BREACH OR FROM ANY VIRUS, BUGS, TAMPERING, FRAUD, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER LINE OR NETWORK FAILURE OR ANY OTHER TECHNICAL OR OTHER MALFUNCTION.",
+            "conf": 0.9944969415664673,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU RECOGNISE AND CONFIRM THAT IN THE EVENT YOU INCUR ANY DAMAGES, LOSSES OR INJURIES THAT ARISE OUT OF LAST.FM'S ACTS OR OMISSIONS, THE DAMAGES, IF ANY, CAUSED TO YOU ARE NOT IRREPARABLE OR SUFFICIENT TO ENTITLE YOU TO AN INJUNCTION PREVENTING ANY EXPLOITATION OF ANY WEB SITE, PROPERTY, PRODUCT, PROGRAM, TELEVISION SHOW, MOTION PICTURE OR OTHER AUDIO/VISUAL CONTENT OWNED OR CONTROLLED BY LAST.FM AND/OR ITS PARENTS, SUBSIDIARIES, AND/OR AFFILIATES OR YOUR UPLOAD INFORMATION, AND YOU WILL HAVE NO RIGHTS TO ENJOIN OR RESTRAIN THE DEVELOPMENT, PRODUCTION, DISTRIBUTION, ADVERTISING, EXHIBITION OR EXPLOITATION OF ANY LAST.FM WEB SITE, SERVICES, PROPERTIES, PRODUCT, PROGRAM, MUSIC, TELEVISION SHOW, MOTION PICTURE OR OTHER AUDIO/VISUAL CONTENT OR YOUR UPLOAD INFORMATION OR ANY AND ALL",
+            "conf": 0.9052644968032837,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, hold harmless, and keep Last.fm, its parents, subsidiaries and affiliates, and their respective owners, officers, managers, members, agents and employees, fully and effectively indemnified with respect to any and all costs, claims, demands, investigations, liabilities, losses, damages, judgments, settlements, costs and expenses, including attorneys' fees arising out of or in connection with this Terms of Use, including, without limitation: (a) your use of the Properties",
+            "conf": 0.9999770522117615,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Notwithstanding the foregoing, Last.fm retains the exclusive right to settle, compromise and pay any and all claims, demands, proceedings, suits, actions or causes of actions which are brought against Last.fm herein under the terms and provisions of this Section 15 and in no event shall you settle any such claim without Last.fm's prior written approval",
+            "conf": 0.9999958276748657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of these Terms of Use shall be held invalid or unenforceable by any court of competent jurisdiction or as a result of future legislative action, such holding or action shall be strictly construed and shall not affect the validity or effect of any other provision of these Terms of Use",
+            "conf": 0.9197108745574951,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Nothing in these Terms of Use are intended to confer on any third party (whether referred to in the Terms of Use by name, class, description or otherwise) any benefit or any right under any legislation in any country to enforce any provisions of these Terms of Use",
+            "conf": 0.9999989867210388,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Last.fm reserves the right to restrict, suspend, deny or terminate access to all or part of the Website or any Service and to deny access to any person in its sole discretion without notice or liability of any kind",
+            "conf": 0.9999858736991882,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated on: Tuesday 15 January 2013",
+            "conf": 0.9999948143959045,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Third party advertisement companies may also collect information (which is generally not personally identifiable) from you via cookies about the websites that you visit and your other activities on the Last.fm service",
+            "conf": 0.9984821677207947,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Children under the age of 13 are not eligible to use our service and must not attempt to register with us and/or submit any personal information to us",
+            "conf": 0.9999991655349731,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Young people between 13 and 17 should not send any information about themselves to anyone over the Internet (including to us) without asking their parents/legal guardians for permission beforehand",
+            "conf": 0.9969712495803833,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Although we endeavour to keep you up-to-date on all changes made to the Website, this Policy may be amended from time to time without notice to you",
+            "conf": 0.9998220205307007,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Please note that we do log and use statistical information in the aggregate",
+            "conf": 0.9020459055900574,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Last.fm may also use your personal information and non-personal information to help Last.fm and its commercial partners deliver targeted advertisements, promotions and other similar initiatives to you",
+            "conf": 0.9266893863677979,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Please note that all personal information you display or communicate using such functionality becomes public information and we are not responsible for any information you choose to make public",
+            "conf": 0.9984114170074463,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Last.fm cannot be held responsible for any consequences which flow from your decision to communicate or interact with other Last.fm users in places or under circumstances which we do not control.",
+            "conf": 0.9894397258758545,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Last.fm does not collect or store personal information received from third parties",
+            "conf": 0.9999938607215881,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "However, we cannot control and cannot be held responsible for those other sites, their privacy policies or how they treat information about their users",
+            "conf": 0.9996472001075745,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "We may store information provided by you on our servers both in the U.S.",
+            "conf": 0.9999685883522034,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "However, please be advised that Last.fm cannot be liable for any damage which may occur to your computer as a result of downloading the Last.fm software, nor shall it be liable for any invasion of privacy related to the same.",
+            "conf": 0.9836584329605103,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may use third-party partners to help operate our Website, and we may share your information with our affiliates, service providers and other third parties that provide products or services for or through this Website or for our business (such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf).",
+            "conf": 0.9808652400970459,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "These third parties may be based in the United Kingdom or elsewhere (including outside of the EEA).",
+            "conf": 0.998287558555603,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use analytics cookies which provide anonymised data about your use of the Website for statistical purposes",
+            "conf": 0.9484803080558777,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third-Party Ad Servers We may use third-party advertising companies to target and serve ads when you visit our Website",
+            "conf": 0.9929420948028564,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These third party advertisers may drop cookies onto your device when serving these adverts",
+            "conf": 0.9892376065254211,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These advertising companies will use the information generated by these cookies (which may, for example, monitor your browsing activity) to serve advertising to you which is more likely to be related to your interests (i.e.",
+            "conf": 0.999005913734436,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Last.fm Policy for Young People Children under the age of 13 are not eligible to use the Website and must not attempt to register with Last.fm and/or submit any personal information to us",
+            "conf": 0.9999993443489075,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We don\u2019t knowingly collect personal information from any person who is under the age of 13 or allow them to register",
+            "conf": 0.9999205470085144,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We recommend that children between the ages of 13 and 17 should not send any information about themselves to anyone over the Internet (including to us) without asking their parents/legal guardians for permission beforehand",
+            "conf": 0.9996958374977112,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "If Last.fm is acquired by another company or sells all or a portion of its assets to another company, or in the event of a merger, it is likely that user information will be a part of the assets transferred",
+            "conf": 0.9785606265068054,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "By disclosing any information to Last.fm through the Website and by using the Last.fm Website as a registered user, you are consenting to the collection, storage and use of your personal information by Last.fm as set out in this Policy and the Terms and Conditions, and you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories",
+            "conf": 0.9992859363555908,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "When you give your personally identifiable information to Last.fm, it may be used by Last.fm and its direct and indirect consolidated subsidiaries for the purposes of, for example, providing you services and sending you correspondence, and additionally may be transferred to entities other than Last.fm\u2019s affiliates, which entities may be located in countries outside the EEA, including the United States",
+            "conf": 0.9997304677963257,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date This Privacy Policy is effective as of Tuesday 15 January 2013",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.7
+}

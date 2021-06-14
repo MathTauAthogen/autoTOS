@@ -1,0 +1,54 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Next breeding season: Sep 2nd",
+            "conf": 0.9997401237487793,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be exactly 13 years of age or older to play HuntAndJump.com",
+            "conf": 0.9925669431686401,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "and all members under thirteen will have their accounts banned",
+            "conf": 0.9885540008544922,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "for any reason",
+            "conf": 0.9017260670661926,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "HuntAndJump.com does not guarantee its up time nor any other aspect of the game, nor do we make any guarantees about future content for upgraded members",
+            "conf": 0.9999536275863647,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "time, but does not guarantee any such practice",
+            "conf": 0.9213699698448181,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "HuntAndJump.com reserves the right to shut down, remove, delete or modify any account or stable at any time for any reason, and does not have to give refunds in such cases",
+            "conf": 0.9998707175254822,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 0.0
+}

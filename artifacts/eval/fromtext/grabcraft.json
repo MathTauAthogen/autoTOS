@@ -1,0 +1,33 @@
+{
+    "predictions": [
+        {
+            "label": "3",
+            "text": "GrabCraft reserves the right at any time to modify, suspend or discontinue, either temporarily or permanently, the Site and all related services",
+            "conf": 0.9999958276748657,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "GrabCraft takes no liability from any damages growing out of these actions",
+            "conf": 0.973298966884613,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree that you will defend, hold harmless and indemnify GrabCraft, its representatives, directors, shareholders, agents and employees for any and all claims, demands, causes of action, lawsuits arising out of your use of the Site in any form",
+            "conf": 0.9999977946281433,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "GrabCraft retains the right to modify these Terms at any time and to any extent",
+            "conf": 0.9999535083770752,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 0.0
+}

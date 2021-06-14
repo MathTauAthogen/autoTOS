@@ -1,0 +1,75 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We don't collect or share personal information",
+            "conf": 0.9997251629829407,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "DuckDuckGo does not collect or share personal information",
+            "conf": 0.9999865889549255,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on 04/11/12",
+            "conf": 0.9999974966049194,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Before that, on 03/11/12",
+            "conf": 0.999969482421875,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Before that, on 11/16/10",
+            "conf": 0.9998069405555725,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Before that, on 9/25/10",
+            "conf": 0.9965542554855347,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Before that, on 9/16/10",
+            "conf": 0.999358594417572,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not use any third parties to do the code insertion, and we do not work with any sites that share personally identifiable information (e.g.",
+            "conf": 0.9987197518348694,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "However, none store your personal information by default, which make them all pretty safe in our opinion",
+            "conf": 0.9975652098655701,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "we will update the text of this page and provide notice to you",
+            "conf": 0.9997903108596802,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 9.2
+}

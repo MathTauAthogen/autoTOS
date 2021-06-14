@@ -1,0 +1,621 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "Use of the Site and Services is limited to Authorized Users (as defined below) who are eighteen (18) years of age or older and/or have legal capacity to form a binding contract or, as set forth below, Authorized Users who are under 18 years of age with consent of a parent or guardian.",
+            "conf": 0.9917126893997192,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If You have not reached the age of majority in Your jurisdiction of residence (\"Not of Majority Age\"), You may not use the Site except with the supervision and permission of a parent or legal guardian",
+            "conf": 0.9999967813491821,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Unless You are using this service through an integration, if You are Not of Majority Age, You must have a parent or legal guardian review and agree to this User Agreement by clicking the \"I agree",
+            "conf": 0.9808332920074463,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "below",
+            "conf": 0.9479693174362183,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that the form and nature of the Services and the Site which Turnitin provides may change from time to time without prior notice to You",
+            "conf": 0.9076248407363892,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that Turnitin may stop (permanently or temporarily) providing the Services (or any features within the Services) to You or to users generally at Turnitin's sole discretion, without prior notice to You",
+            "conf": 0.9998817443847656,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Except as otherwise provided in the third party licensor's license agreement, if any, accompanying the third party products, the third party products are provided \"AS-IS\", without warranties of any kind and Turnitin and the third party licensor disclaim all warranties with respect to the Third Party Products, including but not limited to, the implied warranties of non-infringement, title, merchantability, and fitness for a particular purpose",
+            "conf": 0.9981023669242859,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event will Turnitin or the third party licensor be liable to User, Customer, or any third party for any direct, indirect, punitive, exemplary, incidental, special or consequential damages arising out of the Third Party Products, even if they have been advised of the possibility of such damages or losses.",
+            "conf": 0.9941185712814331,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You shall indemnify and hold Turnitin and its licensors, vendors, and service providers harmless from any and all claims arising out of Your use of the Service or use of the information to determine placement of, or",
+            "conf": 0.9901711940765381,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "for",
+            "conf": 0.983120322227478,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ", or for any other purpose",
+            "conf": 0.9999833106994629,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for any and all use of Your account",
+            "conf": 0.9999468922615051,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are entirely responsible for maintaining the confidentiality of Your password and You agree not to share Your password with any other person, whether directly or indirectly.",
+            "conf": 0.9993345141410828,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may stop using the Services at any time",
+            "conf": 0.9998918175697327,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may delete Your account at any time",
+            "conf": 0.9999732375144958,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge and agree that if Turnitin disables access to Your account, or terminates Your account, You may be prevented from accessing the Services, Your account details or any files or other content which is associated with Your account",
+            "conf": 0.9879624843597412,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Turnitin reserves the right, but shall have no obligation to edit or remove any Communication, in whole or in part, that in Turnitin's sole discretion is objectionable, disruptive to the Site or in violation of this User Agreement",
+            "conf": 0.9999261498451233,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SITE AND ALL INFORMATION AND SERVICES AVAILABLE THROUGH THE SITE ARE PROVIDED \"AS IS,\" WITH ALL FAULTS, AND \"AS AVAILABLE\".",
+            "conf": 0.9999997019767761,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TURNITIN, ITS AFFILIATES, VENDORS AND LICENSORS DO NOT WARRANT THAT THE SITE OR SERVICES WILL MEET YOUR REQUIREMENTS, OR THAT ANY RESULTS OR COMPARISONS GENERATED BY THE SITE WILL BE COMPLETE OR ACCURATE",
+            "conf": 0.9999871253967285,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TURNITIN, ITS AFFILIATES, VENDORS AND LICENSORS DO NOT WARRANT THAT ACCESS TO THE SITE OR THE OPERATION OF THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE SITE WILL BE CORRECTED",
+            "conf": 0.9999739527702332,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMISSIBLE BY LAW, TURNITIN, ITS AFFILIATES, VENDORS AND LICENSORS DISCLAIM ALL REPRESENTATIONS AND WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, CONFORMITY TO ANY REPRESENTATION OR DESCRIPTION, MERCHANTABILITY, QUALITY OF INFORMATION, QUIET ENJOYMENT, TITLE, NON-INFRINGEMENT AND",
+            "conf": 0.976337730884552,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Due to routine maintenance, updates or other technical reasons, the Site and the Services may be temporarily unavailable from time to time",
+            "conf": 0.9999067783355713,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NEITHER TURNITIN, NOR ITS AFFILIATES, VENDORS AND LICENSORS, WILL BE LIABLE UNDER ANY THEORY FOR DAMAGES OF ANY KIND (INCLUDING WITHOUT LIMITATION DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY DAMAGES OR DAMAGES RESULTING FROM LOST PROFITS, LOST DATA, OR BUSINESS INTERRUPTION) ARISING FROM THE YOUR USE OF THE SITE, THE SERVICES OR THE INFORMATION CONTAINED THEREIN, HOWEVER ARISING, EVEN IF SUCH PARTIES OR ANY OF THEIR REPRESENTATIVES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9999589920043945,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "To the extent allowed by applicable law, you agree to indemnify, defend and hold harmless, Turnitin, its affiliates, officers, directors, employees, agents, service providers and licensors, from any claims, losses, damages, deficiencies, liabilities, costs and expenses (including attorneys' fees and costs) arising from Your (a) use of the Site or the Services, (b) violation of any third party's rights, including intellectual property rights and privacy, (c) breach of applicable law, or (d) breach of this User Agreement",
+            "conf": 0.9999982118606567,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Turnitin reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification under this section and, in any event, You agree not to settle any such matter without the prior written consent of Turnitin",
+            "conf": 0.999714195728302,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Your obligation to defend and indemnify Turnitin survives the termination of this User Agreement and Your use of the Site",
+            "conf": 0.9931642413139343,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Turnitin reserves the right to change the terms, conditions, and notices under which the Site is offered from time to time and without prior notice",
+            "conf": 0.999955952167511,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "(f) You agree that Turnitin may provide You with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Services",
+            "conf": 0.9995460510253906,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You agree that if Turnitin does not exercise or enforce any legal right or remedy which is contained in this User Agreement (or which Turnitin has the benefit of under any applicable law), this will not be taken to be a formal waiver of Turnitin's rights and that those rights or remedies will still be available to Turnitin",
+            "conf": 0.9999958872795105,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "The Site is controlled by Turnitin from its offices within the State of California, United States of America and the papers and personal data and any other information You submit to Turnitin may be submitted to and may be stored on its servers located in the United States",
+            "conf": 0.9999348521232605,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Turnitin is not responsible for any software, data or other information available from any third party Website.",
+            "conf": 0.9766833186149597,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that Turnitin shall have no liability for any damage or loss arising from Your access to, use of or reliance on any third party Web site, software, data, or other information.",
+            "conf": 0.9980193376541138,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Turnitin adds student papers to a private, proprietary database (which is not publically accessible) indefinitely unless its customer requests deletion of such Personal Data",
+            "conf": 0.9998905658721924,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: 29th August 2018",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "At any time, you can access, update, rectify or erase any personal data by logging into your account and clicking \u201cUser Info\u201d or contacting Customer Support",
+            "conf": 0.9989793300628662,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Passwords are required to access your personal data, so please remember to keep your password confidential",
+            "conf": 0.9327496290206909,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Due to the ever-changing nature of legislation around data privacy, we reserve the right to make lawful changes as needed and recommend that you periodically check this Privacy Policy to see if there have been any new developments or changes",
+            "conf": 0.9804089665412903,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "At any time, customers may access, correct, change completely or anonymize the personal data that you have provided us by following these steps:",
+            "conf": 0.9990332722663879,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If Turnitin is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified",
+            "conf": 0.9580222964286804,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "our website, of any change in ownership, uses of your personal data, and choices you may have regarding your personal data",
+            "conf": 0.9118539690971375,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We will only disclose your personal data to a third party with your prior consent",
+            "conf": 0.9878984093666077,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Turnitin and its partners may use cookies or similar technologies to analyze trends, administer the Site, track users\u2019 movements around the Site, and gather demographic information about the user base as a whole.",
+            "conf": 0.9361640214920044,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our third-party partner may use technologies such as cookies to gather information about your activities on this site in order to provide you advertising based upon your browsing activities and interests.",
+            "conf": 0.9813463687896729,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to not have this information used for the purpose of serving you interest-based ads on other sites, you may opt-out by clicking here (or if located in the European Union click here) Please note this does not opt you out of being served ads",
+            "conf": 0.9999878406524658,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To request removal of your personal data from our blog or community forum, email us at tiisupport@turnitin.com",
+            "conf": 0.9936007261276245,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why",
+            "conf": 0.9771621227264404,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You have the opportunity to opt-out of receiving communications from us when we first request your personal data;",
+            "conf": 0.9998328685760498,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of receiving further communications by visiting our email preferences page",
+            "conf": 0.9999909996986389,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Transfer to third parties Turnitin does not sell your personal data to third parties",
+            "conf": 0.9997256994247437,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Our data is stored in the EU or USA with robust physical, digital, and procedural safeguards in place to protect your personal data, including the use of SSL encryption, redundant servers and data centers, and sophisticated perimeter security",
+            "conf": 0.9409170150756836,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Passwords are required to access your personal data, so please remember to keep your password confidential",
+            "conf": 0.9327496290206909,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Turnitin will retain personal data we process on behalf of our clients for as long as needed to provide services to our client",
+            "conf": 0.9990062117576599,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We retain your information for as long as your account is active or as needed to provide you services",
+            "conf": 0.9998235106468201,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may stop using the services at any time",
+            "conf": 0.9999390840530396,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may delete your account at any time by logging in to your account or by emailing us at tiisupport@turnitin.com",
+            "conf": 0.9997550845146179,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to make changes to this Privacy Policy at any time",
+            "conf": 0.999517560005188,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Our Privacy Policy will indicate the date it was last updated",
+            "conf": 0.9999097585678101,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We will never sell your data;",
+            "conf": 0.9999976754188538,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We will never use your data for targeted advertising/profiling;",
+            "conf": 0.9916961193084717,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We respect your right to retain ownership and control of your data, so that you can modify, update, or delete it as needed",
+            "conf": 0.9921074509620667,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "from 25 May 2018",
+            "conf": 0.9954285621643066,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "WE DO NOT AND WILL NOT SELL YOUR PERSONAL INFORMATION IN CONNECTION WITH OUR EDUCATION PLATFORMS",
+            "conf": 0.9894093871116638,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Deletion of Information: You may request that we delete your personal information",
+            "conf": 0.9993113875389099,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "That is, we do not share your Personal Information with individuals or organizations to use for their own commercial purposes",
+            "conf": 0.9983900189399719,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We take that responsibility seriously and pledge to never sell or share personal data and use it only for the purpose for which you gave permission",
+            "conf": 0.9993752837181091,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Please note that we may revise these terms and conditions at any time, and it is your responsibility to periodically read through these Terms and Conditions and know that when you use the Site, you are bound by the most current Terms and Conditions.",
+            "conf": 0.9863404631614685,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Turnitin does retain the right to remove, at its discretion, Communications that include any material deemed abusive,",
+            "conf": 0.9364844560623169,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": ", or",
+            "conf": 0.9069975018501282,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Turnitin also reserves the right to edit or remove any information, in whole or in part, that it deems objectionable, disruptive to the Site, or in violation of these terms",
+            "conf": 0.9999367594718933,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Turnitin is not responsible for any software, data, or other information available from any third-party site.",
+            "conf": 0.9828673601150513,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that Turnitin bears no liability for any damage or loss from your access to, use of, or reliance on any third-party site, software, data, or other information.",
+            "conf": 0.9978772401809692,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Although Turnitin makes every attempt to ensure the integrity and accuracy of the Site, it makes no guarantees as to the correctness of the Site",
+            "conf": 0.9999431371688843,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Information contained on the Site may be changed or updated without notice",
+            "conf": 0.9874892830848694,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SITE AND ALL INFORMATION AND SERVICES AVAILABLE THROUGH THE SITE ARE PROVIDED \"AS IS,\" WITH ALL FAULTS, AND \"AS AVAILABLE.\" Turnitin DOES NOT WARRANT THAT THE SITE WILL MEET YOUR REQUIREMENTS, OR THAT ANY RESULTS OR COMPARISONS GENERATED BY THE SITE WILL BE COMPLETE OR ACCURATE",
+            "conf": 0.9999740123748779,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Turnitin DOES NOT WARRANT THAT ACCESS TO THE SITE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE SITE WILL BE CORRECTED",
+            "conf": 0.9998176693916321,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMISSIBLE BY LAW, Turnitin DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, NON-INFRINGEMENT, CONFORMITY TO ANY REPRESENTATION OR DESCRIPTION, MERCHANTABILITY, QUALITY OF INFORMATION,",
+            "conf": 0.9970224499702454,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "This Site and its services are provided \u201cas is",
+            "conf": 0.9999951720237732,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u201d Turnitin does not guarantee that the Site will meet all of your requirements or expectations",
+            "conf": 0.9999913573265076,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IMPORTANT: Neither Turnitin, nor its licensors or suppliers, will be liable for any loss or damage under any circumstances resulting from use of this Site or associated services",
+            "conf": 0.9995200037956238,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "That means that you agree to be responsible for any damage or loss linked to using this Site or Turnitin services.",
+            "conf": 0.9772116541862488,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and defend Turnitin from any claim (including attorney fees and costs) arising from your (a) use of the Site, (b) violation of any third-party right, or (c) breach of any of these Terms and Conditions",
+            "conf": 0.9999902248382568,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Turnitin reserves the right, at its own expense, to assume the exclusive defence and control of any matter otherwise subject to indemnification under this section and, in any event, you agree not to settle any such matter without Turnitin\u2019s prior written consent",
+            "conf": 0.9974231719970703,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "(g) at the choice of the controller, deletes or returns all the personal data to the controller after the end of the provision of services relating to processing, and deletes existing copies unless Union or Member State law requires storage of the personal data.",
+            "conf": 0.9929488897323608,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We will never sell your data",
+            "conf": 0.9999445080757141,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We respect your right to retain ownership and control of your data, so that you can modify, update, or delete it as needed",
+            "conf": 0.9921074509620667,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "2016: Final GDPR version published",
+            "conf": 0.9993451237678528,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "that the ability to erase data will be mandatory as well",
+            "conf": 0.9844996929168701,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "While Turnitin does transfer information where necessary to perform the service, no personally identifiable information such as name, email or school is sent by Turnitin to third-party services",
+            "conf": 0.9099750518798828,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 4.0
+}

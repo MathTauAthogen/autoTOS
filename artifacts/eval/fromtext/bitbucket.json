@@ -1,0 +1,516 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Starting:\u00a0May 25, 2018",
+            "conf": 0.9999943971633911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Atlassian and our third party partners, such as our advertising and analytics partners, use various technologies to collect information, such as cookies and web beacons.",
+            "conf": 0.9911059737205505,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies, web beacons and other technologies\u00a0to improve and customize our products and websites (\"the Services\") and your experience.",
+            "conf": 0.9933960437774658,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, we use\u00a0Google Analytics cookies to help us understand how visitors arrive at\u00a0and browse\u00a0our products and\u00a0website\u00a0to\u00a0identify areas for improvement such as navigation,\u00a0user\u00a0experience, and marketing campaigns",
+            "conf": 0.9946660995483398,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "How can you opt-out?",
+            "conf": 0.9423490166664124,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Atlassian and our third party partners also collect information using web beacons (also known as \"tracking pixels\").",
+            "conf": 0.9999992251396179,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may be able to opt out of receiving personalized advertisements as described in the Privacy Policy under \"Your Choices",
+            "conf": 0.9605357646942139,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Updates to this Notice",
+            "conf": 0.9495944380760193,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Tracking Notice may be updated from time to time",
+            "conf": 0.9995047450065613,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any changes, we will notify you by revising the \"effective starting\" date at the top of this notice",
+            "conf": 0.9997593760490417,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective starting: November 1, 2018",
+            "conf": 0.9998740553855896,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for any and all actions taken using End User Accounts and passwords, and you agree to immediately notify us of any unauthorized use of which you become aware.",
+            "conf": 0.9979332685470581,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "2.6.\u00a0Age Requirement for End Users",
+            "conf": 0.9995407462120056,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Cloud Products are not intended for, and should not be used by, anyone under the age of 16",
+            "conf": 0.9999951720237732,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You are responsible for ensuring that all End Users are at least 16 years old",
+            "conf": 0.9992933869361877,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Other than our express obligations under Section 4 (Our security and data privacy policies), we assume no responsibility or liability for Your Data, and you are solely responsible for Your Data and the consequences of submitting and using it with the Cloud Products.",
+            "conf": 0.9980942606925964,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You will defend, indemnify and hold harmless us (and our Affiliates, officers, directors, agents and employees) from and against any and all claims, costs, damages, losses, liabilities and expenses (including reasonable attorneys\u2019 fees and costs) resulting from any claim arising from or related to (i) your breach of Section 2.3 (End User Consent) or any claims or disputes brought by your End Users arising out of their use of Cloud Products, (ii) your breach (or alleged breach) of Sections 5.2 (Your Data Compliance Obligations) or 5.3 (No Sensitive Data).",
+            "conf": 0.9975957274436951,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We will use reasonable efforts to provide you with advance notice of removals and suspensions when practicable, but if we determine that your actions endanger the operation of the Cloud Product or other users, we may suspend your access or remove Your Data immediately without notice",
+            "conf": 0.9786815047264099,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any access to or use of Your Data by third party providers or their products or services, or for the security or privacy practices of any third party provider or its products or services.",
+            "conf": 0.9985560178756714,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Product under these Terms, for no reason or any reason, by providing notice of termination to us no later than thirty (30) days after the Order date for such",
+            "conf": 0.9368892908096313,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "You understand that we may change this practice in the future in accordance with Section 24 (Changes to these Terms).",
+            "conf": 0.997872531414032,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may modify or terminate your right to use No-Charge Products at any time and for any reason in our sole discretion, without liability to you",
+            "conf": 0.9994144439697266,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no promises that any Beta Versions will ever be made generally available",
+            "conf": 0.9999090433120728,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "These Terms are effective as of the Effective Date and expire on the date of expiration or termination of all Subscription Terms",
+            "conf": 0.9749452471733093,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You may choose to stop using the Cloud Products and terminate these Terms (including all Orders) at any time for any reason upon written notice to us, but, unless you are exercising your right to terminate early pursuant to Section 10 (Our return policy), upon any such termination (i) you will not be entitled",
+            "conf": 0.9645554423332214,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You will not have access to Your Data (and we may delete all of Your Data unless legally prohibited) after expiration or termination of these Terms (or its applicable Subscription Term), so you should make sure to export Your Data using the functionality of the Cloud Products during the applicable Subscription Term",
+            "conf": 0.9990001320838928,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 18, ALL CLOUD PRODUCTS, SUPPORT AND ADDITIONAL SERVICES ARE PROVIDED \u201cAS IS,",
+            "conf": 0.999649703502655,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AND WE AND OUR SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES AND REPRESENTATIONS OF ANY KIND, INCLUDING ANY WARRANTY OF NON-INFRINGEMENT, TITLE, FITNESS FOR A PARTICULAR PURPOSE, FUNCTIONALITY OR MERCHANTABILITY, WHETHER EXPRESS, IMPLIED OR STATUTORY",
+            "conf": 0.9982430338859558,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING OUR EXPRESS OBLIGATIONS IN THESE TERMS, WE DO NOT WARRANT THAT YOUR USE OF THE CLOUD PRODUCTS WILL BE UNINTERRUPTED OR ERROR-FREE, THAT WE WILL REVIEW YOUR DATA FOR ACCURACY OR THAT WE WILL PRESERVE OR MAINTAIN YOUR DATA WITHOUT LOSS",
+            "conf": 0.9961770176887512,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU UNDERSTAND THAT USE OF THE CLOUD PRODUCTS NECESSARILY INVOLVES TRANSMISSION OF YOUR DATA OVER NETWORKS THAT WE DO NOT OWN, OPERATE OR CONTROL, AND WE ARE NOT RESPONSIBLE FOR ANY OF YOUR DATA LOST, ALTERED, INTERCEPTED OR STORED ACROSS SUCH NETWORKS.",
+            "conf": 0.9982700943946838,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WE CANNOT GUARANTEE THAT OUR SECURITY PROCEDURES WILL BE ERROR-FREE, THAT TRANSMISSIONS OF YOUR DATA WILL ALWAYS BE SECURE OR THAT UNAUTHORIZED THIRD PARTIES WILL NEVER BE ABLE TO DEFEAT OUR SECURITY MEASURES OR THOSE OF OUR THIRD PARTY SERVICE PROVIDERS",
+            "conf": 0.9949933886528015,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT FOR EXCLUDED CLAIMS (AS DEFINED BELOW), NEITHER PARTY (NOR ITS SUPPLIERS) WILL HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THESE TERMS FOR ANY LOSS OF USE, LOST OR INACCURATE DATA, LOST PROFITS, FAILURE OF SECURITY MECHANISMS, INTERRUPTION OF BUSINESS, COSTS OF DELAY, OR ANY INDIRECT, SPECIAL, INCIDENTAL, RELIANCE OR CONSEQUENTIAL DAMAGES OF ANY KIND, EVEN IF INFORMED OF THE POSSIBILITY OF SUCH DAMAGES IN ADVANCE.",
+            "conf": 0.9993999004364014,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "We will defend you against any claim brought against you by a third party alleging that the Cloud Products, when used as authorized under these Terms, infringe a patent right granted in the United States, Australia or a member nation of the European Union or a copyright registered in such a jurisdiction (a \u201cClaim\u201d), and we will indemnify you and hold you harmless against any damages and costs finally awarded on the Claim by a court of competent jurisdiction or agreed to via settlement executed by us (including reasonable attorneys\u2019 fees), provided that we have received from you: (a) prompt written notice of the Claim (but in any event notice in sufficient time for us to respond without prejudice).",
+            "conf": 0.9999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may modify Our Policies to take effect during your then-current Subscription Term in order to respond to changes in our products, our business, or Laws",
+            "conf": 0.9436656832695007,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Subject to our obligation to provide Cloud Products and Additional Services under existing Orders, we can discontinue any Cloud Products, any Additional Services, or any portion or feature of any Cloud Products for any reason at any time without liability to you",
+            "conf": 0.999992311000824,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Any notice to you will be deemed given upon the first business day after we send it",
+            "conf": 0.9836000800132751,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "No failure or delay by the injured party to these Terms in exercising any right, power or privilege hereunder will operate as a waiver thereof, nor will any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any right, power or privilege hereunder at law or equity",
+            "conf": 0.9898028373718262,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Please note that, since we do not maintain access to your repositories, any removal of Your Data under Section 5.5 (Removals and Suspension) of the Agreement means removal of the entire repository in which the offending data resides, not just the offending portions",
+            "conf": 0.9885549545288086,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective starting: November 1, 2018",
+            "conf": 0.9619947075843811,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": ": Atlassian and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices.",
+            "conf": 0.9987678527832031,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ": We receive information about you and your activities on and off the Services from third-party partners, such as\u00a0advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements",
+            "conf": 0.9898170232772827,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "These communications are part of the Services and in most cases you cannot opt out\u00a0of them",
+            "conf": 0.9513238072395325,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If an opt out is available, you will find that option within the communication itself or in your account settings",
+            "conf": 0.9038077592849731,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We also communicate with you about new product offers, promotions and contests",
+            "conf": 0.9644680023193359,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can control whether you receive these communications as described below under \"Opt-out of communications.\"",
+            "conf": 0.9964338541030884,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": ",\u00a0including in connection with possible business transfers, but\u00a0we are not in the business of selling\u00a0information about you to advertisers or other third parties",
+            "conf": 0.9295996427536011,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": ": We may share or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company",
+            "conf": 0.994218111038208,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "How long we keep information we collect about you depends on the type of information, as described in further detail below",
+            "conf": 0.9992417693138123,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible",
+            "conf": 0.9996808767318726,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ": We\u00a0retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services",
+            "conf": 0.9999037384986877,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services",
+            "conf": 0.9999035000801086,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), to request the deletion or restriction of your information, or to request your information in a structured, electronic format",
+            "conf": 0.994755744934082,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": ":\u00a0\u00a0If you no longer wish to use our Services, you or your administrator may be able to deactivate your Services account",
+            "conf": 0.9942683577537537,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you are an administrator and are unable to deactivate an account through your administrator settings, please contact\u00a0Atlassian support",
+            "conf": 0.9752564430236816,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Please be aware that\u00a0deactivating your account does not delete your information",
+            "conf": 0.9819923639297485,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ": Our Services and related documentation\u00a0give you the ability to delete certain information about you from within the Service",
+            "conf": 0.9998441338539124,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": ":\u00a0You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences\u00a0within your\u00a0Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database",
+            "conf": 0.99995356798172,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our\u00a0Services",
+            "conf": 0.9994552731513977,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of some notification messages in your account settings",
+            "conf": 0.9991618990898132,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": ": Some browsers have incorporated \"Do Not Track\" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked",
+            "conf": 0.9568309783935547,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Because there is not yet a common understanding of how to interpret the DNT signal, our Services do not currently respond to browser DNT signals",
+            "conf": 0.999966025352478,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We collect information globally and may transfer, process and store\u00a0your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services",
+            "conf": 0.9999960064888,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Whenever we transfer your information, we take steps to protect it",
+            "conf": 0.9999574422836304,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "To facilitate our global operations, we transfer information globally and allow access to that information from countries in which the Atlassian owned or operated companies have operations for the purposes described in this policy",
+            "conf": 0.997726559638977,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible\u00a0for the privacy or security practices of an administrator's organization, which may be different than this policy",
+            "conf": 0.9995803236961365,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "restrict, suspend or terminate your access to the Services;",
+            "conf": 0.9867975115776062,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The Services are not directed to individuals under 16",
+            "conf": 0.9999697804450989,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect\u00a0personal information\u00a0from children under 16",
+            "conf": 0.9999552965164185,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we become aware that a child under 16 has provided us with personal information, we will take steps to delete such information",
+            "conf": 0.9999784827232361,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We may change this privacy policy from time to time",
+            "conf": 0.9985449910163879,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice\u00a0by adding a notice on the Services homepages, login screens, or by sending you an email notification",
+            "conf": 0.9998258352279663,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "November 1, 2018",
+            "conf": 0.9999839663505554,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "May 25, 2018",
+            "conf": 0.9999945163726807,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.1
+}

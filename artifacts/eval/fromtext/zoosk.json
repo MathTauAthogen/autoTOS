@@ -1,0 +1,138 @@
+{
+    "predictions": [
+        {
+            "label": "2",
+            "text": "the use of cookies and similar technologies to store and access information on devices you connect to the Services in accordance with",
+            "conf": 0.9109780788421631,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We and our third party partners may use cookies and similar technologies, including those from third parties, to collect, analyze and store information, to provide customized advertising on our site and applications and on other sites or applications, to provide and improve the Services or other products or services offered by Zoosk, and to identify and prevent fraudulent activities.",
+            "conf": 0.9896585941314697,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "We do not respond to do not track signals set by your browser at this time",
+            "conf": 0.9999722242355347,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that Zoosk is not responsible for, and has no control over, any applicable privacy settings on any Social Networking Sites (including any settings related to any messages or advertisements about Zoosk that the Social Networking Site may send to you or your friends).",
+            "conf": 0.9999992251396179,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "in connection with any company transaction, such as a merger, sale of assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy, dissolution, divestiture or any related or similar proceedings",
+            "conf": 0.9916914701461792,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of receiving certain messages from us by visiting the \u201csettings\u201d page of your account or by clicking the \u201cunsubscribe\u201d or \u201copt-out\u201d link on these email communications from Zoosk",
+            "conf": 0.9999935030937195,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Note that you are not permitted to unsubscribe or opt out of non-promotional messages regarding your account, such as technical notices or purchase confirmations, or our ongoing business activities in order to provide the Services to you",
+            "conf": 0.9999963641166687,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "In addition to the advertising practices described above, we may use, share or permit third party advertising networks or similar third party partners to collect information about your browsing and usage activities over time and across websites and applications when you use our sites or Services.",
+            "conf": 0.9888590574264526,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Typically, this information is collected through cookies, pixels or similar technologies which recognize the device you are using and collect information, including hashed data, click stream information, browsing and usage activities on our Services and on other applications and sites around the Web, browser type, time and date you visited the site, and other information.",
+            "conf": 0.9969885945320129,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This information is typically used to display targeted ads on or through our Services or other products or services offered by Zoosk, to display targeted ads to our users or website visitors on other websites or apps, including on Facebook, and to analyze the success of our marketing campaign efforts",
+            "conf": 0.9966273307800293,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may also contact us for assistance using the details below if you want to access, remove or deactivate your account information",
+            "conf": 0.9257435202598572,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "The personal information we collect from you may be transferred to, and stored in the United States of America and other countries",
+            "conf": 0.9999662637710571,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S.",
+            "conf": 0.9998378157615662,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Although our website is a general audience site, we restrict the use of our Services to individuals age 18 and above",
+            "conf": 0.9999744892120361,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not intentionally collect or maintain personal information from children under the age of 13",
+            "conf": 0.9997028112411499,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.",
+            "conf": 0.9953680038452148,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to modify this Policy from time to time",
+            "conf": 0.9999589920043945,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This Policy was last revised on September 7, 2016",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "For users who registered for the Services prior to September 7, 2016, this Policy will be effective on September 30, 2016",
+            "conf": 0.9366781115531921,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.7
+}

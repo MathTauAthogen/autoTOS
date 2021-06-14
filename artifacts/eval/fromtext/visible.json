@@ -1,0 +1,264 @@
+{
+    "predictions": [
+        {
+            "label": "15",
+            "text": "Cancellation We\u2019d hate to see you go, but you may cancel service for any reason at any time",
+            "conf": 0.9418707489967346,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may change prices, the",
+            "conf": 0.9041097164154053,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "or this Agreement at any time, but we'll provide notice first",
+            "conf": 0.9767968058586121,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Our right to limit or end Service or end this Agreement We can, without notice, limit, suspend or end your Service or this Agreement with you for any good cause, including, but not limited to: (1) if you: (a) breach this agreement",
+            "conf": 0.9997506141662598,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Visible is not responsible for any third\u2013party information, content, applications or services you access, download or use on your device.",
+            "conf": 0.9900637269020081,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree we aren't responsible for problems caused by you or others, or by any act of God",
+            "conf": 0.9999526143074036,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "BUT IF YOU WISH TO PRESERVE YOUR RIGHT TO BRING AN ARBITRATION OR SMALL CLAIMS CASE REGARDING SUCH DISPUTE, YOU MUST WRITE TO US AT VISIBLEARBITRATIONS@visible.com, IF YOU DO NOT NOTIFY US IN WRITING OF SUCH DISPUTE WITHIN THE 180-DAY PERIOD, YOU WILL HAVE WAIVED YOUR RIGHT TO DISPUTE THE CHARGE(S) AND TO BRING AN ARBITRATION OR SMALL CLAIMS CASE REGARDING ANY SUCH DISPUTE",
+            "conf": 0.9316402673721313,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "EXCEPT FOR SMALL CLAIMS COURT CASES, ANY DISPUTE THAT IN ANY WAY RELATES TO OR ARISES OUT OF THIS AGREEMENT OR FROM ANY EQUIPMENT, PRODUCTS AND SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH PRODUCTS OR SERVICES), INCLUDING ANY DISPUTES YOU HAVE WITH OUR EMPLOYEES OR AGENTS, WILL BE RESOLVED BY ONE OR MORE NEUTRAL ARBITRATORS BEFORE THE AMERICAN ARBITRATION ASSOCIATION (\"AAA\").",
+            "conf": 0.999835729598999,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "(3) THIS AGREEMENT DOESN'T ALLOW CLASS OR COLLECTIVE ARBITRATIONS EVEN IF THE AAA PROCEDURES OR RULES WOULD",
+            "conf": 0.9791722893714905,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "NO CLASS OR REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL THEORIES OF LIABILITY OR PRAYERS FOR RELIEF MAY BE MAINTAINED IN ANY ARBITRATION HELD UNDER THIS AGREEMENT",
+            "conf": 0.9999940395355225,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND VISIBLE UNCONDITIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT IN ANY WAY",
+            "conf": 0.9994315505027771,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Agreement If we don't enforce our rights under this agreement in one instance, that doesn't mean we won't or can't enforce those rights in any other instance",
+            "conf": 0.9912438988685608,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "December 20, 2018",
+            "conf": 0.9999923706054688,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: April 23, 2018",
+            "conf": 0.9999967217445374,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We also collect information when you visit our sites and use our apps, including through cookies and similar",
+            "conf": 0.9105515480041504,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may use cookies, pixel tags, and similar technologies to automatically collect this information.",
+            "conf": 0.9755415916442871,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel tags are very small ../images or small pieces of data embedded in ../images, also known as \u201cweb beacons\u201d or \u201cclear GIFs,\u201d that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.",
+            "conf": 0.9987741708755493,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "By using our websites and applications, you consent to our use of cookies and similar technologies",
+            "conf": 0.9865679740905762,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We collect information about you from",
+            "conf": 0.9456323981285095,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "may share your information in connection with a substantial corporate transaction, such as a merger, consolidation, asset sale, or in the unlikely event of bankruptcy",
+            "conf": 0.9750221967697144,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "If you access third-party services, such as Facebook, Google, or Twitter, through our sites or apps, to log in or to share information about your experience with others, these third-party services may be able to collect information about you and they may notify your connections on the third-party services about your use of the site or app, in accordance with their own privacy policies",
+            "conf": 0.9809160828590393,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you would like to be removed from Visible\u2019s email marketing list, you can opt-out by following the unsubscribe instructions, usually found at the bottom of the emails",
+            "conf": 0.9999606013298035,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Do-Not-Track Signals",
+            "conf": 0.9935016632080078,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "A business subject to California Business and Professions Code Section 22581 must allow California residents under age 18 who are registered users of online sites, services or applications to request and obtain removal of content or information they have publicly posted",
+            "conf": 0.9621792435646057,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "By using our apps, sites or service and providing us with information, you understand and agree that your information may be transferred to and stored on servers located outside your resident jurisdiction and, to the extent you are a resident of a country other than the United States, that you consent to the transfer of such data to the United States for processing by us in accordance with this Privacy Policy",
+            "conf": 0.9999914765357971,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may update this Privacy Policy from time to time",
+            "conf": 0.9995940923690796,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "When we update the Privacy Policy, we will revise the \u201cEffective Date\u201d date above and post the new Privacy Policy",
+            "conf": 0.936983585357666,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to modify, reject or eliminate any information transmitted or residing on our website that we believe is unacceptable or in violation of these terms and conditions and to suspend or end your service for any operational or governmental reason or violation of these terms and conditions",
+            "conf": 0.9990622401237488,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for the security of your username and password and will be solely liable for any use or unauthorized use under your username and password.",
+            "conf": 0.9950541257858276,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may suspend or terminate your username and password at any time with or without notice",
+            "conf": 0.9999949336051941,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "VISIBLE DOES NOT ASSUME ANY LEGAL LIABILITY OR RESPONSIBILITY FOR THE ACCURACY, COMPLETENESS, OR USEFULNESS OF ANY CONTENT, PRODUCT OR PROCESS DISCLOSED ON THE WEBSITE OR OTHER MATERIAL ACCESSIBLE FROM THE WEBSITE",
+            "conf": 0.9897764325141907,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL VISIBLE BE LIABLE FOR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA, OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE CONTENT, THIS SERVER OR THE INTERNET GENERALLY",
+            "conf": 0.9999991059303284,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "No Warranties Any Visible material on this website may include technical inaccuracies or typographical errors",
+            "conf": 0.9612663388252258,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE CONTENT PROVIDED ON THIS WEBSITE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE, NON-INFRINGEMENT OR IMPLIED WARRANTIES OF",
+            "conf": 0.9973606467247009,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the practices or the content of such other web sites",
+            "conf": 0.9999983310699463,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "In addition, these terms and conditions may be changed at any time without prior notice",
+            "conf": 0.999984622001648,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated: December 20, 2018",
+            "conf": 0.9999980330467224,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 0.4
+}

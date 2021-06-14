@@ -1,0 +1,1237 @@
+{
+    "predictions": [
+        {
+            "label": "8",
+            "text": "Apple is not responsible for any losses arising from the unauthorized use of your Apple ID",
+            "conf": 0.9916548132896423,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be age 13 (or equivalent minimum age in your Home Country, as set forth in the registration process) to create an Apple ID and use our Services",
+            "conf": 0.9999919533729553,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you decide to unsubscribe from a Paid Subscription before we start charging your payment method, cancel the subscription before the free trial ends",
+            "conf": 0.9997236728668213,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Apple may monitor and decide to remove or edit any submitted material",
+            "conf": 0.9997209906578064,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The organizer of a Family (\u201cOrganizer\u201d) must be 18 years or older and the parent or legal guardian of any Family member under age 13 or the equivalent minimum age in their Home Country (as set forth in the registration process).",
+            "conf": 0.9998967051506042,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out from receiving such recommendations in your account settings",
+            "conf": 0.9919223785400391,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED APPLICATION AND ANY SERVICES PERFORMED OR PROVIDED BY THE LICENSED APPLICATION ARE PROVIDED \"AS IS\" AND \u201cAS AVAILABLE,\u201d WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE LICENSED APPLICATION AND ANY SERVICES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND OF NONINFRINGEMENT OF THIRD-PARTY RIGHTS",
+            "conf": 0.9990485310554504,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR PERSONAL INJURY OR ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE THE LICENSED APPLICATION, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT, OR OTHERWISE) AND EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9998486042022705,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "iCloud Music Library is provided on an \u201cAS IS\u201d basis and could contain errors or inaccuracies",
+            "conf": 0.9999946355819702,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Apple reserves the right at any time to modify this Agreement and to add new or additional terms or conditions on your use of the Services",
+            "conf": 0.984503984451294,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Apple is not responsible or liable for third party materials included within or linked from the Content or the Services",
+            "conf": 0.9999898076057434,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Apple further reserves the right to modify, suspend, or discontinue the Services (or any part or Content thereof) at any time with or without notice to you, and Apple will not be liable to you or to any third party should it exercise such rights",
+            "conf": 0.9999812245368958,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "APPLE DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, AND YOU AGREE THAT FROM TIME TO TIME APPLE MAY REMOVE THE SERVICES FOR INDEFINITE PERIODS OF TIME, CANCEL THE SERVICES AT ANY TIME, OR OTHERWISE LIMIT OR DISABLE YOUR ACCESS TO THE SERVICES WITHOUT NOTICE TO YOU",
+            "conf": 0.9999909400939941,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES AND ALL CONTENT DELIVERED TO YOU THROUGH THE SERVICES ARE (EXCEPT AS EXPRESSLY STATED BY APPLE) PROVIDED \"AS IS\" AND \"AS AVAILABLE\" FOR YOUR USE, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ALL IMPLIED WARRANTIES OF",
+            "conf": 0.99629145860672,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO CASE SHALL APPLE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, OR LICENSORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF ANY OF THE SERVICES OR FOR ANY OTHER CLAIM RELATED IN ANY WAY TO YOUR USE OF THE SERVICES AND/OR CONTENT, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS IN ANY CONTENT, OR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICES, EVEN IF ADVISED OF THEIR POSSIBILITY",
+            "conf": 0.9662848711013794,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "APPLE SHALL USE REASONABLE EFFORTS TO PROTECT INFORMATION SUBMITTED BY YOU IN CONNECTION WITH THE SERVICES, BUT YOU AGREE THAT YOUR SUBMISSION OF SUCH INFORMATION IS AT YOUR SOLE RISK, AND YOU HEREBY RELEASE APPLE FROM ANY AND ALL LIABILITY TO YOU FOR ANY LOSS OR LIABILITY RELATING TO SUCH INFORMATION IN ANY WAY",
+            "conf": 0.9705299735069275,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "APPLE DOES NOT REPRESENT OR GUARANTEE THAT THE SERVICES WILL BE FREE FROM LOSS, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING, OR OTHER SECURITY INTRUSION, AND YOU HEREBY RELEASE APPLE FROM ANY LIABILITY RELATING THERETO",
+            "conf": 0.9909356236457825,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "BY USING THE SERVICES, YOU AGREE, TO THE EXTENT PERMITTED BY LAW, TO INDEMNIFY AND HOLD APPLE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, AND LICENSORS HARMLESS WITH RESPECT TO ANY CLAIMS ARISING OUT OF YOUR BREACH OF THIS AGREEMENT, YOUR USE OF THE SERVICES, OR ANY ACTION TAKEN BY APPLE AS PART OF ITS INVESTIGATION OF A SUSPECTED VIOLATION OF THIS AGREEMENT OR AS A RESULT OF ITS FINDING OR DECISION THAT A VIOLATION OF THIS AGREEMENT HAS OCCURRED",
+            "conf": 0.9996672868728638,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE THAT YOU SHALL NOT SUE OR RECOVER ANY DAMAGES FROM APPLE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, AND LICENSORS AS A RESULT OF ITS DECISION TO REMOVE OR REFUSE TO PROCESS ANY INFORMATION OR CONTENT, TO WARN YOU, TO SUSPEND OR TERMINATE YOUR ACCESS TO THE SERVICES, OR TO TAKE ANY OTHER ACTION DURING THE INVESTIGATION OF A SUSPECTED VIOLATION OR AS A RESULT OF APPLE'S CONCLUSION THAT A VIOLATION OF THIS AGREEMENT HAS OCCURRED",
+            "conf": 0.9222719073295593,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Apple's failure to enforce any right or provisions in this Agreement will not constitute a waiver of such or any other provision",
+            "conf": 0.9999974966049194,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Apple will not be responsible for failures to fulfill any obligations due to causes beyond its control",
+            "conf": 0.9667376279830933,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: September 13, 2016",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Age.\u00a0The Service is only available to individuals aged 13 years or older (or equivalent minimum age in the relevant jurisdiction), unless you are under 13 years old and your Apple ID was provided to you as a result of a request by an approved educational institution or established as part of the Family Sharing feature by your parent or guardian.",
+            "conf": 0.9949489831924438,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect, use or disclose personal information from children under 13, or equivalent minimum age in the relevant jurisdiction, without verifiable parental consent",
+            "conf": 0.999996542930603,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "may require periodic updates",
+            "conf": 0.9804885387420654,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Service, or any feature or part thereof, may not be available in all languages or in all countries and Apple makes no representation that the Service, or any feature or part thereof, is appropriate or available for use in any particular location",
+            "conf": 0.9838045835494995,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Apple reserves the right at any time to modify this Agreement and to impose new or additional terms or conditions on your use of the Service, provided that Apple will give you 30 days\u2019 advance notice of any material adverse change to the Service or applicable terms of service, unless it would not be reasonable to do so due to circumstances arising from legal, regulatory, or governmental action",
+            "conf": 0.9698283672332764,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Apple shall use reasonable skill and due care in providing the Service, but neither Apple nor any of its service and/or content providers guarantees the availability, accuracy, completeness, reliability, or timeliness of location data or any other data displayed by the Service",
+            "conf": 0.9999961256980896,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Apple shall bear no responsibility for your failure to protect your iOS device with a passcode, enable Lost Mode, and/or receive or respond to notices and communications",
+            "conf": 0.9928194880485535,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Apple shall also bear no responsibility for returning your iOS device to you or for any loss of data on your iOS device",
+            "conf": 0.9989466667175293,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Apple shall use reasonable skill and due care in providing the Service, but,\u00a0TO THE GREATEST EXTENT PERMISSIBLE BY APPLICABLE LAW, APPLE DOES NOT GUARANTEE OR WARRANT THAT ANY CONTENT YOU MAY STORE OR ACCESS THROUGH THE SERVICE WILL NOT BE SUBJECT TO INADVERTENT DAMAGE, CORRUPTION, LOSS, OR REMOVAL IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT, AND APPLE SHALL NOT BE RESPONSIBLE SHOULD SUCH DAMAGE, CORRUPTION, LOSS, OR REMOVAL OCCUR",
+            "conf": 0.9926166534423828,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "It is your responsibility to maintain appropriate alternate backup of your information and data",
+            "conf": 0.9964746832847595,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "will be automatically deleted from My",
+            "conf": 0.9066975712776184,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Stream over time",
+            "conf": 0.9402894973754883,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality and security of your Account and for all activities that occur on or through your Account, and you agree to immediately notify Apple of any security breach of your Account.",
+            "conf": 0.9988665580749512,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You further acknowledge and agree that the Service is designed and intended for personal use on an individual basis and you should not share your Account and/or password details with another individual.",
+            "conf": 0.9865086078643799,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "This means that you, and not Apple, are solely responsible for any Content you upload, download, post, email, transmit, store or otherwise make available through your use of the Service.",
+            "conf": 0.9849185943603516,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Apple does not control the Content posted via the Service, nor does it guarantee the accuracy, integrity or quality of such Content",
+            "conf": 0.9989169239997864,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "age of 18 or such other age as",
+            "conf": 0.9073827266693115,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that Apple is not responsible or liable in any way for any Content provided by others and has no duty to pre-screen such Content.",
+            "conf": 0.9898164868354797,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "However, Apple reserves the right at all times to determine whether Content is appropriate and in compliance with this Agreement, and may pre-screen, move, refuse, modify and/or remove Content at any time, without prior notice and in its sole discretion, if such Content is found to be in violation of this Agreement or is otherwise objectionable",
+            "conf": 0.9999634623527527,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Apple shall use reasonable skill and due care in providing the Service, but Apple does not guarantee or warrant that any Content you may store or access through the Service will not be subject to inadvertent damage, corruption or loss",
+            "conf": 0.9443162679672241,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Beta Features are provided on an \u201cAS IS\u201d and \u201cAS AVAILABLE\u201d basis and may contain errors or inaccuracies that could cause failures, corruption or loss of data and/or information from your device and from peripherals (including, without limitation, servers and computers) connected thereto",
+            "conf": 0.9991228580474854,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Apple reserves the right to modify the terms, conditions or policies of the Program (including ceasing the Program) at any time with or without notice, and may revoke your participation in the Program at any time",
+            "conf": 0.9910659790039062,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may delete your Apple ID and/or stop using the Service at any time",
+            "conf": 0.9999768137931824,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Apple may at any time, under certain circumstances and without prior notice, immediately terminate or suspend all or a portion of your Account and/or access to the Service",
+            "conf": 0.9996639490127563,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Any such termination or suspension shall be made by Apple in its sole discretion and Apple will not be responsible to you or any third party for any damages that may result or arise out of such termination or suspension of your Account and/or access to the Service",
+            "conf": 0.9971754550933838,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "or (b) there is a general discontinuance of the Service or any part thereof",
+            "conf": 0.9838154315948486,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "In addition, after a period of time, Apple will delete information and data stored in or as a part of your account(s).",
+            "conf": 0.9999961256980896,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Because Apple may have no control over such third party sites and/or materials, you acknowledge and agree that Apple is not responsible for the availability of such sites or resources, and does not endorse or warrant the accuracy of any such sites or resources, and shall in no way be liable or responsible for any Content, advertising, products or materials on or available from such sites or resources.",
+            "conf": 0.997666597366333,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You further acknowledge and agree that Apple shall not be responsible or liable in any way for any damages you incur or allege to have incurred, either directly or indirectly, as a result of your use and/or reliance upon any such Content, advertising, products or materials on or available from such sites or resources.",
+            "conf": 0.9988820552825928,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "APPLE DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, AND YOU AGREE THAT FROM TIME TO TIME APPLE MAY REMOVE THE SERVICE FOR INDEFINITE PERIODS OF TIME, OR CANCEL THE SERVICE IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT",
+            "conf": 0.9999983906745911,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT THE SERVICE IS PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9997469782829285,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "APPLE AND ITS AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY,",
+            "conf": 0.9391498565673828,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IN PARTICULAR, APPLE AND ITS AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS MAKE NO WARRANTY THAT (I) THE SERVICE WILL MEET YOUR REQUIREMENTS",
+            "conf": 0.9571723341941833,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(II) YOUR USE OF THE SERVICE WILL BE TIMELY, UNINTERRUPTED, SECURE OR ERROR-FREE",
+            "conf": 0.9993293881416321,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "APPLE DOES NOT REPRESENT OR GUARANTEE THAT THE SERVICE WILL BE FREE FROM LOSS, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING, OR OTHER SECURITY INTRUSION, AND APPLE DISCLAIMS ANY LIABILITY RELATING THERETO",
+            "conf": 0.9997721314430237,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE, COMPUTER, OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL",
+            "conf": 0.9766504764556885,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT APPLE AND ITS AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSSES (EVEN IF APPLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (I) THE USE OR INABILITY TO USE THE SERVICE (II) ANY CHANGES MADE TO THE SERVICE OR ANY TEMPORARY OR PERMANENT CESSATION OF THE SERVICE OR ANY PART THEREOF.",
+            "conf": 0.9999814629554749,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold Apple, its affiliates, subsidiaries, directors, officers, employees, agents, partners, contractors, and licensors harmless from any claim or demand, including reasonable attorneys\u2019 fees, made by a third party, relating to or arising from: (a) any Content you submit, post, transmit, or otherwise make available through the Service",
+            "conf": 0.9999940991401672,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "This means that you cannot sue Apple, its affiliates, subsidiaries, directors, officers, employees, agents, partners, contractors, and licensors as a result of its decision to remove or refuse to process any information or Content, to warn you, to suspend or terminate your access to the Service, or to take any other action during the investigation of a suspected violation or as a result of Apple\u2019s conclusion that a violation of this Agreement has occurred",
+            "conf": 0.9547986388206482,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that you are responsible for all use of the Service using your Account, and that this Agreement applies to any and all usage of your Account",
+            "conf": 0.9883026480674744,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to comply with this Agreement and to defend, indemnify and hold harmless Apple from and against any and all claims and demands arising from usage of your Account, whether or not such usage is expressly authorized by you",
+            "conf": 0.9999836683273315,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Apple may provide you with notices regarding the Service, including changes to this Agreement, by email to your iCloud email address (and/or other alternate email address associated with your Account if provided), iMessage or SMS, by regular mail, or by postings on our website and/or the Service",
+            "conf": 0.9563223123550415,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Apple to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision",
+            "conf": 0.9999967217445374,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last revised: September 19, 2017",
+            "conf": 0.9999693036079407,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Apple reserves the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time",
+            "conf": 0.9998703002929688,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "It is your responsibility to check these Terms of Use periodically for changes",
+            "conf": 0.9997259974479675,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The materials on the Site with respect to products and services may be out of date, and Apple makes no commitment to update the materials on the Site with respect to such products and services",
+            "conf": 0.9911006093025208,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Each of these policies may be changed from time to time and are effective immediately upon posting such changes on the Site",
+            "conf": 0.9993000030517578,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are entirely responsible for maintaining the confidentiality of the information you hold for your account, including your password, and for any and all activity that occurs under your account as a result of your failing to keep this information secure and confidential.",
+            "conf": 0.9997069239616394,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You may be held liable for losses incurred by Apple or any other user of or visitor to the Site due to someone else using your Apple ID, password or account as a result of your failing to keep your account information secure and confidential.",
+            "conf": 0.9996691942214966,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Apple cannot and will not be liable for any loss or damage arising from your failure to comply with these obligations",
+            "conf": 0.9997872114181519,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Such Linked Sites are not under Apple\u2019s control, and Apple is not responsible for and does not endorse the content of such Linked Sites, including any information or materials contained on such Linked Sites",
+            "conf": 0.993512749671936,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "APPLE DOES NOT PROMISE THAT THE SITE OR ANY CONTENT, SERVICE OR FEATURE OF THE SITE WILL BE ERROR-FREE OR UNINTERRUPTED, OR THAT ANY DEFECTS WILL BE CORRECTED, OR THAT YOUR USE OF THE SITE WILL PROVIDE SPECIFIC RESULTS",
+            "conf": 0.9999818205833435,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SITE AND ITS CONTENT ARE DELIVERED ON AN \"AS-IS\" AND \"AS-AVAILABLE\" BASIS",
+            "conf": 0.9999315142631531,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "APPLE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF ACCURACY, NON-INFRINGEMENT, MERCHANTABILITY AND",
+            "conf": 0.923432469367981,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU ASSUME TOTAL RESPONSIBILITY FOR YOUR USE OF THE SITE AND ANY LINKED SITES",
+            "conf": 0.9393250942230225,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Apple reserves the right to do any of the following, at any time, without notice: (1) to modify, suspend or terminate operation of or access to the Site, or any portion of the Site, for any reason",
+            "conf": 0.9998764991760254,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Except where prohibited by law, in no event will Apple be liable to you for any indirect, consequential, exemplary, incidental or punitive damages, including lost profits, even if Apple has been advised of the possibility of such damages",
+            "conf": 0.9534710049629211,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If, notwithstanding the other provisions of these Terms of Use, Apple is found to be liable to you for any damage or loss which arises out of or is in any way connected with your use of the Site or any Content, Apple\u2019s liability shall in no event exceed the greater of (1) the total of any subscription or similar fees with respect to any service or feature of or on the Site paid in the six months prior to the date of the initial claim made against Apple (but not including the purchase price for any Apple hardware or software products or any AppleCare or similar support program), or (2) US$100.00.",
+            "conf": 0.9936363697052002,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold Apple, its officers, directors, shareholders, predecessors, successors in interest, employees, agents, subsidiaries and affiliates, harmless from any demands, loss, liability, claims or expenses (including attorneys\u2019 fees), made against Apple by any third party due to or arising out of or in connection with your use of the Site",
+            "conf": 0.9999985098838806,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that Apple may, in its sole discretion and without prior notice, terminate your access to the Site and/or block your future access to the Site if we determine that you have violated these Terms of Use or other agreements or guidelines which may be associated with your use of the Site",
+            "conf": 0.9999481439590454,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that Apple may, in its sole discretion and without prior notice, terminate your access to the Site, for cause, which includes (but is not limited to) (1) requests by law enforcement or other government agencies, (2) a request by you (self-initiated account deletions), (3) discontinuance or material modification of the Site or any service offered on or through the Site, or (4) unexpected technical issues or problems",
+            "conf": 0.9986773729324341,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If Apple does take any legal action against you as a result of your violation of these Terms of Use, Apple will be entitled to recover from you, and you agree to pay, all reasonable attorneys\u2019 fees and costs of such action, in addition to any other relief granted to Apple",
+            "conf": 0.9957996010780334,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "other Apple sites may be administered and operated from various locations outside the United States",
+            "conf": 0.9941278100013733,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Apple\u2019s failure to insist on or enforce strict performance of these Terms of Use shall not be construed as a waiver by Apple of any provision or any right it has to enforce these Terms of Use, nor shall any course of conduct between Apple and you or any other party be deemed to modify any provision of these Terms of Use",
+            "conf": 0.9999970197677612,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "on Nov.",
+            "conf": 0.9940133094787598,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "20, 2009",
+            "conf": 0.999991238117218,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "(revised 13 July 2015)",
+            "conf": 0.9999982118606567,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Any information that is provided by Apple or Apple employees is offered on an \"AS IS\" basis without warranties of any kind",
+            "conf": 0.9999975562095642,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of communications here (http://appleid.apple.com).",
+            "conf": 0.9999572038650513,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Never reveal any personal information",
+            "conf": 0.9748027920722961,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 13 years old to post to the Site",
+            "conf": 0.9995377063751221,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are over 13 years old but have not yet reached the age of majority, you must have your parent or guardians permissions to post to the Site",
+            "conf": 0.9999997019767761,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Apple may also send an email that informs you that your Submission has been deleted or edited",
+            "conf": 0.9552768468856812,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Apple reserves the right to delete any Submission, or take action against any account, at any time, for any reason",
+            "conf": 0.9991701245307922,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "IF YOU ARE UNDER THE AGE OF MAJORITY, YOU SHOULD REVIEW THIS AGREEMENT WITH YOUR PARENT OR GUARDIAN TO MAKE SURE THAT YOU AND YOUR PARENT OR GUARDIAN UNDERSTAND IT",
+            "conf": 0.9921795725822449,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Service may not be available in all areas",
+            "conf": 0.9941181540489197,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "may require periodic updates",
+            "conf": 0.980488657951355,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality and security of your Account and for all activities that occur on or through your Account, and you agree to immediately notify Apple of any security breach of your Account.",
+            "conf": 0.9988665580749512,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Apple shall not be responsible for any losses arising out of the unauthorized use of your Account",
+            "conf": 0.9862355589866638,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Apple reserves the right to modify the usage rules at any time",
+            "conf": 0.9909849166870117,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "age of 18 or such other age as",
+            "conf": 0.9160922169685364,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Some aspects of the Service are not available to children under 13, such as features that allow users to disclose personally identifiable information",
+            "conf": 0.9055426716804504,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Apple reserves the right to not post or publish any materials and to remove or edit any material, at any time in its sole discretion without notice or liability",
+            "conf": 0.9999400973320007,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Apple is not responsible for examining or evaluating the content or accuracy and Apple does not warrant and will not have any liability or responsibility for any third-party materials or web sites, or for any other materials, products, or services of third parties.",
+            "conf": 0.9937692284584045,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Ratings and descriptions are provided for convenience, and you agree that Apple does not guarantee their accuracy",
+            "conf": 0.9995181560516357,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Notwithstanding any other provision of this Agreement, Apple and its licensors reserve the right to change, suspend, remove, or disable access to any products, content, or other materials comprising a part of the Service at any time without notice",
+            "conf": 0.9999881386756897,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Apple reserves the right to modify, suspend, or discontinue the Service (or any part or content thereof) at any time with or without notice to you, and Apple will not be liable to you or to any third party should it exercise such rights",
+            "conf": 0.9999878406524658,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "APPLE DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, AND YOU AGREE THAT FROM TIME TO TIME APPLE MAY REMOVE THE SERVICE FOR INDEFINITE PERIODS OF TIME, OR CANCEL THE SERVICE AT ANY TIME, WITHOUT NOTICE TO YOU",
+            "conf": 0.999994695186615,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE AND ALL PRODUCTS AND SERVICES DELIVERED TO YOU THROUGH THE SERVICE ARE (EXCEPT AS EXPRESSLY STATED BY APPLE HEREIN) PROVIDED \"AS IS\" AND \"AS AVAILABLE\" FOR YOUR USE, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A",
+            "conf": 0.9825417399406433,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO CASE SHALL APPLE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, OR LICENSORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OR INABILITY TO USE THE SERVICE OR FOR ANY OTHER CLAIM RELATED IN ANY WAY TO YOUR USE OF THE SERVICE, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS IN ANY CONTENT, OR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT (OR PRODUCT) POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICE, EVEN IF ADVISED OF THEIR POSSIBILITY",
+            "conf": 0.9771274328231812,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "APPLE SHALL USE REASONABLE EFFORTS TO PROTECT MATERIALS OR INFORMATION SUBMITTED BY YOU IN CONNECTION WITH THE SERVICE, BUT YOU AGREE THAT YOUR SUBMISSION OF SUCH INFORMATION IS AT YOUR SOLE RISK, AND APPLE HEREBY DISCLAIMS ANY AND ALL LIABILITY TO YOU FOR ANY LOSS OR LIABILITY RELATING TO SUCH INFORMATION IN ANY WAY",
+            "conf": 0.9946340918540955,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "APPLE DOES NOT REPRESENT OR GUARANTEE THAT THE SERVICE WILL BE FREE FROM LOSS, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING, OR OTHER SECURITY INTRUSION, AND APPLE DISCLAIMS ANY LIABILITY RELATING THERETO",
+            "conf": 0.9997721314430237,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "BY USING THE SERVICE, YOU AGREE TO INDEMNIFY AND HOLD APPLE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, AND LICENSORS HARMLESS WITH RESPECT TO ANY CLAIMS ARISING OUT OF YOUR BREACH OF THIS AGREEMENT, YOUR USE OF THE SERVICE, OR ANY ACTION TAKEN BY APPLE AS PART OF ITS INVESTIGATION OF A SUSPECTED VIOLATION OF THIS AGREEMENT OR AS A RESULT OF ITS FINDING OR DECISION THAT A VIOLATION OF THIS AGREEMENT HAS OCCURRED",
+            "conf": 0.9999608993530273,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "THIS MEANS THAT YOU CANNOT SUE OR RECOVER ANY DAMAGES FROM APPLE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, AND LICENSORS AS A RESULT OF ITS DECISION TO REMOVE OR REFUSE TO PROCESS ANY INFORMATION OR CONTENT, TO WARN YOU, TO SUSPEND OR TERMINATE YOUR ACCESS TO THE SERVICE, OR TO TAKE ANY OTHER ACTION DURING THE INVESTIGATION OF A SUSPECTED VIOLATION OR AS A RESULT OF APPLE'S CONCLUSION THAT A VIOLATION OF THIS AGREEMENT HAS OCCURRED",
+            "conf": 0.9668440222740173,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Apple reserves the right at any time to modify this Agreement and to impose new or additional terms or conditions on your use of the Service",
+            "conf": 0.918209433555603,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Apple's failure to enforce any right or provisions in this Agreement will not constitute a waiver of such or any other provision",
+            "conf": 0.9999974966049194,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Apple will not be responsible for failures to fulfill any obligations due to causes beyond its control",
+            "conf": 0.9667376279830933,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: September 15, 2013",
+            "conf": 0.999997079372406,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Apple may update or change these TOS at any time and recommends that you review the TOS on a regular basis",
+            "conf": 0.9977478981018066,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Please choose a strong password and do not reveal your password to others",
+            "conf": 0.995921790599823,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you are responsible for keeping your password confidential and secure, and further understand that you are solely responsible and liable for any activities that occur under your iChat account and Screen Name.",
+            "conf": 0.9993463754653931,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "This means that you, and not Apple, are solely responsible for any Content you upload, download, post, transmit, store or otherwise make available through your use of the Service.",
+            "conf": 0.9850480556488037,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Apple does not control the Content posted via the Service, nor does it guarantee the accuracy, integrity or quality of such Content",
+            "conf": 0.9989169239997864,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Apple reserves the right to modify or stop the Service (or any part thereof), either temporarily or permanently, at any time or from time to time, with or without prior notice to you",
+            "conf": 0.967163622379303,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "You further understand and agree that this information may be transferred to the United States and/or other countries for storage, processing and use by Apple and/or its affiliates",
+            "conf": 0.9999825358390808,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Apple may at any time, without cause and/or prior notice, immediately terminate or suspend your Screen Name and access to the Service",
+            "conf": 0.999784529209137,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Apple will not be responsible to you or any third party for any damages that may result or arise out of such termination or suspension of your account and/or access to the Service.",
+            "conf": 0.9927977323532104,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK AND THE SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9999794960021973,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "APPLE AND ITS AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY,",
+            "conf": 0.9391498565673828,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IN PARTICULAR, APPLE AND ITS AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS MAKE NO WARRANTY THAT (I) THE SERVICE WILL MEET YOUR REQUIREMENTS",
+            "conf": 0.9571723341941833,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(II) YOUR USE OF THE SERVICE WILL BE TIMELY, UNINTERRUPTED, SECURE OR ERROR-FREE",
+            "conf": 0.9993295073509216,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL",
+            "conf": 0.9433882832527161,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT APPLE AND ITS AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES , INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSSES (EVEN IF APPLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (I) THE USE OR INABILITY TO USE THE SERVICE.",
+            "conf": 0.9999799728393555,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold Apple, its affiliates, subsidiaries, directors, officers, employees, agents, partners and licensors harmless from any claim or demand, including reasonable attorneys\u2019 fees, made by a third party, relating to or arising from: (a) any Content you submit, post, transmit, or otherwise make available through the Service",
+            "conf": 0.9999937415122986,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Because Apple may have no control over such third party sites and/or materials, you acknowledge and agree that Apple is not responsible for the availability of such sites or resources, and does not endorse or warrant the accuracy of any such sites or resources, and shall in no way be liable or responsible for any Content, advertising, products or materials on or available from such sites or resources.",
+            "conf": 0.997666597366333,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You further acknowledge and agree that Apple shall not be responsible or liable in any way for any damages you incur or allege to have incurred, either directly or indirectly, as a result of your use and/or reliance upon any such Content, advertising, products or materials on or available from such sites or resources.",
+            "conf": 0.9988820552825928,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Apple may provide you with notices regarding the Service, including changes to these TOS, by email to your registered email address, by regular mail, or by postings on our website and/or the Service",
+            "conf": 0.9710065126419067,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Apple to exercise or enforce any right or provision of these TOS shall not constitute a waiver of such right or provision",
+            "conf": 0.9999963045120239,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last revised: April 1, 2012",
+            "conf": 0.9999988675117493,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Apple may change, add or remove any part of these Terms at any time",
+            "conf": 0.9998179078102112,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "To use any of the Services, you must be at least 13 years old (or, for non-U.S.",
+            "conf": 0.9999865889549255,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the required age, you may still use the Services (subject to applicable local non-U.S.",
+            "conf": 0.9849364757537842,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "While Apple will make all reasonable efforts to ensure that the Services are available at all times, Apple does not guarantee, represent or warrant that your access to any of the Services will be uninterrupted or error-free",
+            "conf": 0.9999957084655762,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "In addition, while Apple makes reasonable efforts to ensure that all Content and/or information submitted by you to Apple will be secure, Apple does not guarantee that the Services will be free from loss, corruption, attack, viruses, \u201cworms\u201d, \u201ctrojan horses\u201d or other harmful components, or from interference, hacking or other security intrusions",
+            "conf": 0.9955735802650452,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Apple may change, suspend or discontinue any of the Services at any time",
+            "conf": 0.9999926686286926,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "TO WAIVE ANY CLAIMS YOU MAY HAVE AGAINST APPLE, AND TO HOLD APPLE HARMLESS AND INDEMNIFY APPLE WITH RESPECT TO ANY CLAIMS RELATING TO ANY ACTION TAKEN BY APPLE AS PART OF ITS INVESTIGATION OF A SUSPECTED VIOLATION OF THIS AGREMENT OR AS A RESULT OF ITS FINDING OR DECISION THAT A VIOLATION OF THIS AGREEMENT HAS OCCURRED",
+            "conf": 0.9944596886634827,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES AND ANY PRODUCTS ORDERED BY YOU THROUGH THE SERVICES ARE (EXCEPT AS EXPRESSLY STATED BY APPLE) PROVIDED \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d FOR YOUR USE, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY,",
+            "conf": 0.9833269119262695,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO CASE SHALL APPLE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS OR CONTRACTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF ANY OF THE SERVICES OR FOR ANY OTHER CLAIM RELATED IN ANY WAY TO YOUR USE OF THE SERVICES.",
+            "conf": 0.9961541295051575,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Apple\u2019s failure to enforce any right or provisions in these Terms will not constitute a waiver of such provision, or any other provision of these Terms",
+            "conf": 0.9999917149543762,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Apple will not be responsible for any archiving or back-up of any Content",
+            "conf": 0.9963333010673523,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your use of the Services, including all Content you generate or forward to Apple",
+            "conf": 0.9921895265579224,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Apple is not and will not be responsible for what is in any such Content",
+            "conf": 0.9998577833175659,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Revised 1/23/08",
+            "conf": 0.9999911189079285,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "The Apple Privacy Policy was updated on May 22, 2018",
+            "conf": 0.9999958276748657,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "They may also combine it with other information to provide and improve our products, services, content, and advertising",
+            "conf": 0.9898942112922668,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you don\u2019t want to be on our mailing list, you can opt out anytime by updating your preferences",
+            "conf": 0.9983041286468506,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies",
+            "conf": 0.9758181571960449,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "TechnologiesApple",
+            "conf": 0.9996514320373535,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "\u2019s websites, online services, interactive applications, email messages, and advertisements may use \"cookies\" and other technologies such as pixel tags and web beacons",
+            "conf": 0.9999068975448608,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In third-party apps, you may see ads based on other information",
+            "conf": 0.997839093208313,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications",
+            "conf": 0.9574047923088074,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Apple may use this information in our marketing and advertising services",
+            "conf": 0.9897089004516602,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel tags enable us to send email messages in a format customers can read, and they tell us whether",
+            "conf": 0.909197986125946,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "These companies are obligated to protect your information and may be located wherever Apple operates",
+            "conf": 0.9320417046546936,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party",
+            "conf": 0.9991253018379211,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for the personal information you choose to share or submit in these instances",
+            "conf": 0.9137675762176514,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy and our service specific privacy summaries.When assessing these periods we carefully examine our need to collect personal information at all and if we establish a relevant need we only retain it for the shortest possible period to realize the purpose of collection unless a longer retention period is required by law",
+            "conf": 0.9996929168701172,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided verifiable consent or as part of the child account creation process in Family Sharing or they have obtained a Managed Apple ID account (where available) through their school",
+            "conf": 0.9999842643737793,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy",
+            "conf": 0.9999728202819824,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Apple, as a global company, has a number of legal entities in different jurisdictions which are responsible for the personal information which they collect and which is processed on their behalf by Apple Inc.",
+            "conf": 0.9979830980300903,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Apple, Online Store and iTunes related personal information may also be controlled by legal entities outside the U.S.",
+            "conf": 0.9991402626037598,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Apple may update its Privacy Policy from time to time",
+            "conf": 0.9990169405937195,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy",
+            "conf": 0.9660552144050598,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 1.3
+}

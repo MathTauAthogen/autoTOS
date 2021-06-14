@@ -1,0 +1,117 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Terms of ServiceLast modified: April 1, 2015",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "These Terms may change from time to time",
+            "conf": 0.9989156126976013,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Packagetrackr reserves the right to review information saved to the Service and to remove any materials at its sole discretion",
+            "conf": 0.9370205402374268,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE CAN MODIFY OR DISCONTINUE THE SERVICEPackagetrackr reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice, without liability to you or any third party",
+            "conf": 0.9999992251396179,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "WE CAN TERMINATE YOUR USE OF THE SERVICEIt sounds mean, but Packagetrackr, in its sole discretion, may terminate your password, account or use of or access to the Service, and remove and discard any saved information, for any reason",
+            "conf": 0.9996442198753357,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If Packagetrackr terminates your use of the Service, your saved information may be immediately taken down",
+            "conf": 0.9775882363319397,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "DISCLAIMER OF WARRANTIES AND AFFILIATIONSThe Service is provided on an \"as is\" and \"as available\" basis",
+            "conf": 0.9883005023002625,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We want the information we provide you to be available 24/7 and flawlessly accurate, but the information we display is subject to availability and accuracy from the Carriers",
+            "conf": 0.999996542930603,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Packagetrackr makes no warranty that the service will be uninterrupted, timely, secure, or error-free, or that the quality of any information obtained by you through the Service will be complete or correct, or that any errors in the software will be corrected",
+            "conf": 0.999995231628418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event shall Packagetrackr, its agents, or anyone else who has been involved in the creation, production, or delivery of these pages, be liable for any direct, incidental, or consequential damages resulting from the use of this website",
+            "conf": 0.9808465838432312,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Packagetrackr is not responsible for the materials contained at any website linked to this site, or from any information provided directly from any Carrier or their agents",
+            "conf": 0.9959661364555359,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Privacy PolicyLast modified: April 1, 2015",
+            "conf": 0.999461829662323,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "However, we do not submit any of your personally identifiable information to any carrier, or other third party",
+            "conf": 0.9988381266593933,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We will not sell any personal information gathered from individual respondents",
+            "conf": 0.9996975064277649,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Additionally, Google, as a third party vendor, uses cookies to serve ads on this site",
+            "conf": 0.999699056148529,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google uses the DoubleClick DART cookie to serve ads to your users based on their visit to this and other sites on the Internet",
+            "conf": 0.9995602965354919,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.3
+}

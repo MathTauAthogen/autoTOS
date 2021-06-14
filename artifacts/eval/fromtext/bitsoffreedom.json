@@ -1,0 +1,12 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "(Versie: 24-10-2018 / vorige versies)",
+            "conf": 0.9998360872268677,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 0.0
+}

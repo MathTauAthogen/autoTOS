@@ -1,0 +1,432 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated on June 03, 2014, @ 12:58 pm (America",
+            "conf": 0.9789931178092957,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Ultimately, you are responsible for copyright infringement and you have acknowledged that in no instance shall Blend Swap be held responsible for the content you submit to the website",
+            "conf": 0.9999390244483948,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on April 01, 2015, @ 02:55 pm (",
+            "conf": 0.9976972341537476,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "These Terms of Use are effective as of January 27, 2012",
+            "conf": 0.9999966025352478,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We expressly reserve the right to change these Terms of Use from time to time without notice to you",
+            "conf": 0.9999860525131226,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the sole right to either modify or discontinue the site, including any of the site\u2019s features, at any time with or without notice to you",
+            "conf": 0.9999877214431763,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "By registering, you agree that all information provided in the Registration Data is true and accurate and that you will maintain and update this information as required in order to keep it current, complete, and accurate",
+            "conf": 0.9998394846916199,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any failure or delay in removing such",
+            "conf": 0.9288415312767029,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You agree that we may at any time, and at our sole discretion, terminate your membership, account, or other affiliation with our site without prior notice to you for violating any of the above provisions",
+            "conf": 0.9999237060546875,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "These other sites and parties are not under our control, and you acknowledge that we are not responsible for the accuracy, copyright compliance, legality, decency, or any other aspect of the content of such sites, nor are we responsible for errors or omissions in any references to other parties or their products and services.",
+            "conf": 0.9920329451560974,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "January 22, 2012",
+            "conf": 0.9086790084838867,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You further acknowledge that the data you upload to Site is not the responsibility of the Owner of The Site or the other Site Administrators or Affiliates and that any copyright infringement, unauthorized copy and/or distribution of materials copyrighted by third parties and other legal faults you may incur are your sole liability and The Site and its Owner and/or Administrators won\u2019t be held liable for your use of The Site and its services and features.",
+            "conf": 0.9925450682640076,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Blend Swap, LLC and it's Affiliates will not be held liable for your use or misuse of the files or any damage caused by or derived from your use of the files",
+            "conf": 0.987299919128418,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "ALL MATERIALS AND SERVICES ON THIS SITE ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR",
+            "conf": 0.9680982828140259,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ", OR THE WARRANTY OF NON-INFRINGEMENT",
+            "conf": 0.9529377818107605,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING THE FOREGOING, WE MAKE NO WARRANTY THAT (A) THE SERVICES AND MATERIALS WILL MEET YOUR REQUIREMENTS, (B) THE SERVICES AND MATERIALS WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (C) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES OR MATERIALS WILL BE EFFECTIVE, ACCURATE OR RELIABLE, OR (D) THE QUALITY OF ANY PRODUCTS, SERVICES, OR INFORMATION PURCHASED OR OBTAINED BY YOU FROM THE SITE FROM US OR OUR AFFILIATES WILL MEET YOUR EXPECTATIONS OR BE FREE FROM MISTAKES, ERRORS OR DEFECTS.",
+            "conf": 0.9981298446655273,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE MATERIALS OR SERVICES AT THIS SITE MAY BE OUT OF DATE, AND WE MAKE NO COMMITMENT TO UPDATE SUCH MATERIALS OR SERVICES",
+            "conf": 0.9030773043632507,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE USE OF THE SERVICES OR THE DOWNLOADING OR OTHER ACQUISITION OF ANY MATERIALS THROUGH THIS SITE IS DONE AT YOUR OWN DISCRETION AND RISK AND WITH YOUR AGREEMENT THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM SUCH ACTIVITIES",
+            "conf": 0.9790859222412109,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WE MAKE NO WARRANTY REGARDING ANY TRANSACTIONS EXECUTED THROUGH, OR IN CONNECTION WITH THIS SITE, AND YOU UNDERSTAND AND AGREE THAT SUCH TRANSACTIONS ARE CONDUCTED ENTIRELY AT YOUR OWN RISK",
+            "conf": 0.9924894571304321,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not endorse, nor are we responsible for the accuracy or reliability of, any opinion, advice, or statement made by anyone other than an authorized Blend Swap, LLC spokesperson speaking in his/her official capacity",
+            "conf": 0.9822675585746765,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You understand and agree that the services available on this site are provided \"AS IS\" and that we assume no responsibility for the timeliness, deletion, mis-delivery or failure to store any user communications or personalization settings",
+            "conf": 0.9999065399169922,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL WE OR OUR AFFILIATES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, PUNITIVE, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND ON ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OF THIS SITE OR OF ANY WEB SITE REFERENCED OR LINKED TO FROM THIS SITE.",
+            "conf": 0.9992138147354126,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Upon a request by us, you agree to defend, indemnify, and hold us and our Affiliates harmless from all liabilities, claims, and expenses, including attorney",
+            "conf": 0.9997949600219727,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s fees, that arise from your use or misuse of this site",
+            "conf": 0.9999328851699829,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Security and Password You are solely responsible for maintaining the confidentiality of your password and account and for any and all statements made and acts or omissions that occur through the use of your password and account.",
+            "conf": 0.9824449419975281,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may not transfer or share your account with anyone, and we reserve the right to immediately terminate your account if you do transfer or share your account",
+            "conf": 0.904405951499939,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We will not be responsible for such deleted or blocked messages",
+            "conf": 0.9998237490653992,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You agree that we may, in our sole discretion, terminate or suspend your access to all or part of the site with or without notice and for any reason, including, without limitation, breach of these Terms of Use",
+            "conf": 0.9998008608818054,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Upon termination or suspension, regardless of the reasons therefore, your right to use the services available on this site immediately ceases, and you acknowledge and agree that we may immediately deactivate or delete your account and all related information and files linked to your account and/or bar any further access to such files or this site",
+            "conf": 0.9983932375907898,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We shall not be liable to you or any third party for any claims or damages arising out of any termination or suspension or any other actions taken by us in connection with such termination or suspension",
+            "conf": 0.9776204228401184,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "In addition, we may broadcast notices or messages through the site to inform you of changes to the site or other matters of importance, and such broadcasts shall constitute notice to you at the time of sending",
+            "conf": 0.996842622756958,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Any failure by us to enforce or exercise any provision of these Terms of Use or related rights shall not constitute a waiver of that right or provision",
+            "conf": 0.9999998807907104,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "or that the",
+            "conf": 0.9387304186820984,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "disclaims all other warranties and conditions, express or implied",
+            "conf": 0.9057357907295227,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "SELLER (INCLUDING ITS SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS OR SUBCONTRACTORS, ALL OF WHICH ARE REFERRED TO HEREIN COLLECTIVELY AS THE \"SELLER AFFILIATES\") SHALL NOT BE LIABLE UNDER ANY CIRCUMSTANCE TO BUYER OR ANY OTHER PARTY FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE GOODS OR OTHERWISE, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOST PROFITS, LOSS OF THE GOODS OR ANY ASSOCIATED EQUIPMENT, COST OF CAPITAL, COST OF SUBSTITUTE OR REPLACEMENT EQUIPMENT, FACILITIES OR SERVICES, DOWN TIME, BUYER'S TIME, LOST DATA, INJURY TO PROPERTY OR ANY DAMAGES OR SUMS PAID BY BUYER TO THIRD PARTIES, EVEN IF SELLER OR ANY OF THE SELLER AFFILIATES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9999914765357971,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL SELLER OR ANY SELLER AFFILIATE BE LIABLE TO BUYER OR ANY OTHER PARTY FOR LOSS, DAMAGE, OR INJURY OF ANY KIND OR NATURE ARISING OUT OF OR IN CONNECTION WITH THESE TERMS AND CONDITIONS IN EXCESS OF THE NET PURCHASE PRICE OF THE GOODS ACTUALLY DELIVERED TO AND PAID FOR BY BUYER HEREUNDER",
+            "conf": 0.9790552258491516,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change, at any time, at our sole discretion, the Terms under which these Services are offered",
+            "conf": 0.999835729598999,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "You are responsible for regularly reviewing these Terms for changes",
+            "conf": 0.9844480752944946,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "(c) You agree to indemnify and hold Us and Our affiliated companies, and their directors, officers and employees, harmless for any and all claims or demands, including reasonable attorney fees, that arise from or otherwise relate to your use of the Site, any content you supply to the Blog, or your violation of these Terms or the rights of another",
+            "conf": 0.9999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that We will not be liable, under any circumstances and in any way, for any errors or omissions, loss or damage of any kind incurred as a result of use of any content posted on this site",
+            "conf": 0.9996153116226196,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "we shall not be responsible or liable for the accuracy or availability of any information appearing or available on the Site",
+            "conf": 0.9796173572540283,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We are not responsible or liable for such content and we make no express or implied warranty about the accuracy, copyright compliance, legality, merchantability, or any other aspect of the content of such postings",
+            "conf": 0.9976188540458679,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible or liable for any advertising, products, or other materials on or available from such websites or resources",
+            "conf": 0.9996486306190491,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If so, you are responsible for maintaining the strict confidentiality of your password, and you are responsible for any activity occurring through use of your account and password.",
+            "conf": 0.9995145201683044,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree to immediately notify us of any unauthorized use of your password or account or any other breach of security and ensure that you exit from your account at the end of each session",
+            "conf": 0.9841236472129822,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible or liable for any loss or damage arising from your failure to comply with this provision",
+            "conf": 0.9999982118606567,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We shall have the right in Our sole discretion to terminate your access to and use of the Services and/or remove any of your Content should We consider your statements or conduct to be inaccurate, illegal, obscene,",
+            "conf": 0.9186849594116211,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site",
+            "conf": 0.9965469241142273,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc",
+            "conf": 0.99870365858078,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site",
+            "conf": 0.9999915361404419,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, trade, or rent Users personal identification information to others",
+            "conf": 0.9999738931655884,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above",
+            "conf": 0.993000864982605,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys",
+            "conf": 0.9947344064712524,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site",
+            "conf": 0.999763011932373,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "In addition, these sites or services, including their content and links, may be constantly changing",
+            "conf": 0.9416068196296692,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies",
+            "conf": 0.9987803101539612,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet.",
+            "conf": 0.9788352251052856,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "DART uses \"non personally identifiable information\" and does NOT track personal information about you, such as your name, email address, physical address, etc",
+            "conf": 0.9155693054199219,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Blend Swap, LLC\u00a0has the discretion to update this privacy policy at any time",
+            "conf": 0.9954076409339905,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This document was last updated on December 07, 2011",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on April 24, 2015, @ 01:10 am (",
+            "conf": 0.9749407768249512,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.4
+}

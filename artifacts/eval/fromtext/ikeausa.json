@@ -1,0 +1,138 @@
+{
+    "predictions": [
+        {
+            "label": "2",
+            "text": "We may use automated technology such as cookies and other tracking software to collect personal information from your computer system or mobile device",
+            "conf": 0.9775066375732422,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "*We use this information on an anonymous basis and do not use it to identify any particular user",
+            "conf": 0.9542873501777649,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "We therefore do not respond to browser Do Not Track signals",
+            "conf": 0.9999344348907471,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell personal information to third parties",
+            "conf": 0.9999077916145325,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Your personal information may be stored and processed by our vendors and service providers in the United States or other locations where the service providers or IKEA have facilities.\u2022\tWe may share your financial information including your credit, debit card or other payment information with third parties to ensure that your payment is safe and that your details are not being used fraudulently",
+            "conf": 0.9933004379272461,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "use pixels and cookies in our work with customer database hosting providers, marketing agencies and advertising partners to place relevant content and advertisements for you on our own websites and apps, as well as other websites, online media channels and apps (",
+            "conf": 0.9204559922218323,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may share your personal information in the event we sell or transfer all or a portion of our business or assets\u2022\tWe may use your personal information with your consent or as otherwise permitted or required by law",
+            "conf": 0.9752868413925171,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also disclose non-private, deidentified, aggregate or otherwise non-personal information with third parties, including social media companies like Facebook and Twitter, and online advertising companies like Google, to deliver targeted advertising about other products and services for marketing purposes.",
+            "conf": 0.9848468899726868,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of receiving marketing messages by using the opt-out mechanisms and links provided in each message",
+            "conf": 0.999993085861206,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "IKEA does not knowingly collect or use any personal information from children younger than 13 on IKEA websites or mobile applications",
+            "conf": 0.9999551177024841,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly allow children to order our products, communicate with us, or use any of our online services",
+            "conf": 0.9999570250511169,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "By using our websites or mobile apps, you agree to the transfer of your information to the United States and processing globally",
+            "conf": 0.9781475067138672,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "IKEA does not share personal information about its consumers with any third parties outside the IKEA corporate family for their own marketing purposes",
+            "conf": 0.9990894198417664,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you no longer wish to receive our marketing materials, you can unsubscribe through your profile",
+            "conf": 0.9999942779541016,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can also click the unsubscribe link in our marketing emails",
+            "conf": 0.9999861121177673,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In general, we will only retain your personal information for as long as is necessary for the purposes described in this Privacy Policy",
+            "conf": 0.9995784759521484,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices used by third-party sites",
+            "conf": 0.9999815225601196,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update this Privacy Policy from time to time",
+            "conf": 0.9998419880867004,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we change this Privacy Policy in a material way, we will provide appropriate notice to you",
+            "conf": 0.9963632225990295,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 4.9
+}

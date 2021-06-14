@@ -1,0 +1,187 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "This statement was last updated on 05 June 2018",
+            "conf": 0.9999974370002747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "The ABC uses technologies like cookies, web beacons and local storage as part of its digital services.\u00a0 When you use our websites, mobile sites, mobile applications, or applications on any other devices such as Apple TV, Chromecast or PlayStation, these technologies may be used to make our digital services easier to use and more relevant including by customising your user experience.",
+            "conf": 0.9988495111465454,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A \u201cweb beacon",
+            "conf": 0.9163256883621216,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "is a small amount of code on a web page, application or in an email notification that allows the site to record simple actions of the user such as whether they have",
+            "conf": 0.950945258140564,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "This is information that is available to any web server you visit and these beacons represent a convenient method of gathering simple statistics and managing cookies.",
+            "conf": 0.993778645992279,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "The analytics systems used by the ABC are cookies, web beacons, local storage, and other technologies which are used to gather information regarding visitor activity on the ABC\u2019s digital services.",
+            "conf": 0.9961512684822083,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For instance, ABC uses Facebook and Google Analytics",
+            "conf": 0.9993855953216553,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "The ABC uses web beacons in combination with cookies to track activity.",
+            "conf": 0.969906210899353,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Turning off a browser\u2019s cookies will prevent web beacons from tracking your specific activity",
+            "conf": 0.9757487773895264,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "The web beacon will still record your visit anonymously, however your unique information will not be recorded",
+            "conf": 0.9730655550956726,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "If you turn off cookies then we will not be able to personalise or customise content for you, which will affect your user experience",
+            "conf": 0.9008505940437317,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Third party cookies, beacons, and other technologies",
+            "conf": 0.988486647605896,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "The ABC uses a number of suppliers who also set cookies, use beacons, or other technology, on our digital services on our behalf in order to deliver the services that they are providing.",
+            "conf": 0.9956081509590149,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We will always give you the option to opt out of further communications",
+            "conf": 0.9951095581054688,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "The ABC will not sell or receive payment for licensing or disclosing your personal information",
+            "conf": 0.9999650120735168,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "The ABC does not have any control over the privacy practices of those third parties",
+            "conf": 0.973701536655426,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "September 2018",
+            "conf": 0.9999800324440002,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Please check this page regularly so you are aware of any updates to the terms",
+            "conf": 0.9439723491668701,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all content you contribute to any ABC Online Services, including text, photos, videos, audio and links (Your Content).",
+            "conf": 0.9147390127182007,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The ABC may edit, remove or exercise its discretion not to publish your contribution for legal, editorial or operational reasons including if the ABC considers it to be:",
+            "conf": 0.9259007573127747,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "\u2019s parent or guardian",
+            "conf": 0.9069716930389404,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "The ABC is not responsible for the content, availability or performance of external sites linked to or hosting ABC Online Services",
+            "conf": 0.9318037629127502,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "ABC Online Services are provided on an \u201cas is\u201d and \u201cas available\u201d basis",
+            "conf": 0.999966025352478,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You understand and agree that you use ABC Online Services at your own discretion and risk and that you will be solely responsible for any damage or loss whatsoever that results from such use.",
+            "conf": 0.992154598236084,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The ABC disclaims to the fullest extent permitted by law all guarantees, warranties or representations of merchantability, acceptable quality and fitness for any purpose, security, reliability, accuracy, timeliness, and performance of ABC Online Services and any content contained therein",
+            "conf": 0.9999814629554749,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The ABC may suspend or block your account if you breach the Terms of Use",
+            "conf": 0.9484522938728333,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.1
+}

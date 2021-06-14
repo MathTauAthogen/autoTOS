@@ -1,0 +1,96 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Mai 2004",
+            "conf": 0.9999873638153076,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Wir haben Deine Daten noch nie an Dritte verkauft und werden dies auch niemals tun",
+            "conf": 0.9808470606803894,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Die vorliegende Datenschutzerkl\u00e4rung ist g\u00fcltig ab dem 16.05.2018",
+            "conf": 0.9999834895133972,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Die bis zum 15.05.2018 geltende",
+            "conf": 0.9517226815223694,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Durch die Nutzung unserer Services und / oder die Einrichtung eines Kontos nimmst Du die Bedingungen dieser Datenschutzerkl\u00e4rung an und erkl\u00e4rst Dich mit der Erhebung, Nutzung, Weitergabe, Speicherung und dem Schutz",
+            "conf": 0.9619348049163818,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "personenbezogenen Daten gem\u00e4\u00df der Beschreibung in dieser Datenschutzerkl\u00e4rung einverstanden",
+            "conf": 0.9271553754806519,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Wenn Du uns die f\u00fcr uns erforderlichen Daten nicht zur Verf\u00fcgung stellst, kann es m\u00f6glicherweise sein, dass wir Dir nicht alle unsere Services bereitstellen k\u00f6nnen",
+            "conf": 0.9853240251541138,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Nicht als personenbezogene Daten betrachten wir Daten, die anonymisiert oder aggregiert wurden, so dass sie in Kombination mit anderen Informationen oder auf andere Art und Weise nicht mehr zur Identifizierung einer bestimmten Person verwendet werden k\u00f6nnen",
+            "conf": 0.9652423858642578,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "speichern wir zus\u00e4tzlich zu den oben genannten Daten auch alle von Dir bei der Registrierung und anschlie\u00dfender Nutzung eingegebenen und bei der Zahlung anfallenden personenbezogenen Daten und solche, die zur Mitgliedschaft in",
+            "conf": 0.9333106875419617,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Sofern Du Deine Anmeldung nicht best\u00e4tigst, wird Deine Anmeldung mit allen von Dir angegebenen Daten nach 14 Tagen automatisch aus unserer Datenbank gel\u00f6scht",
+            "conf": 0.9560217261314392,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Falls andere Nutzer Deinen Namen in ihren Nachrichten, Kommentaren oder Forenbeitr\u00e4gen erw\u00e4hnen, wird diese Nennung nicht anonymisiert, da dies ja nicht Dein Beitrag ist",
+            "conf": 0.965237021446228,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Sobald die Verarbeitung der vorstehenden Daten zum Zwecke der Vertragserf\u00fcllung nicht mehr erforderlich sind, nehmen wir nach Ablauf von zwei Jahren eine Einschr\u00e4nkung der Verarbeitung vor, wodurch Deine Daten nur noch zur Einhaltung der gesetzlichen Verpflichtungen eingesetzt werden.",
+            "conf": 0.9668351411819458,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "die weitere Datenverarbeitung anpassen oder zwingende schutzw\u00fcrdige Gr\u00fcnde anf\u00fchren, weshalb wir Deine personenbezogenen Daten weiterverarbeiten",
+            "conf": 0.9768205881118774,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 9.7
+}

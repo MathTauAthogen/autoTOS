@@ -1,0 +1,348 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "This Privacy Policy was last modified on May 24, 2018",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This policy may change from time to time, with updates appearing on the Website and on the App",
+            "conf": 0.9990252256393433,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Your continued use of this Service after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates",
+            "conf": 0.9565151929855347,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Children Under the Age of 13 The Service is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13",
+            "conf": 0.9999923706054688,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We utilize Google Analytics in our data collection",
+            "conf": 0.9995160102844238,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pages of the Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Itch.io, for example, to count users who have visited those pages or opened an email and for other related Service statistics (for example, recording the popularity of certain app content and verifying system and server integrity).",
+            "conf": 0.9999998807907104,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When you use the Service or its content, certain third parties may use automatic information collection technologies to collect information about you",
+            "conf": 0.9839390516281128,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Analytics companies like Google Analytics",
+            "conf": 0.9923141598701477,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These third parties may use tracking technologies to collect information about you when you use this Service",
+            "conf": 0.9751360416412354,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not intend to sell or market your Personal Information, however, through providing the Service we may disclose aggregated information about our users in order to deliver the Service, including for the following:",
+            "conf": 0.9981423616409302,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Itch.io\u2019s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by Itch.io about our Service users is among the assets transferred",
+            "conf": 0.9898973107337952,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you do not want us to use your email address to promote our own or third parties\u2019 products or services, you can opt-out by de-selecting the option in \u201cEmail Notifications\u201d in your user account",
+            "conf": 0.9996834397315979,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can also always opt-out by logging into the Service and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes",
+            "conf": 0.9889585971832275,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "[We may reserve the right to send you emails about important or necessary changes to your account or service, for example, to inform you of payment issues or copyright claims about your content.]",
+            "conf": 0.9559324383735657,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may withdraw your consent at any time by contacting us at support@itch.io, or by using the unsubscribe link in any marketing communication you receive from us",
+            "conf": 0.9999198913574219,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Where you have chosen a password for access to certain parts of our Service, you are responsible for keeping this password confidential.",
+            "conf": 0.9944638609886169,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We ask you not to share your password with anyone",
+            "conf": 0.9862797856330872,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for circumvention of any privacy settings or security measures we provide",
+            "conf": 0.9999295473098755,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update our privacy policy from time to time",
+            "conf": 0.9928035736083984,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes to how we treat our users\u2019 Personal Information, we will post the new privacy policy on this page with a notice that the privacy policy has been updated and notify you by email specified in your account and an in-app alert the first time you use the Service after we make the change",
+            "conf": 0.979357898235321,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "The date the privacy policy was last revised is identified at the top of the page",
+            "conf": 0.9992284178733826,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You are responsible for ensuring we have an up-to-date active and deliverable email address for you and for periodically visiting this privacy policy to check for any changes",
+            "conf": 0.9084712862968445,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Updated June 8 2018:",
+            "conf": 0.9372394680976868,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "May 24th",
+            "conf": 0.9637150764465332,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated May 24 2018:",
+            "conf": 0.9999421834945679,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Users must be 13 or older",
+            "conf": 0.999967098236084,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Publishers must be at least 18 or have the legal right to enter into this agreement",
+            "conf": 0.9999755620956421,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Users affirm that they are over the age of 13, as the Service is not intended for children under 13",
+            "conf": 0.9999987483024597,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Publishers affirm that they are either more than 18 years of age, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations and warranties set forth in this Agreement",
+            "conf": 0.9962553977966309,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Publishers are solely responsible for the content they upload and distribute on",
+            "conf": 0.994933009147644,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "request to have your content deleted",
+            "conf": 0.903918445110321,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "clause (May 24, 2018), have a six month grace period (until November 24, 2018)",
+            "conf": 0.9983952641487122,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "COMPANY MAKES NO WARRANTIES OR",
+            "conf": 0.9999850988388062,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT",
+            "conf": 0.9999971389770508,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Summary Users can terminate their account at any time, but are not",
+            "conf": 0.9999745488166809,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Users may terminate their account at any time",
+            "conf": 0.99854576587677,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may cease to use your account, or if you so choose, may request that the Company terminate your access to your account",
+            "conf": 0.9314584136009216,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Publishers may terminate their account at any time",
+            "conf": 0.9591658711433411,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Summary No dispute related to these Terms of Service may be consolidated into a class action",
+            "conf": 0.9999269843101501,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND COMPANY AGREE NOT TO BRING OR PARTICIPATE IN A CLASS, COLLECTIVE, OR",
+            "conf": 0.9999971389770508,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "REPRESENTATIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION OR COLLECTIVE",
+            "conf": 0.9998391270637512,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You and Company also agree not to seek to combine any action with any other",
+            "conf": 0.9999939799308777,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "collective or representative action, private attorney general action or",
+            "conf": 0.9999508261680603,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree to pay for any of itch.io",
+            "conf": 0.9760406017303467,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "\u2019s damages and costs if your",
+            "conf": 0.992715060710907,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "hold harmless Company and its Affiliates, from and against all claims, damages,",
+            "conf": 0.9999890923500061,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of any term of this Agreement shall be deemed a further or",
+            "conf": 0.9997071027755737,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "assert any right or provision under this Agreement shall not constitute a",
+            "conf": 0.9921383261680603,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "amend these Terms of Service at any time and without notice, and it is your",
+            "conf": 0.9945233464241028,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.4
+}

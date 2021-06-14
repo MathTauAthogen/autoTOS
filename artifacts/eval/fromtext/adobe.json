@@ -1,0 +1,355 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated: December 1, 2019",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "Please note that in order to use our apps and websites, you authorize Adobe to transfer your personal information across national borders and to other countries where Adobe and its partners operate, including the United States",
+            "conf": 0.9995928406715393,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We will only transfer your personal information to these countries where permitted to do so by law and we will take steps intended to ensure that your personal information continues to receive appropriate protections",
+            "conf": 0.9744592308998108,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies and other technologies to track the use of our websites and apps",
+            "conf": 0.999769926071167,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We transfer your personal information to the US and other countries, which may be outside the country in which you live",
+            "conf": 0.9999738335609436,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Does Adobe transfer my personal information across national borders",
+            "conf": 0.9903523921966553,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you do not want us to collect this information, you can opt out of receiving Adobe marketing emails",
+            "conf": 0.9991049766540527,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If we merge with or are acquired by another company, sell an Adobe website, app, or business unit, or if all or a substantial portion of our assets are acquired by another company, your information will likely be disclosed to our advisers and any other prospective purchaser's advisers and will be one of the assets that is transferred to the new owner",
+            "conf": 0.9864054322242737,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Adobe may also share your personal information:",
+            "conf": 0.9738964438438416,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If we merge with or are acquired by another company, sell an Adobe website, app, or business unit, or if all or a substantial portion of our assets are acquired by another company, your information will likely be disclosed to our advisers and any prospective purchaser's advisers and will be one of the assets that is transferred to the new owner",
+            "conf": 0.985135555267334,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We may transfer your personal information across national borders to other countries in compliance with applicable laws",
+            "conf": 0.9999926090240479,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Adobe Ireland will transfer your personal information to some organizations and individuals which are located outside the European Economic Area (EEA) and Switzerland, namely the US, India, and to all other countries in the world where our apps, and other products or services are available",
+            "conf": 0.9998960494995117,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "to correct, delete or restrict (stop any active) processing of your personal information",
+            "conf": 0.9996673464775085,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Likewise, you can delete files or photos you have stored in our websites and apps by logging in and using the deletion functions that are available",
+            "conf": 0.9863229393959045,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You have an absolute right to opt-out of direct marketing, or profiling we carry out for direct marketing, at any time by:",
+            "conf": 0.9999810457229614,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "clicking the unsubscribe link at the bottom of our marketing emails",
+            "conf": 0.9956925511360168,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you close your account, we begin deleting certain personal information that we no longer have a business reason to retain, such as your hashed password and your tokenized payment account data",
+            "conf": 0.9976897835731506,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, we typically retain personal information related to our contract and business transactions with you for seven years after your last interaction with us",
+            "conf": 0.9969835877418518,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Where we process personal information for marketing purposes or with your consent, we process the information until you ask us to stop and for a short period after this (to allow us to implement your requests).",
+            "conf": 0.9657559394836426,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Under certain circumstances (for example with certain material changes) we will provide notice to you of these changes and, where required by applicable law, we will obtain your consent",
+            "conf": 0.9979411959648132,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Notice may be by email to you, by posting a notice of such changes on our apps and websites, or by other means consistent with applicable",
+            "conf": 0.9988834857940674,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Published March 16, 2020",
+            "conf": 0.9999950528144836,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of April 16, 2020",
+            "conf": 0.999982476234436,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "IF YOU DO NOT AGREE WITH THE MANDATORY ARBITRATION PROVISION AND CLASS ACTION WAIVER IN THE TERMS, PLEASE",
+            "conf": 0.9509410858154297,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You must be 13 or older to register for an individual Adobe ID",
+            "conf": 0.9999910593032837,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "c) you maintain sole access and control over all Content in your personal account or personal profile (except as otherwise indicated in the Privacy Policy",
+            "conf": 0.904071569442749,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We may make changes to the Terms from time to time, and if we do, we will notify you by revising the date at the top of the Terms and, in some cases, we may provide you with additional notice",
+            "conf": 0.9988323450088501,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "By using our apps and websites, you agree that you authorize Adobe to transfer your personal information across national borders and to other countries where Adobe and its partners operate",
+            "conf": 0.9873475432395935,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "At any time prior to or during the free or trial period, Adobe may, in its sole discretion, terminate the free or trial access without prior notice and without any liability to you, to the extent permitted under applicable law, for any reason, including to prevent abuse of the free or trial access",
+            "conf": 0.9998634457588196,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "During the free or trial period, no express or implied warranties shall apply to the Services and Software, all Services and Software are provided \u201cas-is\u201d with all defects, and no technical or other support is included",
+            "conf": 0.999998927116394,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": ") Upon any termination or closure of your account, we reserve the right to delete your Creative Cloud Customer Fonts",
+            "conf": 0.9819478392601013,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to remove Content or restrict access to Content, Services, and Software if any of your Content is found to be in violation of these Terms",
+            "conf": 0.9746663570404053,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all activity that occurs via your account even if that activity is not by you or is without your knowledge or consent.",
+            "conf": 0.9835444688796997,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you don't sign into your account periodically, we reserve the right to assume your account is inactive, and you agree that we may close it for you",
+            "conf": 0.9990551471710205,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for these fees",
+            "conf": 0.9997705221176147,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify us and our subsidiaries, affiliates, officers, agents, employees, partners, and licensors from any claim, demand, loss, or damage, including reasonable attorneys\u2019 fees, arising out of or related to your Content, Creative Cloud Customer Fonts, your use of the Services or Software (as applicable), or your violation of the Terms",
+            "conf": 0.9999963045120239,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "9.1 Unless stated in the Additional Terms, the Services and Software are provided \u201cAS-IS",
+            "conf": 0.9995165467262268,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "To the maximum extent permitted by law, we disclaim all warranties, express or implied, including the implied warranties of non-infringement, merchantability, and fitness for a particular purpose",
+            "conf": 0.9999833106994629,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We further disclaim any warranty that (A) the Services or Software will meet your requirements or will be constantly available, uninterrupted, timely, secure, or error-free",
+            "conf": 0.9999922513961792,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(B) the results obtained from the use of the Services or Software will be effective, accurate, or reliable",
+            "conf": 0.9999133944511414,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You may use and access the Services or Software at your own discretion and risk, and you are solely responsible for any damage to your computer system or loss of data that results from the use of and access to any Service or Software.",
+            "conf": 0.9974964261054993,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "9.3 If you post your Content on our servers to publicly Share through the Services, we are not responsible for: (A) any loss, corruption, or damage to your Content",
+            "conf": 0.9562460780143738,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "10.1 Unless stated in the Additional Terms, we are not liable to you or anyone else for any special, incidental, indirect, consequential, moral, exemplary or punitive damages whatsoever, regardless of cause, including losses and damages (A) resulting from loss of use, data, reputation, revenue, or profits.",
+            "conf": 0.9936914443969727,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may stop using the Services and Software at any time",
+            "conf": 0.9987062811851501,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Unless stated in any Additional Terms, we may, at any time, terminate or suspend your right to use and access the Services or Software if:",
+            "conf": 0.9998247623443604,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(F) we elect to discontinue the Services or Software, in whole or in part (such as if it becomes impractical for us to continue offering Services in your region due to change of law).",
+            "conf": 0.980614960193634,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "14.3 No Class Actions",
+            "conf": 0.9932022094726562,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You may only resolve disputes with us on an individual basis, and you may not bring a claim as a plaintiff or a class member in a class, consolidated, or representative action",
+            "conf": 0.9999958872795105,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may modify, update, or discontinue the Services or Software (including any portions or features) at any time, without liability to you or anyone else",
+            "conf": 0.9999951720237732,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to enforce or exercise any provision of the Terms is not a waiver of that provision",
+            "conf": 0.9999966025352478,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.9
+}

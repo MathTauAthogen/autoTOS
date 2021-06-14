@@ -1,0 +1,2644 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective date:&nbsp;Thursday, 21 March, 2019",
+            "conf": 0.9999774694442749,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices of others and we recommend you read their privacy notices",
+            "conf": 0.9998317360877991,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You have the right to withdraw your consent at any",
+            "conf": 0.9507130980491638,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We may use cookies, web beacons and other similar technologies including such technologies provided by third parties to: (i) operate and improve the Services (including the Websites) and related services, (ii) serve and measure the effectiveness of advertising campaigns, (iii) and analyze the Services traffic and trends, and (iv) the online behaviors and interests of users who interact with the Services.",
+            "conf": 0.999325156211853,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition, we may use elements provided by third-parties such as cookies, web beacons, SDKs, and other similar technologies that are placed by these third parties on our behalf to identify your device when you visit the Websites and use the Services, as well as when you visit other online sites and services.",
+            "conf": 0.9975836873054504,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of receiving text messages from us by clicking on the unsubscribe link which is part of the text messages you receive, or by sending us an email to: mobility_support@here.com",
+            "conf": 0.9999725818634033,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You will not be able to opt-out of receive such service messages",
+            "conf": 0.9999777674674988,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, this may involve us disclosing Personal Data to prospective or actual purchasers and their advisers, or receiving Personal Data from sellers and their advisers",
+            "conf": 0.9988455176353455,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, rent, or otherwise share your Personal Data with third parties, except as described in this Privacy Policy.&nbsp",
+            "conf": 0.9999889731407166,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Your Personal Data is retained as long as you keep your account active or as otherwise necessary for protecting our legal rights or complying with our legal obligations",
+            "conf": 0.9997816681861877,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your Personal Data related to your account for as long as your account is active, and to comply with our legal obligations, resolve disputes, and enforce the Terms",
+            "conf": 0.9992340207099915,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After you close your account, we may retain your data for up to thirty (30) calendar days to allow us a reasonable time to properly close your account (or, if longer retention of certain data is required under law, we will retain such data for such longer period of time).",
+            "conf": 0.9999997615814209,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After such period, we will move your data to a \u2018Legal Compliance Only\u2019 folder and will retain your data or any part thereof, solely as required or otherwise permitted under applicable law, whichever is shorter",
+            "conf": 0.9997156262397766,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once this period has expired, we will delete your data",
+            "conf": 0.9987747073173523,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Your information, including Personal Data might be transferred outside the country where you use the",
+            "conf": 0.9999905824661255,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Therefore, your Personal Data may be transferred across international borders outside the country where you use the Services or access our Website",
+            "conf": 0.9999274611473083,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "For European users, this means that data may be transferred to countries outside the European Economic Area (EEA) or Switzerland that have different legal rules on data protection, for example, the United States of America",
+            "conf": 0.9446752667427063,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "our use of your Personal Data",
+            "conf": 0.9122655987739563,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "- Right to deletion of your Personal Data",
+            "conf": 0.9548568725585938,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This",
+            "conf": 0.9027382135391235,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "you to ask us to delete or remove Personal Data in certain circumstances",
+            "conf": 0.9033307433128357,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "do not want us to erase it",
+            "conf": 0.9033156037330627,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may always be able to opt out of receiving marketing emails and/or text messages from us by clicking on the unsubscribe link which is part of the email and/or text messages you receive",
+            "conf": 0.9999926686286926,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We reserve the right to modify this Privacy Policy, and we will notify you and ask for your consent through the Services in case of modifications that materially change the treatment of Personal Data",
+            "conf": 0.9865081906318665,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "The date on which this Privacy Policy was last revised is identified at the top of the page",
+            "conf": 0.99979168176651,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "(updated) Effective date:&nbsp;Tuesday, 12 February, 2019",
+            "conf": 0.9996968507766724,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "HERE is not in control or responsible for the contents and features of third party services",
+            "conf": 0.9914020299911499,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "This information is sent to us when you use the Service, after which it is deleted from your device",
+            "conf": 0.99634850025177,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This information is sent to us when you use the Service, after which it is deleted from your device",
+            "conf": 0.99634850025177,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies, web beacons and other similar technologies for purposes such as: to operate and improve the Service, our websites related services, serve and measure the effectiveness of advertising campaigns, and analyze the Service traffic and trends, and the online behaviors and interests of users who interact with the Service.",
+            "conf": 0.9977465271949768,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may use elements provided by third-parties such as cookies, web beacons, SDKs, and other similar technologies that are placed by these third parties on our behalf to identify your device when you visit our websites and use the Service, as well as when you visit other online sites and services.",
+            "conf": 0.9944421052932739,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We endeavor to only collect personal data that are necessary for the purposes for which they are collected, and to retain such data for no longer than is necessary for such purposes",
+            "conf": 0.9997941255569458,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The length of time personal data is retained,",
+            "conf": 0.9192886352539062,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "the nature of the personal data",
+            "conf": 0.9333630204200745,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "These third-party platforms may use web technologies, such as cookies, to enable us to display promotional materials when you visit other websites, or other targeting and retargeting technologies, to enable us to display promotional materials when you visit other websites, applications or social networking platforms.",
+            "conf": 0.9344146847724915,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, rent, or otherwise share your personal data with third parties, except as described in this Privacy Supplement.&nbsp",
+            "conf": 0.9999974370002747,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "- Right to deletion of your personal data",
+            "conf": 0.9714380502700806,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This enables you to ask us to delete or remove personal data in certain circumstance Please note, however, that we may retain your data in certain circumstances in accordance with law, which will be notified to you, if&nbsp;applicable, at the time of your request.",
+            "conf": 0.9912694692611694,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "do not want us to erase it",
+            "conf": 0.9033156037330627,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may always be able to opt out of receiving push notifications from your device Setting",
+            "conf": 0.9998993873596191,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "The date on which this Privacy Supplement was last revised is identified at the top of the page",
+            "conf": 0.9999141693115234,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "&",
+            "conf": 0.9432423710823059,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective date:&nbsp;28/11/2017",
+            "conf": 0.999983549118042,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective date 28.11.2017",
+            "conf": 0.9999974966049194,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "This information is sent to us when you",
+            "conf": 0.9096835255622864,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ", after which it is deleted from your device",
+            "conf": 0.9791191816329956,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Privacy Policy for HERE Effective date:&nbsp;Friday, 25 May, 2018 1",
+            "conf": 0.973652720451355,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "HERE is not responsible for the privacy practices of others and we recommend you read their privacy notices",
+            "conf": 0.9962152242660522,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "HERE endeavors only to collect Personal Data that are necessary for the purpose(s) for which they are collected and to retain such data for no longer than necessary for such purpose(s",
+            "conf": 0.9980871677398682,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Whenever necessary and subject to statutory record-keeping requirements, HERE will delete and/or anonymize Personal Data that are no longer needed",
+            "conf": 0.9990581274032593,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "HERE will not sell, lease, rent or otherwise disclose your Personal Data except as provided in this section:",
+            "conf": 0.9984621405601501,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "HERE is a global company that has affiliates, business processes, management structures and technical systems that cross national borders",
+            "conf": 0.998436689376831,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Where HERE takes steps to sell, buy, merge or otherwise reorganize its businesses in certain countries, this may involve disclosing Personal Data to prospective or actual purchasers and their advisers",
+            "conf": 0.960067093372345,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "However, if this Policy is changed in a material, adverse way, HERE will post a notice advising of such change at the beginning of this Policy and on this site's home page for 30 days",
+            "conf": 0.9995330572128296,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Notice Effective date:&nbsp;08/04/2019 This",
+            "conf": 0.9628143310546875,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You have the right to withdraw your consent at any",
+            "conf": 0.9507130980491638,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We may use cookies, web beacons and other similar technologies including such technologies provided by third parties to: (i) operate and improve the Services (including the Websites) and related services, (ii) serve and measure the effectiveness of advertising campaigns, (iii) and analyze the Services traffic and trends, and (iv) the online behaviors and interests of users who interact with the Services.",
+            "conf": 0.999325156211853,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition, we may use elements provided by third-parties such as cookies, web beacons, SDKs, and other similar technologies that are placed by these third parties on our behalf to identify your device when you visit the Websites and use the Services, as well as when you visit other online sites and services.",
+            "conf": 0.9975836873054504,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You will not be able to opt-out of receive such service messages",
+            "conf": 0.9999777674674988,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You have the right to withdraw your consent at any",
+            "conf": 0.9507130980491638,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We may use cookies, web beacons and other similar technologies including such technologies provided by third parties to: (i) operate and improve the Services (including the Websites) and related services, (ii) serve and measure the effectiveness of advertising campaigns, (iii) and analyze the Services traffic and trends, and (iv) the online behaviors and interests of users who interact with the Services.",
+            "conf": 0.999325156211853,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition, we may use elements provided by third-parties such as cookies, web beacons, SDKs, and other similar technologies that are placed by these third parties on our behalf to identify your device when you visit the Websites and use the Services, as well as when you visit other online sites and services.",
+            "conf": 0.9975836873054504,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, this may involve us disclosing Personal Data to prospective or actual purchasers and their advisers, or receiving Personal Data from sellers and their advisers",
+            "conf": 0.9988455176353455,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, rent, or otherwise share your Personal Data with third parties, except as described in this Privacy Notice.&nbsp",
+            "conf": 0.9999961256980896,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, this may involve us disclosing Personal Data to prospective or actual purchasers and their advisers, or receiving Personal Data from sellers and their advisers",
+            "conf": 0.9988455176353455,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, rent, or otherwise share your Personal Data with third parties, except as described in this Privacy Policy.&nbsp",
+            "conf": 0.9999889731407166,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Your Personal Data is retained as long as you or the relevant Partner keep your account active, or as otherwise necessary for protecting our legal rights or complying with our legal obligations",
+            "conf": 0.9998102188110352,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your Personal Data related to your account for as long as your account is active, and to comply with our legal obligations, resolve disputes, and enforce the Terms",
+            "conf": 0.9992340207099915,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After you close your account or the relevant Partner closes your account, we may retain your data for up to thirty (30) calendar days to allow us a reasonable time to properly close your account (or, if longer retention of certain data is required under law, we will retain such data for such longer period of time).",
+            "conf": 0.9999995827674866,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After such period, we will move your data to a \u2018Legal Compliance Only\u2019 folder and will retain your data or any part thereof, solely as required or otherwise permitted under applicable law, whichever is shorter",
+            "conf": 0.9997156262397766,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once this period has expired, we will delete your data",
+            "conf": 0.9987747073173523,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Personal Data is retained as long as",
+            "conf": 0.9996720552444458,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once this period has expired, we will delete your data",
+            "conf": 0.9987747073173523,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Your information, including Personal Data might be transferred outside the country where you use the",
+            "conf": 0.9999905824661255,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Therefore, your Personal Data may be transferred across international borders outside the country where you use the Services",
+            "conf": 0.9907221794128418,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "For European users, this means that data may be transferred to countries outside the European Economic Area (EEA) or Switzerland that have different legal rules on data protection, for example, the United States of America",
+            "conf": 0.9446752667427063,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You may have certain rights with respect to your Personal Data, including without limitation, a right to access, correct, amend, and delete your Personal Data",
+            "conf": 0.9999708533287048,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "- Right to deletion of your Personal Data",
+            "conf": 0.9548568725585938,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This",
+            "conf": 0.9027382135391235,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "you to ask us to delete or remove Personal Data in certain circumstances",
+            "conf": 0.9033307433128357,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "do not want us to erase it",
+            "conf": 0.9033156037330627,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may always be able to opt out of receiving marketing emails from us by clicking on the unsubscribe link which is part of the email you receive",
+            "conf": 0.9999850988388062,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We reserve the right to modify this Privacy Notice, and we will notify you and ask for your consent through the Services in case of modifications that materially change the treatment of Personal Data",
+            "conf": 0.9939539432525635,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We may modify this Privacy Notice at any time, at our discretion, and modifications are effective upon being posted on any part of the Services, the next time you use the Services whether by pop-up notification or otherwise",
+            "conf": 0.9120924472808838,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "The date on which this Privacy Notice was last revised is identified at the top of the page",
+            "conf": 0.9998307824134827,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective date:&nbsp;25/05/2018",
+            "conf": 0.9999686479568481,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may revoke your consent by changing your settings at any time in Settings or About",
+            "conf": 0.9004098773002625,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We endeavor to only collect personal data that are necessary for the purposes for which they are collected, and to retain such data for no longer than is necessary for such purposes",
+            "conf": 0.9997941255569458,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The length of time personal data is retained,",
+            "conf": 0.9192886352539062,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "the nature of the personal data",
+            "conf": 0.9333630204200745,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You may delete a local profile, which will delete all locally stored information associated to your profile, such as recent destinations and recent searches",
+            "conf": 0.9947888255119324,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may also remove or terminate your InControl Navigation Account",
+            "conf": 0.9991468191146851,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you remove your InControl",
+            "conf": 0.9713547229766846,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Account from the vehicle, it remains active for your future use",
+            "conf": 0.9551486372947693,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You have a right to have incomplete, incorrect, unnecessary or outdated personal data deleted or updated",
+            "conf": 0.9999779462814331,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You have the right to request that your personal data be erased, and to obtain a copy of your data in a machine-readable format",
+            "conf": 0.9993939399719238,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective date:&nbsp;Friday, 25 May, 2018",
+            "conf": 0.9999865889549255,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Your rights: You have the ability to access, request for download and deletion of your personal information",
+            "conf": 0.9826255440711975,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This information is sent to us when you use the Service online, after which it is deleted from your device",
+            "conf": 0.9801270365715027,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This information is sent to us when you use the Service online, after which it is deleted from your device",
+            "conf": 0.9801270365715027,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may revoke your consent, at any time, by changing your settings in Settings or About",
+            "conf": 0.940123975276947,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We endeavor to only collect personal data that are necessary for the purposes for which they are collected, and to retain such data for no longer than is necessary for such purposes",
+            "conf": 0.9997941255569458,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The length of time personal data is retained,",
+            "conf": 0.9192886352539062,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "the nature of the personal data",
+            "conf": 0.9333630204200745,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may share your device specific advertising ID to advertising networks for provisioning of relevant advertisements",
+            "conf": 0.9497745633125305,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "have incomplete, incorrect, unnecessary or outdated personal data deleted or updated",
+            "conf": 0.9997378587722778,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "request that your personal data be erased, and to obtain a copy of your personal data in a machine-readable format",
+            "conf": 0.9950076937675476,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Use Effective date:&nbsp;Thursday, 21 March, 2019",
+            "conf": 0.9950529932975769,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Services are intended for use by users who are of the legal age required to form legally binding contracts under applicable law and in no event under the age of 18.By using the Services, you represent and warrant that you are 18 years of age or older and meet all of the foregoing eligibility requirements.If you are not 18 years of age or older and do not meet all of these requirements, you must not access or use any of the Services.If you are accessing or using the Services for the benefit of anyone (such as a passenger) who is under the age of 18 you hereby represent and warrant that you are the legal guardian of such person and/or otherwise have the full and unfettered authority to provide In no circumstances are the Services available to users who are under the age of 18, users who have had their User Account (as defined in Section 3 below) temporarily or permanently deactivated, or users who seek to use the Services in violation of this Agreement.",
+            "conf": 0.9959604144096375,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that : (a) the Company has no responsibility for the booking you choose, or control over the quality or safety of the Transport Provider Services that occur as a result of your use of the Services",
+            "conf": 0.9714204668998718,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Please note that the Company relies on third-party resources, including for example third party public transportation service providers, to obtain route, location and timetable information and is not responsible for the accuracy, reliability, completeness or error-free nature of this",
+            "conf": 0.9999129772186279,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality of your User Account",
+            "conf": 0.9947413802146912,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are also solely responsible for any and all activities that occur under your User Account.",
+            "conf": 0.975655734539032,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You agree to provide and maintain true, accurate, complete, and up-to-date information in your User Account",
+            "conf": 0.9991836547851562,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company will have the right, at all times, to: (i) reclaim, prohibit, suspend, limit or otherwise restrict you from accessing or using the Services, and (ii) remove any content from the Services, including without limitation, User Content, immediately and without notification to you, if we believe, at our sole discretion, that such content is infringing, offensive, harmful or inappropriate.&nbsp",
+            "conf": 0.999977707862854,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for these",
+            "conf": 0.9689874649047852,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may unsubscribe from text messages at any time by using the \u201cUnsubscribe\u201d link at the bottom of the text messages we send to you or by sending an email to: mobility_support@here.com",
+            "conf": 0.9999839067459106,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You will not be able to opt-out of receive such service messages",
+            "conf": 0.9999777674674988,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, at our discretion, to update, change, modify, add, or remove portions of this Agreement at any time in order to conform them to our business practices and applicable law",
+            "conf": 0.9998639225959778,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You assume sole responsibility for any User Data you share, and you alone are liable for the consequences when you post User Data or User Content (as defined below).",
+            "conf": 0.9999818801879883,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not warrant or guarantee that the Services and the Content will operate and/or be available at all times without disruption or interruption, or that it will be immune from unauthorized access error-free",
+            "conf": 0.9999986290931702,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right at our sole discretion to modify, correct, amend, enhance, improve, update, make any other changes to, discontinue, or suspend temporarily or permanently, the Services (or any part or feature thereof) without notice to you, at any time and at our sole discretion",
+            "conf": 0.9998862147331238,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "The Services may display, include, or make available third-party content (including data, information, applications, and other products, services, and/or materials) or provide links to third-party websites or services, including through third-party advertising (\u201cThird-Party Materials\u201d).",
+            "conf": 0.9953917264938354,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that the Company is not responsible for Third-Party Materials, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality, or any other aspect thereof",
+            "conf": 0.9997876286506653,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company does not assume and will not have any liability or responsibility to you or any other person or entity for any Third-Party Materials",
+            "conf": 0.9654837250709534,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "However, if you wish to delete all your Consumer User Account information, you must send us an email to: mobility_support@here.com with your request for deletion.",
+            "conf": 0.9568858742713928,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": ") You acknowledge and agree that access and use of the Services is at your own risk, and that by accessing and using the Services and the Content, you agree to accept such risks and agree that you shall have the sole responsibility for any and all obligations or liabilities that arise from your access and use of the Services",
+            "conf": 0.9985755085945129,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": ") You acknowledge and agree that if you have a dispute with one or more Partners, you hereby release Company and all its affiliated companies, officers, directors, agents, parents, subsidiaries, legal representatives and employees from any claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such dispute",
+            "conf": 0.9987874627113342,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "acknowledge and agree that the Company will have the right, at all times, whether with or without cause, and at the Company",
+            "conf": 0.9050031304359436,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "or",
+            "conf": 0.9008879065513611,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Services and the Content are provided to you \u201cas is\u201d and with all faults and defects without warranty of any kind",
+            "conf": 0.999887228012085,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Services will meet your requirements, achieve any intended results, be compatible, or work with any other software, applications, systems, or services, operate without interruption, meet any performance or reliability standards or be error-free, accurate, timely, truthful, complete or reliable, or that any errors or defects can or will be corrected",
+            "conf": 0.9999966025352478,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company is not responsible and may not be held liable in any way for the acts, activities, errors, omissions, behaviors, representations, warranties, breaches or negligence of any Partner (including without limitation, any Partner representative and/or drivers (if applicable) acting on their behalf or otherwise), including without limitation in connection with the quality or safety of the services provided by them, bodily injuries, death, property damage, or other damages or expenses resulting therefrom",
+            "conf": 0.9975306987762451,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "While Transport Providers provide you with their Transport Provider Services via the Services, it is your choice whether to use their services or not and we are not responsible for any Transport Provider Services that may be accessed via the Services",
+            "conf": 0.9779350757598877,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company will not be liable for any cancellation, overbooking, strike, force majeure or other causes beyond its direct control",
+            "conf": 0.9015148282051086,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Company does not accept responsibility for the uninterrupted accessibility to the Services and may carry out technical or maintenance work on the Services at any time of its choosing",
+            "conf": 0.9995782971382141,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend, and hold harmless the Company, its affiliates, and its and their respective directors, officers, employees, contractors, agents, representatives, successor and assigns from and against any and all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, damages, consequential damages, punitive damages, property damage, personal injury, theft or otherwise or expenses of whatever kind, including reasonable attorneys\u2019 fees, arising from or relating to: (a) your use or misuse of the Services and/or the Content",
+            "conf": 0.9999994039535522,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No failure to exercise, and no delay in exercising, on the part of either party, any right or any power hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right or power hereunder preclude further exercise of that or any other right hereunder",
+            "conf": 0.996934711933136,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "A person who is not a party to this Agreement shall have no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any of its terms",
+            "conf": 0.998440682888031,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Terms Effective date:&nbsp;Tuesday, 12 February, 2019 These",
+            "conf": 0.9844284653663635,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Service is intended for use by users who are of the legal age required to form legally binding contracts under applicable law.In no circumstances is the Service available to users who are under the age of 16, users who have had their HERE account temporarily or permanently deactivated, or users who seek to use the Service for anything other than strictly non-commercial purposes.",
+            "conf": 0.9954278469085693,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using the Service, you represent and warrant that you are 16 years of age or older and meet all of the foregoing eligibility requirements",
+            "conf": 0.9855363368988037,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are not 16 years of age and older and do not meet all of these requirements, you must not access or use any of the Service",
+            "conf": 0.9111912250518799,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Please note that HERE accounts of individuals under the age of 16 years will be cancelled and deleted by us upon receiving notice",
+            "conf": 0.9992265105247498,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are personally responsible for any use of the Service through your HERE account.",
+            "conf": 0.9774569272994995,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You agree to provide and maintain true, accurate, complete, and up-to-date information in your HERE account, and that the Company may rely on the information that is in your HERE account",
+            "conf": 0.9930018186569214,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to delete your HERE account, please follow the steps in Section 14 below",
+            "conf": 0.999949038028717,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "(ii) the accuracy, completeness, reliability or error-free of the",
+            "conf": 0.971309244632721,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Provider",
+            "conf": 0.9574794769287109,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u2019s details, descriptions or other content provided by it",
+            "conf": 0.9982962608337402,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Please note that the Company relies on third-party resources, including for example third party public transportation service providers, to obtain route, location and timetable information and is not responsible for the accuracy, reliability, completeness or error-free nature of this",
+            "conf": 0.9999129772186279,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Neither we nor our third-party service providers guarantee the accuracy or reliability of the location information provided through the Service",
+            "conf": 0.9999971389770508,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may unsubscribe from promotional e-mails at any time by using the \u201cUnsubscribe\u201d link at the bottom of text messages we send to you or email to: appsupport@here.com",
+            "conf": 0.9999898672103882,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, at our discretion, to update, change, modify, add, or remove portions of this Agreement at any time in order to conform them to our business practices",
+            "conf": 0.9998800754547119,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You assume sole responsibility for any User Data you share, and you alone are liable for the consequences when you post User Content (as defined below) or User Data.",
+            "conf": 0.9943462610244751,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "Information that we collect from you and your use of the Service or Content may be transferred to or stored in a different country than the country in which you are utilizing the Service, or where the Company is located, including a country with data privacy laws that may not be as protective as the laws in your country",
+            "conf": 0.999968409538269,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not warrant or guarantee that the Service and the Content will operate and/or be available at all times without disruption or interruption, or that it will be immune from unauthorized access error-free",
+            "conf": 0.9999986290931702,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "may vary and is subject to our sole discretion",
+            "conf": 0.910664439201355,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right at our sole discretion to modify, correct, amend, enhance, improve, make any other changes to, or discontinue, temporarily or permanently the Service (or any part or feature thereof) without notice, at any time and at its sole discretion",
+            "conf": 0.9999753832817078,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "The Service may display, include, or make available third-party content (including data, information, applications, and other products, services, and/or materials) or provide links to third-party websites or services, including through third-party advertising (\u201cThird-Party Materials\u201d).",
+            "conf": 0.9933744072914124,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that the Company is not responsible for Third-Party Materials, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality, or any other aspect thereof.&nbsp",
+            "conf": 0.9983101487159729,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company does not assume and will not have any liability or responsibility to you or any other person or entity for any Third-Party Materials",
+            "conf": 0.9654837250709534,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate this Agreement at any time by deleting the Service from your Device(s) and by ceasing your use of the Service",
+            "conf": 0.9934162497520447,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, if you wish to delete all the information that is associated with the Service, you must send us an email to appsupport@here.com with your request for deletion",
+            "conf": 0.9996974468231201,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Except as set forth in the Privacy Supplement, we are not responsible for any removal or loss of your User Data or User Content",
+            "conf": 0.9977329969406128,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "In addition to our right to terminate the Agreement, we reserve the right to, without limitation and at our sole discretion:",
+            "conf": 0.9203144907951355,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You are responsible for, and will indemnify and hold the Company, its affiliates, and its and their respective directors, officers, employees, contractors, agents, representatives, successor and assigns, harmless from and against any claims arising out of your responsibilities or failure to comply with this Agreement, or your failure to use the Service as intended",
+            "conf": 0.9999964237213135,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality of your HERE account.&nbsp",
+            "conf": 0.9982511401176453,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are also solely responsible for any and all activities that occur under your HERE account with the Service.&nbsp",
+            "conf": 0.9996446371078491,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You agree to only use the Service if you are of the legal age to them, or otherwise of the legal age of majority in the jurisdiction in which you access the Service",
+            "conf": 0.9999287724494934,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Service and the Content are provided to you \u201cas is\u201d and with all faults and defects without warranty of any kind",
+            "conf": 0.9998406171798706,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service and the Content, will meet your requirements, achieve any intended results, be compatible, or work with any other software, applications, systems, or services, operate without interruption, meet any performance or reliability standards or be error-free, or that any errors or defects can or will be corrected",
+            "conf": 0.9999976754188538,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible and may not be held liable for the actions or omissions of any third-party transportation services provider",
+            "conf": 0.9996707439422607,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "While these third-party transportation services providers provide you with their transportation services via the Service, it is your choice whether to use their services or not and we are not responsible for any transportation services that may be accessed via the Service",
+            "conf": 0.9868327379226685,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend, and hold harmless the Company, its affiliates, and its and their respective directors, officers, employees, contractors, agents, representatives, successor and assigns from and against any and all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, or expenses of whatever kind, including reasonable attorneys\u2019 fees, arising from or relating to: (a) your use or misuse of the Service and/or the Content",
+            "conf": 0.9999991059303284,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No failure to exercise, and no delay in exercising, on the part of either party, any right or any power hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right or power hereunder preclude further exercise of that or any other right hereunder",
+            "conf": 0.996934711933136,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "A person who is not a party to this Agreement shall have no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any of its terms",
+            "conf": 0.998440682888031,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Technologies Effective date:&nbsp;Tuesday, 11 April, 2017",
+            "conf": 0.9907044172286987,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective date:&nbsp;Sunday, 1 January, 2017",
+            "conf": 0.9999809861183167,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Teach your children that when they post anything online, it remains there for a long time Even if your child deletes information from a website, copies or older versions may exist on other people\u2019s computers and be recirculated online \u2013 for an indefinite period",
+            "conf": 0.9897447228431702,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "them",
+            "conf": 0.9062297344207764,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective date:&nbsp;Monday, 4 June, 2018",
+            "conf": 0.9999890923500061,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Imprint/Impressum Effective date:&nbsp;01/01/2017",
+            "conf": 0.9625056385993958,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective date:&nbsp;08/04/2019 These",
+            "conf": 0.962981104850769,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Services are intended for use by users who are of the legal age required to form legally binding contracts under applicable law and in no event under the age of 18.By using the Services, you represent and warrant that you are 18 years of age or older and meet all of the foregoing eligibility requirements.If you are not 18 years of age or older and do not meet all of these requirements, you must not access or use any of the Services.If you are accessing or using the Services for the benefit of anyone (such as a passenger) who is under the age of 18 you hereby represent and warrant that you are the legal guardian of such person and/or otherwise have the full and unfettered authority to provide In no circumstances are the Services available to users who are under the age of 18, users who have had their User Account (as defined in Section 3 below) temporarily or permanently deactivated, or users who seek to use the Services in violation of this Agreement.",
+            "conf": 0.9959604144096375,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality of your User Account",
+            "conf": 0.9947413802146912,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are also solely responsible for any and all activities that occur under your User Account.",
+            "conf": 0.975655734539032,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You agree to provide and maintain true, accurate, complete, and up-to-date information in your User Account",
+            "conf": 0.9991836547851562,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company will have the right, at all times, to: (i) reclaim, prohibit, suspend, limit or otherwise restrict you from accessing or using the Services, and (ii) remove any content from the Services, including without limitation, User Content, immediately and without notification to you, if we believe, at our sole discretion, that such content is infringing, offensive, harmful or inappropriate.&nbsp",
+            "conf": 0.999977707862854,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You will not be able to opt-out of receive such service messages",
+            "conf": 0.9999777674674988,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "When you register or sign up to our blog or newsletter, you agree that we may provide notices and messages to you about the Services by email to the email address you provided us with",
+            "conf": 0.9884052276611328,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may unsubscribe from these emails at any time by clicking on the \u201cUnsubscribe\u201d link which is part of the email you receive",
+            "conf": 0.9999817609786987,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, at our discretion, to update, change, modify, add, or remove portions of this Agreement at any time in order to conform them to our business practices and applicable law",
+            "conf": 0.9998639225959778,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You assume sole responsibility for your User Data, and you alone are liable for the consequences when you provide us with User Data or User Content (as defined below).",
+            "conf": 0.9999448657035828,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not warrant or guarantee that the Services and the Content will operate and/or be available at all times without disruption or interruption, or that it will be immune from unauthorized access error-free",
+            "conf": 0.9999986290931702,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right at our sole discretion to modify, correct, amend, enhance, improve, update, make any other changes to, discontinue, or suspend temporarily or permanently the Services (or any part or feature thereof) without notice to you, at any time and at our sole discretion",
+            "conf": 0.9999134540557861,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "The Services may display, include, or make available third-party content (including data, information, applications, and other products, services, and/or materials) or provide links to third-party websites or services, including through third-party advertising (\u201cThird-Party Materials\u201d).",
+            "conf": 0.9953917264938354,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that the Company is not responsible for Third-Party Materials, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality, or any other aspect thereof",
+            "conf": 0.9997876286506653,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company does not assume and will not have any liability or responsibility to you or any other person or entity for any Third-Party Materials",
+            "conf": 0.9654837250709534,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "and (ii) terminate this Agreement and have all your User Data deleted, you must send us an email to: mobility_support@here.com with your request for deletion.",
+            "conf": 0.9627360105514526,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": ") You acknowledge and agree that access and use of the Services is at your own risk, and that by accessing and using the Services and the Content, you agree to accept such risks and agree that you shall have the sole responsibility for any and all obligations or liabilities that arise from your access and use of the Services",
+            "conf": 0.9974300861358643,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Services and the Content are provided to you \u201cas is\u201d and with all faults and defects without warranty of any kind",
+            "conf": 0.999887228012085,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Services will meet your requirements, achieve any intended results, be compatible, or work with any other software, applications, systems, or services, operate without interruption, meet any performance or reliability standards or be error-free, accurate, timely, truthful, complete or reliable, or that any errors or defects can or will be corrected",
+            "conf": 0.9999966025352478,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company is not responsible and may not be held liable for the acts, activities, errors, omissions, behaviors, representations, warranties, breaches or negligence of any Partner (including without limitation, any Partner User), including without limitation in connection with the quality or safety of the services provided by them, bodily injuries, death, property damage, or other damages or expenses resulting therefrom",
+            "conf": 0.9982849955558777,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If you have a dispute with a Partner, you hereby release Company and all its affiliated companies, officers, directors, agents, parents, subsidiaries, legal representatives and employees from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such dispute",
+            "conf": 0.9972131848335266,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Company will not be liable for any cancellation, overbooking, strike, force majeure or other causes beyond its direct control",
+            "conf": 0.9015148282051086,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Company does not accept responsibility for the uninterrupted accessibility to the Services and may carry out technical or maintenance work on the Services at any time of its choosing",
+            "conf": 0.9995782971382141,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend, and hold harmless the Company, its affiliates, and its and their respective directors, officers, employees, contractors, agents, representatives, successor and assigns from and against any and all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, damages, consequential damages, punitive damages, property damage, personal injury, theft or otherwise or expenses of whatever kind, including reasonable attorneys\u2019 fees, arising from or relating to: (a) your use or misuse of the Services and/or the Content",
+            "conf": 0.9999994039535522,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No failure to exercise, and no delay in exercising, on the part of either party, any right or any power hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right or power hereunder preclude further exercise of that or any other right hereunder",
+            "conf": 0.996934711933136,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "A person who is not a party to this Agreement shall have no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any of its terms",
+            "conf": 0.998440682888031,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective date:&nbsp;Tuesday, 7 May, 2019",
+            "conf": 0.9987456202507019,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The City and County of San Francisco does not guarantee the accuracy, adequacy, completeness or usefulness of any information",
+            "conf": 0.9999912977218628,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The City and County of San Francisco provides this information \"as is,\" without warranty of any kind, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose, and assumes no responsibility for anyone's use of the information",
+            "conf": 0.9999999403953552,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The City and County of San Francisco does not guarantee the accuracy, adequacy, completeness or usefulness of any information",
+            "conf": 0.9999912977218628,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The City and County of San Francisco provides this information \"as is,\" without warranty of any kind, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose, and assumes no responsibility for anyone's use of the information",
+            "conf": 0.9999943375587463,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Indiana Department of Transportation (INDOT) Provides these geographic data \"as is\" and the user accepts the data \"as is\", and assumes all risks associated with its use",
+            "conf": 0.9995724558830261,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INDOT makes no guarantee or warranty concerning the accuracy of information contained in the geographic data",
+            "conf": 0.9999356865882874,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event shall EOT or its employees, officers, or agents be liable for any damages, claim or loss incurred by HERE (including without limitation, compensatory, incidental, indirect, special, consequential, or exemplary damages, lost profits, lost sales or business, expenditures, investments or commitments in connection with any business, or loss of goodwill) resulting from loss of the Data or inability to use the Data irrespective of whether EOT had been informed of, knew of, or should have known of the likelihood of such damages, claim, or loss.",
+            "conf": 0.9983735680580139,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "make no representation as to the accuracy or usefulness of the information provided by this application or the information's suitability for any purpose and disclaim any liability for omissions or errors that may be contained therein",
+            "conf": 0.9149367213249207,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last date Updated: 11/21/2016",
+            "conf": 0.9999988079071045,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Those relying on information presented by ODOT do so at their own risk, and the State of Oregon and ODOT providing the data, and any of their officers, employees or agents shall be held harmless and released from liability for the accuracy or completeness of this information and from any actions taken based on the information",
+            "conf": 0.9923903942108154,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "All information is provided \"as is\" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement",
+            "conf": 0.9999874830245972,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PAAC does not guarantee the accuracy, adequacy, completeness, or usefulness of any information",
+            "conf": 0.9999874234199524,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PAAC provides this information \"as is\" without warranty of any kind, express or implied, including, but not limited to, warranties of merchantability or fitness for a particular purpose and assumes no responsibility for anyone's use of the information",
+            "conf": 0.9999917149543762,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Data provided by the Fort Worth Transportation Authority (The T) is not warranted by The T for accuracy or completeness and data is subject to change without notice",
+            "conf": 0.9877223372459412,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The County makes no warranty, expressed or implied, concerning the data",
+            "conf": 0.9999915957450867,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u2019s content, accuracy, currency or completeness, or concerning the results to be obtained from queries or use of the data",
+            "conf": 0.9999892711639404,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ALL DATA IS EXPRESSLY PROVIDED AS IS AND WITH ALL FAULTS",
+            "conf": 0.9999043345451355,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The County makes no warranty of fitness for a particular purpose, and no representation as to the quality of any data",
+            "conf": 0.9166160821914673,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "MCTS DATA IS PROVIDED \"AS IS\", \"WHERE IS\", AND \"AS AVAILABLE\".&nbsp",
+            "conf": 0.9998772144317627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "MTS MAKES NO OTHER REPRESENATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.&nbsp",
+            "conf": 0.9438459873199463,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Third Party Data is licensed on an as is basis",
+            "conf": 0.9999479651451111,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The licensors of such data, including Her Majesty, Canada Post and NRCan, make no guarantees, representations or warranties respecting such data, either express or implied, arising by law or otherwise, including but not limited to, effectiveness, completeness, accuracy or fitness for a particular purpose",
+            "conf": 0.9985367655754089,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Such data is licensed on an as is basis",
+            "conf": 0.9997773766517639,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The licensors, including Her Majesty, Canada Post and NRCan, make no guarantees, representations or warranties respecting such data, either express or implied, arising by law or otherwise, including but not limited to, effectiveness, completeness, accuracy or fitness for a particular purpose",
+            "conf": 0.997793436050415,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The licensors, including Her Majesty, Canada Post and NRCan, shall not be liable in any way for loss of revenues or contracts, or any other consequential loss of any kind resulting from any defect in the data or the Data",
+            "conf": 0.9970069527626038,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "End User shall indemnify and save harmless the licensors, including Her Majesty, Canada Post and NRCan, and their officers, employees and agents from and against any claim, demand or action, irrespective of the nature of the cause of the claim, demand or action, alleging loss, costs, expenses, damages or injuries (including injuries resulting in death) arising out of the use or possession of the data or the Data",
+            "conf": 0.9999998807907104,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Metrolinx makes no representations or warranties of any kind, express or implied, and assumes no responsibility for the accuracy or currency of the data used in this product or service",
+            "conf": 0.999976634979248,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TransLink assumes no responsibility for the accuracy or currency of the Data used in this product or service",
+            "conf": 0.9604302644729614,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last update: 2017-02-16).",
+            "conf": 0.9459483623504639,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "\u00a9 \u00d6sterreichisches Adressregister, data of the record date 02.10.2016",
+            "conf": 0.9994857311248779,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "retrieved by HERE 06/2018",
+            "conf": 0.9998853206634521,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "on 21st February 2017",
+            "conf": 0.994153618812561,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "02/2017",
+            "conf": 0.9816670417785645,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Retrieved by HERE 12/2016",
+            "conf": 0.9999968409538269,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "\", last updated 24th February, 2017",
+            "conf": 0.9990571737289429,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "service 21.09.2016",
+            "conf": 0.9719887375831604,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "provided 16/6/2015",
+            "conf": 0.9406240582466125,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "), [14.5.2013",
+            "conf": 0.9932881593704224,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "September 2018",
+            "conf": 0.9999278783798218,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "(February 2018",
+            "conf": 0.9365891814231873,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Source",
+            "conf": 0.9618344306945801,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", donn\u00e9 es 05/04/2016",
+            "conf": 0.9999731779098511,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Quimper Communaut\u00e9 (May 2017).",
+            "conf": 0.9810110330581665,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "SDIS 29 (Service D\u00e9partemental d\u2019Incendie et de Secours du Finist\u00e8re, May 2017).",
+            "conf": 0.9531955122947693,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "June 2017 ).",
+            "conf": 0.9999523162841797,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "car18, last updated on 7th September, 2016).",
+            "conf": 0.9691525101661682,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", last updated on 26th August, 2016",
+            "conf": 0.9999551773071289,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "updated on 15th September, 2016",
+            "conf": 0.9999977350234985,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", last updated on 27th September, 2016).",
+            "conf": 0.974887490272522,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "updated in January, 2018",
+            "conf": 0.9874477386474609,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "All information supplied without guarantee",
+            "conf": 0.9703095555305481,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Access addresses: Registers Iceland, January.26.2015",
+            "conf": 0.999984085559845,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The National Transport Authority assumes no responsibility for the accuracy or completeness of the data used in this product or service",
+            "conf": 0.9990634918212891,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "] 25 agosto 2016",
+            "conf": 0.999348521232605,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "della",
+            "conf": 0.9910591244697571,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "updated by licensee July 1, 2013",
+            "conf": 0.9598425626754761,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Comune di Cesena (updated by licensee July 1, 2013).",
+            "conf": 0.9996815323829651,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "updated by licensee January 1, 2014",
+            "conf": 0.9916401505470276,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Comune di Matera (updated by licensee January 1, 2014).",
+            "conf": 0.9996572136878967,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Comune",
+            "conf": 0.9537504315376282,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", updated by licensee January 1, 2014",
+            "conf": 0.9999485611915588,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", updated by licensee in June 2017",
+            "conf": 0.9740079045295715,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", updated by licensee in September 2017",
+            "conf": 0.9786315560340881,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "-07-01",
+            "conf": 0.9168704748153687,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "updated by licensee in September 2017",
+            "conf": 0.9404240250587463,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "updated by licensee in August 2017",
+            "conf": 0.9329341053962708,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "(updated by licensee December 1,",
+            "conf": 0.9991861581802368,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Regione Sardegna (updated by licensee May 1, 2014",
+            "conf": 0.9998940229415894,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Regione Umbria (updated by licensee September 1, 2013).",
+            "conf": 0.9998220801353455,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", March 26th 2019",
+            "conf": 0.999743640422821,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "CSIOZ makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site",
+            "conf": 0.9999931454658508,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Contains content received by CNC/July 14, 2017",
+            "conf": 0.9999752044677734,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Contains content received by CNC/September 3, 2018",
+            "conf": 0.9999852180480957,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", March 2019",
+            "conf": 0.9071888327598572,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Origen de los datos: Agencia Estatal del Bolet\u00edn Oficial del Estado (https://boe.es/diario_boe/, 30th December 2016).",
+            "conf": 0.9939396977424622,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Ayuntamiento de Las Palmas de Gran Canaria (January 27, 2016).",
+            "conf": 0.965141773223877,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Junta de Castilla y Le\u00f3n (February, 2016)",
+            "conf": 0.9565520882606506,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Retrieved by HERE 05/2013",
+            "conf": 0.9999950528144836,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", last updated 20/11/2015",
+            "conf": 0.9999858140945435,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", last updated 01/04/2015",
+            "conf": 0.9999974966049194,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", last updated 12/11/2015",
+            "conf": 0.9997559785842896,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "updated 4/2013",
+            "conf": 0.9333933591842651,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "last updated December, 2018",
+            "conf": 0.9997826814651489,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", last updated 31st December 2015",
+            "conf": 0.9999845623970032,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "last updated August 2016",
+            "conf": 0.9996961355209351,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "thetrainline.com assumes no responsibility for the accuracy or completeness of the data used in this product or service",
+            "conf": 0.9992347359657288,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "right 2010, 2015",
+            "conf": 0.9505600929260254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "HERE may update such list from time to time",
+            "conf": 0.9992843866348267,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": ", May 30th 2018",
+            "conf": 0.9976190328598022,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "sourced on [09/16/2016]",
+            "conf": 0.984903872013092,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "[06/19/2017],&nbsp",
+            "conf": 0.9731808304786682,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "INCREMENT P CORPORATION SHALL MAKE NO WARRANTIES WITH RESPECT TO INFORMATION IN THE MAP DATA, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF ACCURACY, INTEGRITY, FITNESS FOR ANY PARTICULAR PURPOSE, NORMAL OPERATION OR FUNCTIONALITY ON ANY DEVICES",
+            "conf": 0.9724806547164917,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL INCREMENT P CORPORATION BE LIABLE FOR ANY DAMAGES ARISING IN USING THE MAP DATA, NO MATTER WHAT THE REASON",
+            "conf": 0.9634137749671936,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "approval date April 27, 2011",
+            "conf": 0.9540400505065918,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "approval date September 9, 2011",
+            "conf": 0.9850396513938904,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "date March 9, 2007",
+            "conf": 0.9136859774589539,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "approval date January 16, 2008",
+            "conf": 0.9634677171707153,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "approval date March 8, 2007",
+            "conf": 0.9328308701515198,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "date December 5,",
+            "conf": 0.9235836267471313,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "approval date November 24, 2006,",
+            "conf": 0.909967839717865,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "approval date May 31, 2006",
+            "conf": 0.9528560638427734,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "i) HERE Data delivered to customer or end-users outside of the Republic of Korea (South Korea) is not authorized to be distributed in the Republic of Korea (South Korea), and (ii) HERE Data delivered to customer or end-user inside of the Republic of Korea (South Korea) must not be exported or in any way transferred outside of the Republic of Korea (South Korea",
+            "conf": 0.9750916957855225,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "HERE may update such list from time to time",
+            "conf": 0.9992843866348267,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The City of Cape Town makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site",
+            "conf": 0.999956488609314,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "HERE may update such list from time to time",
+            "conf": 0.9992843866348267,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "- Date: 5 de Agosto de 2014",
+            "conf": 0.999995231628418,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Autorizacion N\u00b0 IGM-2011-01- PCO-01 Del 25 De Enero DE 2011",
+            "conf": 0.9926750063896179,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "September 20, 2017",
+            "conf": 0.9999927878379822,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "HERE may update such list from time to time",
+            "conf": 0.9992843866348267,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "No responsibility is assumed by the provider or its supplier for the use of the information by the user",
+            "conf": 0.9072689414024353,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "End User License Agreement Effective date:&nbsp;08/03/2016",
+            "conf": 0.9846940636634827,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "No&nbsp;Warranty THE DATA IS PROVIDED TO YOU \"AS IS\", AND YOU AGREE TO USE IT AT YOUR OWN RISK",
+            "conf": 0.9600837826728821,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "HERE AND/OR YOUR SUPPLIER (AND THEIR RESPECTIVE LICENSORS AND SUPPLIERS) MAKE NO GUARANTEES, REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARISING BY LAW OR OTHERWISE, INCLUDING BUT NOT LIMITED TO, CONTENT, QUALITY, ACCURACY, COMPLETENESS, EFFECTIVENESS, RELIABILITY, FITNESS FOR A PARTICULAR PURPOSE, USEFULNESS, USE OR RESULTS TO BE OBTAINED FROM THE DATA, OR THAT THE DATA OR USE THEREOF WILL BE UNINTERRUPTED OR ERROR FREE",
+            "conf": 0.9999934434890747,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE EXTENT PERMITTED BY LOCAL LAW, HERE AND/OR YOUR SUPPLIER (INCLUDING THEIR RESPECTIVE LICENSORS AND SUPPLIERS) SHALL NOT BE LIABLE TO YOU IN RESPECT OF ANY CLAIM, DEMAND OR ACTION, IRRESPECTIVE OF THE NATURE OF THE CAUSE OF THE CLAIM, DEMAND OR ACTION ALLEGING ANY LOSS, INJURY OR DAMAGES, DIRECT OR INDIRECT, WHICH MAY RESULT FROM USE OR POSSESSION OF THE DATA",
+            "conf": 0.9797711968421936,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "OR FOR ANY LOSS OF PROFIT, REVENUE, DATA, CONTRACTS OR SAVINGS, OR ANY OTHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF YOUR USE OF OR INABILITY TO USE THE DATA, ANY DEFECT IN THE DATA, OR THE BREACH OF THESE TERMS OR CONDITIONS, WHETHER IN AN ACTION IN CONTRACT OR TORT OR BASED ON A WARRANTY, EVEN IF HERE AND/OR YOUR SUPPLIER OR THEIR RESPECTIVE LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES",
+            "conf": 0.993870198726654,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "\u00a9 1987-2016 HERE",
+            "conf": 0.9653624296188354,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "HERE Cookie Policy Effective date:&nbsp;25/05/2018",
+            "conf": 0.9569266438484192,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "The browser can be used to manage cookies relating to basic functions, site improvement, personalisation and advertising",
+            "conf": 0.9942895174026489,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "HERE uses third party vendor managed advertising cookies to promote its products in both HERE and non-HERE web sites",
+            "conf": 0.9999221563339233,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "You may be able to opt-out from certain third party managed advertising cookies through third party cookie management sites, such as DoubleClick, Google Analytics, 24/7 Real Media, Network Advertising Initiative, Adobe solutions and Adobe Flash",
+            "conf": 0.9993294477462769,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "HERE may from time to time change this Policy",
+            "conf": 0.9925916790962219,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "However, if this Policy is changed in a material, adverse way, HERE will post a notice advising of such change at the beginning of this Policy and on this site's home page",
+            "conf": 0.9862847924232483,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Service Terms Effective date:&nbsp;04/12/2015 1",
+            "conf": 0.9999886751174927,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Eligibility To use the Service, you must be at least thirteen (13) years of age",
+            "conf": 0.9999740719795227,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under thirteen (13) years of age, or at least thirteen (13) years of age but a minor where you live, you must have your parent or legal guardian accept your registration on your behalf and approve your use of the Service",
+            "conf": 0.9999995231628418,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate your registration if you no longer wish to use the Service",
+            "conf": 0.9985746741294861,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": ", HERE is not responsible for any removal or loss of the information or",
+            "conf": 0.9005681872367859,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "HERE is only transmitting the Material and is not responsible for editorial control over it",
+            "conf": 0.9646424055099487,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If the Service is discontinued or canceled, HERE may permanently delete your data",
+            "conf": 0.9651018381118774,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "HERE assumes no responsibility for the payment of any charges of your service providers",
+            "conf": 0.9484785199165344,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The availability of",
+            "conf": 0.9151825904846191,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "and the Service may vary and is subject to HERE",
+            "conf": 0.9474305510520935,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u2019s sole discretion",
+            "conf": 0.9736669063568115,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "HERE may, in its sole discretion, change, correct or discontinue the Service in whole or in part",
+            "conf": 0.9999974966049194,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Service may not be available during maintenance breaks and other times",
+            "conf": 0.9474058151245117,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "HERE may disable any Content or Software contained in your Service account for any reason and remove any Content or Software and/or disable copies of any application on your device in order to protect the Service, application providers, wireless carriers",
+            "conf": 0.9429487586021423,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "HERE may significantly change any version of Service or Software or decide not to release a final version",
+            "conf": 0.9538226127624512,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "HERE has no control over the third party content, sites or services and assumes no responsibility for services provided or material created or published on these third-party sites or services.",
+            "conf": 0.9883045554161072,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Service is provided on \u201cAS IS\u201d and \u201cAS AVAILABLE\u201d basis",
+            "conf": 0.9993860125541687,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "HERE does not warrant that the Service will be uninterrupted or error or virus-free",
+            "conf": 0.9999931454658508,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "No warranty of any kind, either express or implied, including but not limited to warranties of title, non-infringement, merchantability, or fitness for a particular purpose, is made in relation to the availability, accuracy, reliability, information or content of the Service",
+            "conf": 0.9999969005584717,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Except for liability for death or personal injury caused by its gross negligence or intentional misconduct, HERE is not liable for any direct damages caused by your use or inability to use the Service",
+            "conf": 0.9998088479042053,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "In no case will HERE be liable for any indirect, incidental, punitive or consequential damages resulting from your use or inability to use the Service",
+            "conf": 0.9798987507820129,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Indemnification You agree to defend and indemnify HERE from and against all third party claims and all liabilities, assessments, losses, costs or damages resulting from or arising out of (i) your breach of the Terms, (ii) your infringement or violation of any intellectual property rights, other rights or privacy of a third party, or (iii) misuse of the Service by a third party where the misuse was made possible by your failure to take reasonable measures to protect your username and password against misuse",
+            "conf": 0.9998676180839539,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "20.3 Changes in Terms HERE may modify the Terms at any time without prior notice",
+            "conf": 0.9999591708183289,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If the Terms are changed in a material, adverse way, HERE will provide a separate notice advising of the change",
+            "conf": 0.9964540600776672,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Intent Effective date:&nbsp;01/01/2017",
+            "conf": 0.9969246983528137,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Privacy Policy Effective date:&nbsp;25/05/2018",
+            "conf": 0.9844951629638672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Our products may operate on multiple device platforms, applications and services which may also collect your",
+            "conf": 0.9295884370803833,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use your personal data to personalize our offering and to provide you with more relevant services, for example, to make recommendations and to display customized content and advertising in our services",
+            "conf": 0.9869815111160278,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We endeavor to only collect personal data that are necessary for the purposes for which they are collected, and to retain such data for no longer than is necessary for such purposes",
+            "conf": 0.9997941255569458,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The length of time personal data is retained,",
+            "conf": 0.9192886352539062,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "the nature of the personal data",
+            "conf": 0.9333630204200745,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, lease, rent or otherwise disclose your personal data to third parties unless otherwise stated below",
+            "conf": 0.9999752044677734,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Our products and services may be provided using resources and servers located in various countries around the world",
+            "conf": 0.9999633431434631,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Therefore your personal data may be transferred across international borders outside the country where you use our services, including to countries outside the European Economic Area (EEA) that do not have laws providing specific protection for personal data or that have different legal rules on data protection, for example, the United States of America",
+            "conf": 0.9999836087226868,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, this may involve us disclosing personal data to prospective or actual purchasers and their advisers, or receiving personal data from sellers and their advisers",
+            "conf": 0.9990686774253845,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We take reasonable steps to keep the personal data we possess accurate and to delete incorrect or unnecessary personal data",
+            "conf": 0.9175082445144653,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "HERE uses cookies, web beacons and other similar technologies to operate and improve our websites and offerings.",
+            "conf": 0.9825188517570496,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use cookies for personalization and to display ads",
+            "conf": 0.99289870262146,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Some HERE websites use third party advertising technologies, such as DoubleClick, to serve ads",
+            "conf": 0.9998447299003601,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You have the right to request that your personal data be erased, and to obtain a copy of your data in a machine-readable format",
+            "conf": 0.9993939399719238,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You have a right to unsubscribe from direct marketing messages and to request that we stop processing your personal data for direct marketing purposes or on other compelling legal grounds",
+            "conf": 0.9999244213104248,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "However, if you opt-out from marketing and other communications from HERE, critical alerts may still be sent to you",
+            "conf": 0.9999918937683105,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some cases, especially if you wish us to delete or stop processing your personal data, this may also mean that we may not be able to continue to provide the services to you",
+            "conf": 0.9828810095787048,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "However, if this Policy is changed in a material, adverse way, HERE will post a notice advising of such change at the beginning of this Policy and on this site's home page for 30 days",
+            "conf": 0.9995330572128296,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 4.3
+}

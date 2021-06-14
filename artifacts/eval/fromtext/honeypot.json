@@ -1,0 +1,313 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "With his/her account registration or participation in the Service, Talent represents that he/she is of legal age and of legal capacity",
+            "conf": 0.9479168653488159,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "The Talent shall not transmit any personal data of third parties (i.e.",
+            "conf": 0.9993528127670288,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Honeypot does not assume any guarantees in a legal meaning as long as not expressly provided for in these Terms of Service",
+            "conf": 0.9519402980804443,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Honeypot shall be unrestrictedly liable for losses caused intentionally or with gross negligence by Honeypot, its legal representatives or senior executives and for losses caused intentionally by other assistants in performance",
+            "conf": 0.9548517465591431,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Honeypot undertakes to assure an availability of the Service of 99% (ninety nine percent) as a yearly average",
+            "conf": 0.9966432452201843,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Talent hereby agrees to indemnify, defend and hold harmless Honeypot and their its subsidiaries, directors, officers, employees, owners and agents against any and all claims, actions, demands, liabilities, losses, damages, judgments, settlements, costs, and expenses (including reasonable attorneys' fees and costs) based on (i) any failure or breach of the Agreement and the Terms of Service, including any representation, warranty, covenant, restriction or obligation made by Talent herein, (ii) any misuse by Talent",
+            "conf": 0.9999985694885254,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Each party has the right to terminate the agreement by giving an advance notice of five business days unless otherwise agreed in writing",
+            "conf": 0.9478989243507385,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "The parties remain free to terminate the Agreement for cause at any time",
+            "conf": 0.9405096769332886,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Honeypot may make changes to these Terms of Service (including amendments) at any given time, for the future, if this should prove necessary (in particular to reflect changes in the Service or changes in the legal framework applicable to it, such as new legislation or case-law) and provided the Talent is not disadvantaged contrary to good faith",
+            "conf": 0.9952822923660278,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "The Talent will be notified of changes to the Terms of Service in appropriate form",
+            "conf": 0.9831432104110718,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "The Talent may dispute changes to the Agreement within a time period of six weeks following receipt of the notification of the changes and the possibility of taking notice thereof",
+            "conf": 0.9712535738945007,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "All or any of Honeypot\u2019s rights and obligations under the Agreement may be assigned to a subsequent owner or operator of the Service in a merger, acquisition or sale of all or substantially all of Honeypot\u2019s assets",
+            "conf": 0.9817256927490234,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "In addition, Honeypot is entitled to delete the breaching contents of the Company",
+            "conf": 0.9736887812614441,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "The Company shall not transmit any personal data (i.e.",
+            "conf": 0.9985175132751465,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Honeypot does not assume any guarantees in a legal meaning as long as not expressively provided for in these Terms of Service",
+            "conf": 0.985079288482666,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Honeypot shall be unrestrictedly liable for losses caused intentionally or with gross negligence by Honeypot, its legal representatives or senior executives and for losses caused intentionally by other assistants in performance",
+            "conf": 0.9548517465591431,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Honeypot undertakes to assure an availability of the Service of 99% (ninety nine percent) as a yearly average",
+            "conf": 0.9966432452201843,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Company hereby agrees to indemnify, defend and hold harmless Honeypot and its subsidiaries, directors, officers, employees, owners and agents against any and all claims, actions, demands, liabilities, losses, damages, judgments, settlements, costs, and expenses (including reasonable attorneys' fees and costs) based on (i) any failure or breach of the Agreement and the Terms of Service, including any representation, warranty, covenant, restriction or obligation made by Company herein, (ii) any misuse by Company, or by a party under the reasonable control of Company",
+            "conf": 0.999998927116394,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Each party has the right to terminate the agreement by giving an advance notice of 7 days unless otherwise agreed in writing",
+            "conf": 0.9226602911949158,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "The parties remain free to terminate the Agreement for cause at any time",
+            "conf": 0.9405096769332886,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "The other Party is the subject of a bankruptcy order or becomes insolvent or makes any arrangement or composition with or assignment for the benefit of its creditors or if any of the other Party\u2019s assets are the subject of any form of seizure, or the other Party goes into liquidation either voluntary (otherwise than for reconstruction or amalgamation) or compulsory that is not dismissed within ninety (90) days, or a receiver or administrator is appointed over the other\u2019s assets",
+            "conf": 0.9965786337852478,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "The Company is obliged to process personal data submitted in accordance with all applicable European and German data protection regulations and to delete personal data as soon as the data is no longer necessary for the respective purpose or legal deletion periods have expired.",
+            "conf": 0.9862404465675354,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Honeypot may make changes to these Terms of Service (including amendments) at any given time, for the future, if this should prove necessary (in particular to reflect changes in the Service or changes in the legal framework applicable to it, such as new legislation or case-law) and provided the Company is not disadvantaged contrary to good faith.",
+            "conf": 0.9886427521705627,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "The Company will be notified of changes to the Terms of Service in appropriate form",
+            "conf": 0.9994615912437439,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "The Company may dispute changes to the Agreement within a time period of two weeks following receipt of the notification of the changes and the possibility of taking notice thereof",
+            "conf": 0.9992952942848206,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "All or any of Honeypot\u2019s rights and obligations under the Agreement may be assigned to a subsequent owner or operator of the Service in a merger, acquisition or sale of all or substantially all of Honeypot\u2019s assets",
+            "conf": 0.9817256927490234,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This Agreement was last revised on 24th May 2018",
+            "conf": 0.9999980926513672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We will delete your personal data as soon as the data is no longer necessary for the respective purpose",
+            "conf": 0.9999832510948181,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The IP address is stored for the period of use only and will be deleted or anonymized afterwards immediately",
+            "conf": 0.9992493391036987,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The specified data and your entire user account can always be deleted in the customer area",
+            "conf": 0.9996932744979858,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We do not assume liability for misused passwords unless we are responsible for the abuse",
+            "conf": 0.9999780654907227,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "In contrast, persistent cookies are automatically deleted after a specified period of time",
+            "conf": 0.9992139935493469,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "These cookies can be deleted at any time in the security settings of your browser",
+            "conf": 0.9807919263839722,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Honeypot uses Google Analytics, a web analytics service provided by Google Inc.",
+            "conf": 0.9996452927589417,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google Analytics uses so-called \"cookies\", text files that are saved on your computer and that allow an analysis of your use of our website.",
+            "conf": 0.960438072681427,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "The information generated by the cookie about your use of our website is usually transmitted to and stored on a Google server in the USA",
+            "conf": 0.9978363513946533,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "is immediately excluded and the personal data is deleted immediately",
+            "conf": 0.9041045308113098,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use Google Analytics to analyze and regularly improve the use of our website",
+            "conf": 0.9999555349349976,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Honeypot does not collect and process any personal data in the aforementioned advertising measures",
+            "conf": 0.9726364612579346,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In addition, we have no information on the deletion of the data collected by the plug-in provider",
+            "conf": 0.9972337484359741,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Honeypot will delete the relevant data after the storage is no longer required or restrict the processing if statutory retention periods exist",
+            "conf": 0.9999414086341858,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You have the right of access, rectification or erasure, restriction of processing, to object and to data portability with respect to your personal data",
+            "conf": 0.9997747540473938,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "that the deletion of data is only possible if there are no precluding legal regulations",
+            "conf": 0.9768115282058716,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Honeypot reserves the right to amend this Privacy Policy at any time, but Honeypot will always observe the applicable statutes concerning data protection",
+            "conf": 0.9644936323165894,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 4.9
+}

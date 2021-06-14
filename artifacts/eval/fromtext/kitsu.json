@@ -1,0 +1,187 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Version 1.0, December 1, 2016",
+            "conf": 0.9999959468841553,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Kitsu reserves the right to change or modify these Terms of Use from time to time",
+            "conf": 0.9998610019683838,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to the Terms of Use will be in writing and you will be notified of any material changes",
+            "conf": 0.9997618794441223,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "You are advised to check the Terms of Use periodically for updates",
+            "conf": 0.9654562473297119,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "WILL BE RESOLVED BY MANDATORY, BINDING ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION",
+            "conf": 0.9999881386756897,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Kitsu reserves the right to refuse access to the Kitsu Services to anyone for any reason at any time",
+            "conf": 0.9988425374031067,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "1.2 Not Intended for Children Age of 13 or Under",
+            "conf": 0.9958343505859375,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Content made available through Kitsu Services may not always be age appropriate for children",
+            "conf": 0.927567720413208,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE KITSU SERVICES, INCLUDING, WITHOUT LIMITATION, SOFTWARE AND KITSU CONTENT, IS PROVIDED ON AN \"AS IS\", \"AS AVAILABLE\" AND \"WITH ALL FAULTS\" BASIS",
+            "conf": 0.9999836683273315,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMISSIBLE BY LAW, NEITHER KITSU NOR ITS EMPLOYEES, MANAGERS, OFFICERS, AGENTS, LICENSORS, OR SUPPLIERS (COLLECTIVELY, THE \"KITSU PARTIES\") MAKE ANY REPRESENTATIONS OR WARRANTIES OR ENDORSEMENTS OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED, AS TO: (A) ANY SOFTWARE USED IN KITSU SERVICES",
+            "conf": 0.9943179488182068,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE KITSU PARTIES DO NOT REPRESENT OR WARRANT THAT THE KITSU SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED",
+            "conf": 0.9999929666519165,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE KITSU PARTIES DO NOT MAKE ANY REPRESENTATIONS OR WARRANTIES THAT THE INFORMATION (INCLUDING ANY INSTRUCTIONS) ON THE KITSU SERVICES IS TRUE, VALID, ACCURATE, COMPLETE, OR USEFUL",
+            "conf": 0.999962329864502,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ", AND THE KITSU PARTIES SPECIFICALLY DISCLAIM SUCH WARRANTIES",
+            "conf": 0.9245120286941528,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL KITSU BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE KITSU SERVICES OR WITH THE DELAY OR INABILITY TO USE THE KITSU SERVICES, EVEN IF KITSU HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.",
+            "conf": 0.999502420425415,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Kitsu is entitled to, and will, assume that any person using the Kitsu Services under your User Identity is you and will hold you liable and responsible for all actions, statements, and/or purchases made under your User Identity",
+            "conf": 0.998171329498291,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to refuse or reject any username for any reason and/or force forfeiture of any username at any time for any reason",
+            "conf": 0.9995005130767822,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Kitsu is not responsible for, and does not endorse, User Content posted within the Kitsu Services",
+            "conf": 0.9434065818786621,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Kitsu does not have any obligation to prescreen, monitor, edit, or remove any User Content, however Kitsu may, but has no obligation to, remove, edit, block, and/or monitor User Content or User accounts containing User Content that Kitsu determines in its sole discretion violates these Terms of Use",
+            "conf": 0.9999761581420898,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Kitsu is not responsible or liable for the conduct of any User",
+            "conf": 0.9959218502044678,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for circumvention of any privacy settings or security measures we provide",
+            "conf": 0.9886806011199951,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Moreover, you agree to indemnify and hold Kitsu harmless from and against any and all claims, demands, damages, losses, liabilities and causes of action of any kind or character, made by you or any third party against Kitsu, arising out of or relating to Kitsu\u2019s exercise of such rights to User Content, your publication or transmittal of any materials, or your failure to comply or your alleged failure to comply with these Terms of Use",
+            "conf": 0.9999947547912598,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "In addition to any other rights of the parties set forth herein, either you or Kitsu may cancel or terminate this Agreement at any time for any, or no reason",
+            "conf": 0.9996300935745239,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You (and also any third party for whom you operate an account or activity on the Kitsu Services) hereby agree to indemnify, defend and hold harmless Kitsu and its affiliates from and against any and all liability and costs incurred by Kitsu or the affiliates in connection with any claim arising out of (i) any breach or alleged breach of any of your obligations set forth herein",
+            "conf": 0.9999942779541016,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Kitsu reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you shall not in any event settle any matter without the written consent of Kitsu",
+            "conf": 0.9775682091712952,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Neither you nor Kitsu will participate in a class action or class-wide arbitration for any claims covered by this Agreement",
+            "conf": 0.9999968409538269,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the prohibition against class actions and other claims brought on behalf of third parties contained above is found to be unenforceable, then all of the preceding language in this Arbitration section will be null and void",
+            "conf": 0.9999735951423645,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 0.3
+}

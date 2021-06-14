@@ -1,0 +1,488 @@
+{
+    "predictions": [
+        {
+            "label": "5",
+            "text": "A Do Not Track (DNT) standard has not been adopted to this day, and therefore LinkedIn doesn't use DNT signals.",
+            "conf": 0.9818650484085083,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "With regard to DNT, LinkedIn currently doesn't respond to DNT signals in browsers because no DNT standard has been adopted, as noted above.",
+            "conf": 0.9800679683685303,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Does LinkedIn share members' personally identifiable information with third parties (like advertisers and ad networks)?",
+            "conf": 0.9915358424186707,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: 9 months agoWas",
+            "conf": 0.9999632835388184,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective on May 8, 2018",
+            "conf": 0.9999964237213135,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Cookies also enable you to easily share content on LinkedIn and help us serve relevant ads to you.When does LinkedIn place cookies?We use cookies on our sites (such as linkedin.com and slideshare.net) and mobile applications.",
+            "conf": 0.9470438361167908,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "may use cookies to show you relevant advertising both on and off the LinkedIn site",
+            "conf": 0.9979972839355469,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Similarly, our partners may use a cookie to determine whether we\u2019ve shown an ad and how it performed, or provide us with information about how you interact with ads",
+            "conf": 0.9742863774299622,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "As such, LinkedIn does not generally respond to \u201cdo not track\u201d signals",
+            "conf": 0.9944305419921875,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": ".How are cookies used for advertising purposes?Cookies and other ad technology such as beacons, pixels, and tags help us serve relevant ads to you more effectively",
+            "conf": 0.9879791736602783,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Please note that the names of cookies, pixels and other technologies may change over time",
+            "conf": 0.9241977334022522,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "if you don\u2019t want cookies to be set or want them to be removed?If you are a Visitor, you can opt-out of our advertising cookies here",
+            "conf": 0.9803911447525024,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "LinkedIn Corporation \u00a9 2019",
+            "conf": 0.9625616073608398,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective on May 8, 2018",
+            "conf": 0.9999964237213135,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "wish to",
+            "conf": 0.9335176944732666,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": ", at any time",
+            "conf": 0.9556612968444824,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "can do so by closing",
+            "conf": 0.9707063436508179,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may modify this Contract, our Privacy Policy and our Cookies Policies from time to time",
+            "conf": 0.994635283946991,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes to it, we will provide you notice through our Services, or by other means, to provide you the opportunity to review the changes before they become effective",
+            "conf": 0.9949226379394531,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Your continued use of our Services after we publish or send a notice about our changes to these terms means that you are consenting to the updated terms.2",
+            "conf": 0.9707097411155701,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "and you are at least our \u201cMinimum Age",
+            "conf": 0.9147433042526245,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Services are not for use by anyone under the age of 16",
+            "conf": 0.999990701675415,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "To use the Services, you agree that: (1) you must be the \u201cMinimum Age\u201cMembers who were below this new Minimum Age when they started using the Services under a previous User Agreement which had allowed certain persons under 16 to use the Services, may continue to use the Services.",
+            "conf": 0.99553382396698,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "As of June 2017 persons under the age of 16 are not eligible to use our Services",
+            "conf": 0.9999805688858032,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "\u201d\u201d (described below) or older",
+            "conf": 0.9999926686286926,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Creating an account with false information is a violation of our terms, including accounts registered on behalf of others or persons under the age of 16",
+            "conf": 0.9930075407028198,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "means 16 years old",
+            "conf": 0.921011745929718,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "However, if law requires that you must be older in order for LinkedIn to lawfully provide the Services to you without parental consent (including using of your personal data) then the Minimum Age is such older age.2.2",
+            "conf": 0.9929520487785339,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for anything that happens through your account unless you close it or report misuse.",
+            "conf": 0.9893944263458252,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We don't guarantee refunds",
+            "conf": 0.9975104331970215,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We are not obligated to publish any information or content on our Service and can remove it in our sole discretion, with or without notice.3",
+            "conf": 0.9999471306800842,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Service AvailabilityWe may change, suspend or end any Service, or change and modify prices prospectively in our discretion",
+            "conf": 0.9517235159873962,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may change or discontinue any of our Services",
+            "conf": 0.9999889135360718,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "AppsYour use of others\u2019 content and information posted on our Services, is at your own risk",
+            "conf": 0.9592073559761047,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Others may offer their own products and services through our Services, and we aren\u2019t responsible for those third-party activities",
+            "conf": 0.99388587474823,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we are not responsible for others\u2019 (including other Members\u2019) content or information.",
+            "conf": 0.9830356240272522,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We cannot always prevent this misuse of our Services, and you agree that we are not responsible for any such misuse",
+            "conf": 0.9309970736503601,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Except to the limited extent it may be required by applicable law, LinkedIn is not responsible for these other sites and apps \u2013 use these at your own risk",
+            "conf": 0.9898306727409363,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "(B) DO NOT GUARANTEE THAT THE SERVICES WILL FUNCTION WITHOUT INTERRUPTION OR ERRORS, AND (C) PROVIDE THE SERVICE (INCLUDING CONTENT AND INFORMATION) ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9999736547470093,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE EXTENT PERMITTED UNDER LAW (AND UNLESS LINKEDIN HAS ENTERED INTO A SEPARATE WRITTEN AGREEMENT THAT OVERRIDES THIS CONTRACT), LINKEDIN AND ITS AFFILIATES (AND THOSE THAT LINKEDIN WORKS WITH TO PROVIDE THE SERVICES) SHALL NOT BE LIABLE TO YOU OR OTHERS FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, OPPORTUNITIES, REPUTATION, PROFITS OR REVENUES, RELATED TO THE SERVICES (",
+            "conf": 0.9982591271400452,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Both you and LinkedIn may terminate this Contract at any time with notice to the other",
+            "conf": 0.9042081832885742,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If we don't act to enforce a breach of this Contract, that does not mean that LinkedIn has waived its right to enforce this Contract",
+            "conf": 0.9999732375144958,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective May 8, 2018",
+            "conf": 0.9999967813491821,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "LinkedIn (\u201cwe\u201d or \u201cus\u201d) can modify this Privacy Policy, and if we make material changes to it, we will provide notice through our Services, or by other means, to provide you the opportunity to review the changes before they become effective",
+            "conf": 0.999949038028717,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We use log-ins, cookies, device information and internet protocol (\u201cIP\u201d) addresses to identify you and log your use.1.4 Cookies, Web Beacons and Other Similar TechnologiesWe collect data through cookies and similar technologies.",
+            "conf": 0.998378574848175,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "the use of cookies and similar technologies., we use cookies and similar technologies (e.g., web beacons, pixels, ad tags and device identifiers) to recognize you and/or your device(s) on, off and across different Services and devices",
+            "conf": 0.9964737296104431,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "also use automatic scanning technology on messages.1.7",
+            "conf": 0.9430851340293884,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Please be aware that you cannot opt-out of receiving service messages from us, including security and legal notices",
+            "conf": 0.9999892115592957,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We offer you choices regarding personalized ads, but you cannot opt-out of seeing other ads",
+            "conf": 0.9975595474243164,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Data from advertising technologies on and off our Services, like web beacons, pixels, ad tags, cookies, and device identifiers;",
+            "conf": 0.9999787211418152,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "This does not opt you out of receiving advertising",
+            "conf": 0.9856588840484619,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can also opt-out specifically from our uses of certain categories of data to show you more relevant ads",
+            "conf": 0.9996803998947144,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "do not share your personal data with any third-party advertisers or ad networks for their advertising except for: (i) hashed or device identifiers (to the extent they are personal data in some countries).",
+            "conf": 0.9471510648727417,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Advertising partners can associate personal data collected by the advertiser directly from you with our cookies and similar technologies",
+            "conf": 0.9239632487297058,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of survey invitations.2.7",
+            "conf": 0.9790503978729248,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "For example, SlideShare will recommend better content to you based on your LinkedIn profile or the articles you read on the LinkedIn Services, and we can personalize your feed or job recommendations based on your learning video history, because we are able to identify you across different Services using cookies or similar technologies.3.5",
+            "conf": 0.9694269299507141,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We can also share your personal data as part of a sale, merger or change in control, or in preparation for any of these events",
+            "conf": 0.9726182222366333,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "In some cases we choose to retain certain information (e.g., visits to sites carrying our \u201cshare",
+            "conf": 0.9357491135597229,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "without clicking on the plugin) in a depersonalized or aggregated form.4.2",
+            "conf": 0.9702028036117554,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "deleting or correcting data you include in your profile and controlling the visibility of your posts to",
+            "conf": 0.9115864634513855,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Delete Data: You can ask us to erase or delete all or some of your personal data (e.g., if it is no longer necessary to provide Services to you).",
+            "conf": 0.9999982714653015,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can edit some of your personal data through your account",
+            "conf": 0.9274955987930298,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).",
+            "conf": 0.9916393756866455,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you choose to close your Linkedin (or SlideShare) account, your personal data will generally stop being visible to others on our Services within 24 hours",
+            "conf": 0.9959577322006226,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, enforce our User Agreement, or fulfill your request to \u201cunsubscribe\u201d from further messages from us",
+            "conf": 0.9983742237091064,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain de-personalized information after your account has been closed",
+            "conf": 0.9993249177932739,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We process data both inside and outside of the United States and rely on legally-provided mechanisms to lawfully transfer data across borders",
+            "conf": 0.9996392130851746,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Where we rely on your consent to process personal data, you have the right to withdraw or decline your consent at any time and where we rely on legitimate interests, you have the right to object",
+            "conf": 0.9990156292915344,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We currently do not share personal data with third parties for their direct marketing purposes without your permission",
+            "conf": 0.9986647367477417,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 3.9
+}

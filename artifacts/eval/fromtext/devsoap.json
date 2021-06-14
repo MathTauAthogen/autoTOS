@@ -1,0 +1,75 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We will not use or share your information with anyone except as described in this Privacy Policy",
+            "conf": 0.9986316561698914,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not believe in tracking users in this way.3rd party Service ProvidersThis site does not use any third party providers and does not share your Personal Information with anyone else",
+            "conf": 0.9731479287147522,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security",
+            "conf": 0.9966622591018677,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services",
+            "conf": 0.9999716281890869,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Our Services do not address anyone under the age of 13",
+            "conf": 0.9998196959495544,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal identifiable information from children under 13",
+            "conf": 0.999589204788208,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "may update our Privacy Policy from time to time",
+            "conf": 0.9610558748245239,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you of any changes by posting the new Privacy Policy on this page",
+            "conf": 0.9995153546333313,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "These",
+            "conf": 0.913275420665741,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "are effective immediately, after they are posted on this page",
+            "conf": 0.9836447238922119,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 6.2
+}

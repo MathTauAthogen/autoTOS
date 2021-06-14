@@ -1,0 +1,89 @@
+{
+    "predictions": [
+        {
+            "label": "7",
+            "text": "Also, note that the terms and conditions of this Agreement may change from time to time and it is Your responsibility to check for such updates on this Site",
+            "conf": 0.9998287558555603,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Independent third parties, other than drmcdougall.com, have developed, maintain and operate these other sites and drmcdougall.com does not assume responsibility for the accuracy, completeness, appropriateness or timeliness of any statements, data, information, opinions, or advice contained at such sites",
+            "conf": 0.9667726159095764,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In providing links to other sites, drmcdougall.com is in no way acting as a publisher or disseminator of the material contained on those other sites and does not monitor, or maintain any type of control, editorial or otherwise, over such sites",
+            "conf": 0.9579393863677979,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "To participate on this website, user should be at least 13 years of age",
+            "conf": 0.9999927282333374,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "By using drmcdougall.com, You agree to post information that is true and correct to the best of Your knowledge and is of Your personal experience",
+            "conf": 0.973491907119751,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THIS SITE AND ALL INFORMATION AND OTHER MATERIALS MADE AVAILABLE ON OR THROUGH THIS SITE ARE PROVIDED \u201cAS IS\u201d WITHOUT REPRESENTATIONS, WARRANTIES, CONDITIONS AND INDEMNITIES OF ANY KIND, EITHER EXPRESS OR IMPLIED",
+            "conf": 0.9998911023139954,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DRMCDOUGALL.COM DISCLAIMS ALL REPRESENTATIONS, WARRANTIES AND CONDITIONS, EXPRESSED OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PURPOSE, UNINTERRUPTED OR ERROR-FREE OPERATION, TITLE, NON-INFRINGEMENT OR OTHER VIOLATION OF RIGHTS, OR THOSE ARISING OUT OF A COURSE OF",
+            "conf": 0.9506141543388367,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "HOWEVER, DRMCDOUGALL.COM DOES NOT PROVIDE ANY REPRESENTATIONS, WARRANTIES, CONDITIONS OR INDEMNITIES REGARDING THE USE, VALIDITY, ACCURACY, COMPLETENESS, TIMELINESS, AVAILABILITY OR RELIABILITY OF, OR ANY RESULTS OF THE USE OF, OR OTHERWISE RESPECTING, THE SITE OR ANY INFORMATION OR OTHER MATERIALS MADE AVAILABLE ON OR THROUGH THIS SITE OR ANY SITES LINKED TO OR FROM THE SITE",
+            "conf": 0.9999035000801086,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DRMCDOUGALL.COM ASSUMES NO OBLIGATION TO UPDATE THE SITE OR ADVISE OF ANY FURTHER DEVELOPMENTS",
+            "conf": 0.9935923218727112,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INFORMATION AND THIRD PARTY INFORMATION WHETHER CONTAINED ON OR LINKED FROM THE SITE MAY CONTAIN TYPOGRAPHICAL ERRORS AND MAY BE SUBJECT TO CHANGE WITHOUT NOTICE",
+            "conf": 0.9379732012748718,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES SHALL DRMCDOUGALL.COM BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, AGGRAVATED, ECONOMIC OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY RELATED TO THE USE, OR THE INABILITY TO USE OR ACCESS THE SITE OR ANY INFORMATION OR OTHER MATERIALS AVAILABLE ON OR THROUGH THE SITE, WHETHER BASED IN CONTACT, TORT, NEGLIGENCE OR OTHERWISE, EVEN IF DRMCDOUGALL.COM OR AN AUTHORIZED REPRESENTATIVE OF DRMCDOUGALL.COM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9999669790267944,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Any failure by drmcdougall.com to enforce any provision of this Agreement will not constitute a waiver of our right to subsequently enforce such provision or any other provision of this Agreement",
+            "conf": 0.999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 0.0
+}

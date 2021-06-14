@@ -1,0 +1,726 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated: February 4, 2019",
+            "conf": 0.9999989867210388,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "AWS may suspend or terminate your access to or use of any Beta Service or Service Offerings in any Beta Region at any time and for any reason",
+            "conf": 0.9999059438705444,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AWS may at any time cease providing any or all of any Beta Service or any Service Offering in a Beta Region in its sole discretion and without notice",
+            "conf": 0.9707823991775513,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Beta Services and Services Offerings in Beta Regions also may be unavailable and/or their performance may be negatively affected by scheduled and unscheduled maintenance",
+            "conf": 0.9991816282272339,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Notwithstanding anything to the contrary in the Agreement or these Services Terms, either you or AWS may terminate your participation in a Beta Service or Service Offering in a Beta Region at any time for any reason upon notice to the other party",
+            "conf": 0.9987267851829529,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AWS does not guarantee that any Beta Service or Service Offering in any Beta Region will ever be made generally available, or that any generally available version will contain the same or similar functionality as the version made available by AWS during the term of the Beta Service or Beta Region, as applicable",
+            "conf": 0.9999794363975525,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AWS does not guarantee that any Beta Region will become generally available",
+            "conf": 0.9999892115592957,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ACCORDINGLY, AND NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THE AGREEMENT OR THESE SERVICES TERMS, AWS IS PROVIDING THE BETA SERVICES, SERVICE OFFERINGS IN BETA REGIONS AND BETA MATERIALS TO YOU \u201cAS IS.\u201d AWS AND ITS AFFILIATES AND LICENSORS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE REGARDING THE BETA SERVICES, SERVICE OFFERINGS IN BETA REGIONS, BETA REGIONS AND BETA MATERIALS, INCLUDING ANY WARRANTY THAT THE BETA SERVICES, SERVICE OFFERINGS IN BETA REGIONS, BETA REGIONS AND BETA MATERIALS WILL BE UNINTERRUPTED, ERROR FREE OR FREE OF HARMFUL COMPONENTS, OR THAT ANY CONTENT, INCLUDING YOUR CONTENT, WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED.",
+            "conf": 0.9985604286193848,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "EXCEPT TO THE EXTENT PROHIBITED BY LAW, AWS AND ITS AFFILIATES AND LICENSORS DISCLAIM ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A",
+            "conf": 0.955661416053772,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for providing any support in connection with the Services",
+            "conf": 0.9838030934333801,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate, stop, or hibernate Spot Instances at any time and without any notice to you if we determine the current",
+            "conf": 0.939825713634491,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no liability whatsoever for any damages, liabilities, losses (including any corruption, deletion, or destruction or loss of data, applications or profits), or any other consequences resulting from our termination, stoppage, or hibernation of any Spot Instance.",
+            "conf": 0.9967837333679199,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may remove Marketable EC2 Reserved Instance from the RI Marketplace at any time for any reason",
+            "conf": 0.9988935589790344,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Each Seller will indemnify us and our affiliates against any claim or demand for payment of any Taxes imposed in connection with any Transaction, and for any fines, penalties, or similar charges imposed as a result of the Seller\u2019s failure to collect, remit or report any Taxes in connection with any Transaction",
+            "conf": 0.9990180730819702,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no liability whatsoever for any damages, liabilities, losses (including any corruption, deletion, or destruction or loss of data, applications or profits), or any other consequences resulting from the foregoing.",
+            "conf": 0.996747612953186,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to update or modify the FPS Specifications at any time",
+            "conf": 0.9999189376831055,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify and reimburse Amazon Payments and its affiliates against any claim or demand for payment of any such taxes or any Chargebacks",
+            "conf": 0.9959213733673096,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You represent, warrant, and covenant that you will at all times:",
+            "conf": 0.9976851344108582,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You are responsible for ensuring and shall ensure that all Subscription Information (as you provide it to us and as it is ultimately shown on the Customer UI) is: (a) full, accurate and complete, (b) not misleading",
+            "conf": 0.9998554587364197,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We shall have no liability to you for taking any such actions",
+            "conf": 0.9661707878112793,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You shall indemnify and hold us and our employees, officers, directors and representatives, harmless from and against any and all claims, losses, damages, liabilities, judgments, penalties, fines, costs and expenses (including reasonable attorneys fees), arising out of or in connection with any claim based on or related to any actions we may take with respect to any DevPay Customer Account at your direction, including, without limitation, any closure of a DevPay Customer Account",
+            "conf": 0.9999987483024597,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to update or modify the FBA Specifications at any time",
+            "conf": 0.999898374080658,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any data loss or data corruption that occurs as part of your computing jobs",
+            "conf": 0.9996904134750366,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "we may delete CloudWatch metric data, without liability of any kind, at any time after the applicable retention period",
+            "conf": 0.9988996982574463,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "you will bear the entire risk of loss of, or damage to, any Media while",
+            "conf": 0.963241457939148,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "and you are solely responsible for obtaining insurance at your expense",
+            "conf": 0.9704414010047913,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for and will not be held liable for any delay, damage or loss incurred in connection with AWS Import/Export, including without limitation loss, damage, destruction or misuse of any Data or any systems or equipment used in connection with AWS Import/Export.",
+            "conf": 0.9988132119178772,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In addition to your indemnification obligations under the Agreement, you agree to indemnify, defend and hold us, our affiliates and licensors, each of our and their business partners (including third party sellers on websites operated by or on behalf of us) and each of our and their respective employees, officers, directors and representatives, harmless from and against any and all claims, losses, damages, liabilities, judgments, penalties, fines, costs and expenses (including reasonable attorneys\u2019 fees), arising out of or in connection with any claim arising out of the Media, Data, and your use of Appliances, Snowball Software or Snowmobile Materials, including (a) any personal injury, death or property damage (tangible or intangible) related to the foregoing",
+            "conf": 0.9999380707740784,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "If the issue is not resolved, the Media will be deemed Unsuitable Media subject to disposal and we may erase Data and dispose of Media in any manner and we have no obligation to reimburse or compensate you in connection with such erasure or disposal",
+            "conf": 0.9981436729431152,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You remain fully responsible for and indemnify us for all activities undertaken by such third parties under your account",
+            "conf": 0.9987396001815796,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Filters are provided \u201cas is\u201d and we make no representation or warranty regarding Filters",
+            "conf": 0.9996164441108704,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible and will not be liable for any loss, damage, destruction or misuse of any systems or equipment you use in connection with Filters, including without limitation Appliances",
+            "conf": 0.9999997019767761,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for the configuration, operation, performance and security of all equipment and computing resources you use with Amazon VPC, including any gateways or other devices you use to connect to Amazon VPC",
+            "conf": 0.9995145797729492,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that neither we nor our licensors are responsible in any manner, and you are solely responsible, for the proper configuration of database security groups and other security settings associated with Amazon RDS.",
+            "conf": 0.9968848824501038,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for providing any support in connection with the Services",
+            "conf": 0.9838030934333801,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Your notifications sent through Amazon SNS may be blocked, delayed or prevented from being delivered by destination servers and other reasons outside of our control and there is no warranty that the service or content will be uninterrupted, secure or error free or that notifications will reach their intended destination during any stated time-frame",
+            "conf": 0.999914824962616,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Any third party push notification platform that you use in connection with Amazon SNS is Third Party Content under the Agreement, and features of Amazon SNS that depend on such platforms may not be secure, uninterrupted or error-free",
+            "conf": 0.979525625705719,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may change, discontinue or deprecate support for a push notification platform for any reason at any time",
+            "conf": 0.9999292492866516,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible, and we have no liability, for any activities that occur under the User Credentials, regardless of whether such activities are undertaken by you, your employees, agents, subcontractors or customers, or any other third party.",
+            "conf": 0.9943080544471741,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may throttle, suspend or terminate your access to SES, or block or decline to send and/or receive any SES Email, if we determine in our sole discretion that",
+            "conf": 0.9999967217445374,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "All sample templates are offered \u201cas is\u201d and you are solely responsible for your use of the sample templates",
+            "conf": 0.9994063377380371,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not represent, warrant or guarantee that (i) we will always be able to resolve a case fully, (ii) you will no longer experience a problem, (iii) we will provide a bug fix, patch or other workaround in connection with the identified problem, or (iv) any support or advice will result in any performance efficiency or improvement",
+            "conf": 0.9999937415122986,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "We may terminate the Amazon DynamoDB Reserved Capacity program at any time",
+            "conf": 0.9425469636917114,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your subscriptions at any time by logging into \u201cYour",
+            "conf": 0.9837043881416321,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Subscriptions\u201d on the AWS Site",
+            "conf": 0.913202166557312,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "do not represent, warrant or guarantee the quality of any files you create through your use of Amazon Elastic Transcoder or that the files will be of a certain fidelity or error free",
+            "conf": 0.975475013256073,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "All sample templates are offered \u201cas is\u201d and you are solely responsible for your use of the sample templates",
+            "conf": 0.9994063377380371,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may change, discontinue, or deprecate support for an identity provider for any reason and at any time",
+            "conf": 0.9999856352806091,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible, and we have no liability, for any activities that result by your use of Cognito User Pools, regardless of whether such activities are undertaken by you, your employees, agents, and/or subcontractors.",
+            "conf": 0.9940417408943176,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We may delete, without liability of any kind, any of your End Users\u2019 data or Content uploaded to Amazon",
+            "conf": 0.9147731065750122,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all information and data you collect or store using Amazon Pinpoint (\u201cYour Data",
+            "conf": 0.9782367944717407,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "These files and applications are provided \u201cas is\u201d, and you are solely responsible for your use of such files and applications",
+            "conf": 0.9998030066490173,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If your AWS account is suspended for sixty (60) days or more, we may delete, without liability of any kind, Your Content and directories that are stored in AWS Directory Service upon thirty (30) days prior notice to you",
+            "conf": 0.9488495588302612,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for the access, operation, performance, and security of all Your Content you use with",
+            "conf": 0.9403979778289795,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We will maintain these automated snapshots for a period of 14 days after they are created",
+            "conf": 0.9685318470001221,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may delete automated snapshots, without liability of any kind, at any time after 14 days",
+            "conf": 0.9887171983718872,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no liability whatsoever for any damages, liabilities, losses (including any corruption, deletion, or destruction or loss of data, applications or profits), or any other consequences resulting from the foregoing.",
+            "conf": 0.996747612953186,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "While Amazon Inspector facilitates the identification of security issues, we do not represent, warrant, or guarantee that all security issues will be identified or that your resources evaluated using Amazon Inspector, or altered based on recommendations made by Amazon Inspector will be of a certain fidelity, error free, or comply with a particular security standard",
+            "conf": 0.9999933242797852,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Guidelines are subject to change at any time without notice",
+            "conf": 0.9900863766670227,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Device Shadow Data for an individual device expires and will be deleted if you do not update the Shadow Data for an individual device within 1 year (12 months).",
+            "conf": 0.9999979734420776,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Device Registry Data for an individual device expires and will be deleted if you do not update the Registry data for an individual device within 7 years (84 months).",
+            "conf": 0.999998152256012,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible, and we have no liability, for any activities that occur in the application and/or use of AWS IoT, regardless of whether such activities are undertaken by you, your employees, agents, subcontractors or customers, or any other third party.",
+            "conf": 0.9965513944625854,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "CA (or",
+            "conf": 0.900568962097168,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no liability whatsoever for any damages, liabilities, losses (including any corruption, deletion, or destruction or loss of data, applications or profits), or any other consequences resulting from our termination, stoppage, or hibernation of any GL Spot Instance.",
+            "conf": 0.9958040714263916,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We may terminate the migration of any image that remains in a migration queue for ninety (90) days or more at our discretion",
+            "conf": 0.9195940494537354,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Amazon Lex does not store or retain voice or text utterance information from websites, programs, or other applications that you identify in accordance with this Section as being directed or targeted, in whole or in part, to children under age 13 and subject to COPPA or similar laws",
+            "conf": 0.9788609147071838,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You and your End Users are solely responsible for any decisions made, advice given, actions taken, and failures to take action based on your use of Amazon AI Services",
+            "conf": 0.9555456638336182,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "These files and applications are provided \u201cas is,\u201d and you are solely responsible for your use of such files and applications",
+            "conf": 0.9812134504318237,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold AWS harmless for any claims related to your or your End Users\u2019 accounts referring or relating to any Emergency Services call or any inability to place or complete an Emergency Services call utilizing Amazon Chime",
+            "conf": 0.9999980330467224,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold AWS and its affiliates harmless for any claims referring or relating to any Emergency Services call or any inability to place an Emergency Services call utilizing Amazon Connect",
+            "conf": 0.9998254179954529,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Any caller identification service provided as a part of Amazon Connect is not guaranteed to function at all times",
+            "conf": 0.9999954104423523,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "While Amazon Macie facilitates the identification of security issues, we do not represent, warrant, or guarantee that all security issues will be identified or that your resources evaluated using Amazon Macie or findings by Amazon Macie, or resources altered based on alerts by Amazon Macie, will be of a certain fidelity, error free, or comply with a particular security standard",
+            "conf": 0.9999828934669495,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You are responsible for notifying us in the event that any Macie Content stored by Amazon Macie must be deleted under applicable law",
+            "conf": 0.9842431545257568,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "acknowledge that neither we nor our licensors are responsible in any manner, and you are solely responsible, for the proper configuration of Amazon MQ including managing the third party message broker settings that are specific to your applications",
+            "conf": 0.9910550713539124,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Your messages sent through Amazon MQ may be blocked, delayed or prevented from being delivered for reasons outside of our control and there is no warranty that the service or content will be uninterrupted, secure or error free or that messages will reach their intended destination during any stated time-frame",
+            "conf": 0.9999990463256836,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not represent, warrant or guarantee the quality of any files you create through your use of AWS Media Services or that the files will be of a certain fidelity or error free",
+            "conf": 0.9999998807907104,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "AWS has no responsibility or liability for third party services",
+            "conf": 0.9906721711158752,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Publishers of third party services may change or discontinue the functionality or features of their service",
+            "conf": 0.9997753500938416,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee that Alexa for Business, its functionality, or its content (including traffic, health, or stock information) are accurate, reliable, always available, or complete",
+            "conf": 0.9999819993972778,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "AWS has no responsibility or liability for such content",
+            "conf": 0.9921930432319641,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You may not market, advertise, or direct Alexa for Business towards anyone under the age of 17",
+            "conf": 0.999920666217804,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold AWS and its affiliates harmless for any claims referring or relating to any Emergency Services call or any inability to place an Emergency Services call utilizing Alexa Calling and Messaging and Alexa for Business",
+            "conf": 0.9858269691467285,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Amazon GuardDuty facilitates the identification of security issues, we do not represent, warrant, or guarantee that all security issues will be identified or that your resources evaluated using Amazon GuardDuty, or altered based on findings generated by Amazon GuardDuty, will be of a certain fidelity, error free, or comply with a particular security standard",
+            "conf": 0.9999909400939941,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You are responsible for deleting any data generated by Amazon WorkLink and stored by you to the extent required under applicable law",
+            "conf": 0.99013352394104,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "AWS may suspend your access to and use of Training at any time without notice (except as may be prohibited by applicable law) if AWS determines that your or your Students\u2019 use of Training violates the AWS Acceptable Use Policy",
+            "conf": 0.986501932144165,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: December 10, 2018",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "How We Share Personal Information Information about our customers is an important part of our business and we are not in the business of selling our customers\u2019 personal information to others",
+            "conf": 0.9984259009361267,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "is located in the United States, and our affiliated companies are located throughout the world",
+            "conf": 0.9992057085037231,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Depending on the scope of your interactions with AWS Offerings, your personal information may be stored in or accessed from multiple countries, including the United States",
+            "conf": 0.9999953508377075,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third party advertising partners may collect information about you when you interact with their content, advertising, or services",
+            "conf": 0.9992868304252625,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can view, update, and delete certain information about your account and your",
+            "conf": 0.9293895959854126,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you update or delete any information, we usually keep a copy of the prior version for our records",
+            "conf": 0.9990113973617554,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": ": If you do not want to receive promotional messages from us, please unsubscribe or adjust your communication preferences in the AWS Management Console or the AWS Email Preference Center",
+            "conf": 0.9828077554702759,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you\u2019re under 18, you may use AWS Offerings only with the involvement of a parent or guardian",
+            "conf": 0.9999991059303284,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We keep your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes), or as otherwise communicated to you",
+            "conf": 0.9978041648864746,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "How long we retain specific personal information varies depending on the purpose for its use, and we will delete your personal information in accordance with applicable law",
+            "conf": 0.9991035461425781,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Our business changes constantly, and our Privacy Notice may also change",
+            "conf": 0.9502129554748535,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "You can see the date on which the latest version of this Privacy Notice was posted",
+            "conf": 0.9999133944511414,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements",
+            "conf": 0.999460756778717,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements;",
+            "conf": 0.9999213218688965,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The specific manner of deletion will depend on the information being deleted, how the information was collected and stored, and your interactions with us",
+            "conf": 0.9593759775161743,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Electronic documents or files containing personal information will be deleted using a technical method that makes recovery or retrieval of such information practically impossible or renders the data no longer personally identifiable",
+            "conf": 0.9999802112579346,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Non-electronic documents or files containing personal information will be shredded, incinerated, or both",
+            "conf": 0.9403595924377441,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 3.2
+}

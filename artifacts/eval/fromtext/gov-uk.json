@@ -1,0 +1,257 @@
+{
+    "predictions": [
+        {
+            "label": "6",
+            "text": "We can change or remove content at any time without notice",
+            "conf": 0.9982108473777771,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We\u2019re not responsible for:",
+            "conf": 0.9993062019348145,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not give any guarantees, conditions or warranties about the accuracy or completeness of any content used by these products",
+            "conf": 0.9999973177909851,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We\u2019re not liable for any loss or damage that may come from your use of these products",
+            "conf": 0.9999866485595703,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The most up to date version of our content will always be on GOV.UK",
+            "conf": 0.9956822395324707,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Disclaimer While we make every effort to keep GOV.UK up to date, we do not provide any guarantees, conditions or warranties that the information will be:",
+            "conf": 0.999998927116394,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We\u2019re not liable for any loss or damage that may come from using GOV.UK.",
+            "conf": 0.982856035232544,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We\u2019re not responsible for any loss, disruption or damage to your data or computer system that might happen when you use GOV.UK",
+            "conf": 0.9999898672103882,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "We might decide not to exercise or enforce any right available to us under these terms and conditions",
+            "conf": 0.9999892115592957,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We can always decide to exercise or enforce that right at a later date",
+            "conf": 0.9897522926330566,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Changes to these terms and conditions Please check these terms and conditions regularly",
+            "conf": 0.9898939728736877,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We can update them at any time without notice",
+            "conf": 0.998586118221283,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated 6 October 2015",
+            "conf": 0.9999982714653015,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Don\u2019t worry we won\u2019t send you spam or share your email address with anyone",
+            "conf": 0.9985564351081848,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "puts small files (known as \u2018cookies",
+            "conf": 0.967193603515625,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "The cookie is deleted when you close your browser",
+            "conf": 0.9773895740509033,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use Google Analytics software (Universal Analytics) to collect information about how you use",
+            "conf": 0.9661974310874939,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google Analytics stores information about:",
+            "conf": 0.9998807311058044,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not collect or store your personal information (for example your name or",
+            "conf": 0.9362014532089233,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not allow Google to use or share our analytics data",
+            "conf": 0.9982924461364746,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "These cookies do not store your personal data and are deleted once you\u2019ve completed the transaction",
+            "conf": 0.9998393654823303,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last updated 24 May 2018",
+            "conf": 0.9999963641166687,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Don\u2019t worry we won\u2019t send you spam or share your email address with anyone",
+            "conf": 0.9985564351081848,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use Google Analytics software to collect information about how you use GOV.UK",
+            "conf": 0.9986708760261536,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google Analytics stores information about:",
+            "conf": 0.9998807311058044,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not collect or store your personal information (for example your name or",
+            "conf": 0.9217802882194519,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "sell or rent your data to third parties",
+            "conf": 0.9960051774978638,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "How long we keep your data We will only retain your personal data for as long as:",
+            "conf": 0.9978614449501038,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In general, this means that we will only hold your personal data for a minimum of 1 year and a maximum of 7 years",
+            "conf": 0.999997615814209,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Our services are not designed for, or intentionally targeted at, children 13 years of age or younger",
+            "conf": 0.999840497970581,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not intentionally collect or maintain data about anyone under the age of 13",
+            "conf": 0.9999975562095642,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "Your personal data may, throughout the course of its processing at GDS, be transferred outside of the European Economic Area (EEA).",
+            "conf": 0.9999647736549377,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "request that your personal data is erased if there is no longer a justification for it",
+            "conf": 0.999995768070221,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "In that case, the \u2018last updated\u2019 date at the bottom of this page will also change",
+            "conf": 0.9827280640602112,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated 17 May 2018",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Don\u2019t worry we won\u2019t send you spam or share your email address with anyone",
+            "conf": 0.9985564351081848,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 4.4
+}

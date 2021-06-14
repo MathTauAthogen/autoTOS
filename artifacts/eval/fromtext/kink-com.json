@@ -1,0 +1,299 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Date: January 13, 2005\u00a0Last Updated: July 20, 2018",
+            "conf": 0.999993085861206,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You agree and affirm that you are of legal age (18 years old in most jurisdictions, 21 in others) to purchase adult, sexually explicit materials in your jurisdiction",
+            "conf": 0.9999964237213135,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "CyberNet does not make any warranties as to fitness for any particular use nor does CyberNet make any warranties as to the accuracy of descriptions of the products",
+            "conf": 0.9998887181282043,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify CyberNet and all third parties that are linked to CyberNet and CyberNet's services, and all subsidiaries, affiliates, officers, agents, partners, and employees from any claims or demands made by any third party due to or arising from your use of CyberNet's services, purchase of materials from CyberNet or any third parties linked from CyberNet services, or use of any materials purchased or rented from CyberNet or third parties linked from CyberNet services",
+            "conf": 0.9999986886978149,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CyberNet's services and all websites linked from it are provided \"AS IS\" and on an \"AS AVAILABLE\" basis",
+            "conf": 0.9999961853027344,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The content and materials are provided \"AS IS\" and no warranties are made of any kind",
+            "conf": 0.9999915361404419,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CyberNet makes no representations, guarantees or warranties as to the quality, accuracy, suitability, truth or completeness of any portion of this website or any materials or information made available through CyberNet's services",
+            "conf": 0.999997615814209,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CyberNet and its suppliers are not liable for the accuracy or completeness of any of the materials available through CyberNet's services",
+            "conf": 0.9999485015869141,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CyberNet makes no guarantee that the services will operate in any certain way or on any particular platform, software, browser, or hardware",
+            "conf": 0.9999988675117493,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CyberNet makes no guarantee that the materials are acceptable or legally viewable in any jurisdiction or that the materials will meet your expectations or satisfaction",
+            "conf": 0.9990662336349487,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Any use of CyberNet services is at your own risk and you are solely responsible for any damage to your computer hardware or software or loss of data that occurs during your use of the website regardless of fault, including damage or loss due to viruses, Trojans, or other malware.",
+            "conf": 0.999498188495636,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "To the extent allowable, CyberNet is not liable for any direct, indirect, incidental, consequential, punitive, exemplary or consequential damages that may occur from your use of CyberNet's services or any purchase, use or viewing of the materials available on these websites, including but not limited to loss of use, loss of profits, revenue, data, or any other loss you may incur however caused and regardless of fault.",
+            "conf": 0.9986328482627869,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for adequate protection and backup of your hardware, software, data, and equipment used to view this website or access CyberNet's services",
+            "conf": 0.9865279793739319,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to hold CyberNet, its suppliers, third party affiliates, officers, partners, and employees harmless from any claims based on use of the website or materials obtained through CyberNet's services whether in contract, tort, negligence, or otherwise to the extent permitted by law",
+            "conf": 0.999695360660553,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "CyberNet may store your information and information regarding your use of CyberNet's services indefinitely",
+            "conf": 0.977107584476471,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "The failure of CyberNet to enforce any of these Terms does not constitute a waiver thereof",
+            "conf": 0.999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "CyberNet, in its sole discretion, may terminate your use and access of its services at any time and for any reason, or no reason if it believes you have violated any of the terms of use",
+            "conf": 0.999671459197998,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "CyberNet will not be liable to you or any third party for any reason upon termination of your account",
+            "conf": 0.9956799745559692,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "You agree that these Terms may be modified or amended at any time and in any manner, and that you accept the updated Terms at the time they are published on this website",
+            "conf": 0.9999095797538757,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "You should note the date of last revision to these Terms, which appears at the top of this page",
+            "conf": 0.9990183711051941,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "A changed \"last modified\" date indicates that these Terms have been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting",
+            "conf": 0.9816989302635193,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "CyberNet has the right (but not the obligation) to review any content that you have submitted to our sites or forums, and to reject, delete, disable, or remove any content that we determine, in our sole discretion, to have violated any of the following conditions:",
+            "conf": 0.9999082684516907,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: January 13, 2005Last Updated: May 25, 2018",
+            "conf": 0.9999845623970032,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We also collect information, such as usage statistics, by using cookies, server logs, and similar technologies.",
+            "conf": 0.9911147356033325,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition to data that you provide, we use tools like cookies and web beacons, as well as analytics services and advertising providers to gather data.",
+            "conf": 0.9982995390892029,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use browser cookies and similar information-gathering technologies such as web beacons on our website.",
+            "conf": 0.9838677644729614,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "As detailed",
+            "conf": 0.9971225261688232,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": ", Kink and service providers acting on our behalf (like Google Analytics, third party advertisers and third party IT service providers) use server log files and automated data collection tools like cookies, tags, scripts, customized links, device or browser fingerprints, and web beacons (together, \u201cData Collection Tools",
+            "conf": 0.9994440078735352,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": ") when you access and use the website.",
+            "conf": 0.9802662134170532,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use third-party analytics services like Google Analytics and Optimizely on the website",
+            "conf": 0.9999797940254211,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use third-party advertising services like Adnium, Adsterra and other ad networks and ad servers to deliver advertising about other websites you may be interested in",
+            "conf": 0.99964439868927,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Sending you information about updates to your Favorites, new services, new features, promotions, newsletters, and other information (which you can opt out of at any time);",
+            "conf": 0.9999977350234985,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We retain the personal data we collect for so long as reasonably necessary to fulfill the purposes for which the data was collected, to perform our contractual and legal obligations, and for any applicable statute of limitations periods for the purposes of bringing and defending claims.",
+            "conf": 0.9886006712913513,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "As part of our use of third-party analytics tools like Google Analytics, we share certain Account Data, System Data, Usage Data (as detailed above), or de-identified data as needed",
+            "conf": 0.9349330067634583,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Your password is an important part of our security system, and it is your responsibility to protect it.",
+            "conf": 0.9810803532600403,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You should not share your password with any third party, and if you believe your password or account has been compromised, you should change it immediately and contact support@kink.com with any concerns",
+            "conf": 0.9860795736312866,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You have certain rights around the use of your data, including the ability to opt out of promotional emails, cookies, and collection of your data by certain analytics providers",
+            "conf": 0.9999902844429016,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We may use and allow others to use cookies, web beacons, device identifiers, and other technologies to collect information about your use of the Platform and other websites and online services.",
+            "conf": 0.9879084825515747,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can control messages that you receive from Kink and third parties by using the unsubscribe mechanism in the promotional communication you receive or by changing the email preferences in your account",
+            "conf": 0.9999573826789856,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Accessing, correcting, updating, or requesting deletion of your information;",
+            "conf": 0.9995561242103577,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance",
+            "conf": 0.9999894499778748,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may change this Policy from time to time, and if we do we\u2019ll post any changes, including any material changes, on this page, so please be sure to check back periodically",
+            "conf": 0.9999778866767883,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.8
+}

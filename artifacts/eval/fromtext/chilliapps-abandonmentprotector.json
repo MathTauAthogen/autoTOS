@@ -1,0 +1,110 @@
+{
+    "predictions": [
+        {
+            "label": "10",
+            "text": "Unsubscribe and delete my information from any sender using this app  This action will remove all your information store in our servers",
+            "conf": 0.987129807472229,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will store only your email to identify that if your email goes back to our servers, your information should be removed immediately from any sender using our App",
+            "conf": 0.9991055130958557,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Version Date: May 28, 2018",
+            "conf": 0.9999975562095642,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "means any operation or set of operations which is performed upon Personal Data, whether or not by automatic means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction",
+            "conf": 0.9230822324752808,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "will promptly initiate the process to delete your Personal Data",
+            "conf": 0.9702510237693787,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "You acknowledge and agree that \u201cChilliapps\u201d may amend this Addendum from time to time by posting the relevant amended and restated Addendum on \u201cChilliapps\u201d website, available at&nbsp;https://www.chilliapps.com",
+            "conf": 0.9047318696975708,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Privacy Policy  Version Date: March 29, 2019",
+            "conf": 0.9199059009552002,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "When you use our Services, We may collect and store information automatically about your device and your use of the Services via cookies, web beacons and other similar technologies.",
+            "conf": 0.9899373054504395,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you remove our services or cancel your subscription, we will delete your mailing lists and sensitive data",
+            "conf": 0.99679034948349,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Terms and Conditions of Use  Version Date: March 29, 2019",
+            "conf": 0.9998889565467834,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Persons under the age of 18 are not allowed to use the Services offered on this Platform",
+            "conf": 0.9999895095825195,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the content that people post and share through this Platform",
+            "conf": 0.9998276829719543,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "It's your responsibility to provide true, accurate, current, and complete information",
+            "conf": 0.9995984435081482,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "will not be responsible for lost profits, revenues, data, or any financial losses derived from the strategy that you decide to configure through our Platform",
+            "conf": 0.9039991497993469,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "By canceling your account we will remove all your email lists",
+            "conf": 0.9995226263999939,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 5.5
+}

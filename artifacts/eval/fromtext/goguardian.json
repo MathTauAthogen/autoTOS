@@ -1,0 +1,446 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated Date: May 17, 2018",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell Personal Student Information",
+            "conf": 0.999891459941864,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may share or disclose certain information, in connection with or during negotiations of any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company",
+            "conf": 0.9894313812255859,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "GoGuardian acts upon a School\u2019s documented instructions to delete Personal Student Information during and after all School licenses to GoGuardian have expired, unless we are required to retain such information to comply with our legal obligations with law enforcement, resolve disputes, or enforce our agreements",
+            "conf": 0.9696117639541626,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Upon instruction to delete Personal Student Information, GoGuardian will take reasonable efforts to delete and/or de-identify such information in a commercially reasonable amount of time under applicable laws",
+            "conf": 0.9993539452552795,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "At that time, if a School has not requested deletion of Personal Student Information, we will automatically de-identify and/or delete the School\u2019s Personal Student Information within a commercially reasonable period of time as long as that information is not necessary to comply with our legal obligations, resolve disputes, or enforce our agreements",
+            "conf": 0.9996486306190491,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "All Personal Student Information retained will remain subject to our Product Privacy Policy that was in effect at that time \u2014 even after the deactivation of an account or termination of a contract",
+            "conf": 0.952206552028656,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We generally retain information other than Personal Student Information for as long as it may be relevant to the purposes above or as required or permitted by law",
+            "conf": 0.9996241927146912,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To dispose of any personal information, we may anonymize it, delete it or take other appropriate de-identifying steps",
+            "conf": 0.9938323497772217,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can decline promotional communications at the point information is requested for such purpose (e.g., by checking the relevant box) or, by following the unsubscribe instructions on communications sent to you",
+            "conf": 0.9858512878417969,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We retain the personal data contained in this information for as long as necessary to provide you with our Products, or for other important purposes such as complying with legal obligations, resolving disputes, and enforcing our agreements",
+            "conf": 0.9981511235237122,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "If you are located outside of the United States, please be aware that any information that you provide to us will be transferred to and/or accessed within the United States",
+            "conf": 0.9999958276748657,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Some international users (including those whose information we collect under the Privacy Shield) of our Products have certain legal rights to access certain information that we hold about them and to request its deletion",
+            "conf": 0.9618109464645386,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Cookies include cookies, Internet server logs, tags, Software Development Kit/SDKs, tracking pixels, and other similar tracking technologies.",
+            "conf": 0.9987401366233826,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track (\u201cDNT",
+            "conf": 0.9000375866889954,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Some browsers do not recognize DNT settings",
+            "conf": 0.9033052921295166,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "At this time, we do not recognize or respond to browser-initiated DNT signals because we do not track you across websites",
+            "conf": 0.9999622106552124,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "At the top of our Product Privacy Policy, we will indicate the date of the most recent update to this Product Privacy Policy",
+            "conf": 0.9436376094818115,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated Date: December 7, 2018",
+            "conf": 0.9648469090461731,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": ": These Terms are subject to binding arbitration and a waiver of class action rights as detailed in the Arbitration and Class Action Waiver Section 7.2 below",
+            "conf": 0.9894412159919739,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge that GoGuardian, may at its discretion, suspend your access to the Products at any time for the duration of including (but not limited to): (1) maintenance",
+            "conf": 0.9381043314933777,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You hereby represent and warrant that you are at least eighteen (18) years of age and are fully authorized and competent to enter into the Terms on behalf of yourself and your Organization",
+            "conf": 0.9999966025352478,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your account with GoGuardian",
+            "conf": 0.9968706965446472,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You agree to provide upon registration and maintain at all times accurate, current, and complete information",
+            "conf": 0.9999600648880005,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "GoGuardian cannot and will not be liable for any loss or damage arising from your failure to properly comply with this Section",
+            "conf": 0.9979345202445984,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "If you violate any of these rules or use the Products in any way that is not authorized, GoGuardian may, in its sole discretion and without prior notice, remove any User Content (defined below) and/or restrict or terminate your account",
+            "conf": 0.9351202249526978,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of receiving these communications at any time by using the unsubscribe functionality in such communications or emailing unsubscribe@goguardian.com",
+            "conf": 0.9999890327453613,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You agree that you will indemnify, defend, and hold harmless GoGuardian for all claims resulting from User Content that you post",
+            "conf": 0.9999821782112122,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You further acknowledge and agree that we reserve the right, in our sole discretion, to reject, move, edit, or remove any User Content that is contributed to the Products, but we but do not assume the obligation",
+            "conf": 0.9999231696128845,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You can terminate your Products at any time, with or without cause, in writing by emailing accountcancellation@goguardian.com and expressly stating you wish to terminate your account",
+            "conf": 0.9492778778076172,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "GoGuardian reserves the right to restrict, suspend, or terminate your and/or your Organization\u2019s Products at any time without prior notification or liability, with or without cause including (without limitation): (1) your breach of the terms of the Terms",
+            "conf": 0.9998350739479065,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "GoGuardian provides its Products using a commercially reasonable level of skill and care, but we cannot promise certain things about our Products",
+            "conf": 0.9103081226348877,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, THE PRODUCTS ARE PROVIDED ON AN \"AS-IS\" AND \"AS AVAILABLE\" BASIS, WITH ALL FAULTS, WITHOUT WARRANTY OF ANY KIND, AND YOUR USE IS AT YOUR SOLE RISK",
+            "conf": 0.9999638795852661,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "GOGUARDIAN AND ITS RESPECTIVE LICENSORS, AGENTS, EMPLOYEES, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AND REPRESENTATIVES (COLLECTIVELY \u201cGOGUARDIAN",
+            "conf": 0.9634063839912415,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FOR PURPOSES OF THIS SECTION 6) DO NOT MAKE, AND HEREBY DISCLAIM, ANY AND ALL EXPRESS, IMPLIED OR STATUTORY WARRANTIES AND CONDITIONS OF ANY KIND, INCLUDING ALL WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, ACCURACY, OR NON-INFRINGEMENT",
+            "conf": 0.9892401099205017,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE (AND OUR SUPPLIERS) MAKE NO WARRANTY THAT THE PRODUCTS WILL MEET YOUR REQUIREMENTS, WILL BE AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS, OR WILL BE ACCURATE, RELIABLE, FREE OF VIRUSES OR OTHER HARMFUL CODE, COMPLETE, LEGAL, OR SAFE",
+            "conf": 0.9999900460243225,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU HEREBY RELEASE GOGUARDIAN, ITS OFFICERS, EMPLOYEES, AGENTS, AND SUCCESSORS IN RIGHTS FROM ANY CLAIMS, DAMAGES, AND DEMANDS OF EVERY KIND ARISING OUT OF OR IN ANY WAY RELATED TO ANY CLAIMS MADE BY YOUR USERS OR THEIR FAMILIES",
+            "conf": 0.9970717430114746,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL GOGUARDIAN (OR OUR SUPPLIERS) BE LIABLE TO YOU OR ANY THIRD PARTY FOR PERSONAL INJURY, PROPERTY DAMAGE, ANY LOST PROFITS, LOST DATA, COSTS OF PROCUREMENT OF SUBSTITUTE PRODUCTS, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER OR DEVICE FAILURE OR MALFUNCTION, OR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES ARISING FROM OR RELATING TO THESE TERMS OR YOUR USE OF, OR INABILITY TO USE, THE PRODUCTS, EVEN IF GOGUARDIAN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.999968409538269,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ACCESS TO, AND USE OF, OUR PRODUCTS IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR LOSS OF DATA RESULTING THEREFROM",
+            "conf": 0.9866108298301697,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATING TO THESE TERMS FOR ANY CAUSE WHATSOEVER, AND UNDER ANY LEGAL THEORY, INCLUDING NEGLIGENCE, TORT OR STRICT LIABILITY, AND REGARDLESS OF THE FORM OF THE ACTION, (FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION), WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID BY YOU OR YOUR ORGANIZATION FOR THE PRODUCTS GIVING RISE TO SUCH CLAIM IN THE CALENDAR YEAR IN WHICH SUCH CLAIM AROSE",
+            "conf": 0.9892122149467468,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis",
+            "conf": 0.9999913573265076,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND GOGUARDIAN AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999939799308777,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate Claims",
+            "conf": 0.9999814629554749,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If a court or arbitrator decides that this subsection on \u201cChanges to this Section\u201d is not enforceable or valid, then this subsection 8.4 shall be severed from Section 8, and the court or arbitrator shall apply the first Arbitration and Class Action Waiver (or similarly named) section in existence after you first installed, accessed, or used any of the Products",
+            "conf": 0.9998890161514282,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Except as discussed in Section 8.4, we reserve the right to make changes to these Terms for any purposes",
+            "conf": 0.9980339407920837,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We also will do our best to tell you of any changes to these Terms in advance by thirty (30) days, but there may be times, such as to comply with legal requirements or to adjust to a new feature or Product, that we may not be able to notify you in advance",
+            "conf": 0.9997984766960144,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Our Terms were last updated and is effective as of December 7, 2018",
+            "conf": 0.9999955296516418,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated Date: May 17, 2018",
+            "conf": 0.999996542930603,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Our general audience Website is not geared towards children, nor meant to be used or accessed by children",
+            "conf": 0.9138503670692444,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we become aware that we have collected \"personal information\" (as defined by the United States Children's Online Privacy Protection Act (\"COPPA\") from a child in the United States under the age of 13 without legally-valid parental or school consent or that we have collected data through our Website from an European Union resident under the age of 16 without parental consent, we will take reasonable steps to delete it or obtain valid consent as soon as possible",
+            "conf": 0.9986878037452698,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": ", search terms, operating system, traffic and related statistics, keywords, and/or other general browsing or usage data",
+            "conf": 0.9351963400840759,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may share or disclose certain information, in connection with or during negotiations of any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company",
+            "conf": 0.9894313812255859,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We generally retain information for so long as it may be relevant to the purposes above",
+            "conf": 0.9945207238197327,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To dispose of any personal information, we may anonymize it, delete it or take other appropriate steps",
+            "conf": 0.9968536496162415,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can decline promotional communications at the point information is requested for such purpose on our Website (e.g., by checking or un-ticking (as directed) the relevant box) or, by following the unsubscribe instructions on communications sent to you",
+            "conf": 0.9986826181411743,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "We do not recognize or respond to browser-initiated DNT signals",
+            "conf": 0.9999798536300659,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Some browsers do not recognize DNT settings",
+            "conf": 0.9033052921295166,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "At this time, we do not recognize or respond to browser-initiated DNT signals because we do not track you across websites",
+            "conf": 0.9999622106552124,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you are located outside of the United States, please be aware that any information you provide to us will be transferred to and/or accessed within the United States",
+            "conf": 0.9999959468841553,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Some international users (including those whose information we collect under the Privacy Shield) of our Website have certain legal rights to access certain information we hold about them and to request its deletion",
+            "conf": 0.9967568516731262,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Cookies include cookies, Internet server logs, tags, Software Development Kit/SDKs, tracking pixels, and other similar tracking technologies.",
+            "conf": 0.9987401366233826,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may change this Website Privacy Policy to reflect changes in the law, our information practices, or components of our Website",
+            "conf": 0.9575614333152771,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "At the top of our Website Privacy Policy, we will indicate the date of the most recent update to this Website Privacy Policy",
+            "conf": 0.9493458867073059,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.1
+}

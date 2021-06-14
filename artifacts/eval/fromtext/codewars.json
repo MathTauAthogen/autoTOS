@@ -1,0 +1,187 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "ServiceLast updated Oct, 2018A",
+            "conf": 0.9929173588752747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Website is available only to individuals who are at least 13",
+            "conf": 0.9932851791381836,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "security of your account and its content, and you are fully responsible for all activities",
+            "conf": 0.9999995231628418,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS",
+            "conf": 0.9980713725090027,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "It is your responsibility to check this Agreement periodically for changes",
+            "conf": 0.9716511368751526,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Qualified may terminate your access to all or any part of the Website at any time,",
+            "conf": 0.9986648559570312,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Website is provided \u201cas is",
+            "conf": 0.9845747947692871,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u201d",
+            "conf": 0.953850507736206,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Neither Qualified nor its suppliers and licensors, makes any warranty that the Website",
+            "conf": 0.9960554838180542,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "will be error free or that access thereto will be continuous or uninterrupted",
+            "conf": 0.9999948143959045,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Indemnification.You agree to indemnify and hold harmless Qualified, its contractors, and its licensors,",
+            "conf": 0.9421834349632263,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "and their respective directors, officers, employees and agents from and against any",
+            "conf": 0.9485894441604614,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "From time to time, Codewars may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website",
+            "conf": 0.9973356127738953,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When you use our website to browse our content and view the information we make available, a number of cookies are used by us and by third parties to allow the website to function, to collect useful information about visitors and to help to make your user experience better",
+            "conf": 0.9976791739463806,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "The IP address may remain stored within our logs for up to 3 months",
+            "conf": 0.9947699904441833,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Your information is stored on our website and on our cloud servers, both of which are based within the United States",
+            "conf": 0.9999055862426758,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We keep your order information for an indefinite period, for our accounting purposes",
+            "conf": 0.9976157546043396,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may decide to delete your account at any time",
+            "conf": 0.9999847412109375,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "At any point you may request that your personally identifiable information by removed",
+            "conf": 0.9824761748313904,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can do so by deleting your account from your user settings page",
+            "conf": 0.9999284148216248,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Your personal data is stored for three years, or for as long as we are marketing the product or services that the review refers to, whichever is shorter",
+            "conf": 0.9997186660766602,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Some of those employees, contractors and affiliated organizations may be located outside of your home country",
+            "conf": 0.9999800324440002,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Codewars will not share with or sell your potentially personally-identifying information to other organizations for commercial purposes, except when we have your permission to provide you products or services that you\u2019ve requested",
+            "conf": 0.9990079998970032,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If we are processing your personal data for reasons of consent or legitimate interest, you can request that your data be erased",
+            "conf": 0.9999308586120605,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We regularly review and, if appropriate, update this privacy policy from time to time, and as our services and",
+            "conf": 0.9014665484428406,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This policy was last updated on May 22nd 2018",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.6
+}

@@ -1,0 +1,299 @@
+{
+    "predictions": [
+        {
+            "label": "13",
+            "text": "This site uses cookies to deliver our services and to show you relevant ads and job listings",
+            "conf": 0.948113739490509,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Stack Overflow reserves the right, at its discretion, to modify these Public Network Terms at any time by posting revised Public Network Terms on the public Network and by providing notice via e-mail, where possible, or on the public Network",
+            "conf": 0.9990025162696838,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "PLEASE BE AWARE THAT BY USING THE PUBLIC NETWORK, EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN THE SECTION TITLED \"MANDATORY ARBITRATION\" BELOW, YOU AGREE THAT ALL DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION",
+            "conf": 0.9999991655349731,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Age Eligibility You must be at least 13 years old to access or use the Network or Services, including without limitation to complete a Stack Overflow account registration",
+            "conf": 0.999996542930603,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By accessing or using the Services or the Network in any manner, you represent and warrant that you are at least 13 years of age",
+            "conf": 0.9999992847442627,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13 years old, you may not, under any circumstances or for any reason, access or use the Services or Network in any manner, and may not provide any personal information to or on the Services or Network (including, for example, a name, address, telephone number or email address).",
+            "conf": 0.9999997019767761,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are located within the European Union, you must be at least 16 years old to access or use the Network or Services, including without limitation to complete a Stack Overflow Account Registration",
+            "conf": 0.9999891519546509,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By accessing or using the Services or the Network in any manner, you represent and warrant that you are at least 16 years of age.",
+            "conf": 0.9805561304092407,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 16 years old, you may not, under any circumstances or for any reason, access or use the Services or Network in any manner, and may not provide any personal information to or on the Services or Network (including, for example, a name, address, telephone number or email address)",
+            "conf": 0.999999463558197,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Stack Overflow reserves the right to refuse, suspend or terminate your access to the public Network if it determines, in its sole discretion, that you have in any way violated these Public Network Terms or are otherwise ineligible to access or use the Network or Services",
+            "conf": 0.9858886003494263,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Stack Overflow will use reasonable efforts to make the public Network available 24/7/365, but from time-to-time we will have scheduled outages for maintenance purposes and other upkeep",
+            "conf": 0.9998764395713806,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Where feasible, we may, in our sole discretion, make efforts to inform you about any outages and report on the nature and reason for any outages that may occur in an open and transparent manner, though we are under no obligation to do so, and in any case will not be liable for any downtime",
+            "conf": 0.9958049654960632,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "If",
+            "conf": 0.9405406713485718,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You have the right to discontinue use of, or terminate, your account whenever you like, and subject to our Privacy Policy, control the use and sharing of your account information",
+            "conf": 0.9997463822364807,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "STACK EXCHANGE PROVIDES NO GUARANTEES THAT THE SERVICES OR NETWORK WILL FUNCTION WITHOUT INTERRUPTION OR ERRORS AND PROVIDES THE NETWORK, SERVICES, AND ANY RELATED CONTENT OR PRODUCTS SUBJECT TO THESE PUBLIC NETWORK TERMS ON AN \"AS IS\" BASIS",
+            "conf": 0.9999998807907104,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Indemnification You will indemnify and hold Stack Overflow, its directors, officers, employees, agents, consultant, contractors, partners, vendors and service providers (including, without limitation, hosting and telecommunications providers) harmless, including costs and attorneys\u2019 fees, from any claim or demand made by any third party due to or arising out of your access to the public Network, use of Stack Overflow products or services made available on the public Network, your violation of this Agreement, or your infringement or any third party using your account, of any intellectual property right",
+            "conf": 0.9998986721038818,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, STACK OVERFLOW AND ITS AFFILIATES SHALL NOT BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY WITH RESPECT TO THE NETWORK OR SERVICES (I) FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, OPPORTUNITIES, REPUTATION, PROFITS OR REVENUES, OR (II) FOR ANY DIRECT DAMAGES IN EXCESS OF ONE HUNDRED DOLLARS ($100) IN THE AGGREGATE, EVEN IF STACK OVERFLOW OR ITS AFFILIATES HAVE BEEN TOLD OF THE POSSIBILITY OF SUCH DAMAGE, AND EVEN IF THESE REMEDIES FAIL THEIR ESSENTIAL PURPOSE.",
+            "conf": 0.9987056255340576,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "Jurisdiction Stack Overflow reserves the right to assign our rights and obligations under these Public Network Terms (in whole or in part) without your consent to a corporate affiliate, or in connection with a merger, acquisition, corporate restructure or reorganization, or due to the sale of all or substantially all of our assets",
+            "conf": 0.9868663549423218,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "AGREE THAT WITH RESPECT TO ALL DISPUTES BETWEEN YOU AND STACK OVERFLOW OR ITS AFFILIATES OR ITS OFFICERS, DIRECTORS, OR EMPLOYEES (WHETHER OR NOT SUCH DISPUTE INVOLVES A THIRD PARTY) WITH REGARD TO YOUR RELATIONSHIP WITH US, INCLUDING WITHOUT LIMITATION DISPUTES RELATING TO THESE PUBLIC NETWORK TERMS, YOUR USE OF THE NETWORK OR SERVICES, AND/OR RIGHTS OF PRIVACY AND/OR PUBLICITY, YOU AND STACK OVERFLOW SHALL FIRST CONSULT WITH EACH OTHER TO ATTEMPT TO RESOLVE SUCH DISPUTE IN A MANNER SATISFACTORY TO BOTH PARTIES, AND THAT IF A RESOLUTION IS NOT REACHED WITHIN NINETY (90) DAYS, THEN THE DISPUTE SHALL BE REFERRED TO AND RESOLVED BY BINDING ARBITRATION UNDER JAMS, INC.'S RULES FOR ARBITRATION OF CONSUMER-RELATED DISPUTES AND YOU AND WE HEREBY EXPRESSLY WAIVE TRIAL BY JURY",
+            "conf": 0.9360296726226807,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Neither you nor we will participate in a class action or class-wide arbitration for any claims covered by this agreement to arbitrate",
+            "conf": 0.9999960064888,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU ARE GIVING UP YOUR RIGHT TO PARTICIPATE AS A CLASS REPRESENTATIVE OR CLASS MEMBER ON ANY CLASS CLAIM YOU MAY HAVE AGAINST US INCLUDING ANY RIGHT TO CLASS ARBITRATION OR ANY CONSOLIDATION OF INDIVIDUAL ARBITRATIONS",
+            "conf": 0.9999919533729553,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If you don\u2019t want to be bound by the arbitration and class-action waiver provisions in this section, you must notify us in writing within thirty (30) days of the date that you first accept these Public Network Terms (unless a longer period is required by applicable law), and then you must litigate any disputes against us in accordance with the \"Assignment and Jurisdiction\" section below",
+            "conf": 0.9994495511054993,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "and (iii) a statement that you do not wish to resolve disputes with us through arbitration or waive your ability to participate in a class action",
+            "conf": 0.9934101104736328,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of these Public Network Terms is held to be invalid, void, unenforceable, or contrary to public policy, that provision will be limited or eliminated to the minimum extent necessary so that the remaining provisions of these Public Network Terms shall remain and continue in full force and effect",
+            "conf": 0.9054161310195923,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No Waiver Our failure to enforce any part of these Public Network Terms shall not constitute a waiver of our right to later enforce that or any other part of these Public Network Terms",
+            "conf": 0.9999880194664001,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last update: May 21, 2018",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "rev\u00a02018.8.17.31351",
+            "conf": 0.9996911883354187,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "This version of the policy is effective as of March 8, 2017",
+            "conf": 0.9999916553497314,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not disclose personally identifying information other than as described below",
+            "conf": 0.9689430594444275,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "If you are outside the United States, you should know that any personally identifiable information you enter into the network will be transferred out of your country and into the United States, and possibly to other countries",
+            "conf": 0.9999917149543762,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect any personally identifiable information from children under the age of 13",
+            "conf": 0.9997350573539734,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "It is those sites\u2019 responsibility to protect any information you give them, so we can\u2019t be held liable for their wrongful use of your personally identifying information.",
+            "conf": 0.9942620396614075,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Although most changes are likely to be minor, we may occasionally need to change this Policy",
+            "conf": 0.9547194242477417,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we do update it, we",
+            "conf": 0.9964990615844727,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "\u2019ll notify you either by posting the new policy on the network or by emailing you the changes or a link to the modified document",
+            "conf": 0.9930397272109985,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "It is possible that we may, on occasion, buy or sell assets from or to other companies",
+            "conf": 0.9556804299354553,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Similarly, if Stack Exchange or most of its assets were acquired, or in the unlikely event that we go out of business or enter bankruptcy, user information could be transferred or acquired",
+            "conf": 0.993512749671936,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Other than in these rare circumstances, Stack Exchange will not rent or sell potentially personally identifying information to anyone",
+            "conf": 0.9997402429580688,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "All such electronic information is stored on restricted database servers, and is generally kept until such time as you may ask us to edit or delete it, as described below",
+            "conf": 0.99983811378479,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that some information may remain in our records even after you request deletion of your information as permitted by the Privacy Shield Principles",
+            "conf": 0.999336302280426,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Stack Exchange reserves the right, at its discretion, to modify these API Terms of Use at any time by posting revised API Terms of Use",
+            "conf": 0.9996569156646729,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Termination Stack Exchange may terminate or suspend any and all access to API Services immediately, without prior notice or liability, if You breach any of the terms or conditions of this API Agreement",
+            "conf": 0.9989455342292786,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.9
+}

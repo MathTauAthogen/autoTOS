@@ -1,0 +1,215 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We will never sell or rent any Information you shared in the Platform",
+            "conf": 0.9999875426292419,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Like many websites, we use \"cookies\" and \"web beacons\" to collect information",
+            "conf": 0.9975396394729614,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A \"web beacon\" is a tiny image, placed on a Web page or email that can report your",
+            "conf": 0.9501341581344604,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies and web beacons to enable the technical operation of the Platform, to administer your log-in to your account and to collect the Log Data",
+            "conf": 0.9702391028404236,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also use third party cookies for the purposes of web analytics, attribution and error management",
+            "conf": 0.9997715353965759,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to become our user",
+            "conf": 0.9999752640724182,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Platform is not directed and not intended to be used by children under the age of 13",
+            "conf": 0.9999809265136719,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "Your information may be transferred to \u2014 and maintained on \u2014 computers located outside of your state, province, country or other governmental jurisdiction",
+            "conf": 0.9997650384902954,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may update this privacy statement at our sole discretion",
+            "conf": 0.9997861981391907,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The date of the last revision of this policy appears at the end of this page",
+            "conf": 0.9997763633728027,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We have no responsibility for the creation of any such Third Party Content, including (but not limited to) any related products, practices, terms or policies, and we will not be liable for any damage or loss caused by any Third Party Content.",
+            "conf": 0.9990226626396179,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "HEREBY RELEASE US AND AGREE TO HOLD US HARMLESS FROM ANY AND ALL CAUSES OF ACTION AND CLAIMS OF ANY NATURE RESULTING FROM THE COUNSELOR SERVICES OR THE PLATFORM, INCLUDING (WITHOUT LIMITATION) ANY ACT, OMISSION, OPINION, RESPONSE, ADVICE, SUGGESTION, INFORMATION AND/OR SERVICE OF ANY COUNSELOR AND/OR ANY OTHER CONTENT OR INFORMATION ACCESSIBLE THROUGH THE PLATFORM",
+            "conf": 0.9611923098564148,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU UNDERSTAND, AGREE AND ACKNOWLEDGE THAT THE PLATFORM IS PROVIDED \"AS IS\" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES OF ANY KIND, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, NON-INFRINGEMENT, SECURITY,",
+            "conf": 0.943850576877594,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "OR",
+            "conf": 0.933100700378418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT OF THE LAW, WE EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESSED OR IMPLIED",
+            "conf": 0.9993276596069336,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU UNDERSTAND, AGREE AND ACKNOWLEDGE THAT WE SHALL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES.",
+            "conf": 0.9933432936668396,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You hereby confirm that you are at least 18 years old of age, or that you are 13 years or older, and you have the consent of a parent or legal guardian",
+            "conf": 0.9999991059303284,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You hereby confirm and agree that all the information that you provided in or through the Platform, and the information that you will provide in or through the Platform in the future, is accurate, true, current and complete",
+            "conf": 0.9999075531959534,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree, confirm and acknowledge that you are responsible for maintaining the confidentiality of your password and any other security information related to your account (collectively \"Account Access\").",
+            "conf": 0.9999998807907104,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree, confirm and acknowledge that we will not be liable for any loss or damage that incurred as a result of someone else using your account, either with or without your consent and/or knowledge.",
+            "conf": 0.9996398091316223,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree, confirm and acknowledge that you are solely and fully liable and responsible for all activities performed using your Account Access",
+            "conf": 0.9992387890815735,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You further acknowledge and agree that we will hold you liable and responsible for any damage or loss incurred as a result of the use of your Account Access by any person whether authorized by you or not, and you agree to indemnify us for any such damage or loss",
+            "conf": 0.9434016942977905,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify us, defend us, and hold us harmless from and against any and all claims, losses, causes of action, demands, liabilities, costs or expenses (including, but not limited to, litigation and reasonable attorneys' fees and expenses) arising out of or relating to any of the following: (a) your access to or use of the Platform",
+            "conf": 0.9999940395355225,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "accurate, current and correct and will continue to be accurate, current and correct",
+            "conf": 0.901215672492981,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You understand, agree and acknowledge that we may modify, suspend, disrupt or discontinue the Platform, any part of the Platform or the use of the Platform, whether to all clients or to you specifically, at any time with or without notice to you",
+            "conf": 0.9999970197677612,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree and acknowledge that we will not be liable for any of the aforementioned actions or for any losses or damages that are caused by any of the aforementioned actions",
+            "conf": 0.9998988509178162,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "While we make commercially reasonable efforts to ensure the Platform\u2019s reliability and accessibility, you understand and agree that no platform can be 100% reliable and accessible and so we cannot guarantee that access to the Platform will be uninterrupted or that it will be accessible, consistent, timely or error-free at all times",
+            "conf": 0.9999799728393555,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Notices We may provide notices or other communications to you regarding this agreement or any aspect of the Platform, by email to the email address that we have on record, by regular mail or by posting it online",
+            "conf": 0.9894713163375854,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may change this Agreement by posting modifications on the Platform",
+            "conf": 0.9997989535331726,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The last update date of this Agreement is posted at the bottom of the Agreement",
+            "conf": 0.9998020529747009,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.0
+}

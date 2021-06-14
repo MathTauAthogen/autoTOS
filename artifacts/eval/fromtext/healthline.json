@@ -1,0 +1,390 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Date: 08/19/2019",
+            "conf": 0.9999979138374329,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may share some of the information you share with us between our websites and apps to provide you with the most relevant content and may use some of the information you share with us to serve you relevant advertising",
+            "conf": 0.9954602122306824,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This Website also uses a tool called Google Analytics to collect information about your use of this site.",
+            "conf": 0.9687504768371582,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of Google Analytics cookies by visiting this link",
+            "conf": 0.9781389236450195,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Currently, We do not respond to \u201cDo Not Track\u201d signals because We are trying to provide you with a personalized experience",
+            "conf": 0.9999107718467712,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We use session cookies that expire at the end of a browser session (from when a user opens the browser window to when they exit the browser) and persistent cookies that remain on your hard drive until you erase them or they expire",
+            "conf": 0.9730481505393982,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies for different purposes, including tracking your consent for various services, personalizing content, and targeting advertisements",
+            "conf": 0.9926413893699646,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may permit third parties to gather Personal Information passively on our Websites for behavioral advertising purposes",
+            "conf": 0.9690825939178467,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, in order to provide you with a more customized web experience and to present you with information that may be of interest to you, our advertising partners may seek to use their observed behavior on the Websites to deliver targeted ads (also known as retargeting or behavioral advertising) when you are on other websites",
+            "conf": 0.91988205909729,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use your information to allow Us or third parties to deliver ads based on your interests on our Websites, affiliated websites or third-party sites",
+            "conf": 0.9784873723983765,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use the information We have to improve our advertising systems so We can show you relevant ads and measure the effectiveness and reach of ads and services",
+            "conf": 0.9913398027420044,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of our use of your Personal Information for marketing, market research, or direct marketing purposes at any time by sending a rights request as set forth in the \"Your Rights\" section below",
+            "conf": 0.9997305870056152,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may share your information with third parties who provide services on our behalf to help with our business activities such as ad technology providers, email service providers, data analyzers, and business intelligence providers for the purpose of enhancing our products and services",
+            "conf": 0.957771360874176,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Sale",
+            "conf": 0.9453855156898499,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may transfer your Personal Information to a third party in the event of a transfer of all or some of our assets to a third party, provided that the third party agrees to adhere to terms similar to those of this Privacy Policy",
+            "conf": 0.985744059085846,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of our use of your Personal Information for marketing, market research, or direct marketing purposes at any time as set forth below",
+            "conf": 0.9976895451545715,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you do not exercise your opt-out preference initially upon account creation, it may take up to thirty (30) days for your opt-out choices to be fully effective",
+            "conf": 0.9075625538825989,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you would like to discontinue receiving this information, you may update your email preferences by using the \"Unsubscribe\" link found in emails We send to you",
+            "conf": 0.9988412857055664,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Under",
+            "conf": 0.9838522672653198,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "), users under the age of 18 have the right to remove, or request the removal of, content or information they have posted publicly on the Services",
+            "conf": 0.9874570369720459,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "You may also access, correct, or request deletion of your personal information by using the rights request form, checking the \u201cOther data request(s)\u201d box, and&nbsp;specifically identifying your request.",
+            "conf": 0.9936802983283997,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you would like to discontinue receiving this information, you may update your email preferences by using the \"Unsubscribe\" link found in emails We send to you",
+            "conf": 0.9988412857055664,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Subject to applicable law, We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements",
+            "conf": 0.9997586011886597,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may not remove your Personal Information when there is a legal storage requirement, such as accounting rules or when there are other legal grounds to keep the data, such as an ongoing contractual relationship",
+            "conf": 0.9997599720954895,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We also partner with third parties and partners to display advertising on our Websites or to manage our advertising on other sites",
+            "conf": 0.983584463596344,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our third-party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests.",
+            "conf": 0.9759717583656311,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If We make any material changes, then We will notify you by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective",
+            "conf": 0.9993463754653931,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect, maintain, or use Personal Information from our Website about children under the age of 18",
+            "conf": 0.9999881386756897,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We request that persons under the age of 18 not use our Website without supervision from a responsible adult",
+            "conf": 0.9999963641166687,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We will never request Personal Information from a child under the age of 18 without verifiable parental consent",
+            "conf": 0.9999038577079773,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "March 2018",
+            "conf": 0.9999915361404419,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to reject, cancel, or remove any ads from Healthline.com, at any time and for any reason",
+            "conf": 0.9996457099914551,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: 08/19/2019",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Services are offered and available to users who are 18 years of age or older",
+            "conf": 0.9999443888664246,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may update the Content from time to time, but the Content is not necessarily complete or up to date",
+            "conf": 0.9925759434700012,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Any of the material on the Services may be out of date at any given time, and We are under no obligation to update such material",
+            "conf": 0.9148783683776855,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Healthline reserves the right to restrict, suspend, or terminate any Content, your access to Content, the availability of Content or these Terms of Use at any time, without liability",
+            "conf": 0.9999282956123352,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You may terminate these Terms of Use at any time by removing all Content from your website and destroying all copies of our Content in your possession",
+            "conf": 0.9127719402313232,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Services and the Content are provided on an \"as is\" basis and your use of the Services and the Content is at your own risk",
+            "conf": 0.9999885559082031,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "HEALTHLINE, ITS AFFILIATES, LICENSORS, AND CONTRACTORS, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, DISCLAIM ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT OF THIRD PARTY RIGHTS, AND",
+            "conf": 0.9651864171028137,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The accuracy, reliability, completeness, currentness, or timeliness of the Content, software, text, graphics, links, or communications provided on or through the use of the Services",
+            "conf": 0.9987952709197998,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the fullest extent permitted by applicable law, in no event shall Healthline, its affiliates, licensors, contractors, or any of their respective officers, directors, employees or agents, or any third parties mentioned on the Services be liable for any damages (including, without limitation, incidental and consequential damages, personal injury/wrongful death, lost profits, or damages resulting from lost data or business interruption) even if Healthline has been previously advised of the possibility of such damages, whether in an action under contract, negligence or any other theory, arising out of or in connection with the use, inability to use or performance of the information and Content and the Services.",
+            "conf": 0.9978111982345581,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Healthline is not liable for any personal injury, including death, or infringement caused by your use or misuse of the Services, Content, or Comments (defined below).",
+            "conf": 0.9989115595817566,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify, and hold Healthline, its officers, directors, employees, agents, licensors, and suppliers harmless from and against any claims, actions or demands, liabilities, and settlements, including without limitation reasonable legal and accounting fees, resulting from, or alleged to result from, (i) your use of and access of the Services, (ii) your violation of any term of these Terms of Use, (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right, or (iv) any claim that your use of the Services caused damage to a third party",
+            "conf": 0.9999983906745911,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of any of these Terms of Use shall be deemed a further or continuing waiver of such term or condition or any other term or condition",
+            "conf": 0.998684823513031,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Healthline further reserves the right (but does not have the obligation), in its sole discretion, to modify, delete, or remove any Comments from the Services that it deems to be in violation of the foregoing requirements",
+            "conf": 0.9973376989364624,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Remove or refuse to post any Comments for any or no reason in our sole discretion",
+            "conf": 0.9999221563339233,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Terminate or suspend your access to all or part of the Services for any or no reason, including without limitation, any violation of these Terms of Use",
+            "conf": 0.9986562132835388,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU WAIVE AND HOLD HARMLESS THE COMPANY AND ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS, AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY ANY OF THE FOREGOING PARTIES DURING OR AS A RESULT OF ITS INVESTIGATIONS AND FROM ANY ACTIONS TAKEN AS A CONSEQUENCE OF INVESTIGATIONS BY EITHER SUCH PARTIES OR LAW ENFORCEMENT AUTHORITIES",
+            "conf": 0.999975323677063,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Healthline does not guarantee the accuracy, completeness, or usefulness of any Third-Party Content, nor its merchantability or fitness for any particular purpose",
+            "conf": 0.9999958276748657,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Healthline, in its sole discretion, reserves the right to update, revise, supplement, and to otherwise modify these Terms of Use, and to impose new or additional terms and conditions on your use of the Services from time to time",
+            "conf": 0.999920129776001,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Such updates, revisions, supplements, modifications and additional rules, policies, terms and conditions (collectively referred to in these Terms of Use as \u201cAdditional Terms\u201d) will be effective immediately and incorporated into these Terms of Use upon notice thereof, which may be given by any reasonable means, including by posting to the Services",
+            "conf": 0.9935307502746582,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may stop using the Services at any time (subject to the surviving terms set forth herein).",
+            "conf": 0.9913773536682129,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Healthline also may terminate these Terms of Use and/or Services at any time and may do so immediately without notice",
+            "conf": 0.9981518387794495,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Healthline\u2019s failure to enforce strict performance of any provision of these Terms of Use will not constitute a waiver of Healthline\u2019s right to subsequently enforce such a provision or any other provision of this Agreement, nor will any delay or omission on the part of Healthline to exercise or take advantage of any right or remedy that Healthline has or may have hereunder, operate as a waiver of any right or remedy",
+            "conf": 0.9999935626983643,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.4
+}

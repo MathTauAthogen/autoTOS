@@ -1,0 +1,208 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Date of our Revised Terms and Conditions: 25 Jul 2019",
+            "conf": 0.999998152256012,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may at any time request that we delete your data and account, as described in our Privacy Statement",
+            "conf": 0.9929002523422241,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "We are constantly changing and improving our Services, and thus we may add or remove functionality or features from the Services and we may suspend or stop a Service altogether.",
+            "conf": 0.9846600890159607,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 18 years old to purchase or activate a",
+            "conf": 0.9998571872711182,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Kit",
+            "conf": 0.9818418025970459,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "While our other Services are intended for adults, if you are between the ages of 13 and 18, you may use the other Services with your parent's or guardian's permission",
+            "conf": 0.942513644695282,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children under the age of 13 are not permitted to use any Services",
+            "conf": 0.9999805688858032,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly seek or collect any Personal Information directly from children under the age of 13",
+            "conf": 0.9999339580535889,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all usage and activity on the Services made via your account",
+            "conf": 0.9997642636299133,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "You may ask us to delete your Personal Information as explained in our Privacy Statement",
+            "conf": 0.9980046153068542,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right, but do not have the obligation, to remove or disable access to any User Provided Content that we believe violates these Terms, including the",
+            "conf": 0.9586513042449951,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "these Terms We have the right to modify these Terms or any additional terms that apply to a Service at any time, including to reflect changes to the law or changes to our Services",
+            "conf": 0.9798794388771057,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you of any material changes by posting information through the Services or via email",
+            "conf": 0.9996050596237183,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Such material changes will not apply retroactively and will become effective thirty days after they are posted, except that changes addressing new functions in the Services or changes made for legal reasons will be effective immediately",
+            "conf": 0.999854326248169,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Except as expressly set out in these Terms, we provide the Services and the Ancestry Content to you on an \u201cAS-IS\u201d basis",
+            "conf": 0.9999857544898987,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not make any promises (a) about the Ancestry Content, (b) about the specific functionality of the Services, (c) about the quality, accuracy, reliability, or availability of the Ancestry Content or Services, or (d) that the Ancestry Content or Services will be free from viruses or other harmful components",
+            "conf": 0.9999989867210388,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for any unintentional damage, any actual, incidental, or consequential damage, or for any loss or claim of any kind",
+            "conf": 0.9999694228172302,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": ",",
+            "conf": 0.9023256301879883,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of these Terms or the Privacy Statement, including but not limited to any claim that all or any part of these Terms or Privacy Statement is void or voidable, whether a claim is subject to arbitration, or the question of waiver by litigation conduct",
+            "conf": 0.9997435808181763,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No Class Actions: You and Ancestry each agree that each party may only resolve disputes with the other on an individual basis and may not bring a claim as a plaintiff or a class member in a class, consolidated, or representative action",
+            "conf": 0.9999998211860657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provisions set forth above shall be deemed null and void in their entirety and the parties shall be deemed to have not agreed to arbitrate disputes",
+            "conf": 0.9999772310256958,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": ": Ancestry will provide thirty (30) days' notice of any changes affecting the substance of this section by posting notice of modifications to the Terms on the Services, sending you a message, or otherwise notifying you when you are logged into your account",
+            "conf": 0.9997937679290771,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "If a court or arbitrator decides that this subsection on \"Changes to This Section\" is not enforceable or valid, then this subsection shall be severed from the section entitled \u201cArbitration and Class Action Waiver,\u201d and the court or arbitrator shall apply the first Arbitration and Class Action Waiver section in existence after you began using the Services",
+            "conf": 0.9983237385749817,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Survival: This Arbitration and Class Action Waiver section shall survive any termination of your account or the Services",
+            "conf": 0.9998042583465576,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We reserve the right to change the Ancestry entity which is a party to these Terms at any time as a result of a corporate reorganization or otherwise",
+            "conf": 0.9758138060569763,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If Ancestry is Acquired: If Ancestry or its businesses are acquired or transferred to another entity (in whole or part and including in connection with bankruptcy or similar proceedings), Ancestry has the right to share your Personal Information, User Provided Content and Additional User Information with that entity",
+            "conf": 0.9792304039001465,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "These Terms will continue to apply to the Services until you receive notification of changes to the Terms or Services",
+            "conf": 0.9936805963516235,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Severability: Except as explicitly provided herein, the unenforceability of any section or clause in these Terms will not affect the enforceability of the remaining Terms",
+            "conf": 0.9929018616676331,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No Waiver: Our failure to enforce any provision of these Terms is not a waiver of our rights under that provision",
+            "conf": 0.9999838471412659,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.8
+}

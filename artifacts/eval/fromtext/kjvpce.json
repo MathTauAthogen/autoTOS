@@ -1,0 +1,12 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We DO NOT collect or share any information about the user",
+            "conf": 0.9999292492866516,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 10.0
+}

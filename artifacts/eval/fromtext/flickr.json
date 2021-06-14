@@ -1,0 +1,754 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Date of Last Revision: August 19, 2018",
+            "conf": 0.9999974370002747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We may use technologies like cookies, pixels and local storage to deliver, secure, and understand products and services.",
+            "conf": 0.9834890961647034,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Persistent",
+            "conf": 0.9229025840759277,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "stay on your computer or mobile device until they expire or are deleted",
+            "conf": 0.9702333211898804,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Third-party cookies may be placed on your device by someone providing a service for Flickr, for example to help us understand how our service is being used",
+            "conf": 0.9819715023040771,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third-party cookies may also be placed on your device by our business partners so that they can use them to advertise products and services to you elsewhere on the Internet.",
+            "conf": 0.9805139303207397,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies, pixels, local storage, and similar technologies to show you relevant content, improve your experience, and help protect Flickr and our users.",
+            "conf": 0.9787221550941467,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use these cookies to collect information about how you interact with our services and to help us improve them",
+            "conf": 0.9057881236076355,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We and our advertising partners use these cookies to deliver advertisements, to make them more relevant and meaningful to visitors to our website, and to track the efficiency of our advertising campaigns",
+            "conf": 0.9997778534889221,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "European users may opt out of receiving targeted advertising through the European Interactive Digital Advertising Alliance",
+            "conf": 0.9216161370277405,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Accounts that consist of such collections may be deleted at any time",
+            "conf": 0.9014202356338501,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": ", Dec 17, 2018",
+            "conf": 0.999994158744812,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Date of Last Revision: April 30, 2020",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may change this Privacy Policy from time to time",
+            "conf": 0.9999597668647766,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make changes, we will notify you by revising the date at the top of the policy and, if the changes are significant, we will provide you with additional notice (such as adding a statement to our homepage or sending you an email notification).",
+            "conf": 0.9999793767929077,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We use various technologies to collect information, including cookies, web beacons and similar technologies.",
+            "conf": 0.9848395586013794,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may also collect information using web beacons (also known as \"tracking pixels\").",
+            "conf": 0.9999991059303284,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.",
+            "conf": 0.9948557615280151,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In connection with, or in anticipation of, any merger, divestiture, consolidation, bankruptcy, sale of company assets, financing or acquisition of all or a portion of our business to another company, or other significant corporate event (in which case the acquiring entity may use the information pursuant to its own privacy policies and procedures, to the extent legally permissible).",
+            "conf": 0.9999997019767761,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services",
+            "conf": 0.9857075810432434,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These entities may use cookies, web beacons, mobile device identifiers, and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.",
+            "conf": 0.9989333748817444,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This information may be used by Flickr and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity",
+            "conf": 0.9894649982452393,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For more information about interest-based-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices from each browser that you use to access our websites",
+            "conf": 0.9653863906860352,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You also can opt out of Google Analytics by installing Google Analytics\u2019 opt-out browser add-on in each browser",
+            "conf": 0.9954891800880432,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Flickr cannot and does not promise that any information will remain secure",
+            "conf": 0.9989223480224609,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We store the information we collect about you for as long as is necessary for the purpose(s) outlined in this Privacy Policy, unless the law requires us to keep it for a longer period of time",
+            "conf": 0.9998533129692078,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "and",
+            "conf": 0.9007036685943604,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "To provide the Services, we may transfer your information to servers operated by Flickr or our service providers or affiliates in the United States or other countries",
+            "conf": 0.9879208207130432,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can delete individual photos that you have on Flickr by selecting the photos that you wish to delete, then clicking the delete button",
+            "conf": 0.958709716796875,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "You may delete your account or terminate your subscription pursuant to Flickr\u2019s Terms of Use, but note that we may retain certain information as required by law or for legitimate business purposes",
+            "conf": 0.9875068664550781,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations",
+            "conf": 0.9984187483787537,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Under the Privacy Shield and laws like the GDPR, some individuals have a legal right to request access to, correction of, or deletion of certain personal data we store",
+            "conf": 0.9892016053199768,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The law also gives them the right to request certain restrictions on the use of their personal data, to object to our use of their personal data, or, where applicable, to withdraw their consent to use of their personal data (which will not affect the legality of any processing that happened before your request takes effect).",
+            "conf": 0.9826963543891907,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Flickr does not \u201csell\u201d and has not \u201csold\u201d its personal information in the way most people understood those words before the CCPA was passed",
+            "conf": 0.9976421594619751,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We don\u2019t sell copies of our user lists like a data broker would, for example",
+            "conf": 0.9753400683403015,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Conditions of Use Date of Last Revision: April 30, 2020",
+            "conf": 0.9999983310699463,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "As of May 29, 2018",
+            "conf": 0.9535414576530457,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Services are not targeted towards, nor intended for use by, anyone under the age of 16",
+            "conf": 0.9999833106994629,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are between the ages of 16 and 18, you may use the Services only under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Use",
+            "conf": 0.9999987483024597,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "SmugMug reserves the right to change, modify, revise or otherwise amend any provision of these Terms of Use, and any other terms, policies or guidelines governing your use of the Services, at any time at its sole discretion by providing notice that the Terms of Use have been modified",
+            "conf": 0.988000750541687,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Such notice may be provided by sending an email, or by posting a notice on the Site, or by posting the revised Terms of Use on the Site and revising the date at the top of these Terms of Use or by such other form of notice as determined by SmugMug",
+            "conf": 0.9999529123306274,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "SmugMug does not guarantee the availability of any particular web page or URL and reserves the right, at any time and at our sole discretion, to reclaim, suspend, terminate and/or transfer any such web page or URL",
+            "conf": 0.9870598912239075,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") the User Content you supply is accurate and not misleading",
+            "conf": 0.9264500141143799,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Further, if SmugMug were to terminate an account on the Site for any reason, all User Content associated with such account would be removed",
+            "conf": 0.9660035371780396,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "and/or (iii) remove or take down any User Content from the Services for any reason, at any time, without prior notice, at our sole discretion",
+            "conf": 0.9999052286148071,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "In order to create an account, you must be 16 years of age or older",
+            "conf": 0.9999935626983643,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By registering for an account, you represent and warrant that you are at least 16 years of age and that all information you provide in the registration form (\u201cRegistration Data\u201d) is complete and accurate",
+            "conf": 0.9985455870628357,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "SmugMug reserves the right to terminate your account and/or refuse access to the Services to anyone at any time, with or without cause at its sole discretion",
+            "conf": 0.9998023509979248,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You agree to keep your registered email addresses and other Registration Data current and complete, as SmugMug may send important notices about your account from time to time",
+            "conf": 0.9569829106330872,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality of the passwords associated with your account and for restricting access to your passwords and physical access to your computer while logged into the Services.",
+            "conf": 0.998523473739624,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You accept responsibility for all activities that occur under your user account",
+            "conf": 0.9998474717140198,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We cannot, however, guarantee absolute security of your account, your User Content or the Registration Data we collect, and we cannot promise that our security measures will prevent third party \u201chackers",
+            "conf": 0.9639874696731567,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Flickr is not responsible or liable for any third party access to or use of the User Content you post or your Registration Data.",
+            "conf": 0.9885607361793518,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree to immediately notify Flickr of any unauthorized use of your account or passwords or any other breach of security, and you accept all risks of unauthorized access to the Registration Data, User Content and any other information you provide to Flickr.",
+            "conf": 0.9882909655570984,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "SmugMug makes no claim or representation regarding, and accepts no responsibility for, the quality, accuracy, nature, ownership or reliability of Third Party Services",
+            "conf": 0.9999184012413025,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "SmugMug is not responsible or liable for any loss or damage of any kind incurred as the result of your direct dealings with any of them or otherwise resulting from the presence of advertisements for third party products and services included on the Services.",
+            "conf": 0.9966809153556824,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE SITE, SERVICES, THE FLICKR MATERIALS, AND THE PRODUCTS ARE PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED",
+            "conf": 0.9999426603317261,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SMUGMUG DOES NOT REPRESENT OR WARRANT THAT THE FLICKR MATERIALS OR THE SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE OR THAT THE SERVICES, ITS SERVERS OR EMAIL SENT FROM SMUGMUG OR THE SERVICES ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS",
+            "conf": 0.999981701374054,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SMUGMUG ALSO MAKES NO REPRESENTATION OR WARRANTY REGARDING THE AVAILABILITY, RELIABILITY OR SECURITY OF THE SERVICES AND WILL NOT BE LIABLE FOR ANY UNAUTHORIZED ACCESS TO OR ANY MODIFICATION, SUSPENSION, UNAVAILABILITY, OR DISCONTINUANCE OF THE SERVICES OR THE PRODUCTS PROVIDED THEREON",
+            "conf": 0.9999515414237976,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT WILL SMUGMUG OR ITS DIRECTORS, MEMBERS, EMPLOYEES OR AGENTS BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, LOSS OF PROFITS OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR INABILITY TO USE OR VIEW THE SITE, THE SERVICES, THE PRODUCTS, THE USER CONTENT OR THE FLICKR MATERIALS CONTAINED IN OR ACCESSED THROUGH THE SERVICES, INCLUDING ANY DAMAGES CAUSED BY OR RESULTING FROM YOUR RELIANCE ON ANY INFORMATION OBTAINED FROM SMUGMUG, OR THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR EMAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION OR ANY TERMINATION, SUSPENSION OR OTHER FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION OR UNAUTHORIZED ACCESS TO SMUGMUG\u2019S RECORDS, PROGRAMS OR SERVICES.",
+            "conf": 0.9970672130584717,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT WILL THE AGGREGATE LIABILITY OF SMUGMUG, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE USE OF OR INABILITY TO USE THE SITE, THE SERVICES, THE PRODUCTS, THE USER CONTENT OR THE FLICKR MATERIALS, EXCEED COMPENSATION YOU PAY, IF ANY, TO SMUGMUG FOR ACCESS TO OR USE OF THE SITE OR THE SERVICES OR FOR THE PURCHASE OF PRODUCTS",
+            "conf": 0.9706762433052063,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless SmugMug and its affiliates and subsidiaries (collectively, the \u201cIndemnified Parties\u201d), and the Indemnified Parties\u2019 independent contractors, service providers and consultants, and their respective directors, employees and agents, from and against any claims, damages, costs, liabilities and expenses (including reasonable attorneys\u2019 fees) arising out of or related to any User Content you post or otherwise transmit on or through the Services, your use of or inability to use the Services, the User Content, or the Flickr Materials or the Products, including any actual or threatened suit, demand or claim made against any of the Indemnified Parties and/or their independent contractors, service providers, employees, directors or consultants, arising out of or relating to your User Content, your conduct, your violation of these Terms of Use or your violation of the rights of any third party",
+            "conf": 0.9999929666519165,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND SMUGMUG AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS PART OF ANY PURPORTED CLASS OR REPRESENTATIVE ACTION OR PROCEEDING",
+            "conf": 0.999994158744812,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "UNLESS BOTH YOU AND SMUGMUG AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON\u2019S OR PARTY\u2019S CLAIMS AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, OR CLASS PROCEEDING",
+            "conf": 0.9999936819076538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge that the Flickr Pro Services may be interrupted from time to time, with or without notice, for maintenance, upgrades, system updates or in the event of equipment failure or for any other foreseeable or non-foreseeable cause",
+            "conf": 0.9975858926773071,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "SMUGMUG WILL HAVE NO LIABILITY TO YOU FOR ANY INTERRUPTION, SUSPENSION, DISCONTINUANCE OR UNAVAILABILITY OF THE FLICKR PRO SERVICES FOR ANY REASON, OR FOR ANY LOSS OR INABILITY TO ACCESS ANY MEDIA OR MATERIALS ON THE SERVICES",
+            "conf": 0.9978411197662354,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may request the termination of your Subscription at any time by canceling your account in the Subscription section of your Account Settings, or by sending a message through https://help.flickr.com/contact providing clear written notice of such request",
+            "conf": 0.936015248298645,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Flickr may terminate a Subscription, or any user\u2019s access to and use of the Flickr Pro Services, at any time for any reason at its sole discretion, which such termination will be effective immediately",
+            "conf": 0.9998807311058044,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU MAINTAIN RESPONSIBILITY AND LIABILITY FOR ANY LOSSES OR DAMAGES YOU INCUR FOR FAILURE TO MAINTAIN BACKUP COPIES OF YOUR USER CONTENT",
+            "conf": 0.9944607615470886,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may require our vendors to maintain certain standards with respect to your User Content, but SmugMug does not guarantee that your User Content will be secure and/or available at all times during the Subscription Term",
+            "conf": 0.9997332096099854,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Please note that when User Content or other files are deleted (or your account is cancelled), those files will be deleted as soon as reasonable pursuant to Flickr\u2019s data destruction policies and cannot be recovered by SmugMug or any third party vendor following deletion",
+            "conf": 0.9998089075088501,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Flickr or the Flickr Vendors may revise or discontinue Product options at any time without prior notice, and Products may become unavailable even after an order is placed",
+            "conf": 0.9999842643737793,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Flickr strives to maintain accurate information in the Services and to eliminate any errors",
+            "conf": 0.960884690284729,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "However, we do not warrant that Product descriptions, photos, videos, pricing or other Flickr Materials are accurate, complete, reliable, current, or error-free",
+            "conf": 0.9999966621398926,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Oath reserves the right to update and change, from time to time, these Additional Terms and all documents incorporated by reference",
+            "conf": 0.9999464154243469,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You, and not Oath, are responsible for all purchases (including any unauthorized purchases or errors) made through Oath or in connection with your account",
+            "conf": 0.9991025924682617,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you cancel you will continue to keep the service until the end of your subscription term",
+            "conf": 0.9534454345703125,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The Flickr Services are available for individuals 13 or older",
+            "conf": 0.999808669090271,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are 13 or older but under the age of 18, you should review these terms and conditions with your parent or guardian to make sure that you and your parent or guardian understand and agree to these terms and conditions.",
+            "conf": 0.9888206124305725,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Oath reserves the right to update and change, from time to time, these Gift Purchaser Terms and all documents incorporated by reference",
+            "conf": 0.9769602417945862,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "A Flickr",
+            "conf": 0.9370988607406616,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Certificate may only be sold to persons 13 or older",
+            "conf": 0.968806266784668,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You, and not Oath, are responsible for all purchases (including any unauthorized purchases or errors) made through Oath or in connection with your account",
+            "conf": 0.9991025924682617,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "A Flickr Gift Certificate is provided \u201cAS-IS\u201d, and Oath assumes no responsibility for the timeliness, deletion, mis-delivery, misapplication or failure to store any user communications personalization settings, or balance",
+            "conf": 0.9976282119750977,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: 2018-04-03",
+            "conf": 0.9999969601631165,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "The",
+            "conf": 0.9576207995414734,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ", May 9, 2018",
+            "conf": 0.9648374915122986,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: April 2018",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "(Please note, when you\u00a0use our Services, we may recognize you or your devices even if you are not signed in to our Services.) \u00a0Oath may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.",
+            "conf": 0.9986782670021057,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "includes device specific identifiers and information such as IP address, cookie information, mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data",
+            "conf": 0.9029455184936523,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We collect information when you access content, advertising, sites, interactive widgets, applications, and other products (both on and off of our Services) where Oath\u2019s data collection technologies (such as web beacons, development tools, cookies and other technologies, etc.) are present.",
+            "conf": 0.9995536804199219,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Create analytics and reports for external parties, including partners, publishers, advertisers, apps, third-parties\u00a0and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences.",
+            "conf": 0.9937222599983215,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you opt out, you will continue to see ads, but they may not be as relevant or useful to you",
+            "conf": 0.9725543856620789,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Oath unless one of the following circumstances applies:",
+            "conf": 0.9300483465194702,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may share aggregated or pseudonymous\u00a0information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps, or\u00a0other companies",
+            "conf": 0.9644378423690796,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion",
+            "conf": 0.9778770208358765,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies",
+            "conf": 0.9315482378005981,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We allow other companies\u00a0that show advertisements on our webpages or apps to collect information from your browsers or devices",
+            "conf": 0.9223170876502991,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If the ownership or control of all or part of Verizon, Oath or a specific Services changes as a result of a merger, acquisition or sale of assets, we may transfer your information to the new owner",
+            "conf": 0.9867876768112183,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our Services are for a general audience",
+            "conf": 0.9999035000801086,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 13 without prior parental consent or consistent with applicable law",
+            "conf": 0.9999688863754272,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "With parental permission, a child under age 13 might have an Oath Family Account",
+            "conf": 0.9999869465827942,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy",
+            "conf": 0.9771807789802551,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services",
+            "conf": 0.9989908933639526,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Oath may process information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses",
+            "conf": 0.9320691823959351,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may update this Privacy Policy from time to time, so you should check it periodically",
+            "conf": 0.9586760401725769,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make changes that are material we will provide you with appropriate notice before such changes take effect",
+            "conf": 0.9280512928962708,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 2.4
+}

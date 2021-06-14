@@ -1,0 +1,376 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Date May 25th, 2018",
+            "conf": 0.9999968409538269,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies and other similar technologies on our website, products and services.",
+            "conf": 0.9691836833953857,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We and our partners also use other technologies, including data stored on your web browser or device, identifiers associated with your device and other software for similar purposes.",
+            "conf": 0.9979411363601685,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These Cookies are used to offer you more relevant advertising on other websites and to limit the number of times you see an advertisement",
+            "conf": 0.9696045517921448,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our partners can also place Cookies on your device while you are using our services, and these are referred to as \u2018third party Cookies\u2019",
+            "conf": 0.9713768362998962,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may update our Cookie Policy from time to time to reflect changes in technology, legislation, our operations, or as we otherwise determine is necessary or appropriate",
+            "conf": 0.9935814738273621,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Date July 24th, 2018",
+            "conf": 0.9999961853027344,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "This website is not intended for children under 13 years old and we do not knowingly collect data relating to children under 13 years old",
+            "conf": 0.9999821186065674,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "This version was last updated on May 2018 and historic versions can be obtained by contacting us",
+            "conf": 0.9998202323913574,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We do not control these third-party websites and are not responsible for their privacy statements",
+            "conf": 0.999956488609314,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We will not have access, collect, use, store or transfer your Financial Data",
+            "conf": 0.9770526885986328,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We collect this personal data by using cookies, pixels, server logs and other similar technologies.",
+            "conf": 0.9851602911949158,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you",
+            "conf": 0.9991269707679749,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by Contacting us at any time",
+            "conf": 0.9997476935386658,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly",
+            "conf": 0.979303777217865,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may seek to acquire other businesses or merge with them",
+            "conf": 0.9866596460342407,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Some of our external third parties are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA",
+            "conf": 0.9928862452507019,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements",
+            "conf": 0.9995752573013306,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years plus current year after they cease being customers for tax purposes",
+            "conf": 0.9991957545280457,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some circumstances you can ask us to delete your data: see Request erasure below for further information.",
+            "conf": 0.9806912541389465,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ": This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it",
+            "conf": 0.9999686479568481,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law.",
+            "conf": 0.989433765411377,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Withdraw consent at any time",
+            "conf": 0.976364016532898,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may update our Privacy Policy from time to time to reflect changes in technology, legislation, our operations, or as we otherwise determine is necessary or appropriate",
+            "conf": 0.9778730273246765,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Date August 20th 2018",
+            "conf": 0.9999963641166687,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may change these terms and conditions to reflect: (a) changes in applicable laws",
+            "conf": 0.9993993043899536,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Preteens and users under 18",
+            "conf": 0.9956203103065491,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Some Jagex Products may have age restrictions which prevent users under 13 creating an account",
+            "conf": 0.9999957084655762,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If a Jagex Product is not subject to age restrictions, a user under 13 may create an account",
+            "conf": 0.9999979138374329,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "if we are not satisfied that such consent has been given or that such consent does not comply with local laws regarding users who are under 13 years of age",
+            "conf": 0.9733965396881104,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect or store any personally identifiable information from children under 13",
+            "conf": 0.9992741942405701,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "together with their children who are under the age of 13",
+            "conf": 0.9349758625030518,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18, by using our website you are representing (i.e.",
+            "conf": 0.9999986290931702,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Parents of those under 18 should also review this information",
+            "conf": 0.965869665145874,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We cannot guarantee that users will comply with our terms and conditions, rules or otherwise behave appropriately",
+            "conf": 0.9999434947967529,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to make such assessment in our sole discretion, change any username for any reason or take such other action as we believe appropriate",
+            "conf": 0.9963115453720093,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree to keep your password safe at all times and not to disclose it to any other person.",
+            "conf": 0.9975873827934265,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for the activities of all persons who use your password to gain access to your account.",
+            "conf": 0.9955234527587891,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Jagex reserves the right to stop offering a Jagex Product or a particular part of a Jagex Product at any time either permanently or temporarily, at which point any license granted to you to use the Jagex Product or a part thereof will be automatically terminated or suspended",
+            "conf": 0.9987020492553711,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right without notice or refund to record, suspend, remove or delete User Content or to disclose to the relevant authorities any User Content if: (a) it is the subject of a complaint",
+            "conf": 0.9999312162399292,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your User Content including any User Content you place on any wiki or forum",
+            "conf": 0.9168748259544373,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "that you have appropriate parental or guardian consent if you are under 18 years of age",
+            "conf": 0.9415083527565002,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to alter the amount or terms of our subscription fees at any time",
+            "conf": 0.9922394752502441,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your subscription at any time by clicking\u00a0here\u00a0or visiting the account management section on the website of the Jagex Product",
+            "conf": 0.9994233250617981,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Jagex stops offering the Jagex Product or you decide to cancel your subscription or account",
+            "conf": 0.9969772696495056,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We do not accept responsibility for such equipment, software or services",
+            "conf": 0.9998411536216736,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WE MAKE NO PROMISES ABOUT THOSE SITES OR THEIR CONTENT, PRODUCTS OR SERVICES AS THESE ARE OUTSIDE OUR REASONABLE CONTROL",
+            "conf": 0.9011833071708679,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "JAGEX PRODUCTS ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9999735355377197,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE DO NOT WARRANT THAT YOU WILL BE ABLE TO ACCESS OR USE A JAGEX PRODUCT AT THE TIMES OR LOCATIONS OF YOUR CHOOSING OR THAT A JAGEX PRODUCT WILL BE UNINTERRUPTED OR FREE OF ERRORS",
+            "conf": 0.999896764755249,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ACCORDINGLY, JAGEX IS NOT LIABLE TO YOU FOR ANY LOSS OR DAMAGE THAT MIGHT ARISE, FOR EXAMPLE, FROM THE INOPERABILITY, UNAVAILABILITY OR SECURITY VULNERABILITIES OF THE JAGEX PRODUCT OR FROM YOUR RELIANCE ON THE QUALITY, ACCURACY, OR RELIABILITY OF THE JAGEX PRODUCT",
+            "conf": 0.998088538646698,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "JAGEX EXPRESSLY DISCLAIMS LIABILITY FOR ANY LOSS OR DAMAGE CAUSED BY US OR OUR EMPLOYEES OR AGENTS IN CIRCUMSTANCES WHERE (A) THERE IS NO BREACH OF A LEGAL DUTY OF CARE OWED TO YOU BY US OR BY ANY OF OUR EMPLOYEES OR AGENTS.",
+            "conf": 0.9939635992050171,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If we fail to enforce any provision of these terms and conditions, that failure will not preclude us from enforcing either that provision (or any similar provision) on a later occasion",
+            "conf": 0.9999777674674988,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "A person who is not a party to this agreement shall have no rights to enforce any term of this agreement",
+            "conf": 0.9999972581863403,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.4
+}

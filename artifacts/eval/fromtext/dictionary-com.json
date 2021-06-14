@@ -1,0 +1,439 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated on: May 25, 2018",
+            "conf": 0.997066080570221,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated on: May 25, 2018",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "cookies, web beacons, pixel tags, clear gifs, and other similar files or technologies may be used to collect and store the information automatically collected about your computer, device, and Service usage",
+            "conf": 0.9998435974121094,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "control the use of these technologies",
+            "conf": 0.966803789138794,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "You hereby consent to the transfer and processing of your data in the United States of America and any other jurisdiction throughout the world, which may or may not have different levels of privacy protection than those in your jurisdiction",
+            "conf": 0.9996286034584045,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will provide notice in advance of the effective date with regard to any updates that materially change the ways in which we process your personal information",
+            "conf": 0.9998061656951904,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We do not control these third-party websites and are not responsible for their privacy practices",
+            "conf": 0.9999728202819824,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Our Services are intended for general audiences over the age of 16 years old",
+            "conf": 0.9999707341194153,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect information from children under the age of 16 years old",
+            "conf": 0.9997777938842773,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "IF YOU ARE NOT AT LEAST 16 YEARS OLD, DO NOT USE THE SERVICES",
+            "conf": 0.9999949336051941,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We collect information about you from a variety of sources, including from you directly providing it to us (e.g., when you open an account or contact us), from cookies and other tracking technologies that automatically collect information in the course of your use of the Services (skip to Cookies and Other Trackers section) and from various third parties and public sources.",
+            "conf": 0.988078773021698,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "-parties who provide us with products and services may also place cookies, ad tags and/or",
+            "conf": 0.9609256982803345,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "that collect the information outlined above in order to provide us with products and services including, analytics tools (Google Analytics), functionalities like playing video content (Brightcove), and targeted advertising",
+            "conf": 0.9946333169937134,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These third parties may also collect information about you from other sources and combine it with other information collected about you from third party websites not affiliated with us",
+            "conf": 0.9857152104377747,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, advertiser and advertising networks, as well as data analytics companies who service them, may participate in Online Behavioral Advertising and track your activity across various sites and/or devices where they display ads and record your activities, so they can show ads that they consider relevant to you.",
+            "conf": 0.9886236190795898,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email) that links web pages to particular web servers and their cookies, and may be used for a variety of purposes, such as counting the number of visitors to the Sites, analyzing how users navigate around the Sites, assessing what content or ads are viewed or clicked on by our visitors.",
+            "conf": 0.9998851418495178,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Ad companies we work with place cookies on your computer to track your activities across various sites so that they can display ads on our Sites and third party websites that are more relevant to you and your interests",
+            "conf": 0.9989921450614929,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use third party cookies for functionality, performance / analytics, advertising and social media purposes",
+            "conf": 0.9998210668563843,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "These are deleted automatically once you close your browser",
+            "conf": 0.9719632267951965,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use performance/analytics cookies to analyze how the Sites are accessed, used, or is performing in order to provide you with a better user experience and to maintain, operate and continually improve the Sites",
+            "conf": 0.9821131825447083,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We allow third party advertising companies to place cookies on our Sites",
+            "conf": 0.9987106919288635,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These cookies enable such companies to track your activity across various sites where they display ads and record your activities so they can show ads that they consider relevant to you as you browse the web",
+            "conf": 0.9981922507286072,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We may disclose your opt-out choices to third parties so that they can honor your preferences in accordance with applicable laws",
+            "conf": 0.998721182346344,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.",
+            "conf": 0.9947777390480042,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "can usually prevent the operation of web-beacons by changing your web-browser cookie settings and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the \u201ctext\u201d display (rather than \u201cHTML\u201d display",
+            "conf": 0.9184496402740479,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Opting-out is generally done by the third party dropping a cookie on your browser indicating your intent to opt-out",
+            "conf": 0.9991129040718079,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "\u2019s browser cookie file, you may clear the opt-out cookie and no longer be subject to its opt-out",
+            "conf": 0.9478230476379395,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "You may exercise choices regarding certain third party advertising cookies through the following organizations:",
+            "conf": 0.9710524678230286,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Opting out only means that those selected members should no longer deliver certain Interest/behavioral/targeted -based ads to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks).",
+            "conf": 0.9562503099441528,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of receiving certain promotional communications (e-mails and push notifications) from us at any time by (i) for e-mails, following the instructions as provided in e-mails to click on the unsubscribe link",
+            "conf": 0.9999749064445496,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may use your personal information to deliver relevant advertisements to you and measure the effectiveness of the advertising we serve to you",
+            "conf": 0.9806175827980042,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use automated decision-making to deliver tailored advertisements based on your personal information",
+            "conf": 0.9939762949943542,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "\u2022 Sale or merger of our business: We may transfer your information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).",
+            "conf": 0.9999994039535522,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "\u2022 Advertisers and advertising networks: Advertisers and advertising networks place ads on our Sites",
+            "conf": 0.9561406373977661,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "They also may use cookies and other technologies to collect this information when you use our Service as described above",
+            "conf": 0.9747086763381958,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We retain the information we collect about and from you for as long as necessary to fulfill the purpose we collected it for and for the purpose of satisfying any legal, accounting, or reporting requirements",
+            "conf": 0.9979109764099121,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some circumstances you can ask us to delete your data: see ACCESS, REVIEW, REVISION &amp.",
+            "conf": 0.9797862768173218,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to access, review, revise or delete personal information we have collected from you, please contact us as provided below",
+            "conf": 0.9711054563522339,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "afforded certain rights regarding their personal data, including the right to access, correct, delete, restrict or object to our use of, and receive a portable copy in a usable electronic format of your personal information",
+            "conf": 0.9593561887741089,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "you are receiving the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S.",
+            "conf": 0.988841712474823,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": ", if you are receiving the Services from the European Economic Area (the \u201cEEA",
+            "conf": 0.9839085340499878,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": ") we note your information may be transferred to, stored, and processed in a country that is not regarded as providing the same level of protection for personal information as the laws of your home country, and may be available to the government of those countries under a lawful order made in those countries",
+            "conf": 0.9964970350265503,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We may also transfer data to the U.S.",
+            "conf": 0.9906615018844604,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our Services are intended for general audiences over the age of 16 years old",
+            "conf": 0.9999707341194153,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect information from children under the age of 16 years old",
+            "conf": 0.9997777938842773,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "IF YOU ARE NOT AT LEAST 16 YEARS OLD, DO NOT USE THE SERVICES",
+            "conf": 0.9999949336051941,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "This means that you will be responsible for the acts of anyone accessing the Site through you or using your name and password.",
+            "conf": 0.9961144328117371,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, in our sole discretion, to change any or all of the provisions of these Terms at any time",
+            "conf": 0.9999247193336487,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you of any material changes by posting them on the Site or through other reasonable means of providing notice",
+            "conf": 0.9998695254325867,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to these Terms will be effective immediately upon notice to you unless we advise otherwise",
+            "conf": 0.999710202217102,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right, in our sole discretion, to change, limit, or discontinue any aspect, content, or feature of the Site, as well as any aspect pertaining to the use of the Services.",
+            "conf": 0.9891873598098755,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You will be solely responsible for the content of any material or information that you make available through the Site",
+            "conf": 0.947094738483429,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You will also be liable for any damage resulting from making any material or information available through the Site",
+            "conf": 0.9997854828834534,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We have no obligation to, and does not and cannot, review every item of material or information that you and users other than yourself made available through the Site, and we are not responsible for any content of this material or information",
+            "conf": 0.9992411136627197,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "However, we reserve the right to delete, move, or edit any material or information that it deems, in its sole discretion, unacceptable, libelous, defamatory, obscene, pornographic, abusive, or otherwise in violation of any law or that infringes or violates any rights of any other person or entity",
+            "conf": 0.9969183206558228,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Because we do not review nor have control over such sites and resources, we shall not be responsible or liable for use of or reliance on any content, products, services or information at such sites or resources.",
+            "conf": 0.9937074184417725,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "NEITHER DICTIONARY, NOR ANY OF ITS AFFILIATES, EMPLOYEES, AGENTS, THIRD PARTY CONTENT PROVIDERS, OR LICENSORS WARRANT THAT THE SITE WILL BE UNINTERRUPTED OR ERROR FREE NOR DO THEY MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SITE, OR AS TO THE ACCURACY, RELIABILITY, COMPLETENESS, OR CONTENTS OF ANY CONTENT, INFORMATION, MATERIAL, POSTINGS, OR POSTING RESPONSES FOUND ON THE SITE, ANY MERCHANDISE OR SERVICES PROVIDED THROUGH THE SITE, OR ANY LINKS TO OTHER SITES MADE AVAILABLE ON THE SITE",
+            "conf": 0.9999293684959412,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SITE AND ALL CONTENT, MATERIAL, INFORMATION, POSTINGS, OR POSTING RESPONSES FOUND ON THE SITE ARE PROVIDED ON AN \u201cAS IS\u201d BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE OR NON-INFRINGEMENT OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A",
+            "conf": 0.9964789748191833,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "(OR ANY OF ITS PARENTS, SUBSIDIARIES, AFFILIATES, EMPLOYEES, AGENTS, THIRD PARTY CONTENT PROVIDERS, OR LICENSORS, AND THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS), BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF, OR THE INABILITY TO USE, ANY TOOL, CONTENT, INFORMATION, MATERIAL, POSTINGS, OR POSTING RESPONSES ON THE SITE OR THE SITE ITSELF.",
+            "conf": 0.9976596832275391,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless Dictionary (and any of its parents, subsidiaries, affiliates, employees, agents, third party content providers, or licensors, and their respective directors, officers, employees, and agents) from and against all claims, liability, and expenses, including attorneys\u2019 fees and legal fees and costs, arising out of your use of the Site or your breach of any provision of this agreement",
+            "conf": 0.999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate this agreement and your use of the Site at any time",
+            "conf": 0.9205719828605652,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver by Dictionary of any breach or default under these Terms will be deemed to be a waiver of any preceding or subsequent breach or default",
+            "conf": 0.9987425804138184,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.3
+}

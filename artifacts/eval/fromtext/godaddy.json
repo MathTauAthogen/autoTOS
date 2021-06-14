@@ -1,0 +1,747 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Revised: June 27, 2018",
+            "conf": 0.999998927116394,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "You acknowledge and agree that (i) GoDaddy, in its sole and absolute discretion, may change or modify this Agreement, and any policies or agreements which are incorporated herein, at any time, and such changes or modifications shall be effective immediately upon posting to this Site, and (ii) your use of this Site or the Services found at this Site after such changes or modifications have been made\u00a0shall constitute your acceptance of this Agreement as last revised",
+            "conf": 0.997936487197876,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "If you do not agree to be bound by this Agreement as last revised, do not use (or continue to use) this Site or the Services found at this Site",
+            "conf": 0.9809951782226562,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend and hold harmless (within 30 days of demand) the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney",
+            "conf": 0.9999975562095642,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s fees and expenses, in any way arising out of, relating to, or otherwise in connection with the your domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration",
+            "conf": 0.9998482465744019,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You shall not enter into any settlement or compromise of any such indemnifiable claim without Registrar\u2019s or Registry Operator\u2019s prior written consent, which consent shall not be unreasonably withheld, and you agree that these indemnification obligations shall survive the termination or expiration of the Agreement for any reason",
+            "conf": 0.9943302869796753,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "GoDaddy expressly reserves the right to change or modify its prices and fees at any time, and such changes or modifications shall be posted online at this Site and effective immediately without need for further notice to you",
+            "conf": 0.9762377738952637,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "TERM OF AGREEMENT",
+            "conf": 0.914548933506012,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "The original date of registration and expiration date",
+            "conf": 0.9525995850563049,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree that if a dispute arises as a result of one (1) or more",
+            "conf": 0.9979172945022583,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "names you have registered using GoDaddy, you will indemnify, defend and hold GoDaddy harmless as provided for in this Agreement",
+            "conf": 0.9946659207344055,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify and hold harmless the registrar and registry operator, and their directors, officers, employees and agents, from and against any and all claims, damages, liabilities, costs and expenses (including reasonable legal fees and expenses) arising out of or related to the domain name registration",
+            "conf": 0.9999876022338867,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "This obligation shall survive expiration or termination of this Agreement or the domain name registration",
+            "conf": 0.9999639987945557,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "GoDaddy",
+            "conf": 0.968402087688446,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ", you acknowledge and agree that GoDaddy may display both (a) in-house advertising (which includes links to GoDaddy products and services) and (b) third-party advertising (which includes links to third-party products and services) on your Parked Page through the use of pop-up or pop-under browser windows, banner advertisements, audio or video streams, or any other advertising means, and we may aggregate for our own use, related usage data by means of cookies and other similar means",
+            "conf": 0.9785587191581726,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "GoDaddy makes no effort to edit, control, monitor, or restrict the content and third-party advertising displayed on GoDaddy",
+            "conf": 0.9530981779098511,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "\u2019s Parked Pages, and expressly disclaims any liability or responsibility to you or any third party in connection therewith",
+            "conf": 0.9474231004714966,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "at any time for any reason",
+            "conf": 0.9382596015930176,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to modify its pricing structure at any time",
+            "conf": 0.9950959086418152,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We shall use commercially reasonable efforts to attempt to provide certain portions of the Services on a twenty-four (24) hours a day, seven (7) days a week basis throughout the term of this Agreement and other portions of the service, during normal business hours",
+            "conf": 0.9999459385871887,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that from time to time the Services may be inaccessible or inoperable for any reason, including, without limitation: (i) equipment malfunctions",
+            "conf": 0.9998445510864258,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that we has no control over the availability of the service on a continuous or uninterrupted basis",
+            "conf": 0.999992847442627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The service is provided \u201cas is\u201d, \u201cas available\u201d, and \u201cwith all faults\u201d, and we assume no liability or responsibility regarding the same",
+            "conf": 0.9996389150619507,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u201c99.999% availability\u201d:\u00a0 A guarantee that the Global Nameserver Infrastructure shall be available to respond to DNS queries 99.999% of the time.",
+            "conf": 0.97877436876297,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that DNSSEC does not provide confidentiality of data, and we assume no liability or responsibility regarding the same",
+            "conf": 0.9826554656028748,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "To the fullest extent permitted by law, auDA will not be liable to Registrant for any direct, indirect, consequential, special, punitive or exemplary losses or damages of any kind (including, without limitation, loss of use, loss or profit, loss or corruption of data, business interruption or indirect costs) suffered by Registrant arising from, as a result of, or otherwise in connection with, any act or omission whatsoever of auDA, its employees, agents or contractors",
+            "conf": 0.9998335838317871,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Registrant agrees to indemnify, keep indemnified and hold auDA, its employees, agents and contractors harmless from all and any claims or liabilities, arising from, as a result of, or otherwise in connection with,",
+            "conf": 0.9847055077552795,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "'s registration or use of its",
+            "conf": 0.9570429921150208,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "By registering a .CN domain, you expressly agree that your data may be stored on servers in the U.S., or otherwise outside of the People's Republic of China",
+            "conf": 0.9937325716018677,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Revised: October 25, 2017",
+            "conf": 0.9999988675117493,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You warrant that all information provided by You to DBP is truthful, complete, current and accurate",
+            "conf": 0.9996854066848755,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree You are entirely responsible for maintaining the confidentiality of Your customer number/login ID\u00a0and password (\"Account Access Information\").\u00a0 You agree to notify DBP immediately of any unauthorized use of Your account or any other breach of security.\u00a0 You agree DBP will not be liable for any loss that You may incur as a result of someone else using Your Account Access Information, either with or without Your knowledge.\u00a0 You further agree You could be held liable for losses incurred by DBP or another party due to someone else using Your Account Access Information.\u00a0 For security purposes, You should keep Account Access Information in a secure location and take precautions to prevent others from gaining access to Your Account Access Information.\u00a0 You agree that You are entirely responsible for all activity in Your account, whether initiated by You, or by others.\u00a0 DBP specifically disclaims liability for any activity in Your account, regardless of whether You authorized the activity.",
+            "conf": 0.9996947646141052,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES SHALL DBP BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES FOR ANY REASON WHATSOEVER RELATED TO THIS AGREEMENT, YOUR DOMAIN NAME REGISTRATION, DBP'S SERVICES, USE OR INABILITY TO USE THE DBP WEBSITE OR THE MATERIALS AND CONTENT OF THE WEBSITE OR ANY OTHER WEBSITES LINKED TO THE DBP WEBSITE OR YOUR PROVISION OF ANY PERSONALLY IDENTIFIABLE INFORMATION TO DBP OR ANY THIRD PARTY.",
+            "conf": 0.9983065128326416,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to release, defend, indemnify and hold harmless DBP, its parent companies, subsidiaries, affiliates, shareholders, agents, directors, officers and employees and Your Registrar, from and against any and all claims, demands, liabilities, losses, damages or costs, including reasonable attorneys' fees, arising out of or related in any way to this Agreement, the services provided hereunder by DBP, the DBP website, Your account with DBP, Your use of Your domain name registration, and/or disputes arising in connection with the dispute policy",
+            "conf": 0.9999989867210388,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DBP, ITS PARENT COMPANIES, SUBSIDIARIES, AFFILIATES, SHAREHOLDERS, AGENTS, DIRECTORS, OFFICERS, AND EMPLOYEES EXPRESSLY DISCLAIM ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND IN CONNECTION WITH THIS AGREEMENT, THE SERVICE PROVIDED HEREUNDER, THE DBP WEBSITE OR ANY WEBSITES LINKED TO THE DBP WEBSITE, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT",
+            "conf": 0.9949216246604919,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ALL DBP SERVICES, AS WELL AS THE DBP WEBSITE, ARE PROVIDED \"AS IS\".",
+            "conf": 0.9999997615814209,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In the unlikely event You lose Your domain name registration to a third party solely as a result of DBP's willful misconduct, Your Registrar (the \"Indemnifying Party\") will indemnify and hold You harmless against any losses, damages or costs (including reasonable attorneys' fees) resulting from any claim, action, proceeding, suit or demand arising out of or related to the loss of Your domain name registration",
+            "conf": 0.9999884366989136,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Revised: February 16, 2012",
+            "conf": 0.9999990463256836,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "(As Approved by ICANN on October 24, 1999)",
+            "conf": 0.9970808625221252,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to modify this Policy at any time with the permission of ICANN",
+            "conf": 0.9994584321975708,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post our revised Policy at this location at least thirty (30) calendar days before it becomes effective",
+            "conf": 0.9994485974311829,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Revised: July 10, 2018",
+            "conf": 0.9999988675117493,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "GoDaddy may, in its sole and absolute discretion, change or modify this Agreement, and any policies or agreements which are incorporated herein, at any time, and such changes or modifications shall be effective immediately upon posting to this Site",
+            "conf": 0.999787449836731,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "In addition, GoDaddy may occasionally notify you of changes or modifications to this Agreement by email",
+            "conf": 0.9993427991867065,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "GoDaddy reserves the right to modify, change, or discontinue any aspect of this Site or the Services, including without limitation prices and fees for the same, at any time.",
+            "conf": 0.9877595901489258,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "This Site and the Services are available only to individuals (\u201cUsers\u201d) who can form legally binding contracts under applicable law.\u00a0 By using this Site or the Services, you represent and warrant that you are (i) at least eighteen (18) years of age,\u00a0(ii) otherwise recognized as being able to form legally binding contracts under applicable law, or (iii) are not a person barred from purchasing or receiving the Services found under the laws of the United States or other applicable jurisdiction.",
+            "conf": 0.9936493635177612,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "GoDaddy shall not be liable for any loss or damage resulting from GoDaddy\u2019s reliance on any instruction, notice, document or communication reasonably believed by GoDaddy to be genuine and originating from an authorized representative of your corporate entity",
+            "conf": 0.9597005248069763,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant to GoDaddy that all information you submit when you create your Account is accurate, current and complete, and that you will keep your Account information accurate, current and complete",
+            "conf": 0.9750049710273743,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "If GoDaddy has reason to believe that your Account information is untrue, inaccurate, out-of-date or incomplete, GoDaddy reserves the right, in its sole and absolute discretion, to suspend or terminate your Account",
+            "conf": 0.9292076230049133,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for the activity that occurs on your Account, whether authorized by you or not, and you must keep your Account information secure, including without limitation your customer number/login, password, Payment Method(s) (as defined below), and shopper PIN",
+            "conf": 0.9983482360839844,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "GoDaddy will not be liable for any loss you incur due to any unauthorized use of your Account",
+            "conf": 0.9658744931221008,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that your User Submissions are entirely voluntary, do not establish a confidential relationship or obligate GoDaddy to treat your User Submissions as confidential or secret, that GoDaddy has no obligation, either express or implied, to develop or use your User Submissions, and no compensation is due to you or to anyone else for any intentional or unintentional use of your User Submissions, and that GoDaddy may be working on the same or similar content, it may already know of such content from other sources, it may simply wish to develop this (or similar) content on its own, or it may have taken / will take some other action",
+            "conf": 0.9156507849693298,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Subject to the terms and conditions of this Agreement and our other policies and procedures, we shall use commercially reasonable efforts to attempt to provide this Site and the Serviceson a twenty-four (24) hours a day, seven (7) days a week basis",
+            "conf": 0.9969984889030457,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that from time to time this Site may be inaccessible or inoperable for any reason including, but not limited to, equipment malfunctions",
+            "conf": 0.9999476075172424,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that we have no control over the availability of this Site or the Service on a continuous or uninterrupted basis, and that we assume no liability to you or any other party with regard thereto",
+            "conf": 0.9933425784111023,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "GoDaddy may remove any item of User Content (whether posted to a website hosted by GoDaddy or posted to this Site) and/or terminate a User\u2019s access to this Site or the Services found at this Site for posting or publishing any material in violation of this Agreement, or for otherwise violating this Agreement (as determined by GoDaddy in its sole and absolute discretion), at any time and without prior notice",
+            "conf": 0.9999725222587585,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "GoDaddy may also terminate a User",
+            "conf": 0.9621418118476868,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If GoDaddy terminates your access to this Site or the Services found at this Site, GoDaddy may, in its sole and absolute discretion, remove and destroy any data and files stored by you on its servers",
+            "conf": 0.9957711100578308,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "GoDaddy reserves the right to cease offering or providing any of the Services at any time, for any or no reason, and without prior notice",
+            "conf": 0.9996180534362793,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Although GoDaddy makes great effort to maximize the lifespan of all its Services, there are times when a Service we offer will be discontinued or reach its End-of-Life (\"EOL\").",
+            "conf": 0.9275198578834534,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree to take full responsibility for any and all loss or damage arising from any such migration",
+            "conf": 0.999780535697937,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "(iii) The Beta Services are provided as-is, so we do not recommend using them in production or mission critical environments",
+            "conf": 0.9796415567398071,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(iv) GoDaddy reserves the right to modify, change, or discontinue any aspect of the Beta Services at any time",
+            "conf": 0.9997041821479797,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(ix) The Beta Services are provided \u201cas is\u201d, \u201cas available\u201d, and \u201cwith all faults\u201d",
+            "conf": 0.9999332427978516,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "GoDaddy reserves the right to change its prices and fees at any time, and such changes shall be posted online at this Site and effective immediately without need for further notice to you",
+            "conf": 0.9992067813873291,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "If you have purchased or obtained Services for a period of months or years, changes in prices and fees shall be effective when the Services in question come up for renewal as further described below",
+            "conf": 0.9187960028648376,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "are subject to change at any time, and\u00a0such changes shall\u00a0be posted online and effective immediately without need for further notice to",
+            "conf": 0.9373147487640381,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You also agree to indemnify GoDaddy\u00a0against any losses that it may incur if your financial institution withholds payment from GoDaddy\u00a0for any reason",
+            "conf": 0.9905950427055359,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "including but not limited to the following: (i) to correct mistakes made by GoDaddy in offering or delivering any Services (including any domain name registration), (ii) to protect the integrity and stability of, and correct mistakes made by, any domain name registry or registrar, (iii) to assist with our fraud and abuse detection and prevention efforts, (iv) to comply with court orders against you and/or your domain name or website and applicable local, state, national and international laws, rules and regulations, (v) to comply with requests of law enforcement, including subpoena requests, (vi) to comply with any dispute resolution process, (vii) to defend any legal action or threatened legal action without consideration for whether such legal action or threatened legal action is eventually determined to be with or without merit, (viii) to avoid any civil or criminal liability on the part of GoDaddy, its officers, directors, employees and agents, as well as GoDaddy\u2019s affiliates, including, but not limited to, instances where you have sued or threatened to sue GoDaddy, or (ix) to respond to an excessive amount of complaints related in any way to your Account, domain name(s), or content on your website",
+            "conf": 0.9830058813095093,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "GoDaddy expressly reserves the right to terminate, without notice to you, any and all Services where, in GoDaddy's sole discretion, you are harassing or threatening GoDaddy and/or any of GoDaddy's employees",
+            "conf": 0.9990448355674744,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "GoDaddy Content is provided to you \u201cas is\u201d, \u201cas available\u201d and \u201cwith all faults\u201d for your information and personal, non-commercial use only and may not be downloaded, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any purposes whatsoever without the express prior written consent of GoDaddy",
+            "conf": 0.9997164011001587,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "GoDaddy assumes no responsibility for the content, terms and conditions, privacy policies, or practices of any third-party websites",
+            "conf": 0.9925530552864075,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT YOUR USE OF THIS SITE AND THE SERVICES FOUND AT THIS SITE SHALL BE AT YOUR OWN RISK AND THAT THIS SITE AND THE SERVICES FOUND AT THIS SITE ARE PROVIDED \u201cAS IS\u201d, \u201cAS AVAILABLE\u201d AND \u201cWITH ALL FAULTS\u201d.",
+            "conf": 0.9955727458000183,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "GoDaddy, ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS MAKE NO REPRESENTATIONS OR WARRANTIES ABOUT (I) THE ACCURACY, COMPLETENESS, OR CONTENT OF THIS SITE, (II) THE ACCURACY, COMPLETENESS, OR CONTENT OF ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, AND/OR (III) THE SERVICES FOUND AT THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, AND GoDaddy ASSUMES NO LIABILITY OR RESPONSIBILITY FOR THE SAME",
+            "conf": 0.9998186826705933,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IN ADDITION, YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT NO ORAL OR WRITTEN INFORMATION OR ADVICE PROVIDED BY GoDaddy, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS (INCLUDING WITHOUT LIMITATION ITS CALL CENTER OR CUSTOMER SERVICE REPRESENTATIVES), AND\u00a0THIRD PARTY SERVICE PROVIDERS \u00a0WILL (I) CONSTITUTE LEGAL OR FINANCIAL ADVICE OR (II) CREATE A WARRANTY OF ANY KIND WITH RESPECT TO THIS SITE OR THE SERVICES FOUND AT THIS SITE, AND USERS SHOULD NOT RELY ON ANY SUCH INFORMATION OR ADVICE",
+            "conf": 0.9874535799026489,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL GoDaddy, ITS OFFICERS, DIRECTORS, EMPLOYEES,\u00a0 AGENTS, AND ALL THIRD PARTY SERVICE PROVIDERS, BE LIABLE TO YOU OR ANY OTHER PERSON OR ENTITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING ANY THAT MAY RESULT FROM (I) THE ACCURACY, COMPLETENESS, OR CONTENT OF THIS SITE, (II) THE ACCURACY, COMPLETENESS, OR CONTENT OF ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (III) THE SERVICES FOUND AT THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (IV) PERSONAL INJURY OR PROPERTY DAMAGE OF ANY NATURE WHATSOEVER, (V) THIRD-PARTY CONDUCT OF ANY NATURE WHATSOEVER, (VI) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS AND/OR ANY AND ALL CONTENT, PERSONAL INFORMATION, FINANCIAL INFORMATION OR OTHER INFORMATION AND DATA STORED THEREIN, (VII) ANY INTERRUPTION OR CESSATION OF SERVICES TO OR FROM THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (VIII) ANY VIRUSES, WORMS, BUGS, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR FROM THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (IX) ANY USER CONTENT OR CONTENT THAT IS DEFAMATORY, HARASSING, ABUSIVE, HARMFUL TO MINORS OR ANY PROTECTED CLASS, PORNOGRAPHIC, \u201cX-RATED\u201d, OBSCENE OR OTHERWISE OBJECTIONABLE, AND/OR (X) ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF THIS SITE OR THE SERVICES FOUND AT THIS SITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL OR EQUITABLE THEORY, AND WHETHER OR NOT GoDaddy IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES",
+            "conf": 0.9830480217933655,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to protect, defend, indemnify and hold harmless GoDaddy and its officers, directors, employees,\u00a0agents,\u00a0and third party service providers\u00a0from and against any and all claims, demands, costs, expenses, losses, liabilities and damages of every kind and nature (including, without limitation, reasonable attorneys\u2019 fees) imposed upon or incurred by GoDaddy directly or indirectly arising from (i) your use of and access to this Site or the Services found at this Site",
+            "conf": 0.9999989867210388,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") your violation of any third-party right, including without limitation any intellectual property or other proprietary right",
+            "conf": 0.91777104139328,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "DISPUTES, BINDING INDIVIDUAL ARBITRATION AND WAIVER OF CLASS ACTIONS AND CLASS ARBITRATIONS",
+            "conf": 0.9973403215408325,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "(E)\u00a0WAIVER OF CLASS ACTIONS AND CLASS ARBITRATIONS",
+            "conf": 0.983482301235199,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND\u00a0GoDaddy AGREE THAT EACH PARTY MAY BRING DISPUTES AGAINST THE OTHER PARTY ONLY IN AN INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, INCLUDING WITHOUT LIMITATION FEDERAL OR STATE CLASS ACTIONS, OR CLASS ARBITRATIONS",
+            "conf": 0.9999204277992249,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "NEITHER YOU NOR GoDaddy WILL SEEK TO HAVE ANY DISPUTE HEARD AS A CLASS ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR IN ANY OTHER PROCEEDING IN WHICH EITHER PARTY ACTS OF PROPOSES TO ACT IN A REPRESENTATIVE CAPACITY",
+            "conf": 0.9999878406524658,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "NO ARBITRATION OR OTHER PROCEEDING WILL BE COMBINED WITH ANOTHER WITHOUT THE PRIOR WRITTEN CONSENT OF ALL PARTIES TO ALL AFFECTED ARBITRATIONS OR PROCEEDINGS",
+            "conf": 0.9999547004699707,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "if the prohibition against class or representative actions is found to be unenforceable, this entire Section shall be null and void",
+            "conf": 0.9997518658638,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "and you agree that any controversy excluded from the dispute resolution procedure and class action waiver provisions in this Section (other than an individual action filed in small claims court) shall be filed only in the Superior Court of Maricopa County,",
+            "conf": 0.9615991115570068,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ", or the United States District Court for the District of",
+            "conf": 0.9767946004867554,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ", and each party hereby irrevocably and unconditionally consents and submits to the exclusive jurisdiction of such courts for any such controversy",
+            "conf": 0.9891726970672607,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You also agree to waive the right to trial by jury in any such action or proceeding",
+            "conf": 0.9960036277770996,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "THE REVOCATION PERIOD IS FOURTEEN DAYS FROM THE DATE OF",
+            "conf": 0.9145995378494263,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Revised: 7/10/18",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Revised: November 16, 2018",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We use multiple web analytics tools provided by service partners such as Google Analytics, MixPanel and Singular to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information",
+            "conf": 0.9832459688186646,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside",
+            "conf": 0.9969525337219238,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our third party partners may use technologies such as cookies to gather information about such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.",
+            "conf": 0.9848532676696777,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices or the content of third-party",
+            "conf": 0.9999932646751404,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "To easily access, view, update, delete or port your personal data (where available), or to update your subscription preferences, please sign into your Account and visit \u201cAccount Settings",
+            "conf": 0.996566653251648,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "additional information and guidance for accessing, updating or deleting",
+            "conf": 0.9278581142425537,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.",
+            "conf": 0.9976061582565308,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We retain personal data only for as long as necessary to provide the Services you have requested and thereafter for a variety of legitimate legal or business purposes",
+            "conf": 0.9995246529579163,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Some browsers allow you to automatically notify websites you visit not to track you using a \u201cDo Not Track\u201d signal",
+            "conf": 0.990631639957428,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Like many websites and online services, we currently do not alter our practices when we receive a \u201cDo Not Track\u201d signal from a visitor\u2019s browser.",
+            "conf": 0.9869899749755859,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our Services are available for purchase only for those over the age of",
+            "conf": 0.9923359751701355,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Our Services are not targeted to, intended to be consumed by or designed to entice individuals under the age of 18",
+            "conf": 0.9999469518661499,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to modify this Privacy Policy at any time",
+            "conf": 0.9999476075172424,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes",
+            "conf": 0.9998034834861755,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Revised: 11/16/18",
+            "conf": 0.9999934434890747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 0.7
+}

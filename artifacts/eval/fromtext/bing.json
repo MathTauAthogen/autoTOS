@@ -1,0 +1,705 @@
+{
+    "predictions": [
+        {
+            "label": "6",
+            "text": "and we reserve the right to block delivery of a communication or remove content if it violates our terms",
+            "conf": 0.989693284034729,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use data we collect through our interactions with you, through some of our products, and on third-party web properties, for advertising in our products and on third-party properties",
+            "conf": 0.953256368637085,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use automated processes to help make advertising more relevant to you",
+            "conf": 0.9965006113052368,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may also disclose personal data as part of a corporate transaction such as a merger or sale of assets",
+            "conf": 0.9756779670715332,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Finally, we will retain, access, transfer, disclose, and preserve personal data, including your content (such as the content of your emails in Outlook.com, or files in private folders on OneDrive), when we have a good faith belief that doing so is necessary to do any of the following:",
+            "conf": 0.9697871208190918,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Control the use of your data for interest-based advertising from Microsoft by visiting our opt-out page",
+            "conf": 0.9978252649307251,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can request access to, erasure of, and updates to your personal data",
+            "conf": 0.99516761302948,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to access, edit, or remove the profile information and payment information in your Microsoft account, change your password, add security information or close your account, you can do so by visiting the Microsoft account website",
+            "conf": 0.9972742795944214,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to access, edit, or remove some profile and payment information in your account for Skype or change your password, sign in to your account",
+            "conf": 0.9669623970985413,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message",
+            "conf": 0.9969563484191895,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To opt out of receiving interest-based advertising from Microsoft, visit our opt-out page",
+            "conf": 0.9999532699584961,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can also link your opt-out choice with your personal Microsoft account",
+            "conf": 0.9990102648735046,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings",
+            "conf": 0.9381517171859741,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above).",
+            "conf": 0.96196049451828,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft services do not currently respond to browser DNT signals.",
+            "conf": 0.9795250296592712,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We also use \u201cweb beacons\u201d to help deliver cookies and gather usage and performance data.",
+            "conf": 0.989322304725647,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Our websites may include web beacons, cookies, or similar technologies from third-party service providers.",
+            "conf": 0.9758260846138,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "You have a variety of tools to control the data collected by cookies, web beacons, and similar technologies.",
+            "conf": 0.9949269890785217,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies and similar technologies to store and honor your preferences and settings, enable you to sign-in, provide interest-based advertising, combat fraud, analyze how our products perform, and fulfill other legitimate purposes described below",
+            "conf": 0.9697139263153076,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Microsoft apps use additional identifiers, such as the advertising ID in Windows, for similar purposes, and many of our websites and applications also contain web beacons or other similar technologies, as described below.",
+            "conf": 0.9971392750740051,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Our use of cookies and similar technologies",
+            "conf": 0.9154106974601746,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device",
+            "conf": 0.9989799857139587,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Microsoft uses cookies to collect data about your online activity and identify your interests so that we can provide advertising that is most relevant to you",
+            "conf": 0.9978126287460327,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Microsoft uses cookies to understand and improve how our products perform",
+            "conf": 0.9911567568778992,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These cookies are used for advertising, site analytics, and other operational purposes",
+            "conf": 0.9967436790466309,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account",
+            "conf": 0.9972521066665649,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "In addition to the cookies Microsoft sets when you visit our websites, third parties can also set cookies when you visit Microsoft sites",
+            "conf": 0.9882631897926331,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Companies we hire to provide services on our behalf, such as site analytics, place cookies when you visit our sites.",
+            "conf": 0.9771404266357422,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Companies that deliver content, such as videos or news, or ads on Microsoft sites, place cookies on their own",
+            "conf": 0.997764527797699,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Some Microsoft webpages contain electronic tags known as web beacons that we use to help deliver cookies on our websites, count users who have visited those websites, and deliver co-branded products.",
+            "conf": 0.9983781576156616,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We also include web beacons or similar technologies in our electronic communications to determine whether you open and act on them",
+            "conf": 0.9999486804008484,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition to placing web beacons on our own websites, we sometimes work with other companies to place our web beacons on their websites or in their advertisements.",
+            "conf": 0.9978933930397034,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations.",
+            "conf": 0.9975985884666443,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products.",
+            "conf": 0.9798526167869568,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address).",
+            "conf": 0.9999951720237732,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition to standard cookies and web beacons, our products can also use other similar technologies to store and read data files on your computer.",
+            "conf": 0.9915149807929993,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "But, like standard cookies, these technologies can also store a unique identifier for your computer, which can then track behavior.",
+            "conf": 0.9972541928291321,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for the privacy or security practices of our customers, which may differ from those set forth in this privacy statement",
+            "conf": 0.9962565898895264,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for the privacy or security practices of your organization, which may differ from those of Microsoft",
+            "conf": 0.9988800883293152,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "we store and",
+            "conf": 0.9497954249382019,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "personal dataWhere we store and process personal data Personal data collected by Microsoft may be stored and processed in your region, in the United States, and in any other country where Microsoft or its affiliates, subsidiaries, or service providers operate facilities",
+            "conf": 0.9788632392883301,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We transfer personal data from the European Economic Area, the United Kingdom, and Switzerland to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection",
+            "conf": 0.9991559982299805,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Our retention of personal dataOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements",
+            "conf": 0.9945794939994812,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "with the expectation we will retain it until they affirmatively remove it",
+            "conf": 0.9322400689125061,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In such cases, we would aim to maintain the data until you actively delete it, such as by moving an email from your Outlook.com inbox to the Deleted Items folder, and then emptying that folder (when your Deleted Items folder is emptied, those emptied items remain in our system for up to 30 days before final deletion).",
+            "conf": 0.9999980926513672,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "(",
+            "conf": 0.9757698774337769,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "that there may be other reasons why the data has to be deleted sooner, for example if you exceed limits on how much data can be stored in your account",
+            "conf": 0.9929576516151428,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Has Microsoft adopted and announced a specific retention period for a certain data type",
+            "conf": 0.9074486494064331,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, for Bing search queries, we de-identify stored queries by removing the entirety of the IP address after 6 months, and cookie IDs and other cross-session identifiers after 18 months.",
+            "conf": 0.984805703163147,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Has the user provided consent for a longer retention period? If so, we will retain data in accordance with your consent",
+            "conf": 0.9651253819465637,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may share data we collect with third parties, such as Oath, AppNexus, or Facebook (see below), so that the ads you see in our products, their products, or other sites and apps serviced by these partners are more relevant and valuable to you.",
+            "conf": 0.9879913330078125,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Advertisers may choose to place our web beacons on their sites, or use similar technologies, in order to allow Microsoft to collect information on their sites such as activities, purchases, and visits.",
+            "conf": 0.9964926838874817,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "we use this data on behalf of our advertising customers to provide ads",
+            "conf": 0.9899101853370667,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "To provide interest-based advertising, we combine cookies placed on your device using information that we collect (such as IP address) when your browser interacts with our websites",
+            "conf": 0.9517270922660828,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you opt out of receiving interest-based advertising, data associated with these cookies will not be used",
+            "conf": 0.9790569543838501,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We do not deliver interest-based advertising to children whose birthdate in their Microsoft account identifies them as under 16 years of age",
+            "conf": 0.9999719262123108,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "For interest-based advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer",
+            "conf": 0.9977678656578064,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie.",
+            "conf": 0.9969149827957153,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites",
+            "conf": 0.9997421503067017,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These third parties may place cookies on your computer and collect data about your online activities across websites or online services",
+            "conf": 0.9820939302444458,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it",
+            "conf": 0.9330090880393982,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Parents can change or revoke the consent choices previously made, and review, edit, or request the deletion of the personal data of children for whom they provided consent or authorization.",
+            "conf": 0.9846852421760559,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We update this privacy statement when necessary to provide greater transparency or in response to:",
+            "conf": 0.9650922417640686,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You cannot unsubscribe from these non-promotional communications",
+            "conf": 0.999983549118042,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Microsoft will not share your confidential information or contact information with the authorized partner unless we have sufficient rights to do so",
+            "conf": 0.9905601739883423,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected",
+            "conf": 0.9020074009895325,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "When you delete an email or item from a mailbox in Outlook.com, the item generally goes into your Deleted Items folder where it remains for approximately 7 days unless you move it back to your inbox, you empty the folder, or the service empties the folder automatically, whichever comes first.",
+            "conf": 0.992538332939148,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When the Deleted Items folder is emptied, those emptied items remain in our system for up to 30 days before final deletion, unless we are legally required to retain the data for longer.",
+            "conf": 0.9882459044456482,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "At any time, you can remove an account or make changes to the data that is synced from your account",
+            "conf": 0.9987944960594177,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for the data collected by the company providing the",
+            "conf": 0.9183135628700256,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for how you use your recordings or the recording features",
+            "conf": 0.999201238155365,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can delete a bot that you no longer wish to engage with",
+            "conf": 0.9934167861938477,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We de-identify stored search queries by removing the entirety of the IP address after 6 months, and cookie IDs and other cross-session identifiers after 18 months",
+            "conf": 0.994533121585846,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you",
+            "conf": 0.9977707266807556,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u2019re signed-in to a personal Microsoft account, you can erase your search history on the Microsoft privacy dashboard",
+            "conf": 0.9969019889831543,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Clearing your history prevents that history from being displayed on the Search History site, but does not delete information from our search logs, which are retained and de-identified as described above or as you have instructed through the privacy dashboard",
+            "conf": 0.9996830224990845,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Before",
+            "conf": 0.9093355536460876,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "SwiftKey Services do not log, store, or learn from data you type, or the data contained in your model, unless you choose to share your data with us (as described further below).",
+            "conf": 0.966992974281311,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you withdraw consent, personal data collected through your use of the SwiftKey Services will be deleted",
+            "conf": 0.9996566772460938,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can turn settings off or on for sending your activity history to Microsoft and storing activity history locally on your device, and you can also clear your device\u2019s activity history at any time by going to Start &gt",
+            "conf": 0.9911746382713318,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for how you use recording features or your recordings",
+            "conf": 0.995539665222168,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Activity reports are routinely deleted from Microsoft servers after a short period of time",
+            "conf": 0.992570698261261,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This will delete data stored on your device, such as your local user dictionary",
+            "conf": 0.9824270606040955,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can delete this data from your device using Delete Browsing History",
+            "conf": 0.994896411895752,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can turn off these features at any time",
+            "conf": 0.9950101375579834,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can remove an account from the People app at any time",
+            "conf": 0.9999677538871765,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "At any time, you can remove an account or make changes to the data that\u2019s synced from your account",
+            "conf": 0.9801598191261292,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can delete your",
+            "conf": 0.9094594120979309,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "verification data from within Settings",
+            "conf": 0.9480617642402649,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This data stays on the console and is not shared with anyone, and you can choose to delete this data from your console at any time",
+            "conf": 0.998479962348938,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Children and teens under 18 cannot create a profile on Xbox Live without parental consent",
+            "conf": 0.9999822974205017,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of interest-based advertising through the advertising links within MSN services, or by visiting the Microsoft opt-out page",
+            "conf": 0.9998783469200134,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel your Microsoft Health services account at any time by contacting Customer Support from the Microsoft Band website",
+            "conf": 0.9988470077514648,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you close your Microsoft account or lose your account credentials, you may not be able to access your data",
+            "conf": 0.9716758728027344,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can review, edit, or delete your HealthVault account data, or close your HealthVault account at any time",
+            "conf": 0.9998776912689209,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you delete a",
+            "conf": 0.9900645017623901,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "record, it is deleted from all users who had access to it",
+            "conf": 0.9946227669715881,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you close your HealthVault account, we delete all records for which you are the sole custodian",
+            "conf": 0.9744327068328857,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Microsoft will wait a limited amount of time before permanently deleting your data in order to help avoid accidental or malicious removal of your health data",
+            "conf": 0.9999656677246094,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe from these emails at any time",
+            "conf": 0.9998814463615417,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 5.2
+}

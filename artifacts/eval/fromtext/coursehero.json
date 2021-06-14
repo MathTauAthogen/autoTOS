@@ -1,0 +1,404 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated February 3, 2017",
+            "conf": 0.9999973177909851,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We partner with a third party to either display advertising on our Website or to manage our advertising on other sites",
+            "conf": 0.9615979790687561,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our third party partner may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests",
+            "conf": 0.9486120939254761,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": ", you may opt-out by clicking here",
+            "conf": 0.9265425801277161,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note this does not opt you out of being served ads",
+            "conf": 0.9991422295570374,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You will continue to receive generic ads",
+            "conf": 0.9989034533500671,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Choice/Opt-Out  You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at privacy@coursehero.com",
+            "conf": 0.9999498128890991,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "The Website will not provide any of your other personal information to third parties",
+            "conf": 0.9997519254684448,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, share, rent or trade your personal information to third parties for their promotional purposes",
+            "conf": 0.9999561309814453,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We may also disclose your personal information",
+            "conf": 0.9212852120399475,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "if Course Hero is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be",
+            "conf": 0.9173403978347778,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "any change in ownership",
+            "conf": 0.9394509792327881,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Website is of course not responsible for the privacy practices of other websites",
+            "conf": 0.99870365858078,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Users may modify, delete or remove any of their account information at any time by logging into the My Account page",
+            "conf": 0.9940977096557617,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Individuals who wish to deactivate their Website account may do so on the My Account page",
+            "conf": 0.9998891353607178,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Data Retention  We will retain your information for as long as your account is active or as needed to provide you services",
+            "conf": 0.9998293519020081,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@coursehero.com",
+            "conf": 0.9994598031044006,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you wish to request removal of your information from our directory, you can contact us at privacy@coursehero.com",
+            "conf": 0.999382495880127,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Changes in this Privacy Policy  If we decide to change our Privacy Policy, we will alert you to changes by email and/or by placing a notice on our home page and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.",
+            "conf": 0.9841163754463196,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to modify this Privacy Policy at any time, so please review it frequently",
+            "conf": 0.9999526143074036,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Age restriction  If you are under 13 years of age, then please do not use or access the Website at any time or in any manner",
+            "conf": 0.999999463558197,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated May 23, 2016",
+            "conf": 0.997674286365509,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We reserve the right to change the Terms at any time, but if we do, we will bring it to your attention by placing a notice on the www.coursehero.com website, by sending you an email and/or by some other means",
+            "conf": 0.9991326928138733,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect or solicit personally identifiable information from children under 13",
+            "conf": 0.9986752867698669,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "if you are a child under 13, please do not attempt to register for the Services or send any personal information about yourself to us",
+            "conf": 0.9999988079071045,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If your account has been suspended or terminated, you may not open another account with us",
+            "conf": 0.943555474281311,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "If you access the Service through a third party site or service, you will provide your third party account credentials to us, and you are consenting to have the information in those accounts transmitted into your Course Hero account, and you agree that you shall only use accounts owned by you, and not by any other person or entity",
+            "conf": 0.9662943482398987,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You represent and warrant that you are of legal age to form a binding contract (or if not, you\u2019ve received your parent\u2019s or guardian\u2019s permission to use the Services and gotten your parent or guardian to agree to these Terms on your behalf).",
+            "conf": 0.9999967813491821,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are a parent, guardian, or other person who enables a child under the age of 13 to access the Services, you agree to",
+            "conf": 0.9447106122970581,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "against a child, if not for his or her age",
+            "conf": 0.9120132923126221,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Services are intended for use by you only if you are 13 years of age or older",
+            "conf": 0.9999905824661255,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for Content",
+            "conf": 0.999965488910675,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We are not liable for any acts or omissions of Users, or the accuracy or completeness of any answers or another User\u2019s ability to provide answers",
+            "conf": 0.9997064471244812,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You understand and agree that if you delete your account, it may not be possible to completely delete that content from Course Hero",
+            "conf": 0.9057226777076721,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Any Content publicly posted or privately transmitted through the Services is the sole responsibility of the person from whom such content originated, and you access all such information and content at your own risk, and we aren\u2019t liable for any errors or omissions in that information or content or for any damages or loss you might suffer in connection with it.",
+            "conf": 0.9980798363685608,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We cannot control and have no duty to take any action regarding how you may interpret and use the Content or what actions you may take as a result of having been exposed to the Content, and you hereby release us from all liability for you having acquired or not acquired Content through the Services",
+            "conf": 0.9918587803840637,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We can\u2019t guarantee the identity of any Users with whom you interact in using the Services and are not responsible for which Users gain access to the Services",
+            "conf": 0.9248429536819458,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "When you access third party websites or use third party services, you accept that there are risks in doing so, and that Course Hero is not responsible for such risks.",
+            "conf": 0.9948499202728271,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Course Hero has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices of or opinions expressed in any third party websites or by any third party that you interact with through the Services",
+            "conf": 0.9995183944702148,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "By using the Services, you release and hold us harmless from any and all liability arising from your use of any third party website or service",
+            "conf": 0.9997790455818176,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Course Hero shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings.",
+            "conf": 0.9874011874198914,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In the event that you have a dispute with one or more other Users, you release Course Hero, its officers, employees, agents, and successors from claims, demands, and damages of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to such disputes and/or our Services",
+            "conf": 0.9921072125434875,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 18, but are qualified to be an Instructor, you will obtain parental or legal guardian permission as and when needed, and before registering with the Services",
+            "conf": 0.9997456669807434,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may suspend or discontinue any part of the Services, or we may introduce new features or impose limits on certain features or restrict access to parts or all of the Services",
+            "conf": 0.9999968409538269,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Similarly, we reserve the right to remove any Content from the Services at any time, for any reason (including, but not limited to, if someone alleges you contributed that Content in violation of these Terms), in our sole discretion, and without notice",
+            "conf": 0.9998977780342102,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Course Hero is also free to terminate (or suspend access to) your use of the Services or your account, for any reason in our discretion, including your breach of these Terms",
+            "conf": 0.9998403191566467,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We don\u2019t hire or background check Instructors, we aren\u2019t responsible for reviewing Content for accuracy, reliability or appropriateness, nor are we responsible or liable for any interactions between Users and Instructors",
+            "conf": 0.9862594604492188,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for disputes, claims, losses, injuries, or damage of any kind that might arise out of or relate to conduct of Users or Instructors, including, but not limited to, any User\u2019s reliance upon any information provided by an Instructor",
+            "conf": 0.9970015287399292,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You hereby agree to hold Course Hero harmless from and against any and all claims that you may have arising out of your access or use of any Content",
+            "conf": 0.999654233455658,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Neither Course Hero nor any of its licensors or suppliers makes any representations or warranties concerning any content contained in or accessed through the Services, and we will not be responsible or liable for the accuracy, copyright compliance, legality, or decency of material contained in or accessed through the Services",
+            "conf": 0.9994219541549683,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Any Content or Services purchased or offered (whether or not following such recommendations and suggestions) through the Services are provided \u201cAS IS\u201d and without any warranty of any kind from Course Hero or others",
+            "conf": 0.9999815225601196,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES AND CONTENT ARE PROVIDED ON AN \u201cAS-IS\u201d BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT USE OF THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE",
+            "conf": 0.9967207908630371,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, TORT, CONTRACT, STRICT LIABILITY, OR OTHERWISE) SHALL COURSE HERO (OR ITS LICENSORS OR SUPPLIERS) BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR (A) ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING DAMAGES FOR LOST PROFITS, LOSS OF GOODWILL, WORK STOPPAGE, ACCURACY OF RESULTS, OR COMPUTER FAILURE OR MALFUNCTION, OR (B) ANY AMOUNT, IN THE AGGREGATE, IN EXCESS OF THE GREATER OF (I) $100 OR (II) THE AMOUNTS PAID BY YOU TO COURSE HERO IN CONNECTION WITH THE SERVICES IN THE TWELVE (12) MONTH PERIOD PRECEDING THIS APPLICABLE CLAIM, OR (C) ANY MATTER BEYOND OUR REASONABLE CONTROL.",
+            "conf": 0.9996285438537598,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold Course Hero, its affiliates, officers, agents, employees, and partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys\u2019 fees) arising from or in any way related to any third party claims relating to (a) your use of the Services (including any actions taken by a third party using your account), and (b) your violation of these Terms",
+            "conf": 0.9999991655349731,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any arbitration under these Terms will take place on an individual basis: class arbitrations and class actions are not permitted",
+            "conf": 0.9999967813491821,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU UNDERSTAND AND AGREE THAT BY ENTERING INTO THESE TERMS, YOU AND COURSE HERO ARE EACH WAIVING THE RIGHT TO TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION",
+            "conf": 0.9999940991401672,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of either you or us to exercise, in any way, any right herein shall not be deemed a waiver of any further rights hereunder",
+            "conf": 0.9999498724937439,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.5
+}

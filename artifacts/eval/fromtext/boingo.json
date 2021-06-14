@@ -1,0 +1,341 @@
+{
+    "predictions": [
+        {
+            "label": "3",
+            "text": "Boingo may change, suspend or discontinue the Services at any time, including the availability of any feature, database, or Content",
+            "conf": 0.9999969005584717,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Boingo reserves the right, in its sole discretion, to revise, amend, or modify this Agreement at any time and in any manner without notice",
+            "conf": 0.9999337792396545,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "T-Mobile is not liable for delayed or undelivered messages, nor is Boingo or any other carrier",
+            "conf": 0.9946908950805664,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "T-Mobile is not liable for delayed or undelivered messages, nor is Boingo or any other carrier",
+            "conf": 0.9449384212493896,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand that all information publicly posted or privately transmitted through the Services, and any information or content you access through using the Services to access the internet (including content on any website you may visit) (\u201cPublic Content",
+            "conf": 0.9863521456718445,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ") is the sole responsibility of the person from which such content originated and that Boingo will not be liable for any errors or omissions in any content",
+            "conf": 0.9888787865638733,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that all Content or Public Content accessed by you using the Services is at your own risk and you will be solely responsible for any damage or loss to any party resulting therefrom.",
+            "conf": 0.9980471730232239,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will Boingo be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred in connection with use of or exposure to any Content posted, emailed, accessed, transmitted, or otherwise made available via the Services",
+            "conf": 0.9997425079345703,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "In addition, Boingo may terminate this license at any time without notice for any reason",
+            "conf": 0.9941885471343994,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Although Boingo has attempted to provide accurate information on the Site, Boingo assumes no responsibility for the accuracy of the information, which may contain technical or other inaccuracies, omissions or typographical errors",
+            "conf": 0.9999359250068665,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Boingo may change any of the information or other materials on the Site at any time without notice",
+            "conf": 0.9938285946846008,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Boingo makes no commitment to update the materials or information on the Site",
+            "conf": 0.9812498092651367,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Boingo makes no representations concerning any content contained in or accessed through the Services, and Boingo will not be responsible or liable for the accuracy, copyright compliance, legality or decency of material contained in or accessed through the Services",
+            "conf": 0.9616291522979736,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "or",
+            "conf": 0.9279070496559143,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Products and services purchased (whether or not following such recommendations and suggestions) are provided \u201cAS IS\u201d without any warranty of any kind from Boingo or others unless, with respect to others (only), otherwise made expressly and unambiguously in writing by a designated third party for a specific product or service",
+            "conf": 0.9999805092811584,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES, CONTENT, WEBSITES, PRODUCTS AND SERVICES OBTAINED THROUGH THE SERVICES, AND ANY SOFTWARE ARE PROVIDED ON AN \u201cAS IS\u201d BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT USE OF THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE",
+            "conf": 0.9998425245285034,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Boingo will not be liable for any direct, indirect, incidental, consequential, punitive, special or other damages including, without limitation, loss of or damage to data, loss of use of or damage to computers or other systems, lost or damaged programs, costs of replacement goods and lost profits or revenues, arising out of the use or inability to use the Site or any Boingo product or service, even if Boingo has been advised of the possibility of such damages.",
+            "conf": 0.9998548626899719,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify and hold Boingo, its parents, subsidiaries, affiliates, officers, and employees harmless (including, without limitation, from all damages, liabilities, settlements, costs and attorneys\u2019 fees) from any claim or demand made by any third party due to or arising out of your access to the Services, use of the Services, your violation of this Agreement, or the infringement by you or any third party using your account of any intellectual property or other right of any person or entity",
+            "conf": 0.9999988675117493,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, IN NO EVENT SHALL BOINGO, ITS ADVERTISERS, SUBSIDIARIES, LICENSORS OR SUPPLIERS, OR THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE WITH RESPECT TO THE SERVICES, THE BOINGO NETWORK OR THIRD PARTY NETWORKS, ANY ADVERTISEMENTS OR THE SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, TORT, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY (I) FOR ANY AMOUNT IN THE AGGREGATE IN EXCESS OF THE GREATER OF $100 OR THE FEES PAID BY YOU FOR THE SERVICES AND ANY PRODUCTS OR SERVICES PURCHASED THROUGH THE SERVICES DURING THE 12-MONTH PERIOD PRECEDING THE APPLICABLE CLAIM",
+            "conf": 0.9945051074028015,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Boingo may terminate this Agreement and your access to the Site with respect to you or any other third party without notice at any time for any reason",
+            "conf": 0.9998048543930054,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate your use of the Services at any time",
+            "conf": 0.9900674223899841,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Any part of this Agreement that is unlawful, void or unenforceable will be deemed severable and will not affect the validity or enforceability of remaining provisions",
+            "conf": 0.9907252788543701,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Boingo may revise this Agreement from time to time by updating this posting",
+            "conf": 0.9997665286064148,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not control the use of our partners\u2019 cookies or do not track policies and expressly disclaim responsibility for information collected or tracked through them",
+            "conf": 0.9999410510063171,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Web sites may contain an electronic file called a \u201cweb beacon\u201d that allows a website to track users who have visited that page or to access certain cookies",
+            "conf": 0.9820303320884705,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Boingo may use web beacons within our Web sites in order to track customers signing up at one of our hotspot locations.",
+            "conf": 0.9912824630737305,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Boingo may use web beacons to measure where customers leave the signup process in order to improve customer experience.",
+            "conf": 0.9867203831672668,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Boingo may use web beacons to track customers that come through our Web sites from advertisements or search engines.",
+            "conf": 0.9911773800849915,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Boingo may use web beacons to serve ads to customers after they leave our Web sites",
+            "conf": 0.9987565279006958,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Your browser may offer you a \u201cDo Not Track\u201d option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites",
+            "conf": 0.9970842599868774,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Boingo may choose to buy or sell assets or companies, or merge with or into other companies",
+            "conf": 0.9875119924545288,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Also, if Boingo (or its assets) are acquired, or if Boingo goes out of business, enter bankruptcy, or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party",
+            "conf": 0.9452213048934937,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to opt-out of receiving marketing materials from us, please follow the instructions at the bottom of each email for opting out",
+            "conf": 0.9999935030937195,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can also request that the data be changed or deleted (requests for deletion of certain information may require closing the account) by calling the following numbers: From North America: 1-800-880-4117 From the UK: Local 0-203-450-6554 Free Phone (",
+            "conf": 0.9686852693557739,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "mobile",
+            "conf": 0.902471125125885,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "will",
+            "conf": 0.9410512447357178,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "010",
+            "conf": 0.9155789017677307,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Japan and India: 00-800-2646-4646 Information about a customer may be withheld or exempted from deletion if this is required by law, is part of a fraud investigation or is required for accounting and audit purposes",
+            "conf": 0.9880093336105347,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "At any time, customers can contact Boingo to opt-out of any of our promotions, programs, location-tracking services or contests via the following link: https://c01.client.boingo.com/unsubscribe/unsubscribe.app",
+            "conf": 0.9999382495880127,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect information from children under the age of 13",
+            "conf": 0.9998577833175659,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We recommend that children who are 13-17 years old receive permission from a parent before gaining access to the Boingo service or sending information to Boingo or anyone else online",
+            "conf": 0.9829368591308594,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address",
+            "conf": 0.9999905824661255,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "No one under age 13 may provide any personal information to us or on the Services",
+            "conf": 0.9999953508377075,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy policies and/or practices on other sites",
+            "conf": 0.9999471306800842,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "You understand that such disclosure may entail the transfer of personal data outside of the European Union or assimilated countries",
+            "conf": 0.9230284690856934,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Boingo reserves the right, in its sole discretion, to revise, amend, or modify this privacy policy at any time, and in any manner without notice",
+            "conf": 0.9999792575836182,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This privacy policy is effective as of April 11, 2014",
+            "conf": 0.9999748468399048,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Boingo reserves the right to change this policy at any time",
+            "conf": 0.9995684623718262,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.1
+}

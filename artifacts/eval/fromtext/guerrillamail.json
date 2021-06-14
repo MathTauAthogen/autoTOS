@@ -1,0 +1,40 @@
+{
+    "predictions": [
+        {
+            "label": "10",
+            "text": "is in an inbox, it will be given 1 hour more, or until the user deletes it",
+            "conf": 0.902439296245575,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "We normally keep the logs turned off, this is because due to high traffic, our server does not have the resources required",
+            "conf": 0.9404352307319641,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "It also uses third-party cookies including Google Analytics and Google Adsense",
+            "conf": 0.9998400807380676,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "For content with links to third party resources, Guerrilla Mail has no control over third party resources and is not responsible or liable for their content or services offered.",
+            "conf": 0.9930723309516907,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Guerrilla Mail has no control over and not responsible for any content of email messages, including their attachments Caveat emptor",
+            "conf": 0.9999025464057922,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.5
+}

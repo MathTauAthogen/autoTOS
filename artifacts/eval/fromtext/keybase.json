@@ -1,0 +1,334 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated: 4/4/15",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Please note that Keybase doesn\u2019t provide warranties for the Services",
+            "conf": 0.9383485913276672,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "This contract also limits our liability to you and contains an arbitration provision and a class action waiver",
+            "conf": 0.9934708476066589,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to revise these Terms from time to time",
+            "conf": 0.9998109340667725,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Any changes will be effective upon posting the revised version of these Terms (or such later effective date as may be indicated at the top of the revised Terms).",
+            "conf": 0.9830504059791565,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Therefore, we encourage you to check the date of these Terms whenever you visit the Site to see if these Terms have been updated",
+            "conf": 0.9444200992584229,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Keybase may deny approval or withdraw such approval at any time in its sole discretion, with or without cause",
+            "conf": 0.9586200714111328,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You must keep your account and passwords confidential and not authorize any third party to access or use the Service on your behalf, unless we provide an approved mechanism for such use",
+            "conf": 0.991817831993103,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Keybase will not be liable for any loss or damage arising from any unauthorized use of your accounts.",
+            "conf": 0.975322425365448,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "We give you the opportunity to opt-out of receiving promotional electronic mail from us by following the opt-out instructions provided in the message",
+            "conf": 0.9999809861183167,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right, to temporarily suspend or terminate your access to the Service at any time in our sole discretion, with or without cause, with or without notice, and without incurring liability of any kind",
+            "conf": 0.9993715286254883,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Keybase reserves the right, in its sole discretion, to deactivate, change and/or require you to change your Keybase user ID and any custom or vanity URLs, custom links, or vanity domains you may obtain through the Services for any reason or for no reason",
+            "conf": 0.9999274611473083,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Keybase may exercise such right at any time, with or without prior notice",
+            "conf": 0.9316549301147461,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Keybase reserves the right, in its sole discretion, to make necessary unscheduled deployments of changes, updates or enhancements to the Service at any time",
+            "conf": 0.9752197265625,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "you acknowledge that we are not responsible for such content or services",
+            "conf": 0.999968945980072,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Similarly, we are not responsible for any third party content you access with the Services, and you irrevocably waive any claim against us with respect to such sites and third-party content.",
+            "conf": 0.9976761341094971,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "KEYBASE PROVIDES THE SERVICE \u201cAS IS\u201d, \u201cWITH ALL FAULTS\u201d AND \u201cAS AVAILABLE\u201d",
+            "conf": 0.9999576807022095,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, KEYBASE MAKES NO (AND SPECIFICALLY DISCLAIMS ALL) REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY THAT THE SERVICE WILL BE UNINTERRUPTED, ERROR-FREE OR FREE OF HARMFUL COMPONENTS, THAT YOUR CONTENT WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED, OR ANY IMPLIED WARRANTY OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, AND ANY WARRANTY ARISING OUT OF ANY COURSE OF PERFORMANCE, COURSE OF DEALING OR USAGE OF TRADE.",
+            "conf": 0.9973904490470886,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL KEYBASE, ITS AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, SUPPLIERS OR LICENSORS BE LIABLE FOR: ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOST PROFITS, REVENUE, GOODWILL, USE OR CONTENT, HOWEVER CAUSED, UNDER ANY THEORY OF LIABILITY, INCLUDING, WITHOUT LIMITATION, CONTRACT, TORT, WARRANTY, NEGLIGENCE OR OTHERWISE, EVEN IF KEYBASE HAS BEEN ADVISED AS TO THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9998950958251953,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "This Section 17 includes an arbitration agreement and an agreement that all claims will be brought only in an individual capacity (and not as a class action or other representative proceeding).",
+            "conf": 0.9999979138374329,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and Keybase are each waiving the right to a trial by jury or to participate in a class action",
+            "conf": 0.9999954700469971,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The arbitrator, and not any federal, state, or local court, will have exclusive authority to resolve any dispute relating to the interpretation, applicability, unconscionability, arbitrability, enforceability, or formation of this arbitration agreement, including any claim that all or any part of this arbitration agreement is void or voidable",
+            "conf": 0.9962537288665771,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any Claim must be brought in the respective party\u2019s individual capacity, and not as a plaintiff or class member in any purported class, collective, representative, multiple plaintiff, or similar proceeding (\u201cClass Action\u201d).",
+            "conf": 0.9999969601631165,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The parties expressly waive any ability to maintain any Class Action in any forum",
+            "conf": 0.9999818801879883,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the Claim is subject to arbitration, the arbitrator will not have authority to combine or aggregate similar claims or conduct any Class Action nor make an award to any person or entity not a party to the arbitration",
+            "conf": 0.9999971389770508,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any claim that all or part of this Class Action Waiver is unenforceable, unconscionable, void, or voidable may be determined only by a court of competent jurisdiction and not by an arbitrator",
+            "conf": 0.9999956488609314,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The parties understand that any right to litigate in court, to have a judge or jury decide their case, or to be a party to a class or representative action, is waived, and that any claims must be decided individually, through arbitration",
+            "conf": 0.9999940991401672,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If this class action waiver is found to be unenforceable, then the entirety of the Arbitration Agreement, if otherwise effective, will be null and void",
+            "conf": 0.9997720122337341,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If a court holds that we cannot enforce a part of these Terms as written, you and we will replace those terms with similar terms to the extent enforceable under the relevant law, but the rest of these Terms will remain in effect",
+            "conf": 0.9992467761039734,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may assign, transfer, or otherwise dispose our rights and obligations under these Terms, in whole or in part, at any time without notice",
+            "conf": 0.9897623062133789,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of you or Keybase to insist upon or enforce strict performance of any of the provisions of these Terms or to exercise any rights or remedies under these Terms will not be construed as a waiver or relinquishment to any extent of your right or Keybase\u2019s right to assert or rely upon any such provision, right or remedy in that or any other instance",
+            "conf": 0.9999934434890747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: 2018 Jul 24",
+            "conf": 0.9999977946281433,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, at our sole discretion, to modify or replace this Privacy Policy at any time in accordance with Section 9 (\u201cChanges to this Privacy Policy",
+            "conf": 0.9847158789634705,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Keybase does not collect personally identifiable information from you to track you across third party websites",
+            "conf": 0.966219425201416,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "As a result, Keybase does not specifically respond to web browser Do Not Track signals",
+            "conf": 0.9999804496765137,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "If you want to alter information that you have provided, the previously provided information cannot be deleted and can only be revoked",
+            "conf": 0.9953036904335022,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "(c) In the event of a proposed or actual business transaction, corporate restructuring, sale or merger of Keybase, or involving some or all of our business, assets or equity, we may disclose and/or transfer information we have collected to those involved in assessing, planning and completing the sale (including the buyer and its employees, agents and representatives",
+            "conf": 0.9999971389770508,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We also do not sell or provide Personal Information about our users to any third party for its marketing purposes",
+            "conf": 0.999951183795929,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "cannot be deleted",
+            "conf": 0.9577322602272034,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We do not allow persons under 13 to register for the Service, and we do not knowingly collect any Personal Information from persons under the age of 13",
+            "conf": 0.9999915957450867,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not direct any of our business practices or system outputs towards children under the age of thirteen",
+            "conf": 0.9998237490653992,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "As such, if a user\u2019s data or information must be removed pursuant to this section, the entire record of such user\u2019s data or information will be purged from the Service",
+            "conf": 0.9965014457702637,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you are between 13 and 18 years of age, you must have your parent or legal guardian\u2019s permission to use the Services",
+            "conf": 0.9999985694885254,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "If you\u2019re outside the United States, your information will be sent to and stored in the United States, where our servers are located",
+            "conf": 0.9983988404273987,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may update this Privacy Policy from time to time",
+            "conf": 0.9998419880867004,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes, we will use commercially reasonable efforts to notify you, by means of a notice on the Service",
+            "conf": 0.9840445518493652,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Those changes will go into effect on the \u201cLast updated\u201d date shown at the top of the updated Privacy Policy",
+            "conf": 0.9979782700538635,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.9
+}

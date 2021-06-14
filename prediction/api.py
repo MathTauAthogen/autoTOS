@@ -29,21 +29,21 @@ class ModelRequestHandler(BaseHTTPRequestHandler):
                 self.path = "/index.html"
 
             if self.path[-5:] == ".html":
-                with open("." + self.path, "r") as document:
+                with open("../docs/" + self.path, "r") as document:
                     self.send_response(200)
                     self.send_header("Content-type", "text/html")
                     self.end_headers()
                     self.wfile.write(document.read().encode("utf-8"))
 
             elif self.path[-3:] == ".js":
-                with open("." + self.path, "r") as script:
+                with open("../docs/" + self.path, "r") as script:
                     self.send_response(200)
                     self.send_header("Content-type", "text/javascript")
                     self.end_headers()
                     self.wfile.write(script.read().encode("utf-8"))
 
             elif self.path[-4:] == ".css":
-                with open("." + self.path, "r") as stylesheet:
+                with open("../docs/" + self.path, "r") as stylesheet:
                     self.send_response(200)
                     self.send_header("Content-type", "text/css")
                     self.end_headers()
@@ -51,7 +51,7 @@ class ModelRequestHandler(BaseHTTPRequestHandler):
 
             elif self.path[-4:] == ".svg":
                 print(self.path)
-                with open("." + self.path, "rb") as img:
+                with open("../docs/" + self.path, "rb") as img:
                     print("here")
                     self.send_response(200)
                     self.send_header("Content-type", "image/svg+xml")
@@ -60,7 +60,7 @@ class ModelRequestHandler(BaseHTTPRequestHandler):
                     self.wfile.write(text)
 
             else:
-                with open("." + self.path, "rb") as file:
+                with open("../docs/" + self.path, "rb") as file:
                     self.send_response(200)
                     self.end_headers()
                     self.wfile.write(file.read())

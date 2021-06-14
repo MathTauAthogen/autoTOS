@@ -1,0 +1,369 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "We cannot allow any nude works featuring individuals under the age of 18, nor may the works depict these individuals in a 'sexually driven' manner such as posing in lingerie or displaying a sexually suggestive or provocative pose",
+            "conf": 0.9950240254402161,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the conduct of Group participants or administrators",
+            "conf": 0.9998205304145813,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "This Service is provided by DeviantArt on an \"AS IS\" and \"AS AVAILABLE\" basis and DeviantArt reserves the right to modify, suspend or discontinue the Service, in its sole discretion, at any time and without notice",
+            "conf": 0.9999952912330627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "At DeviantArt's discretion and in appropriate circumstances, DeviantArt may remove Your Content submitted to the Site, terminate the accounts of users or prevent access to the Site by users who infringe the intellectual property rights of others",
+            "conf": 0.9817318320274353,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources",
+            "conf": 0.9993491172790527,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "By downloading third party software, you acknowledge and agree that the software is provided on an \"AS IS\" basis without warranty of any kind",
+            "conf": 0.9999361634254456,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event shall DeviantArt be liable for claims or damages of any nature, whether direct or indirect, arising from or related to any third-party software downloaded through the Service",
+            "conf": 0.9845831990242004,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify, and hold harmless DeviantArt, its officers, directors, employees and agents, from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and expert fees, arising out of or in any way connected with your access to or use of the Services, or your violation of these Terms",
+            "conf": 0.9999971389770508,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DEVIANTART MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED AS TO THE OPERATION OF THE SERVICE, OR THE CONTENT OR PRODUCTS, PROVIDED THROUGH THE SERVICE",
+            "conf": 0.9999150633811951,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DEVIANTART MAKES NO WARRANTY AS TO THE SECURITY, RELIABILITY, TIMELINESS, AND PERFORMANCE OF THIS SERVICE",
+            "conf": 0.9995265007019043,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT FOR THE EXPRESS, LIMITED REMEDIES PROVIDED HEREIN, AND TO THE FULLEST EXTENT ALLOWED BY LAW, DEVIANTART SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM USE OF THE SERVICE, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES, EVEN IF DEVIANTART HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9994626641273499,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to amend these Terms from time to time in our sole discretion",
+            "conf": 0.9989421963691711,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "DeviantArt's failure to enforce any right or provision in these Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.9999974370002747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "To register as a member of the Service or purchase products, you must be 13 years or lawfully permitted to enter into and form contracts under applicable law",
+            "conf": 0.9840145707130432,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You agree that the information that you provide to us upon registration, at the time of purchase, and at all other times will be true, accurate, current and complete",
+            "conf": 0.999954104423523,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You also agree that you will ensure that this information is kept accurate and up to date at all times",
+            "conf": 0.9993208050727844,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for safeguarding the password and you agree not to disclose your password to any third party.",
+            "conf": 0.9945264458656311,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you shall be solely responsible for any activities or actions under your password, whether or not you have authorized such activities or actions.",
+            "conf": 0.9948210120201111,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Furthermore, you acknowledge that DeviantArt reserves the right to terminate or suspend accounts that are inactive, in DeviantArt's sole discretion, for an extended period of time (thus deleting or suspending access to your Content).",
+            "conf": 0.9999995827674866,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Without limiting the generality of Section 9, DeviantArt shall have no responsibility or liability for the deletion or failure to store any Content maintained on the Service and you are solely responsible for creating back-ups of Your Content.",
+            "conf": 0.9975475668907166,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "You further acknowledge that DeviantArt reserves the right to modify its storage policies from time to time, with or without notice to you",
+            "conf": 0.9876744151115417,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that DeviantArt may at any time, and without notice, suspend or terminate any part of the Service, or refuse to fulfill any order, or any part of any order or terminate your membership and delete any Content stored on the DeviantArt Site, in DeviantArt's sole discretion, if you fail to comply with the Terms or applicable law",
+            "conf": 0.9999882578849792,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 21, ANY PRODUCT PURCHASED THROUGH THE DEVIANTART SHOP IS PROVIDED ON AN \"AS IS\" BASIS",
+            "conf": 0.9998639822006226,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Revision date: May 25, 2018",
+            "conf": 0.9999980330467224,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Like many Internet sites, we, together with our marketing, analytics and technology partners, also use \u201ccookies\u201d to collect information",
+            "conf": 0.9421482682228088,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Third party advertisers that appear on the Sites may place cookies on your computer (or similar technologies such as clear gifs, web beacons, or web bugs) and their use of the information stored on those cookies is subject to their own privacy policies.",
+            "conf": 0.9942066073417664,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also may share hashed or otherwise obfuscated identifiers based on your PII with trusted partners who in turn may provide these identifiers to third party advertisers, advertising networks, advertising exchanges and analytics services to help us serve ads that are more targeted to your interests and to help us better understand the interests of users of our Sites",
+            "conf": 0.9230087399482727,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In addition, should we, Wix or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your PII may be shared with the parties involved in such event",
+            "conf": 0.9778178334236145,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "PII of Account holders and non-Account holders (such as visitors to the Site) may be maintained, processed and stored by us and our authorized affiliates and service providers in the United States of America, in Europe (including in Ukraine), in Israel, and in other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below",
+            "conf": 0.9999862909317017,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Jobs Applicants Information will be maintained, processed and stored in the United States and Israel, in the applied position",
+            "conf": 0.9916896820068359,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "\u2019s location(s), and as necessary, in secured cloud storage provided by our Third Party Services, as detailed below",
+            "conf": 0.9992766380310059,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You may access, correct, or request deletion of your PII by contacting us at help@deviantart.com",
+            "conf": 0.9988340139389038,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "You acknowledge that while doing so, we may continue to collect, store and use your PII elsewhere, including in the United States of America as explained above",
+            "conf": 0.9903193712234497,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We may retain your PII for as long as your Account is active, as indicated in this Privacy Policy or as otherwise needed to provide you with our Services",
+            "conf": 0.9998970627784729,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Where your PII is no longer required we will ensure it is securely deleted",
+            "conf": 0.9997654557228088,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Wix.com Ltd.) may retain",
+            "conf": 0.9113516211509705,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Information submitted to it for no longer than two years after the",
+            "conf": 0.9372578859329224,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "has been",
+            "conf": 0.9261164665222168,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Note that when deleting your PII, you actually delete all your data, and will not be able to use our Service anymore",
+            "conf": 0.9996572732925415,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that permanently deleting your Account erases all of your information from our databases",
+            "conf": 0.9983384013175964,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After completing this process, you can no longer use any of your Services, your Account and all its data will be removed permanently, and we will not be able to restore your account or retrieve your data in the future",
+            "conf": 0.9796361923217773,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "DeviantArt does not control, and is not responsible for, the use of any information or content that you have exposed to the public through your use of the Services",
+            "conf": 0.9999673962593079,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "To delete your PII, you must manually change your data fields to null values",
+            "conf": 0.9948223233222961,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that some information associated with you cannot be deleted",
+            "conf": 0.9993324875831604,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "is retained indefinitely and we may retain other PII associated with you in archived/backup copies for our records or as otherwise required by law",
+            "conf": 0.9988547563552856,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction",
+            "conf": 0.9999674558639526,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "We do not intend that children under 13 years old will use our Services",
+            "conf": 0.9999628067016602,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not solicit or knowingly collect information from children under 13 years old, nor will we accept registration from them",
+            "conf": 0.9998891949653625,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children between the ages of 13-16 require parental or guardian consent prior to accessing or using the Sites",
+            "conf": 0.9998509287834167,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "are a parent or guardian of a child between the ages of 13-16,",
+            "conf": 0.9393495917320251,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If we update this Privacy Policy, we will notify you about significant changes by sending a notice to the email address specified in your Account, with the use of an internal message directed to your Account or by posting a notice of such changes on the Sites",
+            "conf": 0.9997367262840271,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "DeviantArt is not responsible for the content, privacy or security practices and policies of those companies, individuals, websites and/or services and any information that you provide on or to third-party companies, individuals, websites or services are subject to those parties' privacy policies.",
+            "conf": 0.9945885539054871,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.7
+}

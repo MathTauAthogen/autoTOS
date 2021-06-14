@@ -1,0 +1,12 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "This service does not track you, HP-67.com does not collect or share personal information, including IP addresses of website visitors are not tracked",
+            "conf": 0.9664905071258545,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 10.0
+}

@@ -1,0 +1,103 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "This document was last updated on April 03, 2015",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "This site uses some unobtrusive cookies to store information on your computer",
+            "conf": 0.9044099450111389,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site",
+            "conf": 0.9884517788887024,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We allow third-party companies to collect certain information when you visit our web site",
+            "conf": 0.9619177579879761,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you.",
+            "conf": 0.9446601867675781,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This document was last updated on August 17, 2012",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Nabble does not make private content public",
+            "conf": 0.9930331110954285,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Nabble reserves the right to delete or block access to any content that you post if Nabble determines that your content is inappropriate for any reason, including Nabble's determination that the content infringes on another's",
+            "conf": 0.9960552453994751,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "property rights",
+            "conf": 0.902103841304779,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Nabble reserves the right to delete accounts that it determines are inactive without notice",
+            "conf": 0.9998797178268433,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "of Liability In no event will Nabble be liable for any lost revenue, profit or data, or for special, indirect, consequential, incidental, or punitive damages however caused and regardless of the theory of liability arising out of the use of or inability to use Nabble or arising out of any content posted on Nabble even if Nabble has been advised of the possibility of such damages",
+            "conf": 0.9921377897262573,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of these Terms and Conditions is unlawful, void or unenforceable, then that provision shall be deemed severable from the remaining provisions and shall not affect their validity and enforceability",
+            "conf": 0.9995219111442566,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "This Web site and these Terms of Use may be changed by Nabble with or without notice",
+            "conf": 0.9998957514762878,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Please review this page regularly for changes",
+            "conf": 0.9972112774848938,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 0.8
+}

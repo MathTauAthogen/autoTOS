@@ -1,0 +1,551 @@
+{
+    "predictions": [
+        {
+            "label": "7",
+            "text": "CNN may modify the Terms of Use, or any part thereof, or add or remove terms at any time, and such modifications, additions or deletions will be effective immediately upon posting",
+            "conf": 0.9999812245368958,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CNN may change or discontinue any aspect, service or feature of the Site at any time, including, but not limited to, content, hours of availability, and equipment needed for access or use.(D",
+            "conf": 0.9999976754188538,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You shall be responsible for protecting the confidentiality of your user name(s) or password(s), if any.",
+            "conf": 0.990537703037262,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your use of any Interactive Areas and you use them at your own risk",
+            "conf": 0.9997755289077759,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Interactive Areas are available for individuals aged 13 years or older",
+            "conf": 0.9967425465583801,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By submitting User Content to an Interactive Area, you represent that you are 13 years of age or older and, if you are under the age of 18, you either are an emancipated minor, or have obtained the legal consent of your parent or legal guardian to enter into these Terms of Use, submit content, participate on the Site, and fulfill the obligations set forth in these Terms of Use, which forms a binding contract between you and CNN.",
+            "conf": 0.9983521103858948,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "CNN reserves the right in its sole discretion to remove or edit User Content by you and to terminate Your Account for any reason",
+            "conf": 0.9999200701713562,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "CNN does not vouch for the accuracy or credibility of any User Content, and does not take any responsibility or assume any liability for any actions you may take as a result of reading User Content posted on the Site",
+            "conf": 0.9893233776092529,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Although CNN has no obligation to monitor, screen, edit or remove any of the User Content posted or uploaded to the Site, CNN reserves the right, and has absolute discretion, to screen, edit, refuse to post or remove without notice any User Content posted or uploaded to the Site at any time and for any reason, and you are solely responsible for creating backup copies of and replacing any User Content posted to the Site at your sole cost and expense",
+            "conf": 0.9999890327453613,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Without limiting the foregoing, CNN reserves the right to use any User Content as it deems appropriate, including, without limitation, deleting, editing, modifying, rejecting, or refusing to post it",
+            "conf": 0.9994236826896667,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "CNN is under no obligation to edit, delete or otherwise modify User Content once it has been submitted to CNN",
+            "conf": 0.9982873201370239,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Neither CNN nor any third-party provider of information guarantees the accuracy, completeness, or usefulness of any content, nor its merchantability or fitness for any particular purpose",
+            "conf": 0.9999971985816956,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CNN neither endorses nor is responsible for the accuracy or reliability of any opinion, advice or statement made on the Site by any third party",
+            "conf": 0.9999588131904602,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will CNN be responsible or liable, directly or indirectly, for any loss or damage caused by your use or reliance on information obtained through the Site.",
+            "conf": 0.9852620363235474,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "CNN is not responsible for any actions or inaction on your part based on the information that is presented on the Site",
+            "conf": 0.9996639490127563,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "It is your responsibility to evaluate the accuracy, completeness or usefulness of any information, opinion, advice or other content available through the Site",
+            "conf": 0.9879007935523987,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "NEITHER CNN, ITS PRESENT OR FUTURE PARENT(S), SUBSIDIARIES, OR RELATED ENTITIES (COLLECTIVELY, \"TURNER\"), NOR ANY OF THEIR RESPECTIVE EMPLOYEES, AGENTS, THIRD PARTY CONTENT PROVIDERS OR LICENSORS WARRANT THAT THE SITE WILL BE UNINTERRUPTED OR ERROR FREE.",
+            "conf": 0.9953774809837341,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "NOR DO THEY MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE SITE, OR AS TO THE ACCURACY, RELIABILITY OR CONTENT OF ANY INFORMATION, SERVICE, OR MERCHANDISE PROVIDED THROUGH THE SITE.(B) THE SITE, INCLUDING, WITHOUT LIMITATION, ANY DOWNLOADABLE SOFTWARE, IS PROVIDED ON AN \"AS IS\" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OTHER THAN THOSE WARRANTIES WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION OR MODIFICATION UNDER THE LAWS APPLICABLE TO THESE TERMS OF USE.(C",
+            "conf": 0.991202712059021,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "CNN IS NOT RESPONSIBLE FOR ANY ACTIONS OR INACTION ON A USER'S PART BASED ON THE INFORMATION THAT IS PRESENTED IN THE SITE.(D) TO THE FULLEST EXTENT PERMISSIBLE BY APPLICABLE LAW, IN NO EVENT SHALL TURNER, BE LIABLE TO YOU FOR ANY PERSONAL INJURY, PROPERTY DAMAGE, LOST PROFITS, COST OF SUBSTITUTE GOODS OR SERVICES, LOSS OF DATA, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER AND/OR DEVICE OR TECHNOLOGY FAILURE OR MALFUNCTION OR FOR ANY FORM OF DIRECT OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES BASED ON ANY CAUSES OF ACTION ARISING OUT OF USE OF THE SITE OR ANY ALLEGED FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECT, OR DELAY IN SERVICE, OPERATION, OR TRANSMISSION OF THE SITES, OR ANY ALLEGED COMPUTER VIRUS, COMMUNICATION LINE FAILURE, THEFT OR DESTRUCTION OF PROPERTY, AND/OR UNAUTHORIZED ACCESS TO, ALTERATION OF, OR USE OF OR POSTING OF ANY RECORD, CONTENT, OR TECHNOLOGY, PERTAINING TO OR ON THE SITES.",
+            "conf": 0.9942604899406433,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND WE EACH WAIVE\u2014THAT IS",
+            "conf": 0.9441319108009338,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "GIVE UP\u2014THE RIGHT TO PURSUE ANY DISPUTE, CLAIM OR CONTROVERSY THAT IS NOT FILED WITHIN ONE YEAR AND ANY RIGHT YOU OR WE MAY HAVE HAD TO PURSUE THAT DISPUTE, CLAIM OR CONTROVERSY IN ANY FORUM IS PERMANENTLY BARRED.7",
+            "conf": 0.9893133044242859,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless CNN, its affiliates and their respective directors, officers, employees and agents from and against all claims and expenses, including attorneys' fees, arising out of the use of the Site by you or your Account",
+            "conf": 0.9999949932098389,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Except as specified in Section 12 (Dispute Resolution), if any provision of this Agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable for this Agreement and shall not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9839320778846741,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "class arbitrations and class actions are not permitted",
+            "conf": 0.9999988079071045,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "claims that are currently the subject of purported class action litigation in which you are not a member of a certified class",
+            "conf": 0.998391330242157,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree that, by entering into this Agreement, you and we are each waiving the right to a trial by jury or to participate in a class action",
+            "conf": 0.9999953508377075,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND WE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR OUR INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, REPRESENTATIVE, OR PRIVATE ATTORNEY GENERAL PROCEEDING",
+            "conf": 0.9999920129776001,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and we agree otherwise, the arbitrator may not consolidate more than one person's claims and may not otherwise preside over any form of a representative, class, or private attorney general proceeding",
+            "conf": 0.999993085861206,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default",
+            "conf": 0.9934994578361511,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Use were last updated on December 23, 2019",
+            "conf": 0.9999962449073792,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "updated: July 1, 2020",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We may combine these types of information together, and collectively refer to all of this information in this Privacy Policy as \"Information.\" Information may be collected as described below and through the use of cookies, web beacons, pixels, and other similar technologies by us or by other companies on our behalf.",
+            "conf": 0.9934329390525818,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "IDFV",
+            "conf": 0.9122596383094788,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may also choose to receive push notifications from us on your mobile device",
+            "conf": 0.9933688044548035,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "For example, we may use this Information (i) to provide, develop, maintain, personalize, protect, and improve our Sites, products, programs, and services and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance of our Sites, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, and (iv) for us and our affiliates, business partners, and select third parties to target, offer, market, or advertise products, programs, or services",
+            "conf": 0.987036943435669,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may transfer Information in the event of a business transaction, such as if we or one of our business units or our relevant assets are acquired by, sold to, or merged with another company or as part of a bankruptcy proceeding or a business reorganization",
+            "conf": 0.9999988675117493,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also share Information with business partners and third parties (e.g., other companies, retailers, research organizations, advertisers, ad agencies, advertising networks and platforms, participatory databases, publishers, and non-profit organizations) that may want to market products or services to you",
+            "conf": 0.9818786382675171,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To opt out of receiving our email marketing communications, you can also follow the \"unsubscribe\" instructions provided in any marketing email you receive from us",
+            "conf": 0.9999936819076538,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "On our own or working with affiliates or third parties, we may present advertisements and engage in data collection, reporting, ad delivery and response measurement, and site analytics on our Sites and on third party websites across the Internet and applications over time",
+            "conf": 0.9789701700210571,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We, our affiliates, or third parties may use cookies, web beacons, pixels, software development kits (\"SDKs\") or similar technologies to collect information across websites, services, and apps over time to perform this activity.",
+            "conf": 0.9968413710594177,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We, our affiliates, or third parties may also use this information to associate your different browsers and devices together for interest-based advertising and for other purposes like research, analytics, internal operations, fraud prevention, and enhancing consumer experiences.For more information about interest-based advertising on your desktop or mobile browser, and to opt out of this type of advertising by third parties that participate in self-regulatory programs, please visit the Network Advertising Initiative website",
+            "conf": 0.9355483055114746,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To opt out of our own collection, use, and transfer of data as described above for interest-based advertising, please visit our Privacy Center to opt-out",
+            "conf": 0.9999329447746277,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We may also use pixels or \"web beacons\" that monitor your use of our Sites",
+            "conf": 0.9999935626983643,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons are small strings of code that provide a method for delivering a graphic image on a webpage for the purpose of transferring data, such as the IP address of the computer that downloaded the page on which the web beacon appears, the URL of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the type of browser that fetched the web beacon, and the identification number of any cookie on the computer previously placed by that server.",
+            "conf": 0.9994481205940247,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may also integrate SDKs into our applications to perform similar functions as cookies and web beacons",
+            "conf": 0.9987476468086243,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "For example, SDKs may collect technical and usage information such as mobile device identifiers and your interactions with the Site and other mobile apps.We may use cookies and other technologies to help recognize your browser or device, maintain your preferences, provide certain Site features, and collect Information about interactions with our Sites, our content, and our communications.",
+            "conf": 0.992037296295166,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "For example, when corresponding with you via HTML capable email, web beacons and other technologies let us know about your activity, including whether you received and opened our email, clicked through a link, or otherwise interacted with our content, and this information may be associated with Information previously collected.We may also use cookies and other technologies (i) to provide, develop, maintain, personalize, protect, and improve our Sites, products, programs, and services and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance of our Sites and marketing materials, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, (v) to synchronize users across devices, affiliates, business partners, and select third parties, and (vi) for us and our affiliates, business partners, and select third parties to target, offer, market, or advertise products, programs, or services.",
+            "conf": 0.9947607517242432,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "By visiting the Site, whether as a registered user or otherwise, you acknowledge, and agree that you are giving us your consent to track your activities and your use of the Site through the technologies described above, as well as similar technologies developed in the future, and that we may use such tracking technologies in the emails we send to you",
+            "conf": 0.9995650053024292,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Cookies can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser).",
+            "conf": 0.9902459383010864,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Some of our sites may use Google Analytics to analyze traffic",
+            "conf": 0.9997263550758362,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed",
+            "conf": 0.9999686479568481,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If the person indicates that he or she is under 13 years old, as permitted by law, we will (i) collect no or limited personal information (e.g.",
+            "conf": 0.9941151142120361,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "We may use the parent's email address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity",
+            "conf": 0.9882673025131226,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more personal information than is reasonably necessary to participate in the activity",
+            "conf": 0.999879002571106,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "operate internationally, and many of our computer systems are currently based in the United States, which means Information we collect will be processed by us in the U.S.",
+            "conf": 0.9997059106826782,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "UPDATESFrom time to time, we may update this Privacy Policy",
+            "conf": 0.9938462376594543,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you about material changes to this Privacy Policy by placing a notice on our Sites",
+            "conf": 0.9998759031295776,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "section was last updated July 1, 2020",
+            "conf": 0.9633427262306213,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "collected",
+            "conf": 0.9108266830444336,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "categories",
+            "conf": 0.9367150068283081,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "California Information:\u2022 Address and other identifiers -- such as name, phone number, postal address, zip code, email address, account name or number, date of birth, driver's license number, payment card numbers, or other similar identifiers\u2022 Characteristics of protected classifications -- such as race, ethnicity, or sexual orientation\u2022 Unique and other online identifiers -- such as IP address, device IDs, or other similar identifiers that relate to your device and its operating system\u2022 Commercial information -- such as products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies\u2022 Internet or other electronic network activity information -- such as browsing history, search history, and information regarding your interactions with our Sites, and content such as videos, ads, websites, and devices such as smart TVs, streaming media, browsers and apps\u2022 Professional information or educational Information -- such as your current occupation\u2022 Biometric information \u2022 Audio, visual, or similar information -- such as photos, videos, video footage (CCTV) or recordings you choose to post to our Sites or provide by granting us access to your camera while using Sites or services\u2022 Location information -- such as your device's precise location in connection with certain Sites \u2022 Inferences or audience segmentation -- such as individual profiles, preferences, characteristics, and behaviors\u2022 In-Game or online viewing activities -- such videos, content, and pages viewedWe",
+            "conf": 0.9861062169075012,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "third parties:\u2022 Address and other identifiers -- such as name, phone number, postal address, zip code, email address, account name or number, date of birth, driver's license number, payment card numbers, or other similar identifiers\u2022 Characteristics of protected classifications -- such as race, ethnicity, or sexual orientation\u2022 Unique and other online identifiers -- such as IP address, device IDs, or other similar identifiers that relate to your device and its operating system\u2022 Commercial information -- such as products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies\u2022 Internet or other electronic network activity information -- such as browsing history, search history, and information regarding your interactions with our Sites, and content such as videos, ads, websites, and devices such as smart TVs, streaming media, browsers and apps\u2022 Professional information or educational Information -- such as your current occupation\u2022 Biometric information \u2022 Audio, visual, or similar information -- such as photos, videos, video footage (CCTV) or recordings you choose to post to our Sites or provide by granting us access to your camera while using Sites or services\u2022 Location information -- such as your device's precise location in connection with certain Sites\u2022 Inferences or audience segmentation -- such as individual profiles, preferences, characteristics, and behaviors\u2022 In-Game or",
+            "conf": 0.9721550941467285,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "categories",
+            "conf": 0.9760183095932007,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Service Providers -- These entities process information on our behalf for business purposes, helping us provide products or services to you\u2022 Social Media Platforms -- These entities maintain networks connecting individuals and organizations -- such as Facebook, LinkedIn, or Twitter\u2022 Advertising Partners -- These entities help us advertise our products or services, as well as connect us with others who want to place advertisements on some of our products or services \u2022 Analytics Partners -- These entities help us collect data on how our products or services are used, so that we can improve them and better understand our consumers\u2022 Promotional Partners -- We partner with these entities to jointly promote our products, for example by running contests or other promotional campaigns\u2022 Government Entities -- These entities include law enforcement authorities, regulatory agencies, and courtsCategories",
+            "conf": 0.9773869514465332,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "California Information sold to third parties",
+            "conf": 0.9254645705223083,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "was last updated",
+            "conf": 0.9367857575416565,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "of California Information to the following categories of third parties:\u2022 Affiliates -- These entities are associated with us through common ownership",
+            "conf": 0.9296485781669617,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "In particular, you can request the following:\u2022 The categories and specific pieces of your California Information that we've collected\u2022 The categories of sources",
+            "conf": 0.9111166596412659,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "which we collected or sold California Information\u2022 The categories of third parties with which we shared California InformationYou can submit a request to us for the following additional information:\u2022 The categories of third parties to whom we've sold California Information, and the category or categories of California Information sold to each\u2022 The categories of third parties to whom we've disclosed California Information, and the category or categories of California Information disclosed to each YOUR RIGHT TO REQUEST THE DELETION OF CALIFORNIA INFORMATIONUpon your request, we will delete the California Information we have collected about you, except for situations when that information is necessary for us to: provide you with a product or service that you requested",
+            "conf": 0.9738388657569885,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "YOUR RIGHT TO ASK US NOT TO SELL YOUR CALIFORNIA INFORMATIONYou can always tell us not to sell your California Information by visiting our Privacy Center",
+            "conf": 0.9551069736480713,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "TO EXERCISE YOUR CALIFORNIA RIGHTSYou may exercise your rights to request access to your California Information, deletion of your California Information, or to request we not sell your California Information by visiting our Privacy Center",
+            "conf": 0.9656006097793579,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "CALIFORNIA CONSUMERS UNDER 16 YEARS OLDCCPA has specific rules regarding the use of California Information from consumers under 16 years of age",
+            "conf": 0.9939184188842773,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If the consumer is between the ages of 13 and 16 years of age, the consumer may provide that permission",
+            "conf": 0.9930713176727295,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "if the consumer is under the age of 13, the consumer's parent or guardian must provide the permission",
+            "conf": 0.9998943209648132,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "As of the Effective Date of this Privacy Policy, we do not have actual knowledge that we sell California Information of consumers under 16 years of age.If you",
+            "conf": 0.9829510450363159,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "we handle California Information from consumers under the age of 16 years of age, or if you",
+            "conf": 0.9627309441566467,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "us",
+            "conf": 0.9503630995750427,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "91522.CALIFORNIA CONSUMERS UNDER 18 YEARS OLDCalifornia consumers who are registered users of the Sites and under 18 years of age may request removal of content or information they posted on the Sites",
+            "conf": 0.9995004534721375,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.5
+}

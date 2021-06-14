@@ -1,0 +1,936 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "To use WhatsApp, you must be at least 16 years old",
+            "conf": 0.9994471669197083,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last modified: April 24, 2018 (",
+            "conf": 0.960556149482727,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "To operate our global Service, we need to store and distribute content and information in data centers and systems around the world, including outside your country of residence",
+            "conf": 0.996025800704956,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you live in a country in the European Region, you must be at least 16 years old to use our Services or such greater age required in your country to register for or use our Services",
+            "conf": 0.9999979138374329,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you live in any other country except those in the European Region, you must be at least 13 years old to use our Services or such greater age required in your country to register for or use our Services",
+            "conf": 0.9999935626983643,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In addition to being of the minimum required age to use our Services under applicable law, if you are not old enough to have authority to agree to our Terms in your country, your parent or guardian must agree to our Terms on your behalf",
+            "conf": 0.9999973177909851,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "the legal bases for our processing of personal information about you, including the collection, use, processing, and sharing of such information, as well as the transfer and processing of such information to the United States and other countries globally where we have or use facilities, service providers, affiliated companies, or partners, regardless of where you use our Services",
+            "conf": 0.9766436815261841,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for keeping your device and your WhatsApp account safe and secure, and you must notify us promptly of any unauthorized use or security breach of your account or our Services.",
+            "conf": 0.9897516369819641,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "WhatsApp does not claim ownership of the information that you submit for your WhatsApp account or through our Services",
+            "conf": 0.9027565717697144,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WE WILL USE REASONABLE SKILL AND CARE IN PROVIDING OUR SERVICES TO YOU AND IN KEEPING IT A SAFE, SECURE, AND ERROR-FREE ENVIRONMENT, BUT WE DO NOT GUARANTEE THAT WHATSAPP WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS, DELAYS, OR IMPERFECTIONS",
+            "conf": 0.9939659833908081,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE ARE PROVIDING OUR SERVICES ON AN \"AS IS\" BASIS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF",
+            "conf": 0.9789173603057861,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE DO NOT WARRANT THAT ANY INFORMATION PROVIDED BY US IS ACCURATE, COMPLETE, OR USEFUL, THAT OUR SERVICES WILL BE OPERATIONAL, ERROR FREE, SECURE, OR SAFE, OR THAT OUR SERVICES WILL FUNCTION WITHOUT DISRUPTIONS, DELAYS, OR IMPERFECTIONS",
+            "conf": 0.9999781250953674,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU RELEASE US, OUR SUBSIDIARIES, AFFILIATES, AND OUR AND THEIR DIRECTORS, OFFICERS, EMPLOYEES, PARTNERS, AND AGENTS (TOGETHER, THE \"WHATSAPP PARTIES\") FROM ANY CLAIM, COMPLAINT, CAUSE OF ACTION, OR CONTROVERSY (TOGETHER, \"CLAIM\") AND DAMAGES, KNOWN AND UNKNOWN, RELATING TO, ARISING OUT OF, OR IN ANY WAY CONNECTED WITH ANY SUCH CLAIM YOU HAVE AGAINST ANY THIRD PARTIES",
+            "conf": 0.9999123215675354,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If anyone brings a claim (\"Third Party Claim\") against us related to your actions, information, or content on WhatsApp, you will, to the extent permitted by law, indemnify and hold the WhatsApp Parties harmless from and against all liabilities, damages, losses, and expenses of any kind (including reasonable legal fees and costs) relating to, arising out of, or in any way in connection with any of the following: (a) your access to or use of our Services, including information provided in connection therewith",
+            "conf": 0.9999935030937195,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may discontinue some or all of our Services, including certain features and the support for certain devices and platforms, at any time after a notice period of 30 days, where possible",
+            "conf": 0.9999445676803589,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Although we hope you remain a WhatsApp user, you can terminate your relationship with WhatsApp anytime for any reason by deleting your account",
+            "conf": 0.9999377131462097,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may also modify, suspend, or terminate your access to or use of our Services anytime for suspicious or unlawful conduct, including for fraud, or if we reasonably believe you violate our Terms or create harm, risk, or possible legal exposure for us, our users, or others",
+            "conf": 0.9994022250175476,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We reserve the right to limit our Services in any country",
+            "conf": 0.913914144039154,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You have the right to terminate your relationship with WhatsApp at any time by deleting your account",
+            "conf": 0.9998676180839539,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or update these Terms",
+            "conf": 0.9994326829910278,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Unless otherwise required by law, we will provide you at least 30 days' notice of amendments to our Terms, which will give you the opportunity to review the revised Terms before continuing to use our Services",
+            "conf": 0.9993438720703125,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "We will also update the \"Last Modified\" date at the top of our Terms",
+            "conf": 0.997403085231781,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Changes to these Terms shall become effective no sooner than 30 days after we provide notice of planned changes",
+            "conf": 0.999901294708252,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Please note that we may not be able to provide such notice for changes to these Terms that are required to address technical evolutions of our Services or for changes made for legal reasons, both of which will become effective immediately",
+            "conf": 0.9462112784385681,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "We hope you will continue using WhatsApp, but if you do not agree to our Terms, as amended, you must stop using our Services by deleting your account",
+            "conf": 0.9377684593200684,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "All of our rights and obligations under our Terms are freely assignable by us to any of our affiliates or in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise, and we may transfer your information to any of our affiliates, successor entities, or new owner",
+            "conf": 0.9986962080001831,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "We hope you will continue using WhatsApp, but if you do not agree to such an assignment, you must stop using our Services by deleting your account",
+            "conf": 0.9118838310241699,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "If we fail to enforce any of our Terms, it will not be considered a waiver",
+            "conf": 0.9999800324440002,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of these Terms is found to be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from our Terms and shall not affect the validity and enforceability of the remaining provisions of our Terms, and the remaining portion of our Terms will remain in full force and effect",
+            "conf": 0.9788289666175842,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "FINALLY, YOU MAY BRING A CLAIM ONLY ON YOUR OWN BEHALF, AND NOT ON BEHALF OF ANY OFFICIAL OR OTHER PERSON, OR CLASS OF PEOPLE",
+            "conf": 0.9997605681419373,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU WAIVE YOUR RIGHT TO PARTICIPATE IN, OR HAVE YOUR DISPUTE HEARD AND RESOLVED AS, A CLASS ACTION, A CLASS ARBITRATION, OR A REPRESENTATIVE ACTION",
+            "conf": 0.9999924302101135,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No Class Actions, Class Arbitrations, Or Representative Actions For Users Located In The United States Or Canada",
+            "conf": 0.9999988675117493,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We and you each agree not to participate in a class action, a class-wide arbitration, Disputes brought in a private attorney general or representative capacity, or consolidated Disputes involving any other person or entity in connection with any Dispute",
+            "conf": 0.9999837875366211,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the prohibition against class actions and other Disputes brought on behalf of third parties is found to be unenforceable for a Dispute, then all of the provisions above under the caption \"Special Arbitration Provision for United States or Canada Users\" will be null and void as to that Dispute",
+            "conf": 0.9998170137405396,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last modified: April 24, 2018 (archived versions",
+            "conf": 0.9998691082000732,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We do not retain your messages in the ordinary course of providing our Services to you",
+            "conf": 0.9711571335792542,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once",
+            "conf": 0.9081181883811951,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "servers",
+            "conf": 0.9420029520988464,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "This includes information like hardware model, operating system information, battery level, signal strength, app version, browser information, and mobile network, connection information including phone number, mobile operator or ISP, language and time zone, and IP, device operations information, and identifiers like device identifiers (including identifiers unique to Facebook Company Products associated with the same device or account).",
+            "conf": 0.999557614326477,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use various technologies to determine location, including IP, GPS, Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.",
+            "conf": 0.9943864941596985,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "All of our rights and obligations under our Privacy Policy are freely assignable by us to any of our affiliates, in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise, and we may transfer your information to any of our affiliates, successor entities, or new owner",
+            "conf": 0.9987305402755737,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Under the General Data Protection Regulation or other applicable local laws, you have the right to access, rectify, port, and erase your information, as well as the right to restrict and object to certain processing of your information",
+            "conf": 0.9999474883079529,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can access tools to rectify, update, and erase your information directly in-app as described in the Managing and Deleting Your Information section",
+            "conf": 0.9956141710281372,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Where we use your information for direct marketing for our own Services, you can always object and opt out of future marketing messages using the unsubscribe link in such communications, or by using our in-app \"Block\" feature",
+            "conf": 0.9999918341636658,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We store information until it is no longer necessary to provide our services, or until your account is deleted, whichever comes first",
+            "conf": 0.9983455538749695,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to manage, change, limit, or delete your information, we allow you to do that through the following tools:",
+            "conf": 0.9999686479568481,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can also change your profile name, profile picture, and about information at any time",
+            "conf": 0.9941439628601074,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may delete your WhatsApp account at any time (including if you want to revoke your consent to our use of your information) using our in-app delete my account feature",
+            "conf": 0.9997789859771729,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you delete your WhatsApp account, your undelivered messages are deleted from our servers as well as any of your other information we no longer need to operate and provide our Services",
+            "conf": 0.9991711378097534,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Be mindful that if you only delete our Services from your device without using our in-app delete my account feature, your information may be stored with us for a longer period",
+            "conf": 0.9995996952056885,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Information controlled by WhatsApp Ireland will be transferred or transmitted to, or stored and processed, in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy",
+            "conf": 0.9999939799308777,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy",
+            "conf": 0.9999898672103882,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you before we make changes to this Privacy Policy and give you the opportunity to review the revised Privacy Policy before you choose to continue using our Services",
+            "conf": 0.994739830493927,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "you always have the right to request access to, rectification of, and erasure of your data",
+            "conf": 0.9250361323356628,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "To transfer, transmit, store, or process your data outside the EEA, including to within the United States and other countries",
+            "conf": 0.9856507182121277,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "When we process data you provide to us based on your consent, you have the right to withdraw your consent at any time and to port that data you provide to us, under the GDPR",
+            "conf": 0.9801037311553955,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "For people under the age of majority (under 18, in most EU countries) who have a limited ability to enter into an enforceable contract only, we may be unable to process personal data on the grounds of contractual necessity",
+            "conf": 0.9999884963035583,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of majority in your country and have a limited ability to enter an enforceable contract, we will take particular account of the fact that you are below the age of majority and adjust our assessment of our legitimate interests and the balancing of your interests and rights accordingly",
+            "conf": 0.9991779923439026,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": ", we do not retain our users' messages in the ordinary course of providing our Services",
+            "conf": 0.9442522525787354,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "modified: August 25, 2016",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "IF YOU ARE A WHATSAPP USER LOCATED IN THE UNITED STATES OR CANADA, OUR TERMS CONTAIN A BINDING ARBITRATION PROVISION, WHICH STATES THAT, EXCEPT IF YOU OPT OUT AND EXCEPT FOR CERTAIN TYPES OF DISPUTES, WHATSAPP AND YOU AGREE TO RESOLVE ALL DISPUTES THROUGH BINDING INDIVIDUAL ARBITRATION, WHICH MEANS THAT YOU WAIVE ANY RIGHT TO HAVE THOSE DISPUTES DECIDED BY A JUDGE OR JURY, AND THAT YOU WAIVE YOUR RIGHT TO PARTICIPATE IN CLASS ACTIONS, CLASS ARBITRATIONS, OR REPRESENTATIVE ACTIONS",
+            "conf": 0.9999344348907471,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 13 years old to use our Services (or such greater age required in your country for you to be authorized to use our Services without parental approval).",
+            "conf": 0.9999995231628418,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In addition to being of the minimum required age to use our Services under applicable law, if you are not old enough to have authority to agree to our Terms in your country, your parent or guardian must agree to our Terms on your behalf",
+            "conf": 0.9999973177909851,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "You agree to our data practices, including the collection, use, processing, and sharing of your information as described in our Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use our Services",
+            "conf": 0.9998631477355957,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for keeping your device and your WhatsApp account safe and secure, and you must notify us promptly of any unauthorized use or security breach of your account or our Services.",
+            "conf": 0.9897516369819641,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "WhatsApp does not claim ownership of the information that you submit for your WhatsApp account or through our Services",
+            "conf": 0.9027565717697144,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WE ARE PROVIDING OUR SERVICES ON AN \u201cAS IS\u201d BASIS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF",
+            "conf": 0.9836862683296204,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE DO NOT WARRANT THAT ANY INFORMATION PROVIDED BY US IS ACCURATE, COMPLETE, OR USEFUL, THAT OUR SERVICES WILL BE OPERATIONAL, ERROR FREE, SECURE, OR SAFE, OR THAT OUR SERVICES WILL FUNCTION WITHOUT DISRUPTIONS, DELAYS, OR IMPERFECTIONS",
+            "conf": 0.9999781250953674,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU RELEASE US, OUR SUBSIDIARIES, AFFILIATES, AND OUR AND THEIR DIRECTORS, OFFICERS, EMPLOYEES, PARTNERS, AND AGENTS (TOGETHER, THE \u201cWHATSAPP PARTIES\u201d) FROM ANY CLAIM, COMPLAINT, CAUSE OF ACTION, CONTROVERSY, OR DISPUTE (TOGETHER, \u201cCLAIM\u201d) AND DAMAGES, KNOWN AND UNKNOWN, RELATING TO, ARISING OUT OF, OR IN ANY WAY CONNECTED WITH ANY SUCH CLAIM YOU HAVE AGAINST ANY THIRD PARTIES",
+            "conf": 0.9997761845588684,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE WHATSAPP PARTIES WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR CONSEQUENTIAL, SPECIAL, PUNITIVE, INDIRECT, OR INCIDENTAL DAMAGES RELATING TO, ARISING OUT OF, OR IN ANY WAY IN CONNECTION WITH OUR TERMS, US, OR OUR SERVICES, EVEN IF THE WHATSAPP PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9998044967651367,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify, and hold harmless the WhatsApp Parties from and against all liabilities, damages, losses, and expenses of any kind (including reasonable legal fees and costs) relating to, arising out of, or in any way in connection with any of the following: (a) your access to or use of our Services, including information provided in connection therewith",
+            "conf": 0.9999935030937195,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may discontinue some or all of our Services, including certain features and the support for certain devices and platforms, at any time",
+            "conf": 0.9999970197677612,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may modify, suspend, or terminate your access to or use of our Services anytime for any reason, such as if you violate the letter or spirit of our Terms or create harm, risk, or possible legal exposure for us, our users, or others",
+            "conf": 0.9999781847000122,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We reserve the right to limit our Services in any country",
+            "conf": 0.913914144039154,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or update these Terms",
+            "conf": 0.9994326829910278,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will provide you notice of amendments to our Terms, as appropriate, and update the \u201cLast Modified\u201d date at the top of our Terms",
+            "conf": 0.9247643351554871,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "All of our rights and obligations under our Terms are freely assignable by us to any of our affiliates or in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise, and we may transfer your information to any of our affiliates, successor entities, or new owner",
+            "conf": 0.9986962080001831,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If we fail to enforce any of our Terms, it will not be considered a waiver",
+            "conf": 0.9999800324440002,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of these Terms is deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from our Terms and shall not affect the validity and enforceability of the remaining provisions, except as set forth in",
+            "conf": 0.9367163181304932,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "FINALLY, THIS SECTION WAIVES YOUR RIGHT TO HAVE YOUR DISPUTE HEARD AND RESOLVED AS A CLASS ACTION, CLASS ARBITRATION, OR A REPRESENTATIVE ACTION",
+            "conf": 0.9999839067459106,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You must use this address to opt-out:",
+            "conf": 0.9991996884346008,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "No Class Actions, Class Arbitrations, or Representative Actions for Users Located in the United States or Canada",
+            "conf": 0.9999992251396179,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We and you each agree not to participate in a class action, a class-wide arbitration, Disputes brought in a private attorney general or representative capacity, or consolidated Disputes involving any other person or entity in connection with any Dispute",
+            "conf": 0.9999837875366211,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the prohibition against class actions and other Disputes brought on behalf of third parties is found to be unenforceable for a Dispute, then all of the provisions above under the caption \u201cSpecial Arbitration Provision for United States or Canada Users\u201d will be null and void as to that Dispute",
+            "conf": 0.9997654557228088,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "modified: August 25, 2016",
+            "conf": 0.9999973177909851,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We do not retain your messages in the ordinary course of providing our Services to you",
+            "conf": 0.9711570739746094,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once",
+            "conf": 0.9081181883811951,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "servers",
+            "conf": 0.9420029520988464,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "All of our rights and obligations under our Privacy Policy are freely assignable by us to any of our affiliates, in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise, and we may transfer your information to any of our affiliates, successor entities, or new owner",
+            "conf": 0.9987305402755737,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to manage, change, limit, or delete your information, we allow you to do that through the following tools:",
+            "conf": 0.9999686479568481,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can also change your profile name, profile picture, and status message at any time",
+            "conf": 0.9549992680549622,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may delete your WhatsApp account at any time (including if you want to revoke your consent to our use of your information) using our in-app delete my account feature",
+            "conf": 0.9997789859771729,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you delete your WhatsApp account, your undelivered messages are deleted from our servers as well as any of your other information we no longer need to operate and provide our Services",
+            "conf": 0.9991711378097534,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Be mindful that if you only delete our Services from your device without using our in-app delete my account feature, your information may be stored with us for a longer period",
+            "conf": 0.9995996952056885,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "You agree to our information practices, including the collection, use, processing, and sharing of your information as described in this Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use our Services",
+            "conf": 0.9999102354049683,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or update our Privacy Policy",
+            "conf": 0.9749065637588501,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": ", we do not retain our users' messages in the ordinary course of providing our Services",
+            "conf": 0.9442522525787354,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "modified: July 9, 2018",
+            "conf": 0.999997615814209,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 18 years old to use Payments",
+            "conf": 0.9999311566352844,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We have no responsibility for any goods or services purchased using Payments, including for any claims, damages, losses, liabilities, chargebacks or disputes associated with transactions",
+            "conf": 0.9997859597206116,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WE MAKE NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY PRODUCTS OR SERVICES PURCHASED USING PAYMENTS",
+            "conf": 0.9998235106468201,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "WhatsApp is not liable for unauthorized transactions",
+            "conf": 0.9307635426521301,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or update these Payments Terms",
+            "conf": 0.9558902382850647,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will provide you notice of amendments to our Payments Terms, as appropriate, and update the \u201cLast Modified\u201d date at the top of our Payments Terms",
+            "conf": 0.9032557606697083,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "modified: July 9, 2018",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "ICICI Bank does not hold out any warranty and makes no representation about the quality of the Facility",
+            "conf": 0.9983327984809875,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The User agrees and acknowledges that ICICI Bank shall not be liable and shall in no way be held responsible for any damages whatsoever, whether such damages are direct, indirect, incidental or consequential and irrespective of whether any claim is based on loss of revenue, interruption of business, transaction carried out by the User and processed by ICICI Bank, information provided or disclosed by ICICI Bank regarding Account(s) or any loss of any character or nature whatsoever and whether sustained by the User or by any other person.",
+            "conf": 0.9988764524459839,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ICICI Bank shall not be liable for any loss, claim or damage suffered by the User and/or any other third party arising out of or resulting from failure of a UPI transaction on account of time-out transaction",
+            "conf": 0.984165608882904,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Users shall not hold ICICI Bank responsible and/or liable in any manner whatsoever for any losses/damages/costs incurred by the User for creation of the VPA and/or initiating/processing/cancelling any transaction on the",
+            "conf": 0.9082343578338623,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ICICI Bank shall not be responsible for, and the User shall solely be responsible for, any unauthorised access or use of their personal or financial information through the WhatsApp Platform.",
+            "conf": 0.9940484762191772,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The User agrees, at their own expense, to indemnify, defend and hold harmless ICICI Bank against any claim, suit, action or other proceeding brought against ICICI Bank, to the extent that such claim, suit, action or other proceeding brought against ICICI Bank is based on or arises in connection with the use of the Facility with reference to:",
+            "conf": 0.9999997019767761,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "ICICI Bank shall be entitled to sell, assign, securitise or transfer ICICI Bank's rights and obligations under these Terms and any security in favour of ICICI Bank (including all guarantee[s]) to any person of ICICI Bank's choice in whole or in part and in such manner and on such terms and conditions as ICICI Bank may decide",
+            "conf": 0.9830225706100464,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "ICICI Bank may withdraw or terminate the UPI Facility anytime either entirely or with reference to a specific UPI Facility without assigning any reasons whatsoever",
+            "conf": 0.9998033046722412,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "ICICI Bank may suspend or terminate the UPI Facility anytime without assigning any reason whatsoever without any prior notice upon the request of WhatsApp",
+            "conf": 0.999602198600769,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "HDFC Bank Ltd shall not be held responsible and liable for any loss, cost and damage suffered by the User due to disclosure of his personal or other information to a third party including but not limited to statutory/regulatory authority by HDFC Bank Ltd for whatsoever reason, e.g., participation in any telecommunication or electronic clearing network in compliance with a legal or regulatory directive for statistical analysis or for credit rating or for any legal or regulatory compliance.",
+            "conf": 0.9961413741111755,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "User acknowledges, represents and confirms that his credentials are personal to the him and the User shall ensure at all times to keep the same confidential and Axis Bank shall not be held liable or responsible if the User discloses his credentials to any third party in any manner whatsoever or authorizes any third party to operate account or hands over his WhatsApp application or if third party changes/modifies the credentials in the WhatsApp application due to disclosure of such credentials by the User or misuse the WhatsApp application permitted by User to use by third party.",
+            "conf": 0.9922640919685364,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Therefore, Bank shall not be held liable or responsible in case of any details including UPI PIN are compromised by User and/or any misuse of WhatsApp application by third party, in such case the User shall be solely liable and responsible and shall keep Axis Bank indemnified, harmless and absolved from any liability in this regard including from any loss, cost, penalty, charges, including legal fees/charge, etc..",
+            "conf": 0.9442976713180542,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "User agrees and confirms that, he shall be alone responsible for use/disclosure of his details as mentioned herein, for initiating/authorizing any transaction through the Facility via NPCI and the Issuing bank and shall keep Axis Bank indemnified, harmless and absolved from any liability in this regard including from any loss, cost, penalty, charges, including legal fees/charge, etc",
+            "conf": 0.9997376203536987,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Therefore, the User shall be solely liable and responsible, in such case if any loss, cost, penalty, charges, including legal fees/charge, etc",
+            "conf": 0.9466745853424072,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "User acknowledges and agrees that Axis Bank remains a mere facilitator for this service and that Axis Bank does not warrant or claim any responsibility for this facility nor does Axis Bank endorse any such service and/or its standing or reputation whatsoever and Axis Bank shall not liable for any deficient or bad services in any manner whatsoever and for any loss, whatsoever that User may suffer",
+            "conf": 0.9064632058143616,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Axis Bank may withdraw or terminate the facility anytime or in case of breach of terms by me/us without a prior notice",
+            "conf": 0.997602641582489,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The User agrees to indemnify, defend and hold harmless Axis Bank and its directors, officers, owners, agents, co-branders or other partners, employees, information providers, licensors, licensees, consultants, contractors and other applicable third parties (collectively \"Indemnified Parties\") from and against any and all claims, demands, causes of action, debt or liability, including reasonable attorney's fees, and costs incurred by the Indemnified Parties arising out of, related to, or which may arise from:",
+            "conf": 0.9999998807907104,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In consideration of Axis bank agreeing to provide the Facility and/or services to the User, the User shall, at his own expense, hereby irrevocably agrees, to indemnify and keep Axis bank its directors and employees, representatives, agents and/or affiliates (hereinafter referred to as \u201cthe related parties\u201d), as the case may be, indemnified and harmless, at all times hereafter, from all losses, damages, costs, legal fees, charges and expenses and consequences whatsoever, on full indemnity basis, suffered or incurred or likely to suffer by Axis bank or the related parties on account of any claims, actions, suits or otherwise instituted by the User, or any third party whatsoever, arising out of or in connection with the use of the Facility and any and all transactions initiated by the use of the Facility, whether with or without the knowledge of the User, or whether the same have been initiated bona fide or otherwise which transactions, the User hereby acknowledges, Axis bank or the related parties has processed on the User",
+            "conf": 0.9998801946640015,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s transaction instructions and authority of the User in accordance with these terms and conditions and other applicable specific terms and conditions, as the case may be",
+            "conf": 0.9999586343765259,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Bank and /or the related parties such amount as may be determined by Axis Bank and/or the related parties to be sufficient to indemnify it against any such loss or expenses even though they may not have arisen or are contingent in nature",
+            "conf": 0.9117616415023804,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The User agrees to pay any and all costs, damages and expenses, including, but not limited to, reasonable attorneys' fees and costs awarded against it or otherwise incurred by or in connection with or arising from any such claim, suit, action or proceeding attributable to any such claim",
+            "conf": 0.9992666244506836,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Axis Bank shall also not be responsible for any incidental error which occurs inspite of necessary steps being taken by the Bank to ensure the accuracy of the information provided to the User and the User shall not have any claim against Axis bank in an event of any loss/damage suffered by the User as a consequence of the inaccurate information provided by the Bank",
+            "conf": 0.9885332584381104,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Axis Bank may, at its discretion, withdraw temporarily or terminate the Facility, either wholly or in part, at any time without giving prior notice to the User",
+            "conf": 0.9910292625427246,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Axis Bank may, without prior notice, suspend the Facility at any time during which any maintenance work or repair is required to be carried out or in case of any emergency or for security reasons, which require the suspension of the Facility",
+            "conf": 0.9870041608810425,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Except as otherwise provided by the applicable law or regulation, Axis bank reserves the right to terminate the Facility and/or expand, reduce or suspend the transactions allowed using this Facility, change the process and transaction limits associated with this Facility based on security issues, at any time, without any prior notice to the User",
+            "conf": 0.9734633564949036,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Axis Bank, its directors and employees, agent or contractors, shall not be liable for and in respect of any loss or damage whether direct, indirect or consequential, including but not limited to loss of revenue, profit, business, contracts, anticipated savings or goodwill, loss of use or value of any equipment including software, whether foreseeable or not, suffered by the User or any person howsoever arising from or relating to any delay, interruption, suspension, resolution or error of the Bank in receiving and processing the request and in formulating and returning responses or any failure, delay, interruption, suspension, restriction, or error in transmission of any information or message to and from the telecommunication equipment of the User and the network of any service provider and the Bank's system or any breakdown, interruption, suspension or failure of the telecommunication equipment of the User, the Bank's system or the network of any service provider and/or any third party who provides such services as is necessary to provide the Facility.",
+            "conf": 0.9978626370429993,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Axis bank shall not be held responsible for the confidentiality, secrecy and security of the personal or account information being sent through the",
+            "conf": 0.9314016699790955,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "for",
+            "conf": 0.9487149715423584,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.9
+}

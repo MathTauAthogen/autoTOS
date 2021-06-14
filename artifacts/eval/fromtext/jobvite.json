@@ -1,0 +1,82 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "This Terms of Use page was last updated on August 5, 2016",
+            "conf": 0.9999973773956299,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "It is your responsibility to safeguard the logon and password to your account, and you will be liable for any activity taken using your account.",
+            "conf": 0.9990345239639282,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "You agree that we and our its licensors may make changes to the services offered on the Site, at any time without notice, and you further agree that we can revise these Terms at any time without notice by posting updated Terms on the Site.",
+            "conf": 0.9884048104286194,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "For this reason, you should check the Terms periodically for updates and changes",
+            "conf": 0.9999688863754272,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will communicate with you by e-mail or by posting notices on the Site",
+            "conf": 0.9972384572029114,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We do not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services",
+            "conf": 0.9076974391937256,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE CONTENT AND OTHER MATERIALS ON THE SITE ARE SUPPLIED \u201cAS IS,\u201d WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND ALL SUCH WARRANTIES ARE DISCLAIMED INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A",
+            "conf": 0.9809459447860718,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ", ACCURACY, NON-INFRINGEMENT, OR FREEDOM FROM ERRORS",
+            "conf": 0.9561898112297058,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT WILL WE OR ANY OF OUR AGENTS OR LICENSORS BE LIABLE TO YOU IN CONNECTION WITH YOUR ACCESS OF THE SITE UNDER ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, INDIRECT OR CONSEQUENTIAL DAMAGES OR LOST PROFITS, OR FOR DAMAGES OF ANY SORT IN EXCESS OF ONE HUNDRED DOLLARS ($100.00), EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+            "conf": 0.9994684457778931,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of these terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable and shall not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9902251958847046,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Failure by us to enforce these terms shall not be construed as a waiver",
+            "conf": 0.9999904036521912,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 0.8
+}

@@ -1,0 +1,61 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "This page was last modified on 19 April 2017, at 13:50",
+            "conf": 0.9999974966049194,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "makes no warranties of any kind, whether express or implied, for the service it is providing",
+            "conf": 0.9999633431434631,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "will not be held responsible for any damage you suffer from use of an account or service provided by Sonic.net, Inc., unless otherwise agreed to in writing",
+            "conf": 0.9969209432601929,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "These logs are retained on a temporary basis in order to insure high-quality service, and no logs are kept indefinitely",
+            "conf": 0.9996658563613892,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "will not otherwise disclose any private information about its customers to any other third party",
+            "conf": 0.9973683953285217,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "will hold you responsible for any damage caused by your actions, whether intentional or unintentional",
+            "conf": 0.9514985680580139,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "reserves the right to grant or revoke customer shell access at any time",
+            "conf": 0.9273066520690918,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "shall not be held responsible for access to material that an account holder deems inappropriate",
+            "conf": 0.9935898184776306,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.9
+}

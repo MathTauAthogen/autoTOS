@@ -1,0 +1,166 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "freeCodeCamp doesn't show you ads or sell your data to anyone",
+            "conf": 0.9993028044700623,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You have full control over your data, and can set any of these details to private, or delete them at any time",
+            "conf": 0.9961110949516296,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can also delete any of your personal data, or even delete your entire account",
+            "conf": 0.9999439120292664,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When I delete my personal data from freeCodeCamp, is it really deleted from freeCodeCamp's servers? Yes.",
+            "conf": 0.9775145649909973,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you delete personal data from freeCodeCamp, we immediately delete it from our servers",
+            "conf": 0.999884307384491,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We make emergency backups of our database every day, and we delete each of these backups after a few days",
+            "conf": 0.991601288318634,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Our goal is to inform you of your specific rights to access data, erase it, port it, rectify it, and object to automated decision-making",
+            "conf": 0.9980660676956177,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Can any other organizations access my data? We don't sell your data to anyone",
+            "conf": 0.9998443126678467,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use Google Analytics to help us understand the demographics of our community and how people are using",
+            "conf": 0.9792757630348206,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "? This version of freeCodeCamp\u2019s privacy questions and answers took effect May 25, 2018",
+            "conf": 0.9902351498603821,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "freeCodeCamp may change how it announces changes in a future version of these questions and answers",
+            "conf": 0.9964393973350525,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The company reserves the right to change, redact, and delete content on the website for any reason",
+            "conf": 0.9998230934143066,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may close your account at any time by logging into your account and clicking the button on your account settings page",
+            "conf": 0.9998455047607422,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You agree to be responsible for all action taken using your account, whether authorized by you or not, until you either close your account or notify the company that your account has been compromised.",
+            "conf": 0.9960784912109375,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree to select a secure password for your account, and keep it secret",
+            "conf": 0.9987760186195374,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that the company will not be liable to you for those violations or their consequences",
+            "conf": 0.9627392888069153,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Responsibility You agree to indemnify the company from legal claims by others related to your breach of these terms, or breach of these terms by others using your account on the website",
+            "conf": 0.996813178062439,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the company fails to notify you of a legal claim promptly, you won\u2019t have to indemnify the company for damages that you could have defended against or mitigated with prompt notice",
+            "conf": 0.9892234802246094,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "As far as the law allows, the company provides the website as is, without any warranty whatsoever",
+            "conf": 0.9999931454658508,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You will settle any dispute as an individual, and not as part of a class action or other representative proceeding, whether as the plaintiff or a class member",
+            "conf": 0.9999974370002747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Neither the exercise of any right under this Agreement, nor waiver of any breach of this Agreement, waives any other breach of this Agreement",
+            "conf": 0.9994591474533081,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "The company may notify you under these terms using the e-mail address you provide for your account on the website, or by posting a message to the homepage of the website or your account page",
+            "conf": 0.9722705483436584,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Changes The company last updated these terms on May 25, 2018, and may update these terms again",
+            "conf": 0.9392593502998352,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.6
+}

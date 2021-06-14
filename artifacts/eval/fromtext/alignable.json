@@ -1,0 +1,439 @@
+{
+    "predictions": [
+        {
+            "label": "3",
+            "text": "Provide complete and accurate information to Alignable and update it as necessary to maintain its accuracy and completeness;",
+            "conf": 0.9982352256774902,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "You have control over what you share, and you can update information at any time",
+            "conf": 0.9809795618057251,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not rent, sell, or otherwise provide your personally identifiable information to third parties without your consent, except as described in this policy or as required by law",
+            "conf": 0.9999839663505554,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not share any information you have not chosen to display on your Alignable profile to other parties, unless compelled by law, or as necessary to enforce our User Agreement or protect the rights, property, or personal safety of Alignable, its Users, and the public",
+            "conf": 0.9337449073791504,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to modify this Privacy Policy at any time, so please review it frequently",
+            "conf": 0.9999629259109497,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes to this policy, we will notify you here, by means of a notice on our home page so that you may access and review the changes to this document in advance of your continued use of the service",
+            "conf": 0.9990211725234985,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "and, if you are already a member, you should close your account",
+            "conf": 0.9816123843193054,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Like most websites, we use cookies and web log files to track site usage and trends, to improve the quality of our service, to customize your experience on Alignable, as well as to deliver Alignable and third-party advertising to Users both on and off the Alignable site",
+            "conf": 0.9987804889678955,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Alignable does not store unencrypted personally identifiable information in the cookies",
+            "conf": 0.9761315584182739,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Alignable does not provide personally identifiable information to any third party ad network",
+            "conf": 0.9978572726249695,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We use ad technology such as web beacons, pixels, anonymous ad network tags, and cookies to more effectively serve ads to our Users on and off Alignable through ad networks, as well as to collect anonymized, aggregated auditing, research and reporting for advertisers.",
+            "conf": 0.9986252784729004,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of ads served to you off Alignable",
+            "conf": 0.9999915361404419,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You may request deletion of your information at any time by",
+            "conf": 0.9998857378959656,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Data Retention: Alignable will retain your information for so long as your account is active or as needed to provide you services, except in the case of our professional plugin impression data, which we de-identify after 12 months",
+            "conf": 0.9995409250259399,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to close your account, you may do so",
+            "conf": 0.9999896883964539,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you wish, you can also opt-out of receiving promotional emails by sending a",
+            "conf": 0.9999979734420776,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please be aware that you cannot opt-out of receiving service messages from Alignable",
+            "conf": 0.9999641180038452,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Sharing Information with Third Parties: Alignable takes the privacy of our Users very seriously, and we do not sell, rent, or otherwise provide your personally identifiable information to third parties, except as described in this policy",
+            "conf": 0.9997133016586304,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of this feature by editing your account settings",
+            "conf": 0.9985023140907288,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "You agree that your use of Combined Services or Platform Applications is on an \u201cas is\u201d basis and without any warranty",
+            "conf": 0.9999805688858032,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of providing information to third parties through others connected to you by",
+            "conf": 0.9944891333580017,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We will not disclose any personally identifiable information to any third parties in connection with the conduct of any polls or surveys",
+            "conf": 0.9723846912384033,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Alignable is not responsible for the information you choose to submit in these forums",
+            "conf": 0.9959132671356201,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can delete your posts to Answers and Alignable Groups at any time",
+            "conf": 0.9997932314872742,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "In order to deliver relevant and valuable ads to you and your network, Alignable may use your name and profile photo in connection with social advertising based on content shared on Alignable",
+            "conf": 0.9909488558769226,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of allowing your name and/or profile photo to be used in social ads",
+            "conf": 0.9996501803398132,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "Disclosures to Others as the Result of a Change in Control or Sale of Alignable Corporation: We may also disclose your personal information and other information you provide to another third party as part of a sale of the assets of Alignable Corporation, a subsidiary or division, or as the result of a change in control of the company",
+            "conf": 0.9864148497581482,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can review the personal information you provided to us and make any desired changes to the information you publish, or to the settings for your Alignable account including your email and contact preferences, at any time by logging in to",
+            "conf": 0.9874852299690247,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please be aware that even after your request for a change is processed, Alignable may, for a time, retain residual information about you in its backup and/or archival copies of its database",
+            "conf": 0.9941812753677368,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Closing Your Account: You can close your account through the Alignable customer service site",
+            "conf": 0.9007095098495483,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you close your Alignable account, we will remove your name and other personally identifiable information from our publicly viewable database",
+            "conf": 0.9974911212921143,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You must keep your username and password confidential and not share it with others",
+            "conf": 0.917887806892395,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children and Minors - Children under the age of 18 are not eligible to use our service",
+            "conf": 0.9998704195022583,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update this Privacy Policy at any time, with or without advance notice",
+            "conf": 0.9972705245018005,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "In the event there are significant changes in the way we treat your personally identifiable information, or in the Privacy Policy document itself, we will display a notice on the Alignable website or send you an email, so that you may review the changed terms prior to continuing to use the site",
+            "conf": 0.9828927516937256,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for anything that happens through or involving your account until you close down your account or prove to Alignable\u2019s reasonable satisfaction that your account security was compromised due to no fault of your own.",
+            "conf": 0.9994163513183594,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Indemnification: You will fully indemnify, defend and hold us harmless for all damages, losses and costs (including, but not limited to, reasonable legal fees and costs), fines, administrative monetary penalties or settlement costs, (\"Losses\") related to all third party claims, charges, regulatory and other investigations, caused by (1) your failure to comply with this Agreement, including, without limitation, your submission of content that violates third party rights or applicable laws, (2) any content you submit to the Services, and (3) any activity in your account or which you engage in or through your use of the Services",
+            "conf": 0.9966676831245422,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You will further indemnify, defend, and hold us harmless from and any and all Losses arising from (a) any breach or inaccuracy of Section 2 above",
+            "conf": 0.9999799132347107,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that Alignable shall not be liable for any consequence resulting, directly or indirectly, from your failure to maintain accurate contact or other information, including, but not limited to, your failure to receive critical information about the Service",
+            "conf": 0.9919449687004089,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Alignable members can create Profile Pages and other Pages for free, however, Alignable may close or transfer any Profile Pages or other User created Pages, or remove content from them if the content violates this Agreement or others\u2019 intellectual property rights",
+            "conf": 0.9982357621192932,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may modify, replace, refuse access to, suspend or discontinue Alignable, partially or entirely, or change and modify prices for all or part of the Services for you or for all our users in our sole discretion",
+            "conf": 0.9999961256980896,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Alignable further reserves the right to withhold, remove and or discard any content available as part of your account, with or without notice if deemed by Alignable to be contrary to this Agreement",
+            "conf": 0.9983773827552795,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Alignable is not responsible for and does not endorse any features, content, advertising, products or other materials on or available from Third Party Sites or Platform Applications",
+            "conf": 0.9162948131561279,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Accordingly, if you decide to access Third Party Sites or use Platform Applications, you do so at your own risk and agree that your use of any Platform Application is on an \u201cas-is\u201d, \u201cas-available\u201d basis without any warranty as to the Platform Developer",
+            "conf": 0.9979794025421143,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u2019s actions, and that this Agreement does not apply to your use of any Third Party Site or Developer Application",
+            "conf": 0.9930675029754639,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Alignable reserves the right, but has no obligation, to monitor disputes between you and other members and to restrict, suspend, or close your account if Alignable determines, in our sole discretion, that doing so is necessary to enforce this Agreement",
+            "conf": 0.9906788468360901,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE PROVIDE THE PLATFORM FOR ALIGNABLE AND ALL INFORMATION AND SERVICES ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9999109506607056,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SUBJECT TO APPLICABLE LAW, WE DO NOT PROVIDE ANY EXPRESS REPRESENTATIONS, WARRANTIES OR CONDITIONS",
+            "conf": 0.999755859375,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, WE DISCLAIM ANY AND ALL IMPLIED REPRESENTATIONS, WARRANTIES, OR CONDITIONS, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY,",
+            "conf": 0.9976292848587036,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ", TITLE, ACCURACY OF DATA, AND NON-INFRINGEMENT",
+            "conf": 0.9408822059631348,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ALIGNABLE IS NOT RESPONSIBLE, AND MAKES NO REPRESENTATIONS, WARRANTIES OR CONDITIONS REGARDING THE DELIVERY OF ANY MESSAGES (SUCH AS DIRECT MESSAGES, POSTING OF ANSWERS OR TRANSMISSION OF ANY OTHER USER GENERATED CONTENT) SENT THROUGH ALIGNABLE TO ANYONE",
+            "conf": 0.9340474605560303,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ALIGNABLE DOES NOT GUARANTEE THAT THE SERVICES IT PROVIDES WILL FUNCTION WITHOUT INTERRUPTION OR ERRORS IN FUNCTIONING",
+            "conf": 0.9778571724891663,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "FURTHERMORE, ALIGNABLE DISCLAIMS ALL LIABILITY FOR ANY MALFUNCTIONING, IMPOSSIBILITY OF ACCESS, OR POOR USE CONDITIONS OF THE ALIGNABLE SITE DUE TO INAPPROPRIATE EQUIPMENT, DISTURBANCES RELATED TO INTERNET SERVICE PROVIDERS, TO THE SATURATION OF THE INTERNET NETWORK, AND FOR ANY OTHER REASON",
+            "conf": 0.9451203942298889,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Neither Alignable nor any of our subsidiaries, affiliated companies, employees, shareholders, or directors (\u201cAlignable Affiliates\u201d) shall be cumulatively liable for (a) any damages in excess of five times the most recent monthly fee that you paid for a Premium Service, if any, or US $100, whichever amount is greater, or (b) any special, incidental, indirect, punitive or consequential damages or loss of use, profit, revenue or data to you or any third person arising from your use of the Services, any platform applications or any of the content or other materials on, accessed through or downloaded from Alignable.",
+            "conf": 0.9995567202568054,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You may terminate this Agreement, for any or no reason, at any time, with notice to Alignable pursuant to Section I.3",
+            "conf": 0.995374858379364,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "This notice will be effective upon Alignable processing your notice",
+            "conf": 0.9043015837669373,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Alignable may terminate the Agreement and your account for any reason or no reason, at any time, with or without notice",
+            "conf": 0.9989805817604065,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Termination of your Alignable account includes disabling your access to Alignable and may also bar you from any future use of Alignable",
+            "conf": 0.9943456053733826,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "No Injunctive Relief: In no event shall you seek or be entitled to rescission, injunctive or other equitable relief, or to enjoin or restrain the operation of the Service, exploitation of any advertising or other materials issued in connection therewith, or exploitation of the Services or any content or other material used or displayed through the Services",
+            "conf": 0.9794763922691345,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Provide complete and accurate information to Alignable and update it as necessary to maintain its accuracy and completeness and compliance with applicable laws;",
+            "conf": 0.9828009009361267,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, rent, or otherwise provide personally identifiable information to third parties without your consent except where it is necessary to carry out your instructions (to process your payment information, for example) or as described in Section 2 of this Privacy Policy",
+            "conf": 0.9998773336410522,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications at all times..",
+            "conf": 0.9999995231628418,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.7
+}

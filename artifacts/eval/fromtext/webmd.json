@@ -1,0 +1,614 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "The Connect to Care service is intended for general audiences 18 years of age and older, and access or use by anyone younger is not authorized",
+            "conf": 0.9999557137489319,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on March 31, 2020",
+            "conf": 0.999997079372406,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Persistent cookies are stored on your browser or mobile device until you choose to delete them, and otherwise typically delete themselves at expiration",
+            "conf": 0.9925997257232666,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Third-party cookies&nbsp;are placed by someone other than WebMD, and may gather browsing activity across multiple websites and sessions",
+            "conf": 0.9548767805099487,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "\"Web Beacons\" are graphic image files embedded in a page of a website typically used to monitor activity on the page and send back to its home server (which can belong to the host site, a network advertiser or some other third party) information from your browser, such as the IP address, the URL of the page on which the Web Beacon is located, the type of browser that is accessing the site and the ID number of any cookies on your computer previously placed by that server.&nbsp",
+            "conf": 0.9967924356460571,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These cookies are used by WebMD and our advertisers to deliver advertisements on the WebMD Sites and third party sites that are more relevant to you and your interests based on your WebMD account information, content browsing activity and in some cases, other information about you that we or our advertisers may have obtained from other sources",
+            "conf": 0.9826703071594238,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "to recognize individual users when they access the Services, remember user preferences, keep track of users\u2019 access to and use of the Services, track whether our emails opened and whether links are clicked, ensure that the Services are functioning properly, analyze trends and to personalize the Services, including advertising on the WebMD Sites and on third party websites, so that it is relevant to individual user\u2019s interests which may be inferred based on location, prior activity on the WebMD Sites and other information that WebMD or our partners may have about our users.",
+            "conf": 0.9159857034683228,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Some advertisers use companies other than WebMD to serve their ads and to monitor users' responses to ads, and these ad servers may also collect information through the use of cookies on the WebMD Sites.",
+            "conf": 0.989463210105896,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our ad network vendors use technologies to collect information about your activities on the WebMD Sites and our flagship WebMD App to provide you cookie-based targeted advertising based upon your browsing activity and your interests.",
+            "conf": 0.9828622937202454,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "It is important to note that in order to use the opt-out services described below, such as the Network Advertising Initiative and the TRUSTed Ads\u2122 program, you must not reject all cookies because these opt-out procedures work by placing cookies on your browser that enable these opt-out procedures to function",
+            "conf": 0.9998438954353333,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "In order to do so, you must opt-out of such data collection with each individual site",
+            "conf": 0.9492494463920593,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can also opt out of cookies for several ad servers by visiting the Network Advertising Initiative gateway opt-out site or by clicking here: https://preferences.truste.com/.",
+            "conf": 0.9998700618743896,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that even if you opt-out of interest-based advertising, you will continue to receive generic advertisements through the Services",
+            "conf": 0.9878498315811157,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that your choice to stop tailored advertising is specific to the browser or mobile device that you are using so if you make a choice to opt out from one computer or mobile device and you want your opt-out to apply to a different computer or mobile device as well please opt out from that computer or mobile device too",
+            "conf": 0.991640567779541,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "The WebMD Sites do not respond to web browser \"do not track\" signals",
+            "conf": 0.999981164932251,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Changes WebMD reserves the right to change this Cookie Policy at any time and any changes will be effective upon being posted unless we advise otherwise",
+            "conf": 0.9999584555625916,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on March 27, 2020 \u00a9 2018 WebMD, LLC",
+            "conf": 0.9623037576675415,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Because style changes do not change the meaning of the content, those kinds of \"style\" changes will be updated on our site without notice",
+            "conf": 0.9388187527656555,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on February 24, 2014 \u00a9 2014 WebMD, LLC",
+            "conf": 0.947396993637085,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "WebMD accepts advertising on the WebMD Network from third parties (\"Advertisers\"), which may include third party banners, badges, contextual advertising and content created or provided by an Advertiser (collectively referred to as \"Advertisements\" or \"Advertising\").",
+            "conf": 0.9468040466308594,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "WebMD may change this policy at any time in its sole discretion by posting a revised policy to the applicable WebMD Property",
+            "conf": 0.9951732754707336,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WebMD will not knowingly accept Advertising that, in WebMD's opinion, is not factually accurate and in good taste",
+            "conf": 0.9082236289978027,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "WebMD reserves the right to decide at any time in its sole discretion whether it will accept, reject, cancel, or remove Advertising from the WebMD Network",
+            "conf": 0.9997495412826538,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WebMD cannot provide any assurances that Advertisements will perform without error on all platforms, including websites and mobile applications",
+            "conf": 0.9999982714653015,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "No Advertising on the WebMD Network shall include any pixels, tags, flash containers or any other type of information collection software code (any such pixel, tag, code or device a \"Pixel\") or shall place any beacons, cookies or other information collection devices on the browsers of users of the WebMD Network unless expressly approved in writing by WebMD.",
+            "conf": 0.9845901131629944,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on January 18, 2018 \u00a9 2018 WebMD, LLC",
+            "conf": 0.9441003203392029,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We will not knowingly invite individuals who are under the age of 13 to participate in market research surveys",
+            "conf": 0.9999821186065674,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "In some cases, we may not be able to remove your personal information",
+            "conf": 0.9999321103096008,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We do so to provide you more relevant content including advertising based on your location",
+            "conf": 0.9056240320205688,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We and our partners use cookies to collect information about your use of the Services",
+            "conf": 0.905152440071106,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition to cookies, we and our partners use other tracking technologies that collect information about your use of the Services, including mobile identifiers and \"web beacons\" which are small graphic files (sometimes called \u201cclear GIFs\u201d or \u201cweb pixels\u201d) embedded in a web page or email typically used to monitor activity and send relevant information back to a home server (which can belong to the host site, a network advertiser or some other third party).&nbsp;The information collected by such tracking technologies may be combined with other information that our partners have access to, including your name, email address and physical address, so that we can send you materials, either electronically or by direct mail, that may be of interest to you.&nbsp;",
+            "conf": 0.9955616593360901,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our advertising service partners may use cookies and other tracking technologies to collect information about your use of the WebMD Sites, including content you have viewed.",
+            "conf": 0.9079461693763733,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our ad network vendors use technologies to collect information about your activities on the WebMD Sites and in our flagship WebMD App to provide you cookie-based targeted advertising on our WebMD Sites and on third party websites based upon your browsing activity and your interests.",
+            "conf": 0.990212082862854,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Our use of cookies and other tracking technologies on our mobile optimized sites and our flagship WebMD App are similar to our use on our desktop sites.",
+            "conf": 0.9898793697357178,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We and our service providers collect and store information about users' interactions with unaffiliated websites and applications that use our technologies, including cookies and similar tracking technologies",
+            "conf": 0.9940096139907837,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "For information on your advertising choices and opt-out, please see the \"Your Choices and Rights\" section of this Privacy Notice",
+            "conf": 0.9990713596343994,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, WebMD reserves the right to transfer your personal information to the new party in control or the party acquiring assets",
+            "conf": 0.9743674993515015,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may share information that we have about you, such as a cookie ID or IP address, with third party advertising service providers who may use this information, on our behalf, to help WebMD deliver advertising on the WebMD Sites as well as on third party websites, as further described in our Cookie Policy",
+            "conf": 0.9792409539222717,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "WebMD does not share your personal information with these Third Party Websites without your consent, but you should be aware that any information you disclose to these Third Party Websites once you access these Third Party Websites is not subject to this Privacy Policy",
+            "conf": 0.9518300890922546,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "WebMD does not endorse and is not responsible for the privacy practices of these Third Party Websites",
+            "conf": 0.9891021847724915,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your personal information as long as your account is active or as needed to provide you Services",
+            "conf": 0.9998539090156555,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "At any time you can remove your personal information or instruct us to remove it, but you should be aware that it is not technologically possible to remove each and every record of the information you have provided to WebMD from our servers.",
+            "conf": 0.9863773584365845,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will also retain your personal information as necessary to comply with legal obligations, resolve disputes and enforce our agreements",
+            "conf": 0.9319092035293579,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you have registered and desire to delete any of your registration information you have provided to us from our systems please contact us using the contact information listed below in the \u201cContacting",
+            "conf": 0.9783124923706055,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "WebMD About Your Personal Information or Privacy\u201d section or through the Contact Us link provided at the bottom of every page of the",
+            "conf": 0.9589375257492065,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Upon your request, we will delete your registration information from our active databases and where feasible from our back-up media",
+            "conf": 0.999932587146759,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You should be aware that it is not technologically possible to remove each and every record of the information you have provided to the WebMD Sites from our servers",
+            "conf": 0.997878909111023,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "When you sign up to receive email communications for any of our Services, including our email newsletters, or at any time, you can choose to&nbsp;opt out&nbsp;of receiving additional newsletters or other email communications from WebMD or our advertisers or sponsors",
+            "conf": 0.9973863959312439,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe from an email newsletter by:",
+            "conf": 0.9999860525131226,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you decide that you would prefer not to receive personalized email or secure electronic messages from the WebMD Health Manager tool, you may also \"Opt-out\" of the Service by clicking on the settings tab on your Health Manager home page and changing your email preference or following the unsubscribe instructions included in each email",
+            "conf": 0.9999514818191528,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "All promotional emails that WebMD sends with opportunities from WebMD or with offers or informational materials from WebMD on behalf of our sponsors will contain an opportunity to unsubscribe from getting additional emails of that type in the future from WebMD unless you re-subscribe",
+            "conf": 0.9999958872795105,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that even if you opt-out of interest-based advertising, you will continue to receive generic advertisements through the Services",
+            "conf": 0.9878498315811157,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that your choice to stop tailored advertising is specific to the browser or mobile device that you are using so if you make a choice to opt out from one computer or mobile device and you want your opt-out to apply to a different computer or mobile device as well please opt out from that computer or mobile device too",
+            "conf": 0.991640567779541,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "The WebMD Sites do not respond to web browser \"do not track\" signals",
+            "conf": 0.999981164932251,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The WebMD Sites are not designed or intended to attract children under the age of 13",
+            "conf": 0.9999909400939941,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The WebMD Sites do not collect personal information from any person we actually know is under the age of 13",
+            "conf": 0.9997982978820801,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "The personal information that you provide to us is stored on servers located in the United States",
+            "conf": 0.9998759031295776,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you are located in another jurisdiction, you should be aware that in order to provide the Services to you, we must transfer your personal information to the United States where it will be stored and processed in accordance with this Privacy Policy",
+            "conf": 0.9988071918487549,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We may transfer your information outside the United States to service providers with operations in other countries",
+            "conf": 0.9999932646751404,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "By using the Services, you consent to such collection, storage and processing in the United States and elsewhere, though the United States and other jurisdictions may not afford the same level of data protection as considered adequate in your own country",
+            "conf": 0.9963064193725586,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Note that your personal information may be available to the United States government or its agencies under legal process made in the United States",
+            "conf": 0.9673917889595032,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "(ii) have your personal information corrected or deleted (in most cases you can correct personal information you have submitted to us by going back to the specific Service, logging-in and making the desired change).",
+            "conf": 0.9999956488609314,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Where we process your personal information for direct marketing purposes, you can opt-out through the unsubscribe link in the email communications we send to you, by changing your subscription preferences in your account settings or as otherwise specified in this Privacy Policy",
+            "conf": 0.9999886155128479,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your personal information for as long as necessary to provide the Services to you and fulfill the purposes described in this Privacy Policy",
+            "conf": 0.999480664730072,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When we no longer need to use your personal information and there is no need for us to keep it to comply with our legal or regulatory obligations, we will either remove it from our systems or anonymize",
+            "conf": 0.9753338694572449,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you have registered with WebMD and you no longer want us to use your registration information to provide the Services to you, you may close your account",
+            "conf": 0.9996524453163147,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change or modify this Privacy Policy and any of our Services at any time and any changes will be effective upon being posted unless we advise otherwise",
+            "conf": 0.99932861328125,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes to this Privacy Policy we will notify you by means of a notice on the WebMD Sites and/or by email to our registered users (sent to the email address specified when you register) prior to the change becoming effective",
+            "conf": 0.9997141361236572,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on May 01, 2020",
+            "conf": 0.9999967813491821,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "WebMD LLC (\"WebMD\") may revise and update these Terms and Conditions at any time",
+            "conf": 0.9999382495880127,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You should be aware that this Site is not intended or designed to attract children under the age of 13",
+            "conf": 0.9999844431877136,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not collect personally identifiable information from any person we actually know is a child under the age of 13",
+            "conf": 0.9999878406524658,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The WebMD Site and the Content are provided on an \"as is\" basis",
+            "conf": 0.9999908804893494,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WEBMD, ITS LICENSORS, AND ITS SUPPLIERS, TO THE FULLEST EXTENT PERMITTED BY LAW, DISCLAIM ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT OF THIRD PARTIES' RIGHTS, AND",
+            "conf": 0.9816679954528809,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Without limiting the foregoing, WebMD, its licensors, and its suppliers make no representations or warranties about the following:",
+            "conf": 0.9737789630889893,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The accuracy, reliability, completeness, currentness, or timeliness of the Content, software, links, or communications provided on or through the use of the WebMD Site or WebMD",
+            "conf": 0.9798943996429443,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event shall WebMD, its licensors, its suppliers, or any third parties mentioned on the WebMD Site be liable for any damages (including, without limitation, incidental and consequential damages, personal injury/wrongful death, lost profits, or damages resulting from lost data or business interruption) resulting from the use of or inability to use the WebMD Site or the Content, whether based on warranty, contract, tort, or any other legal theory, and whether or not WebMD, its licensors, its suppliers, or any third parties mentioned on the WebMD Site are advised of the possibility of such damages.",
+            "conf": 0.9990472197532654,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "WebMD, its licensors, its suppliers, or any third parties mentioned on the WebMD Site are not liable for any personal injury, including death, caused by your use or misuse of the Site, Content, or Public Areas (as defined below).",
+            "conf": 0.9985682964324951,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "WebMD reserves the right to remove User Content for any reason, including User Content that we believe violates these Terms and Conditions or our other policies, such as our Reviews Guidelines",
+            "conf": 0.9999365210533142,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "and (c) you agree to indemnify WebMD and its affiliates, directors, officers and employees and hold them harmless from any and all claims and expenses, including attorneys' fees, arising from the media and/or your failure to comply with these Terms and Conditions",
+            "conf": 0.9999841451644897,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "WebMD reserves the right to review all media prior to submission to the site and to remove any media for any reason, at any time, without prior notice, at our sole discretion",
+            "conf": 0.9999995827674866,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "WebMD cannot and does not assume any responsibility or liability for any information you submit, or your or third parties' use or misuse of information transmitted or received using WebMD tools and services",
+            "conf": 0.9999885559082031,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "WebMD and its licensors are not responsible for the consequences of any communications in the Public Areas or on Social Media Platforms",
+            "conf": 0.9993361830711365,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Indemnity You agree to defend, indemnify, and hold WebMD, its officers, directors, employees, agents, licensors, and suppliers, harmless from and against any claims, actions or demands, liabilities and settlements including without limitation, reasonable legal and accounting fees, resulting from, or alleged to result from: (a) your use of the Site, (b) any User Content you post or upload, (c) your use of or reliance on any User Content, or (d) your violation of these Terms and Conditions",
+            "conf": 0.9998877644538879,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of any of these Terms and Conditions shall be deemed a further or continuing waiver of such term or condition or any other term or condition",
+            "conf": 0.9999123811721802,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We try to answer every email in a timely manner but due to volume may not always be able to do so",
+            "conf": 0.9014326333999634,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on April 15, 2019 \u00a9 2019 WebMD, LLC",
+            "conf": 0.9735506772994995,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.7
+}

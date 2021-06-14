@@ -1,0 +1,82 @@
+{
+    "predictions": [
+        {
+            "label": "8",
+            "text": "Any.DO is not liable for any losses or damages which may occur from the use of any third party software.",
+            "conf": 0.9815196990966797,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Any.DO improves from time to time the Software and may update/upgrade the Software at its sole discretion, with or without notification",
+            "conf": 0.9918838143348694,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may change the fees in effect at a future date, but we will send advanced notice of any changes to the email address associated with your Any.do account",
+            "conf": 0.9683763980865479,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Any.DO may modify, suspend, or discontinue any aspect of the Software at any time",
+            "conf": 0.9999919533729553,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Any.DO reserves the right to modify the terms of this License Agreement, whereby material changes will be disclosed to you through a patch process or through website posting",
+            "conf": 0.9666920304298401,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "THE SOFTWARE IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTY OF ANY KIND",
+            "conf": 0.9999316930770874,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (TORT, CONTRACT, OR OTHERWISE), SHALL ANY.DO OR ITS LICENSORS BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY TYPE INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, BUSINESS INTERRUPTION, DEVICE FAILURE OR MALFUNCTION, LOSS OF BUSINESS PROFITS, LOSS OF DATA OR BUSINESS OR FINANCIAL INFORMATION, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES.",
+            "conf": 0.9997691512107849,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL ANY.DO'S CUMULATIVE LIABILITY TO YOU OR ANY THIRD PARTY FOR ANY LOSS OR DAMAGES EXCEED THE AMOUNT PAID BY YOU TO ANY.DO FOR USE OF THE SOFTWARE, EVEN IF ANY.DO HAD BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY CLAIM BY ANY OTHER PARTY.",
+            "conf": 0.99591064453125,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Any.DO may terminate this License Agreement at any time with or without prior notice",
+            "conf": 0.9580732583999634,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate this license at any time by stopping your use thereof and un-installing the Software",
+            "conf": 0.988390326499939,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Failure of Any.DO to enforce any rights or to take action against you in the event of any breach hereunder shall not be deemed a waiver of such rights or of subsequent actions in the event of future breaches",
+            "conf": 0.9999973773956299,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.2
+}

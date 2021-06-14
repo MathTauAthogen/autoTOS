@@ -1,0 +1,537 @@
+{
+    "predictions": [
+        {
+            "label": "13",
+            "text": "wikiHow, our advertising partners or other third party partners may use these types of cookies to deliver advertising that is relevant to your interests",
+            "conf": 0.9996788501739502,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This information may be shared with organizations outside wikiHow, such as advertisers and/or advertising networks to deliver the advertising, and to help measure the effectiveness of an advertising campaign, or other business partners for the purpose of providing aggregate Service usage statistics and aggregate Service testing.",
+            "conf": 0.9840385317802429,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third-party cookies may be placed on your device by someone providing a service for wikiHow, for example to help us understand how our service is being used",
+            "conf": 0.969285786151886,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third-party cookies may also be placed on your device by our business partners so that they can use them to advertise products and services to you elsewhere on the Internet.",
+            "conf": 0.9805139303207397,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google analytics - Google analytics uses cookies to help us analyze how visitors to wikiHow use our website",
+            "conf": 0.95685213804245,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google AdSense and DoubleClick - Google AdSense and DoubleClick use cookies to serve advertising on some pages of the wikiHow Service",
+            "conf": 0.9933547377586365,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Persistent cookies stay on your computer or mobile device until they expire or are deleted",
+            "conf": 0.9992038011550903,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may directly collect analytics data, or use third-party analytics tools and services, to help us measure traffic and usage trends for the Service.",
+            "conf": 0.9790278673171997,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users.",
+            "conf": 0.9927242398262024,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients",
+            "conf": 0.9978137612342834,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device",
+            "conf": 0.9790194630622864,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We may send you emails containing newsletters, promotions, and special offers",
+            "conf": 0.9776324033737183,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you do not want to receive such email messages, you will be given the option to opt out or change your preferences",
+            "conf": 0.9989833831787109,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may not opt out of Service-related emails",
+            "conf": 0.9999629259109497,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Sharing of Your Information We will not rent or sell your information into third parties outside wikiHow and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below:",
+            "conf": 0.9768597483634949,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may buy or sell/divest/transfer the company (including any shares in the company), or any combination of its products, services, assets and/or businesses",
+            "conf": 0.9758414030075073,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company",
+            "conf": 0.9747323989868164,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also share certain information such as your location, browser, cookie data, and other data relating to your use of our Service with our business partners to deliver advertisements (\u201cads\u201d) that may be of interest to you.",
+            "conf": 0.9666767120361328,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser\u2019s or device\u2019s visits and usage patterns on the Service and on other websites, and to measure the effectiveness of their ads and to personalize the advertising content delivered to you.",
+            "conf": 0.989508330821991,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google's use of the DART cookie enables it and its partners to serve ads to you based on your visit to the Service and previous websites that you may have visited.",
+            "conf": 0.9763131737709045,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Other advertising networks also use similar cookies, clear gifs, or other mechanisms to deliver targeted advertising to you through the Service",
+            "conf": 0.9997580051422119,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can delete these cookies by following the instructions here",
+            "conf": 0.9300565719604492,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "You may opt out of use of Google\u2019s DART cookie and cookies placed by Network Advertising Initiative (NAI) certified ad networks here",
+            "conf": 0.9808930158615112,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Your information collected through the Service may be stored and processed in the United States or any other country in which wikiHow or its subsidiaries, affiliates, or service providers maintain facilities",
+            "conf": 0.9999918937683105,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "wikiHow may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world",
+            "conf": 0.9999788403511047,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S.",
+            "conf": 0.9998378157615662,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from wikiHow, at all times",
+            "conf": 0.9971610307693481,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "wikiHow is not responsible for the functionality or security measures of any third party",
+            "conf": 0.9084291458129883,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "We make every effort to promptly process all unsubscribe requests",
+            "conf": 0.9943950772285461,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Note that disabling cookies and/or other tracking tools prevents wikiHow or its business partners from tracking your browser\u2019s activities in relation to the Service, and for use in targeted advertising activities by third parties",
+            "conf": 0.9884387850761414,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Following termination of your User account, wikiHow may retain your private profile information for a commercially reasonable time for backup, archival, or audit purposes",
+            "conf": 0.9999889731407166,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For the avoidance of doubt, any information that you choose to make public on the service may not be removable",
+            "conf": 0.9291014075279236,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "wikiHow does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users",
+            "conf": 0.9999586939811707,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Service and its content are not directed at children under the age of 13",
+            "conf": 0.9999832510948181,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein",
+            "conf": 0.9990145564079285,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access your User Content.",
+            "conf": 0.9970869421958923,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": ") The right to request the erasure of your information",
+            "conf": 0.9659696817398071,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "wikiHow may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically",
+            "conf": 0.9983551502227783,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This privacy policy was last modified on May 25, 2018",
+            "conf": 0.9999986290931702,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Occasionally our articles are incomplete, unhelpful, misleading or incorrect, and we cannot guarantee the accuracy of anything you find on wikiHow",
+            "conf": 0.9999701380729675,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to have your wikiHow account and all personal data deleted from our site, we will he happy to do so",
+            "conf": 0.9978547692298889,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Any use of the Service by anyone under 13 is strictly prohibited and in violation of this Agreement",
+            "conf": 0.9999977946281433,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Notwithstanding the foregoing, a child under the age of 13 may use the site if we receive a signed permission form from the child\u2019s parent or legal guardian",
+            "conf": 0.9982805252075195,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "wikiHow may terminate this license at any time for any reason or no reason",
+            "conf": 0.997994601726532,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for the activity that occurs on your account, and you must keep your account password secure.",
+            "conf": 0.9909712076187134,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "wikiHow will not be liable for any losses caused by any unauthorized use of your account",
+            "conf": 0.9996291995048523,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you do not want to receive such email messages, you may opt out or change your preferences in your Preferences",
+            "conf": 0.9995872974395752,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may permanently or temporarily terminate or suspend your access to the Service without notice and liability for any reason, including if in our sole determination you violate any provision of this Agreement, or for no reason",
+            "conf": 0.9998045563697815,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "wikiHow shall have no liability for your interactions with other Users, or for any User\u2019s action or inaction",
+            "conf": 0.9999607801437378,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge that wikiHow may revoke your status as a Trusted User at any time for any reason or no reason, and may require you to enter into further agreements with wikiHow depending on your role",
+            "conf": 0.9986966252326965,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "wikiHow has the right (but not the obligation) in its sole discretion to remove any User Content that is shared via the Service",
+            "conf": 0.9995155930519104,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "wikiHow reserves the right, but is not obligated, to reject and/or remove any User Content that wikiHow believes, in its sole discretion, violates these provisions or is otherwise inappropriate for the Service",
+            "conf": 0.9981454014778137,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "To the best of your knowledge, all of your User Content and other information that you provide to us is truthful and accurate",
+            "conf": 0.9998190402984619,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "wikiHow takes no responsibility and assumes no liability for any User Content that you or any other User or third party posts or sends over the Service",
+            "conf": 0.9993648529052734,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You shall be solely responsible for your User Content and the consequences of posting or publishing it, and you agree that we are only acting as a passive conduit for your online distribution and publication of your User Content",
+            "conf": 0.9820305109024048,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand and agree that you may be exposed to User Content that is inaccurate, objectionable, inappropriate for children, or otherwise unsuited to your purpose, and you agree that wikiHow shall not be liable for any damages you allege to incur as a result of User Content",
+            "conf": 0.9577604532241821,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You and wikiHow acknowledge and agree that Apple, and Apple\u2019s subsidiaries, are third party beneficiaries of this Agreement as relates to your license of the iTunes-Sourced Software, and that, upon your acceptance of the terms and conditions of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement as relates to your license of the iTunes-Sourced Software against you as a third party beneficiary thereof",
+            "conf": 0.9900427460670471,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that you do not own the account you use to access the Service, nor do you possess any rights of access or rights to data stored by or on behalf of wikiHow on wikiHow servers, including without limitation any data representing or embodying any or all of your wikiHow Property",
+            "conf": 0.9931682348251343,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WIKIHOW DOES NOT PROVIDE OR GUARANTEE, AND EXPRESSLY DISCLAIMS, ANY VALUE, CASH OR OTHERWISE, ATTRIBUTED TO ANY DATA RESIDING ON WIKIHOW\u2019S SERVERS",
+            "conf": 0.999153196811676,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Service is provided for informational purposes only, with no assurance that the any content found on the Service is true, correct, or accurate",
+            "conf": 0.9997309446334839,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that you provide your personal information at your own risk",
+            "conf": 0.99948650598526,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "wikiHow does not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services",
+            "conf": 0.9742388129234314,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that wikiHow shall not be responsible for any loss or damage of any sort relating to your dealings with such advertisers",
+            "conf": 0.9987940788269043,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "No Warranty THE SERVICE IS PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9999399185180664,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICE IS PROVIDED WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF",
+            "conf": 0.9791290760040283,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING THE FOREGOING, WIKIHOW, ITS SUBSIDIARIES, AND ITS LICENSORS DO NOT WARRANT THAT THE CONTENT IS ACCURATE, RELIABLE, OR CORRECT",
+            "conf": 0.9513908624649048,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ANY CONTENT DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DOWNLOADED AT YOUR OWN RISK AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR MOBILE DEVICE OR LOSS OF DATA THAT RESULTS FROM SUCH DOWNLOAD OR YOUR USE OF THE SERVICE.",
+            "conf": 0.9892947673797607,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WIKIHOW, ITS AFFILIATES, AGENTS, DIRECTORS, EMPLOYEES, SUPPLIERS, OR LICENSORS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, THAT RESULT FROM THE USE OF, OR INABILITY TO USE, THIS SERVICE.",
+            "conf": 0.9926665425300598,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL WIKIHOW, ITS AFFILIATES, AGENTS, DIRECTORS, EMPLOYEES, SUPPLIERS, OR LICENSORS BE LIABLE TO YOU FOR ANY CLAIMS, PROCEEDINGS, LIABILITIES, OBLIGATIONS, DAMAGES, LOSSES OR COSTS IN AN AMOUNT EXCEEDING THE AMOUNT YOU PAID TO WIKIHOW HEREUNDER OR $100.00, WHICHEVER IS GREATER",
+            "conf": 0.976390540599823,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "ALL CLAIMS MUST BE BROUGHT IN THE PARTIES\u2019 INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON\u2019S CLAIMS",
+            "conf": 0.9998747110366821,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE THAT, BY ENTERING INTO THIS AGREEMENT, YOU AND WIKIHOW ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION",
+            "conf": 0.9999993443489075,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "wikiHow may provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through posting of such notice on our website, as determined by wikiHow in our sole discretion",
+            "conf": 0.9994731545448303,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "wikiHow may, in its sole discretion, modify or update this Agreement from time to time, and so you should review this page periodically",
+            "conf": 0.9999468326568604,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "When we change the Agreement in a material manner, we will update the \u2018last modified\u2019 date on this page",
+            "conf": 0.971854031085968,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and wikiHow\u2019s failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision",
+            "conf": 0.9995351433753967,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This Agreement was last modified on 4, December 2012",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.1
+}

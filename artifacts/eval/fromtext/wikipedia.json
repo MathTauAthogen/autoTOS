@@ -1,0 +1,404 @@
+{
+    "predictions": [
+        {
+            "label": "6",
+            "text": "Generally we do not contribute, monitor, or delete content (with the rare exception of policies like these Terms of Use or legal compliance for DMCA notices).",
+            "conf": 0.9997421503067017,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "This means that we generally do not monitor or edit the content of the Project websites, and we do not take any responsibility for this content",
+            "conf": 0.9999215602874756,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Similarly, we do not endorse any opinions expressed via our services, and we do not represent or guarantee the truthfulness, accuracy, or reliability of any submitted community content",
+            "conf": 0.999969482421875,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your own actions: You are legally responsible for your edits and contributions on Wikimedia Projects, so for your own protection you should exercise caution and avoid contributing any content that may result in criminal or civil liability under any applicable laws",
+            "conf": 0.9984594583511353,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "WMF generally cannot offer any protection, guarantee, immunity or indemnification",
+            "conf": 0.9958487749099731,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Because our services are used by people all over the world, personal information that we collect may be stored and processed in the United States of America or any other country in which we or our agents maintain facilities",
+            "conf": 0.9999853372573853,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for safeguarding your own password and should never disclose it to any third party.",
+            "conf": 0.9950607419013977,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your use of any third-party websites or resources",
+            "conf": 0.9999387860298157,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Although the Projects contain links to third-party websites and resources, we do not endorse and are not responsible or liable for their availability, accuracy, or the related content, products, or services (including, without limitation, any viruses or other disabling features), nor do we have any obligation to monitor such third-party content",
+            "conf": 0.9998207688331604,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Though we hope you will stay and continue to contribute to the Projects, you can stop using our services any time",
+            "conf": 0.999972939491272,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "In certain (hopefully unlikely) circumstances it may be necessary for either ourselves or the Wikimedia community or its members (as described in Section 10) to terminate part or all of our services, terminate these Terms of Use, block your account or access, or ban you as a user",
+            "conf": 0.9981723427772522,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to suspend or end the services at any time, with or without cause, and with or without notice",
+            "conf": 0.997443437576294,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We provide these services on an \"as is\" and \"as available\" basis, and we expressly disclaim all express or implied warranties of all kinds, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement",
+            "conf": 0.9999905228614807,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no warranty that our services will meet your requirements, be safe, secure, uninterrupted, timely, accurate, or error-free, or that your information will be secure",
+            "conf": 0.9999787211418152,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Any material downloaded or otherwise obtained through your use of our services is done at your own discretion and risk, and you will be solely responsible for any damage to your computer system or loss of data that results from the download of any such material.",
+            "conf": 0.9987480640411377,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we have no responsibility or liability for the deletion of, or the failure to store or to transmit, any content or communication maintained by the service.",
+            "conf": 0.9915804266929626,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "The Wikimedia Foundation will not be liable to you or to any other party for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, or other intangible losses, regardless of whether we were advised of the possibility of such damage.",
+            "conf": 0.9986557960510254,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Therefore, we will provide these Terms of Use, as well as any substantial future revisions of these Terms of Use, to the community for comment at least thirty (30) days before the end of the comment period",
+            "conf": 0.9972483515739441,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "For changes for legal or administrative reasons, to correct an inaccurate statement, or changes in response to community comments, we will provide at least three (3) days' notice",
+            "conf": 0.9997810125350952,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Because it may be necessary to modify these Terms of Use from time to time, we will provide notice of such modifications and the opportunity to comment via the Project websites, and via a notification on WikimediaAnnounce-L.",
+            "conf": 0.9874877333641052,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "You agree that we may provide you with notices, including those regarding changes to the Terms of Use, by email, regular mail, or postings on Project websites",
+            "conf": 0.9996334910392761,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "If in any circumstance, we do not apply or enforce any provision of these Terms of Use, it is not a waiver of that provision",
+            "conf": 0.9999909400939941,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "These Terms of Use went into effect on June 16, 2014",
+            "conf": 0.999997079372406,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Use (2012\u20132014): effective from May 24, 2012 until June 16, 2014",
+            "conf": 0.9999967813491821,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Use (2009): effective from 2009 until May 24, 2012",
+            "conf": 0.9999927878379822,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Never selling your information or sharing it with third parties for marketing purposes",
+            "conf": 0.9624272584915161,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We collect very little personal information about you",
+            "conf": 0.9228541851043701,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not rent or sell your information to third parties",
+            "conf": 0.9999638199806213,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell or rent your Personal Information, nor do we give it to others to sell you anything",
+            "conf": 0.9999861121177673,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once created, user accounts cannot be removed entirely (although you can usually hide the information on your user page if you choose to).",
+            "conf": 0.9998989701271057,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We also use a variety of commonly-used technologies, like cookies, to collect information regarding how you use the Wikimedia Sites, make our services safer and easier to use, and to help create a better and more customizable experience for you.",
+            "conf": 0.998462975025177,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use a variety of commonly-used technologies, like cookies, to understand how you use the Wikimedia Sites, make our services safer and easier to use, and to help create a better and more customizable experience for you.",
+            "conf": 0.9934402108192444,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These generally include tracking pixels, JavaScript, and a variety of \"locally stored data\" technologies, such as cookies and local storage.",
+            "conf": 0.9975436329841614,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, rent, or use your email address to advertise third-party products or services to you",
+            "conf": 0.9998722672462463,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We are committed to notifying you via email at least ten (10) calendar days, when possible, before we disclose your Personal Information in response to a legal demand",
+            "conf": 0.9705922603607178,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": ", and provide notice to you via the",
+            "conf": 0.9445971846580505,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "and a notification on",
+            "conf": 0.9939782619476318,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "-L or similar mailing list at least thirty (30) calendar days before any",
+            "conf": 0.9438156485557556,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "How Long Do We Keep Your Data? Except as otherwise stated in this policy, we only keep your Personal Information as long as necessary to maintain, understand and improve the Wikimedia Sites or to comply with U.S.",
+            "conf": 0.9906463623046875,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Non-personal information may be retained indefinitely",
+            "conf": 0.9957089424133301,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For further information about how you may request access to or deletion of your Personal Information, or other rights you may have with respect to your Personal Information, see our FAQ",
+            "conf": 0.9798370003700256,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "If you decide to use Wikimedia Sites, whether from inside or outside of the U.S., you understand that your Personal Information will be collected, transferred, stored, processed, disclosed and otherwise used in the U.S.",
+            "conf": 0.999906599521637,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "You also understand that your information may be transferred by us from the U.S.",
+            "conf": 0.9999499320983887,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Our Response to Do Not Track (DNT) signals We do not allow tracking by third-party websites you have not visited",
+            "conf": 0.9898762702941895,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not share your data with third parties for marketing purposes",
+            "conf": 0.9986550807952881,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We are strongly committed to not sharing nonpublic information and Personal Information with third parties",
+            "conf": 0.999108612537384,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "In particular, we do not allow tracking by third-party websites you have not visited (including analytics services, advertising networks, and social platforms), nor do we share your Personal Information with any third parties for marketing purposes",
+            "conf": 0.9035246968269348,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Because we protect all users in this manner, we do not change our behavior in response to a web browser's \"do not track\" signal.",
+            "conf": 0.9910953044891357,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Because things naturally change over time and we want to ensure our Privacy Policy accurately reflects our practices and the law, it may be necessary to modify this Privacy Policy from time to time",
+            "conf": 0.9983959794044495,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Prior to the start of any comment period, we will provide notice of such changes and the opportunity to comment via the Wikimedia Sites, and via a notification on WikimediaAnnounce-L or a similar mailing list",
+            "conf": 0.9004004597663879,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "For minor changes, such as grammatical fixes, administrative or legal changes, or corrections of inaccurate statements, we will post the changes and, when possible, provide at least three (3) calendar days' prior notice via WikimediaAnnounce-L or similar mailing list",
+            "conf": 0.9975332021713257,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "This version was approved by Katherine Maher on May 17, 2018, pursuant to the Delegation of policy-making authority by the Board, and went into effect on May 24, 2018",
+            "conf": 0.9999902844429016,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Privacy policy (June 2014 - May 2018): effective from June 6, 2014 until May 24, 2018",
+            "conf": 0.999988853931427,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Privacy policy (November 2008 - June 2014): effective from November 25, 2008 until June 6, 2014",
+            "conf": 0.9999896883964539,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Privacy policy (August 2008 - November 2008): effective from August 19, 2008 until November 25, 2008",
+            "conf": 0.9999721646308899,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Privacy policy (June 2006 - August 2008): effective from June 21, 2006 until August 19, 2008",
+            "conf": 0.9999724626541138,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Privacy policy (April 2005 to June 2006): effective from April 2005 until June 21, 2006",
+            "conf": 0.9999489188194275,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 5.4
+}

@@ -1,0 +1,579 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated: April 2018",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "(Please note, when you\u00a0use our Services, we may recognize you or your devices even if you are not signed in to our Services.) \u00a0Oath may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.",
+            "conf": 0.9986782670021057,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "includes device specific identifiers and information such as IP address, cookie information, mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data",
+            "conf": 0.9029455184936523,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We collect information when you access content, advertising, sites, interactive widgets, applications, and other products (both on and off of our Services) where Oath\u2019s data collection technologies (such as web beacons, development tools, cookies and other technologies, etc.) are present.",
+            "conf": 0.9995536804199219,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Create analytics and reports for external parties, including partners, publishers, advertisers, apps, third-parties\u00a0and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences.",
+            "conf": 0.9937222599983215,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you opt out, you will continue to see ads, but they may not be as relevant or useful to you",
+            "conf": 0.9725543856620789,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Oath unless one of the following circumstances applies:",
+            "conf": 0.9300483465194702,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may share aggregated or pseudonymous\u00a0information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps, or\u00a0other companies",
+            "conf": 0.96443772315979,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion",
+            "conf": 0.9778770208358765,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies",
+            "conf": 0.9315479397773743,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We allow other companies\u00a0that show advertisements on our webpages or apps to collect information from your browsers or devices",
+            "conf": 0.9223170876502991,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If the ownership or control of all or part of Verizon, Oath or a specific Services changes as a result of a merger, acquisition or sale of assets, we may transfer your information to the new owner",
+            "conf": 0.9867876768112183,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our Services are for a general audience",
+            "conf": 0.9999035000801086,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 13 without prior parental consent or consistent with applicable law",
+            "conf": 0.9999688863754272,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "With parental permission, a child under age 13 might have an Oath Family Account",
+            "conf": 0.9999869465827942,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy",
+            "conf": 0.9771807789802551,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services",
+            "conf": 0.9989908933639526,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Oath may process information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses",
+            "conf": 0.9320687055587769,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may update this Privacy Policy from time to time, so you should check it periodically",
+            "conf": 0.9586760401725769,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make changes that are material we will provide you with appropriate notice before such changes take effect",
+            "conf": 0.9280512928962708,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "THESE TERMS CONTAIN A BINDING ARBITRATION AGREEMENT AND CLASS ACTION AND JURY TRIAL WAIVER CLAUSES IN SECTION 14.2\u00a0BELOW, WHICH ARE APPLICABLE TO ALL",
+            "conf": 0.9321689605712891,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If you are using the Services on behalf of a company, business or other entity, or if you are using the Services for commercial purposes, you and the entity will hold harmless and indemnify the Oath Entities (defined in Section 8 below) from any suit, claim or action arising from or related to the use of the Services or violation of these Terms, including any liability or expense arising from claims (including claims for negligence), losses, damages, suits, judgments, litigation costs and attorneys\u2019 fees",
+            "conf": 0.9999830722808838,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the Minimum Age (as defined for your region in Section 14) you may not register for an account",
+            "conf": 0.9998748302459717,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Please do not access that content unless you are an adult (i.e., at least the age of majority in your country) or unless otherwise expressly indicated",
+            "conf": 0.9999650716781616,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all activity that happens on or through your account",
+            "conf": 0.9999752044677734,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Without prejudice to your statutory rights, if you forget your password and otherwise cannot validate your account to Oath, you acknowledge and agree that your account may be inaccessible to you and that all data associated with the account may not be retrievable",
+            "conf": 0.9405509233474731,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Oath may provide you with notices, including service announcements and notices regarding changes to these Terms, by, but not limited to, email, regular mail, text message or SMS, MMS, push notification or in-app message, postings on the Services, telephone, or other reasonable means now known or hereafter developed.",
+            "conf": 0.9896844625473022,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We can only provide many of these Services by using your personal data to provide personalized content and ads",
+            "conf": 0.9151437878608704,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You \u2013 not Oath \u2013 are entirely responsible for any content that you upload, post, email, transmit, or otherwise make available via the Services",
+            "conf": 0.9706673622131348,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may remove and refuse to display content that violates the Terms or applicable laws or regulations, but that does not mean that we monitor the Services or review or screen any content",
+            "conf": 0.9906973838806152,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can stop using the Services at any time",
+            "conf": 0.999896764755249,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel and delete your AOL account at any time here and you may cancel and delete your Yahoo account here",
+            "conf": 0.9999909996986389,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Unless stated differently for your country in Section 14, we may temporarily or permanently suspend or terminate your account or impose limits on or restrict your access to parts or all of the Services at any time, without notice and for any reason, including, but not limited to, violation of these Terms, court order, or inactivity",
+            "conf": 0.9999615550041199,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, OATH, ITS PARENT COMPANIES, SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, CONTRACTORS, AGENTS, PARTNERS, LICENSORS AND DISTRIBUTORS (COLLECTIVELY OATH ENTITIES) DO NOT MAKE ANY REPRESENTATIONS, PROMISES, OR WARRANTIES, EXPRESS OR IMPLIED, ABOUT THE SERVICES",
+            "conf": 0.9996369481086731,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE PROVIDE OUR SERVICES \u201cAS-IS,\u201d \u201cWITH ALL FAULTS,\u201d AND \u201cAS AVAILABLE.\u201d YOUR USE OF THE SERVICES, INCLUDING CONTENT WITHIN THE SERVICES, IS AT YOUR OWN RISK AND WE DO NOT REPRESENT, PROMISE, OR WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE",
+            "conf": 0.9930610656738281,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU UNDERSTAND AND AGREE THAT NO DATA TRANSMISSION OVER THE INTERNET OR INFORMATION STORAGE TECHNOLOGY CAN BE GUARANTEED TO BE SECURE, AND OATH EXPRESSLY DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, TO THAT EFFECT",
+            "conf": 0.999945342540741,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE MAKE NO COMMITMENTS, PROMISES OR WARRANTIES ABOUT THE CONTENT WITHIN THE SERVICES OR CONTENT LINKED FROM THE SERVICES, THE SUPPORT WE PROVIDE FOR THE SERVICES, THE SPECIFIC FUNCTIONS OF THE SERVICES, THE SECURITY OF THE SERVICES, OR THE SERVICES\u2019 RELIABILITY, QUALITY, ACCURACY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS, PROVIDE CERTAIN OUTPUTS OR ACHIEVE CERTAIN RESULTS",
+            "conf": 0.999984622001648,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WE DISCLAIM ANY AND ALL IMPLIED OR EXPRESS PROMISES OR WARRANTIES ABOUT THE SERVICES",
+            "conf": 0.9998023509979248,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE AND UNDERSTAND THAT OATH ENTITIES WILL NOT BE LIABLE FOR: ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, TREBLE OR OTHER MULTIPLES OF DAMAGES, EXEMPLARY OR PUNITIVE DAMAGES ARISING FROM OR IN CONNECTION WITH THESE TERMS OR YOUR USE OF THE SERVICES.",
+            "conf": 0.9972148537635803,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "OATH ENTITIES ARE NOT RESPONSIBLE FOR ANY LOST PROFITS, LOST REVENUES, LOST BUSINESS OPPORTUNITIES, DIMINUTION IN VALUE, INCLUDING ANY ALLEGED LOSS OR DIMINUTION IN VALUE OF PERSONAL INFORMATION, OR ANY OTHER LOSSES (COLLECTIVELY, \u201cLOSSES\u201d) ARISING FROM OR IN CONNECTION WITH THESE TERMS OR YOUR USE OF OR ACCESS TO THE SERVICES, INCLUDING, BUT NOT LIMITED TO, LOSSES RESULTING FROM OR IN CONNECTION WITH: THE DELETION OF, ALTERATION OF, MIS-DELIVERY OF, OR FAILURE TO STORE DATA MAINTAINED OR TRANSMITTED BY THE SERVICES.",
+            "conf": 0.998687744140625,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You represent that you are at least the minimum age required to enter into a legal agreement",
+            "conf": 0.9696383476257324,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all charges incurred under your account, including purchases made by you or anyone you allow to use your account or any sub-or linked accounts (including any person with implied, actual, or apparent authority) or anyone who gains access to your account as a result of your failure to safeguard your authentication credentials.",
+            "conf": 0.9998520016670227,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We, in our sole discretion, may change, discontinue or terminate any or all aspects of a fee-based Service without notice, including access to support services, content and other products or services ancillary to the fee-based Service, subject to providing an appropriate refund for any portions of a specified but no longer available term",
+            "conf": 0.9999945759773254,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel a fee-based Service at any time by logging into your online account and terminating the\u00a0subscription",
+            "conf": 0.9994532465934753,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We will provide you with notice of any price increase at least thirty (30) days in advance",
+            "conf": 0.9967325329780579,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Unless stated differently for your country in Section 14, we may modify the Terms from time to time",
+            "conf": 0.9307358264923096,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Oath to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision",
+            "conf": 0.9999969005584717,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Oath may freely assign these Terms and all of the policies and other documents incorporated or referenced in it (including all rights, licenses, and obligations under it or them), in whole or in part and without notice, for any reason, including for the purpose of internal restructuring (for example, mergers or liquidations).",
+            "conf": 0.9883773922920227,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND OATH BOTH AGREE TO RESOLVE ANY AND ALL DISPUTES, CONTROVERSIES OR CLAIMS THAT IN ANY WAY ARISE OUT OF OR RELATE TO THESE TERMS OR FROM ANY SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH SERVICES), INCLUDING ANY DISPUTES BETWEEN YOU AND OUR EMPLOYEES OR AGENTS (\u201cDISPUTE(S)\u201d), ONLY BY ARBITRATION ON AN INDIVIDUAL BASIS OR IN SMALL CLAIMS COURT",
+            "conf": 0.9998694658279419,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU UNDERSTAND THAT BY AGREEING TO THESE TERMS, ARBITRATION OR A SMALL CLAIMS ACTION WILL BE THE SOLE AND EXCLUSIVE MEANS OF RESOLVING ANY DISPUTE BETWEEN US",
+            "conf": 0.9770625829696655,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU ALSO UNDERSTAND THAT BY AGREEING TO THESE TERMS, YOU AND OATH ARE GIVING UP THE RIGHT TO BRING A CLAIM IN COURT OR IN FRONT OF A JURY (EXCEPT FOR MATTERS THAT MAY BE BROUGHT IN SMALL CLAIMS COURT), AND THAT YOU AND OATH ARE GIVING UP THE RIGHT TO PROCEED WITH ANY CLASS ACTION OR OTHER REPRESENTATIVE ACTION",
+            "conf": 0.999995768070221,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The AAA will apply the Commercial Arbitration Rules to the arbitration of any Dispute pursuant to these Terms, unless you are an individual and use the Services for personal or household use, in which case the AAA's Consumer Arbitration Rules will apply (excluding any rules or procedures governing or permitting class actions",
+            "conf": 0.9993384480476379,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "However, if for any reason the Class Action Waiver set forth below in subsection 14.2.c cannot be enforced as to some or all of the Dispute, then the agreement to arbitrate will not apply to that Dispute or portion thereof",
+            "conf": 0.9996297359466553,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any Disputes covered by any deemed unenforceable Class Action Waiver provision may only be litigated in a court of competent jurisdiction, but the remainder of the agreement to arbitrate will be binding and enforceable",
+            "conf": 0.9969313740730286,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "To avoid any doubt or uncertainty, the parties do not agree to class arbitration or to the arbitration of any claims brought on behalf of others",
+            "conf": 0.9151181578636169,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "ARBITRATION OR COURT PROCEEDINGS HELD UNDER THESE TERMS CANNOT BE BROUGHT, MAINTAINED OR RESOLVED ON BEHALF OF OR BY A CLASS, AS A PRIVATE ATTORNEY-GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY",
+            "conf": 0.9999966621398926,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND OATH UNCONDITIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM IN ANY WAY ARISING OUT OF OR RELATING TO THESE TERMS",
+            "conf": 0.9996448159217834,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Minimum Age: 13 years old",
+            "conf": 0.9451693892478943,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND OATH BOTH AGREE TO RESOLVE ANY AND ALL DISPUTES, CONTROVERSIES OR CLAIMS THAT IN ANY WAY ARISE OUT OF OR RELATE TO THESE TERMS OR FROM ANY SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH SERVICES), INCLUDING ANY DISPUTES BETWEEN YOU AND OUR EMPLOYEES OR AGENTS (\u201cDISPUTE(S)\u201d), ONLY BY ARBITRATION ON AN INDIVIDUAL BASIS OR IN SMALL CLAIMS COURT",
+            "conf": 0.9998694658279419,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU UNDERSTAND THAT BY AGREEING TO THESE TERMS, ARBITRATION OR A SMALL CLAIMS ACTION WILL BE THE SOLE AND EXCLUSIVE MEANS OF RESOLVING ANY DISPUTE BETWEEN US",
+            "conf": 0.9770625233650208,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU ALSO UNDERSTAND THAT BY AGREEING TO THESE TERMS, YOU AND OATH ARE GIVING UP THE RIGHT TO BRING A CLAIM IN COURT OR IN FRONT OF A JURY (EXCEPT FOR MATTERS THAT MAY BE BROUGHT IN SMALL CLAIMS COURT), AND THAT YOU AND OATH ARE GIVING UP THE RIGHT TO PROCEED WITH ANY CLASS ACTION OR OTHER REPRESENTATIVE ACTION",
+            "conf": 0.999995768070221,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The AAA will apply the Commercial Arbitration Rules to the arbitration of any Dispute pursuant to these Terms, unless you are an individual and use the Services for personal or household use, in which case the AAA's Consumer Arbitration Rules will apply (excluding any rules or procedures governing or permitting class actions",
+            "conf": 0.9993384480476379,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "However, if for any reason the Class Action Waiver set forth below in subsection 14.3.c cannot be enforced as to some or all of the Dispute, then the agreement to arbitrate will not apply to that Dispute or portion thereof",
+            "conf": 0.9996778964996338,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any Disputes covered by any deemed unenforceable Class Action Waiver provision may only be litigated in a court of competent jurisdiction, but the remainder of the agreement to arbitrate will be binding and enforceable",
+            "conf": 0.9969313740730286,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "To avoid any doubt or uncertainty, the parties do not agree to class arbitration or to the arbitration of any claims brought on behalf of others",
+            "conf": 0.9151181578636169,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "ARBITRATION OR COURT PROCEEDINGS HELD UNDER THESE TERMS CANNOT BE BROUGHT, MAINTAINED OR RESOLVED ON BEHALF OF OR BY A CLASS, AS A PRIVATE ATTORNEY-GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY",
+            "conf": 0.9999966621398926,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND OATH UNCONDITIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM IN ANY WAY ARISING OUT OF OR RELATING TO THESE TERMS",
+            "conf": 0.9996448159217834,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Minimum Age: 13 years old (however, if you are between 13 and 18 years old, you must have parental or legal guardian permission in order to agree with our Terms and to use the Service).",
+            "conf": 0.9999998211860657,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minimum Age: 13 years old",
+            "conf": 0.9451693892478943,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minimum Age: 13 years old",
+            "conf": 0.9451693892478943,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": ") and the following terms apply: (a) \u201cMinimum Age\u201d means 15 years old, provided that if you are between 15 and 18 years of age, you must have parental or legal guardian permission to use the Services or register for an account, (b) you must be at least 15 years old in order to agree with our Terms, provided that if you are between 15 and 18 years of age, you must have parental or legal guardian permission to do so, (c) the Terms and the relationship between you and Yahoo India Private Limited will be governed by the laws of India without regard to its conflict of law provisions, and (d) you and Yahoo India Private Limited agree to submit to the exclusive jurisdiction of the courts located at Mumbai, India",
+            "conf": 0.9999186992645264,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minimum Age: 18 years old (however, if you are 18 or 19 years old, you must have the permission of a parent or legal guardian in order to agree to the Terms and to use the Services)",
+            "conf": 0.9999995827674866,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "For modifications to these Terms or the Services that we need to make in order to meet security, safety, legal or regulatory requirements, we may not be able to notify you in advance, but we will let you know as soon as practicable after such modification is made",
+            "conf": 0.9977614879608154,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Minimum Age: 13 years old",
+            "conf": 0.9451693892478943,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minimum Age: 13 years old",
+            "conf": 0.9451693892478943,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minimum Age: 13 years old",
+            "conf": 0.9451693892478943,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Minimum Age: For EU Member States, the Minimum Age is 16 or the lower age that a Member State has provided for you to consent to the processing of your personal data",
+            "conf": 0.9994716644287109,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "For countries outside the EU the Minimum Age is 13",
+            "conf": 0.999741792678833,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "For modifications to the Terms or to the Services that we need to make to meet security, safety, legal or regulatory requirements, we may not be able to notify you in advance but we will let you know as soon as practicable",
+            "conf": 0.9982913732528687,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Despite Subsection (f) above and without prejudice to your statutory rights, we may, without notice, temporarily or permanently suspend or cancel your account or impose limits on or restrict your access to parts or all of your account or the Services:",
+            "conf": 0.9997376203536987,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If we permanently suspend or terminate your account, we will notify you in advance and allow you reasonable time to access and save information, files, and content associated with your account unless we have reason to believe that continued access to your account will violate applicable legal provisions, requests by law enforcement or other government agencies, or cause damage to us or to third parties",
+            "conf": 0.9494016170501709,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: July 2018",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.0
+}

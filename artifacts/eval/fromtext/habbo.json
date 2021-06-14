@@ -1,0 +1,348 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "\u2022 2019-11-03 17:01:35 UTC",
+            "conf": 0.9998939633369446,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated: 14.6.2018",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We regularly check that these pages are up to date and we update them when needed",
+            "conf": 0.9854021072387695,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You have the right to request the deletion of data that are no longer needed",
+            "conf": 0.9999830722808838,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Personal information may be collected through the use of cookies and similar technologies, such as pixels (tags, beacons or gifs), local shared objects and digital fingerprinting.",
+            "conf": 0.9980988502502441,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We only retain your personal data for as long as it takes to fulfill the purpose for which it was collected, and for a reasonable time thereafter",
+            "conf": 0.9975932836532593,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When the retention period for the data has ended, we dispose of the personal data either by removing them or making them anonymous (i.e.",
+            "conf": 0.9997667074203491,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may send you marketing emails, but only if you opt-in to receive them",
+            "conf": 0.9995492100715637,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of receiving email marketing communications at any time by following the instructions contained in our promotional emails",
+            "conf": 0.9999809861183167,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you opt-out, we may still send you non-promotional emails such as emails relating to your account",
+            "conf": 0.9999944567680359,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Our Services may include ads for third-party products and services",
+            "conf": 0.9401199817657471,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "To show you relevant and interesting third-party ads, we and our advertising partners will use information about you",
+            "conf": 0.9993540644645691,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of interest-based ads, however this does not mean that you will no longer receive ads, only that the ads you receive will be less relevant to your interests",
+            "conf": 0.9983941316604614,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "On our websites, we use tools such as cookies and web beacons.",
+            "conf": 0.9799438118934631,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We use subcontractors such as Amazon Web Services to process and store your personal data outside the European Economic Area (EEA).",
+            "conf": 0.9994425773620605,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "By registering for an Account or otherwise using the Service, you represent that you are 13 or older and you understand and accept these Terms and the Service\u2019s Privacy Policy.",
+            "conf": 0.9899298548698425,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of majority where you live you represent that your legal guardian has also reviewed and agreed to these Terms",
+            "conf": 0.954577624797821,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Please be aware that your activities on these platforms may also be subject to the terms of service and/or privacy policies for that platform, and we are not responsible for these third parties.&nbsp",
+            "conf": 0.9812660217285156,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Sulake reserves the right to prospectively revise these Terms at any time (meaning the old terms continue to apply to your use that predates the changes).&nbsp",
+            "conf": 0.9975887537002563,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we do, we will post the modified Terms on the Service and indicate the date of most the recent change above, and you agree that this will be sufficient notice to you that new terms apply and your continued use indicates your agreement to the new terms in connection with that ongoing use",
+            "conf": 0.9629594683647156,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": ", and (ii) may be immediately suspended or terminated for any reason, in Sulake",
+            "conf": 0.9403957724571228,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "\u2019s sole discretion, and without advance notice or liability.&nbsp",
+            "conf": 0.9556185603141785,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Sulake has the absolute right to manage, regulate, control, modify, and/or eliminate Virtual Currency and/or Virtual Goods as it sees fit in its sole discretion, including the right to terminate or suspend your account or discontinue its Service (in whole or in part) for any reason, and Sulake shall have no liability to you or anyone for the exercise of such rights",
+            "conf": 0.9999060034751892,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We have the right, but not the obligation, to edit, refuse to post, or remove any User-Generated Content posted on the Service that we deem objectionable or think&nbsp;&nbsp",
+            "conf": 0.9829154014587402,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not assume any responsibility or liability for User-Generated Content that is generated by users of the Service.",
+            "conf": 0.9779832363128662,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You bear the entire risk of the completeness, accuracy or usefulness of any User-Generated Content found in connection with the Service",
+            "conf": 0.9983125925064087,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your interactions with other users of the Service and any other parties with whom you interact through the Service",
+            "conf": 0.9885521531105042,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If you have a dispute with one or more users, you release us (and our officers, directors, agents, subsidiaries, joint ventures and employees) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.&nbsp",
+            "conf": 0.9929816126823425,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for anything that happens through your Account",
+            "conf": 0.9997394680976868,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Sulake reserves the right to remove or reclaim any usernames at any time and for any reason, including but not limited to claims by a third party that a username violates the third party\u2019s rights",
+            "conf": 0.9999372959136963,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "No Young Children and Parents Responsible for Minors: You shall not create an Account or access the Service if you are under the age of 13 and shall not permit access to children under the age of 13",
+            "conf": 0.9996468424797058,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of majority (not yet legally an adult), your parent or legal guardian must take approve and take responsibility for your Account&nbsp",
+            "conf": 0.9936054348945618,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "The Linked Sites may send cookies or solicit personal information from you, and as we have no control over these Linked Sites you agree that we have no responsibility for their actions and you should review their privacy policies.",
+            "conf": 0.9927531480789185,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "You acknowledge and agree that Sulake may update and modify the Service, with or without notifying you",
+            "conf": 0.9951032400131226,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You may terminate your access to the Service at any time for any reason without penalty by contacting us here, at which point you will no longer be permitted to use the Service",
+            "conf": 0.9995636940002441,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The provisions of these Terms and any applicable Additional Terms, which by their nature should survive your suspension or termination will survive, including the rights and licenses you grant to Sulake in these Terms, as well as the indemnities, releases, disclaimers, and limitations on liability and the provisions regarding jurisdiction, choice of law, no class action, and mandatory arbitration",
+            "conf": 0.99894779920578,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICE IS PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS FOR YOUR USE, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS OF THIRD PARTIES, AND THOSE ARISING FROM COURSE OF",
+            "conf": 0.9813129901885986,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SULAKE DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS AS TO: THE SERVICE AND ITS FUNCTIONS, FEATURES, AND ELEMENTS",
+            "conf": 0.9998815655708313,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE",
+            "conf": 0.9980986714363098,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, SULAKE SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE OR OTHER SIMILAR DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF REVENUES, LOST PROFITS, LOST DATA OR BUSINESS INTERRUPTION OR OTHER INTANGIBLE LOSSES (HOWEVER SUCH LOSSES ARE QUALIFIED), ARISING OUT OF OR RELATING IN ANY WAY TO YOUR ACCESS TO AND USE OF THE SERVICE AND YOUR RIGHTS UNDER THESE TERMS OF SERVICE OR ANY APPLICABLE ADDITIONAL TERMS, WHETHER BASED ON CONTRACT, TORT OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT SULAKE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9999849200248718,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend and hold Sulake and its successors and assigns harmless from any claim, demand, damages or other losses, including reasonable attorneys\u2019 fees, asserted by any third party resulting from or arising out of: our use of information you submit to us (including your User-Generated Content) through the Service",
+            "conf": 0.9999962449073792,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Notwithstanding anything to the contrary, we retain the exclusive right to control, settle, compromise, and pay any and all Claims and Losses",
+            "conf": 0.9876214861869812,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Disputes will be arbitrated only on an individual basis and will not be consolidated with any other arbitrations or other proceedings that involve any claim or controversy of any other",
+            "conf": 0.9999116063117981,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Sulake reserves the right to suspend or prohibit linking to the Service for any reason, in its sole discretion, without advance notice or any liability of any kind to you or any third party",
+            "conf": 0.9967840313911438,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Sulake to require or enforce strict performance by you of any provision of these Terms, any applicable Additional Terms and/or the Service\u2019s Privacy Policyor failure to exercise any right under them shall not be construed as a waiver or relinquishment of Sulake\u2019s right to assert or rely upon any such provision or right in that or any other instance",
+            "conf": 0.9999923706054688,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The express waiver by Sulake of any provision, condition, or requirement of these Terms, any applicable Additional Terms and/or the Service\u2019s Privacy Policy shall not constitute a waiver of any future obligation to comply with such provision, condition or requirement",
+            "conf": 0.9846512079238892,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "As our Service evolves, the terms and conditions under which we offer the Service may prospectively be modified and we may cease offering the Service under the Terms or any applicable Additional Terms for which they were previously offered",
+            "conf": 0.9675674438476562,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "You agree that we may notify you via postings on the Service, and via e-mail or any other reasonable communications means to contact you based on the information you provided to us when creating your Account, with respect to changes to these Terms or any applicable Additional Terms",
+            "conf": 0.9998263120651245,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You irrevocably waive all rights to seek injunctive or other equitable relief, or to enjoin or restrain the operation of the Service or any Content or other product or service, exploitation of any advertising or other materials issued in connection therewith, or exploitation of the Service or any content or other material used or displayed through the Service and agree to limit your claims to claims for monetary damages, limited by Section 9 (if any).",
+            "conf": 0.981754720211029,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.0
+}

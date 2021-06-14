@@ -1,0 +1,201 @@
+{
+    "predictions": [
+        {
+            "label": "7",
+            "text": "We may change or add to this privacy policy, so we encourage you to review it periodically",
+            "conf": 0.9996812343597412,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We and our service providers use anonymous identifiers such as cookies and other technologies to collect and store certain types of information (e.g.",
+            "conf": 0.9907758235931396,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "They may set a cookie or employ other tracking technologies to accomplish this.",
+            "conf": 0.9783458113670349,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use third-party advertising companies to display ads tailored to your individual interests based on how you browse and shop online, as well as to provide advertising-related services such as ad delivery, reporting, attribution, analytics, and market research",
+            "conf": 0.9995558857917786,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We allow third-party companies to collect certain information when you visit our websites or use our mobile applications",
+            "conf": 0.9313598871231079,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These parties typically use a cookie, web beacon or other similar tracking technologies to collect this information.",
+            "conf": 0.9942153096199036,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "to facilitate the financing, securitization, insuring, sale, assignment, bankruptcy, or disposal of all or part of our business or assets",
+            "conf": 0.9957147836685181,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In connection with the sale or transfer of some or all of our business assets, we may transfer the corresponding information regarding our guests",
+            "conf": 0.9994292259216309,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you do not wish to receive promotional telephone calls, call Guest Relations at 800-440-0680 to opt-out",
+            "conf": 0.9947343468666077,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you do not wish to receive promotional e-mails from us, call Guest Relations at 800-440-0680 to opt-out",
+            "conf": 0.9998096227645874,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You also have the ability to unsubscribe from promotional e-mails via the unsubscribe link included in each promotional e-mail",
+            "conf": 0.999990701675415,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe from program-specific emails via the unsubscribe link located at the bottom of those program-specific emails",
+            "conf": 0.9999930262565613,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "This opt-out does not apply to operational emails (e.g., surveys,",
+            "conf": 0.9755266904830933,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel text messages at any time by texting \"STOP\".",
+            "conf": 0.9977121353149414,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "After you send \"HELP\" we will respond with instructions on how to use our service as well as how to unsubscribe",
+            "conf": 0.998936653137207,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out from allowing Target to send you push notifications by adjusting the permissions in your mobile device",
+            "conf": 0.9999451637268066,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of the vendors we use for cross-device linking, go to the Digital Advertising Alliance\u2019s Choices page at www.aboutads.info/choices and perform a global opt-out on each browser and device that you would like to be opted out on.",
+            "conf": 0.9896454215049744,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Opting out in this manner means that the browser on the device from which you opt-out will no longer receive information collected on devices linked to it, that devices linked to it will not receive information collected from the opted-out device, and that the vendor will not transfer information collected from the opted-out device to a third party",
+            "conf": 0.9719703793525696,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of our interest-based advertising for Target\u2019s goods and services or those of another party, online and in third-party mobile applications, visit Digital Advertising Alliance\u2019s Choices page at here and perform a global opt-out",
+            "conf": 0.9958279132843018,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Some browsers have a \u201cdo not track\u201d feature that lets you tell websites that you do not want to have your online activities tracked",
+            "conf": 0.9117002487182617,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "At this time, we do not respond to browser \u201cdo not track\u201d signals, but we do provide you the option to opt-out of interest based advertising (see above for opt-out information).",
+            "conf": 0.9898701906204224,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Analytics services such as Site Catalyst by Adobe Analytics, Google Analytics and Crazy Egg provide services that analyze information regarding visits to our websites and mobile applications.",
+            "conf": 0.9817818403244019,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "They use cookies, web beacons, recorded interactions and other tracking mechanisms to collect this information.",
+            "conf": 0.9902698993682861,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of Crazy Egg, click here..",
+            "conf": 0.9994525909423828,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Do Not Sell My Info",
+            "conf": 0.9992817044258118,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you are a California resident under 18 years old and a registered user, you can request that we remove content or information that you have posted to our website or other online services",
+            "conf": 0.9738621115684509,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal information online from children under the age of 13",
+            "conf": 0.9999328851699829,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last update: 1/01/2020",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.6
+}

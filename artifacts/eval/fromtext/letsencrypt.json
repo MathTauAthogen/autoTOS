@@ -1,0 +1,75 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated: June 22, 2018",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Temporary server logs are used for operational purposes only and are normally deleted in less than seven days",
+            "conf": 0.9995434284210205,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may retain a subset of server logs for longer periods in order to investigate",
+            "conf": 0.928473174571991,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If we do so, we will delete any stored logs when we are done investigating",
+            "conf": 0.9986379742622375,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will store this information for a minimum of seven years per both contractual necessity and public interest",
+            "conf": 0.9991622567176819,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may unsubscribe from service-related emails at any time by clicking the \u201cunsubscribe\u201d link at the bottom of our emails or by contacting us at security@letsencrypt.org",
+            "conf": 0.9999915361404419,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not collect or maintain personal information through our offering of this support forum",
+            "conf": 0.9974254369735718,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Additionally, we use Google Analytics to gauge traffic and popular pages on our web site",
+            "conf": 0.99969083070755,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "As part of that service, we place Google Analytics cookies on our site",
+            "conf": 0.9999406933784485,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may withdraw your consent to receive service emails at any time by clicking the \u201cunsubscribe\u201d link found within Let\u2019s Encrypt emails",
+            "conf": 0.9954859018325806,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 7.1
+}

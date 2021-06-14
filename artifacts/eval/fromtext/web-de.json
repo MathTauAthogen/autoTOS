@@ -1,0 +1,103 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Mai 2018, uns gegen\u00fcber erteilt worden sind",
+            "conf": 0.9682520627975464,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Sie haben das Recht, die Sie betreffenden personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, g\u00e4ngigen und maschinenlesbaren Format zu erhalten und Sie haben das Recht, diese Daten einem anderen zu \u00fcbermitteln",
+            "conf": 0.9814639687538147,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Einwilligung beruht, erfolgt die Bereitstellung Ihrer Daten vollkommen freiwillig und kann jederzeit von Ihnen nach Ma\u00dfgabe der umstehenden Hinweise widerrufen werden",
+            "conf": 0.9784848690032959,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Ihre Daten werden nicht l\u00e4nger als gesetzlich vorgegeben gespeichert! Ihre personenbezogenen Daten werden nach Ablauf aller handels- und steuerrechtlichen Speicherfristen gel\u00f6scht",
+            "conf": 0.9352630376815796,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Die G\u00fcltigkeit des Cookies ist auf maximal 1 Jahr beschr\u00e4nkt",
+            "conf": 0.928158700466156,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Danach werden diese Dateien vom Verzeichnis sp\u00e4testens nach 14 Tagen gel\u00f6scht",
+            "conf": 0.9795406460762024,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Klicken Sie auf \"Werbe-ID zur\u00fccksetzen\" und es werden alle bis dato gesammelten Informationen zur\u00fcckgesetzt und die Werbe-ID auf Ihrem Ger\u00e4t wird durch eine zuf\u00e4llig ausgew\u00e4hlte Nummer ersetzt",
+            "conf": 0.9807783961296082,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Klicken Sie auf \"Werbe-ID zur\u00fccksetzen\" und es werden alle bis dato gesammelten Informationen zur\u00fcckgesetzt und die Werbe-ID auf Ihrem Ger\u00e4t wird durch eine zuf\u00e4llig ausgew\u00e4hlte Nummer ersetzt (Men\u00fcf\u00fchrung kann je nach Ger\u00e4t und Version variieren",
+            "conf": 0.963617742061615,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Stand: 21.05.2019",
+            "conf": 0.9991852045059204,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschlie\u00dflich der Lieferkosten (mit Ausnahme der zus\u00e4tzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, g\u00fcnstigste Standardlieferung gew\u00e4hlt haben), unverz\u00fcglich und sp\u00e4testens binnen vierzehn Tagen ab dem Tag zur\u00fcckzuzahlen, an dem die Mitteilung \u00fcber Ihren Widerruf dieses Vertrags bei uns eingegangen ist",
+            "conf": 0.9658035635948181,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Februar 2014",
+            "conf": 0.9461156725883484,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "abgelegt sind, nicht auf diesen sicherungsgespeichert werden d\u00fcrfen",
+            "conf": 0.9707148671150208,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "WEB.DE ist berechtigt, bei anderen registrierungspflichtigen WEB.DE-Diensten, die das Hochladen, Speichern oder Bereithalten zum Abruf von Inhalten, Daten oder Mitteilungen zum Gegenstand haben, jedoch ohne eine K\u00fcndigung auszusprechen, den gesamten Inhalt des entsprechenden Speicherbereichs des Kunden zu l\u00f6schen, soweit dieser oder hierzu vom Kunden berechtigte Dritte den Bereich sechs Monate in Folge nicht nutzen, es sei denn, der Kunde hat gegen Entgelt bei WEB.DE zus\u00e4tzlichen Speicherplatz geordert.",
+            "conf": 0.9713331460952759,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Media GmbH, 14.02.2019",
+            "conf": 0.9999887347221375,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 9.3
+}

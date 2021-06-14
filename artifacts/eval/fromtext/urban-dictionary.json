@@ -1,0 +1,271 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "When we share your information We do not share or sell your information to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:",
+            "conf": 0.9999842047691345,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If Urban Dictionary is acquired by or merged with another company, we will transfer your information along with the Urban Dictionary website",
+            "conf": 0.9294628500938416,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Our ad management partners (\"Ad Partners\") may use cookies, web beacons, or other technologies to collect information from you directly when you visit our website.",
+            "conf": 0.9939531087875366,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "The information we sell We do not sell personal information",
+            "conf": 0.9994800686836243,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The right to request deletion of any personal information we collect about you",
+            "conf": 0.9998486638069153,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Requests to know and requests to delete You may request disclosure and/or deletion of any information we have collected about you by either:",
+            "conf": 0.9999926090240479,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Our Ad Partners may also from time to time use web beacons (also known as Internet tags, pixel tags and clear GIFs).",
+            "conf": 0.9999993443489075,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These web beacons are provided by our Ad Partners and allow Ad Partners to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page and the information in cookies set by the Ad Partners.",
+            "conf": 0.9996559619903564,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons enable our Ad Partners to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our website.",
+            "conf": 0.998063325881958,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of Google Analytics data collection with the Google Analytics Opt-out Browser Add-on",
+            "conf": 0.9999197125434875,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "You should never transmit personal or identifying information to other users",
+            "conf": 0.9999487400054932,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not collect this information",
+            "conf": 0.9952659606933594,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not disclose this information",
+            "conf": 0.961592972278595,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "N/A N/A Children The Urban Dictionary service is not intended for children under 13, and we do not knowingly collect information from children under the age of 13",
+            "conf": 0.9999837279319763,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children aged 13 or older may not submit any personal information without the permission of their parents or guardians",
+            "conf": 0.9999919533729553,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using the Urban Dictionary service, you are representing that you are at least 18, or that you are at least 13 years old and have your parents' or guardians' permission to use the service",
+            "conf": 0.9999994039535522,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Changes Urban Dictionary may periodically update this policy",
+            "conf": 0.9970190525054932,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may notify you about significant changes in the way we treat personal information by placing a prominent notice on our site",
+            "conf": 0.9998795986175537,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Updated: June 30, 2020",
+            "conf": 0.9999977946281433,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "The Company reserves the right to revise these terms from time to time",
+            "conf": 0.9996165037155151,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post a notice of any material revisions on the Website",
+            "conf": 0.9982892870903015,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The Website is not intended for children under 13",
+            "conf": 0.9999874830245972,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using the Website, you are representing that you are at least 18, or that you are at least 13 years old and have your parents\u2019 permission to use the Website",
+            "conf": 0.9999995827674866,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company reserves the right to modify, suspend, or discontinue the Website for any reason, with or without notice",
+            "conf": 0.9998368620872498,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Website is provided \u201cas is\u201d and \u201cas available\u201d",
+            "conf": 0.9995174407958984,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You assume complete responsibility and risk for your use of the Website",
+            "conf": 0.9994996190071106,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company does not warrant that (i) the Website will meet your requirements, (ii) you will be satisfied with the Website, (iii) you will at all times be able to use the Website, (iv) the Website will be without errors, (v) or that any errors will be corrected",
+            "conf": 0.999998927116394,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company is not responsible for any damages or loss resulting from your use of the Website",
+            "conf": 0.9999864101409912,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "The Company is not liable for any damages or losses resulting from the Website transmitting information such as personal messages over unencrypted networks such as email.",
+            "conf": 0.9855640530586243,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Any failure of the Company to enforce or exercise a right provided in these terms is not a waiver of that right",
+            "conf": 0.9999933838844299,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "At any time, the Company may, at its sole discretion, refuse to allow Content to be published, or remove Content that has been published",
+            "conf": 0.9648078680038452,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Company does not and cannot control all Content published by third parties to the Website, and does not guarantee the accuracy, integrity or quality of such Content",
+            "conf": 0.9578816890716553,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You understand that by using the Website you may be exposed to Content that you may find offensive, indecent, incorrect or objectionable, and you agree that under no circumstances will the Company be liable in any way for any Content, including any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of your use of any Content.",
+            "conf": 0.9921244978904724,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for any Content you publish on the Website, and the consequences of publishing such Content",
+            "conf": 0.9909557104110718,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend, and hold harmless the Company, its officers, directors, employees, and agents from and against any and all claims, losses, costs, liabilities, damages, judgments, penalties, interest and expenses (including reasonable attorneys\u2019 fees) arising out or relating to (i) any actual or alleged breach of your representations, warranties, or obligations set forth in these Terms of Service, and (ii) any actual or alleged infringement of any intellectual property or proprietary rights by any Content or other information you publish to the Website",
+            "conf": 0.9999986290931702,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use third-party advertising companies to serve ads when you visit our Web site",
+            "conf": 0.9988504648208618,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you",
+            "conf": 0.9921858906745911,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Updated Updated: October 2017",
+            "conf": 0.9993289113044739,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.6
+}

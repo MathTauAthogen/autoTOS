@@ -1,0 +1,320 @@
+{
+    "predictions": [
+        {
+            "label": "7",
+            "text": "Duolingo may amend, update or change these Terms and Conditions",
+            "conf": 0.9994786977767944,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we do this, we will post a notice that we have made changes to these Terms and Conditions on the Websites for at least 7 days after the changes are posted and will indicate at the bottom of the Terms and Conditions the date these terms were last revised",
+            "conf": 0.9992052316665649,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Any revisions to these Terms and Conditions will become effective the earlier of (i) the end of such 7-day period or (ii) the first time you access or use the Service after such changes",
+            "conf": 0.9959786534309387,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "PLEASE NOTE THAT THESE TERMS AND CONDITIONS CONTAIN A MANDATORY ARBITRATION OF DISPUTES PROVISION THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES IN CERTAIN CIRCUMSTANCES, RATHER THAN JURY TRIALS OR CLASS ACTION LAWSUITS",
+            "conf": 0.9999670386314392,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Duolingo may, in its sole discretion and at any time, update, change, suspend, make improvements to or discontinue any aspect of the Service, temporarily or permanently",
+            "conf": 0.9999836683273315,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "and (iv) to be fully responsible for all use of your account and for any actions that take place through your account.b",
+            "conf": 0.9999533295631409,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You are not required to become a Course Contributor and you may cease your activities as a Course Contributor at any time",
+            "conf": 0.9995481967926025,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You further represent and warrant that you will carefully safeguard your password, user name, and account information, will not share your password or user name with any third party, and will not allow any third party to access your Duolingo English Test account for any purpose.",
+            "conf": 0.9994860887527466,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "agree to defend, indemnify and hold harmless Duolingo and its directors, officers, employees, contractors, agents, suppliers, licensors, successors and assigns, from and against any and all losses, claims, causes of action, obligations, liabilities and damages whatsoever, including attorneys' fees, arising out of or relating to your access or use of the Service, any false representation made to us (as part of these Terms and Conditions or otherwise), your breach of any of these Terms and Conditions, or any claim that any translation we provide to you is inaccurate, inappropriate or defective in any way whatsoever",
+            "conf": 0.999998152256012,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you do not wish your subscription to renew automatically, or if you want to change or terminate your subscription, you will need to log in to your Duolingo account and follow instructions to terminate or change your subscription, even if you have deleted your account",
+            "conf": 0.9996881484985352,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We do not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services",
+            "conf": 0.9076974391937256,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You expressly acknowledge and agree that Duolingo shall not be responsible or liable, directly or indirectly, for any damage or loss arising from your use of any third-party website, service, or content.",
+            "conf": 0.9977937340736389,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "NO REPRESENTATIONS OR WARRANTIES BY DUOLINGOTHE SERVICE, INCLUDING ALL IMAGES, AUDIO FILES AND OTHER CONTENT THEREIN, AND ANY OTHER INFORMATION, PROPERTY AND RIGHTS GRANTED OR PROVIDED TO YOU BY DUOLINGO ARE PROVIDED TO YOU ON AN \u201cAS IS\u201d BASIS",
+            "conf": 0.9999504685401917,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DUOLINGO AND ITS SUPPLIERS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO THE SERVICE, EITHER EXPRESS OR IMPLIED, AND ALL SUCH REPRESENTATIONS AND WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A",
+            "conf": 0.9838390350341797,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "OR NON-INFRINGEMENT, ARE EXPRESSLY DISCLAIMED",
+            "conf": 0.9487102627754211,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, DUOLINGO DOES NOT MAKE ANY REPRESENTATION OR WARRANTY OF ANY KIND RELATING TO ACCURACY, SERVICE AVAILABILITY, COMPLETENESS, INFORMATIONAL CONTENT, ERROR-FREE OPERATION, RESULTS TO BE OBTAINED FROM USE, OR NON-INFRINGEMENT",
+            "conf": 0.9999033212661743,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "LIMITATION ON TYPES OF DAMAGES/LIMITATION OF LIABILITYIN NO EVENT WILL DUOLINGO BE LIABLE TO YOU OR ANY THIRD PARTY CLAIMING THROUGH YOU (WHETHER BASED IN CONTRACT, TORT, STRICT LIABILITY OR OTHER THEORY) FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATING TO THE ACCESS OR USE OF, OR THE INABILITY TO ACCESS OR USE, THE SERVICE OR ANY PORTION THEREOF, INCLUDING BUT NOT LIMITED TO THE LOSS OF USE OF THE SERVICE, INACCURATE RESULTS, LOSS OF PROFITS, BUSINESS INTERRUPTION, OR DAMAGES STEMMING FROM LOSS OR CORRUPTION OF DATA OR DATA BEING RENDERED INACCURATE, THE COST OF RECOVERING ANY DATA, THE COST OF SUBSTITUTE SERVICES OR CLAIMS BY THIRD PARTIES FOR ANY DAMAGE TO COMPUTERS, SOFTWARE, MODEMS, TELEPHONES OR OTHER PROPERTY, EVEN IF DUOLINGO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9999344944953918,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "TerminationDuolingo may terminate your access and use of the Service immediately at any time, for any reason, and at such time you will have no further right to use the Service",
+            "conf": 0.9998239874839783,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate your Duolingo account at any time by following the instructions available through the Service",
+            "conf": 0.9995374083518982,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "No Class ActionThese Terms and Conditions, its subject matter and Duolingo\u2019s and your respective rights under these Terms and Conditions, as well as and any claim, cause of action or dispute (\u201cclaim\u201d) arising out of or related to these Terms and Conditions, shall be governed by and construed under the laws of the Commonwealth of Pennsylvania, United States of America, excluding the conflict of law provisions of that or any other jurisdiction, regardless of your country of origin or where you access the Service",
+            "conf": 0.9995657801628113,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "To the fullest extent permitted by applicable law, YOU AND DUOLINGO EACH AGREE THAT ANY DISPUTE RESOLUTION PROCEEDING WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED OR REPRESENTATIVE ACTION",
+            "conf": 0.9999961256980896,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last revised on December 11th, 2017",
+            "conf": 0.9999989867210388,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If we do this and the changes are material, we will post a notice that we have made changes to this Privacy Policy on the Website for at least 7 days before the changes are made, and we will indicate the date these terms were last revised at the bottom of the Privacy Policy",
+            "conf": 0.9996690154075623,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Duolingo does not share any of your personal data with your tutor",
+            "conf": 0.9878868460655212,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "support and enhance the Service, we work with a variety of third party advertising networks, marketing analytics service providers and website analysis firms, such as Google, Facebook, Oath, Unity, and Quantcast (collectively, \u201cThird Party Advertising Service Providers\u201d).",
+            "conf": 0.964685320854187,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These Third Party Advertising Service Providers collect and use non-personally identifiable information, such as your mobile device ID, about your visits to and use of the Website and mobile Application, as well as other websites in order to serve you with advertisements and content tailored to meet your preferences and likely interests or better understand ad effectiveness",
+            "conf": 0.9755260348320007,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use Google Analytics which is a web analytics tool that helps us understand how users engage with the Website",
+            "conf": 0.9999793171882629,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Like many services, Google Analytics uses first-party cookies to track user interactions as in our case, where they are used to collect information about how users use our site.",
+            "conf": 0.9892831444740295,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of Google Analytics without affecting how you visit our site \u2013 for more information on opting out of being tracked by Google Analytics across all websites you use, visit this Google page: https://tools.google.com/dlpage/gaoptout",
+            "conf": 0.989179253578186,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of receiving personalized ads from advertisers and ad networks that are members of the Network Advertising Initiative (\u201cNAI\u201d) or who follow the DAA Self-Regulatory Principles for Online Behavioral Advertising using their respective opt-out tools",
+            "conf": 0.9545996785163879,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "The NAI's opt-out tool can be found here http://www.networkadvertising.org/choices/ and the DAA's opt out tool can be found here http://www.aboutads.info/choices/.",
+            "conf": 0.9999324679374695,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of any non-essential service e-mails at any time",
+            "conf": 0.9999100565910339,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If the ownership of all or substantially all of the Duolingo business, or individual business units or assets owned by Duolingo that are related to the Service, were to change, your personal data will be transferred to the new owner",
+            "conf": 0.9397792220115662,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "request access to, or erasure of, the personal data we hold about you",
+            "conf": 0.9146755337715149,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "To delete your account with Duolingo by following the instructions available through the Service",
+            "conf": 0.99528968334198,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Duolingo will retain your data until your account is deleted, after which point we will retain anonymous data collected through the Service, including Activity Data, which may be used by Duolingo and shared with third parties in any manner",
+            "conf": 0.9946839809417725,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Information associated with the Duolingo",
+            "conf": 0.9947862029075623,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Test, including examination results and your Testing Video, will be collectively deleted from your Duolingo account after five years have passed from the date you upload your test, but anonymized examination data, including your examination results and Testing Video, will be kept indefinitely by Duolingo to improve the examination and for research and analysis",
+            "conf": 0.996058464050293,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Duolingo does not control such other sites and is not responsible for their content, their privacy policies, or their use of personal data, including any personal or financial information collected by our third party payment processor to process payments for in-app purchases.",
+            "conf": 0.9969319701194763,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "You may also may correct, amend, or delete the personal information we hold about you",
+            "conf": 0.9960540533065796,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized",
+            "conf": 0.9647498726844788,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "For example, a 15 year old child in Germany will require parental consent to use the Service, whereas a 12 year old child in the United States of America would receive a restricted service but not require parental consent.Children within the European UnionEach European Union (EU) member state is permitted to legally define its own digital age of consent between 13 and 16.",
+            "conf": 0.9966820478439331,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices of other websites",
+            "conf": 0.9999712109565735,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "5",
+            "text": "Do Not TrackThe Service is not designed to respond to \u201cdo not track\u201d signals sent by some browsers",
+            "conf": 0.9999507665634155,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last revised on 11th October, 2018",
+            "conf": 0.999998152256012,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.3
+}

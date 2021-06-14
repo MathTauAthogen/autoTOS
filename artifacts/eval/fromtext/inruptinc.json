@@ -1,0 +1,103 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "Users under the age of consent as determined by the laws of the country they are located in at the time of consent must have written permission from a parent or guardian to use the Services",
+            "conf": 0.9999892711639404,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Inrupt does not use your data for providing targeted advertising.&nbsp",
+            "conf": 0.9749535918235779,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can access, amend, download, and delete your personal information by logging into your account and going to your account settings page",
+            "conf": 0.9698399305343628,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you sign up for an account with inrupt, we\u2019ll retain information you store on our Services for as long as your account is in existence or as long as we need it to provide the Services to you",
+            "conf": 0.9928087592124939,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can choose to terminate inrupt Services at any time",
+            "conf": 0.9995202422142029,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ", all data on your Solid POD will be deleted, with no opportunity to recover such data or account information",
+            "conf": 0.9085919857025146,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If inrupt is involved in a reorganisation, merger, acquisition, or sale of our business or assets, your data may be transferred",
+            "conf": 0.9702595472335815,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Request erasure of your personal data via&nbsp;https://inrupt.net/account/delete",
+            "conf": 0.9919909834861755,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it",
+            "conf": 0.9999663233757019,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law.",
+            "conf": 0.989433765411377,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "is unlawful but",
+            "conf": 0.9057304859161377,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "do not want us to erase it",
+            "conf": 0.9188721776008606,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "At our sole discretion, inrupt reserves the right to delete and close accounts that do not adhere to the inrupt Terms of Service, Privacy Policy, or Acceptable Use Policy",
+            "conf": 0.9993910789489746,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Inrupt websites may contain links to websites that are not owned, operated or controlled by inrupt, and, therefore, inrupt is not responsible for the content or your use of such websites",
+            "conf": 0.9612624645233154,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 6.7
+}

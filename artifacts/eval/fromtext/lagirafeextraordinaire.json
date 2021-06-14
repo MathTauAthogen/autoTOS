@@ -1,0 +1,19 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "du 6 janvier 1978 et le r\u00e8glement no 2016/679",
+            "conf": 0.9599930644035339,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": ") applicable \u00e0 compter du 25 May 2018",
+            "conf": 0.9052724838256836,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 0.0
+}

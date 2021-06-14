@@ -1,0 +1,313 @@
+{
+    "predictions": [
+        {
+            "label": "2",
+            "text": "We may use cookies, log files, web beacons, JavaScript, and other similar technology (\u201cCookies and Similar Technology\u201d) to collect and store the information we collect.",
+            "conf": 0.9969711303710938,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may use cookies, log files, web beacons, JavaScript, and other similar technology (\u201cCookies and Similar Technology\u201d) to collect and store the information we collect.",
+            "conf": 0.9969711303710938,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "The Site and our emails and advertisements may contain web beacons",
+            "conf": 0.9407739639282227,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These companies typically use a cookie or web beacon to collect this information in order to provide advertisements likely to",
+            "conf": 0.9330008625984192,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Subject to your cookie settings, Newegg and various third parties may use Cookies and Similar Technology to personalize your experience on the Site, such as through the use of targeted advertisements and special offers.",
+            "conf": 0.9840627908706665,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track Signals or Similar Mechanisms",
+            "conf": 0.9664217829704285,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "At this time, the Site does not respond to \u201cDo Not Track\u201d signals or similar mechanisms",
+            "conf": 0.9999556541442871,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "As our business continues to evolve, we may acquire or sell business units or subsidiaries",
+            "conf": 0.9731432199478149,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Subject to your marketing preferences and settings, we may share your personal information with third-party companies that may, among other things, use your personal information to provide you with targeted advertisements and special offers",
+            "conf": 0.988467276096344,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the extent any linked websites or applications you visit are not owned or operated by Newegg, please be aware that we are not responsible for the websites or applications\u2019 content, any use of the websites or applications, or the privacy and security practices and policies of those websites or applications",
+            "conf": 0.9895580410957336,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Newegg reserves the right to post or remove any",
+            "conf": 0.9369539022445679,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law",
+            "conf": 0.9997508525848389,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "To ensure that your user name and password remain confidential, DO NOT share this information with anyone",
+            "conf": 0.9127970933914185,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the legal age of majority in your jurisdiction, you may only use the Site in the presence of a consenting parent or guardian",
+            "conf": 0.9999948740005493,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We will not knowingly or intentionally collect personal information from children under the age of 13",
+            "conf": 0.9998319149017334,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "Finally, you may use the link provided in all Newegg communications to automatically unsubscribe",
+            "conf": 0.9999889135360718,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may use the standard uninstall process to remove our mobile application from your mobile device",
+            "conf": 0.9945288300514221,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We regularly review and, if appropriate, update this privacy policy from time to time, and as our services and",
+            "conf": 0.9014665484428406,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage",
+            "conf": 0.9994519352912903,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We will update the date of this document each time it is changed",
+            "conf": 0.9281712770462036,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Update",
+            "conf": 0.9934512376785278,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "The Privacy Policy contained herein became officially effective June 19, 2018",
+            "conf": 0.999995231628418,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated on October 16, 2018",
+            "conf": 0.9999977946281433,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, at our sole discretion, to change, modify, or otherwise alter these Terms at any time without notice to you",
+            "conf": 0.9999870657920837,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You understand that Community does not control, and is not responsible for Content made available through the Site that is provided by others, and that by using the Site, you may be exposed to Content that is offensive, indecent, inaccurate, misleading, or otherwise objectionable",
+            "conf": 0.9253814816474915,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you must evaluate, and bear all risks associated with, the use of any Content, that you may not rely on said Content, and that under no circumstances will the Newegg Community site be liable in any way for any Content or for any loss or damage of any kind incurred as a result of the use of any Content posted, emailed or otherwise made available on the Site",
+            "conf": 0.9918155670166016,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge that Newegg Community has no duty to pre-screen or approve Content, but that Community shall have the right, but not the obligation, in its sole discretion to refuse, delete or move any Content on the Site, for any reason, including, but not limited to violation(s) of these Terms",
+            "conf": 0.9999042749404907,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Community reserves the right to remove Content for any reason, but is not responsible for any failure or delay in removing such material",
+            "conf": 0.9997636675834656,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We also reserve the right to terminate your access to the Site if you fail to abide by these Terms",
+            "conf": 0.9027240872383118,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the loss, deletion, failure to store, misdelivery, or untimely delivery of any Content submitted or transmitted through or to the Site",
+            "conf": 0.930858314037323,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Our Rights We maintain the right to do any of the following, at any time, with or without prior notice:",
+            "conf": 0.9998908042907715,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "restrict, suspend, or terminate your access to all or any part of our Site;",
+            "conf": 0.999853789806366,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "change, suspend, or discontinue all or any part of our Site;",
+            "conf": 0.9999921917915344,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that Community, in its sole discretion, has the right (but not the obligation) to delete or deactivate your account, block your email or IP address, or otherwise terminate your access to or use of the Site (or any part thereof), immediately and without notice, and remove and discard any Content within the Site, for any reason, including, without limitation, if Community believes that you have violated the Terms",
+            "conf": 0.9999348521232605,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You agree that use of Community is entirely at your own risk and Community is provided on an \u201cas is\u201d or \u201cas available\u201d basis, without any warranties of any kind",
+            "conf": 0.9999598860740662,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We cannot guarantee the accuracy, security or quality of Content posted on or transmitted through the Site",
+            "conf": 0.9987242817878723,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Without limitation, we are not responsible for the Content posted by users on the Site and your use of the Site and any services provided is at your own risk",
+            "conf": 0.9998659491539001,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Indemnification You agree to indemnify and hold Community, its officers, subsidiaries, parents, affiliates, successors, assigns, directors, officers, agents, service providers, suppliers and employees, harmless from any claim or demand, including reasonable attorney fees and court costs, made by any third party due to, relating to, or arising out of Content you submit, post or make available through the Site, your use of the Site, your violation of the Terms, your breach of any of the representations and warranties herein, or your violation of any rights of others",
+            "conf": 0.9999954104423523,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The Site is not intended as a service for children and therefore persons under the age of 13 may not become a member",
+            "conf": 0.9999839663505554,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 18, you represent and warrant that you have the permission of your parent(s) or legal guardian(s) to access and use the Site",
+            "conf": 0.9999997615814209,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password.",
+            "conf": 0.9981785416603088,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You also agree to exit from your account at the end of each session",
+            "conf": 0.9967151880264282,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We will not be responsible for any loss or damage that may result if you fail to comply with these requirements",
+            "conf": 0.9528385996818542,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Community to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.9999964237213135,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.0
+}

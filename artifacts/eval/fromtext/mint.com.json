@@ -1,0 +1,432 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Date Last Revised: July 28, 2014",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Your Privacy is not for sale",
+            "conf": 0.995729386806488,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We limit the collection and use of personal information",
+            "conf": 0.9302708506584167,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Third parties offering other products or services will not be given your personal information without your permission",
+            "conf": 0.9999213218688965,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Your data may be transferred upon change of control but only in accordance with this Policy",
+            "conf": 0.9990730881690979,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can transport or delete your data",
+            "conf": 0.9995012879371643,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Your Privacy is not for sale Simply put, we do not and will not sell or rent your personal information to anyone, for any reason, at any time",
+            "conf": 0.9992908239364624,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Intuit may make anonymous or aggregate personal information and disclose such data only in a non-personally identifiable manner to:",
+            "conf": 0.9819595813751221,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Intuit may set and access cookies on your computer to track and store preferential information about you",
+            "conf": 0.9790525436401367,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Intuit may gather information about you through cookie technology",
+            "conf": 0.9988982081413269,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We encode our cookies so that only we can interpret the information stored in them",
+            "conf": 0.9911203384399414,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity.",
+            "conf": 0.9863512516021729,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Intuit, or third party service providers acting on our behalf, may use Web beacons to help us analyze Site usage and improve the Service.",
+            "conf": 0.9937447309494019,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not share any personal information about our customers with these third party service providers, and these service providers do not collect such information on our behalf",
+            "conf": 0.9989307522773743,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may use Google Analytics on parts of this Site to determine age, gender, interest and other data to better serve our customers",
+            "conf": 0.9995449185371399,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you prefer to not have your data used by Google Analytics you may visit the Google Analytics opt-out page and install the add-on for your browser",
+            "conf": 0.9790303707122803,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Without an industry or legal standard of interpreting Do Not Track (DNT) signals sent to us by your browser, we do not respond DNT signals at this time",
+            "conf": 0.9999858736991882,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Intuit is not responsible for their privacy practices",
+            "conf": 0.99996018409729,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the personal information you choose to submit in these forums",
+            "conf": 0.9999439120292664,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "Your data may be transferred upon change of control but only in accordance with this Policy Personal information may be transferred to a third party as a result of a sale, acquisition, merger, reorganization or other change of control",
+            "conf": 0.9847496151924133,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we sell, merge or transfer any part of our business, part of the sale may include your personal information",
+            "conf": 0.9966800808906555,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can transport or delete your data Your data is yours",
+            "conf": 0.9990694522857666,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can remove it anytime you want",
+            "conf": 0.9929940104484558,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you request us to delete your account for the Service, your data will be permanently expunged from our primary production servers and further access to your account will not be possible",
+            "conf": 0.9867239594459534,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "We will also promptly disconnect any connection we had established to your Account Information and delete all account credentials",
+            "conf": 0.9926320910453796,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Mint.com subscribers have the ability to opt-out of receiving our promotional emails and to terminate their newsletter subscriptions by following the instructions in the emails",
+            "conf": 0.999953031539917,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We exercise no control over how your information is stored, maintained or displayed by third parties or on third-party sites",
+            "conf": 0.9811516404151917,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your",
+            "conf": 0.9190943241119385,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "The date last revised appears at the top of the Policy",
+            "conf": 0.9999404549598694,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Use Date Last Revised: July 26, 2012",
+            "conf": 0.9999980926513672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You may not use the Service and you may not accept this Agreement if you are not of a legal age to form a binding contract with Intuit",
+            "conf": 0.9999979138374329,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "The policy may be updated from time to time at our discretion",
+            "conf": 0.9997262358665466,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Intuit is not responsible for the products and services offered by or on third-party sites",
+            "conf": 0.9942920207977295,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Intuit cannot always foresee or anticipate technical or other difficulties which may result in failure to obtain data or loss of data, personalization settings or other service interruptions",
+            "conf": 0.9984973073005676,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Intuit cannot assume responsibility for the timeliness, accuracy, deletion, non-delivery or failure to store any user data, communications or personalization settings",
+            "conf": 0.9997204542160034,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Intuit does not endorse, warrant or guarantee the products or services available through the Intuit Offers (or any other third-party products or services advertised on or linked from our site), whether or not sponsored, and Intuit is not an agent or broker or otherwise responsible for the activities or policies of those web sites",
+            "conf": 0.9982386231422424,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree and understand that you are responsible for maintaining the confidentiality of your password which, together with your LoginID e-mail address, allows you to access the Service.",
+            "conf": 0.9882444739341736,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Your access and use of Mint.com may be interrupted from time to time for any of several reasons, including, without limitation, the malfunction of equipment, periodic updating, maintenance or repair of Mint.com or other actions that Intuit, in its sole discretion, may elect to take",
+            "conf": 0.995600700378418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Sneak Preview features are provided on an \u201cas is\u201d basis and may contain errors or inaccuracies that could cause failures, corruption or loss of data and/or information from any connected device",
+            "conf": 0.9999955296516418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Intuit will not sell, publish or share your feedback in a way that could identify you without your explicit permission",
+            "conf": 0.9999931454658508,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "INTUIT MAKES NO WARRANTIES OR REPRESENTATIONS OF ANY KIND, EXPRESS, STATUTORY OR IMPLIED AS TO: (i) THE AVAILABILITY OF TELECOMMUNICATION SERVICES FROM YOUR PROVIDER AND ACCESS TO THE SERVICES AT ANY TIME OR FROM ANY LOCATION",
+            "conf": 0.9999724626541138,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Intuit may add new alerts from time to time, or cease to provide certain alerts at any time upon its sole discretion",
+            "conf": 0.9782549738883972,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "At any time you may disable future alerts",
+            "conf": 0.9952864050865173,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "THE CONTENT AND ALL SERVICES AND PRODUCTS ASSOCIATED WITH MINT.COM OR PROVIDED THROUGH THE SERVICE (WHETHER OR NOT SPONSORED) ARE PROVIDED TO YOU ON AN \u201cAS-IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9941407442092896,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INTUIT MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE CONTENT OR OPERATION OF MINT.COM OR OF THE SERVICE",
+            "conf": 0.9997013807296753,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INTUIT MAKES NO REPRESENTATIONS, WARRANTIES OR GUARANTEES, EXPRESS OR IMPLIED, REGARDING THE ACCURACY, RELIABILITY OR COMPLETENESS OF THE CONTENT ON MINT.COM OR OF THE SERVICE (WHETHER OR NOT SPONSORED), AND EXPRESSLY DISCLAIMS ANY WARRANTIES OF NON-INFRINGEMENT OR",
+            "conf": 0.9891785383224487,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Intuit does its best to provide alerts in a timely manner with accurate information",
+            "conf": 0.9973515272140503,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "However, we neither guarantee the delivery nor the accuracy of the content of any alert",
+            "conf": 0.9996538162231445,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "INTUIT SHALL IN NO EVENT BE RESPONSIBLE OR LIABLE TO YOU OR TO ANY THIRD PARTY, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, LIQUIDATED OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFIT, REVENUE OR BUSINESS, ARISING IN WHOLE OR IN PART FROM YOUR ACCESS TO MINT.COM, YOUR USE OF THE SERVICE OR THIS AGREEMENT, EVEN IF INTUIT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9969074130058289,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Your Indemnification of Intuit You shall defend, indemnify and hold harmless Intuit and its officers, directors, shareholders, and employees, from and against all claims and expenses, including but not limited to attorneys fees, in whole or in part arising out of or attributable to any breach of this Agreement by you",
+            "conf": 0.9996777772903442,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you want to terminate your legal agreement with Intuit, you may do so by closing your account for the Service",
+            "conf": 0.9839990735054016,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Please use the directions below to cancel your account:",
+            "conf": 0.9994587302207947,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Locate the \u201cdelete Mint account\u201d option under \u201cMore Options",
+            "conf": 0.9267807602882385,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Your account will be closed and your ability to log in deactivated immediately",
+            "conf": 0.9999105334281921,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Your Mint.com account data will be removed within 48 hours subject to and as explained in our Privacy Policy",
+            "conf": 0.9993959069252014,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Intuit may at any time, terminate its legal agreement with you:",
+            "conf": 0.9933728575706482,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Modifications Intuit may modify this Agreement from time to time",
+            "conf": 0.9776610732078552,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "In addition, the Agreement will always indicate the date it was last revised",
+            "conf": 0.935355544090271,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU ARE GIVING UP YOUR RIGHT TO SERVE AS A REPRESENTATIVE, AS A PRIVATE ATTORNEY GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY, OR TO PARTICIPATE AS A MEMBER OF A CLASS OF CLAIMANTS, IN ANY LAWSUIT INVOLVING ANY SUCH DISPUTE",
+            "conf": 0.9999939203262329,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any portion of this Agreement is deemed unlawful, void or unenforceable by any arbitrator or court of competent jurisdiction, this Agreement as a whole shall not be deemed unlawful, void or unenforceable, but only that portion of this Agreement that is unlawful, void or unenforceable shall be stricken from this Agreement",
+            "conf": 0.9891512393951416,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree that if Intuit does not exercise or enforce any legal right or remedy which is contained in the Agreement (or which Intuit has the benefit of under any applicable law), this will not be taken to be a formal waiver of Intuit\u2019s rights and that those rights or remedies will still be available to Intuit",
+            "conf": 0.9999944567680359,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 4.1
+}

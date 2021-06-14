@@ -1,0 +1,306 @@
+{
+    "predictions": [
+        {
+            "label": "7",
+            "text": "edX reserves the right to modify these TOS at any time without advance notice",
+            "conf": 0.9995678663253784,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to these TOS will be effective immediately upon posting on this page, with an updated effective date",
+            "conf": 0.9920695424079895,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "If you are a registered user, you will not share your password or let anyone else access or compromise your account",
+            "conf": 0.9996026754379272,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "You agree that you will never divulge or share access or access information for your user account with any third party for any reason",
+            "conf": 0.9915194511413574,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "You represent that all information provided by you is accurate and current",
+            "conf": 0.9999385476112366,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE EDX SITE AND ANY INFORMATION, CONTENT OR SERVICES MADE AVAILABLE ON OR THROUGH THE EDX SITE ARE PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITHOUT WARRANTY OF ANY KIND (EXPRESS, IMPLIED OR OTHERWISE), INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A",
+            "conf": 0.9963778853416443,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PARTICULAR PURPOSE, AND NON-INFRINGEMENT, EXCEPT INSOFAR AS ANY SUCH IMPLIED WARRANTIES MAY NOT BE DISCLAIMED UNDER APPLICABLE LAW",
+            "conf": 0.9748128652572632,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "EDX AND THE EDX PARTICIPANTS (AS DEFINED BELOW) DO NOT WARRANT THAT THE EDX SITE WILL OPERATE IN AN UNINTERRUPTED OR ERROR-FREE MANNER, THAT THE EDX SITE IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT THE COURSES OR CONTENT PROVIDED WILL MEET YOUR NEEDS OR EXPECTATIONS.",
+            "conf": 0.9949248433113098,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "EDX AND THE EDX PARTICIPANTS ALSO MAKE NO WARRANTY ABOUT THE ACCURACY, COMPLETENESS, TIMELINESS, OR QUALITY OF THE EDX SITE OR ANY COURSES OR CONTENT, OR THAT ANY PARTICULAR COURSES OR CONTENT WILL CONTINUE TO BE MADE AVAILABLE",
+            "conf": 0.9992077350616455,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOUR ACCESS TO OR DOWNLOAD OF INFORMATION, MATERIALS, OR DATA THROUGH THE EDX SITE OR ANY REFERENCE SITES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM) OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF SUCH MATERIAL OR DATA, UNLESS OTHERWISE EXPRESSLY PROVIDED FOR IN THE PRIVACY POLICY.",
+            "conf": 0.9991287589073181,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "However, edX reserves the right to review User Postings and to exercise its sole discretion to edit or remove, in whole or in part, any User Posting at any time and for any reason, or to allow the edX Participants to do so",
+            "conf": 0.999987781047821,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": ", edX may investigate the allegation and determine in its sole discretion whether to remove the User Posting, which it reserves the right to do at any time and without notice",
+            "conf": 0.9154637455940247,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE THAT NEITHER EDX NOR ANY OF THE EDX PARTICIPANTS WILL BE LIABLE TO YOU FOR ANY LOSS OR DAMAGES, EITHER ACTUAL OR CONSEQUENTIAL, ARISING OUT OF OR RELATING TO THESE TERMS OF SERVICE, OR YOUR (OR ANY THIRD PARTY'S) USE OF OR INABILITY TO USE THE EDX SITE, OR YOUR PLACEMENT OF CONTENT ON THE EDX SITE, OR YOUR RELIANCE UPON INFORMATION OBTAINED FROM OR THROUGH THE EDX SITE, WHETHER YOUR CLAIM IS BASED IN CONTRACT, TORT, STATUTORY OR OTHER LAW.",
+            "conf": 0.99843829870224,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN PARTICULAR, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, NEITHER EDX NOR ANY OF THE EDX PARTICIPANTS WILL HAVE ANY LIABILITY FOR ANY CONSEQUENTIAL, INDIRECT, PUNITIVE, SPECIAL, EXEMPLARY, OR INCIDENTAL DAMAGES, WHETHER FORESEEABLE OR UNFORESEEABLE AND WHETHER OR NOT EDX OR ANY OF THE EDX PARTICIPANTS HAS BEEN NEGLIGENT OR OTHERWISE AT FAULT (INCLUDING, BUT NOT LIMITED TO, CLAIMS FOR DEFAMATION, ERRORS, LOSS OF PROFITS, LOSS OF DATA, OR INTERRUPTION IN AVAILABILITY OF DATA).",
+            "conf": 0.9999998807907104,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "agree to defend, hold harmless, and indemnify edX and the edX Participants, and their respective subsidiaries, affiliates, officers, faculty, students, fellows, governing board members, agents and employees from and against any third-party claims, actions, or demands arising out of, resulting from or in any way related to your use of the edX Site, including any liability or expense arising from any and all claims, losses, damages (actual and consequential), suits, judgments, litigation costs, and attorneys' fees, of every kind and nature",
+            "conf": 0.9999963641166687,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that edX, in its sole discretion, may terminate your use of the edX Site or your participation in it, for any reason or no reason, upon notice to you",
+            "conf": 0.9998361468315125,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "edX and the edX Participants reserve the right at any time in their sole discretion to cancel, delay, reschedule or alter the format of any course offered through edX, or to cease providing any part or all of the edX Site content or related services, and you agree that neither edX nor any of the edX Participants will have any liability to you for such an action",
+            "conf": 0.9996026754379272,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you no longer desire to participate in the edX Site, you may terminate your participation at any time",
+            "conf": 0.9919196367263794,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "The failure of edX to exercise or enforce any right or provision of the Agreements shall not constitute a waiver of such right or provision",
+            "conf": 0.9992150664329529,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "forum).Effective Date:October 28,",
+            "conf": 0.9999954104423523,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "from time to time",
+            "conf": 0.9760265946388245,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "will be effective immediately upon posting on this page, with an updated effective date",
+            "conf": 0.9029164910316467,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date:October 28,",
+            "conf": 0.9999726414680481,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "On May 15, 2018,",
+            "conf": 0.9597235321998596,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "\u2605 EdX is solely and independently responsible for its own privacy practices",
+            "conf": 0.9602280855178833,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Each Member is solely and independently responsible for its own privacy practices",
+            "conf": 0.9772984981536865,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Also, edX is not responsible for any Member\u2019s privacy practices",
+            "conf": 0.971725583076477,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "(If you later choose to delete your edX account, deletion of your Personal Information will be subject to the process and limits outlined below.)",
+            "conf": 0.9920411109924316,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Because deletion on the edX system is a permanent action and cannot be reversed, edX may ask you to complete a process that aims to confirm your authority to manage the edX account affected by your request",
+            "conf": 0.990966260433197,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "remove the active profile,",
+            "conf": 0.9412176012992859,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "With respect to your Personal Information, edX will permanently delete your edX account profile Personal Information from the edX Site",
+            "conf": 0.9948618412017822,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "By erasing the Personal Information in your edX account profile, the remaining information about your activity on the edX Site will no longer be associated with you, except as noted below.",
+            "conf": 0.9901898503303528,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "EdX and each applicable Member cannot always delete records of past interactions and transactions",
+            "conf": 0.9998387694358826,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Data retentionEdX will retain your Personal Information for as long as your account is active or as needed to provide you with services",
+            "conf": 0.9991458654403687,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "for as long as needed to",
+            "conf": 0.9075057506561279,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Upon your request that edX deactivate your account and delete your information, edX will follow the process described above, including without limitation archiving your course data (in a manner and to the extent permitted under applicable law) to serve its mission to enable scientific research on",
+            "conf": 0.9930436015129089,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "science and",
+            "conf": 0.955443799495697,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "In each case, information may be stored in the United States and in other countries where edX or a Member operates, and in countries where edX and each Member\u2019s respective service providers operate",
+            "conf": 0.9999970197677612,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you are in the European Union, Switzerland, or other regions with laws governing data collection and use, you acknowledge that edX and each Member may transfer, process and store your personal information in the United States and other countries, the privacy laws of which may be considered less strict than those of your region",
+            "conf": 0.9999175071716309,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Privacy Policy will be reviewed and updated from time to time",
+            "conf": 0.9205921292304993,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Cookies are unique identifiers usually in the form of small data files placed on your device that send certain information about your activity on the edX Site or in an email communication back to edX or the authorized third party that served the cookie",
+            "conf": 0.993239164352417,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Tracking Technologies are web beacons, clear gifs, pixels, and similar technologies that are also unique identifiers used to track your online activity but are not stored on your device.",
+            "conf": 0.9943212866783142,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "ID.Effective Date:May 15, 2018",
+            "conf": 0.999976634979248,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.1
+}

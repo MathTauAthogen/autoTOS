@@ -1,0 +1,334 @@
+{
+    "predictions": [
+        {
+            "label": "2",
+            "text": "also use \u201ccookies",
+            "conf": 0.9975511431694031,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "(small text files sent by your computer each time you visit our website, unique to your Pinterest account or your browser) or similar technologies to capture log data",
+            "conf": 0.9991266131401062,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Each time we send you marketing materials, we give you the option to unsubscribe",
+            "conf": 0.9999927282333374,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Close your account at any time",
+            "conf": 0.9999186992645264,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "When you close your account, we\u2019ll deactivate it and remove your Pins and boards from Pinterest",
+            "conf": 0.9769797921180725,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Online advertisers and third party companies that we or they use to audit or improve the delivery and performance of ads or content on websites and apps (for example, through Google Analytics).",
+            "conf": 0.9997487664222717,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we were to engage in a merger, acquisition, bankruptcy, dissolution, reorganisation, or similar transaction or proceeding that involves the transfer of the information described in this Policy, we would share your information with a party involved in such a process (for example, a potential purchaser",
+            "conf": 0.9998940825462341,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we\u2019ll either remove it from our systems or depersonalize it so that we can't identify",
+            "conf": 0.9999651908874512,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Children under 13 are not allowed to use Pinterest",
+            "conf": 0.9999760389328003,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are based in the EEA you may only use Pinterest if you are over the age at which you can provide consent to data processing under the laws of your country or if verifiable parental consent for your use of Pinterest has been provided to us",
+            "conf": 0.9948036074638367,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you have problems updating the information or if you would like us to delete it, contact us",
+            "conf": 0.9969611167907715,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you opt out of receiving marketing messages from us, we may still send you newsletters and updates about your account, such as when another user comments on one of your Pins",
+            "conf": 0.999985933303833,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We only send you marketing material if you've agreed to it, but if you'd rather we don't, you can easily unsubscribe at any time",
+            "conf": 0.9999783635139465,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may change this policy from time to time and if we do, we\u2019ll post any changes on this page",
+            "conf": 0.998158872127533,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If the changes are significant, we may provide a more prominent notice or get your consent, as required by law",
+            "conf": 0.9616497159004211,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "is responsible for your information",
+            "conf": 0.9989218711853027,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date&nbsp;May 1, 2018",
+            "conf": 0.9999904632568359,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated June 28, 2019",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Any use or access by anyone under the age of 13 is prohibited",
+            "conf": 0.9999921321868896,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "simply put: You can use Pinterest unless you're under 13",
+            "conf": 0.9481239914894104,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to remove or modify User Content for any reason, including User Content that we believe violates these Terms or our policies",
+            "conf": 0.999990701675415,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "How long we keep your content Following termination or deactivation of your account, or if you remove any User Content from Pinterest, we may retain your User Content for a commercially reasonable period of time for backup, archival, or audit purposes.",
+            "conf": 0.9882000088691711,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "While we work to protect the security of your content and account, Pinterest cannot guarantee that unauthorized third parties will not be able to defeat our security measures",
+            "conf": 0.9986883401870728,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We do not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services",
+            "conf": 0.9076974391937256,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you access any third party website, service, or content from Pinterest, you do so at your own risk and you agree that Pinterest will have no liability arising from your use of or access to any third-party website, service, or content",
+            "conf": 0.9998783469200134,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Termination Pinterest may terminate or suspend this license at any time, with or without cause or notice to you",
+            "conf": 0.9511796236038208,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Indemnity If you use our Products for commercial purposes in violation of Section 1(c), as determined in our sole and absolute discretion, you agree to indemnify and hold harmless Pinterest and its officers, directors, employees and agents, from and against any claims, suits, proceedings, disputes, demands, liabilities, damages, losses, costs and expenses, including, without limitation, reasonable legal and accounting fees (including costs of defense of claims, suits or proceedings brought by third parties), in any way related to (a) your access to or use of our Products, (b) your User Content, or (c) your breach of any of these Terms",
+            "conf": 0.9948676228523254,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Disclaimers The Products and all included content are provided on an \"as is\" basis without warranty of any kind, whether express or implied",
+            "conf": 0.9998370409011841,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Pinterest takes no responsibility and assumes no liability for any User Content that you or any other user or third party posts or transmits using our Products",
+            "conf": 0.9999174475669861,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Limitation of Liability TO THE MAXIMUM EXTENT PERMITTED BY LAW, PINTEREST SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE PRODUCTS.",
+            "conf": 0.9898804426193237,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "put: We are building the best service we can for you but we can't promise it will be perfect",
+            "conf": 0.9534434080123901,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We're not liable for various things",
+            "conf": 0.9972373247146606,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "ALL CLAIMS MUST BE BROUGHT IN THE PARTIES' INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON'S CLAIMS",
+            "conf": 0.9999873042106628,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND PINTEREST ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION",
+            "conf": 0.9999995827674866,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Pinterest reserves the right to determine the form and means of providing notifications to you, and you agree to receive legal notices electronically if we so choose",
+            "conf": 0.9059163928031921,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may revise these Terms from time to time and the most current version will always be posted on our website",
+            "conf": 0.9950936436653137,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of any term of these Terms shall be deemed a further or continuing waiver of such term or any other term, and Pinterest's failure to assert any right or provision under these Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.9999983906745911,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Depending on how you",
+            "conf": 0.9990020990371704,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "\u2019re accessing our products, we may use \u201ccookies\u201d (a small text file sent by your computer each time you visit our website, unique to your Pinterest account or your browser), or similar technologies to record log data.",
+            "conf": 0.9936285018920898,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can decide to stop getting these updates by updating your account settings (or through other settings we may provide).",
+            "conf": 0.9948495626449585,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We may use or store information wherever Pinterest does business, including countries outside your own",
+            "conf": 0.9999900460243225,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you don\u2019t have a Pinterest account, or don\u2019t want us to customize Pinterest for you when you\u2019re signed out, you can opt out here",
+            "conf": 0.932721734046936,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Close your account at any time",
+            "conf": 0.9999186992645264,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "When you close your account, we\u2019ll deactivate it and remove your pins and boards from Pinterest",
+            "conf": 0.9831289649009705,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may engage in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Policy",
+            "conf": 0.9929410815238953,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our Policy on Children\u2019s Information Pinterest is not directed to children under 13",
+            "conf": 0.9973413944244385,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If the changes are significant, we may provide more prominent notice or obtain your consent as required by law",
+            "conf": 0.989967942237854,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 3.1
+}

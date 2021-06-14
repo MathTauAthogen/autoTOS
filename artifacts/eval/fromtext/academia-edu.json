@@ -1,0 +1,390 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated Date: May 15, 2017",
+            "conf": 0.9999983310699463,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "ARBITRATION NOTICE: UNLESS YOU OPT OUT OF ARBITRATION WITHIN 30 DAYS OF THE DATE YOU FIRST AGREE TO THESE TERMS BY FOLLOWING THE OPT-OUT PROCEDURE SPECIFIED IN THE \u201cARBITRATION\u201d SECTION BELOW, AND EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN THE \u201cARBITRATION \u201cSECTION BELOW, YOU AGREE THAT DISPUTES BETWEEN YOU AND ACADEMIA.EDU WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU ARE WAIVING YOUR RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR REPRESENTATIVE PROCEEDING.",
+            "conf": 0.9975147843360901,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Academia.edu reserves the right, at its sole discretion, to modify the Site, Services and these Terms, at any time and without prior notice",
+            "conf": 0.9998795390129089,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "We will also update the \u201cLast Updated Date\u201d at the top of these Terms",
+            "conf": 0.9987668991088867,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Site and Services are intended solely for persons who are 13 years of age or older",
+            "conf": 0.9999929070472717,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Any access to or use of the Site or Services by anyone under the age of 13 is expressly prohibited",
+            "conf": 0.9999949336051941,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By accessing or using the Site or Services you represent and warrant that you are 13 years of age or older",
+            "conf": 0.9999992847442627,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for safeguarding your password",
+            "conf": 0.9998867511749268,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you will not disclose your password to any third party and that you will take sole responsibility for any activities or actions under your Account, whether or not you have authorized such activities or actions.",
+            "conf": 0.999171257019043,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Subscription at any time",
+            "conf": 0.9998916983604431,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Cancelling your Subscription won\u2019t cancel your Account",
+            "conf": 0.9794838428497314,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that you are solely responsible for all Member Content that you make available through the Site or Services",
+            "conf": 0.9411594867706299,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Academia.edu reserves the right, at any time and without prior notice, to remove or disable access to any Collective Content, including, but not limited to, Collective Content that Academia.edu, at its sole discretion, considers to be in violation of these Terms or otherwise harmful to the Site or Services",
+            "conf": 0.999837338924408,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources or the content, products, or services on or available from such websites or resources",
+            "conf": 0.9974992871284485,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Academia.edu reserves the right, at its sole discretion, to discontinue or terminate the Site and Services and to terminate these Terms, at any time and without prior notice",
+            "conf": 0.9962289333343506,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If you breach any of these Terms, Academia.edu will have the right to suspend or disable your Account or terminate these Terms, at its sole discretion and without prior notice to you",
+            "conf": 0.9357926845550537,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Academia.edu reserves the right to revoke your access to and use of the Site, Services and Collective Content at any time, with or without cause",
+            "conf": 0.9999388456344604,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Account at any time by visiting your Account Settings page and clicking on \u201cRemove\u201d or by sending an email to feedback@academia.edu",
+            "conf": 0.9993467330932617,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "THE SITE, SERVICES AND COLLECTIVE CONTENT ARE PROVIDED \u201cAS IS\u201d, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED",
+            "conf": 0.9998965263366699,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ACADEMIA.EDU MAKES NO WARRANTY THAT THE SITE, SERVICES OR COLLECTIVE CONTENT WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS",
+            "conf": 0.9999711513519287,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ACADEMIA.EDU MAKES NO WARRANTY REGARDING THE QUALITY OF ANY PRODUCTS, SERVICES OR COLLECTIVE CONTENT PURCHASED OR OBTAINED THROUGH THE SITE OR SERVICES OR THE ACCURACY, TIMELINESS, TRUTHFULNESS, COMPLETENESS OR RELIABILITY OF ANY CONTENT OBTAINED THROUGH THE SITE OR SERVICES",
+            "conf": 0.9999421834945679,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM ACADEMIA.EDU OR THROUGH THE SITE, SERVICES OR COLLECTIVE CONTENT, WILL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN",
+            "conf": 0.9847784042358398,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU UNDERSTAND THAT ACADEMIA.EDU DOES NOT SCREEN OR INQUIRE INTO THE BACKGROUND OF ANY USERS OF THE SITE OR SERVICES, NOR DOES ACADEMIA.EDU MAKE ANY ATTEMPT TO VERIFY THE STATEMENTS OF USERS OF THE SITE OR SERVICES",
+            "conf": 0.9960455298423767,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ACADEMIA.EDU MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF USERS OF THE SITE OR SERVICES OR THEIR COMPATIBILITY WITH ANY CURRENT OR FUTURE USERS OF THE SITE OR SERVICES",
+            "conf": 0.9995574355125427,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify, and hold Academia.edu, its officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the Site, Services or Collective Content, or your violation of these Terms",
+            "conf": 0.9999979734420776,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NEITHER ACADEMIA.EDU NOR ANY OTHER PERSON OR ENTITY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SITE, SERVICES OR COLLECTIVE CONTENT WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR LOST PROFITS, LOSS OF DATA OR LOSS OF GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE PRODUCTS OR SERVICES, OR FOR ANY DAMAGES FOR PERSONAL OR BODILY INJURY OR EMOTIONAL DISTRESS ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE SITE, SERVICES OR COLLECTIVE CONTENT, OR FROM ANY COMMUNICATIONS, INTERACTIONS OR MEETINGS WITH OTHER USERS OF THE SITE OR SERVICES OR OTHER PERSONS WITH WHOM YOU COMMUNICATE OR INTERACT AS A RESULT OF YOUR USE OF THE SITE OR SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, WHETHER OR NOT ACADEMIA.EDU HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, AND WHETHER OR NOT FORESEEABLE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.",
+            "conf": 0.9999557733535767,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The exclusive jurisdiction and venue of any IP Protection Action or, if you timely provide Academia.edu with an Arbitration Opt-out Notice, any Dispute other than an individual action brought in small claims court, will be the state and federal courts located in the Northern District of California and each of the parties hereto waives any objection to jurisdiction and venue in such courts",
+            "conf": 0.9999800324440002,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Unless you timely provide CIR with an Arbitration Opt-out Notice, you acknowledge and agree that you and Academia.edu are each waiving the right to a trial by jury or to participate as a plaintiff or class member in any purported class action or representative proceeding",
+            "conf": 0.9999913573265076,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and Academia.edu otherwise agree in writing, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of any class or representative proceeding",
+            "conf": 0.9999924302101135,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Notwithstanding the provisions of the \u201cModification\u201d section above, if Academia.edu changes this \u201cDispute Resolution\u201d section after the date you first accepted these Terms (or accepted any subsequent changes to these Terms), you may reject any such change by sending us written notice (including by email to feedback@academia.edu) within 30 days of the date such change became effective, as indicated in the \u201cLast Updated Date\u201d above or in the date of Academia.edu\u2019s email to you notifying you of such change",
+            "conf": 0.9985486268997192,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Academia.edu to enforce any right or provision of these Terms will not constitute a waiver of future enforcement of that right or provision",
+            "conf": 0.999997079372406,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: May 23, 2018",
+            "conf": 0.9999983310699463,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your \u201cuser preferences\u201d information",
+            "conf": 0.9995346069335938,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Like many websites, Academia.edu uses cookies and similar technologies, including mobile application identifiers (collectively \u201cCookies",
+            "conf": 0.9951888918876648,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "), to collect information.",
+            "conf": 0.9550939202308655,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Please note that third party payment processors and third party advertisers on the Site may also place or read Cookies on your browser",
+            "conf": 0.9979057908058167,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A pixel tag (also known as a web beacon) is a piece of code embedded on the Site that collects information about users' engagement on that web page.",
+            "conf": 0.9967532157897949,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content.",
+            "conf": 0.9848051071166992,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Through our Academia.edu Service, we may allow Third-Party advertising partners to set tracking tools (e.g., cookies) to collect information regarding your activities (e.g., your IP address, page(s) visited, time of day).",
+            "conf": 0.998516321182251,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Merger, Sale, or Other Asset Transfers",
+            "conf": 0.9950209259986877,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract",
+            "conf": 0.9881829619407654,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you",
+            "conf": 0.9374696612358093,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites or applications",
+            "conf": 0.9968214631080627,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you completely delete all such information, then your Account may become deactivated",
+            "conf": 0.9999141097068787,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Where otherwise permitted by applicable law, please contact us at\u00a0privacy@academia.edu\u00a0or use any of the methods set out in this Privacy Policy to request access to, receive (port), seek rectification, or request erasure of Personal Information held about you by Academia.edu.",
+            "conf": 0.9835023283958435,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": ", we may still collect and use non-Personal Information regarding your activities on our Sites and/or information from the advertisements on Third Party websites for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements",
+            "conf": 0.9711263179779053,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails",
+            "conf": 0.9999847412109375,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may also send you certain non-promotional communications regarding Academia.edu and our services and you will not be able to opt out of those communications (e.g., communications regarding updates to our Terms or this Privacy Policy).",
+            "conf": 0.9998515248298645,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Your information may be transferred to \u2014 and maintained on \u2014 computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction",
+            "conf": 0.9999889731407166,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Your information collected through the Site may be stored and Processed in the United States or any other country in which Academia.edu maintains facilities",
+            "conf": 0.9999972581863403,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "This Site is not directed to persons under the age of 13",
+            "conf": 0.9999739527702332,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personally identifiable information from children under the age of 13",
+            "conf": 0.9994637966156006,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This Privacy Policy may change from time to time",
+            "conf": 0.9995591044425964,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may revise this Privacy Policy in our sole discretion, so review it periodically",
+            "conf": 0.9996950030326843,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective immediately when it is posted (or upon notice as applicable).",
+            "conf": 0.9999600052833557,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 1.6
+}

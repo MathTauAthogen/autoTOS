@@ -1,0 +1,754 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Discogs  February 20, 2018 16:55 Follow Welcome",
+            "conf": 0.9940404295921326,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: May 25, 2018",
+            "conf": 0.9999970197677612,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If You are under the minimum age of consent to enter into a contract in Your jurisdiction, then You may not use or access the Services at any time or in any manner",
+            "conf": 0.9999683499336243,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "For example, in the United States, You must be at least 13 years of age to establish an account and use the Service and You\u00a0must be at least 18 years old to purchase and sell items through the Service.",
+            "conf": 0.991139829158783,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Discogs may at any time revise the TOS by updating this posting",
+            "conf": 0.9998879432678223,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Discogs reserves the right to modify or discontinue the Service with or without notice to You",
+            "conf": 0.9999963045120239,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Discogs shall not be liable to You or any third party should Discogs exercise TOS right to modify or discontinue the Service",
+            "conf": 0.9886321425437927,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold Discogs, and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any alleged claim or demand, including reasonable attorney fees, made by any third party due to or arising out of Your use of the Service, Your connection to the Service, Your violation of the TOS, or Your violation of any rights of another, whether You are a registered user or not",
+            "conf": 0.9999967217445374,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for Your actions when using the Service, including, but not limited to, costs incurred for Internet access",
+            "conf": 0.9309058785438538,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are entirely responsible for any and all activities which occur under Your account if You do not maintain the confidentiality of Your password and account.",
+            "conf": 0.9995700716972351,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Furthermore, You are entirely responsible for any and all activities which occur under Your account by You or someone You authorize to use Your account.",
+            "conf": 0.9955936074256897,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may change Your password at any time",
+            "conf": 0.9994031190872192,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may also set up a new account and close an old one at Your convenience",
+            "conf": 0.9230913519859314,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "You agree that Discogs, in its sole discretion, may terminate Your account, and remove and discard any content within the Service, for any reason, including and without limitation, the lack of use, or if Discogs finds that You have violated or acted inconsistently with the letter or spirit of the TOS",
+            "conf": 0.9999073147773743,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that any termination of Your access to the Service under any provision of this TOS may be effected without prior notice, and acknowledge and agree that Discogs may immediately deactivate or delete Your Discogs account and any or all related information and files",
+            "conf": 0.9999714493751526,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Because Discogs has no control over such sites and resources, You acknowledge and agree that Discogs is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such sites or resources.",
+            "conf": 0.9943749308586121,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You further acknowledge and agree that Discogs shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.",
+            "conf": 0.9994129538536072,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Your are solely responsible for the contents of Your transmissions through the Service, including any content transmitted through Your account, if applicable",
+            "conf": 0.9613518714904785,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "In addition, Discogs may, at its sole discretion, immediately terminate Your Service should Your conduct fail to conform with these terms and conditions of the TOS",
+            "conf": 0.9617329835891724,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "If You exercise Your right to erasure or deletion of personal information pursuant to the Privacy Policy, (i) Your user-generated content will be anonymized by having the user name replaced by a generic term (i.e., \"previous user1234\" or simply \"user1234\"), and (ii) Discogs is entitled to continue using this anonymized user-generated content pursuant to the rights granted above.",
+            "conf": 0.9963445067405701,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9999459981918335,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(b) DISCOGS MAKES NO WARRANTY THAT (i) THE SERVICE WILL MEET YOUR REQUIREMENTS, (ii) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS, AND (V) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED",
+            "conf": 0.9999825954437256,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "(c) ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA OR OTHER LIABILITY THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.",
+            "conf": 0.9855551719665527,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT DISCOGS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF DISCOGS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (i) THE USE OR THE INABILITY TO USE THE SERVICE.",
+            "conf": 0.9999303221702576,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Discogs to exercise and enforce any right or provision of the TOS shall not constitute a waiver of such right or provision",
+            "conf": 0.9998563528060913,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If a court finds any portion of the TOS to be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable",
+            "conf": 0.9799215793609619,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: August 3,2018",
+            "conf": 0.9999966025352478,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "These are stored on your browser cache or mobile device until You choose to delete them",
+            "conf": 0.9979307651519775,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Third-party Cookies: Our sites also uses third-party cookies to anonymously track web usage and analytics, such as:",
+            "conf": 0.9999973773956299,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Most third-party cookies are not essential\u00a0to site browsing experience other than collecting data on how We can improve the site based on anonymous browsing behaviors and for the third-party advertisers to show You relevant ads",
+            "conf": 0.9991591572761536,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also partner with third-party services, who may use various tracking technologies to provide certain services or features, including targeted online marketing techniques such as attribution tracking, remarketing, and cross-device tracking.",
+            "conf": 0.9803676009178162,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Some of these third-party services may provide us with information about You (such as demographic information, cross-device information, or interest categories) so that we may provide You with more relevant and useful advertising, enhance Our data, improve Our Services, or for marketing purposes.",
+            "conf": 0.9908723831176758,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not allow third parties to access personally identifiable information from Us via cookies or tracking technology",
+            "conf": 0.9672250747680664,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "However, these technologies may allow Us or a third party to recognize You, either across devices or over time",
+            "conf": 0.9914872050285339,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can delete all cookies that are already on Your computer and You can set most browsers to prevent them from being placed",
+            "conf": 0.9010698795318604,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "This list will change from time to time, so please check back often for updates",
+            "conf": 0.9967414140701294,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In addition, third parties not associated with us may also place cookies on your browser from time to time",
+            "conf": 0.9987092018127441,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Although non-personalized ads don\u2019t use cookies or mobile ad identifiers for ad targeting, they do still use cookies or mobile ad identifiers for frequency capping, aggregated ad reporting, and to combat fraud and abuse",
+            "conf": 0.9936466813087463,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "On Our sites and unaffiliated sites, We display interest-based advertising using information You make available to Us when You interact with Our sites, content, or services",
+            "conf": 0.9975483417510986,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Interest-based ads (i.e., personalized or targeted ads) are displayed to You based on information from activities such as interacting with Our sites, use of devices, apps or software, or visiting sites that contain Our content or ads",
+            "conf": 0.9881536364555359,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "However, advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalised ad or content are part of the group that the ad or content is directed towards (for example, users in a particular geographical area or users who bought or browsed for specific categories of goods).",
+            "conf": 0.9999033212661743,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not have access to or control over cookies or other features that advertisers and third-party sites may use, and the information practices of these advertisers and third-party websites are not covered by Our Privacy Policy or this Cookies and Internet Advertising Policy",
+            "conf": 0.9858291149139404,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "You can learn more about managing your preferences for ads online, particularly for many third-party advertising networks, through the following resources:",
+            "conf": 0.9993445873260498,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: May 25, 2018",
+            "conf": 0.9999970197677612,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We keep Your Personal Information as long as necessary to provide the Services to You and as required by applicable laws and regulations",
+            "conf": 0.9694213271141052,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We Ourselves generally do not collect Personal Information about You from any source other than You",
+            "conf": 0.9407587051391602,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies and other technology to keep track of Your online interaction with Our site",
+            "conf": 0.9587217569351196,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also may use third-party advertising, and the companies providing this third-party advertising may use their own cookies",
+            "conf": 0.996621310710907,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We retain Your Personal Information only as long as needed to provide You the Services",
+            "conf": 0.9993878602981567,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Except as otherwise provided by this Policy, or when deleted or destroyed at Your request, We typically maintain data and communications for a period of two years as is common in the industry",
+            "conf": 0.9999616146087646,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may keep the minimal necessary data on You after You have deactivated Your account for the period of time needed for Us to pursue legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes and enforce Our agreements",
+            "conf": 0.9979782700538635,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If You have previously consented to receive newsletters or other commercial emails, then You may opt out in Your notification preferences or from within the email messages themselves",
+            "conf": 0.9999971985816956,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not otherwise share Your information with any third parties",
+            "conf": 0.9998349547386169,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not provide or sell email addresses or collection/wantlist data to any third party without Your consent",
+            "conf": 0.999975323677063,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not provide or sell Your Personal Information or any other information You have provided to Us to any third party for direct marketing or advertising purposes without Your consent",
+            "conf": 0.9999364614486694,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The Services are not intended for use by children under 13 years of age in the United States",
+            "conf": 0.9999810457229614,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "IF YOU ARE UNDER THE MINIMUM AGE FOR YOUR JURISDICTION, DO NOT USE OR ACCESS THE PROVIDER SERVICES AT ANY TIME OR IN ANY MANNER",
+            "conf": 0.9999311566352844,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If You are a minor under the age of 18 residing in the State of California, United States, You have additional rights under California law",
+            "conf": 0.9977982044219971,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You may request removal of any information or content You posted while under the age of 18",
+            "conf": 0.9992398619651794,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "In addition, if at any time You delete Your account, We can guarantee complete removal of Your information from the Service",
+            "conf": 0.965771496295929,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may also withdraw consent for marketing emails by selecting the \u201cUnsubscribe From Emails\u201d button at the bottom of the Notification Settings page",
+            "conf": 0.997038722038269,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that others not covered by this Policy will have access to Your public postings and We cannot be responsible for any subsequent use of data contained in Your public postings.",
+            "conf": 0.9930237531661987,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to Our website.",
+            "conf": 0.9891403913497925,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use Remarketing with Google Analytics and Hivewyre to advertise online",
+            "conf": 0.9999427199363708,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third-party vendors, including Google, show Our ads on sites across the Internet",
+            "conf": 0.960449755191803,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Your Right to Access, Alter, or Erase Your Personal Information",
+            "conf": 0.994775652885437,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You have a right to obtain erasure of the Personal Information You have provided to Us related to Your use of the Services",
+            "conf": 0.9706730246543884,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We cannot guarantee that Your username as associated with any information You posted in public forums and discussions will be fully erased as users have access to those areas of Our site and may have used or republished such information, including Your username, prior to the time of Your request, subject to Our Terms of Service",
+            "conf": 0.9106773138046265,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We may need to maintain certain information for longer than 30 days in order to carry out Our contractual obligations to You",
+            "conf": 0.9927543997764587,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You may submit a request for erasure by completing the Request Erasure of Data form in Our support center",
+            "conf": 0.9657070636749268,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We may amend this Policy at any time by posting the amended terms on this site and notifying You of material changes to the Policy along with an opportunity to opt-in to changes that require Your consent by law or regulation or to opt-out of any changes that decrease Your rights under this Policy",
+            "conf": 0.9972239136695862,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "In the event that Discogs goes through a business transfer such as a consolidation, merger, restructuring, acquisition, or sale of part or all of Our assets, We will obtain Your consent to the transfer of Your information as permitted by law and to the continued use of Your information by the recipient following the transfer so long as they comply with this Policy",
+            "conf": 0.9804175496101379,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out, please fill out this short form here",
+            "conf": 0.9998049139976501,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards",
+            "conf": 0.9980723857879639,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Discogs may at any time revise the",
+            "conf": 0.9987831711769104,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Labels TOS by updating this posting",
+            "conf": 0.9923986196517944,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Discogs reserves the right to modify or discontinue the Shipping Labels Service with or without notice to Member",
+            "conf": 0.9998846650123596,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold Discogs, and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any alleged claim or demand, including reasonable attorney fees, made by any third party due to or arising out of your use of the Shipping Labels Service, your connection to the Shipping Labels Service, your violation of the Shipping Labels TOS, or your violation of any rights of another, whether you are a registered user or not",
+            "conf": 0.9999964237213135,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SHIPPING LABELS SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9998717308044434,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(b) DISCOGS MAKES NO WARRANTY THAT (i) THE SHIPPING LABELS SERVICE WILL MEET YOUR REQUIREMENTS, (ii) THE SHIPPING LABELS SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SHIPPING LABELS SERVICE WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SHIPPING LABELS SERVICE WILL MEET YOUR EXPECTATIONS, AND (V) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.",
+            "conf": 0.9987426400184631,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "(c) ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE",
+            "conf": 0.947390079498291,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "LABELS SERVICE IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA OR OTHER LIABILITY THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL",
+            "conf": 0.9876046776771545,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT DISCOGS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF DISCOGS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (i) THE USE OR THE INABILITY TO USE THE SHIPPING LABELS SERVICE.",
+            "conf": 0.9999463558197021,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Discogs to exercise and enforce any right or provision of the Shipping Labels TOS shall not constitute a waiver of such right or provision",
+            "conf": 0.999640941619873,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If a court finds any portion of the Shipping Labels TOS to be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the Shipping Labels TOS will remain valid and enforceable",
+            "conf": 0.9638442993164062,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: January 30, 2018",
+            "conf": 0.9999970197677612,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "options, but has the right to remove options at any time that pose a threat to the",
+            "conf": 0.9253968000411987,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not share any secure information, such as credit card or bank account information, directly with sellers",
+            "conf": 0.9971363544464111,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last modified on: February 21, 2018",
+            "conf": 0.9999977946281433,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If You are under the minimum age of consent to enter into a contract in your jurisdiction, then You may not use or access Our API or the Content",
+            "conf": 0.9999799728393555,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Discogs does not direct or offer any of its services to children under the age of 13 in the United States",
+            "conf": 0.9999741315841675,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Therefore, in the United States, You must be at least 13 years of age to access Our API and the Content",
+            "conf": 0.9999919533729553,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Discogs may terminate Your access to Our API at any time and for any reason, in its sole discretion",
+            "conf": 0.9975627660751343,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that the termination of Your access to Our API may be effected without prior notice, and acknowledge and agree that Discogs may immediately deactivate or delete Your Discogs account and any or all related information and files",
+            "conf": 0.9999156594276428,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Discogs reserves the right to modify or discontinue Our API and the Content therein with or without notice to You",
+            "conf": 0.9999942779541016,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Because Discogs has no control over such sites and resources, \u00a0Discogs is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such sites or resources.",
+            "conf": 0.9947946667671204,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "DISCOGS SHALL NOT BE RESPONSIBLE OR LIABLE, DIRECTLY OR INDIRECTLY, FOR ANY DAMAGE OR LOSS CAUSED OR ALLEGED TO BE CAUSED BY OR IN CONNECTION WITH USE OF OR RELIANCE ON ANY SUCH CONTENT, GOODS OR SERVICES AVAILABLE ON OR THROUGH ANY SUCH SITE OR RESOURCE.",
+            "conf": 0.9985681772232056,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "OUR API AND THE CONTENT IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.999902069568634,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(b) DISCOGS MAKES NO WARRANTY THAT (i) OUR API OR THE CONTENT WILL MEET YOUR REQUIREMENTS, (ii) OUR API OR THE CONTENT WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF OUR API AND/OR THE CONTENT WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY INFORMATION OBTAINED BY YOU THROUGH OUR API OR THE CONTENT WILL MEET YOUR EXPECTATIONS, AND (V) ANY ERRORS IN OUR API OR THE CONTENT WILL BE CORRECTED",
+            "conf": 0.9998465776443481,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "(c) ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF OUR API OR THE CONTENT IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA OR OTHER LIABILITY THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.",
+            "conf": 0.9939291477203369,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "DISCOGS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF DISCOGS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (i) THE USE OR THE INABILITY TO USE OUR API OR THE CONTENT.",
+            "conf": 0.9999240040779114,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "To the maximum extent permitted by applicable law, You hereby release and waive all claims against Discogs, and Our subsidiaries, affiliates, officers, agents, licensors, or other partners, and employees from any and all liability for claims, damages (actual and/or consequential), costs and expenses (including litigation costs and attorneys\u2019 fees) of every kind and nature, arising from or in any way related to your use of the API and the content",
+            "conf": 0.9998506903648376,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "For the avoidance of doubt, when You use Our API or the Content for any reason, You (and Your successors in interest) acknowledge Our API and the Content is offered with no warranty of non-infringement",
+            "conf": 0.9311692118644714,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for Your actions when using Our API and the",
+            "conf": 0.9497273564338684,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold Discogs, and its subsidiaries, affiliates, directors, officers, members, managers, agents, co-branders or other partners, and employees, harmless from any alleged claim or demand, including reasonable attorneys\u2019 fees, made by any third party due to or arising out of Your use of Our API or the Content, Your connection to Our API, Your violation of these TOU, or Your violation of any rights of another in connection with Your use of Our API or the Content",
+            "conf": 0.9999968409538269,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Discogs to exercise and enforce any right or provision of the TOU shall not constitute a waiver of such right or provision",
+            "conf": 0.9999976754188538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If a court finds any portion of these TOU to be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOU will remain valid and enforceable",
+            "conf": 0.9390144348144531,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.8
+}

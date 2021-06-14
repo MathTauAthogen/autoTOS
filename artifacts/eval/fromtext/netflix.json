@@ -1,0 +1,355 @@
+{
+    "predictions": [
+        {
+            "label": "2",
+            "text": "information collected via the use of cookies, web beacons and other technologies, including ad data (such as information on the availability and delivery of ads, the site URL, as well as the date and time).",
+            "conf": 0.9999738335609436,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not authorize them to use or disclose your personal information except in connection with providing their services",
+            "conf": 0.9738549590110779,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "In connection with any reorganization, restructuring, merger or sale, or other transfer of assets, we will transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our Privacy Statement",
+            "conf": 0.9980819821357727,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Whenever in the course of sharing information we transfer personal information to countries outside of the European Economic Area and other regions with comprehensive data protection laws, we will ensure that the information is transferred in accordance with this Privacy Statement and as permitted by the applicable laws on data protection",
+            "conf": 0.9847327470779419,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "To remove access to your Netflix account from your devices: (a) visit the \"Account\" section of our website, choose \"Sign out of all devices,\" and follow the instructions to deactivate your devices (note, deactivation may not occur immediately) or (b) delete your Netflix settings from your device (steps vary by device and the option is not available on all devices).",
+            "conf": 0.9508814811706543,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "If you do not maintain the security of your password or device, or fail to log out or deactivate your device, subsequent users may be able to access your account, including your personal information",
+            "conf": 0.9786457419395447,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you no longer want to receive certain communications from us via email or text message, simply access the \"Communications Settings\" option in the \"Account\" section of our website and uncheck those items to unsubscribe",
+            "conf": 0.9995191097259521,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that you cannot unsubscribe from service-related correspondence from us, such as messages relating to your account transactions",
+            "conf": 0.9999842643737793,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "If you are using a browser, then cookies and web beacons can be used to collect information to help determine your likely interests.",
+            "conf": 0.9891710877418518,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can request access to your personal information, or correct or update out-of-date or inaccurate personal information we hold about you",
+            "conf": 0.9969015717506409,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You may also request that we delete personal information that we hold about you",
+            "conf": 0.9979025721549988,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We take reasonable measures to destroy or de-identify personal information in a secure manner when it is no longer required",
+            "conf": 0.9999857544898987,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Unfortunately, no measures can be guaranteed to provide 100% security",
+            "conf": 0.9954566359519958,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Children You must be 18 years of age or older to subscribe to the Netflix service",
+            "conf": 0.9999951720237732,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In certain jurisdictions, the age of majority may be older than 18, in which case, you must satisfy that age in order to become a member",
+            "conf": 0.9999896287918091,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "While individuals under the age of 18 may utilize the service, they may do so only with the involvement, supervision, and approval of a parent or legal guardian",
+            "conf": 0.999997079372406,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We will update this Privacy Statement from time to time in response to changing legal, regulatory or operational requirements",
+            "conf": 0.9864925146102905,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will provide notice of any such changes (including when they will take effect) in accordance with law",
+            "conf": 0.9991477727890015,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "To see when this Privacy Statement was last updated, please see the \"Last Updated\" section below",
+            "conf": 0.9999238848686218,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We and our Service Providers use cookies and other technologies (such as web beacons), as well as advertising identifiers, for various reasons",
+            "conf": 0.9999843239784241,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use cookies, as well as advertising identifiers, to learn more about our users and their likely interests, and to deliver and tailor marketing or advertising.",
+            "conf": 0.9839704632759094,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Advertising identifiers are similar to cookies and are found on many mobile devices and tablets (for example, the \"",
+            "conf": 0.9346156716346741,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use these cookies to collect information (such as popular pages, conversion rates, viewing patterns, click-through and other information) about our visitors' use of the Netflix service so that we can enhance and personalize our website and service and conduct market research.",
+            "conf": 0.9722340703010559,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These cookies and advertising identifiers use information about your use of this and other websites and apps, your response to ads and emails, and to deliver ads that are more relevant to you",
+            "conf": 0.9959954619407654,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These types of ads are called \"interest-based advertising.\" Many of the advertising cookies associated with our service belong to our Service Providers",
+            "conf": 0.9979737401008606,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For more information about cookies set through our website, as well as other types of online tracking (including the collection of information by third parties about your online activities over time and across third-party Web sites or online services for online interest based advertising), and to exercise choices regarding them, click here",
+            "conf": 0.9933464527130127,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "At this time, we do not respond to Web browser \"do not track\" signals",
+            "conf": 0.9999845027923584,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons (also known as clear gifs or pixel tags) often work in conjunction with cookies.",
+            "conf": 0.9896332025527954,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We and our Service Providers may use them for similar purposes as cookies, such as to understand and enhance the use of our service, improve site performance, monitor visitor traffic and actions on our site, and understand interactions with our marketing (including email and online ads on third party sites",
+            "conf": 0.9999998807907104,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Because web beacons often work in conjunction with cookies, in many cases",
+            "conf": 0.9267381429672241,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Like cookies, some of these technologies may store small amounts of data on your device.",
+            "conf": 0.9797235131263733,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may use these and various other technologies for similar purposes as cookies, such as to enforce our terms, prevent fraud, and analyze the use of our service",
+            "conf": 0.9550900459289551,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: 11 May 2018",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE TO THE ARBITRATION AGREEMENT AND CLASS ACTION WAIVER DESCRIBED IN SECTION 7 TO RESOLVE ANY DISPUTES WITH NETFLIX (EXCEPT FOR MATTERS THAT MAY BE TAKEN TO SMALL CLAIMS COURT).",
+            "conf": 0.9999908208847046,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the products and services provided by such third parties",
+            "conf": 0.9919447302818298,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel your Netflix membership at any time, and you will continue to have access to the Netflix service through the end of your monthly billing period",
+            "conf": 0.9991554617881775,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you cancel your membership, your account will automatically close at the end of your current billing period",
+            "conf": 0.9955184459686279,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change our subscription plans or adjust pricing for our service or any components thereof in any manner and at any time as we may determine in our sole and absolute discretion",
+            "conf": 0.9490412473678589,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You must be 18 years of age, or the age of majority in your province, territory or country, to become a member of the Netflix service",
+            "conf": 0.9999954700469971,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Individuals under the age of 18, or applicable age of majority, may utilize the service only with the involvement of a parent or legal guardian, under such person's account and otherwise subject to these Terms of Use",
+            "conf": 0.9999927282333374,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You can at any time opt-out of tests by visiting the \"Account\" page and changing the \"Test participation\" settings",
+            "conf": 0.994681179523468,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Netflix makes no representations or warranties about the quality of your",
+            "conf": 0.9279987812042236,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE NETFLIX SERVICE AND ALL CONTENT AND SOFTWARE ASSOCIATED THEREWITH, OR ANY OTHER FEATURES OR FUNCTIONALITIES ASSOCIATED WITH THE NETFLIX SERVICE, ARE PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND",
+            "conf": 0.9999831318855286,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "NETFLIX DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE NETFLIX SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE",
+            "conf": 0.9999832510948181,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE EXTENT PERMISSIBLE UNDER APPLICABLE LAWS, IN NO EVENT SHALL NETFLIX, OR ITS SUBSIDIARIES OR ANY OF THEIR SHAREHOLDERS, DIRECTORS, OFFICERS, EMPLOYEES OR LICENSORS BE LIABLE (JOINTLY OR SEVERALLY) TO YOU FOR PERSONAL INJURY OR ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER.",
+            "conf": 0.9964168667793274,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and Netflix are each waiving the right to a trial by jury or to participate in a class action",
+            "conf": 0.9999830722808838,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND NETFLIX AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999929666519165,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and Netflix agree otherwise, the arbitrator may not consolidate more than one person's claims with your claims, and may not otherwise preside over any form of a representative or class proceeding",
+            "conf": 0.9999963641166687,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Netflix may, from time to time, change these Terms of Use",
+            "conf": 0.9997294545173645,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: 11 May 2018",
+            "conf": 0.9999976754188538,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.3
+}

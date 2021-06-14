@@ -1,0 +1,383 @@
+{
+    "predictions": [
+        {
+            "label": "2",
+            "text": "Web Beacons (also known as \u201cclear gifs,\u201d \u201cweb bugs\u201d or \u201cpixel tags\u201d) \u2013 \u201cWeb Beacons\u201d are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Sites and to help determine the effectiveness of promotional or advertising campaigns.",
+            "conf": 0.9997503161430359,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "When used in HTML-formatted email messages, web beacons can tell the sender whether and when the",
+            "conf": 0.9526143074035645,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In contrast to cookies, which are stored on a user\u2019s computer hard drive, web beacons are embedded invisibly on web pages.",
+            "conf": 0.9953334927558899,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": ") To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets",
+            "conf": 0.9906308650970459,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your personally identifiable information to any third parties",
+            "conf": 0.9512652158737183,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We may share this non-personal information with third parties",
+            "conf": 0.9141882061958313,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The information that is collected will only be used for the requested purpose and will be deleted immediately",
+            "conf": 0.9987298250198364,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Discovery will not store or otherwise use that information",
+            "conf": 0.999674916267395,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Parents may also contact us at any time to request that we delete the personally identifiable information of a child or a parent and/or refuse to permit further collection or use of a child\u2019s information",
+            "conf": 0.9924466013908386,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "If you choose to provide us with personally identifiable information, Discovery may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world",
+            "conf": 0.9999960064888,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:",
+            "conf": 0.9660345911979675,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional",
+            "conf": 0.99896639585495,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites or if you do not want us to share your personally identifiable information with third parties",
+            "conf": 0.9999495148658752,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us",
+            "conf": 0.9714145064353943,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed",
+            "conf": 0.9998276829719543,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You also may opt-out of receiving such emails by clicking on the \u201cunsubscribe\u201d link within the text of the email",
+            "conf": 0.9999877214431763,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices or the content of these other web sites",
+            "conf": 0.9999942779541016,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on the Sites",
+            "conf": 0.9997932314872742,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered",
+            "conf": 0.950572669506073,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event that all or part of our assets or sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites",
+            "conf": 0.958314061164856,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change this privacy policy from time to time",
+            "conf": 0.9997429251670837,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "When we do, we will also revise the \u201clast update\u201d date at the bottom of this privacy policy",
+            "conf": 0.9882453680038452,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "For changes to this privacy policy that may be materially less restrictive on our",
+            "conf": 0.9467042088508606,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "No data transmissions over the Internet can be guaranteed to be 100% secure",
+            "conf": 0.936926543712616,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "We will not knowingly allow anyone under the age of thirteen to register with any of our Sites, or to access those features that require registration, except as explicitly disclosed herein",
+            "conf": 0.9999966621398926,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Neither party shall have the right to have a dispute heard as a class action and no arbitration or proceeding can be combined with another without the prior written consent of all parties to the proceeding",
+            "conf": 0.9999908804893494,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated on August 28, 2018",
+            "conf": 0.9999968409538269,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "we may change the terms of this",
+            "conf": 0.998652458190918,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Agreement from time to time",
+            "conf": 0.9989407658576965,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may change, restrict access to, suspend or discontinue the Discovery Sites, or any portion of the Discovery Sites, at any time",
+            "conf": 0.9999977350234985,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Despite our efforts to provide useful and accurate information, errors may appear from time to time",
+            "conf": 0.9979756474494934,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Discovery and its information providers make no warranty as to the reliability, accuracy, timeliness, usefulness or completeness of the information on the Discovery Sites",
+            "conf": 0.9999983310699463,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Discovery is not responsible for, and cannot guarantee the performance of, goods and services provided by our advertisers or others to whose sites we link",
+            "conf": 0.9886322021484375,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We may give notice to our users by means of a general notice on any of our websites, electronic mail to a user\u2019s e-mail address in our records, or written communication sent by first-class mail to a user\u2019s physical address in our records",
+            "conf": 0.9092090129852295,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend and hold harmless the DCI Parties from any and all claims arising from their use and distribution of your Video Submission as permitted herein",
+            "conf": 0.9999816417694092,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not endorse or guarantee the accuracy of any posting, regardless of whether the posting comes from a user, from a celebrity or \u201cexpert\u201d guest, or from a member of our staff",
+            "conf": 0.9946383237838745,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Discovery shall have the right, in its sole discretion, to edit, move, delete, or refuse to post any material, including but not limited to Video Submissions, submitted to or posted on the Discovery Sites for any reason, including violation of this Visitor\u2019s Agreement, whether for legal or other reasons, or because the material is objectionable or stale",
+            "conf": 0.9999319911003113,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Discovery also reserves the right to disclose any information that Discovery believes necessary to satisfy any law, regulation or governmental request, or to refuse to post or to remove any information or materials, in whole or in part",
+            "conf": 0.999817967414856,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Though we may post follow-up reports, and may continue to provide access to the original report, as in an archive of news stories, for example, we do not go back and change the original report to reflect new developments",
+            "conf": 0.9728833436965942,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 13 years old to register on the Discovery Sites",
+            "conf": 0.9999422430992126,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By registering on the Discovery Sites, you warrant that you are at least 13 years",
+            "conf": 0.9998772740364075,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "old.&nbsp;",
+            "conf": 0.9437628984451294,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Discovery reserves the right to reject or terminate any user name or password that, in its judgment, it deems offensive",
+            "conf": 0.9363827109336853,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You will be responsible for preserving the confidentiality of your password and will notify Discovery of any known or suspected unauthorized use of your account.",
+            "conf": 0.9985959529876709,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Further, you agree that you are responsible for all statements made and acts or omissions that occur on your account while your password is being used.",
+            "conf": 0.9954406023025513,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We work hard to make the Discovery Sites interesting and enjoyable places, but we cannot guarantee that our users will always find everything to their liking",
+            "conf": 0.999958336353302,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU UNDERSTAND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM ANY MATERIAL AND/OR DATA DOWNLOADED FROM OR OTHERWISE PROVIDED THROUGH THE DISCOVERY SITES.",
+            "conf": 0.9850253462791443,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE DISCOVERY SITES ARE PROVIDED TO YOU AS IS, WITH ALL FAULTS, AND AS AVAILABLE",
+            "conf": 0.9998978972434998,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE DISCOVERY SITES, DISCOVERY COMMUNICATIONS, LLC AND THEIR AFFILIATES, AGENTS AND LICENSORS CANNOT AND DO NOT WARRANT THE ACCURACY, COMPLETENESS, CURRENTNESS, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE INFORMATION AVAILABLE THROUGH THE DISCOVERY SITES, NOR DO THEY GUARANTEE THAT THE DISCOVERY SITES WILL BE ERROR-FREE OR CONTINUOUSLY AVAILABLE, OR THAT THE DISCOVERY SITES WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS",
+            "conf": 0.999994695186615,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES WILL THE DISCOVERY SITES, DISCOVERY COMMUNICATIONS, LLC OR THEIR AFFILIATES, AGENTS OR LICENSORS BE LIABLE TO YOU OR ANYONE ELSE FOR ANY DAMAGES ARISING OUT OF USE OF THE DISCOVERY SITES, INCLUDING, WITHOUT LIMITATION, LIABILITY FOR CONSEQUENTIAL, SPECIAL, INCIDENTAL, INDIRECT OR SIMILAR DAMAGES, EVEN IF WE ARE ADVISED BEFOREHAND OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9994596838951111,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN SUCH STATES, THE LIABILITY OF THE DISCOVERY SITES, DISCOVERY COMMUNICATIONS, LLC AND THEIR AFFILIATES, AGENTS AND LICENSORS IS LIMITED TO THE FULLEST EXTENT PERMITTED BY SUCH STATE LAW.) YOU AGREE THAT THE LIABILITY OF THE DISCOVERY SITES, DISCOVERY COMMUNICATIONS, LLC AND THEIR AFFILIATES, AGENTS AND LICENSORS, IF ANY, ARISING OUT OF ANY KIND OF LEGAL CLAIM IN ANY WAY CONNECTED TO THE DISCOVERY SITES WILL NOT EXCEED THE AMOUNT, IF ANY, YOU PAID TO DISCOVERY COMMUNICATIONS, LLC FOR THE USE OF THE DISCOVERY SITES",
+            "conf": 0.9850239753723145,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Neither party shall have the right to have a dispute heard as a class action and no arbitration or proceeding can be combined with another without the prior written consent of all parties to the proceeding",
+            "conf": 0.9999908804893494,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend and hold harmless Discovery Communications, LLC, its affiliates, and their officers, directors, employees, agents, licensors and suppliers, from and against any and all losses, expenses, damages and costs (including reasonable attorneys\u2019 fees) resulting from any violation of this Visitor Agreement or any activity related to your account (including negligent or wrongful conduct) by you or any other person accessing any Discovery Site using your account",
+            "conf": 0.9999989867210388,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated February 10, 2015",
+            "conf": 0.9999978542327881,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.0
+}

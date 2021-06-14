@@ -1,0 +1,131 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Version 2.0, last updated: May 18th, 2018",
+            "conf": 0.9999980330467224,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "JetBrains reserves the right, at its sole discretion, to change, add, or remove any part of these Terms of Use at any time without prior notice to you.",
+            "conf": 0.9845502376556396,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may, at our discretion, choose to notify those subscribed to our newsletters and RSS feeds of such changes",
+            "conf": 0.9954005479812622,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "JetBrains is neither responsible nor liable for the privacy of any information that you choose to post to its websites, including in its blogs, or for the accuracy of any information contained in those postings",
+            "conf": 0.9998517036437988,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": ", pixel tags, and other technologies",
+            "conf": 0.9530634880065918,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "other tracking technologies (including clear GIFs, pixel tags, and other technologies",
+            "conf": 0.9239879846572876,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "No personal data is kept in logs for more than 30 days",
+            "conf": 0.9996331334114075,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We, and our third party service providers, use cookies and other tracking technologies (\"Cookies\") on our Website and client portals (collectively our \"Website\").",
+            "conf": 0.9970680475234985,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "With your consent, we may also use Cookies, for analytics purposes and for targeted advertising (\"Commercial Purposes\").",
+            "conf": 0.9996376037597656,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Any personal data collected by these technologies will be stored and processed for no longer than 1 year",
+            "conf": 0.991872251033783,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies",
+            "conf": 0.9678574204444885,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In contrast to cookies, which are stored on your computer's hard drive, clear GIFs are embedded invisibly on web pages",
+            "conf": 0.9873082637786865,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "web beacons, web bugs or pixel tags), in connection with our Website to, among other things, track the activities of Website visitors, help us manage content, and compile statistics about Website usage.",
+            "conf": 0.9952083826065063,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Cookies are used to track your visit to our Website and other websites, including the pages you have visited and the links you have followed, which allows third parties to display targeted ads to you on the websites you visit",
+            "conf": 0.9978687763214111,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Opting out from one or more companies listed on the DAA Consumer Choice Page or the NAI Consumer Opt-Out Page will opt you out from those companies' delivery of interest-based content or ads to you, but it does not mean you will no longer receive any advertising through our Website or on other websites.",
+            "conf": 0.9915820956230164,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Currently, our systems do not recognize browser \"do-not-track\" requests",
+            "conf": 0.9999896287918091,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "JetBrains is not responsible for the privacy practices or content of such linked websites",
+            "conf": 0.9980533123016357,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "f) JetBrains reserves the exclusive right to revoke authorization to view, download, and print Site content at any time, and you shall discontinue such use immediately upon notice from JetBrains",
+            "conf": 0.9999531507492065,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.2
+}

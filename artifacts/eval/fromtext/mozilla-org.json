@@ -1,0 +1,138 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Note: these are the guidelines as of March 2019",
+            "conf": 0.9999691843986511,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "as of July 2018",
+            "conf": 0.9711606502532959,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Cookies Privacy Notice March 15, 2019",
+            "conf": 0.9256030321121216,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications",
+            "conf": 0.9963042140007019,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.",
+            "conf": 0.9822366833686829,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Do Not Track: Mozilla does not track users across third party websites to provide targeted advertising",
+            "conf": 0.9221777319908142,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Email: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your Mozilla email preferences",
+            "conf": 0.9998932480812073,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Optimizely: Opt-out on www.mozilla.org or visit Optimizely's opt-out website for more information",
+            "conf": 0.995089054107666,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Yahoo: visit the Ad Interest Manager to opt-out",
+            "conf": 0.9895696043968201,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "You can turn on Do Not Track in your browser",
+            "conf": 0.928643524646759,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "May 25, 2018",
+            "conf": 0.999997615814209,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "If we remove all personal information from a set of data then the remaining is non-personal information",
+            "conf": 0.9964394569396973,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate",
+            "conf": 0.9952393770217896,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for",
+            "conf": 0.9973598122596741,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer",
+            "conf": 0.983454167842865,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We're a global organization and our computers are in several different places around the world",
+            "conf": 0.999679446220398,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We also use service providers whose computers may also be in various countries",
+            "conf": 0.9243357181549072,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13, we don't want your personal information, and you must not provide it to us",
+            "conf": 0.9999771118164062,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums",
+            "conf": 0.9778302907943726,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 4.7
+}

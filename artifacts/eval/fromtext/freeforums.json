@@ -1,0 +1,222 @@
+{
+    "predictions": [
+        {
+            "label": "7",
+            "text": "We reserve the right to update or modify these Terms and Conditions at any time, and without prior notice to you",
+            "conf": 0.9999916553497314,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that by using this Site, you will assume sole responsibility to exercise your own judgment when participating in any activity, relying on any Content, or otherwise engaging with other users in any forum communities, and we disclaim all responsibility for any advice, suggestions, courses of action, counseling, instruction or Content provided on this Site, including without limitation, Content provided to you by other users",
+            "conf": 0.9676225781440735,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that you are solely responsible for all materials, text, entries, communications, content, information, forum contributions, materials, pictures and any video links or other materials provided by or contributed by you on this Site (collectively, the \u201cUser Generated Content",
+            "conf": 0.9292135834693909,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We make no warranty regarding the quality or availability of the Site, and we reserve the right to suspend",
+            "conf": 0.9999855756759644,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Company will not be liable to you or any third party for any modification, suspension or termination of the Site, including, without limitation, loss of data, personal settings or other foreseeable or unforeseeable damages related thereto",
+            "conf": 0.9968808889389038,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to deny you access to any and all parts of this Site and suspend or terminate your account, for any reason or no reason, and at our sole discretion",
+            "conf": 0.9987105131149292,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "by Minors Under The Age of 13",
+            "conf": 0.9011688828468323,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "This Site is intended for an adult audience and CHILDREN UNDER THE AGE OF THIRTEEN ARE NOT PERMITTED TO SUBMIT ANY USER GENERATED CONTENT, PERSONAL DATA OR UNSOLICITED INFORMATION.",
+            "conf": 0.9898630976676941,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to block transmission of, and or remove any User Generated Content that you send to any discussion group, at any time, for any reason, and without prior notice to you",
+            "conf": 0.9999309182167053,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "However, we are not obligated to take any action",
+            "conf": 0.9813033938407898,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "anyone under the age of 18",
+            "conf": 0.9452609419822693,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "if you commit any of the above, Company may, in its sole discretion, and without limiting any of their other remedies, terminate your password, account or ability to use the Site, and remove and discard any User Generated Content within the Site",
+            "conf": 0.9256680011749268,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company does not and cannot review, and is therefore not responsible for, any User Generated Content posted or uploaded to the Site",
+            "conf": 0.9460580348968506,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Any Domain Administrator can be removed from their position and blocked from accessing the Site at any time, without or without cause, and without notice by the Company",
+            "conf": 0.9999210238456726,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Posted on 12:02 AM 12/12/10",
+            "conf": 0.999986469745636,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Posted on 12:30 AM 12/12/10",
+            "conf": 0.9999870657920837,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for backing up your data or any User Generated Content or other type of data attributed to your participation in forums or use of the Site",
+            "conf": 0.9973540902137756,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU EXPRESSLY AGREE TO ASSUME THE SOLE RISK OF BACKING UP ALL USER GENERATED CONTENT THAT YOU CONTRIBUTE TO THE SITE AND EXPRESSLY AGREE THAT WE WILL HAVE NO LIABILITY WITH RESPECT TO LOST USER GENERATED CONTENT, WHETHER YOUR OWN OR THAT BELONGING TO THIRD PARTIES.",
+            "conf": 0.9979100227355957,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THIS SITE, USER GENERATED CONTENT AND THE CONTENT ARE PROVIDED \u201cAS IS\u201d, WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ALL IMPLIED WARRANTIES OF MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE., TITLE, AND NON-INFRINGEMENT, WITH REGARD TO THE CONTENT, PRODUCTS, SERVICES AND ALL OTHER INFORMATION CONTAINED ON AND/OR MADE AVAILABLE THROUGH THIS SITE, INCLUDING BUT NOT LIMITED TO THE AVAILABILITY OF THIS SITE, LACK OF VIRUSES, WORMS, TROJAN HORSES OR OTHER CODE THAT MANIFEST CONTAMINATING OR DESTRUCTIVE PROPERTIES, OR ANY FAILURE TO PROVIDE THE SITE OR ACCESS THERETO BY USERS",
+            "conf": 0.996856153011322,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE DO NOT GUARANTEE THE TIMELINESS, VALIDITY, COMPLETENESS OR ACCURACY OF THE CONTENT",
+            "conf": 0.9997500777244568,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ALTHOUGH WE MAY UPDATE THE CONTENT ON THIS SITE FROM TIME TO TIME, PLEASE NOTE THAT INFORMATION CONTAINED HEREIN MAY BE OUT OF DATE AND/OR MAY CONTAIN INACCURACIES OR TYPOGRAPHICAL ERRORS",
+            "conf": 0.9992855787277222,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend and hold harmless the Company, its affiliates, officers, directors, employees, agents, information providers, partners, advertisers and suppliers (the \u201cThe Protected Parties\u201d) from and against all losses, expenses, damages and costs, including reasonable attorney\u2019s fees, resulting from (a) provision of Unsolicited Information or User Generated Content by you, or (b) your use of the Content or Site",
+            "conf": 0.9999974370002747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU AGREE THAT NONE OF THE PROTECTED PARTIES SHALL HAVE ANY LIABILITY TO YOU UNDER ANY THEORY OF LIABILITY OR INDEMNITY IN CONNECTION WITH YOUR USE OF THE SITE",
+            "conf": 0.9606139659881592,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL ANY OF THE PROTECTED PARTIES BE LIABLE TO YOU FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE ARISING FROM ANY USE OF THIS SITE OR THE CONTENT EVEN IF THE PROTECTED PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9976329207420349,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "NONE OF PROTECTED PARTIES WILL BE LIABLE OR HAVE ANY RESPONSIBILITY OF ANY KIND FOR ANY LOSSES, DAMAGE OR DESTRUCTION OF DATA, INCLUDING, WITHOUT LIMITATION, LOSS OF ALL YOUR USER GENERATED CONTENT, THAT AND DAMAGES OR LOSSES YOU INCUR IN THE EVENT OF ANY FAILURE OR INTERRUPTION OF THIS SITE OR OUR EQUIPMENT, OR RESULTING FROM THE ACT OR OMISSION OF ANY OTHER PARTY INVOLVED IN MAKING THIS SITE AVAILABLE TO YOU OR COLLECTING THE DATA CONTAINED THEREIN, OR FROM ANY OTHER CAUSE RELATING TO YOUR ACCESS TO OR YOUR INABILITY TO ACCESS THE SITE, THE CONTENT, OR YOUR USER GENERATED CONTENT WHETHER OR NOT THE CIRCUMSTANCES GIVING RISE TO SUCH CAUSE MAY HAVE BEEN WITHIN THE CONTROL OF ANY OF THE PROTECTED PARTIES.",
+            "conf": 0.9999690055847168,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You represent and warrant that you are at least the age of majority in your jurisdiction and that you possess the legal right and ability to enter into these Terms and Conditions and to use the Site in accordance with these Terms and Conditions",
+            "conf": 0.9993719458580017,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are not at least the age of majority, but are at least 13 years of age, you may have a parent or guardian accept these terms on your behalf .",
+            "conf": 0.9999995231628418,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree to be financially responsible for your use of the Site (as well as for use of your account by others (whether authorized or unauthorized), including use by any minors living with you) and to comply with your responsibilities and obligations as stated in these Terms and Conditions.",
+            "conf": 0.9891937971115112,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree that any legal action or proceeding between the Company and you for any purpose concerning these Terms and Conditions or the parties\u2019 obligations hereunder shall be resolved individually, without resort to any form of class action, exclusively in the state or federal courts located at Los Angeles, California, USA, and we both expressly consent to such jurisdiction",
+            "conf": 0.9999855160713196,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any failure by us to insist upon or enforce strict performance of any provision of these Terms and Conditions shall not be construed as a waiver of any provision or right",
+            "conf": 0.9999935030937195,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may deliver notice to you under these Terms and Conditions by means of electronic mail, a general notice on the Site, or by written communication delivered by first class U.",
+            "conf": 0.9995511174201965,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 0.4
+}

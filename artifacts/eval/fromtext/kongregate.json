@@ -1,0 +1,656 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective as of May 25, 2018",
+            "conf": 0.9999940991401672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Third-party cookies enable third-party features or functionality (e.g., advertising, interactive content, and analytics) to be provided on or through the Sites.",
+            "conf": 0.9843829870223999,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "are used in a number of way, including, to maintain your gaming state as you browse through the Site and are temporarily placed on your computer when you visit our Sites, but are erased when you shut down the page",
+            "conf": 0.9264425039291382,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use flash cookies or Local Shared Objects (\u201cLSOs",
+            "conf": 0.9799018502235413,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "), to collect and store information",
+            "conf": 0.9649596810340881,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We automatically collect aggregate anonymous information through web beacons, pixel tags and clear gifs, which are terms for similar technology.",
+            "conf": 0.9943206906318665,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These web beacons, pixel tags and clear gifs help measure the effectiveness of our email campaigns, deliver more relevant content, and manage advertising for Kongregate",
+            "conf": 0.9996920228004456,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "\u2019s games.",
+            "conf": 0.9280827045440674,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In many instances, beacons, pixel tags, and clear gifs work in conjunction with cookies to function properly, so declining cookies will impair their functioning",
+            "conf": 0.9833911061286926,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This practice is often referred to as \u201conline behavioral advertising",
+            "conf": 0.9660570621490479,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "or \u201ctargeted advertising",
+            "conf": 0.9369363784790039,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "\u201d Our authorized advertising partners use software that recognizes pixels and cookies (identifiers) that are placed on the browsers of users",
+            "conf": 0.9825649857521057,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Please note this does not opt you out of being served ads",
+            "conf": 0.9975492358207703,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Kongregate and its service providers and business partners may use web server log files and tracking technologies to collect and analyze certain types of technical information, such as cookies, IP addresses, device type, and usage information, including time spent on particular pages or number of clicks.",
+            "conf": 0.9930941462516785,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Where appropriate, we will also notify you about any changes via e-mail in accordance with the User Agreement and Privacy Policy",
+            "conf": 0.9975996017456055,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: May 23, 2018",
+            "conf": 0.9999980926513672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of November 1, 2018",
+            "conf": 0.9999855160713196,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, at our discretion, to change, modify, add or remove portions of the Agreement at any time by posting the amended Agreement on our Platform or within our Services (such as through in-game notices",
+            "conf": 0.9999727010726929,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "\u201cChild\u201d or \u201cChildren\u201d means anyone under the age of 13 (or under 16 in certain European countries).",
+            "conf": 0.9999787211418152,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Our Services are designed for and directed at people 18 years of age or older and not intended for Children",
+            "conf": 0.999903678894043,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We will not knowingly collect personal information from Children as further provided",
+            "conf": 0.9636868834495544,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of majority where you are located, you represent that your parent or legal guardian has reviewed and agreed to this Agreement on your behalf",
+            "conf": 0.9065589904785156,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We also reserve the right, in our sole discretion and at any time, to discontinue or modify our Services or any part thereof, or remove or edit Content (as defined below), without prior notice (although we will endeavor to give you at least one month\u2019s notice of material changes) either permanently or temporarily, at which point your right to use those Services or any part thereof will be automatically terminated or suspended",
+            "conf": 0.9321745038032532,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree to accept responsibility for all activities that occur under your Account, and you understand that you may be held liable for losses incurred by us or any other use of the Services caused by someone else using your Account.",
+            "conf": 0.9974924325942993,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Deleting Your Account If you are unsatisfied with our Services or disagree with this Agreement, our Privacy Policy or Cookie Policy, you may stop using our Services at any time and may request that we delete your Account",
+            "conf": 0.9638057947158813,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "TO AVOID RETAINING DATA THAT IS NO LONGER NEEDED AND/OR TO IMPROVE OUR SERVICES, WE MAY DELETE OR TERMINATE ACCOUNTS THAT ARE INACTIVE (I.E., NOT LOGGED INTO) FOR OVER ONE YEAR.",
+            "conf": 0.995661199092865,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You understand and acknowledge that UGC is solely your responsibility, and that Kongregate is not responsible for the information, data, text or other materials that may appear in UGC.",
+            "conf": 0.9941558837890625,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "UGC is not necessarily reviewed by Kongregate prior to posting and Kongregate makes no warranties, express or implied, as to the UGC or to the accuracy and reliability of the UGC",
+            "conf": 0.998081386089325,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "YOU UNDERSTAND AND AGREE THAT KONGREGATE MAY CANCEL YOUR ACCOUNT AND DELETE ALL UGC ASSOCIATED WITH YOUR ACCOUNT AT ANY TIME, AND WITHOUT NOTICE, IF KONGREGATE DEEMS THAT YOU MATERIALLY BREACH THESE POSTING RULES, THIS AGREEMENT, APPLICABLE LAW, OR FOR ANY OTHER REASON",
+            "conf": 0.9995325803756714,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change the Billing Company at any time",
+            "conf": 0.978630006313324,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "is complete, true, accurate and up-to-date",
+            "conf": 0.9384856820106506,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If payment cannot be charged to your Payment Method or your payment or charge is returned for any reason, including without limitation chargeback, Kongregate and the Billing Company reserve the right to either suspend or terminate your access to the payment account and/or your ability to purchase Virtual Items without notice",
+            "conf": 0.9537168145179749,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third Party Sites and Advertising Our Services may feature advertisements from third party companies",
+            "conf": 0.9952252507209778,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Indemnification You agree to indemnify, defend and hold Kongregate, its parents, subsidiaries, officers, employees, and contractors harmless from and against any and all third party claims, damages and expenses (including reasonable attorneys\u2019 fees) arising from or in connection with (A) your use of our Services",
+            "conf": 0.9934074878692627,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In that event, you will have no further obligation to defend us in that matter",
+            "conf": 0.9968904256820679,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE PLATFORM, THE CONTENT AND SERVICES, AND ANY INFORMATION AVAILABLE IN CONNECTION THEREWITH, ARE PROVIDED ON AN \u201cAS IS, AS AVAILABLE\u201d BASIS, \u201cWITH ALL FAULTS,\u201d AND WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT",
+            "conf": 0.9925874471664429,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "KONGREGATE AND ITS AFFILIATES AND SERVICE PROVIDERS MAKE NO PROMISES OR GUARANTEES OF CONTINUOUS, ERROR-FREE, VIRUS-FREE OR SECURE OPERATION AND ACCESS TO SERVICES AND/OR YOUR ACCOUNT OR ANY INFORMATION AVAILABLE IN CONNECTION THEREWITH",
+            "conf": 0.9999997615814209,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Waiver YOU AGREE THAT IN NO EVENT SHALL KONGREGATE, ITS LICENSORS, AND ITS AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES, OR ANY OTHER DAMAGES, INCLUDING LOSS OF PROFITS, GOODWILL OR DATA, ARISING OUT OF OR IN CONNECTION WITH THE USE OF, OR INABILITY TO USE, THE SERVICES, EVEN IN THE EVENT OF KONGREGATE\u2019S OR ITS AFFILIATES\u2019 FAULT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR BREACH OF KONGREGATE\u2019S WARRANTY AND EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9989915490150452,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate your Account at any time",
+            "conf": 0.9993284940719604,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may cease use of the Platform at any time",
+            "conf": 0.9998326301574707,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Kongregate may terminate your Account or suspend, withdraw, restrict or remove all or any part of our Services at any time in the event that (i) Kongregate ceases providing such services to similarly situated Users generally for business or operational reasons, or (ii) you breach any terms of this Agreement (including the Privacy Policy or Posting Rules).",
+            "conf": 0.9999977350234985,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE THAT WE CAN ONLY BRING A CLAIM AGAINST EACH OTHER ON AN INDIVIDUAL BASIS AND YOU AGREE NOT TO BRING OR PARTICIPATE IN A CLASS OR REPRESENTATIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION OR COLLECTIVE ARBITRATION",
+            "conf": 0.9999959468841553,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We can assign, subcontract or transfer this Agreement to a third party or an affiliate of Kongregate if necessary for the support of our Services, as part of any reorganization, change of control, or for any other business reasons",
+            "conf": 0.9976816177368164,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: October 31, 2018",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of May 25, 2018",
+            "conf": 0.9999940991401672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change our practices and this Privacy Policy at any time",
+            "conf": 0.9991667866706848,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "When any changes are made, we will try to provide reasonable notice and will post the updated version on the Platform",
+            "conf": 0.9986495971679688,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We may also send an email or provide notice within some or all of our Services when this Privacy Policy changes",
+            "conf": 0.9999491572380066,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We and our affiliates, analytics or service providers, and third party companies with whom we have marketing relationships, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, track users\u2019 movements around the website, and gather demographic information about our user base as a whole.",
+            "conf": 0.9989433288574219,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third-party advertising companies serve ads on our behalf across the Internet",
+            "conf": 0.9996474385261536,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Such advertising partners have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement",
+            "conf": 0.9996846914291382,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "As further described in our Cookie Policy, we automatically collect information through cookies and other similar technologies (e.g., web beacons, pixels, ad tags and device identifiers) to recognize you and/or your device(s",
+            "conf": 0.999999463558197,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also contract with analytics services and third-party advertising companies to collect similar information for specific purposes",
+            "conf": 0.9998199343681335,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": ", we do not rent or sell personally identifiable information to others",
+            "conf": 0.9848684668540955,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not share email addresses with third parties for the purpose of sending their own emails to you without your consent",
+            "conf": 0.9972600936889648,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you do not want us to share your personal information with these companies, then you can either contact us at support@kongregate.com or opt-out",
+            "conf": 0.9800127744674683,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out, please see \u201cYour Rights and Options\u201d below",
+            "conf": 0.9594326615333557,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may share information we collect with our third party business partners, advertising companies, and other third parties or allow third parties to collect this information for the purposes described in this Privacy Policy:",
+            "conf": 0.9965444803237915,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Our advertising partners may have access to our personal data but you may opt-out as described in \u201cYour Rights and Options\u201d below and the Cookie Policy",
+            "conf": 0.9995861053466797,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may also use aggregate information to monitor usage of our Services in order to help us improve and develop our Services, and we may provide such aggregate information to third parties, e.g., content partners or advertisers",
+            "conf": 0.9989131093025208,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When advertisers or ad networks place ads in our Services, they may collect or we may share the following types of information from within our Services:",
+            "conf": 0.9999989867210388,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Measure how effective ads are, to offer you targeted advertising in order to personalize your experience by showing you advertisements for products and services that are more likely to appeal to you (a practice known as behavioral advertising), and/or",
+            "conf": 0.999997615814209,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Undertake web analytics (e.g., Google Analytics which is used to analyze traffic and other player activity to improve your experience).",
+            "conf": 0.9997857809066772,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Advertisers or ad networks may collect this information through the use of tracking technologies like browser cookies and web beacons.",
+            "conf": 0.9899376034736633,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event of a change of control, sale of some or all of our business or assets, corporate reorganization or bankruptcy, we would share the pertinent customer information (which may include your personal information) with the other business entity (or entities) involved in the transaction",
+            "conf": 0.9842140078544617,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "In such an event, we would notify you via email and/or a prominent notice on our Platform of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information",
+            "conf": 0.911785364151001,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Long We Retain Your Personal Data We keep your information only so long as we need it to provide our Services to you and fulfill the purposes described in this Privacy Policy",
+            "conf": 0.9685145616531372,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We do periodic status checks to review when personal data needs to be deleted",
+            "conf": 0.998843252658844,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, we may retain some information for a few years after you have closed your account with us if this is necessary to meet our legal obligations or to exercise, defend or establish legal rights",
+            "conf": 0.9999628663063049,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we will either remove it from our systems or depersonalize it so that we cannot identify you",
+            "conf": 0.999999463558197,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Although we work hard to protect your personal data, please note that no system can be guaranteed to be 100% secure",
+            "conf": 0.9481585025787354,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Therefore, while we strive to employ reasonable protections for your information that are appropriate to its sensitivity, we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal data, and we cannot guarantee or warrant the security of the information you share with us and we cannot be responsible for the theft, destruction, loss or inadvertent disclosure of your information.",
+            "conf": 0.9996504783630371,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Our Services, Platform and 3rd Party Platform Games are designed for and directed at people 18 years of age or older",
+            "conf": 0.9994242191314697,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "No one under the age of 13 (or under 16 for children located in the European countries)(collectively, \u201cChildren\u201d) may provide any personal information to us, and we do not knowingly collect information from Children",
+            "conf": 0.9999971389770508,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18 years of age, reside in California, and have a registered account on the Platform, or through the 3rd Party Platform Games, you have the right to request removal of unwanted information that you publicly post on the Platform, or through the 3rd Party Platform Games.",
+            "conf": 0.9926724433898926,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We understand that you may at times need further information from us regarding your personal data and how it is processed or that you may wish to update or correct the personal data you have provided us with",
+            "conf": 0.9748895764350891,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Right to erasure of personal data (right to be forgotten)",
+            "conf": 0.9999698400497437,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Under certain circumstances, such as if your personal data has been unlawfully processed or you have withdrawn your consent (if the processing of your personal data is based on consent), you have the right to request and obtain erasure of your personal data from us",
+            "conf": 0.9993341565132141,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We retain and use your information as necessary as described in \u201cHow Long We Retain Your Personal Data",
+            "conf": 0.9202067852020264,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you are receiving Kongregate promotional emails and no longer wish to receive those email messages, you may opt out at the time you receive the message by following the instructions in that email, clicking on the unsubscribe link in our emails or contacting us at support@kongregate.com",
+            "conf": 0.99994957447052,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "In this respect, we may collect: IP address, which is anonymized right away, MAC address, anonymized Device ID (IDentifier For Advertisers (IDFA)) or Google Advertiser ID (GAID), browser type, language settings, internet service provider, network status, time zone, URL of the entry and exit pages, date of access",
+            "conf": 0.9257134199142456,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "The collection and storing of the data can at any time be disabled with effect for the future as follows:",
+            "conf": 0.9958847761154175,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note this does not opt you out of being served ads",
+            "conf": 0.9975492358207703,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use internal and third party analytics tools, including Google Analytics",
+            "conf": 0.9996940493583679,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of Google Analytics by following this link",
+            "conf": 0.9998599886894226,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "In order to design our Services in the most user-friendly manner for you, we, as well as many other companies, also use persistent and session cookies and web beacons and other similar technologies.",
+            "conf": 0.9966026544570923,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "You can manage many companies\u2019 cookies used for online advertising via the consumer choice tools created under self-regulation programs in many countries, such as the U.S.-based aboutads.info choices page, Canada-based www.youradchoices.ca page or the EU-based www.youronlinechoices.eu",
+            "conf": 0.9219030141830444,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Kongregate does not currently respond to Do Not Track signals, whether that signal is received on a computer or on a mobile device",
+            "conf": 0.9991787672042847,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "When you use our Services, your data may be sent to the United States and possibly other countries",
+            "conf": 0.9978041648864746,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "The personal data that we collect from you may be transferred to and stored at a destination outside the European Economic Area (\u201cEEA\u201d) and Switzerland, including at destinations that are not subject to a decision by the European Commission establishing an adequate level of protection of personal data",
+            "conf": 0.9957063794136047,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Currently, our servers are in the United States",
+            "conf": 0.9241222739219666,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Your personal data can be shared with other companies owned by our parent company, processed by staff working for us or for one of our suppliers, or shared with certain third parties who may be located outside the EEA and Switzerland",
+            "conf": 0.9997972846031189,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: November 1, 2018",
+            "conf": 0.9999971985816956,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.1
+}

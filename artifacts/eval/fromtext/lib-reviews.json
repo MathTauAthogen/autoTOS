@@ -1,0 +1,26 @@
+{
+    "predictions": [
+        {
+            "label": "10",
+            "text": "We store visitor logs for up to 90 days",
+            "conf": 0.9995996952056885,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We don't show you advertising or sell or share your private data with anyone (with the exception of when legally required to do so, as noted above), nor do we use any tracking or analytics services operated by third parties",
+            "conf": 0.9994935393333435,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "August 1, 2016: First version posted",
+            "conf": 0.9999970197677612,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 9.6
+}

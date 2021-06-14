@@ -1,0 +1,278 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "The BBC Privacy",
+            "conf": 0.988163948059082,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Policy  Page updated: August 2019 Version 3.1",
+            "conf": 0.9996998906135559,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "At the same time, no service can be completely secure - if you have any concerns that your BBC account or personal information has been put at risk, for example if someone could have found out your password, please get in touch straight away.",
+            "conf": 0.9987699389457703,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "run their services from outside the UK and the European Economic Area",
+            "conf": 0.9358551502227783,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Keep in mind that when you give us personal information it could be being transferred, stored or processed in a location outside the UK and the EEA",
+            "conf": 0.9999997615814209,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "How long will the BBC keep my personal information? When you give us any personal information we'll let you know how long we'll hold it for",
+            "conf": 0.9233043193817139,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "we only hold your information for as long as we do the activities we told you about or have a valid reason to keep it",
+            "conf": 0.9999953508377075,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "we design our services so that we don't hold your information any longer than we have to",
+            "conf": 0.9994231462478638,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "we may close your BBC account if you haven't used it in the last year",
+            "conf": 0.998881995677948,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We'll send you an email to tell you that we plan to do this before we delete anything, so please check to see if we've sent you any emails about this",
+            "conf": 0.9993217587471008,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you\u2019re under 13 and create an account your personalisation is set to off",
+            "conf": 0.999922513961792,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you\u2019re under 13 you don\u2019t need to do anything",
+            "conf": 0.9998916983604431,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "Keep in mind, even if you unsubscribe, we may still contact you",
+            "conf": 0.9999691843986511,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Also, you can visit your BBC account and turn this off",
+            "conf": 0.9996323585510254,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "When does the BBC share my personal information with others? We'll never sell your personal information",
+            "conf": 0.9999625086784363,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "The main rule is we will never sell your personal information to anyone",
+            "conf": 0.999846339225769,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Or your parent or guardian can do this if you",
+            "conf": 0.9959733486175537,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "\u2019re under 13",
+            "conf": 0.9993038177490234,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "ask us to correct or delete your personal information",
+            "conf": 0.9999945759773254,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you're 13 or older, you can do this yourself, but not always",
+            "conf": 0.9849843382835388,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you're under 13 your parent or guardian probably has to do it for you",
+            "conf": 0.9997194409370422,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can delete your account",
+            "conf": 0.9998060464859009,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Your account information is immediately deleted",
+            "conf": 0.9961763024330139,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "we keep a record of how you've used our services, but this information can't be linked back to you",
+            "conf": 0.9270653128623962,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We might have collected other personal information that you might ask to be deleted that has nothing to do with BBC account",
+            "conf": 0.9999828934669495,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "These \"third-party cookies\" might track how you use different websites, including ours",
+            "conf": 0.9989109039306641,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "are erased when you close the",
+            "conf": 0.904143750667572,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Others stay longer, sometimes forever, and are saved onto your device so that they",
+            "conf": 0.9956139922142029,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u2019re there when you come back",
+            "conf": 0.9966217875480652,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you don't agree to the changes, then you can always stop using our services, delete your account and stop giving us any more personal information",
+            "conf": 0.9996063709259033,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "top   Terms of Use Terms of Use for the BBC\u2019s digital services  Page updated: 31 October 2018 Version 1.5",
+            "conf": 0.9551353454589844,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "So do read them, and check in for updates as the latest version always applies (we\u2019ll usually only make updates when we release a new service, change how we provide a service, or have to comply with a new legal requirement)",
+            "conf": 0.9995585083961487,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Apart from&nbsp;what we\u2019re responsible for when there\u2019s a mishap, we\u2019re not liable for anything that happens to you if you use a shareable",
+            "conf": 0.9212681651115417,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "(unless you have their consent or, if they\u2019re under 16, the consent of their parent or guardian)",
+            "conf": 0.9602927565574646,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "There are errors, omissions, interruptions, delays, bugs or viruses",
+            "conf": 0.9989659786224365,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We turn off or remove content, services, external links or creations (we\u2019d normally only do this when we moderate, for legal reasons, or if we\u2019re improving a service)",
+            "conf": 0.9989537000656128,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We\u2019re not responsible for their content or liable for anything that happens to you if you use them",
+            "conf": 0.9999842047691345,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you or anyone else shares something containing a link, we\u2019re not responsible for anything on the site it links to.",
+            "conf": 0.9931786060333252,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "No one else has any rights to enforce its terms",
+            "conf": 0.9999927282333374,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 6.2
+}

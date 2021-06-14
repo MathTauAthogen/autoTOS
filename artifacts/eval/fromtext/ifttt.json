@@ -1,0 +1,327 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Terms of Use As of November 2, 2016",
+            "conf": 0.9999970197677612,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The individual who accepts these terms and conditions, must be of a legal age to form a binding contract (or if not, you\u2019ve received your parent\u2019s or guardian\u2019s permission to use the Service and gotten your parent or guardian to agree to these Terms on your behalf).",
+            "conf": 0.9999949336051941,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We reserve the right to change the Terms at any time, but if we do, we will bring it to your attention by placing a notice on ifttt.com website, by sending you an email, and/or by some other means",
+            "conf": 0.9994453191757202,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate by discontinuing use of the Service",
+            "conf": 0.9152663946151733,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Your use terminates automatically if (i) you violate any term of these Terms, (ii) IFTTT publicly posts a written notice of termination on the Service, (iii) IFTTT sends a written notice of termination to you, or (iv) IFTTT ceases providing access to the Service to you",
+            "conf": 0.9727922677993774,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IFTTT will use reasonable efforts to ensure that the Service is available twenty-four hours a day, seven days a week",
+            "conf": 0.984531044960022,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Who is responsible for what I see and do on the Service?  Any information or Content publicly posted or privately transmitted through the Service is the sole responsibility of the person from whom such information or Content originated, and you access all such information or Content at your own risk.",
+            "conf": 0.9873794913291931,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We aren\u2019t liable for any errors or omissions in that information or Content or for any damages or loss you might suffer in connection with it",
+            "conf": 0.9985713362693787,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We cannot control and have no duty to take any action regarding how you may interpret and use the information or Content or what actions you may take as a result of having been exposed to the information or Content, and you hereby release us from all liability for you having acquired or not acquired information or Content through the Service",
+            "conf": 0.9993100166320801,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We can\u2019t guarantee the identity of any users with whom you interact in using the Service and are not responsible for which users gain access to the Service",
+            "conf": 0.997749924659729,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "When you access third party websites or use third party services, you accept that there are risks in doing so, and that IFTTT is not responsible for such risks.",
+            "conf": 0.9937867522239685,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IFTTT has no control over, and assumes no responsibility for, the Content, accuracy, privacy policies, or practices of or opinions expressed in any third party websites or by any third party that you interact with through the Service",
+            "conf": 0.9990710020065308,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "By using the Service, you release and hold us harmless from any and all liability arising from your use of any third party website or service",
+            "conf": 0.999782919883728,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that IFTTT shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings.",
+            "conf": 0.9867134094238281,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In the event that you have a dispute with one or more other users, you release IFTTT, its officers, employees, agents, and successors from claims, demands, and damages of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to such disputes and/or our Service",
+            "conf": 0.9603497385978699,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may suspend or discontinue any part of the Service, or we may introduce new features or impose limits on certain features or restrict access to parts or all of the Service",
+            "conf": 0.999997079372406,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Similarly, we reserve the right to remove any Content from the Service at any time, for any reason (including, but not limited to, if someone alleges you contributed that Content in violation of these Terms), in our sole discretion, and without notice",
+            "conf": 0.9999018311500549,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect or solicit personally identifiable information from children under 13",
+            "conf": 0.9986752867698669,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "if you are a child under 13, please do not attempt to register for the Service or send any personal information about yourself to us",
+            "conf": 0.9999988079071045,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Support  IFTTT may elect to provide you with support or modifications for the Service (collectively, \"Support\"), in its sole discretion, and may change, reduce or terminate such Support at any time without notice to you",
+            "conf": 0.9649575352668762,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IFTTT makes no representations concerning any Content contained in or accessed through the Service, and IFTTT will not be responsible or liable for the accuracy, copyright compliance, legality or decency of material contained in or accessed through the Service",
+            "conf": 0.9906120300292969,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IFTTT DOES NOT REPRESENT OR WARRANT THAT THE SERVICE IS FREE OF INACCURACIES, ERRORS, BUGS, OR INTERRUPTIONS, OR ARE RELIABLE, ACCURATE, COMPLETE, OR OTHERWISE VALID",
+            "conf": 0.9999902248382568,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE IS PROVIDED \"AS IS\" WITH NO WARRANTY, EXPRESS OR IMPLIED, OF ANY KIND AND IFTTT EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A",
+            "conf": 0.9797182083129883,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ", AVAILABILITY, SECURITY, TITLE AND/OR NON-INFRINGEMENT",
+            "conf": 0.9621009826660156,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOUR USE OF THE SITE AND THE SERVICE IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE THAT RESULTS FROM YOUR USE INCLUDING, BUT NOT LIMITED TO, ANY DAMAGE TO YOUR COMPUTER SYSTEM, MOBILE PHONE OR LOSS OF DATA.",
+            "conf": 0.9912037253379822,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IFTTT SHALL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH USE OF THE SITE OR THE SERVICE, WHETHER SUCH DAMAGES ARE BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE, PRODUCT LIABILITY OR OTHERWISE), OR ANY OTHER PECUNIARY LOSS, WHETHER OR NOT IFTTT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9981222152709961,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "To the maximum extent permitted by applicable law, you agree to hold harmless and indemnify IFTTT, and its employees, officers, agents, or other partners from and against any third party claim arising from or in any way related to your access or use of the Service (including anything you develop using IFTTT), including any liability or expense arising from all claims, losses, damages (actual and/or consequential), suits, judgments, litigation costs and attorneys' fees, of every kind and nature",
+            "conf": 0.9999927282333374,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any arbitration under these Terms (including any against officers, directors, and employees of IFTTT) will take place on an individual basis: class arbitrations and class actions are not permitted",
+            "conf": 0.9999986886978149,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU UNDERSTAND AND AGREE THAT BY ENTERING INTO THESE TERMS, YOU AND IFTTT ARE EACH WAIVING THE RIGHT TO TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION",
+            "conf": 0.9999939203262329,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "IFTTT's failure to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.9999939203262329,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Privacy Policy As of July 10th, 2013",
+            "conf": 0.9628597497940063,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The IFTTT Service is not intended for use by children",
+            "conf": 0.967529296875,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18, you may use the Service only with involvement of a parent or guardian",
+            "conf": 0.9999979138374329,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect or solicit personal information from anyone under the age of 13",
+            "conf": 0.9995232224464417,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us",
+            "conf": 0.9999982714653015,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "IFTTT does not sell or rent your personal information to third parties without your explicit consent",
+            "conf": 0.999968409538269,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all actions taken with your User ID and password.",
+            "conf": 0.9899649620056152,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Therefore we recommend that you do not disclose your password to any third parties",
+            "conf": 0.973818838596344,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you choose to share your User ID and password or your personal information with third parties, you are responsible for all actions taken with your account and therefore you should review that third party's privacy policy.",
+            "conf": 0.9989792108535767,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf such as if someone used your User and ID password to forward libelous material through the Service.",
+            "conf": 0.9892643094062805,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "Moreover, if IFTTT, or substantially all of its assets, were acquired, or in the unlikely event that IFTTT goes out of business or enters bankruptcy, customer information would be one of the assets that may be transferred to or acquired by a third party",
+            "conf": 0.9911079406738281,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you",
+            "conf": 0.9448124170303345,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Please note that information may remain in our records after deletion of your account",
+            "conf": 0.998773992061615,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not use your email address or contact information to send commercial or marketing messages nor do we give or sell this information to any third parties",
+            "conf": 0.9999467730522156,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Policy may change from time to time",
+            "conf": 0.9279319643974304,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "All amended terms shall automatically be effective thirty (30) days after they are initially posted on the Site",
+            "conf": 0.9153174161911011,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 1.9
+}

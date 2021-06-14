@@ -1,0 +1,194 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "04 Oct 2016In the \u201cfirst half of 2016\u201d (the most specific we",
+            "conf": 0.965765118598938,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "\u2019re permitted to be",
+            "conf": 0.9381373524665833,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "PolicySignal is designed to never collect or store any sensitive information",
+            "conf": 0.987194299697876,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 13 years old to use our Services",
+            "conf": 0.9998555183410645,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Signal does not sell, rent or monetize your personal data or content in any way \u2013 ever",
+            "conf": 0.9999151229858398,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "For the purpose of operating our Services, you agree to our data practices as described in our Privacy Policy, as well as the transfer of your encrypted information and metadata to the United States and other countries where we have or use facilities, service providers or partners",
+            "conf": 0.9934530854225159,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for keeping your device and your Signal account safe and secure",
+            "conf": 0.9775972962379456,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WE PROVIDE OUR SERVICES ON AN \u201cAS IS\u201d BASIS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF",
+            "conf": 0.971802294254303,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SIGNAL DOES NOT WARRANT THAT ANY INFORMATION PROVIDED BY US IS ACCURATE, COMPLETE, OR USEFUL, THAT OUR SERVICES WILL BE OPERATIONAL, ERROR-FREE, SECURE, OR SAFE, OR THAT OUR SERVICES WILL FUNCTION WITHOUT DISRUPTIONS, DELAYS, OR IMPERFECTIONS",
+            "conf": 0.9999889135360718,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU RELEASE US, AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, PARTNERS, AND AGENTS (TOGETHER, \u201cSIGNAL PARTIES\u201d) FROM ANY CLAIM, COMPLAINT, CAUSE OF ACTION, CONTROVERSY, OR DISPUTE (TOGETHER, \u201cCLAIM\u201d) AND DAMAGES, KNOWN AND UNKNOWN, RELATING TO, ARISING OUT OF, OR IN ANY WAY CONNECTED WITH ANY SUCH CLAIM YOU HAVE AGAINST ANY THIRD PARTIES",
+            "conf": 0.9999321699142456,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE SIGNAL PARTIES WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR CONSEQUENTIAL, SPECIAL, PUNITIVE, INDIRECT, OR INCIDENTAL DAMAGES RELATING TO, ARISING OUT OF, OR IN ANY WAY IN CONNECTION WITH OUR TERMS, US, OR OUR SERVICES, EVEN IF THE SIGNAL PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9997909665107727,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may discontinue some or all of our Services, including certain features and the support for certain devices and platforms, at any time",
+            "conf": 0.9999982118606567,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may end these Terms with Signal at any time by deleting Signal Messenger from your device and discontinuing use of our Services",
+            "conf": 0.9993770718574524,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may modify, suspend, or terminate your access to or use of our Services anytime for any reason, such as if you violate the letter or spirit of our Terms or create harm, risk, or possible legal exposure for Signal",
+            "conf": 0.9999802708625793,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "GeneralSignal may update the",
+            "conf": 0.9026103019714355,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "from time to time",
+            "conf": 0.9933634996414185,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If we fail to enforce any of our Terms, that does not mean we waive the right to enforce them",
+            "conf": 0.9999951124191284,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of the Terms is deemed unlawful, void, or unenforceable, that provision shall be deemed severable from our Terms and shall not affect the enforceability of the remaining provisions",
+            "conf": 0.9422802329063416,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We reserve the right to limit our Services in any country",
+            "conf": 0.913914144039154,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of May 25, 2018",
+            "conf": 0.999997079372406,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated May 25, 2018",
+            "conf": 0.9999979138374329,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Signal cannot sell, rent, or monetize your data or content in any way \u2013 ever",
+            "conf": 0.9996793866157532,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can permanently disable your phone number from being recognized as a Signal user by unregistering your phone number\u00a0here",
+            "conf": 0.99928879737854,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You will need access to this phone number to verify and complete this action",
+            "conf": 0.9994503855705261,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Signal does not store any contact information under any circumstances",
+            "conf": 0.9919825196266174,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 13 years of age to use Signal",
+            "conf": 0.9999979138374329,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The minimum age to use our Services without parental approval may be higher in your home country",
+            "conf": 0.9999972581863403,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.9
+}

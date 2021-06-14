@@ -1,0 +1,474 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "LAST UPDATED: March 15, 2019",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We may change this Policy at any time and will post the revised Policy here and provide current users advance notice of the changes through email, Service notices, or otherwise",
+            "conf": 0.9993119239807129,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may change this Policy at any time",
+            "conf": 0.999969482421875,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "When we do so, we will post the updated Policy on this page and, if the changes are material, will inform existing users through the Services",
+            "conf": 0.9638277292251587,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to the Policy will be effective immediately for new users and thirty (30) days after we post notice of such changes on the Site or inform existing users of the changes",
+            "conf": 0.9982995986938477,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will remove such information from our systems as soon as reasonably practicable",
+            "conf": 0.9763834476470947,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will let the",
+            "conf": 0.9105871319770813,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "him",
+            "conf": 0.9024270176887512,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ", and provide the opportunity to request that his or her information be deleted from our systems",
+            "conf": 0.9257598519325256,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This data is kept in our system for as long as your Account exists and a reasonable time thereafter",
+            "conf": 0.9999592304229736,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We collect certain information using \u201ccookies",
+            "conf": 0.971502959728241,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "\u201d Cookies are small data files stored on the hard drive of your computer or mobile device by a website",
+            "conf": 0.9748015403747559,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use Google Analytics and Heap for this purpose",
+            "conf": 0.9767425656318665,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When we place advertisements on third party sites, we often include a cookie on a particular page of the Site that tracks what advertisement a user clicked on to come to the Site",
+            "conf": 0.9753463864326477,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We never sell our users\u2019 Personal Data",
+            "conf": 0.999988317489624,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may share Personal Data among our various affiliates, all of whom are bound by this Policy, and with an acquirer if Dashlane is sold or merged",
+            "conf": 0.9561305046081543,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Dashlane will never sell your Personal Data or use it except as stated in this Policy",
+            "conf": 0.9999885559082031,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If Dashlane or its business or assets are acquired by, or merged into, another company, that company will possess any Personal Data in our possession at such time, and will assume our rights and obligations under this Policy",
+            "conf": 0.9813399910926819,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Personal Data and other information may also be transferred as a business asset in the event of Dashlane",
+            "conf": 0.9709591865539551,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "\u2019s insolvency, bankruptcy, or receivership",
+            "conf": 0.9892414808273315,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "As noted elsewhere",
+            "conf": 0.9390881061553955,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": ", Personal Data may be transferred to jurisdictions with less strict privacy and related regulations than those in your home country, including the U.S., but we employ technical and other measures that comply with EU regulations to protect Personal Data when processed in the U.S.",
+            "conf": 0.9997363090515137,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Your information, including Personal Data that we collect from you, may be transferred to, stored at and processed by us, our Affiliates and service providers outside your home country, including in the United States, where data protection and privacy regulations may not offer the same protections as in other parts of the world",
+            "conf": 0.9999974966049194,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you currently receive marketing emails and no longer wish to do so, you may unsubscribe from within any such email",
+            "conf": 0.9999940991401672,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of these emails by following the unsubscribe instructions included in each email",
+            "conf": 0.9999867677688599,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The GDPR grants EU residents certain rights regarding their Personal Data, including the right to access and modify Personal Data held by providers, and to have providers \u201cforget\u201d Personal Data that is no longer relevant.",
+            "conf": 0.9895524382591248,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In certain situations, for example when the Personal Data we hold about you is no longer relevant or accurate, you can request that we erase your Personal Data",
+            "conf": 0.9999538660049438,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may need to retain certain information for recordkeeping purposes or to complete any transactions that you began prior to requesting such change or deletion",
+            "conf": 0.9973916411399841,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "LAST UPDATED: March 15, 2019",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 18 years old to accept these Terms, which include our Privacy Policy",
+            "conf": 0.9992868900299072,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may change these Terms on occasion, and by continuing to use our Services after a change, you accept the revised Terms",
+            "conf": 0.9999627470970154,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "IF YOU ARE IN THE UNITED STATES, ANY LEGAL CLAIM INVOLVING THESE TERMS OR THE SERVICES WILL BE SETTLED BY ARBITRATION, NOT BY A TRIAL IN FRONT OF A JUDGE OR JURY, OR THROUGH A CLASS ACTION LAWSUIT",
+            "conf": 0.9999929070472717,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "By using the Services, you represent that you (i) may legally do so, (ii) are at least 18 years old (or the age of majority in the jurisdiction where you reside), and (iii) have the power to enter into a binding contract with us\u2014either individually or on behalf of the entity for whom you are using the Services.",
+            "conf": 0.9929825663566589,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Unless required by applicable law, we are not responsible for the content or practices of Third-Party Services and provide links to them only for your convenience",
+            "conf": 0.9948654174804688,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "THESE TERMS REQUIRE THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS, AND LIMIT THE REMEDIES AVAILABLE IF THERE IS A DISPUTE ABOUT THESE TERMS OR YOUR USE OF THE SERVICES",
+            "conf": 0.9996277093887329,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may change these Terms at any time",
+            "conf": 0.9999791979789734,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "When we do so, we will post the updated Terms on this page and also inform you through the Services, as applicable",
+            "conf": 0.9997289180755615,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to the Terms will be effective immediately for new users and thirty (30) days after we post notice of such changes on the Site or inform users of the changes via the Services for existing users",
+            "conf": 0.9995468854904175,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Account Information must always be accurate",
+            "conf": 0.9995598196983337,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "DASHLANE DOES NOT STORE OR HAVE ACCESS TO YOUR MASTER PASSWORD, AND IF THE MASTER PASSWORD IS LOST, DASHLANE CANNOT UNLOCK YOUR ACCOUNT OR RETRIEVE ANY OF YOUR INFORMATION",
+            "conf": 0.9988478422164917,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Do not share your account credentials with anyone, as you are responsible for all activity associated with your account.",
+            "conf": 0.9904745817184448,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any inability to access your Account or Secured Data caused by loss of your Master Password",
+            "conf": 0.9991748929023743,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Like most providers of consumer applications, while we make every effort to ensure that these features work correctly, we cannot and do not guarantee that they will always do so",
+            "conf": 0.9999927878379822,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "While we use strong encryption and other security measures to protect Secured Data, we do not guarantee that Secured Data is or will be 100% protected",
+            "conf": 0.9682124257087708,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for the accuracy of the Secured Data and how you use it",
+            "conf": 0.9962683320045471,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not warrant that syncing will work at all times, or that Secured Data will not be corrupted or lost during syncing, and we disclaim all liability that might arise in such a case",
+            "conf": 0.9978998303413391,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Dashlane provides Dark Web Monitoring on an \u201cas-is\u201d basis and does not warrant the completeness or accuracy of the results",
+            "conf": 0.9999744296073914,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Dashlane is not responsible for the availability, performance, or reliability of the VPN and does not guarantee that the VPN is totally secure",
+            "conf": 0.9985802173614502,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The dashboard is provided for informational purposes only, and Dashlane is not responsible for the accuracy or completeness of the information available on it",
+            "conf": 0.9951236844062805,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for these services or data",
+            "conf": 0.9999452233314514,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Dashlane is not responsible for the accuracy or completeness of such Data",
+            "conf": 0.9999227523803711,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may change our fees and billing practices at any time, either by posting notice of such change on the Site or notifying you within the Services, provided that any such change will not apply to you until the next Subscription period or if you change your Subscription type",
+            "conf": 0.9906989932060242,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel a Subscription or close your Account at any time",
+            "conf": 0.9999607801437378,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You must delete any Apps from your devices following termination in order to remove Secured Data from your device",
+            "conf": 0.9917909502983093,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may also contact us at support@dashlane.com if you want to close your Account",
+            "conf": 0.9969074726104736,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may delete all data associated with your Account from our servers, including Secured Data and Credentials, without liability or obligation to you",
+            "conf": 0.9964974522590637,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Note that, even if you close your Account, you must delete our Apps to remove Secured Data from your devices",
+            "conf": 0.9664638638496399,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "As much as the law allows, we do not make any other warranties about the Services",
+            "conf": 0.9701898097991943,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DASHLANE DOES NOT WARRANT THAT THE SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED",
+            "conf": 0.9999929070472717,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT IN CASES OF GROSS NEGLIGENCE, WILLFUL MISCONDUCT OR FRAUD, IN NO EVENT WILL (i) DASHLANE\u2019S LIABILITY ARISING OUT OF OR RELATED TO THESE TERMS OR THE SERVICES EXCEED THE MOST RECENT SUBSCRIPTION FEE YOU PAID, OR (ii) DASHLANE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO THESE TERMS OR THE SERVICES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY ON WHICH THEY ARE ASSERTED, AND EVEN IF DASHLANE IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9990741014480591,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify, defend, and hold Dashlane harmless from any claim, action, suit, or proceeding made or brought against Dashlane arising out of or related to your breach of any provision of these Terms or use of the Services in violation of these Terms or applicable law",
+            "conf": 0.999995768070221,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Arbitrator decisions are as enforceable as any court order, and subject to very limited judicial review",
+            "conf": 0.9113051295280457,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "ANY CLAIMS WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE BROUGHT IN THE RESPECTIVE PARTY\u2019S INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, AND THE ARBITRATOR MAY NOT (i) CONSOLIDATE MORE THAN ONE PERSON\u2019S CLAIMS, (ii) OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING, OR (iii) AWARD CLASS-WIDE RELIEF",
+            "conf": 0.9999915957450867,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The waiver of a breach of any provision of these Terms will not waive any future breach of the same or any other provision",
+            "conf": 0.9918635487556458,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You release Dashlane and our successors from all losses, damages, rights, and demands and actions of any kind, including personal injuries, death, and property damage, that are directly or indirectly related to or arise from your use of the Services (collectively, \u201cClaims\u201d).",
+            "conf": 0.9961473345756531,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We may give notice to you by email, a posting on the Site, or other reasonable means",
+            "conf": 0.9982289671897888,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Third parties have no rights under the Contracts (Rights of Third Parties) Act 1999 to enforce any provision of the Terms, but this does not affect any right or remedy of such third party which exists or is available apart from that Act",
+            "conf": 0.9982913136482239,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 4.3
+}

@@ -1,0 +1,467 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last revised 5/24/2018",
+            "conf": 0.999998927116394,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We never sell your data",
+            "conf": 0.9999372363090515,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Many companies profit off their users by selling their info, but we'll never do that",
+            "conf": 0.9890126585960388,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We'll never share any personal data about your online activity or use it to target you individually",
+            "conf": 0.9954613447189331,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "will not share your data with third parties;",
+            "conf": 0.9999830722808838,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "will only retain user information for a maximum of 6 months after a user has canceled a paid subscription (except for basic information that the transaction occurred), and 6 months for website visitors, except for any payment-related information that we have to retain for fraud purposes",
+            "conf": 0.9996445775032043,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not collect any personal information through our website",
+            "conf": 0.9996256828308105,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Even so, this website is not directed at individuals under 13 years of age in compliance with the Children's Online Privacy Protection Act (COPPA).",
+            "conf": 0.9999925494194031,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Blur Mobile do not try and track your personal data",
+            "conf": 0.9343958497047424,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "always maintains ownership and control of your data during these times, and we do not sell your information",
+            "conf": 0.9993411898612976,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "They are temporarily cached in your Masked Inbox for less than 24 hours (by default), then permanently deleted from our servers",
+            "conf": 0.9991520047187805,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can request that we erase your stored data that Abine Inc.",
+            "conf": 0.9995348453521729,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Note that we can't delete data related to financial transactions you have made, and due to Payment Card Industry (PCI) requirements we are required to keep even most non-financial data for at least 90 days",
+            "conf": 0.9999998807907104,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Service Last revised 12/29/2014",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Service Last revised 12/29/2014",
+            "conf": 0.9825202822685242,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Service last revised 5/6/2016",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or terminate any terms of this Agreement at any time and such amendment or termination will be effective at the time we post the revised terms on the site",
+            "conf": 0.9963688850402832,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "You can tell when we last revised this agreement by looking at the \u201clast revised\u201d date at the top of this Agreement",
+            "conf": 0.9911136627197266,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Some of Abine's products don't collect any of your personal information whatsoever, like Blur (formerly DoNotTrackMe).",
+            "conf": 0.9994310140609741,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": ", but you forget your master password and can't log in: you agree that you won't sue us because you can't retrieve that account information",
+            "conf": 0.9081917405128479,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify and hold harmless Abine Inc., its parents, subsidiaries, customers, vendors, officers, and employees from any liability, damage or cost from any claim or demand associated with your use of our Site or Services",
+            "conf": 0.9999961256980896,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We urge you to read that policy now and revisit occasionally because we may update it",
+            "conf": 0.9572948217391968,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "DeleteMe will not remove all of your information from the Internet and Blur (formerly DoNotTrackMe) will not block every single attempt to track your personal information",
+            "conf": 0.9723654985427856,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "As such, our Site and Services are provided on an \"as is\" basis, without warranties of any kind, either express or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, or non-infringement",
+            "conf": 0.9999952912330627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel your paid subscriptions at any time",
+            "conf": 0.9910513758659363,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You have the right to cancel your premium subscriptions at any time, for any reason, and can do so by emailing us or calling us at 800-928-1987",
+            "conf": 0.9783365726470947,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "This agreement is effective as of May 6th, 2016 and replaces any previous terms of service",
+            "conf": 0.9998672008514404,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or terminate any terms of this Agreement at any time, and that amendment or termination will be effective at the time we post the revised terms on the site",
+            "conf": 0.9882870316505432,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "You can tell when we last revised this agreement was by looking at the \u201clast revised\u201d date at the top of this Agreement",
+            "conf": 0.9918107390403748,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to block or limit transactions at any time for security or fraud reasons without prior notice to you",
+            "conf": 0.9967033863067627,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel your Masked Card Service subscription any time",
+            "conf": 0.9995232224464417,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You have the right to cancel your subscription at any time, for any reason",
+            "conf": 0.9689752459526062,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You represent that you're 18 years old or older (or 19 if you live in a state where the age of majority is 19).",
+            "conf": 0.9999968409538269,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You cannot use our paid services if you're under 18 or if you're using them for someone who's under 18",
+            "conf": 0.9999985098838806,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee that this service will eliminate or control the collection, use, or sharing of your online data",
+            "conf": 0.971208393573761,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or terminate any terms of this Agreement at any time and such amendment or termination will be effective at the time we post the revised terms on the site",
+            "conf": 0.9963688850402832,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "You can tell when we last revised this agreement was by looking at the \u201clast updated\u201d date at the top of this Agreement",
+            "conf": 0.995095431804657,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You represent that you're 18 years old or older",
+            "conf": 0.9999557733535767,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You cannot use DeleteMe if you're under 18 or if you're using it for someone who's under 18",
+            "conf": 0.9999973177909851,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "subscribers like you to request that third party websites, such as data brokers and information aggregators, remove or suppress your personal information from their websites",
+            "conf": 0.9138060212135315,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify and hold harmless Abine, its parents, subsidiaries, customers, vendors, officers, and employees from any liability, damage or cost from any claim or demand associated with your use of the DeleteMe service or site",
+            "conf": 0.9999944567680359,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "DeleteMe will not remove all of your information from the Internet",
+            "conf": 0.9329700469970703,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "As such, the DeleteMe service, content and site are provided on an \"as is\" basis, without warranties of any kind, either express or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, or non-infringement",
+            "conf": 0.9999966025352478,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We urge you to read that policy now and revisit occasionally because we may update it",
+            "conf": 0.9572945833206177,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You have the right to cancel your DeleteMe subscription at any time, for any reason, and can do so by emailing us at or calling us at 800-928-1987",
+            "conf": 0.9988560080528259,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "will not turn over any of data we have unless we're legally required to",
+            "conf": 0.9804289937019348,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We try not to share information with any other parties, but there are a few things we have to:",
+            "conf": 0.9975488781929016,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "In these cases, Abine retains the rights to your data and these parties can't sell or share or use your data for anything else",
+            "conf": 0.9989498853683472,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you cancel the service or stop using it, we will put your data into a queue for deletion",
+            "conf": 0.9329648017883301,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We'll retain all your information for six months in case you reactivate your service",
+            "conf": 0.924116849899292,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "At the end of six months, we'll delete all the personal information you supplied for the opt-out processes and only keep the transaction information, account information (including username and email), and our work notes and logs (including any customer support emails",
+            "conf": 0.9996742606163025,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Revised 12/29/14",
+            "conf": 0.999998927116394,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Please note that you can cancel your Blur or Blur Mobile Premium subscription at any time",
+            "conf": 0.9999189376831055,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate this Agreement at any time by uninstalling Blur or Blur Mobile Premium and deleting its files",
+            "conf": 0.9995308518409729,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Abine will never sell this data",
+            "conf": 0.9319168925285339,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may delete the Blur mobile app through your mobile device's application management options",
+            "conf": 0.9187197685241699,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Warranty: This free software is provided \"AS IS\" with NO WARRANTY of any type",
+            "conf": 0.9988608360290527,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event shall we or any of our offices, directors, employees, or consultants be liable for damages of any sort (whether direct, indirect or consequential) resulting from the use of the software",
+            "conf": 0.999538242816925,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We urge you to read that policy now and revisit occasionally because we may update it",
+            "conf": 0.9572948217391968,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Please note that you can cancel your Blur or Blur Mobile Premium subscription at any time",
+            "conf": 0.9999189376831055,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Abine will never sell this data",
+            "conf": 0.9319168925285339,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may delete the MaskMe mobile app through your mobile device's application management options",
+            "conf": 0.995215117931366,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "This software is provided \"AS IS\" with  NO WARRANTY  of any type",
+            "conf": 0.999932587146759,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event shall we or any of our offices, directors, employees, or consultants be liable for damages of any sort (whether direct, indirect or consequential) resulting from the use of the software",
+            "conf": 0.999538242816925,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate this Agreement at any time by uninstalling MaskMe &amp",
+            "conf": 0.9683090448379517,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We urge you to read that policy now and revisit occasionally because we may update it",
+            "conf": 0.9572948217391968,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 6.1
+}

@@ -1,0 +1,726 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Date: This Agreement was last revised on May 24, 2018",
+            "conf": 0.9999980926513672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "The Myspace Services are hosted in the United States, and if you reside outside of the United States by using the Services you consent to the transfer of your personal data to the United States and elsewhere for all purposes identified in our Privacy Notice and/or Policy",
+            "conf": 0.9991123676300049,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "You agree that: (1) we may give you notices of new, revised or changed terms and other important matters by prominently posting notice on the Myspace Website, or in another reasonable manner",
+            "conf": 0.994044303894043,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Myspace may terminate the Myspace Services and/or your Membership at any time, for any or no reason, with or without prior notice or explanation, and without liability, except that you may have certain refund rights related to paid Myspace Services",
+            "conf": 0.9999460577964783,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Myspace is providing the Myspace Services to you on an \u201cas-is\u201d basis, without any warranty of any kind, and Myspace\u2019s liability to you in connection with your use of the Myspace Services is very limited",
+            "conf": 0.9999717473983765,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you have not reached age of majority (18 in most of the U.S.) your parent or guardian must consent to your use",
+            "conf": 0.9999964237213135,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Password You are responsible for your password and account usage",
+            "conf": 0.9999898672103882,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Posted You are responsible for Content you post, and we are not responsible for Content other users post",
+            "conf": 0.9987491965293884,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We may provide links to third party sites and services, but we are not responsible for third party sites or services or their content.",
+            "conf": 0.9847998023033142,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for your",
+            "conf": 0.930321991443634,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ", but may elect to become involved",
+            "conf": 0.9013223052024841,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You use the Myspace Services on an \u201cAs Is\u201d basis and we disclaim any warranties, express or implied, as permitted by law",
+            "conf": 0.997385561466217,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Arbitration and No Class Relief To the maximum extent permitted by the mandatory laws in your place of residence, you agree to arbitrate most disputes, waive jury trial and class action rights and limit the time in which your claims must be brought",
+            "conf": 0.9902482628822327,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can uninstall our applications to terminate service",
+            "conf": 0.999029278755188,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "(c) for Users who reside outside of the EEA, if you are 13 years of age or older but not of the age of majority where you reside, you will only use the Myspace Services with parental or legal guardian consent (following their review of this Agreement).",
+            "conf": 0.9999973177909851,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "As a result of recent changes to the European Data Protection Laws, we are no longer able to offer Memberships to Users under 16 years of age who reside in the EEA",
+            "conf": 0.9994759559631348,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "PLEASE NOTE THAT THE TERMS OF THIS TERMS OF USE AGEEMENT ARE SUBJECT TO CHANGE BY MYSPACE IN ITS SOLE DISCRETION AT ANY TIME, AND WE MAY CEASE OFFERING THE MYSPACE SERVICES AT ANY TIME",
+            "conf": 0.9981942772865295,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "We will also update the \u201cLast Updated\u201d date at the top of the Terms of Use Agreement",
+            "conf": 0.999138593673706,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Any changes to the Terms of Use Agreement will be effective immediately for new visitors of the Myspace Website and will be effective thirty (30) days after posting notice of such changes on the MySpace Website for existing Members, provided that any material changes shall be effective for Members upon the earlier of thirty (30) days after posting notice of such changes on the Myspace Website or thirty (30) days after dispatch of an e-mail notice of such changes to Members",
+            "conf": 0.9995340704917908,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the ongoing integrity, accessibility, or usability of any uploaded files so please back up any data you upload to the Myspace Website",
+            "conf": 0.9983362555503845,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate your Membership at any time, for any reason, by following the instructions in your Profile Settings (discussed further in Section 9).",
+            "conf": 0.9713455438613892,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Myspace may terminate the Myspace Services and/or your Membership at any time, for any or no reason, with or without prior notice or explanation, and without liability, except that you may have certain refund rights as provided in the next section",
+            "conf": 0.9999368786811829,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Further, we may deny, restrict, suspend, or terminate your access to all or any part of the Myspace Services at any time, for any or no reason, with or without prior notice or explanation, and to the maximum extent permitted by applicable law, without liability, except that you may have certain refund rights as provided in the next section",
+            "conf": 0.999967098236084,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Myspace expressly reserves the right to remove your Profile or Content, in whole or in part, and/or deny, restrict, suspend, or terminate your access to all or any part of the Myspace Services, if Myspace determines, in its sole discretion, that you have violated this Agreement, are acting in a manner we deem inappropriate for the Myspace Services, or pose a threat to Myspace, its employees, business partners, Users and/or the public",
+            "conf": 0.9989880919456482,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Customer support representatives do not have the authority to bind us or to change or waive our rights under this Agreement or any Additional Terms",
+            "conf": 0.9956196546554565,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are entirely responsible for maintaining the confidentiality of your password.",
+            "conf": 0.9640809893608093,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree not to use the Account, username, email address or password of another Member at any time or to disclose your password to any third party",
+            "conf": 0.9996445775032043,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for any and all use of your Account",
+            "conf": 0.9998690485954285,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Myspace reserves the right to remove commercial content in its sole discretion",
+            "conf": 0.9789111018180847,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "To maintain the Myspace Services in a manner we deem appropriate for our venue and to the maximum extent permitted by applicable law, Myspace may, but will not have any obligation to, review, monitor, display, reject, refuse to post, store, maintain, accept or remove any Content (as further defined below) posted (including, without limitation, private Myspace messages, public comments, public group chat messages, private group chat messages or private instant messages (collectively, \u201cMessages\u201d)) by you, and Myspace may, in its sole discretion, delete, move, re-format, remove or refuse to post or otherwise make use of Content without notice or any liability to you or any third party in connection with our operation of Content venues in an appropriate manner",
+            "conf": 0.9999150633811951,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The foregoing limited license: (i) does not give you any ownership of, or any other intellectual property interest in, any Myspace Content, and (ii) may be immediately suspended or terminated for any reason, in Myspace",
+            "conf": 0.9849228858947754,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "\u2019s sole discretion, and without advance notice or liability",
+            "conf": 0.9953775405883789,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If at any time Myspace chooses, in its sole discretion, to review or monitor the Myspace Services, Myspace nonetheless assumes no responsibility for the Content, no obligation to modify or remove any inappropriate Content, and no responsibility for the conduct of the User submitting any such Content",
+            "conf": 0.9429685473442078,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are not the age of majority where you reside, you represent and warrant that your parent or guardian has read this section and consented and agreed on your behalf",
+            "conf": 0.993139922618866,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "BY ACCEPTING THIS AGREEMENT YOU WAIVE AND HOLD HARMLESS MYSPACE FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY MYSPACE DURING OR AS A RESULT OF ITS INVESTIGATIONS AND/OR FROM ANY ACTIONS TAKEN AS A CONSEQUNCE OF INVESTIGATIONS BY EITHER MYSPACE OR LAW ENFORCEMENT AUTHORITIES",
+            "conf": 0.9999080896377563,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "solicits or is designed to solicit personal information from anyone under age 13",
+            "conf": 0.9366714954376221,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Myspace currently makes all Profiles of Members aged 18 and older public by default",
+            "conf": 0.9962761998176575,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "whose ages are 13 to 17 are currently \u201crestricted",
+            "conf": 0.9378179907798767,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "by default, as",
+            "conf": 0.9069331884384155,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We will make good faith efforts to honor Profile Settings, but are not responsible for errors and reserve the right to change the way Settings and preferences work from time to time, so visit your Profile Settings regularly to ensure that the reflect your preferences and to see how we may have added or changed how you can exercise choice",
+            "conf": 0.9234986305236816,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Myspace may suspend or terminate Profiles, and/or the Membership of Accounts associated with them, in the event they do not comply with this Agreement, or for any other or no reason",
+            "conf": 0.9999261498451233,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Myspace is not responsible for the quality or delivery of the products or services offered, accessed, obtained by or advertised at such Linked Services and makes no warranties, express or implied, as to the Linked Services or the providers of such Linked Services (including, but not limited to, the privacy practices thereof).",
+            "conf": 0.9999658465385437,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Finally, Myspace will under no circumstances be liable for any direct, indirect, incidental or special loss or other damages, whether arising from negligence, breach of contract, defamation, infringement of copyright or other intellectual property rights, caused by the exhibition, distribution or exploitation of any information or content contained within Linked Services",
+            "conf": 0.9992476105690002,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Myspace reserves the right to suspend or prohibit linking to the Myspace Services for any reason, in its sole discretion, without advance notice or any liability of any kind to you or any third party",
+            "conf": 0.9981082677841187,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We offer you certain choices as to what type of commercial communications you receive from the Myspace Services, which you can exercise by visiting your Profile Settings for notifications (click here for more information), or by following the unsubscribe instructions contained at the bottom of commercial emails sent by Myspace, and we will make good faith efforts to honor those choices",
+            "conf": 0.9990620017051697,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MYSPACE IS NOT RESPONSIBLE FOR AND MAKES NO REPRESENTATIONS OR WARRANTIES OR ENDORSEMENTS OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED, AS TO: (A) THE MYSPACE SERVICES",
+            "conf": 0.9995099306106567,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "MYSPACE IS NOT RESPONSIBLE FOR THE CONTENT, ACCURACY OR OPINIONS EXPRESSED ON SUCH WEBSITES AND SERVICES, AND SUCH WEBSITES AND SERVICES ARE NOT NECESSARILY INVESTIGATED, MONITORED OR CHECKED FOR ACCURACY OR COMPLETENESS BY MYSPACE",
+            "conf": 0.9999752044677734,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "MYSPACE TAKES NO RESPONSIBILITY FOR THIRD PARTY ADVERTISEMENTS OR LINKED SERVICES THAT ARE POSTED ON, THROUGH OR IN CONNECTION WITH THE MYSPACE SERVICES OR LINKED SERVICES, NOR DOES IT TAKE ANY RESPONSIBILITY FOR THE GOODS OR SERVICES PROVIDED BY THESE THIRD PARTIES",
+            "conf": 0.9909182786941528,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "MYSPACE IS NOT RESPONSIBLE FOR ANY PROBLEMS OR TECHNICAL MALFUNCTION OF ANY TELEPHONE NETWORK OR LINES, COMPUTER ONLINE SYSTEMS, SERVERS OR PROVIDERS, COMPUTER EQUIPMENT, SOFTWARE, FAILURE OF ANY EMAIL OR PLAYERS DUE TO TECHNICAL PROBLEMS OR TRAFFIC CONGESTION ON THE INTERNET OR ON ANY OF THE MYSPACE SERVICES OR LINKED SERVICES OR COMBINATION THEREOF, INCLUDING, WITHOUT LIMITATION, ANY INJURY OR DAMAGE TO USERS OR TO ANY PERSON\u2019S COMPUTER RELATED TO OR RESULTING FROM PARTICIPATION OR DOWNLOADING MATERIALS IN CONNECTION WITH THE MYSPACE SERVICES OR LINKED SERVICES",
+            "conf": 0.9643367528915405,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES SHALL MYSPACE BE RESPONSIBLE FOR ANY LOSS OR DAMAGE, INCLUDING, WITHOUT LIMITATION, PERSONAL INJURY OR DEATH, RESULTING FROM USE OF THE MYSPACE SERVICES OR LINKED SERVICES, ATTENDANCE AT A MYSPACE EVENT, FROM ANY USER CONTENT POSTED ON OR THROUGH THE MYSPACE SERVICES OR LINKED SERVICES, OR FROM THE CONDUCT OF ANY USERS OF THE MYSPACE SERVICES, WHETHER ONLINE OR OFFLINE",
+            "conf": 0.9917671084403992,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE MYSPACE SERVICES AND YOUR ABILITY TO ACCESS THE LINKED SERVICES ARE PROVIDED \u201cAS-IS\u201d AND \u201cAS AVAILABLE\u201d AND \u201cWITH ALL FAULTS\u201d BASIS AND MYSPACE EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, CUSTOM, TRADE, QUIET ENJOYMENT, SYSTEM INTEGRATION AND FREEDOM FROM COMPUTER VIRUS",
+            "conf": 0.9975025057792664,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "MYSPACE CANNOT GUARANTEE AND DOES NOT PROMISE ANY SPECIFIC RESULTS FROM USE OF THE MYSPACE SERVICES OR LINKED SERVICES",
+            "conf": 0.9989242553710938,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL MYSPACE BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING, WITHOUT LIMITATION, LOST PROFIT DAMAGES ARISING FROM: (A) YOUR USE OR INABILITY TO USE THE MYSPACE SERVICES (INCLUDING THE CONTENT AND MYSPACE CONTENT) OR LINKED SERVICES, OR THE PERFORMANCE OF THE MYSPACE SERVICES OR LINKED SERVICES, (B) ANY ACTION TAKEN IN CONNECTION WITH AN INVESTIGATION BY MYSPACE OR LAW ENFORCEMENT AUTHORITIES REGARDING YOUR ACCESS TO OR USE OF THE MYSPACE SERVICES, (C) ANY ACTION TAKEN IN CONNECTION WITH COPYRIGHT OR OTHER INTELLECTUAL PROPERTY OWNERS OR OTHER RIGHTS OWNERS, (D) ANY ERRORS OR OMISSIONS IN THE MYSPACE SERVICES\u2019 TECHNICAL OPERATION, OR (E) ANY DAMAGE TO A USER\u2019S COMPUTER, HARDWARE, SOFTWARE, MODEM, OR OTHER EQUIPMENT OR TECHNOLOGY, INCLUDING DAMAGE FROM ANY SECURITY BREACH OR FROM ANY VIRUS, BUGS, TAMPERING, FRAUD, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER LINE, OR NETWORK FAILURE OR ANY OTHER TECHNICAL OR OTHER MALFUNCTION, INCLUDING LOSSES OR DAMAGES IN THE FORM OF LOST PROFITS, LOSS OF GOODWILL, LOSS OF DATA, WORK STOPPAGE, ACCURACY OF RESULTS, OR EQUIPMENT FAILURE OR MALFUNCTION, EVEN IF MYSPACE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9941489100456238,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "THE FOREGOING LIMITATIONS OF LIABILITY WILL APPLY EVEN IF ANY OF THE FOREGOING EVENTS OR CIRCUMSTANCES WERE FORESEEABLE AND EVEN IF MYSPACE WAS ADVISED OF OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH LOSSES OR DAMAGES, REGARDLESS OF WHETHER YOU BRING AN ACTION BASED IN CONTRACT, NEGLIGENCE, STRICT LIABILITY, OR TORT (INCLUDING WHETHER CAUSED, IN WHOLE OR IN PART, BY NEGLIGENCE, ACTS OF GOD, TELECOMMUNICATIONS FAILURE, OR DESTRUCTION OF THE MYSPACE SERVICES).",
+            "conf": 0.9915634989738464,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "No Class Action Matters",
+            "conf": 0.9991063475608826,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Disputes will be arbitrated only on an individual basis and will not be consolidated with any other arbitrations or other proceedings that involve any claim or controversy of any other party, with the exception of representative claims solely for injunctive relief brought under California unfair competition law",
+            "conf": 0.9998699426651001,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "AGREEMENT TO THESE TERMS CONSTITUTES AN AGREEMENT TO PURSUE YOUR CLAIM FOR ALLEGED DAMAGES ONLY ON AN INDIVIDUAL BASIS AND A WAIVER OF THE ABILITY TO PURSUE YOUR CLAIM IN A CLASS ACTION",
+            "conf": 0.9999909996986389,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "To the maximum extent permitted by applicable law, you agree to indemnify, defend (at Myspace\u2019s election) and hold Myspace, its subsidiaries, and affiliates, subcontractors and other partners, and their respective officers, agents, partners and employees, harmless from any loss, liability, claim, or demand, including, but not limited to, reasonable attorneys\u2019 fees and costs, alleged by any third party due to or arising out of or in connection with: (a) your use of the Myspace Services or Linked Services, and your activities in connection with the Myspace Services or Linked Services",
+            "conf": 0.9994760155677795,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Notwithstanding the foregoing, Myspace retains the exclusive right to settle, compromise, and pay any and all Claims and Losses",
+            "conf": 0.9608865976333618,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") THAT, IN CONNECTION WITH YOUR CLAIM, YOU AGREE THAT YOU WILL NOT SEEK, AND THAT YOU WILL NOT BE PERMITTED TO OBTAIN, ANY COURT OR OTHER ACTION THAT MAY INTERFERE WITH OR PREVENT THE",
+            "conf": 0.972560465335846,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right to limit the availability of the Myspace Services and/or the provision of any content, program, product, service, or other feature described or available on the Myspace Services to any person, entity, geographic area, or jurisdiction, at any time and in our sole discretion, and to limit the quantities of any content, program, product, service, or other feature that we provide",
+            "conf": 0.977669894695282,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Myspace may at any time and in its sole discretion revoke your license to use the Software or suspend or terminate your access to the Software without notice or explanation",
+            "conf": 0.9996209144592285,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Myspace to exercise or enforce any right or provision of this Agreement shall not operate as a waiver of such right or provision",
+            "conf": 0.9999974370002747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of this Agreement is unlawful, void or unenforceable, that provision is deemed severable from this Agreement and does not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9695267677307129,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: This Privacy Policy was last revised on April 27, 2017",
+            "conf": 0.999998927116394,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Third parties \u2013 including linked services (e.g., Twitter), advertisers, and advertising service providers may also collect certain information about you in connection with your use of the Myspace Services (e.g., Usage Information).",
+            "conf": 0.9999973773956299,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We may use and disclose this media content consumption information as provided below for up to two (2) years from the date in which you consent unless you otherwise withdraw your consent",
+            "conf": 0.9971380829811096,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If your account is inactive for over two years, we may still store your media content consumption information for a reasonable period of time so that it will be available again if you reactivate your account",
+            "conf": 0.9867165684700012,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Myspace uses servers located in the United States and may use servers in other countries",
+            "conf": 0.9998776912689209,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We may also transfer your data to other countries (including countries outside of the European Economic Area) for processing by staff who work for us or for one of our contractors",
+            "conf": 0.99996417760849,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We may also transfer your data to other countries (including countries outside of the European Economic Area) for processing by staff who work for us or for one of our contractors",
+            "conf": 0.99996417760849,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "can no longer be re-attached to you, so it is no longer Personal Information",
+            "conf": 0.9094615578651428,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The default setting for Profiles of Members who indicate that they are under 18 years of age is restricted (i.e., Restricted Profiles), other than for Artist Profiles (as defined in the Terms of Use) of Members who are under 18 years of age, which are public by default",
+            "conf": 0.9743424654006958,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Myspace is not responsible for the actions of those with whom you choose to share your Restricted Information",
+            "conf": 0.9999104738235474,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We will provide reasonable advance notice of the changes in the Profile Settings section, or otherwise",
+            "conf": 0.9992358088493347,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Delays and errors in effecting",
+            "conf": 0.9999939799308777,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Setting preferences may occur and we do not represent that they will be immediate, complete, error-free, current, reliable or accurate",
+            "conf": 0.9999861121177673,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Usage Information may be stored or accessed using a variety of technologies including cookies, web beacons, embedded scripts, entity tags and other similar technologies whether now or later devised (collectively \"Web Technologies\"), some of which may be downloaded to the computer or other Device.",
+            "conf": 0.9989302158355713,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not control Web Technologies used by third parties and we are not responsible for them.",
+            "conf": 0.9845418930053711,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Myspace cannot control the treatment of your information by third parties and we are not responsible for their privacy practices, which may differ from those described in this Policy",
+            "conf": 0.9995608925819397,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "These analytics providers may use their own Web Technologies to provide us with these services and may otherwise collect or have access to information about you, including your Profile Content,",
+            "conf": 0.9013864398002625,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Please note that Members under the self-reported age of 18 (other than respect to Artist Profiles for artists whose indicated age is under the age of 18 and may appear in people browse results) are not intended to show up in the results of Myspace\u2019s \u201cpeople browse\u201d feature, which allows Users to browse for Members based on certain criteria inputted by the User",
+            "conf": 0.9925756454467773,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you want to stop receiving promotional materials from Myspace, you may unsubscribe by changing your Profile Settings or following the unsubscribe instructions at the bottom of the relevant e\u00acmail from Myspace",
+            "conf": 0.9999933838844299,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You will continue to receive administrative messages from Myspace even if you choose to opt\u00adout from receiving our marketing or promotional communications",
+            "conf": 0.9999590516090393,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "As a result, you may be served ads that are personalized based on, for example, your location, age, gender, content consumption, connections and other information, and we and third parties may use Web Technologies to deliver these ads",
+            "conf": 0.98763108253479,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When we or our affiliates use your personal data to deliver targeted advertising to you, we use ad delivery technologies that encrypt information that would otherwise identify you to prevent the third party advertiser from knowing who you are",
+            "conf": 0.9626353979110718,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Myspace may disclose User information in the event we file for bankruptcy, or in connection with certain types of business transactions that result in corporate change",
+            "conf": 0.909023642539978,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "For example, if Myspace is or may be (or substantially all of its assets are or may be) acquired by a third party pursuant to an acquisition, merger, sale, reorganization, liquidation, or similar business transfer, we may disclose and transfer User information to the parties involved in the transaction (e.g., in connection with due diligence efforts or as a transferred asset).",
+            "conf": 0.9999988675117493,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for such third party's data collection or practices and you should look to such third-party privacy policies for more information",
+            "conf": 0.9999064803123474,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You will always have a right to opt\u00adout from e\u00acmail marketing communications",
+            "conf": 0.9720667600631714,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "For further information on your right to opt\u00adout from communications for marketing purposes, please refer to Section 4.2.8 and Section 10",
+            "conf": 0.9779548645019531,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We do not use the Myspace Services to knowingly collect Personal Information from children under the age of 13 without parental consent",
+            "conf": 0.9999754428863525,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are a child under 13 years of age, you are not permitted to use the Myspace Services and should not send any information about yourself to us through the Myspace Services",
+            "conf": 0.9999988079071045,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "However, if we make material changes to this Policy that expand our rights to use your Personal Information, we will notify you either through a Myspace message, e-mail, and/or a prominent notice at the Myspace Website, or as otherwise required or permitted by law",
+            "conf": 0.9992042779922485,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Your participation in and use of the Myspace Services is entirely voluntarily, and you may choose to cease to using the Myspace Services and/or to terminate your Account and its associated Profile(s) at any time and for any reason",
+            "conf": 0.9999119639396667,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you no longer want to use the Myspace Services, you may cancel your Account at any time",
+            "conf": 0.9999635815620422,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To the extent permitted by applicable law, we may also retain backup information related to your Account and associated Profile(s) on our servers for as long as is reasonably necessary after cancellation for fraud detection, site operation or to comply with applicable law or our internal security policies",
+            "conf": 0.9960964918136597,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may also opt-out of certain Myspace communications via Profile Settings here",
+            "conf": 0.9997662901878357,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Accordingly you may continue to receive communications from us for a limited time after you unsubscribe",
+            "conf": 0.9999778270721436,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that we reserve the right to send you certain administrative communications relating to your account or use of the Myspace Services, such as service announcements, even if you choose to opt-out from receiving our marketing or promotional communications",
+            "conf": 0.9981013536453247,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Small graphic images or other web programming code called web beacons (also known as \"1x1 GIFs\" or \"clear GIFs\") may be included in the Myspace Services' pages and messages.",
+            "conf": 0.9893277287483215,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a page or e-mail can act as a web beacon.",
+            "conf": 0.9909654259681702,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons or similar technologies may be used for a number of purposes, including to: count visitors to the Myspace Services, to monitor how users navigate the Myspace Services, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.",
+            "conf": 0.9987234473228455,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.2
+}

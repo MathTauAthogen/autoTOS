@@ -1,0 +1,390 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Update: May 23rd, 2018",
+            "conf": 0.9999986290931702,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Third-party cookies are saved by companies of the Vivendi group or by DAILYMOTION partners, which are usually advertising partners",
+            "conf": 0.9999182224273682,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third-party advertising cookies: these cookies are saved via third-party content distributed in our advertising spaces",
+            "conf": 0.999995231628418,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Advertising cookies are saved by non-affiliated companies (like advertisers, advertising agencies, communications consulting agencies, audience measurement companies, providers of targeted advertising, etc.) through the advertising spaces on our Site.",
+            "conf": 0.9915640950202942,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These advertising cookies also allow us to adjust the advertising content displayed on your device in our advertising spaces in accordance with the browsing behavior of your device on our Site, or even on the location data transmitted by your device, where applicable (behavioral advertising",
+            "conf": 0.9997654557228088,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Do Not TrackFinally, you may configure the browser on your device to send a code informing websites that you do not wish to be tracked",
+            "conf": 0.9330593347549438,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "The Data collected by us through our Service may be sent to and stored on servers located in the United States, France, and other countries around the world",
+            "conf": 0.9999884366989136,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use both session cookies and persistent cookies to offer you a high quality Service, better understand how you interact with the Dailymotion Service or with marketing material advertising the Dailymotion Service outside of our Service",
+            "conf": 0.989912211894989,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These technologies are sometimes referred to as \"browser cookies\" even though they may be stored in different parts of your computer",
+            "conf": 0.9968069195747375,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition to cookies, we may use other similar technologies such as web beacons or pixel tags, which can be embedded in web pages, videos, or emails.",
+            "conf": 0.9983975887298584,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use Data we have, including information received from our Commercial Partners, to evaluate and improve our advertising and analytics systems so that the ads shown to you on and off our Services are customized and of real interest to you",
+            "conf": 0.9854047894477844,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This Data may also be used to tailor advertising to you based on your location by, for example, not showing you ads for services unavailable at your location",
+            "conf": 0.9896291494369507,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "They may use this information, including in combination with other data they have access to, in order to adapt content and ads that may be shown to you on our and on third parties\u2019 services",
+            "conf": 0.9013650417327881,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we sell all or part of our business, make a transfer of assets, or are otherwise involved in a change-of-control transaction, or in the event of bankruptcy, we may transfer information from or about you to one or more third parties as part of the transaction, including as part of the due diligence process",
+            "conf": 0.993940532207489,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We want you to feel confident in our security when using the Dailymotion Service, but we cannot guarantee the absolute security of Data at all times",
+            "conf": 0.9904486536979675,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Your account is unique to you and protected by a user-generated password",
+            "conf": 0.9781381487846375,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "DATA RETENTIONData is stored electronically on Dailymotion\u2019s servers or with our cloud service providers and is kept only as long as necessary for the purposes set out in the present Privacy Policy or as otherwise required by applicable laws",
+            "conf": 0.992583155632019,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We have a legal obligation to store some Data, such as information associated with the identity of an account holder (retained for a period of one year following the deletion of an account) or invoicing details",
+            "conf": 0.9841185808181763,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once the Data is no longer needed for the intended purposes, and if its retention is not required by the applicable laws, the Data is deleted or anonymized and used for statistical purposes only",
+            "conf": 0.9992387890815735,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that you may always exercise your right to erase your Personal Data stored in our system pursuant to the conditions set out in Section 9 below",
+            "conf": 0.9999496340751648,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "CONTROLChildren under the authorized age in their country of residence (\u201cMinors\u201d) are not permitted to register with Dailymotion, i.e.",
+            "conf": 0.989280104637146,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The age limit that determines whether a person is a Minor depends on the country of residence and varies from 13 to 16 years of age",
+            "conf": 0.9999134540557861,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may decide not to receive promotional communications from Dailymotion by accessing your account and clicking on \"Manage Email Notifications.\" You may also communicate to us your decision not to receive promotional communications by clicking the \"unsubscribe\" link in a particular promotional message",
+            "conf": 0.9999843239784241,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Note that you cannot opt out from receiving all communications from Dailymotion, including administrative messages, service announcements, and messages regarding the terms and conditions of your account because those may contain important information necessary to using the Dailymotion Service",
+            "conf": 0.9999658465385437,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Subject to statutory exemptions, you have the right to request access to your Personal Data, as well as update, deletion, correction or transfer of this information.",
+            "conf": 0.9809532761573792,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Note that rights and obligations provided under the CCPA take effect on 1st January 2020",
+            "conf": 0.9879850745201111,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Our affiliatesAdvertising Networks companies, data analytics providers, our affiliatesInferences drawn from PI to create your profileUser segments based on your deduced geographic location, age and/or viewing preferencesTo achieve our business purposesVYou, indirectly (information generated by us based on your activities)",
+            "conf": 0.9974132776260376,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Dailymotion does not engage in data brokerage nor knowingly sells PI of minors under 16 years of age",
+            "conf": 0.9970170855522156,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "In addition, our advertising partners collect PI, such as digital identifiers (e.g.",
+            "conf": 0.9998311400413513,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Additionally, you have the right to request the deletion of your PI that Dailymotion collected or maintained during the same 12-month period",
+            "conf": 0.9993308186531067,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Upon receipt of your verifiable request to delete your PI, we will proceed with the deletion of such information unless otherwise authorized or required by law",
+            "conf": 0.9619585871696472,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In addition to exercising your Opt-Out right via the \u201cDo Not Sell My Personal Information\u201d link available in the present Policy and on our Service, you may submit your Opt-Out, access or deletion request by contacting our Support Policy Team using one of the following methods:",
+            "conf": 0.9117704629898071,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you are a California resident under the age of 18 and a registered user of the Dailymotion Service, you may request and obtain removal of Content or information you have publicly posted on the Dailymotion Service",
+            "conf": 0.9133020639419556,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you have an account with us, you may choose to delete your Dailymotion account, in accordance with our Terms of Use, via the settings of your Dailymotion account when signed in",
+            "conf": 0.9991167187690735,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Please note that after you delete your account, you will not be able to sign into our website or access any of your Personal Data",
+            "conf": 0.947720468044281,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "However, you can open a new account at any time",
+            "conf": 0.9616209268569946,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "From time to time, we may revise this Privacy Policy to reflect changes in the law or the Dailymotion Service or for other reasons in our discretion",
+            "conf": 0.9823721647262573,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may do so as needed, but in any event, the Privacy Policy will be updated at least once every 12 months",
+            "conf": 0.9996172785758972,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material change to this Privacy Policy, we will notify you by posting a notice on the Dailymotion Site",
+            "conf": 0.9917097687721252,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Any material change to this Privacy Policy will be effective automatically (i) 7 days after the revised Privacy Policy is first posted or, for users who register or otherwise provide opt-in consent during this 7-day period, at the time of registration or consent, as applicable, or (ii) immediately upon its publication, if required so by applicable laws",
+            "conf": 0.9999460577964783,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last modified on: April 14th, 2020",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "The user id and password which are necessary to access the Dailymotion Account and the features associated with it are Your sole responsibility and it is Your obligation to keep them confidential.",
+            "conf": 0.9879109859466553,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Dailymotion may, in its sole discretion, modify these Terms from time to time, and You agree to be bound by such modifications",
+            "conf": 0.9999253749847412,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Although we may attempt to notify You when major changes are made to these Terms, You should periodically review the most up-to-date version which shall always be accessible from the homepage of the Dailymotion website",
+            "conf": 0.9909482002258301,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You shall not use the Dailymotion Service if (a) You are not of legal age to form a binding contract with Dailymotion, or (b) You are a person who is either barred or otherwise legally prohibited from receiving or using the Dailymotion Service under the laws of the country in which You are resident or from which You access or use the Dailymotion Service",
+            "conf": 0.9999983310699463,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that the Dailymotion Service, in whole or in part (including, without limitation, the look and feel, the thematic channels, the functionality, and/or the Dailymotion video player), on and through which Your Content will be distributed is provided \u201cAS IS\u201d without warranty, provided that Dailymotion may enhance, modify and update the Dailymotion Service at its sole discretion",
+            "conf": 0.9999986886978149,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") disclaim all warranties of any kind, either expressed or implied, including but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement to the fullest extent permissible under applicable law",
+            "conf": 0.9091058969497681,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The DM Parties make no warranty or representation that the Dailymotion Service or its functionalities or technology, in whole or in part, will be uninterrupted, error-free or secure, including with respect to the delivery of Your content and/or any limitations on Your or any other Visitors ability to access, view or use Your Content or any other content, or that any information obtained from the Dailymotion Service will be accurate or reliable",
+            "conf": 0.9999969601631165,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Unless otherwise stated herein, Dailymotion does not grant You any guarantee of any kind, whether expressly or implicitly, in any area, including and in particular any guarantee of fitness for a particular purpose",
+            "conf": 0.9174594879150391,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": ") Your failure to provide Dailymotion with accurate account information (v) Your failure to keep Your password or your accounts details secure and confidential",
+            "conf": 0.9848953485488892,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree and shall indemnify and hold Dailymotion- harmless from and against any liability, loss, damages (including punitive damages), claim, settlement payment, cost and expense, interest, award, judgment, diminution in value, fine, fee (including reasonable attorneys\u2019 fees), and penalty, or other charge (including reasonable attorneys\u2019 fees and all other cost of investigating, defending or asserting any claim for indemnification under these Terms) arising from or relating to (i) Your Content, (ii) Your violation of the Terms or any other policy of Dailymotion",
+            "conf": 0.9999992251396179,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If You decide to visit any Linked Site, You do so at Your own risk and it is Your responsibility to take all protective measures to guard against viruses or other destructive elements.Dailymotion has no responsibility to You with respect to any Linked Site, and no Linked Site, regardless of the linking form (e.g.",
+            "conf": 0.9440381526947021,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "You agree that Dailymotion may provide You with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Dailymotion Service",
+            "conf": 0.9991127252578735,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default",
+            "conf": 0.9934994578361511,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: May 23rd 2018",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.1
+}

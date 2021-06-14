@@ -1,0 +1,922 @@
+{
+    "predictions": [
+        {
+            "label": "10",
+            "text": "This process will not delete location information collected from your other devices and is limited to deletion of data collected through Enhanced Location Services",
+            "conf": 0.9987008571624756,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once disabled, backup data currently associated with your device and Amazon account will be deleted",
+            "conf": 0.9883040189743042,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This process will not delete backup data from other devices you may have or for other accounts on your device",
+            "conf": 0.999937891960144,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Can I delete my Firefly images and audio that are retained in the Cloud?",
+            "conf": 0.9776582717895508,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This process will not delete items from your on-device Firefly history",
+            "conf": 0.9987536072731018,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To delete items from your on-device history, swipe up from within the Firefly app to see your history, select an item, and then tap \"Delete from history\".",
+            "conf": 0.9999774694442749,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: January 29, 2016",
+            "conf": 0.9999987483024597,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may change, suspend or discontinue the Service, or any part of it, at any time without notice",
+            "conf": 0.9999983310699463,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Amazon's failure to enforce your strict compliance with the Agreement will not constitute a waiver of any of our rights",
+            "conf": 0.9999653100967407,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate the Agreement or restrict, suspend or terminate your use of the Service at our discretion at any time without notice",
+            "conf": 0.9942564368247986,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Terms  Last updated: June 15, 2017",
+            "conf": 0.999323308467865,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "If we offer discounts on the purchase of Coins, we may modify or discontinue those discounts at any time without notice to you",
+            "conf": 0.9919096231460571,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may change, suspend or discontinue the Program, or any part of it, at any time without notice",
+            "conf": 0.9999961853027344,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may also terminate your right to use the Program at any time, including if we determine your use violates any term of the Agreement or involves any fraud or misuse of the Program",
+            "conf": 0.9906322956085205,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to insist upon or enforce your strict compliance with the Agreement will not constitute a waiver of any of our rights",
+            "conf": 0.9999679327011108,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any Coins used through your account without your permission",
+            "conf": 0.9999991059303284,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: January 25, 2016",
+            "conf": 0.9999979734420776,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not liable if your game play information is not stored or available through Whispersync for Games for any reason",
+            "conf": 0.9188249707221985,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may modify, suspend or discontinue GameCircle, in whole or in part, at any time without notice",
+            "conf": 0.9999985694885254,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may also terminate your right to use GameCircle at any time",
+            "conf": 0.9889345765113831,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to insist upon or enforce your strict compliance with the Agreement will not constitute a waiver of any of our rights",
+            "conf": 0.9999679327011108,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: December 13, 2017",
+            "conf": 0.9998874664306641,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We do not associate these URLs with your identity, and we generally do not keep this information for longer than 30 days",
+            "conf": 0.9995150566101074,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Changes: Amazon may change, suspend, or discontinue Amazon Silk, or any part of Amazon Silk without notice or liability",
+            "conf": 0.9997032284736633,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If Amazon elects to provide customer support of any kind, it may terminate that support at any time without notice to you",
+            "conf": 0.9995755553245544,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate the Agreement at any time by uninstalling the Software or ceasing your use of",
+            "conf": 0.9852402806282043,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Amazon may also terminate your right to use Amazon Silk at any time, and in such event may modify it to make it inoperable",
+            "conf": 0.995803713798523,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CONDITIONS OF USE, AMAZON AND ITS AFFILIATES AND LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT: (A) YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR FREE FROM ERROR, OR (B) ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE",
+            "conf": 0.9948681592941284,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Amazon reserves the right to make changes to the Agreement at any time by posting the revised terms on the",
+            "conf": 0.9537695050239563,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "website",
+            "conf": 0.9695395827293396,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Amazon's failure to enforce your strict compliance with the Agreement will not constitute a waiver of any of its rights",
+            "conf": 0.9999649524688721,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: January 18, 2016",
+            "conf": 0.9999977350234985,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may modify or discontinue any of these promotions at any time without notice to you",
+            "conf": 0.9999614953994751,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change subscription terms and prices from time to time, effective as of the beginning of the next subscription term.",
+            "conf": 0.9821348786354065,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": ", we are not a party to, and have no responsibility for, any payment or purchase transactions you make through an App (unless we expressly state otherwise in writing, such as in connection with purchases made through our Amazon Shopping App).",
+            "conf": 0.9012557864189148,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to change, remove, suspend, or disable any App without notice or liability",
+            "conf": 0.9998799562454224,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may modify, suspend or discontinue the Amazon Appstore, in whole or in part, at any time without notice",
+            "conf": 0.9999983310699463,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of our rights",
+            "conf": 0.9999774694442749,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated May 23, 2018",
+            "conf": 0.999998152256012,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "All Family Unlimited Plan members must be 13 years of age or older",
+            "conf": 0.999992311000824,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may change, suspend, or discontinue the Services, or any part of them, at any time",
+            "conf": 0.9999963045120239,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate the Agreement or restrict, suspend, or terminate your use of the Services at any time, including if we determine that your use violates the Agreement, is improper, substantially exceeds or differs from normal use by other users, involves fraud or misuse of the Services, or harms our interests or those of another user of the Services",
+            "conf": 0.993245005607605,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Unlimited Plan or Storage Plan at any time with effect to the end of its term by visiting your Amazon Music Settings, by contacting Amazon customer service, or by using any other cancellation method that we make available to you on your Music Marketplace (noted here",
+            "conf": 0.977253258228302,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to insist upon or enforce your strict compliance with the Agreement will not constitute a waiver of any of our rights",
+            "conf": 0.9999679327011108,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any term or condition of the Agreement is deemed invalid, void, or for any reason unenforceable, that part will be deemed severable and will not affect the validity and enforceability of any remaining term or condition",
+            "conf": 0.9908828139305115,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "You agree not to assign, copy, transfer or transmit the Gracenote Software or any Gracenote Data to any third party",
+            "conf": 0.9021002054214478,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "The Gracenote Software and each item of Gracenote Data are licensed to you \"AS IS.\" Gracenote makes no representations or warranties, express or implied, regarding the accuracy of any Gracenote Data from in the Gracenote Servers",
+            "conf": 0.9999969601631165,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Gracenote reserves the right to delete data from the Gracenote Servers or to change data categories for any cause that Gracenote deems sufficient",
+            "conf": 0.9987488985061646,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "No warranty is made that the Gracenote Software or Gracenote Servers are error-free or that functioning of Gracenote Software or Gracenote Servers will be uninterrupted",
+            "conf": 0.9999974966049194,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO CASE WILL GRACENOTE BE LIABLE FOR ANY CONSEQUENTIAL OR INCIDENTAL DAMAGES OR FOR ANY LOST PROFITS OR LOST REVENUES",
+            "conf": 0.983525812625885,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out at any time by sending STOP to 262966",
+            "conf": 0.9991583228111267,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "We reserve the right to cancel this offer at any time",
+            "conf": 0.9194114208221436,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last updated December 30, 2016",
+            "conf": 0.9999983310699463,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your membership by visiting Your Account and adjusting your membership settings",
+            "conf": 0.9996205568313599,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Trial members may at any time (through Your Account) choose not to continue to paid membership at the end of the trial period",
+            "conf": 0.9844512343406677,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may in our discretion change these Terms, the Kindle Store Terms of Use, Audible Service Conditions of Use, Amazon.com's Conditions of Use and Privacy Notice, or any aspect of Kindle Unlimited membership, without notice to you.",
+            "conf": 0.9862733483314514,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate your membership at our discretion without notice",
+            "conf": 0.9981754422187805,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to insist upon or enforce your strict compliance with these Terms will not constitute a waiver of any of our rights",
+            "conf": 0.9999710321426392,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated October 31, 2017",
+            "conf": 0.9999856352806091,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Prime membership any time by visiting Your Account and adjusting your membership settings",
+            "conf": 0.9998095035552979,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Trial members may at any time (through Your Account) choose not to continue to paid membership at the end of the trial period",
+            "conf": 0.9844512343406677,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Agreement Changes We may in our discretion change these Terms, Amazon.com's Conditions of Use and Privacy Notice, or any aspect of Prime membership, without notice to you.",
+            "conf": 0.9865351319313049,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate your Prime membership at our discretion without notice",
+            "conf": 0.9461787939071655,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to insist upon or enforce your strict compliance with these Terms will not constitute a waiver of any of our rights",
+            "conf": 0.9999710321426392,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action",
+            "conf": 0.9999989867210388,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: May 17, 2018",
+            "conf": 0.9999982118606567,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can turn off automatic",
+            "conf": 0.9202784299850464,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "recognition or delete any voice profile you",
+            "conf": 0.9329824447631836,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "\u2019ve created",
+            "conf": 0.9663407802581787,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Amazon has no responsibility or liability for Third Party Services",
+            "conf": 0.9692935943603516,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Publishers of Third Party Services may change or discontinue the functionality or features of their Third Party Service",
+            "conf": 0.9954284429550171,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Amazon has no responsibility or liability for such third party products or manufacturer-provided firmware",
+            "conf": 0.9223296046257019,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "This information may be stored on servers outside the country in which you live",
+            "conf": 0.9996715784072876,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee that Alexa or its functionality or content (including traffic, health, or stock information) is accurate, reliable, always available, or complete",
+            "conf": 0.9999889731407166,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Amazon has no responsibility or liability for such content",
+            "conf": 0.9952102303504944,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may change, suspend, or discontinue Alexa, or any part of it, at any time without notice",
+            "conf": 0.9999974966049194,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights",
+            "conf": 0.999986469745636,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may make changes to our site, policies, and these Terms at any time",
+            "conf": 0.9999168515205383,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may discontinue the Service or your participation in the Service at any time in our sole discretion",
+            "conf": 0.9988733530044556,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: April 5, 2018",
+            "conf": 0.9999980330467224,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for how you share Your Files and who may access Your Files that you share",
+            "conf": 0.9361662864685059,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Amazon has no responsibility or liability with respect to your use of Third Party Services or the content, functionality, or acts of Third Party Services you use",
+            "conf": 0.9900600910186768,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may change, suspend, or discontinue the Services, or any part of them, at any time without notice",
+            "conf": 0.9999980330467224,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate the Agreement or restrict, suspend, or terminate your use of the Services at our discretion without notice at any time, including if we determine that your use violates the Agreement (including repeat copyright infringement), is improper, substantially exceeds or differs from normal use by other users, or otherwise involves fraud or misuse of the Services or harms our interests or those of another user of the Services",
+            "conf": 0.9986509084701538,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to insist upon or enforce your strict compliance with the Agreement will not constitute a waiver of any of our rights",
+            "conf": 0.9999679327011108,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: June 7, 2018",
+            "conf": 0.9999980926513672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Amazon does not guarantee the accuracy or completeness of any location services",
+            "conf": 0.9999980330467224,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Some Services may be unavailable, vary (by device or geography, for example), be offered for a limited time, or require separate subscriptions",
+            "conf": 0.965158998966217,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Information provided to Amazon may be processed in the cloud to improve your experience and our products and services, and may be stored on servers outside the country in which you live",
+            "conf": 0.9999443888664246,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may change, suspend, or discontinue the Services, or any part of them, at any time without notice",
+            "conf": 0.9999980330467224,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights",
+            "conf": 0.999986469745636,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: October 5, 2016",
+            "conf": 0.9999977946281433,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change newspaper and magazine subscription terms and fees from time to time, effective as of the beginning of the next subscription term.",
+            "conf": 0.988635241985321,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Information provided to Amazon may be stored on servers outside the country in which you live",
+            "conf": 0.999938428401947,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights",
+            "conf": 0.999986469745636,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may change, suspend, or discontinue the Service, in whole or in part, including adding or removing Subscription Content from a Service, at any time without notice",
+            "conf": 0.9999979734420776,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "On both Amazon-owned and operated sites and unaffiliated sites, Amazon displays interest-based advertising using information you make available to us when you interact with our sites, content, or services",
+            "conf": 0.9986521005630493,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Interest-based ads, also sometimes referred to as personalized or targeted ads, are displayed to you based on information from activities such as purchasing on our sites, visiting sites that contain Amazon content or ads, interacting with Amazon tools, or using our payment services",
+            "conf": 0.9910019636154175,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Like other online ad networks, we use cookies, web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, \u201ccookies\u201d).",
+            "conf": 0.9999997019767761,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "However, advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalized ad or content are part of the group that the ad or content is directed towards (for example, users in the Pacific Northwest who bought or browsed for classical music).",
+            "conf": 0.9810057878494263,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Also, some third-parties may provide us information about you (such as the sites where you have been shown ads or demographic information) from offline and online sources that we may use to provide you more relevant and useful advertising",
+            "conf": 0.9979204535484314,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Advertisers or ad companies working on their behalf sometimes use technology to serve the ads that appear on our sites directly to your browser",
+            "conf": 0.998769998550415,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "They may also use cookies to measure the effectiveness of their ads and to personalize ad content",
+            "conf": 0.9987180233001709,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not have access to or control over cookies or other features that advertisers and third party sites may use, and the information practices of these advertisers and third party websites are not covered by our Privacy Notice or this Interest-Based Ads page",
+            "conf": 0.9976725578308105,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You can choose not to receive interest-based ads from Amazon",
+            "conf": 0.9956634640693665,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance\u2019s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website",
+            "conf": 0.9955043792724609,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: August 29, 2017",
+            "conf": 0.9999977350234985,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content",
+            "conf": 0.9871622323989868,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Information about our customers is an important part of our business, and we are not in the business of selling it to others",
+            "conf": 0.9566568732261658,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units",
+            "conf": 0.9741562604904175,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian",
+            "conf": 0.9999974370002747,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal information from children under the age of 13 without the consent of the child's parent or guardian",
+            "conf": 0.9999930262565613,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also",
+            "conf": 0.9229016900062561,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: May 21, 2018",
+            "conf": 0.9999977350234985,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your account and password and for restricting access to your account, and you agree to accept responsibility for all activities that occur under your account or password.",
+            "conf": 0.9976542592048645,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18, you may use the Amazon Services only with involvement of a parent or guardian",
+            "conf": 0.9999982714653015,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 21 years of age to purchase alcohol, or use any site functionality related to alcohol",
+            "conf": 0.999985933303833,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Amazon reserves the right to refuse service, terminate accounts, terminate your rights to use Amazon Services, remove or edit content, or cancel orders in its sole discretion",
+            "conf": 0.9988188147544861,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Amazon reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content",
+            "conf": 0.9999263882637024,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "and that you will indemnify Amazon for all claims resulting from content you supply",
+            "conf": 0.9400888085365295,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Amazon has the right but not the obligation to monitor and edit or remove any activity or content",
+            "conf": 0.9999802708625793,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Amazon takes no responsibility and assumes no liability for any content posted by you or any third party",
+            "conf": 0.9999926090240479,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "However, Amazon does not warrant that product descriptions or other content of any Amazon Service is accurate, complete, reliable, current, or error-free",
+            "conf": 0.9999937415122986,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Amazon does not assume any responsibility or liability for the actions, product, and content of all these and any other third parties",
+            "conf": 0.998623788356781,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "OF LIABILITY THE AMAZON SERVICES AND ALL INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) AND OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES ARE PROVIDED BY AMAZON ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS, UNLESS OTHERWISE SPECIFIED IN WRITING",
+            "conf": 0.9876906275749207,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AMAZON MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE AMAZON SERVICES, OR THE INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES, UNLESS OTHERWISE SPECIFIED IN WRITING",
+            "conf": 0.9969577193260193,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AMAZON DOES NOT WARRANT THAT THE AMAZON SERVICES, INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES, AMAZON'S SERVERS OR ELECTRONIC COMMUNICATIONS SENT FROM AMAZON ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS",
+            "conf": 0.9937481880187988,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULL EXTENT PERMISSIBLE BY LAW, AMAZON WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF ANY AMAZON SERVICE, OR FROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH ANY AMAZON SERVICE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES, UNLESS OTHERWISE SPECIFIED IN WRITING",
+            "conf": 0.9999998807907104,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "We each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action",
+            "conf": 0.9999989867210388,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to make changes to our site, policies, Service Terms, and these Conditions of Use at any time",
+            "conf": 0.9997095465660095,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition",
+            "conf": 0.9995084404945374,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.7
+}

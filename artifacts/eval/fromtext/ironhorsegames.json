@@ -1,0 +1,250 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "You must be 18 to accept these terms and buy the app",
+            "conf": 0.9999917149543762,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be 18 or over to accept these terms and buy the App",
+            "conf": 0.9999956488609314,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for other websites you link to",
+            "conf": 0.9999918937683105,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Such independent sites are not under our control, and we are not responsible for and have not checked and approved their content or their privacy policies (if any).",
+            "conf": 0.9999852776527405,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Our responsibility for loss or damage suffered by you",
+            "conf": 0.999779999256134,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not liable for business losses",
+            "conf": 0.9999169111251831,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Although we make reasonable efforts to update the information provided by the App, we make no representations, warranties or guarantees, whether express or implied, that such information is accurate, complete or up to date",
+            "conf": 0.9999952912330627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for events outside our control",
+            "conf": 0.999496340751648,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "You must delete or remove the App from all devices in your possession and immediately destroy all copies of the App which you have and confirm to us that you have done this",
+            "conf": 0.9622659087181091,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may transfer our rights and obligations under these terms to another organisation",
+            "conf": 0.923838198184967,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Even if we delay in enforcing this contract, we can still enforce it later",
+            "conf": 0.9990540146827698,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If we do not insist immediately that you do anything you are required to do under these terms, or if we delay in taking steps against you in respect of your breaking this contract, that will not mean that you do not have to do those things and it will not prevent us taking steps against you at a later date",
+            "conf": 0.9946463704109192,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: May 25, 2018",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "you must immediately leave and discontinue use of the Website",
+            "conf": 0.9292697310447693,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "and we request that you promptly erase all of our Games from your mobile device",
+            "conf": 0.9701306223869324,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": ", and will remain in effect except with respect to any of its provisions that are changed in the future, in which case the changes will become effective on the date they are posted on this website or we otherwise notify you of the changes",
+            "conf": 0.943497359752655,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change this Policy at any time",
+            "conf": 0.9999096393585205,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "You should check this Policy periodically as its terms may change from time to time",
+            "conf": 0.9998235106468201,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "We will also revise the \u201clast updated\u201d date found at the beginning of this Policy when we post changes to it",
+            "conf": 0.9575343132019043,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may also collect information from advertising platforms and partners and other third parties such as information about purchases and interests",
+            "conf": 0.9989674687385559,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In addition, third parties may track and collect information regarding your online activities over time and across different online platforms (such as websites, applications, etc.).",
+            "conf": 0.9970211386680603,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "to measure reach and effectiveness of advertisement campaigns, to offer targeted advertising, to personalize experience by showing advertisements for products and services that are more likely to appeal to you",
+            "conf": 0.9467458128929138,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "to send push notifications to your device after you agree to accept push notifications from us or third parties",
+            "conf": 0.9941080808639526,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "of children and has no intention of collecting personal data from children under the age of 18",
+            "conf": 0.9334717988967896,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Please note that we provide general audience Services, and do not direct any of our content specifically at children under 13 years of age",
+            "conf": 0.9999561905860901,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we learn or have reason to suspect that a user of our Services is under age 13, we will promptly delete any personal information regarding that user",
+            "conf": 0.9999299645423889,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "5",
+            "text": "We honor \u201cDo Not Track\u201d (DNT) signals and do not track, plant cookies, or use advertising when a DNT browser mechanism is in place",
+            "conf": 0.9999796748161316,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "By using any Service, you expressly acknowledge and agree that we do not guarantee the security of any data provided to or received by us and that any personal information, general information, or other data or information received from you pursuant to your use of the Services is provided to us at your own risk, which you expressly assume",
+            "conf": 0.9708805680274963,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "These third-party ad networks may collect and use information about your interaction with our Services in connection with such marketing, sales and advertising activities",
+            "conf": 0.9997571110725403,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Note that if you click on any of these advertisements, the advertisers may use cookies and other web-tracking technologies (such as tracking pixel",
+            "conf": 0.9340759515762329,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ", etc.) on your device to collect data regarding advertisement performance, your interaction with such advertisements and our Services, and your interests in order to serve you advertisements, including targeted advertisements, and for the legitimate business interests of such third-party ad networks.",
+            "conf": 0.9662539958953857,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The sites those links take you to have their own separate privacy policy and although we seek to protect the integrity of our Website, Iron Horse is not liable for the content and activities of those sites.",
+            "conf": 0.996163010597229,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Please note that those other sites may send their own cookies to users, collect data, or solicit personal information",
+            "conf": 0.9956926703453064,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Ad identifiers are non-permanent, non-personal identifiers such as the Android advertising ID and/or Apple's ID for advertising (the \u2018IDFA\u2019), which are uniquely associated with your device.",
+            "conf": 0.9957093596458435,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Ad identifiers, cookies and similar technologies are used by us to provide our Services to you and in order to collect data from your device.",
+            "conf": 0.9966377019882202,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.5
+}

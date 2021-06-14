@@ -1,0 +1,250 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Terms of Use as of 5/5/2018",
+            "conf": 0.9999980330467224,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We emphasize that Avaaz is not legally responsible for user contributions -- that responsibility lies solely with the person that posted it on our site.",
+            "conf": 0.9887381196022034,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "The Avaaz Team Introduction Effective Date: 5/5/2018",
+            "conf": 0.9958379864692688,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We may update these policies from time to time, and if we make any significant changes to the rules that govern this site or the way we treat your personal information, we will add a prominent notice to the website.",
+            "conf": 0.9845552444458008,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "collect information via cookies, pixel tags, and other technologies",
+            "conf": 0.9807648062705994,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 13 (US) or 16 (EU &amp",
+            "conf": 0.9999875426292419,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Analyze how you use the site using tools like Google Analytics and other tools to help us test the performance of content and site functionality, understand traffic patterns, and know if there are problems with the site",
+            "conf": 0.9512627720832825,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Avaaz does not rent or sell your personal information and we will only share it with the parties described below, as required by law, or with trusted third parties with your permission",
+            "conf": 0.9999651312828064,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not authorize them to use or disclose your personal information except in connection with providing their services",
+            "conf": 0.9738549590110779,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Based on your use of this site, we may use cookies to target you for other campaign promotions on Facebook, Google, or other online services",
+            "conf": 0.9902911186218262,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Affiliated Third Parties: In the future, we may transfer your personal information to a third party as a result of a merger, acquisition, reorganization or similar transaction",
+            "conf": 0.9295524954795837,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Avaaz is a global organization with members and staff around the world, so your information may be transferred and stored across borders",
+            "conf": 0.9999523758888245,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We hold on to your personal information for as long as is necessary for the purpose(s) for which it was collected, unless otherwise required by law",
+            "conf": 0.999359667301178,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Restrict or Erase: You can ask us to limit our use of your information or ask us to delete your personal information from our records if there is no compelling reason for us to hold on to it.",
+            "conf": 0.9866955876350403,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Please note that where we rely on your consent to use your personal information, all users worldwide have the right to withdraw that consent at any time",
+            "conf": 0.9137287735939026,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "This includes the option to unsubscribe from our email list at any time or to contact us to request to be excluded from our online campaign promotion lists or text messaging",
+            "conf": 0.9999886155128479,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We have no control over external websites and are not responsible for their content or privacy practices",
+            "conf": 0.9999717473983765,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "How can I unsubscribe",
+            "conf": 0.9813820719718933,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If at any time you would like to unsubscribe from our email list, you may do so via your profile page or by following this link, which is also included in every campaign email that you receive from us",
+            "conf": 0.9999935626983643,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "It is a condition of your use of the site that all the information you provide is correct, current, and complete, and you keep your password and account access secure",
+            "conf": 0.9995549321174622,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "In order to ensure we can protect the community, the website and other users, we have the right to disable any user identification code or password, whether chosen by you or provided by us, at any time and for any reason, including, if in our opinion, you have failed to comply with any provision of these Terms of Use",
+            "conf": 0.9991953372955322,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for any content you post or actions you take via this site and their consequences",
+            "conf": 0.9996609687805176,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible, or liable to any third party, for the content or accuracy of any materials posted by you or any other user of this website and you agree to bear full responsibility for the content you post to the site",
+            "conf": 0.9999830722808838,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Remove or refuse to post any User Contributions for any or no reason",
+            "conf": 0.9995419979095459,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You waive and hold harmless Avaaz from any claims resulting from any action taken by Avaaz during or as a result of its investigations and from any actions taken as a consequence of investigations by either Avaaz or law enforcement authorities",
+            "conf": 0.9999790787696838,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no control over the contents of those websites or resources, and therefore cannot accept responsibility for them or for any loss or damage that may arise from your use of them.",
+            "conf": 0.9940418601036072,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Keep this in mind as Avaaz will not be liable if all or any part of the website is unavailable at any time for any period of time",
+            "conf": 0.9256899356842041,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You understand that we cannot and do not guarantee or warrant that files available for downloading from the internet or the website will be free of viruses or other destructive code",
+            "conf": 0.9998193383216858,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for any loss or damage caused by a distributed denial-of-service attack, viruses or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of the website or any services or items obtained through the website or to your downloading of any material posted on it, or on any website linked to it.",
+            "conf": 0.9985514879226685,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The website, its content and any services or items obtained through the website are provided on an \"as is\" and \"as available\" basis, without any warranties of any kind, either express or implied",
+            "conf": 0.999996542930603,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Neither Avaaz nor any person associated with avaaz makes any warranty or representation with respect to the completeness, security, reliability, quality, accuracy or availability of the website",
+            "conf": 0.9999967217445374,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Without limiting the foregoing, neither Avaaz nor anyone associated with Avaaz represents or warrants that the website, its content or any services or items obtained through the website will be accurate, reliable, error-free or uninterrupted, that defects will be corrected, that our site or the server that makes it available are free of viruses or other harmful components or that the website or any services or items obtained through the website will otherwise meet your needs or expectations",
+            "conf": 0.9999974370002747,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no event will Avaaz, its affiliates or their licensors, service providers, employees, agents, officers or directors be liable for damages of any kind, under any legal theory, arising out of or in connection with your use, or inability to use, the website, any websites linked to it, any content on the website or such other websites or any services or items obtained through the website or such other websites, including any direct, indirect, special, incidental, consequential or punitive damages, including but not limited to, personal injury, pain and suffering, emotional distress, loss of revenue, loss of profits, loss of business or anticipated savings, loss of use, loss of goodwill, loss of data, and whether caused by tort (including negligence), breach of contract or otherwise, even if foreseeable.",
+            "conf": 0.9994710087776184,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "That means that you agree to defend, indemnify and hold harmless Avaaz, its affiliates and licensors and their respective officers, directors, employees, contractors, agents, licensors and suppliers from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys' fees) resulting from your violation of these Terms of Use or your use of the website, including, without limitation, any use of the website's content, services and products other than as expressly authorized in these Terms of Use or your use of any information obtained from the website",
+            "conf": 0.999998152256012,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of these Terms of Use by Avaaz shall be deemed a further or continuing waiver of such term or condition or any other term or condition, and any failure of Avaaz to assert a right or provision under these Terms of Use shall not constitute a waiver of such right or provision",
+            "conf": 0.9999848008155823,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.3
+}

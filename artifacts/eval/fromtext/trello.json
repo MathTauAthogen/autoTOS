@@ -1,0 +1,873 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective starting May 25, 2018",
+            "conf": 0.9999744296073914,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Trello and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices",
+            "conf": 0.99998939037323,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Other partners: We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in, and engagement with, our Services and online advertisements.",
+            "conf": 0.978912889957428,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We share information we collect about you in the ways discussed below, including in connection with possible business transfers, but we are not in the business of selling information about you to advertisers or other third parties",
+            "conf": 0.9998579025268555,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To request removal of your information from publicly accessible websites operated by us, please contact us as provided below",
+            "conf": 0.9659742116928101,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may share or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of the Trello or Atlassian businesses to another company",
+            "conf": 0.9957976341247559,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We use data hosting service providers in the United States to host the information we collect, and we use technical measures to secure your data",
+            "conf": 0.917332649230957,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.",
+            "conf": 0.9911794662475586,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you have elected to receive marketing emails from us, we retain information about your marketing preferences unless you specifically ask us to delete such information",
+            "conf": 0.9272083640098572,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Your",
+            "conf": 0.9857739210128784,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ": You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), to request the deletion or restriction of your information, or to request your information in a structured, electronic format.",
+            "conf": 0.9905593395233154,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you are an administrator and are unable to deactivate an account through your administrator settings, please contact Trello support.12 Please be aware that deactivating access to a board, team or enterprise does not delete your information from that board, team or enterprise",
+            "conf": 0.9312857985496521,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Delete your information: Our Services and related documentation13 give you the ability to delete certain information about you from within the Service.",
+            "conf": 0.9771674871444702,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, you can remove content that contains information about you using the key word search and editing tools associated with that content and you can remove certain profile information within your profile settings",
+            "conf": 0.906307578086853,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can also opt-out of our use of your information for marketing purposes by contacting us, as provided below",
+            "conf": 0.9999816417694092,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Opt out of communications: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database",
+            "conf": 0.9999808073043823,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of some notification messages in your account settings",
+            "conf": 0.9993508458137512,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Some browsers have incorporated \"Do Not Track\" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked",
+            "conf": 0.9191587567329407,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Because there is not yet a common understanding of how to interpret the DNT signal, our Services do not currently respond to browser DNT signals",
+            "conf": 0.999966025352478,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier).",
+            "conf": 0.9881478548049927,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "we collect internationally International transfers of information we collect We collect information globally and primarily store that information in the United States",
+            "conf": 0.9635744094848633,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We transfer, process and store your information outside of your country of residence, to wherever we, Atlassian or our third-party service providers operate for the purpose of providing you the Services",
+            "conf": 0.9997119307518005,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "To facilitate our global operations, we transfer information to the United States and allow access to that information from countries in which Trello and other Atlassian corporate affiliates have operations for the purposes described in this policy",
+            "conf": 0.987280011177063,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy or security practices of an administrator's organization, which may be different than this policy",
+            "conf": 0.9985935091972351,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "restrict, suspend or terminate your access to the Services or your account",
+            "conf": 0.9685943722724915,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our policy towards children The Services are not directed to individuals under 16",
+            "conf": 0.99986732006073,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal information from children under 16",
+            "conf": 0.9998320937156677,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may change this privacy policy from time to time",
+            "conf": 0.9978680610656738,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by adding a notice on the Services homepages, login screens, or by sending you an email notification",
+            "conf": 0.9997537136077881,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Trello\u2019s Terms of Service will be replaced with the Atlassian Cloud Terms of Service on November 1, 2018",
+            "conf": 0.923161506652832,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Trello reserves the right to update and change the Agreement from time to time without notice or acceptance by You",
+            "conf": 0.9999925494194031,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Trello may at its sole discretion modify the features of the Service from time to time without prior notice",
+            "conf": 0.9999197721481323,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of the access data for Your Account, and are fully responsible for all activities that occur under Your Account",
+            "conf": 0.9932814836502075,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Trello cannot and will not be liable for any loss or damage arising from Your failure to comply with this section",
+            "conf": 0.9971421957015991,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using the Service (and registering an Account on the Service), You represent and warrant that You are at least 13 years of age, and no one under the age of 13 may use the Service - except as set forth below under \"Kids Under 13 and Trello\".",
+            "conf": 0.9999993443489075,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "KIDS UNDER 13 AND TRELLO Trello is not directed to children, and we expect that any use by children will only be done with the guidance, supervision and consent of their parents, guardians and/or authorized school officials.",
+            "conf": 0.9930897355079651,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Trello may change prices at any time without prior notice, but will endeavor to provide reasonable advance notice via the Trello website and/or electronic mail",
+            "conf": 0.9882552027702332,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may, however, cancel Your Paid Plan at any time",
+            "conf": 0.9998226761817932,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Trello may, at its sole discretion, at any time and for any reason, terminate the Service, terminate this Agreement, or suspend or terminate Your Account",
+            "conf": 0.9939585328102112,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "This means that You, and not Trello, are entirely responsible for all User Content that You upload, post, transmit or otherwise make available via Your Account",
+            "conf": 0.9560281038284302,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Trello does not control the User Content posted via the Service and, as such, does not guarantee the accuracy, integrity or quality of such User Content",
+            "conf": 0.9838064312934875,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will Trello be liable in any way for any User Content, including, but not limited to, for any errors or omissions in any Content, or for any loss or damage of any kind incurred as a result of the use of any Content posted, transmitted or otherwise made available via the Service",
+            "conf": 0.997715413570404,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge that Trello does not pre-screen User Content, but that Trello and its designees shall have the right (but not the obligation) in their sole discretion to refuse, modify or move any Content that is available via the Service",
+            "conf": 0.9354385137557983,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Trello has no responsibility or liability for the deletion of, or the failure to store or to transmit, any User Content and other communications maintained by the Service",
+            "conf": 0.9999648928642273,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge that we reserve the right to log off users who are inactive for an extended period of time",
+            "conf": 0.9243230819702148,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Trello takes no responsibility for any third-party Content or User Content (including, without limitation,any viruses or other disabling features), nor does Trello have any obligation to monitor such third-party Content.",
+            "conf": 0.9968140125274658,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Trello reserves the right at all times to remove or refuse to distribute any Content on the Service, such as Content which violates these Terms of Service",
+            "conf": 0.9999550580978394,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "NO WARRANTIES OR REPRESENTATIONS BY TRELLO INC You understand and agree that the Service is provided \"as is\" and Trello, its affiliates, suppliers and Resellers expressly disclaim all warranties of any kind, express or implied, including without limitation any warranty of merchantability, fitness for a particular purpose, non-infringement or bailment of your data on Trello's servers",
+            "conf": 0.9999954700469971,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Trello, its affiliates, suppliers and Resellers make no warranty or representation regarding the results that may be obtained from the use of the Service, the security of the Service, or that the Service will meet any user's requirements",
+            "conf": 0.9999715089797974,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You will be solely responsible for any damage to You resulting from the use of the Service.",
+            "conf": 0.9722238183021545,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNITY You agree to indemnify, defend and hold harmless Trello, its affiliates, officers, directors, employees, consultants, agents, suppliers and Resellers from any and all third party claims, liability, damages and/or costs (including, but not limited to, attorneys fees as and when incurred) arising from Your use of the Service, Your use of Your Account, Your violation of these Terms of Service or the infringement or violation by You or any other User of Your Account, of any intellectual property relating to the Service (including without limitation Your User Content) or other right of any person or entity",
+            "conf": 0.9999999403953552,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "MODIFICATIONS TO SERVICE Trello reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice at any time",
+            "conf": 0.9999980330467224,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "LIMITATION OF LIABILITY In no event will Trello or its affiliates, suppliers or Resellers be liable for any special, incidental, indirect, exemplary or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss or damage) arising out of the use of or inability to use the Service, or the provision of or failure to provide technical or other support service, whether arising in tort (including negligence) contract or any other legal theory, even if Trello, its affiliates, suppliers or Resellers have been advised of the possibility of such damages.",
+            "conf": 0.9976173639297485,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "WAIVER AND SEVERABILITY Failure by either party to exercise any of its rights under, or to enforce any provision of, this Agreement will not be deemed a waiver or forfeiture of such rights or ability to enforce such provision",
+            "conf": 0.9999862909317017,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Trello may change the terms of this Agreement at any time by posting modified terms on its website",
+            "conf": 0.9998928308486938,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "4/22/15",
+            "conf": 0.9845174551010132,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "4/22/15",
+            "conf": 0.997667133808136,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective starting: November 1, 2018",
+            "conf": 0.9998740553855896,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for any and all actions taken using End User Accounts and passwords, and you agree to immediately notify us of any unauthorized use of which you become aware.",
+            "conf": 0.9979332685470581,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "2.6.\u00a0Age Requirement for End Users",
+            "conf": 0.9995407462120056,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Cloud Products are not intended for, and should not be used by, anyone under the age of 16",
+            "conf": 0.9999951720237732,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You are responsible for ensuring that all End Users are at least 16 years old",
+            "conf": 0.9992933869361877,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Other than our express obligations under Section 4 (Our security and data privacy policies), we assume no responsibility or liability for Your Data, and you are solely responsible for Your Data and the consequences of submitting and using it with the Cloud Products.",
+            "conf": 0.9980942606925964,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You will defend, indemnify and hold harmless us (and our Affiliates, officers, directors, agents and employees) from and against any and all claims, costs, damages, losses, liabilities and expenses (including reasonable attorneys\u2019 fees and costs) resulting from any claim arising from or related to (i) your breach of Section 2.3 (End User Consent) or any claims or disputes brought by your End Users arising out of their use of Cloud Products, (ii) your breach (or alleged breach) of Sections 5.2 (Your Data Compliance Obligations) or 5.3 (No Sensitive Data).",
+            "conf": 0.9975957274436951,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We will use reasonable efforts to provide you with advance notice of removals and suspensions when practicable, but if we determine that your actions endanger the operation of the Cloud Product or other users, we may suspend your access or remove Your Data immediately without notice",
+            "conf": 0.9786815047264099,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any access to or use of Your Data by third party providers or their products or services, or for the security or privacy practices of any third party provider or its products or services.",
+            "conf": 0.9985560178756714,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Product under these Terms, for no reason or any reason, by providing notice of termination to us no later than thirty (30) days after the Order date for such",
+            "conf": 0.9368892908096313,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "You understand that we may change this practice in the future in accordance with Section 24 (Changes to these Terms).",
+            "conf": 0.997872531414032,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may modify or terminate your right to use No-Charge Products at any time and for any reason in our sole discretion, without liability to you",
+            "conf": 0.9994144439697266,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no promises that any Beta Versions will ever be made generally available",
+            "conf": 0.9999090433120728,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "These Terms are effective as of the Effective Date and expire on the date of expiration or termination of all Subscription Terms",
+            "conf": 0.9749447107315063,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You may choose to stop using the Cloud Products and terminate these Terms (including all Orders) at any time for any reason upon written notice to us, but, unless you are exercising your right to terminate early pursuant to Section 10 (Our return policy), upon any such termination (i) you will not be entitled",
+            "conf": 0.9645554423332214,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You will not have access to Your Data (and we may delete all of Your Data unless legally prohibited) after expiration or termination of these Terms (or its applicable Subscription Term), so you should make sure to export Your Data using the functionality of the Cloud Products during the applicable Subscription Term",
+            "conf": 0.9990001320838928,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 18, ALL CLOUD PRODUCTS, SUPPORT AND ADDITIONAL SERVICES ARE PROVIDED \u201cAS IS,",
+            "conf": 0.999649703502655,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AND WE AND OUR SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES AND REPRESENTATIONS OF ANY KIND, INCLUDING ANY WARRANTY OF NON-INFRINGEMENT, TITLE, FITNESS FOR A PARTICULAR PURPOSE, FUNCTIONALITY OR MERCHANTABILITY, WHETHER EXPRESS, IMPLIED OR STATUTORY",
+            "conf": 0.9982430338859558,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING OUR EXPRESS OBLIGATIONS IN THESE TERMS, WE DO NOT WARRANT THAT YOUR USE OF THE CLOUD PRODUCTS WILL BE UNINTERRUPTED OR ERROR-FREE, THAT WE WILL REVIEW YOUR DATA FOR ACCURACY OR THAT WE WILL PRESERVE OR MAINTAIN YOUR DATA WITHOUT LOSS",
+            "conf": 0.9961770176887512,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU UNDERSTAND THAT USE OF THE CLOUD PRODUCTS NECESSARILY INVOLVES TRANSMISSION OF YOUR DATA OVER NETWORKS THAT WE DO NOT OWN, OPERATE OR CONTROL, AND WE ARE NOT RESPONSIBLE FOR ANY OF YOUR DATA LOST, ALTERED, INTERCEPTED OR STORED ACROSS SUCH NETWORKS.",
+            "conf": 0.9982700943946838,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WE CANNOT GUARANTEE THAT OUR SECURITY PROCEDURES WILL BE ERROR-FREE, THAT TRANSMISSIONS OF YOUR DATA WILL ALWAYS BE SECURE OR THAT UNAUTHORIZED THIRD PARTIES WILL NEVER BE ABLE TO DEFEAT OUR SECURITY MEASURES OR THOSE OF OUR THIRD PARTY SERVICE PROVIDERS",
+            "conf": 0.9949933886528015,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT FOR EXCLUDED CLAIMS (AS DEFINED BELOW), NEITHER PARTY (NOR ITS SUPPLIERS) WILL HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THESE TERMS FOR ANY LOSS OF USE, LOST OR INACCURATE DATA, LOST PROFITS, FAILURE OF SECURITY MECHANISMS, INTERRUPTION OF BUSINESS, COSTS OF DELAY, OR ANY INDIRECT, SPECIAL, INCIDENTAL, RELIANCE OR CONSEQUENTIAL DAMAGES OF ANY KIND, EVEN IF INFORMED OF THE POSSIBILITY OF SUCH DAMAGES IN ADVANCE.",
+            "conf": 0.9993999004364014,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "We will defend you against any claim brought against you by a third party alleging that the Cloud Products, when used as authorized under these Terms, infringe a patent right granted in the United States, Australia or a member nation of the European Union or a copyright registered in such a jurisdiction (a \u201cClaim\u201d), and we will indemnify you and hold you harmless against any damages and costs finally awarded on the Claim by a court of competent jurisdiction or agreed to via settlement executed by us (including reasonable attorneys\u2019 fees), provided that we have received from you: (a) prompt written notice of the Claim (but in any event notice in sufficient time for us to respond without prejudice).",
+            "conf": 0.9999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may modify Our Policies to take effect during your then-current Subscription Term in order to respond to changes in our products, our business, or Laws",
+            "conf": 0.9436656832695007,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Subject to our obligation to provide Cloud Products and Additional Services under existing Orders, we can discontinue any Cloud Products, any Additional Services, or any portion or feature of any Cloud Products for any reason at any time without liability to you",
+            "conf": 0.999992311000824,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Any notice to you will be deemed given upon the first business day after we send it",
+            "conf": 0.9836000800132751,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "No failure or delay by the injured party to these Terms in exercising any right, power or privilege hereunder will operate as a waiver thereof, nor will any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any right, power or privilege hereunder at law or equity",
+            "conf": 0.9898028373718262,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "The account owner can revoke access at any time.2 Upon role change or leaving the company, or before firing, the production credentials of Trello employees are deactivated, and their sessions are forcibly logged out",
+            "conf": 0.964538037776947,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "On termination of a Trello Enterprise contract, and at the request of the customer, the data belonging to the Enterprise teams will be completely removed from the live production database and all file attachments uploaded directly to Trello will be removed within 30 days",
+            "conf": 0.9534395933151245,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The team\u2019s data will remain in encrypted Trello database backups until those backups fall out of the 90-day backup retention window and are destroyed in accordance with Trello\u2019s data retention policy",
+            "conf": 0.9902818202972412,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "All API calls and application logs are kept for at least 30 days without sensitive information (no full user tokens, no user generated content), and available only for authorized employees as required by their role for monitoring of the Trello service to ensure service availability and performance and to prevent abuse",
+            "conf": 0.9998282194137573,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Application logs are centrally collected in an ElasticSearch cluster for a minimum of 30 days for monitoring and analysis",
+            "conf": 0.9567038416862488,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ",",
+            "conf": 0.9738317131996155,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "System (IDS) logs are additionally retained in S3 CloudWatch buckets with a 12 month lifecycle to ensure retention",
+            "conf": 0.9585113525390625,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "Assets are transferred upon role change or leaving the company",
+            "conf": 0.9753387570381165,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Tuesday from 10:00 PM US Eastern Time through Wednesday at 2:00 AM US Eastern Time",
+            "conf": 0.9993657469749451,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Saturday from 10:00 PM US Eastern Time through Sunday at 2:00 AM US Eastern Time",
+            "conf": 0.9932147860527039,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Should we need to reschedule these windows, the updated schedule will be announced on our Status Blog and Twitter accounts with reasonable advance notice",
+            "conf": 0.9606595635414124,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "22 Feb 2018",
+            "conf": 0.9998860359191895,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "20 Sep 2017 - First version of page goes live",
+            "conf": 0.9999774098396301,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Trello and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices",
+            "conf": 0.99998939037323,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Other partners: We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in, and engagement with, our Services and online advertisements.",
+            "conf": 0.978912889957428,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We share information we collect about you in the ways discussed below, including in connection with possible business transfers, but we are not in the business of selling information about you to advertisers or other third parties",
+            "conf": 0.9998579025268555,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To request removal of your information from publicly accessible websites operated by us, please contact us as provided below",
+            "conf": 0.9659742116928101,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may share or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of the Trello or Atlassian businesses to another company",
+            "conf": 0.9957976341247559,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.",
+            "conf": 0.9911794662475586,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you have elected to receive marketing emails from us, we retain information about your marketing preferences unless you specifically ask us to delete such information",
+            "conf": 0.9272083640098572,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Your",
+            "conf": 0.9857739210128784,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ": You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), to request the deletion or restriction of your information, or to request your information in a structured, electronic format.",
+            "conf": 0.9905593395233154,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you are an administrator and are unable to deactivate an account through your administrator settings, please contact Trello support.12 Please be aware that deactivating access to a board, team or enterprise does not delete your information from that board, team or enterprise",
+            "conf": 0.9312857985496521,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Delete your information: Our Services and related documentation13 give you the ability to delete certain information about you from within the Service.",
+            "conf": 0.9771674871444702,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, you can remove content that contains information about you using the key word search and editing tools associated with that content and you can remove certain profile information within your profile settings",
+            "conf": 0.906307578086853,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can also opt-out of our use of your information for marketing purposes by contacting us, as provided below",
+            "conf": 0.9999816417694092,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Opt out of communications: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database",
+            "conf": 0.9999808073043823,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of some notification messages in your account settings",
+            "conf": 0.9993508458137512,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Some browsers have incorporated \"Do Not Track\" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked",
+            "conf": 0.9191588163375854,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Because there is not yet a common understanding of how to interpret the DNT signal, our Services do not currently respond to browser DNT signals",
+            "conf": 0.999966025352478,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier).",
+            "conf": 0.9881478548049927,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "we collect We collect information globally and primarily store that information in the United States",
+            "conf": 0.9708274006843567,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We transfer, process and store your information outside of your country of residence, to wherever we, Atlassian or our third-party service providers operate for the purpose of providing you the Services",
+            "conf": 0.9997119307518005,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "To facilitate our global operations, we transfer information to the United States and allow access to that information from countries in which Trello and other Atlassian corporate affiliates have operations for the purposes described in this policy",
+            "conf": 0.987280011177063,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy or security practices of an administrator's organization, which may be different than this policy",
+            "conf": 0.9985935091972351,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "restrict, suspend or terminate your access to the Services or your account",
+            "conf": 0.9685943722724915,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our policy towards children The Services are not directed to individuals under 16",
+            "conf": 0.99986732006073,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal information from children under 16",
+            "conf": 0.9998320937156677,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may change this privacy policy from time to time",
+            "conf": 0.9978680610656738,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by adding a notice on the Services homepages, login screens, or by sending you an email notification",
+            "conf": 0.9997537136077881,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 3.9
+}

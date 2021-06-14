@@ -1,0 +1,334 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "modified: October 25, 2017",
+            "conf": 0.999994158744812,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for the activity that happens on or through your Google Account",
+            "conf": 0.9152385592460632,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can stop using our Services at any time, although we\u2019ll be sorry to see you go",
+            "conf": 0.9973859190940857,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "OTHER THAN AS EXPRESSLY SET OUT IN THESE TERMS OR ADDITIONAL TERMS, NEITHER GOOGLE NOR ITS SUPPLIERS OR DISTRIBUTORS MAKE ANY SPECIFIC PROMISES ABOUT THE SERVICES",
+            "conf": 0.9994962215423584,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FOR EXAMPLE, WE DON\u2019T MAKE ANY COMMITMENTS ABOUT THE CONTENT WITHIN THE SERVICES, THE SPECIFIC FUNCTIONS OF THE SERVICES, OR THEIR RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS",
+            "conf": 0.998344898223877,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE PROVIDE THE SERVICES \u201cAS IS\u201d",
+            "conf": 0.9988756775856018,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN ALL CASES, GOOGLE, AND ITS SUPPLIERS AND DISTRIBUTORS, WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE THAT IS NOT REASONABLY FORESEEABLE.Business",
+            "conf": 0.9999290704727173,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "It will hold harmless and indemnify Google and its affiliates, officers, agents, and employees from any claim, suit or action arising from or related to the use of the Services or violation of these terms, including any liability or expense arising from claims, losses, damages, suits, judgments, litigation costs and attorneys\u2019 fees",
+            "conf": 0.9999967217445374,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We",
+            "conf": 0.9913124442100525,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "\u2019ll post notice of modifications to these terms on this page",
+            "conf": 0.9771820306777954,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We",
+            "conf": 0.9532467722892761,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "\u2019ll post notice of modified additional terms in the applicable Service",
+            "conf": 0.9183798432350159,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Changes will not apply retroactively and will become effective no sooner than fourteen days after they are posted",
+            "conf": 0.9997976422309875,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "If you do not comply with these terms, and we don\u2019t take action right away, this doesn\u2019t mean that we are giving up any rights that we may have (such as taking action in the future).",
+            "conf": 0.9995659589767456,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective May 25, 2018 | Archived",
+            "conf": 0.9473996162414551,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We also receive information from advertisers to provide advertising and research services on their behalf",
+            "conf": 0.998889148235321,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use various technologies to collect and store information, including cookies, pixel tags, local storage, such as browser web storage or application data caches, databases, and server logs",
+            "conf": 0.9999939203262329,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We don\u2019t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to",
+            "conf": 0.9537495374679565,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use a variety of tools to do this, including Google Analytics",
+            "conf": 0.9990627765655518,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When you visit sites that use Google Analytics, Google and a Google Analytics customer may link information about your activity from that site with activity from other sites that use our ad services",
+            "conf": 0.9997923374176025,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services",
+            "conf": 0.9906659722328186,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can browse by date and by topic, and delete part or all of your activity",
+            "conf": 0.9415895938873291,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Delete your entire Google Account",
+            "conf": 0.9960982203483582,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "When Google shares your informationWe do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:With your consentWe\u2019ll share personal information outside of Google when we have your consent",
+            "conf": 0.9399703741073608,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Suspend or terminate your account access",
+            "conf": 0.9988263845443726,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Restrict your ability to delete or edit your information or your privacy settings",
+            "conf": 0.9978566765785217,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.",
+            "conf": 0.907192587852478,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If Google is involved in a merger, acquisition, or sale of assets, we\u2019ll continue to ensure the confidentiality of your personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy",
+            "conf": 0.9805832505226135,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "deleting your informationYou can export a copy of your information or delete it from your Google Account at any time",
+            "conf": 0.9999955892562866,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Delete your entire Google Account",
+            "conf": 0.9960982203483582,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some cases, we retain data for limited periods when it needs to be kept for legitimate business or legal purposes",
+            "conf": 0.9975536465644836,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u2019s data retention periods, including how long it takes us to delete your information",
+            "conf": 0.9375964999198914,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "maintain servers around the world and your information may be processed on servers located outside of the country where you live",
+            "conf": 0.9999820590019226,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "change this Privacy Policy from time to time",
+            "conf": 0.9951316118240356,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If changes are significant, we",
+            "conf": 0.9994868040084839,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "\u2019ll provide a more prominent notice (including, for certain services, email notification of Privacy Policy",
+            "conf": 0.9995554685592651,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We only provide aggregated reports to advertisers that don\u2019t reveal information about individual people",
+            "conf": 0.9043580293655396,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer",
+            "conf": 0.9453693628311157,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites.",
+            "conf": 0.9868408441543579,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic",
+            "conf": 0.9956774115562439,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These services may share information about your activity with Google and, depending on your account settings and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.",
+            "conf": 0.9911802411079407,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "around the worldFor example, we operate data centers located around the world to help keep our products continuously available for",
+            "conf": 0.9403232336044312,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "An IP address can often be used to identify the location from which a device is connecting to the Internet",
+            "conf": 0.9865621328353882,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel tagA pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened.",
+            "conf": 0.989242434501648,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel tags are often used in combination with cookies",
+            "conf": 0.995865523815155,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "- 25/Mar/2003 10:15:32",
+            "conf": 0.9946631193161011,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "25/Mar/2003 10:15:32 is the date and time of the query",
+            "conf": 0.998913049697876,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.2
+}

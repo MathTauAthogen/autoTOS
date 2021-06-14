@@ -1,0 +1,299 @@
+{
+    "predictions": [
+        {
+            "label": "8",
+            "text": "we do not take ownership of the items",
+            "conf": 0.9583338499069214,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": ": You need to be 16 years or over to browse the Envato Market sites",
+            "conf": 0.9930778741836548,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We don\u2019t knowingly collect any information from anyone aged 16 or under",
+            "conf": 0.9998500347137451,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Age: You need to be 18 years or over to become a member or to buy items",
+            "conf": 0.9999663829803467,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you\u2019re under 18 you will need to get a parent or guardian to buy items or use the account of a parent or legal guardian who is at least 18 years of age, with their permission, and this adult will be responsible for all your activities",
+            "conf": 0.9999997615814209,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for any use of the Envato Market sites including any activity that occurs in conjunction with your username and password, if you have an Envato Market account, so keep your password secure and don\u2019t let any other person use your username or password.",
+            "conf": 0.9999393820762634,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Content removal: We can look at or remove any of your content for any reason at our discretion",
+            "conf": 0.9982242584228516,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no control or responsibility over anything on those sites, and do not endorse or sponsor those sites, even if they are affiliated to us",
+            "conf": 0.914563000202179,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We can suspend or terminate your Envato Market account at any time for any reason (acting reasonably of course), including if you:",
+            "conf": 0.9994693994522095,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If we do decide to permanently terminate your Envato Market account you must",
+            "conf": 0.9996312260627747,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "not apply for a new account as unfortunately you will no longer be welcome in",
+            "conf": 0.9998865723609924,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You indemnify us against all losses, costs (including legal costs on a full indemnity basis), expenses, demands or liability that we incur arising out of, or in connection with, a third party claim against us relating to your use of Envato Market and any content you post to Envato Market (including, if you are an author, your items).",
+            "conf": 0.9998352527618408,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If you are a buyer, you agree that we are not responsible for, and you release us from liability arising out of or in connection with:",
+            "conf": 0.9968414902687073,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "we exclude liability for any of these things incurred by you: loss of revenue, loss of profit, loss of goodwill, loss of customers, loss of capital, damage to reputation, loss in connection with any other contract, loss of data, or indirect, consequential or special loss, damage or expense",
+            "conf": 0.9894188642501831,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Availability: We strive to have Envato Market available to you 24 hours a day, seven days a week but you know how the internet works: occasionally you might not be able to access Envato Market, and this might happen for any reason, at any time, with or without notice, or at our absolute discretion.",
+            "conf": 0.9983866214752197,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Envato Companies will not be liable to you for any loss you suffer as a result of these things",
+            "conf": 0.9836370944976807,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may block you, terminate any of your Envato accounts or refuse to process a payment, including withholding your account balance indefinitely, if we reasonably believe there is a risk associated with you, your Envato account, or that payment, including if it breaches a law or regulation",
+            "conf": 0.9822293519973755,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can close your Market Account and terminate your agreement with us at any time if you do not agree to the changes",
+            "conf": 0.9589272141456604,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Version 7.1 - Effective date: July 23, 2018",
+            "conf": 0.9999959468841553,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "What are cookies, web beacons, and similar technologies",
+            "conf": 0.9145780801773071,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These are tiny graphics with a unique identifier similar in function to cookies, and are used to track the movements of web users between pages and websites.",
+            "conf": 0.9865190386772156,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Unlike cookies, which are cached on a user\u2019s computer, clear gifs, web beacons and web bugs are embedded invisibly on web pages and are about the size of a single pixel.",
+            "conf": 0.9966039657592773,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We might sometimes partner with third-party services who may use various tracking technologies to provide certain services or features on our sites, including targeted online marketing or relevant on-site messaging.",
+            "conf": 0.9814937114715576,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These third-party services use cookies to anonymously collect data and allow them to recognize your computer or mobile device each time you visit any of our sites",
+            "conf": 0.9798300266265869,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "No personally identifiable information is collected by these cookies",
+            "conf": 0.944306492805481,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Also, you can opt out of third party advertising cookies at any time by visiting\u00a0this page",
+            "conf": 0.999612033367157,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "that our subcontractors and services providers may also transfer and access such information from \u00a0other countries in which they have operations",
+            "conf": 0.9984046816825867,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We store personal information on secure servers that are managed by us and our service providers, and occasionally hard copy files that are kept in a secure location in Australia, Ireland and the US",
+            "conf": 0.9977813363075256,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can also close the account you have with us for any of our Sites at any time",
+            "conf": 0.9909213185310364,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can \u2018opt-out\u2019 of such communications if you would prefer not to receive them in the future by using the \u201cunsubscribe\u201d facility provided in the communication itself",
+            "conf": 0.9930102825164795,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Occasionally, we will use third party advertising companies to serve ads based on prior visits to our Sites",
+            "conf": 0.9995673894882202,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our Sites are not suitable for children under the age of 16\u00a0years, so if you are under 16\u00a0we ask that you do not use our Sites or give us your personal information (if you are a young tech wiz, please direct your nearest responsible adult to use the Sites for you!).",
+            "conf": 0.9999999403953552,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are from 16\u00a0to 18 years, you can browse the Sites but you\u2019ll need the supervision of a parent or guardian to become a registered user",
+            "conf": 0.9999971389770508,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you make your personal information available to other people, we can\u2019t control or accept responsibility for the way they will use or manage that data",
+            "conf": 0.9857788681983948,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We retain your personal information for as long as is necessary to provide the services to you and others, and to comply with our legal obligations",
+            "conf": 0.9978860020637512,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you no longer want us to use your personal information or to provide you with the Envato services, you can request that we erase your personal information and close your Envato account",
+            "conf": 0.9995560050010681,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that if you request the erasure\u00a0of your personal information we will retain information from deleted accounts as necessary for our legitimate business interests, to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the terms of service\u00a0and take other actions permitted by law.",
+            "conf": 0.9945344924926758,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "When we do change the policy, we",
+            "conf": 0.965138852596283,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "\u2019ll make sure to notify you about such changes, where required",
+            "conf": 0.9434688687324524,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "to transfer in a structured, commonly used and machine-readable format, to you), to erase it, or restrict its processing",
+            "conf": 0.9995754361152649,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some instances, this means that we may retain some data even if you withdraw your consent",
+            "conf": 0.9820356369018555,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Envato Privacy Policy v3, effective date 25 May 2018",
+            "conf": 0.9999833703041077,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.0
+}

@@ -1,0 +1,12 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "This site doesn't track you in any way, shape, or form",
+            "conf": 0.9126893281936646,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 10.0
+}

@@ -1,0 +1,82 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Privacy Policy Effective Date: May 24, 2018",
+            "conf": 0.9702256321907043,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This Privacy Policy is subject to revision from time to time on a going-forward basis",
+            "conf": 0.999950647354126,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "iStudiez Team does not collect sensitive data",
+            "conf": 0.9994217753410339,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "To create iStudiez Pro Cloud Sync account you must be at least 13 years old",
+            "conf": 0.9970677495002747,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 13, your parent/guardian should be acknowledged about you using the app and the information you share with iStudiez Team",
+            "conf": 0.9997202754020691,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "It is your parent's responsibility to monitor the way you use the app, the information you share with iStudiez Team and they are in a right to request your information to be deleted",
+            "conf": 0.999983549118042,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Does iStudiez Team use Cookies? We use cookies on our website for analytics purposes",
+            "conf": 0.9609850645065308,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, trade, or otherwise transfer your personal information and/or your iStudiez Pro data to any third parties;",
+            "conf": 0.9999629855155945,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not share your information with any third parties for their own advertising purposes;",
+            "conf": 0.9994413256645203,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not own or pretend for the ownership of your information",
+            "conf": 0.949638843536377,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you want your Cloud Sync account be deleted, contact us at support@istudentpro.com",
+            "conf": 0.9995402693748474,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 6.4
+}

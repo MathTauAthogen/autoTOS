@@ -1,0 +1,61 @@
+{
+    "predictions": [
+        {
+            "label": "11",
+            "text": "Except in connection with the sale, transfer, merger, consolidation or other transaction involving all or part of our company, we will not sell, license or, except as described below, otherwise transfer any rights to your Personal Information to any third party",
+            "conf": 0.999201238155365,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "We will not knowingly collect personally-identifiable information from minors under the age of eighteen (18) without their parents\u2019 consent as required by applicable law",
+            "conf": 0.9999971985816956,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "aware that despite our best efforts, no security measures are perfect or impenetrable",
+            "conf": 0.914114236831665,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "As stated in the Consent to Participate, you are free to change your mind and stop participating in the Program at any time",
+            "conf": 0.9616538286209106,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Currently, we do not respond to \u201cDo Not Track\u201d signals from browsers",
+            "conf": 0.999997079372406,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We will not share your personal financial information with affiliates or nonaffiliates for marketing purposes",
+            "conf": 0.9813919067382812,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Aetna may change this Privacy Statement from time to time",
+            "conf": 0.9987999796867371,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "September 1, 2018",
+            "conf": 0.9999906420707703,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.5
+}

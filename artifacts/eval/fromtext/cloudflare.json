@@ -1,0 +1,516 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated: June 10, 2019",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Our Website and Service use cookies and other similar technologies (collectively in this Policy, \"cookies\"), in order to provide a better service to you and to generally improve our Website and Service",
+            "conf": 0.902167797088623,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We also may include tracking pixels, which are small graphic images, in our marketing communications to determine engagement.",
+            "conf": 0.9909207224845886,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to opt-out of cookies that collect information to serve you interest-based ads, you may opt-out by clicking here (or if located in the European Union, click here).",
+            "conf": 0.9999901056289673,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "but if you do, various functions of the Website or Service may be unavailable to you or may not work as intended",
+            "conf": 0.9900245666503906,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use third-party cookies and similar tracking technologies to help us understand how you use our Website and Service and improve your experience.",
+            "conf": 0.9828879237174988,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition, we also may include tracking pixels, which are small graphic images, in our email messages to determine whether the messages were opened and if the links were clicked.",
+            "conf": 0.9985873103141785,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These third-party cookies are placed by third-party advertising platforms or networks to collect information about your visits to and actions on certain pages of our Website so that they can deliver ads for relevant Cloudflare products and services to you later, such as when you are on certain third-party sites.",
+            "conf": 0.9894697070121765,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "LinkedIn account holders can opt-out specifically from LinkedIn's uses of certain categories of data to show more relevant ads",
+            "conf": 0.980485200881958,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We will never sell, rent, or give away your persona information without your permission",
+            "conf": 0.9999971985816956,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "If we aggregate data, we will not reveal your private information",
+            "conf": 0.9928772449493408,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective March 14, 2019",
+            "conf": 0.9999967813491821,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We will not sell, rent, share, or otherwise disclose your personal information to anyone except as necessary to provide our services or as otherwise described in this Policy without first providing you with notice and the opportunity to consent",
+            "conf": 0.9997236132621765,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Cloudflare\u2019s Websites and Services are not intended for, nor designed to attract, individuals under the age of eighteen",
+            "conf": 0.9999882578849792,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Cloudflare does not knowingly collect personally identifiable information from any person under the age of eighteen",
+            "conf": 0.9994741082191467,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We may use cookies and other information gathering technologies for a variety of purposes, such as providing us with information about how you interact with our Websites and assisting us in our marketing efforts.",
+            "conf": 0.9743714332580566,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests",
+            "conf": 0.9977710843086243,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here (or if located in the European Union, click here).",
+            "conf": 0.9999763369560242,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This data does not contain user IP addresses or any other personally identifiable information, and the bulk of the data is only stored for 24 hours",
+            "conf": 0.987887442111969,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Where we rely on your consent to process your personal data, you have the right to withdraw or decline consent at any time",
+            "conf": 0.9651671051979065,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event of a merger, sale, change in control, or reorganization of all or part of our business;",
+            "conf": 0.9999959468841553,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell, rent, or share personal information with third parties for their direct marketing purposes, including as defined under California Civil Code Sec",
+            "conf": 0.9999913573265076,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We primarily store your information in the United States and the European Economic Area (the \u201cEEA\u201d).",
+            "conf": 0.9765879511833191,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "To facilitate our global operations, we may transfer and access such information from around the world, including from other countries in which the Cloudflare Group has operations for the purposes described in this Policy",
+            "conf": 0.9973111152648926,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you are accessing or using our Websites or Services or otherwise providing information to us, you are agreeing to the transfer of your personal information to the United States and other jurisdictions in which we operate",
+            "conf": 0.9999836683273315,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You have the right to access, correct, update, export, or delete your personal information",
+            "conf": 0.9998375773429871,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may manage your receipt of commercial communications by clicking on the \u201cunsubscribe\u201d link located on the bottom of such emails, through your account settings if you have a Cloudflare account, or you may send a request to unsubscribe@cloudflare.com",
+            "conf": 0.9999929666519165,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "If we make changes to this Policy that we believe materially impact the privacy of your personal data, we will promptly provide notice of any such changes (and, where necessary, obtain consent), as well as post the updated Policy on this website noting the effective date of any changes",
+            "conf": 0.9850985407829285,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may assign or transfer this Policy, as well as information covered by this Policy, in the event of a merger, sale, change in control, or reorganization of all or part of our business",
+            "conf": 0.9896313548088074,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective March 20, 2019",
+            "conf": 0.9999963045120239,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "THIS AGREEMENT CONTAINS PROVISIONS REQUIRING THAT YOU AGREE TO THE USE OF ARBITRATION TO RESOLVE ANY DISPUTES ARISING UNDER THIS AGREEMENT RATHER THAN A JURY TRIAL OR ANY OTHER COURT PROCEEDINGS, AND TO WAIVE YOUR PARTICIPATION IN CLASS ACTION OF ANY KIND AGAINST CLOUDFLARE",
+            "conf": 0.9981873035430908,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Cloudflare may modify this Agreement from time to time, subject to the terms in Section 14 (Changes to this Agreement) below",
+            "conf": 0.9940416812896729,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of all usernames and passwords created by or assigned to you (\u201cCredentials\u201d), and are solely responsible for all activities that occur under such Credentials.",
+            "conf": 0.9989637732505798,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Other than our security obligations under Section 6 (Security), we assume no responsibility or liability for Your Information, and you will be solely responsible for the consequences of using, disclosing, storing, transferring or transmitting Your Information",
+            "conf": 0.999998927116394,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We will have no liability for any harm or damage arising out of or in connection with any Free Services",
+            "conf": 0.9998955726623535,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend and hold us harmless from and against any and all claims, costs, damages, losses, liabilities and expenses (including reasonable attorneys\u2019 fees and costs) arising out of or in connection with any claim brought against us by a third party relating to your Modifications",
+            "conf": 0.9999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Cloudflare does not make any representations, warranties or guarantees regarding the Apps",
+            "conf": 0.9998863339424133,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Cloudflare makes these Apps available to you on an \u201cAS IS\u201d and \u201cAS AVAILABLE\u201d basis",
+            "conf": 0.9999776482582092,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Cloudflare will not be directly or indirectly responsible or liable to you in any manner, for any harms, damages, loss, lost profits, special or consequential damages or claims arising out of or in connection with, the installation of, use of, or reliance on the performance of any of the Apps.",
+            "conf": 0.9965360164642334,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We may discontinue Beta Services at any time in our sole discretion and may never make them generally available",
+            "conf": 0.9999895095825195,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Notwithstanding Section 12, we will have no liability for any harm or damage arising out of or in connection with any Beta Services",
+            "conf": 0.999938428401947,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "However, you understand that your use of the Service necessarily involves transmission of Your Information over networks that are not owned, operated or controlled by us, and we are not responsible for any of Your Information that is lost, altered, intercepted or stored across such networks.",
+            "conf": 0.9947701096534729,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We cannot guarantee that our security procedures will be error-free, that transmissions of Your Information will always be secure or that unauthorized third parties will never be able to defeat our security measures or those of our third party service providers",
+            "conf": 0.9996726512908936,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Additionally, we may at our sole discretion terminate your user account or suspend or terminate your access to the Service at any time, with or without notice for any reason or no reason at all",
+            "conf": 0.9986367225646973,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We also reserve the right to modify or discontinue the Service at any time (including, without limitation, by limiting or discontinuing certain features of the Service) without notice to you",
+            "conf": 0.9999939799308777,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may terminate your account at any time through the Service\u2019s account dashboard",
+            "conf": 0.9998276829719543,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Cloudflare will defend you against any third party claim brought against you, to the extent that such claim is based on an allegation that a Paid Service, when used as authorized under this Agreement, infringes a United States or European Union patent or registered copyright (a \"Claim\"), and we will indemnify you against any damages and costs (including reasonable legal fees) finally awarded by a court of competent jurisdiction attributable to such a Claim or agreed to settlement by Cloudflare",
+            "conf": 0.999835729598999,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree that you will be responsible for your use of the Service, and you agree to defend, indemnify, and hold harmless Cloudflare and its officers, directors, employees, consultants, Affiliates, subsidiaries and agents (collectively, the \"Cloudflare Entities\") from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees and costs, arising out of or in any way connected with your access to, use of, or alleged use of the Service",
+            "conf": 0.9999969005584717,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE ARE MADE AVAILABLE TO YOU ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS, WITH THE EXPRESS UNDERSTANDING THAT THE CLOUDFLARE ENTITIES HAVE NO OBLIGATION TO MONITOR, CONTROL, OR VET USER CONTENT OR DATA.",
+            "conf": 0.9946185946464539,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE CLOUDFLARE ENTITIES MAKE NO CLAIMS OR PROMISES ABOUT THE QUALITY, ACCURACY, OR RELIABILITY OF THE SERVICES, ITS SAFETY OR SECURITY, OR THE SERVICES CONTENT",
+            "conf": 0.9999564290046692,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ACCORDINGLY, THE CLOUDFLARE ENTITIES ARE NOT LIABLE TO YOU FOR ANY LOSS OR DAMAGE THAT MIGHT ARISE, FOR EXAMPLE, FROM THE SERVICE'S INOPERABILITY, UNAVAILABILITY OR SECURITY VULNERABILITIES",
+            "conf": 0.9952418804168701,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT WILL THE CLOUDFLARE ENTITIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE SERVICES OR ANY MATERIALS OR CONTENT ON THE SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE OR ANY OTHER LEGAL THEORY, WHETHER OR NOT THE CLOUDFLARE ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE.",
+            "conf": 0.9997563362121582,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Cloudflare reserves the right to make modifications to this Agreement at any time",
+            "conf": 0.9780775308609009,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may assign this Agreement at any time without notice",
+            "conf": 0.9760750532150269,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure to require performance of any provision will not affect our right to require performance at any time thereafter, nor will a waiver of any breach or default of this Agreement or any provision of this Agreement constitute a waiver of any subsequent breach or default or a waiver of the provision itself",
+            "conf": 0.999498724937439,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND CLOUDFLARE ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION",
+            "conf": 0.9999995231628418,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Notwithstanding Subsection 17.1, we both agree that nothing herein will be deemed to waive, preclude, or otherwise limit either of our right to (i) bring an individual action in small claims court, (ii) pursue enforcement actions through applicable federal, state, or local agencies where such actions are available, (iii) seek injunctive relief in a court of law, or (iv) to file suit in a court of law to address intellectual property infringement claims",
+            "conf": 0.9762649536132812,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "17.6 No Class Actions",
+            "conf": 0.9998629093170166,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND CLOUDFLARE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999923706054688,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and Cloudflare agree otherwise, the arbitrator may not consolidate more than one person\u2019s claims, and may not otherwise preside over any form of a representative or class proceeding",
+            "conf": 0.9999998211860657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If Subsection 17.1 is found to be unenforceable or if the entirety of this Section 17 is found to be unenforceable, then the entirety of this Section 17 will be null and void and, in such case, the parties agree that the exclusive jurisdiction and venue described in Section 13 will govern any action arising out of or related to this Agreement",
+            "conf": 0.9932557344436646,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective May 25, 2018",
+            "conf": 0.999996542930603,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By agreeing to these Terms, you represent and warrant to us: (i) that you are at least eighteen (18) years of age.",
+            "conf": 0.9862848520278931,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may at our sole discretion suspend or terminate your access to the Website at any time, with or without notice for any reason or no reason at all",
+            "conf": 0.9984195828437805,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We also reserve the right to modify or discontinue the Website at any time (including, without limitation, by limiting or discontinuing certain features of the Website) without notice to you",
+            "conf": 0.9999422430992126,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Such linked websites are not under our control, and we are not responsible for their content.",
+            "conf": 0.9791941046714783,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree that you will be responsible for your use of the Website, and you agree to defend, indemnify, and hold harmless Cloudflare and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (collectively, the \"Cloudflare Entities\") from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees and costs, arising out of or in any way connected with (i) your access to, use of, or alleged use of the Website",
+            "conf": 0.9999972581863403,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE WEBSITE IS MADE AVAILABLE TO YOU ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS, WITH THE EXPRESS UNDERSTANDING THAT THE CLOUDFLARE ENTITIES HAVE NO OBLIGATION TO MONITOR, CONTROL, OR VET THE CONTENT OR DATA APPEARING ON THE WEBSITE.",
+            "conf": 0.9965382218360901,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE CLOUDFLARE ENTITIES MAKE NO CLAIMS OR PROMISES ABOUT THE QUALITY, ACCURACY, OR RELIABILITY OF THE WEBSITE AND EXPRESSLY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY,",
+            "conf": 0.9905428290367126,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT WILL THE CLOUDFLARE ENTITIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE WEBSITE OR ANY MATERIALS OR CONTENT ON THE WEBSITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE OR ANY OTHER LEGAL THEORY, WHETHER OR NOT THE CLOUDFLARE ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE.",
+            "conf": 0.9997790455818176,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Cloudflare reserves the right to make modifications to these Terms at any time",
+            "conf": 0.9998725652694702,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may assign these Terms at any time without notice",
+            "conf": 0.9363342523574829,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure to require performance of any provision will not affect our right to require performance at any time thereafter, nor will a waiver of any breach or default of these Terms or any provision of these Terms constitute a waiver of any subsequent breach or default or a waiver of the provision itself",
+            "conf": 0.9995871782302856,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.1
+}

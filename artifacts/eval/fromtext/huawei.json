@@ -1,0 +1,264 @@
+{
+    "predictions": [
+        {
+            "label": "13",
+            "text": "Huawei uses cookies to collect information about your online activities and interests and provide you with advertisements that correlate most highly with you",
+            "conf": 0.955416202545166,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A web beacon is usually an electronic graphic image embedded into a website or email to identify your device cookies when you browse the website or email.",
+            "conf": 0.987122654914856,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel tags allow Huawei to send emails in a way that is readable to you and find out whether an email is opened",
+            "conf": 0.9939244389533997,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe from the mailing list of Huawei at any time if you do not want to be tracked in this manner",
+            "conf": 0.999986469745636,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "and some third parties may use other local storage technologies, for example, local shared objects (also called \"Flash cookies\") and HTML5 local storage, in certain products and services",
+            "conf": 0.9451212286949158,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Similar to cookies, these technologies store information on your device and can record some information about your activities and preferences.",
+            "conf": 0.9782013297080994,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track Many web browsers provide a Do Not Track function that can release Do Not Track requests to websites",
+            "conf": 0.9993684887886047,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "To the extent permissible by law, HUAWEI reserves the right to alter these Terms of Use at any time without providing notice",
+            "conf": 0.9999818205833435,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Though this website can be accessed from anywhere in the world, the availability of the functions, products, and services discussed, mentioned, supplied, and provided through or on this website may vary by country or region",
+            "conf": 0.9496282339096069,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You accept full responsibility for protecting the confidentiality of your account information, including your password.",
+            "conf": 0.9700237512588501,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You accept full responsibility for any and all actions that occur on or against your account in the event that you fail to maintain the security and confidentiality of said information.",
+            "conf": 0.9863137602806091,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "HUAWEI reserves the right to perform the following actions at any time without giving notice:",
+            "conf": 0.9323316812515259,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Suspend or terminate operation of, or access to, all or part of this website at any time, irrespective of the reason",
+            "conf": 0.9866309762001038,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Disclaimer HUAWEI DOES NOT GUARANTEE THE AVAILABILITY, CONTINUITY, AND ACCESSIBILITY OF THIS WEBSITE, ITS CONTENT, OR ITS SERVICES",
+            "conf": 0.9998679757118225,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THIS WEBSITE AND ITS CONTENT ARE PROVIDED ON AN 'AS IS' BASIS",
+            "conf": 0.9998792409896851,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "HUAWEI DOES NOT GUARANTEE THE CORRECTNESS, COMPLETENESS, OR RELIABILITY OF THE CONTENT OF THIS WEBSITE",
+            "conf": 0.9999677538871765,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Except where forbidden by law, under all circumstances, HUAWEI will accept no responsibility for all indirect, derivative, incidental, collateral, or punitive damages that may be incurred from usage of this website, including but not limited to profit loss, even if HUAWEI is already aware of the potential risks",
+            "conf": 0.9780035614967346,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You agree that HUAWEI can solely decide, without prior notification, to terminate your access to all or part of this website's functions, for reasons including but not limited to:",
+            "conf": 0.9999911785125732,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If HUAWEI fails to uphold or demand the strict execution of these Terms of Use, this should not be deemed as a waiver on the part of HUAWEI of any rights pertaining to the execution of these Terms of Use, or the Terms of Use themselves",
+            "conf": 0.9968777894973755,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The Huawei Consumer Business Privacy Statement was updated onApril 15, 2018",
+            "conf": 0.9681654572486877,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updates to This Statement",
+            "conf": 0.970563530921936,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you do not want to receive such information, you can opt out at any time",
+            "conf": 0.9989747405052185,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Huawei uses cookies to collect information about your online activities and interests and provide you with advertisements that correlate most highly with you",
+            "conf": 0.955416202545166,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition to cookies, Huawei and some third parties may also use web beacons and pixel tags on websites",
+            "conf": 0.9928287267684937,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A web beacon is usually an electronic graphic image embedded into a website or email to identify your device cookies when you browse the website or email.",
+            "conf": 0.987122654914856,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Pixel tags allow Huawei to send emails in a way that is readable to you and find out whether an email is opened",
+            "conf": 0.9939244389533997,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe from the mailing list of Huawei at any time if you do not want to be tracked in this manner",
+            "conf": 0.9999517798423767,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Similar to cookies, these technologies store information on your device and can record some information about your activities and preferences.",
+            "conf": 0.9782013297080994,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Many web browsers provide a Do Not Track function that can release Do Not Track requests to websites",
+            "conf": 0.9733648300170898,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not share personal data with other companies, organisations and individuals unless one of the following circumstances applies:",
+            "conf": 0.9995571374893188,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Huawei also may share your information with them, they may use your information to provide you with products and/or services you request (e.g., products sold by third-party seller through Huawei\u2019s e-commerce platform, video content provided by other companies through Huawei\u2019s applications), make predictions about your interests and may provide you with advertisements, promotional materials and other materials",
+            "conf": 0.9998942613601685,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We retain your personal data for no longer than is necessary for the purposes stated in this Statement and privacy notice of specific product or service, unless extending the retention period is required or permitted by law",
+            "conf": 0.9997220039367676,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After you deregister your account, we will stop providing products and services, and delete your personal data unless otherwise stipulated by law",
+            "conf": 0.9161642789840698,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Our products and services are delivered through resources and servers located in different places, to offer our products and services, we may need to transfer your personal data among several countries",
+            "conf": 0.9996662735939026,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Updates to This Statement Huawei reserves the right to update this Statement at any time",
+            "conf": 0.9996396899223328,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Should this Statement be revised from time to time, Huawei will release the change notice via various channels, for example, posting the latest version on our official website: http://consumer.huawei.com",
+            "conf": 0.9985755681991577,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "Major changes in our ownership structure, organisational structure, etc., for example, ownership changes caused by business adjustment, bankruptcy, or acquisition",
+            "conf": 0.9928188920021057,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.1
+}

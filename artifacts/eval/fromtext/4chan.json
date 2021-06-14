@@ -1,0 +1,40 @@
+{
+    "predictions": [
+        {
+            "label": "6",
+            "text": "By using this website (the \"site\"), you agree that you'll follow these rules, and understand that if we reasonably think you haven't followed these rules, we may (at our own discretion) terminate your access to the site",
+            "conf": 0.9837639927864075,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You will immediately cease and not continue to access the site if you are under the age of 18",
+            "conf": 0.9999949932098389,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The 4chan moderation team reserves the right to revoke access and remove content for any reason without notice",
+            "conf": 0.9999992251396179,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "items may be removed without notice",
+            "conf": 0.9076458811759949,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Operators reserve the right to remove users from the channel as",
+            "conf": 0.9999396800994873,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 0.0
+}

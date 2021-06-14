@@ -1,0 +1,334 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated: 08/03/2017",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 13 years of age to access or use our Services",
+            "conf": 0.9999939203262329,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18 years of age (or the age of legal majority where you live), you may only access or use our Services under the supervision of a parent or legal guardian who agrees to be bound by these Terms",
+            "conf": 0.9999998211860657,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are a parent or legal guardian of a user under the age of 18 (or the age of legal majority), you agree to be fully responsible for the acts or omissions of such user in connection with our Services.",
+            "conf": 0.9964041113853455,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Although we have no obligation to screen, edit or monitor User Content, we may delete or remove User Content at any time and for any reason",
+            "conf": 0.9999554753303528,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "In addition, although we have no obligation to screen, edit or monitor User Content, we may delete or remove User Content at any time and for any reason",
+            "conf": 0.9999606609344482,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "To the fullest extent permitted by applicable law, you will indemnify, defend, and hold harmless FaceApp and each of our respective officers, directors, agents, partners and employees (individually and collectively, the&nbsp;\u201cFaceApp Parties\u201d) from and against any loss, liability, claim, demand, damages, expenses or costs (\u201cClaims\u201d) arising out of or related to (a) your access to or use of our Services",
+            "conf": 0.9999823570251465,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not control, endorse or take responsibility for any User Content or third-party content available on or linked to by our Services",
+            "conf": 0.9988332390785217,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Our Services are provided \u201cas is\u201d and \u201cas available\u201d without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement",
+            "conf": 0.999993622303009,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "In addition, FaceApp does not represent or warrant that our Services are accurate, complete, reliable, current or error-free",
+            "conf": 0.9999874234199524,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "While FaceApp attempts to make your access to and use of our Services safe, we cannot and do not represent or warrant that our Services or servers are free of viruses or other harmful components",
+            "conf": 0.9951279163360596,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "FaceApp and the other FaceApp Parties will not be liable to you under any theory of liability\u2014whether based in contract, tort, negligence, strict liability, warranty, or otherwise\u2014for any indirect, consequential, exemplary, incidental, punitive or special damages or lost profits, even if FaceApp or the other FaceApp Parties have been advised of the possibility of such damages",
+            "conf": 0.9999771118164062,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "By accessing or using our Services, you consent to the processing, transfer and storage of information about you in and to the United States and other countries, where you may not have the same rights and protections as you do under local law",
+            "conf": 0.999978244304657,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Except for small claims disputes in which you or FaceApp seek to bring an individual action in small claims court located in the county of your",
+            "conf": 0.9268061518669128,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "address or disputes in which you or FaceApp seeks injunctive or other equitable relief for the alleged unlawful",
+            "conf": 0.9347331523895264,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "property, you and FaceApp waive your rights to a jury trial and to have any dispute arising out of or related to these Terms or our Services resolved in court",
+            "conf": 0.9740796089172363,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You and FaceApp agree that any dispute arising out of or related to these Terms or our Services is personal to you and FaceApp and that any dispute will be resolved solely through individual arbitration and will not be brought as a class arbitration, class action or any other type of representative proceeding",
+            "conf": 0.9999950528144836,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ", however, that the arbitrator does not have the authority to conduct a class arbitration or a representative action, which is prohibited by these Terms",
+            "conf": 0.9088373780250549,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The arbitrator may only conduct an individual arbitration and may not consolidate more than one individual\u2019s claims, preside over any type of class or representative proceeding or preside over any proceeding involving more than one individual",
+            "conf": 0.9999864101409912,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may make changes to these Terms from time to time",
+            "conf": 0.9999471306800842,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may also attempt to notify you by sending an email notification to the address associated with your account, if any, or providing notice through our Services",
+            "conf": 0.975216269493103,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Unless we say otherwise in our notice, the amended Terms will be effective immediately and your continued access to and use of our Services after we provide notice will confirm your acceptance of the changes",
+            "conf": 0.9976166486740112,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right, without notice and in our sole discretion, to terminate your right to access or use our Services",
+            "conf": 0.9999598860740662,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any loss or harm related to your inability to access or use our Services",
+            "conf": 0.9998254179954529,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If any provision or part of a provision of these Terms is unlawful, void or unenforceable, that provision or part of the provision is deemed severable from these Terms and does not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9885188937187195,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of FaceApp to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision",
+            "conf": 0.9999973773956299,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective date: January 20, 2017",
+            "conf": 0.9999970197677612,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "Note that you may not opt out of Service-related e-mails",
+            "conf": 0.9853867292404175,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use third-party analytics tools to help us measure traffic and usage trends for the Service",
+            "conf": 0.9411592483520508,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "When you visit the Service, we may use cookies and similar technologies like pixels, web beacons, and local storage to collect information about how you use FaceApp and provide features to you.",
+            "conf": 0.9968112111091614,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may ask advertisers or other partners to serve ads or services to your devices, which may use cookies or similar technologies placed by us or the third party.",
+            "conf": 0.9806149005889893,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more \u201cdevice identifiers",
+            "conf": 0.999261736869812,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "\u201d Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device.",
+            "conf": 0.9845932722091675,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We will not rent or sell your information to third parties outside FaceApp (or the group of companies of which FaceApp is a part) without your consent, except as Parties with whom we may share your information: in this Policy",
+            "conf": 0.9999112486839294,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We also may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you (\u201cService Providers\u201d).",
+            "conf": 0.9091628193855286,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also share certain information such as cookie data with third-party advertising partners",
+            "conf": 0.9977747201919556,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we sell or otherwise transfer part or the whole of FaceApp or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your information such as User Content and any other information collected through the Service may be among the items sold or transferred",
+            "conf": 0.9952049851417542,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Your information collected through the Service may be stored and processed in the United States or any other country in which FaceApp, its Affiliates or Service Providers maintain facilities",
+            "conf": 0.9999958276748657,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "FaceApp, its Affiliates, or Service Providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world",
+            "conf": 0.9999979138374329,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction",
+            "conf": 0.9994412660598755,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and FaceApp, at all times.",
+            "conf": 0.9871416687965393,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the functionality, privacy, or security measures of any other organization",
+            "conf": 0.9999647736549377,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "FaceApp does not knowingly collect or solicit any information from anyone under the age of 13",
+            "conf": 0.9999589323997498,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Service and its content are not directed at children under the age of 13",
+            "conf": 0.9999832510948181,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the practices employed by any websites or services linked to or from our Service, including the information or content contained within them",
+            "conf": 0.9998565316200256,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "FaceApp may modify or update this Privacy Policy from time to time, so please review it periodically",
+            "conf": 0.9999527931213379,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances",
+            "conf": 0.9601420164108276,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 1.1
+}

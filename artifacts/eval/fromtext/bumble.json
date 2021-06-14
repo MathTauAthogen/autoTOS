@@ -1,0 +1,432 @@
+{
+    "predictions": [
+        {
+            "label": "12",
+            "text": "Bumble is a global app, and your information will be sent to and used in the United States regardless of the country you reside in, and by downloading our App you consent to such transfer",
+            "conf": 0.9575492739677429,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Once you register, you will be able to review and change this information at any time by accessing your \u201cProfile",
+            "conf": 0.9423366785049438,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "page! You control your user profile and are able to correct or update (other than your email address, mobile number, date of birth, gender and location (which is automatically updated)) your information at any time by just logging in to Bumble",
+            "conf": 0.9356443285942078,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "By submitting your personal information, or by choosing to upgrade the services you use, or by making use of the applications available on Bumble, you agree to the transfer of your personal information to, and storage and processing of your personal information in, any such countries and destinations",
+            "conf": 0.9997115731239319,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Where you request that your profile is deleted via the app, it is immediately made unavailable and fully deleted within 30 days",
+            "conf": 0.9982304573059082,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Correspondence with our Customer Support team will be retained for longer to allow us to deal with any subsequent queries you may have but will usually be deleted within 6 years if there are no queries",
+            "conf": 0.9999029040336609,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Anonymised information about activity on Bumble is retained for longer for statistical and product research purposes but this is not attributable to an individual once the profile has been deleted",
+            "conf": 0.9682751297950745,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "The cookies we collect enable us to learn how people interact with",
+            "conf": 0.9162299633026123,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ", which in turn helps us make a better product for you! Cookies store information about your website visits and can recognise you and your preferences each time you visit the",
+            "conf": 0.9238148927688599,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "site",
+            "conf": 0.9503492116928101,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use Google Analytics to collect information about how visitors use the site",
+            "conf": 0.9998546242713928,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "-In the event that Bumble or any of our affiliates undergoes a business transition or change of ownership, such as a merger, acquisition by another company, re-organisation, or sale of all or a portion of its assets, or in the event of insolvency or administration, we may be required to disclose your personal data",
+            "conf": 0.9862622022628784,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of receiving marketing messages by using the opt-out mechanisms and links provided in each email",
+            "conf": 0.9999933838844299,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may access or modify the Registration Information you provided at anytime or permanently delete your Account (although we really hope you don't!)",
+            "conf": 0.9998570084571838,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any information, pictures, comments, or other content that is deleted from our systems resulting from the deactivation of your Account",
+            "conf": 0.9090957045555115,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We cannot control this, nor do we accept any liability for this",
+            "conf": 0.9930766820907593,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Although we want as many people as possible to enjoy our creation, you have to be at least 18 years old to use the App - sorry kids, we know Bumble is cool, but you'll have to come back when you're old enough!",
+            "conf": 0.999553918838501,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Bumble does not knowingly collect any information about or market to children, minors or anyone under the age of 18",
+            "conf": 0.9999286532402039,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are less than 18 years old, we request that you do not submit information to us",
+            "conf": 0.9999943971633911,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we become aware that a child, minor or anyone under the age of 18 has registered with us and provided us with personal information, we will take steps to terminate that person's registration and delete their Registration Information from Bumble",
+            "conf": 0.9311647415161133,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "As Bumble evolves, we may revise this Privacy Policy from time to time",
+            "conf": 0.9964637756347656,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Bumble",
+            "conf": 0.9186647534370422,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please follow the instructions provided to you by third parties to unsubscribe from their messages",
+            "conf": 0.9999924898147583,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Right to erasure: you have the right to have your data deleted in certain circumstances.",
+            "conf": 0.9653618931770325,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Data collected by advertising partners may also be held outside the European Economic Area",
+            "conf": 0.9958652257919312,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We will keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you) for 6 years after deletion of your account",
+            "conf": 0.9991428256034851,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You agree that you will not file or participate in a class action against us",
+            "conf": 0.9999867677688599,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This Privacy Policy was last updated on 24 May 2018",
+            "conf": 0.9999982714653015,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "be at least 18 years old",
+            "conf": 0.9961594939231873,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You'll have great fun on Bumble, but if you feel the need to leave, you can delete your Account at any time by going to the 'Settings' page when you are logged in and clicking on the 'Delete account' link.",
+            "conf": 0.9905242919921875,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Your Account will be deleted immediately but it may take a little while for Your Content to be completely removed from the App",
+            "conf": 0.9977954626083374,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will save your profile information in case you realise you miss us and you decide to restore your Account (which you can do within 30 days of de-activating your Account).",
+            "conf": 0.9616227746009827,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Bumble Trading Inc reserve the right at our sole discretion to terminate or suspend any Account, or make use of any operational, technological, legal or other means available to enforce the Terms (including without limitation blocking specific IP addresses), at any time without liability and without the need to give you prior notice",
+            "conf": 0.9586562514305115,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "As Your Content is unique, you are responsible and liable for Your Content and will indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content",
+            "conf": 0.999968945980072,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We have the right to remove, edit, limit or block access to any of Your Content at any time, and we have no obligation to display or review Your Content",
+            "conf": 0.9999943375587463,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you want to cancel or change your Premium Payment Method at any time, you can do so either via the payment settings option under your profile or by contacting your mobile service provider",
+            "conf": 0.9732259511947632,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible and have no liability whatsoever for goods or services you obtain through the Third Party Store, our third party service providers or other web sites or web pages.",
+            "conf": 0.9958359003067017,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "In all cases, we are not responsible and have no liability whatsoever for any payment processing errors (including card processing, identity verification, analysis and regulatory compliance) or fees or other service-related issues, including those issues that may arise from inaccurate account information, or products or goods you obtain through your Mobile Platform Account or Third Party Stores",
+            "conf": 0.9972173571586609,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Further, Bumble Trading Inc does not guarantee that product descriptions or other content and products will be available, accurate, complete, reliable, current or error-free",
+            "conf": 0.9999954104423523,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you no longer wish to receive push notifications/alerts from the App, you may opt out by changing your notification settings on your mobile device",
+            "conf": 0.9999135136604309,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "With respect to other types of messaging or communications, such as emails, text messages, etc., you can unsubscribe or opt out by either following the specific instructions included in such communications, or by emailing us with your request at feedback@team.bumble.com",
+            "conf": 0.9999672770500183,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "THE APP, SITE, OUR CONTENT, AND MEMBER CONTENT ARE ALL PROVIDED TO YOU \"AS IS\" AND \"AS AVAILABLE\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING",
+            "conf": 0.9983357787132263,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, SHALL CREATE ANY WARRANTY, REPRESENTATION OR GUARANTEE NOT EXPRESSLY STATED IN THIS SECTION",
+            "conf": 0.9644947648048401,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ADDITIONALLY, WE DO NOT MAKE ANY WARRANTIES THAT THE APP OR SITE WILL BE UNINTERRUPTED, SECURE OR ERROR FREE OR THAT YOUR USE OF THE APP OR SITE WILL MEET YOUR EXPECTATIONS, OR THAT THE APP, SITE, OUR CONTENT, ANY MEMBER CONTENT, OR ANY PORTION THEREOF, IS CORRECT, ACCURATE, OR RELIABLE",
+            "conf": 0.9999765157699585,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NEITHER US NOR ANY OWNER WILL BE LIABLE FOR ANY DAMAGES, DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA, INCOME, PROFIT OR GOODWILL, LOSS OF OR DAMAGE TO PROPERTY AND CLAIMS OF THIRD PARTIES ARISING OUT OF YOUR ACCESS TO OR USE OF THE APP, SITE, OUR CONTENT, OR ANY MEMBER CONTENT, HOWEVER CAUSED, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), PROPRIETARY RIGHTS INFRINGEMENT, PRODUCT LIABILITY OR OTHERWISE.",
+            "conf": 0.999832272529602,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Therefore, you agree to indemnify, defend, release, and hold us, and our partners, licensors, affiliates, contractors, officers, directors, employees, representatives and agents, harmless, from and against any third party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable legal fees) suffered or reasonably incurred by us arising as a result of, or in connection with:",
+            "conf": 0.9999998211860657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We retain the exclusive right to settle, compromise and pay any and all claims or causes of action which are brought against us without your prior consent",
+            "conf": 0.9998908042907715,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Bumble Trading Inc has taken reasonable steps to ensure the currency, availability, correctness and completeness of the information contained on Bumble and provides that information on an \"as is\", \"as available\" basis",
+            "conf": 0.9999942183494568,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Bumble Trading Inc does not give or make any warranty or representation of any kind about the information contained on Bumble, whether express or implied",
+            "conf": 0.9999752044677734,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Bumble Trading Inc can not be held responsible for any loss arising from the transmission, use of data, or inaccurate User Content",
+            "conf": 0.9679216742515564,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You accept that Bumble will not be provided uninterrupted or error free, that defects may not be corrected or that Bumble Trading Inc, or the server that makes it available, are free of viruses or bugs, spyware, Trojan horse or any similar malicious software",
+            "conf": 0.9999932050704956,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Bumble Trading Inc is not responsible for any damage to your computer hardware, computer software, or other equipment or technology including, but without limitation damage from any security breach or from any virus, bugs, tampering, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line or network failure or any other technical or other malfunction",
+            "conf": 0.9979195594787598,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "As Bumble grows, we might have to make changes to these Terms so we reserve the right to modify, amend or change the Terms at any time (a \"Change\").",
+            "conf": 0.9999926686286926,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we do this then the Changes will be posted on this page and we will indicate the Effective Date of the updates at the bottom of the Terms",
+            "conf": 0.994633138179779,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "You should regularly check this page for notice of any Changes \u2013 we want our users to be as informed as possible",
+            "conf": 0.9959100484848022,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "No failure or delay in exercising any right, power or privilege under the Terms shall operate as a waiver of such right or acceptance of any variation of the Terms and nor shall any single or partial exercise by either party of any right, power or privilege preclude any further exercise of the right or the exercise of any other right, power or privilege",
+            "conf": 0.9990570545196533,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "By submitting your personal information, or by choosing to upgrade the services you use, or by making use of the applications available on Bumble, you agree to the transfer of your personal information to, and storage and processing of your personal information in, any such countries and destinations",
+            "conf": 0.9964262843132019,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In such cases, you acknowledge and agree that we are not responsible or liable for:",
+            "conf": 0.9946622848510742,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources",
+            "conf": 0.9993491172790527,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree that you will not file or participate in a class action against us",
+            "conf": 0.9999867677688599,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The Terms were last updated on: 29 March 2018",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.8
+}

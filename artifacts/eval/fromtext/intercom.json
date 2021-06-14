@@ -1,0 +1,740 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective day 20 July 2017",
+            "conf": 0.9999421834945679,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Without affecting any other remedies available to us, Intercom may permanently or temporarily terminate or suspend a user\u2019s account or access to the Services without notice or liability if Intercom (in its sole discretion) determines that a user has violated this Acceptable Use Policy",
+            "conf": 0.9998824000358582,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective day 20 July 2017",
+            "conf": 0.998245358467102,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Intercom will use commercially reasonable efforts to make each Service available with an uptime of 99.8% of each calendar month (\"Target Availability",
+            "conf": 0.9012207388877869,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Website Terms of Use Effective day 20 July 2017",
+            "conf": 0.9685091376304626,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "These Terms may change over time, so whenever you visit or use this Site, you agree to the version of these Terms then posted",
+            "conf": 0.9982386827468872,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Content  You are solely responsible for any User Content you post to the Site, and the consequences of posting or publishing it",
+            "conf": 0.9482409954071045,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We have the sole right, but not necessarily the obligation, to delete or edit at any time any User Content that violates these rules or that we believe to be inappropriate for any reason",
+            "conf": 0.9999871850013733,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for keeping any User Content confidential",
+            "conf": 0.991884708404541,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "User Content comes from a variety of sources, and we make no promises about the reliability of any source or the accuracy, usefulness, safety, or intellectual property rights of any User Content",
+            "conf": 0.9955083131790161,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "However, as further set forth below, you agree not to hold us responsible in any way for your use of our Site, including your exposure to User Content.",
+            "conf": 0.9969266653060913,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We also reserve the right to make changes or updates to the Site or Content provided on or through the Site at any time without notice and we will own any such changes or updates (excluding User Content).",
+            "conf": 0.9994842410087585,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Also, we may decide to cease making available the Site or any portion of the Site at any time and for any reason",
+            "conf": 0.9941444993019104,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any of these other websites",
+            "conf": 0.9999269247055054,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You will not hold us responsible for any aspect of these other websites, including their content, privacy policies, or anything else.",
+            "conf": 0.9865739941596985,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for this, either",
+            "conf": 0.9995545148849487,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE SITE (INCLUDING OUR CONTENT) IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9998764991760254,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INTERCOM AND ITS AFFILIATES, SUPPLIERS, PARTNERS AND AGENTS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE,",
+            "conf": 0.9307507872581482,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(ii) THE SITE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE OR THAT INTERCOM WILL FIX ANY ERRORS",
+            "conf": 0.9997705817222595,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "OR (iii) ANY CONTENT PROVIDED ON OR THROUGH THE SITE WILL BE ACCURATE OR RELIABLE",
+            "conf": 0.9661495685577393,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ANY MATERIALS OBTAINED THROUGH USE OF THE SITE ARE OBTAINED AT YOUR OWN DISCRETION AND RISK AND INTERCOM SHALL NOT BE RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR COMPUTER OR DATA OR FOR ANY BUGS, VIRUSES, TROJAN HORSES OR OTHER DESTRUCTIVE CODE RESULTING FROM USE OF THE SITE OR ANY CONTENT OBTAINED FROM THE SITE.",
+            "conf": 0.9979141354560852,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED UNDER LAW, INTERCOM AND ITS AFFILIATES, SUPPLIERS, PARTNERS AND AGENTS HAVE NO OBLIGATION OR LIABILITY (WHETHER ARISING IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE) FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OR LIABILITIES (INCLUDING, BUT NOT LIMITED TO, ANY LOSS OF DATA, REVENUE OR PROFIT) ARISING FROM OR RELATED TO YOUR USE OF THE SITE OR ANY CONTENT PROVIDED BY OR THROUGH THE SITE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR LIABILITIES IN ADVANCE.",
+            "conf": 0.9971474409103394,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "THE CONTRARY CONTAINED HEREIN, INTERCOM'S LIABILITY AND THE LIABILITY OF EACH OF ITS AFFILIATES, SUPPLIERS, PARTNERS AND AGENTS TO YOU OR ANY THIRD PARTIES UNDER [ANY CIRCUMSTANCES RELATING TO YOUR ACCESS TO THE SITE OR OTHER ACTIVITIES GOVERNED BY] THESE TERMS IS LIMITED TO A MAXIMUM AMOUNT OF ONE HUNDRED DOLLARS (USD$100",
+            "conf": 0.9555660486221313,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Indemnity  You agree to indemnify, defend (if we so request) and hold harmless Intercom and its affiliates, suppliers, partners and agents from and against any claim, demand, losses, damages or expenses (including reasonable attorney's fees) arising from your User Content, your use of the Site, your connection to the Site, your violation of these Terms or your violation of any rights of any third party",
+            "conf": 0.9888895153999329,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate or suspend your permission to use the Site immediately and without notice upon any violation of these Terms, upon the request of law enforcement or government agencies, for extended periods of inactivity, for unexpected technical issues or problems or for engagement by you in fraudulent or illegal activities",
+            "conf": 0.9089077115058899,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Upon any termination we may delete your User Content and we may bar you from further use of the Site",
+            "conf": 0.9389556646347046,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "BOTH YOU AND INTERCOM AGREE THAT EACH MAY BRING OR PARTICIPATE IN CLAIMS AGAINST THE OTHER ONLY IN THEIR RESPECTIVE INDIVIDUAL CAPACITIES, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS",
+            "conf": 0.9999927878379822,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "NO ARBITRATION OR CLAIM UNDER THESE TERMS SHALL BE JOINED TO ANY OTHER ARBITRATION OR CLAIM, INCLUDING ANY ARBITRATION OR CLAIM INVOLVING ANY OTHER CURRENT OR FORMER USER OF THE SITE, AND NO CLASS ARBITRATION PROCEEDINGS SHALL BE PERMITTED",
+            "conf": 0.9999916553497314,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If we waive any of our rights under these Terms in any particular instance, it does not mean that we are waiving our rights generally or in the future",
+            "conf": 0.994598388671875,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Furthermore, just because we may not enforce all our rights all of the time, it does not mean that we are waiving our rights",
+            "conf": 0.9992875456809998,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective day 20 July 2017",
+            "conf": 0.9999240040779114,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We maintain reasonable procedures to help ensure that personal data we collect and use is reliable for its intended use, accurate, complete, and current",
+            "conf": 0.998829185962677,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "As we develop our business, we might sell or buy businesses or assets",
+            "conf": 0.9605087041854858,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event of a corporate sale, merger, reorganization, dissolution or similar event, personal data may be part of the transferred assets",
+            "conf": 0.9660577178001404,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to request access to, correction, amendment, or deletion of your personal data, you can submit a written request to the contact information provided below",
+            "conf": 0.99662184715271,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may choose to change personal data or cancel an account by contacting us using the contact details below",
+            "conf": 0.9998313784599304,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can also unsubscribe from our marketing communications by following the instructions or unsubscribe mechanism in the e-mail message",
+            "conf": 0.9999901056289673,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "to Contact Us  If you have any questions regarding this Policy or if you need to request access to or update, change or remove personal data that we control, you can do so by contacting us at team@intercom.io or by regular mail addressed to:",
+            "conf": 0.9910305738449097,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Changes to this Policy  We reserve the right to amend this Policy from time to time consistent with the Privacy Shield's requirements",
+            "conf": 0.9381932616233826,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Third Parties Effective day 29 August 2017",
+            "conf": 0.9998127818107605,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This list may be updated by Intercom from time to time:",
+            "conf": 0.9986117482185364,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Security Policy Effective day 20 July 2017",
+            "conf": 0.9917394518852234,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "All customer data is stored in the USA",
+            "conf": 0.9996851682662964,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Policy Effective day 20 July 2017",
+            "conf": 0.9997627139091492,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Third parties serve cookies through our Websites and/or App and/or platform for analytics and other purposes",
+            "conf": 0.9834964275360107,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Alternatively, please click on the relevant opt-out link below:",
+            "conf": 0.9259786605834961,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "LinkedIn does not appear to provide an opt-out link for its analytics cookies",
+            "conf": 0.9897737503051758,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Alternatively, please click on the relevant opt-out link below:",
+            "conf": 0.9259786605834961,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Alternatively, please click on the relevant opt-out link below:",
+            "conf": 0.9259786605834961,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Alternatively, please click on the relevant opt-out link below:",
+            "conf": 0.9259786605834961,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Alternatively, please click on the relevant opt-out link below:",
+            "conf": 0.9259786605834961,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "What about other tracking technologies, like web beacons?  Cookies are not the only way to recognise or track visitors to a website and/or mobile app and/or platform.",
+            "conf": 0.9887707829475403,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may use other, similar technologies from time to time, like web beacons (sometimes called \"tracking pixels\" or \"clear gifs\").",
+            "conf": 0.9999985694885254,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Do you serve targeted advertising?  Third parties may serve cookies on your computer or mobile device to serve advertising through our Websites and/or App and/or platform",
+            "conf": 0.9981870055198669,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These companies may use information about your visits to this and other websites in order to provide relevant advertisements about goods and services that you may be interested in",
+            "conf": 0.9846261739730835,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "This can be accomplished by them using cookies or web beacons to collect information about your visits to this and other websites and/or mobile apps and/or platforms in order to provide relevant advertisements about goods and services of potential interest to you.",
+            "conf": 0.997943639755249,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can exercise your cookie preferences by clicking on the appropriate opt-out links provided in the cookie table above",
+            "conf": 0.9923933148384094,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "In addition, most advertising networks offer you a way to opt out of targeted advertising",
+            "conf": 0.9967373609542847,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "How often will you update this Cookie Policy?  We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons",
+            "conf": 0.9914522171020508,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The date at the top of this Cookie Policy indicates when it was last updated",
+            "conf": 0.9999271631240845,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective day 20 July 2017",
+            "conf": 0.9997943043708801,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Policy Effective day 25 May 2018",
+            "conf": 0.9503829479217529,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies and similar technologies to collect some of this information",
+            "conf": 0.9983038902282715,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may collect information when you interact with our advertisements and other content on third-party sites or platforms, such as social networking sites",
+            "conf": 0.984880805015564,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "For website visitors Intercom will store this data for 9 months, for sales and marketing leads Intercom will store this data until the individual opts out or where they have not engaged with Intercom in 24 months",
+            "conf": 0.9968366026878357,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "To deliver you advertising, including by serving and managing ads on the Offerings or on third party sites and to tailor ads based on your interests and browsing history",
+            "conf": 0.9469572901725769,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Sharing Your Information with Third Parties We do not sell, trade, share or transfer your personal information to third parties except in the following limited circumstances:",
+            "conf": 0.9999251961708069,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may share and/or transfer your personal information if we become involved in a merger, acquisition, bankruptcy, or any form of sale of some or all of our assets",
+            "conf": 0.9894100427627563,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the personal information you choose to publicly post on the Websites",
+            "conf": 0.9999683499336243,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you decide to opt-out, we may not be able to provide certain features of the Offerings to you",
+            "conf": 0.9675823450088501,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included on such communications or on the Offerings",
+            "conf": 0.9999918341636658,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note, however, that you may be unable to opt-out of certain service-related communications",
+            "conf": 0.974873423576355,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Your Web browser may have a \u201cdo not track\u201d setting which, when enabled, causes your browser to send a do not track HTTP header file or \u201csignal\u201d to each site you visit",
+            "conf": 0.969671368598938,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "At present, the Offerings do not respond to this type of signal",
+            "conf": 0.9216296076774597,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can access, rectify, erase, restrict or export your personal information at any time by emailing us at team@intercom.com",
+            "conf": 0.9999319314956665,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may access, review, correct, update, change or delete your information at any time",
+            "conf": 0.9436357021331787,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change our Privacy Policy at any time",
+            "conf": 0.9997803568840027,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "\u2019s new effective date",
+            "conf": 0.9520170092582703,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes to this policy, we will notify you by email or through notice on the Offerings",
+            "conf": 0.9990400075912476,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "No Children Under Age 16  The Offerings are not intended for use by anyone under the age of 16, nor does Intercom knowingly collect or solicit personal information from anyone under the age of 16",
+            "conf": 0.9999958872795105,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 16, you may not attempt to register for the Offerings or send any information about yourself to us, including your name, address, telephone number, or email address",
+            "conf": 0.9999152421951294,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "We may from time to time transfer your personal information to other countries outside the United States and make it accessible to our parents, subsidiaries, affiliates and third party service providers internationally",
+            "conf": 0.9999960660934448,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective day 20 July 2017",
+            "conf": 0.9976197481155396,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "From time to time, Intercom may modify this Agreement",
+            "conf": 0.9933242201805115,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Customer will be responsible for any and all actions taken using Customer's accounts and passwords.",
+            "conf": 0.991494357585907,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Intercom has the right to terminate a Trial Subscription at any time for any reason",
+            "conf": 0.9736541509628296,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Intercom agrees only that it will not intentionally delete any Customer Data from any Service prior to termination of Customer's applicable Subscription Term",
+            "conf": 0.9869740009307861,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Customer is solely responsible for the accuracy, content and legality of all Customer Data",
+            "conf": 0.9382330775260925,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Customer will indemnify, defend and hold harmless Intercom from and against any and all claims, costs, damages, losses, liabilities and expenses (including reasonable attorneys' fees and costs) arising out of or in connection with any claim arising from or relating to any Customer Data or breach or alleged breach by Customer of Section 3.3 (Customer Obligations).",
+            "conf": 0.9999988079071045,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Notwithstanding the foregoing sentence, (a) Intercom may participate in the defense of any claim by counsel of its own choosing, at its cost and expense and (b) Customer will not settle any claim without Intercom's prior written consent, unless the settlement fully and unconditionally releases Intercom and does not require Intercom to pay any amount, take any action, or admit any liability",
+            "conf": 0.999832272529602,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "However, Intercom will have no responsibility for errors in transmission, unauthorized third-party access or other causes beyond Intercom's control",
+            "conf": 0.9891086220741272,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Customer acknowledges and agrees that Intercom has no responsibility or liability for any Third-Party Platform or any Customer Data exported to a Third-Party Platform",
+            "conf": 0.9985604882240295,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Intercom does not guarantee that the Services will maintain integrations with any Third-Party Platform and Intercom may disable integrations of the Services with any Third-Party Platform at any time with or without notice to Customer",
+            "conf": 0.9962167143821716,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This Agreement is effective as of the Effective Date and expires on the date of expiration or termination of all Subscription Terms",
+            "conf": 0.9492632746696472,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Customer acknowledges that following termination it will have no further access to any Customer Data input into any Service, and that Intercom may delete any such data as may have been stored by Intercom at any time",
+            "conf": 0.9964650869369507,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "EXCEPT FOR THE LIMITED WARRANTY IN SECTION 9.1, ALL Services and PROFESSIONAL SERVICES ARE PROVIDED \"AS IS\".",
+            "conf": 0.9999841451644897,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Intercom does not warrant that Customer's use of THE ServiceS will be uninterrupted or error-free, nor does Intercom warrant that it will review the Customer Data for accuracy or that it will preserve or maintain the Customer Data without loss OR CORRUPTION",
+            "conf": 0.9999958276748657,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "INTERCOM SHALL NOT BE LIABLE FOR THE RESULTS OF ANY COMMUNICATIONS SENT OR ANY COMMUNICATIONS THAT WERE FAILED TO BE SENT USING THE SERVICES",
+            "conf": 0.9519811272621155,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT FOR EXCLUDED CLAIMS (DEFINED BELOW), NEITHER PARTY (NOR ITS SUPPLIERS) SHALL HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT FOR ANY LOSS OF USE, LOST DATA, LOST PROFITS, FAILURE OF SECURITY MECHANISMS, INTERRUPTION OF BUSINESS, OR ANY INDIRECT, SPECIAL, INCIDENTAL, RELIANCE, OR CONSEQUENTIAL DAMAGES OF ANY KIND, EVEN IF INFORMED OF THE POSSIBILITY OF SUCH DAMAGES IN ADVANCE.",
+            "conf": 0.9998215436935425,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "trademark and will indemnify and hold harmless Customer from and against any damages and costs finally awarded against Customer or agreed in settlement by Intercom (including reasonable attorneys' fees) resulting from such claim, provided that Intercom will have received from Customer: (i) prompt written notice of such claim (but in any event notice in sufficient time for Intercom to respond without prejudice).",
+            "conf": 0.9999998807907104,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "BOTH CUSTOMER AND INTERCOM AGREE THAT EACH MAY BRING OR PARTICIPATE IN CLAIMS AGAINST THE OTHER ONLY IN THEIR RESPECTIVE INDIVIDUAL CAPACITIES, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS",
+            "conf": 0.999993085861206,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "NO ARBITRATION OR CLAIM UNDER THIS AGREEMENT SHALL BE JOINED TO ANY OTHER ARBITRATION OR CLAIM, INCLUDING ANY ARBITRATION OR CLAIM INVOLVING ANY OTHER CURRENT OR FORMER USER OF THE SERVICES, AND NO CLASS ARBITRATION PROCEEDINGS SHALL BE PERMITTED",
+            "conf": 0.9999926090240479,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver will be implied from conduct or failure to enforce or exercise rights under this Agreement, nor will any waiver be effective unless in a writing signed by a duly authorized representative on behalf of the party claimed to have waived",
+            "conf": 0.9997550845146179,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "The support and service level availability terms described in the Support Policy and the SLA may be updated from time to time upon reasonable notice to Customer to reflect process improvements or changing practices (but the modifications will not materially decrease Intercom's obligations as compared to those reflected in such terms as of the Effective Date).",
+            "conf": 0.9999032020568848,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "17.12",
+            "conf": 0.9096938967704773,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.5
+}

@@ -1,0 +1,404 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "UNDER AGE 16",
+            "conf": 0.9913724064826965,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated December 13, 2018",
+            "conf": 0.9999980926513672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "user who is age 13 or older or a user from outside the U.S.",
+            "conf": 0.9869433045387268,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "who is age 16 or older",
+            "conf": 0.9988625645637512,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "user who is under the age of 13\u00a0or a user from outside the U.S.",
+            "conf": 0.9938610792160034,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "accountholders, and we immediately and permanently alter the email address such that it can only be used as a password reminder and cannot be reconstructed into its original form or used to contact the",
+            "conf": 0.9507850408554077,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).",
+            "conf": 0.9999988675117493,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Information collected through cookies, pixel tags and other technologies",
+            "conf": 0.9992750287055969,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Using pixel tags and\u00a0other similar technologies: Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of users of the Services (including adult accountholders that may receive emails from us), measure the success of marketing campaigns and compile statistics about usage of the Services and response rates.",
+            "conf": 0.999704122543335,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use third parties, including Google Analytics, which use cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends",
+            "conf": 0.9997769594192505,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "a user who is under the age of 13",
+            "conf": 0.9497360587120056,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link",
+            "conf": 0.9980617761611938,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Twitter, WhatsApp, Apple, Google, Microsoft, or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to these or other organizations.",
+            "conf": 0.9996113181114197,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out from receiving marketing-related emails from us on a going-forward basis by clicking the unsubscribe link in any such email",
+            "conf": 0.9999749660491943,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "In addition, in your user settings, you may opt-out of receiving emails letting you know that a Kahoot has been shared",
+            "conf": 0.9957960844039917,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out",
+            "conf": 0.9999787211418152,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you are an adult accountholder and you would like to review, correct, update, suppress or delete Personal Information that you have previously provided to us, restrict the processing of your Personal Information, object to the processing of your Personal Information, or if you would like to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us in accordance with the",
+            "conf": 0.9990458488464355,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "below",
+            "conf": 0.9545410871505737,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may also delete your account by\u00a0selecting \u201cDelete My Account\u201d when logged into the Services",
+            "conf": 0.9997921586036682,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion",
+            "conf": 0.9955986142158508,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "There may also be residual information that will remain within our databases and other records, which will not be removed",
+            "conf": 0.9996393322944641,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We keep your personal information for as long as needed or permitted in light of the purpose(s) for which it was obtained",
+            "conf": 0.9816098809242249,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, which may have data protection rules that are different from those of your country",
+            "conf": 0.9999966025352478,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may change this Privacy Policy",
+            "conf": 0.999786376953125,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The \u201cLAST UPDATED\u201d legend at the top of this page indicates when this Privacy Policy was last revised",
+            "conf": 0.9999085068702698,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: November 6, 2018 1",
+            "conf": 0.9999841451644897,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "section 4.2) and any other information that you submit to us are true, accurate, and complete, and you agree to keep it that way at all times",
+            "conf": 0.9999551773071289,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change the Acceptable Use Policy at any time without notice",
+            "conf": 0.9999867081642151,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change these Terms from time to time without notice",
+            "conf": 0.9999933838844299,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "In the event of material changes to the Terms, we will notify you at least 30 days before these new Terms apply to you, by issuing notice accessible through your use of the Services or by email to your registered email account",
+            "conf": 0.9999366998672485,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Kahoot! may review, monitor, edit or remove User Content in our sole discretion, but is under no obligation to do so",
+            "conf": 0.9508528709411621,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "In all cases, Kahoot! reserves the right to remove or disable access to any User Content for any or no reason, including but not limited to, User Content that, in Kahoot!\u2019s sole discretion, violates the Agreements",
+            "conf": 0.9945047497749329,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Removal or disabling of access to User Content shall be at our sole discretion, and we do not promise to remove or disable access to any specific User Content",
+            "conf": 0.9407052397727966,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all User Content that have published on Kahoot!.",
+            "conf": 0.9948254227638245,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You will, to the greatest possible extent permissible under applicable law, indemnify and hold Kahoot! and its licensors harmless from and against any third party claim asserting that the User Content violates any third party rights or applicable laws, regulations or legal requirements anywhere in the world, including any loss, costs and expenses arising out of such third party claim",
+            "conf": 0.9999958276748657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To maintain control over the account and to prevent anyone from accessing the account, you should maintain control over the devices that are used to access the Service and not reveal the password nor any payment details associated with your account to anyone",
+            "conf": 0.9891924262046814,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are also responsible for preventing unauthorized access and use of your account by any other than you",
+            "conf": 0.9816567301750183,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Kahoot! may terminate the Agreements or suspend your access to the Kahoot! Service at any time, including in the event of your actual or suspected unauthorised use of the Kahoot! Service and/or Resources, or non-compliance with the Agreements",
+            "conf": 0.9999550580978394,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Although Kahoot! will endeavor to provide the Kahoot! Service in the best possible way without interruptions, you understand and agree that the Kahoot! Service is provided \u201cas is\u201d and \u201cas available\u201d, without any express or implied warranty, condition or assurance of any kind",
+            "conf": 0.9999956488609314,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "the use of the Kahoot! Service and the Resources will be uninterrupted, timely, secure or free from errors",
+            "conf": 0.9999975562095642,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "the information obtained by using the Kahoot! Service and the Resources will be accurate or reliable, or",
+            "conf": 0.9999995231628418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Any Resources downloaded or otherwise obtained through the use of the Kahoot! Service is done at your own discretion and risk, and you are solely responsible for any damage to your computer or other devices for any loss of data that may result from the download of such Resources.",
+            "conf": 0.9959681630134583,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand and agree that Kahoot! is not responsible or liable for any communication between users or any transaction between you and third party through the Kahoot Service.",
+            "conf": 0.9845107793807983,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "No information or advice, whether expressed, implied, oral or written, obtained by you from Kahoot! AS or through any Resources we provide shall create any warranty, guarantee, or conditions of any kind, except for those expressly outlined in these Terms",
+            "conf": 0.9933383464813232,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL KAHOOT!, ITS OFFICERS, SHAREHOLDERS, EMPLOYEES, AGENTS, DIRECTORS, SUBSIDIARIES, AFFILIATES, SUCCESSORS, ASSIGNS, SUPPLIERS, OR LICENSORS BE LIABLE FOR (1) ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.",
+            "conf": 0.9977453351020813,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ") ANY LOSS OF USE, DATA, BUSINESS, OR PROFITS (WHETHER DIRECT OR INDIRECT), IN ALL CASES ARISING OUT OF THE USE OR INABILITY TO USE THE KAHOOT! SERVICE, THIRD PARTY APPLICATIONS, OR THIRD PARTY APPLICATION CONTENT, REGARDLESS OF LEGAL THEORY, WITHOUT REGARD TO WHETHER KAHOOT! HAS BEEN MADE AWARE OF THE POSSIBILITY OF THOSE DAMAGES, AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE",
+            "conf": 0.9326732158660889,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Apple is not a party to this Terms and does not own and is not responsible for the app",
+            "conf": 0.999549150466919,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Apple is not responsible for maintenance or other support services for the app and shall not be responsible for any other claims, losses, liabilities, damages, costs or expenses with respect to the app, including any third-party product liability claims, claims that the app fails to conform to any applicable legal or regulatory requirement, claims arising under consumer protection or similar legislation, and claims with respect to intellectual property infringement",
+            "conf": 0.9972891211509705,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold harmless Kahoot! and its parent company and affiliates, and their directors, officers, managers, employees, donors, agents, and licensors, from and against all losses, expenses, damages and costs, including reasonable attorneys\u2019 fees, resulting from any violation of these Terms or the failure to fulfill any obligations relating to your account incurred by you or any other person using your account",
+            "conf": 0.999997079372406,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Unless as otherwise stated in the Agreements, should any provision of the Agreements be held invalid or unenforceable for any reason or to any extent, such invalidity or enforceability shall not in any manner affect or render invalid or unenforceable the remaining provisions of the Agreements, and the application of that provision shall be enforced to the extent permitted by law",
+            "conf": 0.9486848711967468,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any failure by Kahoot! or any third party beneficiary to enforce the Agreements or any provision thereof shall not waive Kahoot!\u2019s or the applicable third party beneficiary\u2019s right to do so",
+            "conf": 0.999914824962616,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "To the fullest extent permitted by applicable law, you agree to indemnify and hold Kahoot! harmless from and against all damages, losses, and expenses of any kind (including reasonable attorney fees and costs) arising out of: (1) your breach of this Agreement",
+            "conf": 0.9999850988388062,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You agree that any information you provide will always be accurate, correct, and up to date",
+            "conf": 0.9999833703041077,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Accordingly, you are responsible for all activities that occur under your account/s",
+            "conf": 0.9852899312973022,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible any consequences, losses, or damages that we may directly or indirectly incur or suffer due to any unauthorized activities conducted by you, as explained above, and may incur criminal or civil liability",
+            "conf": 0.9997342824935913,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for any delay or failure in removing such content",
+            "conf": 0.9431748986244202,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold harmless Kahoot! and its parent company and affiliates, and their directors, officers, managers, employees, donors, agents, and licensors, from and against all losses, expenses, damages and costs, including reasonable attorneys\u2019 fees, resulting from any violation of this Acceptable Use Policy or the failure to fulfill any obligations relating to your account incurred by you or any other person using your account",
+            "conf": 0.9999967813491821,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.6
+}

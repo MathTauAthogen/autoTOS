@@ -1,0 +1,131 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": ": In order to use the services provided on the Service, you must be at least 16 years of age",
+            "conf": 0.999976396560669,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We will communicate any changes in Fees, and any changes will only take effect at the end of your current subscription period",
+            "conf": 0.9997308850288391,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You indemnify, and will keep indemnified, us against all forms of liability, actions, proceedings, demands, costs, charges and expenses which we may howsoever incur or be subject to or suffer as a result of the use by you of the Service",
+            "conf": 0.9992563128471375,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Amendments: We reserve the right to amend these Terms at any time, including by changing the amount of any Fees payable for any of our services, and may also add new features that will be subject to these Terms",
+            "conf": 0.9849977493286133,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "However, we will not be liable for any loss suffered as a result of any partial or total breakdown of the Service or any technical malfunctions",
+            "conf": 0.9748987555503845,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "This policy was last updated in May 2020 and is effective from 1 May 2020",
+            "conf": 0.9999956488609314,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may amend or update this Privacy Policy from time to time, with or without notice to you",
+            "conf": 0.9979963898658752,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services",
+            "conf": 0.9865605235099792,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Access to and updates of information: You may request at any time to access the personal information that we hold on your behalf or to correct or update any of your personal information (to the extent that you are unable to do so yourself on the Website).",
+            "conf": 0.9999528527259827,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Access to and updates of information: You may request at any time to access the personal information that we hold on your behalf or to correct or update any of your personal information (to the extent that you are unable to do so yourself on the Website).",
+            "conf": 0.9999528527259827,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We will securely store your personal information in the United States, although you acknowledge and agree that your personal information may be transferred outside of the United States in connection with the services we offer, as further set out in clause 12 below",
+            "conf": 0.9999921917915344,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "When we transfer personal data outside of the European Union or EFTA States, we ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country\u2019s data protection laws, contractual obligations placed on the recipient of the data, or EU-US and Swiss-US Privacy Shield principles",
+            "conf": 0.9756647944450378,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Retention: We will hold your personal information both before and after the deactivation or your account, but only for as long as we are lawfully entitled&nbsp;to do so, or until you request that we permanently delete it",
+            "conf": 0.999924898147583,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When deactivated, your&nbsp;Letterboxd account, including your username, profile and content will no longer be viewable on the Website, App or API,&nbsp;but they will be retained unless and&nbsp;until you separately request permanent deletion via email.",
+            "conf": 0.9604029655456543,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When deactivated, your&nbsp;Letterboxd account, including your username, profile and content will no longer be viewable on the Website, App or API,&nbsp;but they will be retained unless and&nbsp;until you separately request permanent deletion via email.",
+            "conf": 0.9604029655456543,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You must keep any login, password or account information relating to your use of the Website secure at all times, and must immediately notify us of any unauthorized use of such information or any other breach of security",
+            "conf": 0.994193434715271,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for any loss or damage if you fail to comply with this security obligation",
+            "conf": 0.9783794283866882,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "This policy was last updated in November 2019 and is effective from 1 November 2019",
+            "conf": 0.9999968409538269,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.6
+}

@@ -1,0 +1,271 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Cookie Policy UPDATED ON NOVEMBER 15, 2018",
+            "conf": 0.9993894100189209,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Our websites (",
+            "conf": 0.9991981387138367,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": ", and emails we send to you, collectively referred to as \"websites\") use cookies and similar technologies such as counting pixels, web beacons, transparent GIF graphics, JavaScript and local storage",
+            "conf": 0.9960964918136597,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "then certain features and services may be unavailable",
+            "conf": 0.9896552562713623,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We and our service providers and affiliates may also add other information, including information obtained from third parties, to the information collected by these cookies, and share that information with third parties so that they can display your advertising",
+            "conf": 0.9659945368766785,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "These cookies expire and are automatically deleted when you close your Internet browser",
+            "conf": 0.967880368232727,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use persistent cookies to store your preferences so they are available on the next visit, and to keep track of how often you visit our web pages, how often you return, how your use of the web pages may change over time, and to measure how effective advertising measures are",
+            "conf": 0.9179365038871765,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may update this list periodically",
+            "conf": 0.9983847141265869,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "DoubleClick.net: Our websites use Double Click cookies to show you relevant ads",
+            "conf": 0.9982607364654541,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "The cookies are kept for a maximum of two years or less as permitted by law",
+            "conf": 0.9882223606109619,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "\u2019s cookie: http://optout.aboutads.info/.",
+            "conf": 0.900172770023346,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Our websites use first party Anki cookies and third party Facebook cookies to show you relevant ads on our and other sites",
+            "conf": 0.9992658495903015,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our websites use Twitter cookies to show you relevant ads on our and other sites",
+            "conf": 0.9989360570907593,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our websites use YouTube cookies to show you relevant ads",
+            "conf": 0.9953829646110535,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We and other advertisers (including technology partners and service providers) use advertising geared to your interests to display advertisements and personalized content",
+            "conf": 0.9966973662376404,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "To the extent third parties use cookies to provide such services to Anki or others, Anki has no control over the use of such cookies or the information obtained from them, nor is it responsible for the actions or privacy policies of such third parties.",
+            "conf": 0.995604932308197,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Our websites use Google Analytics (including the Universal Analytics User \u2013ID feature), an internet analytics service based on cookies provided by Google Inc.",
+            "conf": 0.9999539256095886,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For more information on third-party cookies and how to opt-out of them, please visit one of the following third-party sites:",
+            "conf": 0.9835091829299927,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can manage the use of cookies on our applications by visiting the settings section of our applications or by requesting deletion of your account by contacting privacy@anki.com",
+            "conf": 0.9967705607414246,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "UPDATED October 5, 2018",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update this Privacy Policy from time to time",
+            "conf": 0.9998419880867004,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you of material changes by posting a notice within the Services, sending you an email, and/or by some other means",
+            "conf": 0.9997496008872986,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you are a user in Europe, you can opt-out from the collection of Analytics Data connected to you",
+            "conf": 0.9875532388687134,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "are not stored and do not leave the",
+            "conf": 0.9092264175415039,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "For push notifications, you can opt-out anytime by turning off push notifications from your phone settings",
+            "conf": 0.9999768137931824,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "On our websites, we may \u2013 depending on your cookie preferences \u2013 also collect information through the use of \"Cookies\" or similar tracking technologies, which are identifiers transferred to your browser.",
+            "conf": 0.9950750470161438,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use first and third party Cookies to help our websites work, provide you with relevant content and to improve our Services",
+            "conf": 0.9971351027488708,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our third party advertising partners may use cookies or similar technologies on our and other sites (but not in our mobile applications), to provide you advertising based upon your browsing activities and interests, or to display ads that link back to our site.",
+            "conf": 0.9849996566772461,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you have, or, for a child under the age of 13 (or up to 16, depending on the country), his or her parent/legal guardian has, given us consent by providing us your contact information, we may, subject to your marketing preferences, send you education, marketing, product support, and research emails",
+            "conf": 0.9715942144393921,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe from our marketing and research emails anytime by following the instructions included in them",
+            "conf": 0.9999897480010986,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for such websites",
+            "conf": 0.9998520612716675,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "Also, if we are acquired, dissolve, or go through a change of control, Personal Information could be one of the assets transferred, subject to your consent, where required by law",
+            "conf": 0.985708475112915,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can contact us at privacy@anki.com or through the contact information provided below to modify, request a copy of, or request deletion of this Personal Information or your Account.",
+            "conf": 0.9891406297683716,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain information for as long as your Account is active or as necessary to provide you services",
+            "conf": 0.9997425079345703,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may also be required to keep some of your Personal Information for legal reasons, for instance to comply with statutory retention periods or for tax purposes",
+            "conf": 0.9879960417747498,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of receiving emails at any time by clicking \"unsubscribe.\"",
+            "conf": 0.9999983310699463,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Parents can revoke their consent anytime by contacting privacy@anki.com, and they can request modification or deletion of children\u2019s accounts by following the process at Section E",
+            "conf": 0.9871630072593689,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Although we endeavor to provide reasonable security, no system can prevent all potential breaches or guarantee perfect security",
+            "conf": 0.9579706788063049,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.5
+}

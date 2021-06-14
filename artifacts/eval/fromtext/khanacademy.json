@@ -1,0 +1,698 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Updated: May 25, 2018",
+            "conf": 0.9999985098838806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell your personal information to third parties",
+            "conf": 0.9999338388442993,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We take extra precautions for our younger learners under the age of 13, including restricting child accounts to automatically block features that would allow a child to post or disclose personal information",
+            "conf": 0.9555832147598267,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "How to access, update, or delete your personal information",
+            "conf": 0.9997907876968384,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "To provide a personalized learning and high-quality experience for our users, we may use various technologies that automatically record certain technical information from your browser or device when you visit our website, read our emails, use our Service or otherwise engage with us",
+            "conf": 0.9966467022895813,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "This information is typically collected through a variety of tracking technologies, including cookies, web beacons, Flash objects, log files, and similar technology (collectively, \u201ctracking technologies\u201d).",
+            "conf": 0.9999995827674866,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These tracking technologies cookies collect information about how you use the Service (e.g., the pages you view, the links you click, and other actions you take on the Service), information about your browser and online usage patterns (e.g., Internet Protocol (\u201cIP\u201d) address, browser type, browser language, referring / exit pages and URLs, pages viewed, whether you opened an email, links clicked), and information about the device(s) you use to access the Service (e.g., mobile device identifier, mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, and whether you access the Service from multiple devices).",
+            "conf": 0.9997853636741638,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may collect analytics data, or use third-party analytics tools such as Google Analytics, to help us measure traffic and usage trends for the Sites and to understand more about the demographics of our users.",
+            "conf": 0.9863063097000122,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Although we do our best to honor the privacy preferences of our users, we are unable to respond to Do Not Track signals set by your browser at this time",
+            "conf": 0.9952517151832581,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We and our third-party partners may also use cookies and tracking technologies for advertising purposes",
+            "conf": 0.9997475743293762,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not rent or sell Personal Information that we collect from users with third parties",
+            "conf": 0.9999802112579346,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Khan Academy does not share your Personal Information with third-party organizations for their marketing or promotional use without your consent",
+            "conf": 0.992880642414093,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may share anonymous or aggregate data with others.We may use data which has been de-identified and/or aggregated for product development, research, analytics and other purposes, including for the purpose of analyzing, improving, or marketing the Khan Academy Services",
+            "conf": 0.9853670001029968,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Khan Academy may share information with our employees and trusted vendors, third party service providers and other individuals to provide services or products for us or on our behalf, which could include analytics, hosting, marketing and similar services",
+            "conf": 0.9742288589477539,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may share data in the context of a change of business, including a merger or acquisition",
+            "conf": 0.9999525547027588,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event that Khan Academy is involved in a merger, acquisition, bankruptcy, change of control, or any form of sale of some or all of our assets, your personal information may be transferred or disclosed in connection with such business transaction",
+            "conf": 0.9549639821052551,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe from these mailings at any time",
+            "conf": 0.9999714493751526,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Khan Academy does not share any of our users' Personal Information with these sponsors without explicit consent, and these sponsors do not have the ability to track or collect information about our site visitors or users",
+            "conf": 0.9982708692550659,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Third Parties and Online AdvertisingInterest Based AdvertisingKhan Academy does not display any targeted advertising on our Service",
+            "conf": 0.975023090839386,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "However, we participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements on other websites, apps or services, including on Facebook and other social networks, or on other devices you may use",
+            "conf": 0.9993774890899658,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These third party ad networks use tracking technologies to recognize your browser or device and to collect information about your visit to our Service to provide you customized content, advertising and commercial messages which may be more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research.",
+            "conf": 0.9888004064559937,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "when we believe the Service is being used by students or children under 13",
+            "conf": 0.9181002974510193,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may also be able to opt-out of some \u2013 but not all \u2013 interest-based ads served by mobile ad networks by visiting http://youradchoices.com/appchoices and downloading the mobile AppChoices app",
+            "conf": 0.9786593914031982,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that opting-out of receiving interest-based advertising through the NAI's and DAA's online resources will only opt-out a user from receiving interest-based ads on that specific browser or device, but the user may still receive interest-based ads on his or her other devices",
+            "conf": 0.9986106753349304,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "YouTube incorporates tracking technologies, which may be present in the YouTube videos embedded on the Service, which may collect information from your browser when you view the video on the Service, including device identifiers and/or cookie IDs.",
+            "conf": 0.9993224143981934,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We take reasonable steps to ensure that the Personal Information we store and use is accurate, complete, and up-to-date",
+            "conf": 0.9740625023841858,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can also decline to provide any optional data in your public profile",
+            "conf": 0.9849426746368408,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can disconnect us from Integrated Services.You may revoke Khan Academy's access to your account on any Integrated Service, such as Google or Facebook, at any time by updating the appropriate settings in the account preferences of the respective Integrated Service",
+            "conf": 0.9986140131950378,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe from email communications.Khan Academy may, from time to time, send you email regarding our products and services, or products and services we think you may enjoy",
+            "conf": 0.9997053146362305,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can choose not to receive these emails by clicking the unsubscribe link in any e-mail or via your Settings page at https://www.khanacademy.org/settings/email",
+            "conf": 0.9997265934944153,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that you are not permitted to unsubscribe or opt-out of non-promotional messages regarding your account, such as account verification, changes or updates to features of the Service, or technical or security notices",
+            "conf": 0.9999842047691345,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "you are under the age of 18 residing in California, you are entitled to request removal of content or information you have posted publicly on our Service",
+            "conf": 0.9999575614929199,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "How to access, update, or delete your personal informationHow to access or update your information.We want you to have access to your information, so that you can help keep it as accurate as possible",
+            "conf": 0.9985040426254272,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you register and provide Khan Academy with Personal Information, you may update, correct, or delete your account and information at any time by reviewing your profile information and preferences on your account settings page",
+            "conf": 0.9967730641365051,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "to delete your information.To request deletion of your personal information at any time, please log into your account and select \u201ddelete your account\u201c through Settings",
+            "conf": 0.983478307723999,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that your information will be retained in backup for up to one week",
+            "conf": 0.9985607862472534,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may not be able to delete data in all instances, such as information retained in technical support logs and other business records",
+            "conf": 0.9999472498893738,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will not be required to delete any information which has been de-identified or disassociated with personal identifiers such that it can no longer be used to reasonably identify a particular individual",
+            "conf": 0.9920749068260193,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Unless we receive a deletion request, we will retain your information for as long as your account is active or as is reasonably useful for operational purposes",
+            "conf": 0.9999404549598694,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You should create and maintain a strong password to help ensure the security of your account",
+            "conf": 0.9996510744094849,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We try to ensure that our Service and information sent to us are safe, but no security measures are perfect.",
+            "conf": 0.9978960156440735,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Academy uses certain physical, managerial, and technical safeguards designed to preserve the integrity and security of your Personal Information and other information we maintain in connection with our Service",
+            "conf": 0.9724793434143066,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "We will never sell Student Records unless the sale is part of a corporate transaction, such as a merger, acquisition, bankruptcy, or other sale of assets, in which case we will require the new owner to continue to honor the terms provided in this Privacy Policy or we will provide the School with notice and an opportunity to opt-out of the transfer of Student Records by deleting the Student Records before the transfer occurs",
+            "conf": 0.9909054636955261,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "How we retain and delete Student Records.We will not knowingly retain Student Records beyond the time period required to support an educational purpose, unless authorized by a School, student or parent",
+            "conf": 0.9943939447402954,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "All users, including School Users (or their Parents) can delete their accounts and all personal information associated with the account at any time through account Settings",
+            "conf": 0.9972341656684875,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The School is responsible for managing Student Records which the School no longer needs for an educational purpose by submitting a deletion request when such data is no longer needed.",
+            "conf": 0.981940507888794,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that Khan Academy cannot comply with a School's request to delete personal information in a user account except for School User accounts created by a School (i.e., using a School email address and/or an account login provided by a School) pursuant to a contractual agreement between the School and Khan Academy, or unless the user (or the user's Parent) requests deletion directly.",
+            "conf": 0.9940903186798096,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will also not be able to delete information associated with School User accounts that the School User has associated with a personal account",
+            "conf": 0.9747638702392578,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Academy does not permit children under the age of 13 (a \u201cChild\u201d or \u201cChildren\u201d) to create an account without the consent and at the direction of a Parent or School",
+            "conf": 0.9999687671661377,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children under 13 may create an account with the parent's consent",
+            "conf": 0.9999750256538391,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "If you choose to use our Service from the European Union or other regions of the world with laws governing data collection and use that differ from United States law, then you acknowledge that Khan Academy will transfer your personal information to the United States for the purpose of performing the Service according to our contract (e.g., our Terms of Service) and for any other purpose for which you provide explicit, informed consent.12",
+            "conf": 0.9955371022224426,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "The right to obtain the erasure of your personal information without undue delay in certain circumstances, such as where the personal information is no longer necessary in relation to the purposes for which it was collected or processed;",
+            "conf": 0.9999943971633911,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Changes and updates to this Privacy PolicyKhan Academy may modify or revise this Privacy Policy from time to time",
+            "conf": 0.9980742931365967,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we change this Policy in a material manner, we will do our best to notify you of the changes by posting a notice on our website",
+            "conf": 0.999519944190979,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "consent within 7 days, the Child User's Restricted Account is closed, and the Child's personal information is deleted from our systems.2",
+            "conf": 0.9292851686477661,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If we do not receive consent from the Parent within seven (7) days, the Child User's account will be closed and the Child's personal information is deleted from our systems",
+            "conf": 0.9942520260810852,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Third party tracking and online advertising.Khan Academy does not display any targeted advertising on the Service",
+            "conf": 0.9985483884811401,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "YouTube incorporates tracking technologies, which may be present in the YouTube videos embedded on the Service, which may collect information from your browser when you view the video on the Service, including device identifiers and/or cookie IDs.",
+            "conf": 0.9993224143981934,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Please note, you must delete your Child User\u2019s account",
+            "conf": 0.9999163746833801,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: August 1, 2019",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "PLEASE NOTE THAT THESE TERMS INCLUDE A BINDING ARBITRATION PROVISION, INCLUDING A CLASS ACTION WAIVER",
+            "conf": 0.9988458752632141,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "1.1 By clicking the \"I Agree\" button or by otherwise using or registering an account for the Services, you represent that (i) you are a US resident at least 13 years of age, or (ii) you are not a US resident, and are of legal age of consent to open an account under the laws of your country of residence, or (iii) your use of the Services has been approved by your parent or legal guardian, or by your school or teacher for school use",
+            "conf": 0.995697021484375,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality of your account and password, and you agree to accept responsibility for all activities that occur under your account or password.",
+            "conf": 0.9950559735298157,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You agree that the information you provide to Khan Academy, whether at registration or at any other time, will be true, accurate, current, and complete",
+            "conf": 0.9999101758003235,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You also agree that you will ensure that this information is kept accurate and up-to-date at all times",
+            "conf": 0.9992129802703857,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 13 (a \"Child User\"), you may not create or register an account for the Services without consent and approval from your legal parent or guardian, or from your school as provided in Section 1.6 (\"School Use\").",
+            "conf": 0.9999973773956299,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 18, you represent that your parent or legal guardian has reviewed and agreed to the Terms on your behalf",
+            "conf": 0.9999911189079285,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are at least 18 years of age and you are the legal parent or guardian of a child that seeks to register as a Child User of the Services, you may register a parent account on the Services (\"Parent User\").",
+            "conf": 0.9335533380508423,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "A Parent User account, along with all associated Child User accounts, may be terminated by Khan Academy at any time and without warning for any failure to abide by these Terms",
+            "conf": 0.9918476343154907,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "under",
+            "conf": 0.9159532189369202,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "If you choose to access our Services from locations outside the United States, you consent to the collection, transmission, use, storage and processing of content and data (including your personal information) in the United States",
+            "conf": 0.9826714992523193,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 18, you confirm that you have received parental consent, if required in your jurisdiction, to open an account for Service and enter into these Terms",
+            "conf": 0.9999728798866272,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Khan Academy reserves the right, at our discretion, to change, modify, add, or remove portions of the Terms at any time",
+            "conf": 0.9972543120384216,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "For any material changes to the Terms, Khan Academy will make reasonable effort to provide notice to you of such amended Terms, such as by an email notification to the address associated with your account or by posting a notice on the Services, and such amended terms will be effective against you on the earlier of (i) your actual notice of such changes and (ii) thirty days after Khan Academy makes reasonable attempt to provide you such notice",
+            "conf": 0.999979555606842,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that are solely responsible for your User Content and the consequences of posting, creating, or publishing such User Content",
+            "conf": 0.9474369287490845,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Khan Academy, in its sole discretion, for any or no reason, and without penalty, may suspend or terminate any account (or any part thereof) you may have with Khan Academy or your use of the Services and remove and discard all or any part of your account, User profile, and User Content, at any time",
+            "conf": 0.999884843826294,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Khan Academy may also in its sole discretion and at any time discontinue providing access to the Services, or any part thereof, with or without notice",
+            "conf": 0.9999991059303284,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that any termination of your access to the Services or any account you may have, or portion thereof, may be affected without prior notice, and you agree that Khan Academy will not be liable to you or any third party for any such termination",
+            "conf": 0.9999537467956543,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Certain Users (e.g., Parent Users and School Personnel) may terminate these Terms with respect their account or to a Child or Student User account that was created by them or at their direction, as provided in this Section",
+            "conf": 0.9862446188926697,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "School Personnel may terminate use of the Services individually and/or with respect to School Accounts created by such School Personnel at any time by contacting us at schoolpartnerships@khanacademy.org, provided, however, that an Institution may require satisfaction of certain requirements before School Personnel can terminate accounts created for school use",
+            "conf": 0.9345904588699341,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree, to the extent permissible under your state's laws, to indemnify, defend, and hold harmless Khan Academy, and its parent, successors, affiliated companies, contractors, officers, directors, employees, agents and its third-party suppliers, licensors, and partners (\"Khan Academy Parties\") from and against all losses, damages, liabilities, demands, judgments, settlements, costs and expenses of any kind (including legal fees and expenses), from any claim or demand made by any third-party relating to or arising out of (i) your access to, use or misuse of the Services",
+            "conf": 0.9999977946281433,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Khan Academy reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Khan Academy, and you agree to cooperate with Khan Academy's defense of these claims",
+            "conf": 0.9921807050704956,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE WEBSITE, AND ALL DATA, INFORMATION, SOFTWARE, WEBSITE MATERIALS, CONTENT (WHETHER OWNED OR LICENSED), USER CONTENT, REFERENCE SITES, SERVICES, OR APPLICATIONS MADE AVAILABLE IN CONJUNCTION WITH OR THROUGH THE WEBSITE (THE \"KHAN ACADEMY OFFERINGS\"), ARE PROVIDED ON AN \"AS IS,\" \"AS AVAILABLE,\" AND \"WITH ALL FAULTS\" BASIS.",
+            "conf": 0.997765302658081,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, THE KHAN ACADEMY PARTIES DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER STATUTORY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ALL IMPLIED WARRANTIES OF MERCHANTABILITY, QUALITY, AVAILABILITY, QUIET ENJOYMENT, FITNESS FOR A",
+            "conf": 0.9676517844200134,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "KHAN ACADEMY, AND THE KHAN ACADEMY PARTIES, DO NOT WARRANT THAT THE WEBSITE OR ANY DATA, USER CONTENT, FUNCTIONS, OR ANY OTHER INFORMATION OFFERED ON OR THROUGH THE WEBSITE WILL BE UNINTERRUPTED, OR FREE OF ERRORS, VIRUSES OR OTHER HARMFUL COMPONENTS, AND DO NOT WARRANT THAT ANY OF THE FOREGOING WILL BE CORRECTED",
+            "conf": 0.9998569488525391,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "KHAN ACADEMY AND THE KHAN ACADEMY PARTIES MAKE NO REPRESENTATION OR WARRANTY THAT (1) THE KHAN ACADEMY OFFERINGS WILL (A) MEET YOUR REQUIREMENTS OR EXPECTATIONS, OR BE TO YOUR LIKING, OR (B) WILL BE TIMELY, SECURE, ACCURATE, FREE FROM ERRORS OR LOSS, OR UNINTERRUPTED, (2) THAT THE SERVICES ARE FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS, OR (3) THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED",
+            "conf": 0.9999775290489197,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU UNDERSTAND AND AGREE THAT YOUR USE, ACCESS, DOWNLOAD, OR OTHERWISE OBTAINING OF CONTENT, WEBSITE MATERIALS, SOFTWARE, OR DATA THROUGH THE WEBSITE (INCLUDING THROUGH ANY API'S) IS AT YOUR OWN DISCRETION AND RISK, AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM) OR LOSS OF DATA THAT RESULTS THEREFROM.",
+            "conf": 0.9956204295158386,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "UNDER NO CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WILL KHAN ACADEMY OR THE KHAN ACADEMY PARTIES BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, RELIANCE, OR EXEMPLARY DAMAGES (INCLUDING WITHOUT LIMITATION DAMAGES ARISING FROM ANY UNSUCCESSFUL COURT ACTION OR LEGAL DISPUTE, LOST BUSINESS, LOST REVENUES OR PROFITS, LOSS OF DATA, OR ANY OTHER PECUNIARY OR NON-PECUNIARY LOSS OR DAMAGE OF ANY NATURE WHATSOEVER) EVEN IF KHAN ACADEMY OR A KHAN ACADEMY PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES ARISING OUT OF OR RELATING (i) TO THE TERMS.",
+            "conf": 0.9999523758888245,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT WILL KHAN ACADEMY'S OR THE KHAN ACADEMY PARTIES' TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION ARISING OUT OF OR RELATING TO THE TERMS OR YOUR USE OF THE WEBSITE OR YOUR INTERACTION WITH OTHER WEBSITE USERS (WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), WARRANTY, OR OTHERWISE), EXCEED THE AMOUNT PAID BY YOU TO KHAN ACADEMY, IF ANY, FOR ACCESSING THE WEBSITE DURING THE TWELVE MONTHS IMMEDIATELY PRECEDING THE DATE OF THE CLAIM OR ONE HUNDRED DOLLARS ($100), WHICHEVER IS GREATER.",
+            "conf": 0.9988208413124084,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Khan Academy is not responsible for the actions, content, information or data of other third parties, including other Users",
+            "conf": 0.9999515414237976,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your interactions with other users of the Services, and any other parties with whom you interact through the Service",
+            "conf": 0.991000771522522,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If you have a dispute with one or more Users, you release us (and the Khan Academy Parties) from all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes, including damages for loss of profits, goodwill, use, privacy or data",
+            "conf": 0.9462995529174805,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Khan Academy may provide you with notices, including those regarding changes to the Terms, by email, regular mail, postings on the Services, or other reasonable means",
+            "conf": 0.9963158369064331,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Notices posted on the Services are deemed given 30 days following the initial posting",
+            "conf": 0.977377712726593,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Khan Academy to exercise or enforce any right or provision of the Terms will not constitute a waiver of such right or provision",
+            "conf": 0.9999968409538269,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You are giving up the right to litigate (or participate in as a party or class member) all Disputes in court before a judge or jury",
+            "conf": 0.9999933242797852,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Neither you nor Khan Academy will seek to have any Dispute heard as a class action or in any other proceeding in which either party acts or proposes to act in a representative capacity",
+            "conf": 0.9999908208847046,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of the Terms or any Guidelines is held to be unlawful, void, or for any reason unenforceable, then that provision will be limited or eliminated from the Terms to the minimum extent necessary and will not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9969998598098755,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Apple is not responsible for the investigation, defense, settlement and discharge of any third-party claim that the Services or your possession and",
+            "conf": 0.904205322265625,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.7
+}

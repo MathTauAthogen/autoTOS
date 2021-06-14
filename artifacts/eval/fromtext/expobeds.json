@@ -1,0 +1,89 @@
+{
+    "predictions": [
+        {
+            "label": "13",
+            "text": "We do not use cookies to profile your usage on our websites or across the Internet or to draw any conclusions about you!",
+            "conf": 0.9997560381889343,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "No personally identifiable information is used",
+            "conf": 0.9010578989982605,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "This cookie is alive only while you browse our website - once you close it, it will be deleted automatically by your browser",
+            "conf": 0.9187183380126953,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "and any eventual post-",
+            "conf": 0.9131010174751282,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "the right to erasure",
+            "conf": 0.9734829068183899,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Right to erasure (Right to be forgotten)",
+            "conf": 0.9976194500923157,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some circumstances you have the right to request erasure of personal data concerning you, and we have the obligation to erase your personal data after review",
+            "conf": 0.9999639391899109,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "oppose the erasure of the personal data and requests instead the restriction of their use instead",
+            "conf": 0.9755114316940308,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You have the right to object to this processing if you wish, and if you wish to do so please contact us or in the case of email marketing by using the unsubscribe option in every marketing email",
+            "conf": 0.99993497133255,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We have no responsibility or liability for the content and activities of these linked sites",
+            "conf": 0.9996458888053894,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update this policy from time to time by publishing a new version on our website",
+            "conf": 0.9958363771438599,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "In some specific cases we may notify you of changes to this policy by email",
+            "conf": 0.9996010661125183,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 7.5
+}

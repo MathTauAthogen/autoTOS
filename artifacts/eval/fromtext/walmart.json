@@ -1,0 +1,117 @@
+{
+    "predictions": [
+        {
+            "label": "2",
+            "text": "We use technologies such as cookies, web beacons, and mobile device identifiers to collect information about the use of our websites and mobile services",
+            "conf": 0.9999850988388062,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "and other",
+            "conf": 0.9370855689048767,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We also transfer or share your personal information within our corporate family of companies, such as with Sam's Club, for these purposes, as permitted by law",
+            "conf": 0.9999029636383057,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We will not sell or rent your personal information.&nbsp;We may share your personal information in limited circumstances, such as to conduct our business, when legally required, or with your consent",
+            "conf": 0.9971986413002014,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "More We will not share your personal information outside of our corporate family of companies, except in the following circumstances:",
+            "conf": 0.9715436697006226,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not allow our service providers to use or share your personal information for any purpose other than providing services on our behalf",
+            "conf": 0.9941055774688721,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Your personal information may be stored and processed by our service providers in the United States or other locations where the service providers or Walmart maintain facilities",
+            "conf": 0.9999879002571106,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event that all or a part of our business is merged, sold or reorganized (including transfers made as a part of insolvency or bankruptcy proceedings), personal information about you could be shared with the successor business",
+            "conf": 0.9768850207328796,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "In any circumstance other than those described above, we will ask for your affirmative consent before we share your personal information outside of our corporate family of companies, and we also will not sell or rent your personal information",
+            "conf": 0.9859287738800049,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We use an opt-out standard for email or for other communications, such as postal mail",
+            "conf": 0.9862238764762878,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Since we do not accept opt-out requests from third parties, such as catalog opt-out services, please communicate your request directly to us through one of the mechanisms mentioned above",
+            "conf": 0.9313103556632996,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Our websites and mobile services are intended for a general audience and are not directed to children",
+            "conf": 0.980084240436554,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In order to protect the privacy of children, Walmart websites and mobile services knowingly collect personal information from children under the age of 13 only with prior parental consent or as permitted by law",
+            "conf": 0.9889643788337708,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Please check our Privacy Policy periodically for changes",
+            "conf": 0.9986034631729126,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will provide additional notice of significant updates",
+            "conf": 0.9977096319198608,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "We will post the date our Policy was last updated at the top of the Privacy Policy",
+            "conf": 0.9996335506439209,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 5.7
+}

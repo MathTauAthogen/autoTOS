@@ -1,0 +1,425 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "huluStart Your Free TrialLog InTerms Of UseEffective Date: September 13, 2018",
+            "conf": 0.9721726775169373,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "CHANGES TO THESE TERMSWe may need to make changes to these Terms from time to time for many reasons",
+            "conf": 0.9681198000907898,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make a material change to these Terms, we will notify you by posting a notice on the Hulu Site",
+            "conf": 0.9942777752876282,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Any material change to these Terms will be effective automatically 30 days after the revised Terms are first posted or, for users who register or otherwise provide opt-in consent during this 30-day period, at the time of registration or consent, as applicable.3",
+            "conf": 0.9875400066375732,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 13, you are not permitted to register with Hulu or provide your personal information to Hulu",
+            "conf": 0.9999964833259583,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are at least 13 and under 18 years of age (or under the applicable age of majority in your state or territory of residence), you may register with Hulu only if you have the consent of your parent or guardian, including consent to these Terms on your behalf, and for clarity, may only modify an account, or associated profiles, with the consent of your parent or guardian.",
+            "conf": 0.9940199255943298,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Unfortunately, Hulu is unable to guarantee error-free recording, storage, or playback",
+            "conf": 0.9997953772544861,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Hulu reserves the right to replace or remove any Content and Access Points available to you through the Services, including specific titles and networks/channels, and to otherwise make changes in how we operate the Services",
+            "conf": 0.9950211644172668,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We hope not to, but we may change, suspend, or discontinue - temporarily or permanently - some or all of the Services (including the Content and the Compatible Devices through which the Services are accessed), with respect to any or all users, at any time without notice",
+            "conf": 0.9999989867210388,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You also agree that Hulu will not be liable to you for any modification, suspension, or discontinuance of the Services, although if you are a Hulu subscriber and Hulu suspends or discontinues your subscription to the Services, Hulu may, in its sole discretion, provide you with a credit, refund, discount or other form of consideration (for example, we may credit additional days of service to your account) in accordance with Section 4 below",
+            "conf": 0.9880243539810181,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Eastern Time and ends at 11:59 p.m.",
+            "conf": 0.989815354347229,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Hulu reserves the right to change the terms of your subscription, including price, from time to time, effective as of the beginning of your next Billing Period following the date of the change.",
+            "conf": 0.9846742153167725,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "are responsible for all use of your account, including use of your account by other members of your household",
+            "conf": 0.9996721148490906,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "By allowing others to access your account or to create profiles within your account, you agree to be responsible for ensuring that they comply with these Terms and you agree to be responsible for their activity using the Services.",
+            "conf": 0.9857171177864075,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Because you are responsible for all use of your account, including unauthorized use by any third party, please be very careful to guard the security of your password.",
+            "conf": 0.9994067549705505,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Please note, if you are a subscriber you must first cancel your subscription before you will be able to delete your account",
+            "conf": 0.9997231960296631,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to immediately terminate or restrict your account or your use of the Services or access to Content at any time, without notice or liability, if Hulu determines in its sole discretion that you have breached these Terms, violated any law, rule, or regulation, engaged in other inappropriate conduct, or for any other business reason",
+            "conf": 0.9998341202735901,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We also reserve the right to terminate your account or your use of the Services or access to Content if such use places an undue burden on our networks or servers",
+            "conf": 0.9998778700828552,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right, but have no obligation, to monitor User Material and to restrict or remove User Material that we determine, in our sole discretion, is inappropriate or for any other business reason, as permitted by law",
+            "conf": 0.9996796250343323,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "By using the Services, you acknowledge and agree that Hulu is not responsible or liable to you for any content or other materials hosted and served from any website or destination other than the Hulu Site",
+            "conf": 0.9577006697654724,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Hulu takes no responsibility for and does not endorse any third party advertisements or any third party material Posted on any Access Point where the Services are available, nor do we take any responsibility for the products or services provided by advertisers.",
+            "conf": 0.988460123538971,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Any dealings you have with advertisers while using the Services, including through engaging with interactive advertisements, are between you and the advertiser, and you agree that Hulu is not liable for any loss or claim that you may have against an advertiser.",
+            "conf": 0.987663745880127,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES, INCLUDING THE HULU SITE, THE CONTENT, THE VIDEO PLAYER, THE FEATURES, USER MATERIAL, AND ANY OTHER MATERIALS CONTAINED ON OR PROVIDED THROUGH ANY ACCESS POINT OR COMPATIBLE DEVICE, ARE PROVIDED \"AS IS\" AND, TO THE FULLEST EXTENT PERMITTED BY LAW, ARE PROVIDED WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.",
+            "conf": 0.9960592985153198,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "OR THAT THE SERVICES WILL BE UNINTERRUPTED, FREE OF VIRUSES AND OTHER HARMFUL COMPONENTS, ACCURATE, ERROR FREE, OR RELIABLE",
+            "conf": 0.9999921917915344,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL HULU OR ITS AFFILIATES, SUCCESSORS, AND ASSIGNS, AND EACH OF THEIR RESPECTIVE INVESTORS, DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, AND SUPPLIERS (INCLUDING DISTRIBUTORS AND CONTENT PROGRAMMERS) (COLLECTIVELY, THE \"HULU PARTIES\"), BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES, INCLUDING LOSS OF PROFITS, ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF THE SERVICES (INCLUDING ANY INFORMATION, PRODUCTS, OR SERVICES ADVERTISED IN, OBTAINED ON, OR PROVIDED THROUGH ANY ACCESS POINT OR COMPATIBLE DEVICE), WHETHER BASED IN CONTRACT, TORT, STRICT LIABILITY, OR OTHER THEORY, EVEN IF THE HULU PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.",
+            "conf": 0.9999707937240601,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE EXCEED THE AMOUNT PAID BY YOU TO US, IF ANY, FOR ACCESSING OR PARTICIPATING IN ANY ACTIVITY RELATED TO USE OF THE SERVICES OR $50 (WHICHEVER IS LESS).",
+            "conf": 0.9962374567985535,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE TO DEFEND, INDEMNIFY, AND HOLD HARMLESS THE HULU PARTIES FROM AND AGAINST ANY AND ALL LIABILITIES, CLAIMS, DAMAGES, EXPENSES (INCLUDING REASONABLE ATTORNEYS' FEES AND COSTS), AND OTHER LOSSES ARISING OUT OF OR IN ANY WAY RELATED TO YOUR BREACH OR ALLEGED BREACH OF THESE TERMS OR YOUR USE OF THE SERVICES (INCLUDING YOUR USE OF THE CONTENT).",
+            "conf": 0.9999938011169434,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You and Hulu agree to arbitrate in each of our individual capacities only, not as a representative or member of a class, and each of us expressly waives any right to file a class action or seek relief on a class basis",
+            "conf": 0.9999962449073792,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In addition, you may not construe a waiver of any provision of these Terms with respect to any party as a waiver of that provision (or any other provision) with respect to either that party or any other party",
+            "conf": 0.9994677901268005,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, Hulu's decision to delay exercising or enforcing any right or remedy under these Terms shall not constitute a waiver of such right or remedy",
+            "conf": 0.999992847442627,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of these Terms is held to be unlawful, void, or unenforceable, you and we agree that the provision will be deemed severable from these Terms and will not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9945095181465149,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "InPrivacy PolicyEffective Date: May 3, 2017",
+            "conf": 0.9210695028305054,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Examples of this information may include your IP address, device, browser and software characteristics (such as type and operating system), location (which may include precise location data), activity on the Hulu Services including information about the videos you view on Hulu (e.g., show titles and episode names), page views, ad data, referral URLs, network state, device identifiers or other unique identifiers such as advertising identifiers (e.g., \"ad-ID\" or \"IDFA\") and identifiers associated with browser cookies (",
+            "conf": 0.9917263984680176,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Local Storage",
+            "conf": 0.9389899373054504,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "), and carrier information",
+            "conf": 0.995268702507019,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use both session cookies and persistent cookies to better understand how you interact with the Hulu Services or Hulu advertising published outside of the Hulu Services, to monitor aggregate usage by our users and web traffic routing on the Hulu Services, and to customize Content and advertising",
+            "conf": 0.9587620496749878,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Because these technologies are similar to browser cookies, they are sometimes called \"browser cookies,\" even though they may be stored in different parts of your computer",
+            "conf": 0.9940968155860901,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "In addition to cookies, we may use other technologies such as web beacons or pixel tags, which can be embedded in web pages, videos, or emails, to collect certain types of information from your browser or device, check whether you have viewed a particular web page, ad, or email message, and determine, among other things, the time and date on which you viewed the Content, the IP address of your computer, and the URL of the web page from which the Content was viewed.",
+            "conf": 0.9998745918273926,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may use or work with third parties including our business partners and service providers who use mobile SDKs to collect information, such as advertising identifiers (e.g., \"ad-ID\" or \"IDFA\") and information related to how mobile devices interact with the Hulu Services",
+            "conf": 0.9148980379104614,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may work with service providers who use information collected from or about you to help us identify the browsers and devices you use for various purposes, including for targeted advertising, analytics, attribution, and measurement purposes.&nbsp;For example, these service providers (along with Hulu) may use your activity on one browser or device to serve you with more tailored advertising on another browser or device.",
+            "conf": 0.9890135526657104,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may share the information collected from or about you in encrypted, aggregated, or de-identified forms with advertisers and service providers that perform advertising-related services for us and our business partners in order to tailor advertisements, measure and improve advertising effectiveness, and enable other enhancements",
+            "conf": 0.9924701452255249,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we sell all or part of our business, make a transfer of assets, or otherwise might be involved in a change of control transaction, or in the event of bankruptcy, we may transfer information from or about you to one or more third parties as part of the transaction, including the due diligence process",
+            "conf": 0.9928897023200989,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Advertisers, advertising technology companies, and service providers that perform advertising-related services for Hulu and our business partners may use cookies and similar technologies (including for example those described in Section 2 (\"Information We Collect\")) to collect information from or about you through the Hulu Services in order to tailor advertisements, measure advertising effectiveness, and enable other enhancements.",
+            "conf": 0.9969261288642883,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of receiving promotional communications from Hulu by accessing your&nbsp;account&nbsp;and clicking on \"Manage Email Notifications.\" You may also opt out of certain promotional communications by clicking the \"unsubscribe\" link in a particular promotional communication",
+            "conf": 0.9999964833259583,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that you cannot opt out from receiving all communications from Hulu, including administrative messages, service announcements, and messages regarding the terms and conditions of your account because those may contain important information",
+            "conf": 0.9998266100883484,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that if you opt out of online behavioral advertising using this method, this opt-out will only apply to the specific browser or device from which you opt out",
+            "conf": 0.9980270862579346,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that if you opt out of interest-based advertising using this method, this opt-out will only apply to the specific browser or device from which you opt out",
+            "conf": 0.9985571503639221,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "There is currently no consensus among industry participants as to what \"Do Not Track\" means and how to respond to \"Do Not Track\" browser signals",
+            "conf": 0.9201033115386963,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "As such, we do not respond to such signals",
+            "conf": 0.9996783137321472,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Please note that if you opt out of online behavioral advertising using this method, this opt-out will only apply to your mobile device",
+            "conf": 0.9931185245513916,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you are a California resident under the age of 18 and a registered user of the",
+            "conf": 0.9370768070220947,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We want you to feel confident in our security when using the Hulu Services, but we cannot guarantee the security of any information from or about you 100% of the time",
+            "conf": 0.9852375984191895,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "ChildrenChildren under 13 years of age are not permitted to register with Hulu",
+            "conf": 0.9999862313270569,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "None of these Third-Party Access Points, devices, websites or applications are operated by us, even if they contain our name or logo, and we are not responsible for the privacy practices of their operators",
+            "conf": 0.9811717867851257,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "account, in accordance with our&nbsp;Terms of Use, or via the link accessible on the&nbsp;Account&nbsp;page",
+            "conf": 0.9149528741836548,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You must cancel your subscription before you are able to delete your account",
+            "conf": 0.9999290108680725,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that, after you delete your account, we may retain some information from or about you in accordance with applicable law, including for various legal, operational, accounting, and auditing purposes.back",
+            "conf": 0.9442578554153442,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "time to time, we may revise this Privacy Policy to reflect changes in the law or the Hulu Services or for other reasons",
+            "conf": 0.9322447180747986,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material change to this Privacy Policy, we will notify you by posting a notice on the Hulu Site",
+            "conf": 0.9912511706352234,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Any material change to this Privacy Policy will be effective automatically 30 days after the revised Privacy Policy is first posted or, for users who register or otherwise provide opt-in consent during this 30-day period, at the time of registration or consent, as applicable.back",
+            "conf": 0.9996249079704285,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 2.1
+}

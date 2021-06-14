@@ -1,0 +1,502 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "2019-08-30",
+            "conf": 0.9011662602424622,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Service 16/10/2018",
+            "conf": 0.9887273907661438,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Dec 1, ...",
+            "conf": 0.9999948143959045,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date November 15, 2017 Click to review previous version",
+            "conf": 0.9999542236328125,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Changes These Terms are effective as of the Effective Date above",
+            "conf": 0.9787423610687256,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may change these Terms in the future, so we encourage you to review periodically the Terms of Use applicable to each Service you use",
+            "conf": 0.9995225071907043,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If we request registration information from you to set up a user account, you must provide us with accurate and complete information and must update the information when it changes",
+            "conf": 0.9580394625663757,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You may not access any age-restricted Services unless you are above the required age",
+            "conf": 0.9999437928199768,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In no case are persons under the age of thirteen permitted to use the Services",
+            "conf": 0.9999936819076538,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your user account login names and passwords, and must not permit use of your account by anyone other than members of your household.\u00a0 You accept responsibility for all activities, charges, and damages that occur under your account, including use of your account by other members of your household, and unauthorized use of your account.\u00a0 If you have reason to believe that someone is using your account without your permission, you should contact us immediately.\u00a0 We are not responsible for any loss or damage resulting from unauthorized use.",
+            "conf": 0.9998554587364197,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may refuse or remove a User Submission without notice to you",
+            "conf": 0.9857711791992188,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": ", and you agree that neither we nor our affiliates will be liable for User Submissions or any loss or damage resulting from User",
+            "conf": 0.9146981835365295,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We may provide third party content (including advertisements) or link to third party websites on the Services",
+            "conf": 0.9966257214546204,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We do not necessarily endorse or evaluate third party content and websites, and we do not assume responsibility for third parties\u2019 actions or omissions",
+            "conf": 0.9993672966957092,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You should review third parties\u2019 terms of use and privacy policies before you use their services",
+            "conf": 0.9849790334701538,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "8.2\u00a0\u00a0 \u00a0Age Limitations.\u00a0 Individuals under the age of 18 may utilize All Access only with the involvement of a parent or legal guardian",
+            "conf": 0.9986634850502014,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You acknowledge that by using All Access, you may be exposed to Content that you find objectionable, and it is your sole responsibility to determine whether the Content in All Access is suitable for you",
+            "conf": 0.9999976754188538,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Some Content may not be suitable for people under the age of 18.",
+            "conf": 0.9660669565200806,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel your subscription to CBS All Access at any time by contacting us at (888)274-5343, Monday to Sunday 8 am to midnight EST, or by logging into your account at",
+            "conf": 0.9758771061897278,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "https://www.cbs.com/all-access/account/ and clicking \"cancel subscription.\" If you cancel your subscription, the cancellation will go into effect at the end of the then-current monthly or annual subscription period, as applicable",
+            "conf": 0.9717229604721069,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "CBS Interactive makes no representations or warranties about the quality of your",
+            "conf": 0.988032877445221,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "experience on your",
+            "conf": 0.9333415031433105,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "As part of All Access, CBS Interactive may send you emails regarding the Content or All Access from time to time",
+            "conf": 0.9902604222297668,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You agree that CBS Interactive may send you these types of emails to the email address that you provide",
+            "conf": 0.998482346534729,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Because these emails are necessary for you to receive All Access, you agree that you will receive these emails even if you have opted out of receiving other email from CBS Interactive",
+            "conf": 0.9981174468994141,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you do not want to receive these types of emails, you may cancel All Access at any time as provided in Section 8.6",
+            "conf": 0.9787445068359375,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "at any time",
+            "conf": 0.960749626159668,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Access any portion of the Services that we have not authorized you to access (including password-protected areas), link to password-protected areas, attempt to access or use another user\u2019s account or information, or allow anyone else to use your account or access credentials",
+            "conf": 0.9909894466400146,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may take any of the following actions in our sole discretion at any time, and without giving you prior notice:",
+            "conf": 0.9610854387283325,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Deactivate your accounts and delete all related information and files in your accounts",
+            "conf": 0.9824808835983276,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You will defend, indemnify and hold harmless CBS Interactive, its affiliates, and their respective directors, officers, employees, shareholders, vendors, partners, contractors, agents, licensors or other representatives and all of their successors and assigns (collectively, the \u201cCBS Interactive Parties\u201d) with respect to all third party claims, costs (including attorney\u2019s fees and costs), damages, liabilities, and expenses or obligations of any kind, arising out of or in connection with your use or misuse of the Services (including, without limitation use of your account, whether or not authorized by you, and claims arising from User Submissions).\u00a0 CBS Interactive retains the right to assume the exclusive defense and control of any claim subject to indemnification, and in such cases you agree to cooperate with us to defend such claim",
+            "conf": 0.9999951720237732,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You may not settle any claim covered by this Section 14 without CBS Interactive\u2019s prior written approval",
+            "conf": 0.9998317956924438,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "CBS INTERACTIVE PARTIES DO NOT WARRANT: (1) THAT THE SERVICES, ANY OF THE SERVICES\u2019 FUNCTIONS OR ANY CONTENT WILL BE UNINTERRUPTED OR FREE OF ERRORS OR OMISSIONS",
+            "conf": 0.9852822422981262,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "OR (4) THAT THE SERVICES OR INFORMATION AVAILABLE THROUGH THE SERVICES WILL CONTINUE TO BE AVAILABLE.\u00a0 THE CBS INTERACTIVE PARTIES SHALL HAVE NO LIABILITY FOR ANY SUCH ISSUES.\u00a0 THE CBS INTERACTIVE PARTIES DISCLAIM ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, NONINFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND AS TO QUALITY, AVAILABILITY AND SUBJECT MATTER OF CONTENT.\u00a0 THE SERVICES, INCLUDING ALL CONTENT AND FUNCTIONS MADE AVAILABLE ON OR ACCESSED THROUGH OR SENT FROM THE SERVICES, ARE PROVIDED \u201cAS IS,\u201d \u201cAS AVAILABLE,\u201d AND \u201cWITH ALL FAULTS.\u201d",
+            "conf": 0.9910656213760376,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE CBS INTERACTIVE PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES IN CONNECTION WITH THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT), YOUR USE OF THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT), THESE TERMS OR YOUR USER SUBMISSIONS, EVEN IF FORESEEABLE OR EVEN IF ONE OR MORE OF THE CBS INTERACTIVE PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES (INCLUDING, WITHOUT LIMITATION, WHETHER CAUSED IN WHOLE OR IN PART BY NEGLIGENCE, GROSS NEGLIGENCE, OR OTHERWISE, BUT EXCLUDING WILLFUL MISCONDUCT).\u00a0 IN NO EVENT WILL THE CBS INTERACTIVE PARTIES\u2019 LIABILITY FOR OTHER DAMAGES EXCEED THE AMOUNT PAID BY YOU TO CBS INTERACTIVE FOR ACCESS TO THE RELEVANT SERVICE IN THE THREE MONTHS PRECEDING THE CLAIM.",
+            "conf": 0.9999764561653137,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If you have any dispute with or claim against us or any of our affiliates, or if we have a dispute with or claim against you, in either case arising out of or relating to the Services or these Terms (a \u201cClaim",
+            "conf": 0.9946845769882202,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "), and the Claim is not resolved by calling our customer service department at (888)274-5343, you and we each agree to resolve such Claim through an individual binding arbitration or through an individual action in small claims court in the U.S.",
+            "conf": 0.9809769988059998,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Class arbitrations and class actions are not permitted, and your Claim may not be consolidated with any other person\u2019s claim",
+            "conf": 0.9999954700469971,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and we are each waiving the right to a trial by jury or to participate in a class action",
+            "conf": 0.9999922513961792,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Miscellaneous We may be required by state or federal law to notify you of certain events",
+            "conf": 0.9990260601043701,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "You hereby acknowledge and agree that such notices will be effective upon our posting them in the relevant Service or delivering them to you via email",
+            "conf": 0.9994996190071106,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "You may update your email address by visiting the Services where you have provided contact information",
+            "conf": 0.9974961280822754,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "If you do not provide us with accurate information, we will not be responsible for failure to notify you",
+            "conf": 0.9781383275985718,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to exercise or enforce any right or provision in",
+            "conf": 0.9550254344940186,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "will not constitute a waiver of such right or provision",
+            "conf": 0.997467041015625,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ".\u00a0 Nothing in these Terms affects any non-waivable statutory rights that apply to you",
+            "conf": 0.9428665041923523,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any part of these Terms is determined to be invalid or unenforceable under applicable law, that provision will be removed, and the remainder of the Terms will continue to be valid and enforceable",
+            "conf": 0.9733783602714539,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you do not agree to these Terms, you should immediately stop using the Services",
+            "conf": 0.9816623330116272,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you want to delete your account on a Service, please use contact instructions posted on the Service at which you obtained the account",
+            "conf": 0.9925256967544556,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you are an All Access subscriber, you must first cancel your subscription before you will be able to delete your account",
+            "conf": 0.992534875869751,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Modified: April 23, 2018",
+            "conf": 0.9999333620071411,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "CBS Interactive Services may collect certain information automatically, including:",
+            "conf": 0.9989997744560242,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Information collected through cookies, web beacons, and other similar technologies;",
+            "conf": 0.9999781250953674,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Analyze the use of CBS Interactive Services and information about visitors to our Services to understand and improve our service offerings and, in accordance with our sharing policies, discussed below, to produce or disclose anonymous or aggregated data and statistics that might help third parties develop their own products and service offerings;",
+            "conf": 0.9999592900276184,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Also, authorized third party service providers may collect non-contact information about your visits to our Services with cookies, web beacons and other similar technologies that may be used to deliver advertisements or marketing tailored to your interests or, in connection with other data about you including data regarding your use of websites, apps or other services over time and across the Internet, to determine the connections that may exist among different devices.",
+            "conf": 0.9980443120002747,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may share your information in connection with a substantial corporate transaction, such as the sale of a CBS Interactive Service, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy",
+            "conf": 0.9569326639175415,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Finally, we also may share aggregated or anonymized information with third parties, to help us develop content and services we hope will interest you or to help these third parties develop their own products and service offerings including targeted marketing as described in our overview of Third Party Online Advertising.",
+            "conf": 0.9814796447753906,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of receiving commercial email or text messages from a particular CBS Interactive Services or other service by following the instructions contained in any such message or by contacting us directly",
+            "conf": 0.9916638731956482,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note that even if you unsubscribe to commercial messages, we may still need to send you communications relating to your use of the CBS Interactive Websites, such as service announcements",
+            "conf": 0.9999264478683472,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You also have choices about whether cookies and other similar technologies are placed on your computer or mobile device",
+            "conf": 0.9528816342353821,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "on cookies, web beacons and other similar technologies (including Do Not Track).You also",
+            "conf": 0.985859215259552,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To opt out, visit the CBS Interactive Advertising Opt-Out page.Finally",
+            "conf": 0.9717797636985779,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you ask us to shut down your account or delete your information, we will disable your account within a reasonable period of time",
+            "conf": 0.9974667429924011,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, some of your information may remain in back-up storage even if you ask us to delete it",
+            "conf": 0.955647885799408,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Please note that no data transmission or storage can be guaranteed to be 100% secure",
+            "conf": 0.9333775043487549,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "CBS Interactive is headquartered in the United States and has affiliate offices and partners in other countries",
+            "conf": 0.9895704984664917,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Please be aware that information you provide to us or that we obtain as a result of your use of the CBS Interactive Services may be collected in your country and subsequently transferred to the United States or another country in accordance with applicable law",
+            "conf": 0.9999925494194031,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Most CBS Interactive Services are intended for a general audience and do not knowingly collect or store contact information about children under the age of 13 in the United States or the appropriate age for services directed toward children as defined under applicable laws in other jurisdictions",
+            "conf": 0.9999962449073792,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Some CBS Interactive Services may ask for your full date of birth date to ensure that they are not collecting information from children under 13 in the United States or the appropriate age for services directed toward children as defined under applicable laws in other jurisdictions or to identify when additional steps may need to be taken when information has been collected from children under 18 or under the age of majority in their jurisdiction, if higher than 18.",
+            "conf": 0.9945582747459412,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices of those websites, and we recommend that you review the privacy policies of each website that you visit.",
+            "conf": 0.9888353943824768,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes in the way we use your information, we will notify you in advance by email through the email address you most recently provided to us or by prominently posting a prominent notice of the changes on the CBS Interactive Services",
+            "conf": 0.9979358315467834,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 3.2
+}

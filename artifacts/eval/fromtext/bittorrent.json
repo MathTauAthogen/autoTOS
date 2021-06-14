@@ -1,0 +1,334 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Terms of Use Date of last revision July 15, 2013",
+            "conf": 0.9999989867210388,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Also, unless expressly stated in the",
+            "conf": 0.9094172120094299,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "any given Service, you may not use the Services unless you are fully able and competent to enter into the conditions, obligations, representations and other terms of these General Terms and are either of legal age to form a binding contract with BitTorrent, possess legal parental or guardian consent or are an emancipated minor",
+            "conf": 0.9907197952270508,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In particular, unless expressly stated in the Additional Terms for any given Service, you affirm that you are over the age of 13 and acknowledge that these Services were not intended for children under 13",
+            "conf": 0.9919748306274414,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "BitTorrent has no responsibility or liability for the deletion or accuracy of any Materials, including Your Content, the failure to store, transmit or receive transmission of Materials, or the security, privacy, storage or transmission of other communications originating with or involving use of the Services.",
+            "conf": 0.9915120005607605,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for Your Content",
+            "conf": 0.9900685548782349,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You agree that your Account Information will always be complete, accurate and up-to-date",
+            "conf": 0.9993487596511841,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "It is your responsibility to keep your Account Information confidential at all times and you are solely responsible for all activity that occurs to your Account Information when you are logged in to your account.",
+            "conf": 0.9918768405914307,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer",
+            "conf": 0.9997429251670837,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you, not BitTorrent, are entirely responsible for all of Your Content that you distribute, perform, display, upload, post, email, transmit or otherwise make available on or through the Services (\u201cMake Available",
+            "conf": 0.976550281047821,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "), whether publicly posted or privately transmitted",
+            "conf": 0.9561008214950562,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You acknowledge and agree that by accessing or using the Services or Materials, you may be exposed to Materials (including",
+            "conf": 0.9034937024116516,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Content) from others that you may consider offensive, indecent or otherwise objectionable and hereby do waive any legal or equitable rights or remedies you have or may have against BitTorrent with respect thereto, and agree to indemnify and hold BitTorrent, its affiliates, and/or licensors, harmless to the fullest extent allowed by law regarding all matters related to your use of the Services or Materials",
+            "conf": 0.9850431680679321,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Without limiting the foregoing, BitTorrent shall have the right, in its sole discretion, to remove any of Your Content for any reason (or no reason), including if it violates the Terms or any Law",
+            "conf": 0.9999014735221863,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Although BitTorrent does not generally monitor User activity occurring in connection with the Services or Materials, if BitTorrent becomes aware of any possible violations by you of any provision of the Terms, BitTorrent reserves the right to investigate such violations, and BitTorrent may, at its sole discretion, immediately terminate your rights hereunder, including your right to use the Services, or Materials or change, alter or remove Your Content or Account Information, in whole or in part, without prior notice to you",
+            "conf": 0.9999852776527405,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "BitTorrent has no control of the Linked Sites and you agree that BitTorrent is not responsible for the availability or contents of any Linked Site (including any advertising, products or other materials on or available from such Linked Site), any link contained in a Linked Site, or any changes or updates to a Linked Site.",
+            "conf": 0.9978726506233215,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "BitTorrent may at any time and from time to time modify or discontinue, temporarily or permanently, the Services or Materials, or any portion thereof, with or without notice",
+            "conf": 0.9999993443489075,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you want to terminate your agreement with BitTorrent, you may do so by (i) notifying BitTorrent at any time and (ii) closing your accounts for all of the Services or Materials that you use, where BitTorrent has made this option available to you",
+            "conf": 0.9556220769882202,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "BitTorrent has elected to discontinue the Services or Materials (or any part thereof).",
+            "conf": 0.9737553596496582,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "BitTorrent may also terminate or suspend all or a portion of your account and/or access to the Services for any reason",
+            "conf": 0.998842179775238,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "(ii) deletion of Your Content and Account Information, including your personal information, log-in ID and password, and all related information, files and Materials associated with or inside your account (or any part thereof).",
+            "conf": 0.9990437626838684,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "You agree that all terminations for cause shall be made in BitTorrent\u2019s sole discretion and that BitTorrent shall not be liable to you or any third party for any termination of your account (and accompanying deletion of your Account Information), or access to the Services and Materials, including Your Content",
+            "conf": 0.9998636841773987,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SITE, SERVICES AND MATERIALS ARE PROVIDED BY BITTORRENT \u201cAS IS,\u201d WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR",
+            "conf": 0.9978528618812561,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FOR A",
+            "conf": 0.9152565002441406,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING THE FOREGOING, BITTORRENT MAKES NO WARRANTY THAT (I) THE SITE, SERVICES OR MATERIALS WILL MEET YOUR REQUIREMENTS OR WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE",
+            "conf": 0.9995817542076111,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SITE, SERVICES OR MATERIALS WILL BE EFFECTIVE, ACCURATE OR RELIABLE",
+            "conf": 0.9625893831253052,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH USE OF THE SERVICES IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.",
+            "conf": 0.9855359792709351,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "BITTORRENT ALSO DISCLAIMS ALL LIABILITY WITH RESPECT TO THE MISUSE, LOSS, MODIFICATION OR UNAVAILABILITY OF ANY USER CONTENT",
+            "conf": 0.9792625308036804,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "BITTORRENT WILL NOT BE LIABLE FOR ANY LOSS THAT YOU MAY INCUR AS A RESULT OF SOMEONE ELSE USING YOUR PASSWORD OR ACCOUNT OR ACCOUNT INFORMATION IN CONNECTION WITH THE SITE OR ANY SERVICES OR MATERIALS, EITHER WITH OR WITHOUT YOUR KNOWLEDGE.",
+            "conf": 0.9948612451553345,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT SHALL BITTORRENT, ITS OFFICERS, DIRECTORS, EMPLOYEES, PARTNERS OR SUPPLIERS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL OR PUNITIVE DAMAGES WHATSOEVER, INCLUDING THOSE RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER OR NOT FORESEEABLE OR IF BITTORRENT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT OR WARRANTY, NEGLIGENCE OR OTHER TORTIOUS ACTION, OR ANY OTHER CLAIM ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF OR ACCESS TO THE SITE, SERVICES OR MATERIALS.",
+            "conf": 0.9998471736907959,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We can remove any content or information you post on or through our Services if we believe that it violates these Terms",
+            "conf": 0.9973403811454773,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold BitTorrent and its subsidiaries, affiliates, officers, agents, employees, co-branders or other partners, and licensors harmless from any claim or demand, including reasonable attorneys\u2019 fees, due to or arising out of Your Content, your use of the Services or Materials, your connection to the Services or Materials, the actions of any member of your group, your access to or use of Linked Sites and your connections therewith, any claim that Your Content caused damage to a third party, any dealings between you and any third parties advertising or promoting via the Services or Materials, your violation of the Terms, or your violation of any rights of another, including any Intellectual Property Rights",
+            "conf": 0.9999988079071045,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "BitTorrent may provide you with notices, including those regarding changes to the Terms, by email, regular mail, text message, postings on or within the Services, or other reasonable means now known or hereafter developed",
+            "conf": 0.9953477382659912,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Any failure by BitTorrent to enforce or exercise any provision of the Terms, or any related right, shall not constitute a waiver of that provision or right",
+            "conf": 0.999996542930603,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies for analytics, advertising and to improve our site",
+            "conf": 0.9996687769889832,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Privacy Policy Date of last revision May 25, 2018",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "Third party analytics, ad-serving and affiliate partners may set or have cookies set and access their cookies or local storage objects (flash cookies) on your computer, when you are using the Software or visiting a BitTorrent website and may collect information about your online activities across websites or online services.",
+            "conf": 0.9922571778297424,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may utilize Google Analytics Suite in the collection, compilation and analysis of information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content",
+            "conf": 0.9985552430152893,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of Google",
+            "conf": 0.9422570466995239,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you do not wish to have this information used for the purpose of serving you targeted ads, please visit the suggested sites below for more information about the use of cookies and how to opt-out of them",
+            "conf": 0.928710401058197,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Does BitTorrent disclose the information it collects from its visitors to outside parties? Except as provided herein, BitTorrent does not sell, trade, or otherwise transfer outside the company personal information that visitors voluntarily provide BitTorrent in any registration or use of the BitTorrent websites or the Software, except when it\u2019s necessary to provide the Services (like when we partner with payment processors).",
+            "conf": 0.9995194673538208,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us",
+            "conf": 0.9991193413734436,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "Finally, we may disclose your personal information upon a transfer or sale to another entity of all or substantially all of our assets or equity securities or upon any other corporate reorganization",
+            "conf": 0.9999980926513672,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), the Sites are general audience websites and do not knowingly collect, nor will it ever knowingly retain, personal information from any visitor BitTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian",
+            "conf": 0.9999959468841553,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such web sites or services",
+            "conf": 0.9999858736991882,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "As such, when you use our Sites, Services or Software, your personal information may be transferred to the United States of America and other countries for processing",
+            "conf": 0.9999945759773254,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies for analytics, advertising and to improve our site",
+            "conf": 0.9996687769889832,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.3
+}

@@ -1,0 +1,600 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated November 6, 2017",
+            "conf": 0.999997615814209,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of the password and account, and for all activities that occur under your account.",
+            "conf": 0.998257040977478,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Individuals under the age of 13 are prohibited from creating or using accounts through Weebly.com",
+            "conf": 0.9999868869781494,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the security of your account and web site, for all activities that occur or actions taken under the account or in connection with the web site",
+            "conf": 0.9999915957450867,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for any loss or damage from your failure to comply with this security obligation",
+            "conf": 0.9570743441581726,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that under no circumstances will we be liable, in any way, for any of your acts or omissions or those of any third party, including damages of any kind incurred as a result of such acts or omissions",
+            "conf": 0.9999492168426514,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not want to receive confidential or proprietary information from you through the Service or by email",
+            "conf": 0.9939514994621277,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will we be liable for your Content or the content of any third party, including, but not limited to, for any errors or omissions in your Content, or for any loss or damage of any kind incurred as a result of the use of any Content posted, transmitted or otherwise made available via the Service",
+            "conf": 0.9998502731323242,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "You acknowledge that we do not pre-screen Content, but that we shall have the right (but not the obligation) to refuse, move or delete any Content that is available via the Service",
+            "conf": 0.9999799132347107,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "must be 18 years or older or at least the age of majority where you reside or from",
+            "conf": 0.9252502918243408,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the actions of these third party service providers",
+            "conf": 0.9999263286590576,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change our prices and/or bundle certain parts of the Service together for pricing purposes, and may do so at any time",
+            "conf": 0.9561886787414551,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "After cancellation, you will no longer have access to your web site and we may delete all information on your web site",
+            "conf": 0.9595258235931396,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We accept no liability for such deleted information or content",
+            "conf": 0.9358949661254883,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "As a result, we allow you to access the Service as it may exist and be available on any given day and have no other obligations, except as expressly stated in these Terms.",
+            "conf": 0.9856849312782288,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may modify (e.g., change data storage or capacity limits), replace, refuse access to, suspend or discontinue the Service, partially or entirely, or change and modify prices for all or part of the Services we offer in our sole discretion.",
+            "conf": 0.9923033714294434,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We further reserve the right to withhold, remove and or discard any Content available as part of your account, with or without notice if deemed by us to be contrary to these Terms",
+            "conf": 0.999873161315918,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not accept any liability for such loss",
+            "conf": 0.9925419688224792,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "No Implied Endorsement \u2028Weebly is not responsible or liable for any loss or damage incurred as a result of your use of any third party\u2019s service, product, software, content, or website (collectively, \u201cThird Party Materials\u201d) whether or not you were linked to or directed to any Third Party Materials through the Site.",
+            "conf": 0.9993985891342163,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We can neither guarantee that the",
+            "conf": 0.981128990650177,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "names are free of third-party rights nor guarantee their continued existence",
+            "conf": 0.9434623122215271,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If this information changes, you must immediately inform us of this change by updating it online",
+            "conf": 0.9591715335845947,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "If Weebly is made a party to any legal action by virtue of one of your domain name registrations, you agree to be responsible for all of Weebly\u2019s costs and legal fees and to indemnify and hold Weebly harmless from any action",
+            "conf": 0.999839723110199,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for any and all statements you make and for all user assistance, warranty and support of your products and services",
+            "conf": 0.9833147525787354,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell or exchange personal information from our opt-in lists",
+            "conf": 0.9996603727340698,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "CAN-SPAM Act and other applicable laws, you acknowledge that you are responsible for maintaining and honoring the list of unsubscribe requests following termination of your Weebly account, for any reason whatsoever;",
+            "conf": 0.9992395639419556,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "In our sole discretion, we reserve the right to block emails, remove Content, or prohibit use of the Email Marketing Service that may be in violation of the foregoing or of the Terms (including SendGrid Terms).",
+            "conf": 0.993354082107544,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You understand and agree that we and any applicable third party that supports, posts, publishes or distributes your emails and Content also has the right to reformat, edit, monitor, reject, block or remove any of your emails and Content and suspend or terminate the Email Marketing Service, in whole or in part, permanently or for a certain period",
+            "conf": 0.9999902248382568,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate the Email Marketing Service and your Weebly account at any time and for any reason",
+            "conf": 0.9921274185180664,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If your account is terminated, we may permanently delete it and any associated data",
+            "conf": 0.9995729327201843,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate any Third Party Service, including SendGrid, in our sole discretion at any time, without notice to you, with no liability to you or to the third party",
+            "conf": 0.9997681975364685,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We won\u2019t sell or rent your Customer Information without your prior explicit permission and won\u2019t use your Customer Information for any purpose other than as described in our Privacy Notice and in these Terms",
+            "conf": 0.9995821714401245,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "You are solely responsible for the accuracy, quality, integrity, legality, reliability and appropriateness of all Customer Information",
+            "conf": 0.9984205365180969,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "However, we are not obligated to preserve copies of your Customer Information, emails and messages, Content or other data",
+            "conf": 0.9995169043540955,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Indemnity You will indemnify and hold harmless Weebly, and its subsidiaries, licensors, affiliates, officers, directors, agents, co-branders, partners, employees, successors, and assigns (collectively \u201cIndemnified Parties\u201d) from any and all liability, loss, claim, damages, expenses, costs or demands, (including but not limited to reasonable attorneys' fees), incurred or made against the Indemnified Parties by any third party in connection with any claim arising from or related to: (a) your use (or anyone using your account/s) use of the Service, the Site or the Materials, (b) your Content, (c) any Commercial Products you offer on or through the Site or using our Services, or (d) your use of the Domain Services",
+            "conf": 0.9948334097862244,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9999459981918335,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "WE ARE NOT RESPONSIBLE FOR ANY DAMAGE, LOSS OF DATA, CUSTOMER INFORMATION OR VENDOR DATA, REVENUE, OR OTHER HARM TO BUSINESS ARISING OUT OF DELAYS, MISDELIVERY OR NONDELIVERY OF INFORMATION, RESTRICTION OR LOSS OF ACCESS, BUGS OR OTHER ERRORS, UNAUTHORIZED USE DUE TO YOUR SHARING OF ACCESS TO THE SERVICE, OR OTHER INTERACTION WITH THE SERVICE",
+            "conf": 0.9791088700294495,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WEEBLY DOES NOT WARRANT THAT (i) THE SERVICE WILL MEET YOUR SPECIFIC REQUIREMENTS, (ii) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS, AND (V) ANY ERRORS IN THE SERVICE WILL BE CORRECTED",
+            "conf": 0.999976634979248,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL",
+            "conf": 0.9581174254417419,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WEEBLY IS NOT RESPONSIBLE FOR SUCH THIRD PARTY SITES, INCLUDING WITHOUT LIMITATION, THE ACCURACY, SUFFICIENCY, CORRECTNESS, RELIABILITY, VERACITY, COMPLETENESS OR TIMELINESS THEREOF, ANY LINK CONTAINED THEREIN, OR ANY CHANGES OR UPDATES THERETO, OR ANY GOODS OR SERVICES SOLD THEREON",
+            "conf": 0.9998736381530762,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WEEBLY AND ITS LICENSORS MAKE NO WARRANTY OR REPRESENTATION THAT THE SERVICES, MATERIALS, OR SITE ARE APPROPRIATE OR AVAILABLE FOR USE IN ALL GEOGRAPHIC LOCATIONS",
+            "conf": 0.999884843826294,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE EXTENT PERMITTED BY APPLICABLE LAW, WE WILL NOT BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF WEEBLY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (a) THE USE OR THE INABILITY TO USE THE SERVICE.",
+            "conf": 0.9988118410110474,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "TO THE MAXIMUM EXTENT PERMISSIBLE BY APPLICABLE LAW, NEITHER WEEBLY, ITS AFFILIATES, NOR LICENSORS SHALL BE LIABLE IN ANY WAY FOR YOUR USE OF THE SITE, THE SERVICE, THE MATERIALS, YOUR CONTENT, THE COMMERCIAL PRODUCTS OR THIRD PARTY USER GENERATED CONTENT AVAILABLE ON OR THROUGH THE SITE, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS, ANY INFRINGEMENT OF THE INTELLECTUAL PROPERTY RIGHTS OR OTHER RIGHTS OF THIRD PARTIES, OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF, OR RELATED TO, THE USE OF THE SITE, THE SERVICE, THE MATERIALS, YOUR CONTENT, THE COMMERCIAL PRODUCTS OR ANY THIRD PARTY USER GENERATED CONTENT AVAILABLE ON OR THROUGH THE SITE",
+            "conf": 0.9452579617500305,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU MAY ONLY RESOLVE DISPUTES WITH US ON AN INDIVIDUAL BASIS AND YOU WILL NOT BRING A CLAIM AS A PLAINTIFF OR A CLASS MEMBER IN A CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION (E.G., CLASS ACTION, CLASS ARBITRATION, PRIVATE ATTORNEY GENERAL ACTION, OR CONSOLIDATION WITH OTHER ARBITRATIONS).",
+            "conf": 0.9999996423721313,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "REGARDLESS OF ANY STATUTE OR LAW TO THE CONTRARY, ANY CLAIM OR CAUSE OF ACTION ARISING OUR OF OR RELATED TO USE OF THE SERVICE OR THESE TERMS MUST BE FILED WITHIN ONE (1) YEAR AFTER SUCH CLAIM OR CAUSE OF ACTION AROSE OR BE FOREVER BARRED",
+            "conf": 0.9943003058433533,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "The Service may also provide notices of changes to these Terms or other matters by displaying notices or links to notices to you generally on the Service",
+            "conf": 0.9958541989326477,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Weebly to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You acknowledge and agree that you are each waiving the right to participate as a plaintiff or class member in any purported class action or representative proceeding",
+            "conf": 0.9999420046806335,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, more than one person's claims may not be consolidated under any circumstances, in any form of any class or representative proceeding or otherwise",
+            "conf": 0.9999863505363464,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "November 6, 2017",
+            "conf": 0.9994432330131531,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated November 06, 2017 1",
+            "conf": 0.9999769926071167,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We are not in the business of selling personal information about you",
+            "conf": 0.9998787045478821,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Weebly acknowledges you have the right to access and change the personal information we collect and process as a data processor",
+            "conf": 0.9939296841621399,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "An individual who seeks to access or to correct, amend, or delete inaccurate personal information should direct their request to the Weebly user who is the data controller, and not to Weebly directly",
+            "conf": 0.959304928779602,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Personal information we process on behalf of our users will be retained for as long as needed to provide services to our users",
+            "conf": 0.999829113483429,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Our third party partners may use technologies such as cookies to gather information about your activities on our Service and other sites in order to provide you advertising based upon your browsing activities and interests",
+            "conf": 0.9989621043205261,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking\u00a0here",
+            "conf": 0.9999576210975647,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note this does not opt you out of being served ads",
+            "conf": 0.9975492358207703,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of Flurry\u2019s mobile analytics service at\u00a0Flurry Opt-Out",
+            "conf": 0.9985678791999817,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you opt-out, Flurry will stop tracking data for the device identified by the provided MAC address and/or",
+            "conf": 0.9149420857429504,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "identifier going forward and Flurry analytics tracking will stop across all applications within the Flurry network",
+            "conf": 0.9440510869026184,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of Google Tag Manager",
+            "conf": 0.9698185920715332,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "\u2019s mobile service by using our \u201cPrivacy Opt-Out\u201d settings within our applications",
+            "conf": 0.9929452538490295,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "(f) Do Not Track.\u00a0Currently, we do not support Do Not Track or \u201cDNT",
+            "conf": 0.9971818327903748,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "\u201d DNT is a preference you set in your web browser to tell visited websites you do not want to be tracked",
+            "conf": 0.9998111724853516,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We may also send you push notifications from time-to-time in order to update you about events or promotions",
+            "conf": 0.9975942969322205,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You are prohibited from creating or using a Weebly account if you are not legally capable of entering into contracts, for example, if you are not the age of majority in your country or region",
+            "conf": 0.9966598153114319,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are not the age of majority in your country or region, you may only create or use a Weebly account with the supervision and consent of a parent or guardian or alternatively through a special student account created by a teacher through\u00a0education.weebly.com, provided the teacher has obtained signed consent from your parent or guardian",
+            "conf": 0.9998435974121094,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may combine Automatically Collected Information with other information we collect about you to improve site functionality and the services we offer you, and for Service and both internal and external marketing analytics",
+            "conf": 0.9798370003700256,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To the extent you have not already done so during sign-up, you may select not to receive from Weebly or any of our partners certain emails related to marketing, promotions, sweepstakes, contests, or newsletters by following the unsubscribe instructions included in these emails or by\u00a0unsubscribing here",
+            "conf": 0.9999967813491821,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "\u00a0",
+            "conf": 0.9578863382339478,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "does not share personal information we learn about you from your use of the Service with others except as described in this",
+            "conf": 0.9245043992996216,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Weebly may share anonymized and/or aggregated information with third parties for their marketing, advertising, promotion, or other uses",
+            "conf": 0.9943432211875916,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "As we continue to develop our business, we may also buy or sell all or part of our business",
+            "conf": 0.976189136505127,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If Weebly is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified",
+            "conf": 0.9757573008537292,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "our site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information",
+            "conf": 0.967194139957428,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "(d) Retention",
+            "conf": 0.9882085919380188,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your information for as long as your account is active or as needed to provide you the Service",
+            "conf": 0.9997624754905701,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Weebly is not responsible for any information you choose to submit in these forums and we cannot guarantee that other users have not made any copies of and/or will not use such information outside of the Service",
+            "conf": 0.999962329864502,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can delete your applicable account by visiting the applicable account deletion page",
+            "conf": 0.9999726414680481,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If your personal information changes, or if you no longer wish to use our Service, you may correct, update, or delete such information by making the change on your user account page, or by submitting a request through our\u00a0help center",
+            "conf": 0.9074729681015015,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Changes to this Privacy Notice Weebly reserves the right to revise, modify, or update this notice at any time",
+            "conf": 0.9999344944953918,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you about material changes in the way we treat personal information by sending a notice to the primary email address specified in your particular Weebly account or by placing a prominent notice on our site",
+            "conf": 0.9996617436408997,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "February 9, 2018:",
+            "conf": 0.9995003938674927,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "September 2016:",
+            "conf": 0.9377855062484741,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 4.0
+}

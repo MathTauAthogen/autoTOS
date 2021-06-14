@@ -1,0 +1,12 @@
+{
+    "predictions": [
+        {
+            "label": "8",
+            "text": "disclose your individual account password or share your account credentials with any third party or otherwise allow a third party to access your account;",
+            "conf": 0.9981187582015991,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 0.0
+}

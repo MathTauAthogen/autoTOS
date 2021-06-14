@@ -1,0 +1,383 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Revised and posted as of: November 5, 2015",
+            "conf": 0.9999991059303284,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you become a member of the Website or applicable Other Channels, you agree to accept responsibility for all activities that occur under your account or password, and agree you will not sell, transfer or assign your membership or any membership rights.",
+            "conf": 0.9935020804405212,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your password and for restricting access to your computer so that others may not access the Website or applicable Other Channels using your name in whole or in part.",
+            "conf": 0.9993371963500977,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Notwithstanding the foregoing, Forbes reserves the right to remove information provided by other information content providers at any time in its sole discretion",
+            "conf": 0.9998828172683716,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Forbes reserves the right to delete, move or edit any submission at any time, for any reason or in its discretion, but has no obligation to review or remove any such content",
+            "conf": 0.9999878406524658,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Therefore, we reserve the right to remove any content posted on the Website or Other Channels at any time for any reason without notice",
+            "conf": 0.9996755123138428,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will Forbes be liable for any goods, services, resources or content available through such third party dealings or communications, or for any harm related thereto",
+            "conf": 0.964354932308197,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Forbes shall have the right, at its discretion, to change, modify, add or remove terms of this agreement at any time without notice",
+            "conf": 0.9998834729194641,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Forbes shall have the right at any time to change or discontinue any aspect of the Website or Other Channels, including, but not limited to, the community areas, content, hours of availability and equipment needed for access to use",
+            "conf": 0.9999974966049194,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ALL MATERIALS AND SERVICES ON THE WEBSITE, OTHER CHANNELS, AND ANY THIRD-PARTY SITES TO WHICH THE FOREGOING LINKS ARE PROVIDED \"AS IS\" OR \"AS AVAILABLE\" WITHOUT WARRANTY OF ANY KIND",
+            "conf": 0.9999890923500061,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "BECAUSE FORBES HAS NO CONTROL OVER SUCH SERVICES, YOU ACKNOWLEDGE AND AGREE THAT FORBES IS NOT RESPONSIBLE FOR THE AVAILABILITY OF SUCH EXTERNAL SERVICES, AND THAT FORBES DOES NOT ENDORSE AND IS NOT RESPONSIBLE OR LIABLE FOR ANY CONTENT, ACCURACY, QUALITY, ADVERTISING, PRODUCTS OR OTHER MATERIALS ON OR AVAILABLE FROM SUCH EXTERNAL SERVICES",
+            "conf": 0.9992376565933228,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "FORBES AND/OR ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES TO THE WEBSITE OR OTHER CHANNELS AT ANY TIME INCLUDING CHANGES TO THESE TERMS AND CONDITIONS",
+            "conf": 0.9576490521430969,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FORBES EXPLICITLY DISCLAIMS ANY RESPONSIBILITY FOR THE CONTENT OR AVAILABILITY OF INFORMATION CONTAINED IN OUR SEARCH INDEX OR DIRECTORY",
+            "conf": 0.9989479184150696,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FORBES ALSO DISCLAIMS ANY RESPONSIBILITY FOR THE COMPLETENESS OR ACCURACY OF ANY DIRECTORY OR SEARCH RESULT",
+            "conf": 0.9054701328277588,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FORBES AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS AND, TO THE FULLEST EXTENT ALLOWED BY LAW, DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY AND",
+            "conf": 0.9935514330863953,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "REGARDING THE SUITABILITY OF THE INFORMATION",
+            "conf": 0.9849071502685547,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE ACCURACY, RELIABILITY, COMPLETENESS OR TIMELINESS OF THE CONTENT, SERVICES, PRODUCTS, TEXT, GRAPHICS, LINKS, OR OTHER ITEMS CONTAINED WITHIN THE WEBSITE OR OTHER CHANNELS, OR THE RESULTS OBTAINED FROM ACCESSING AND USING THE WEBSITE OR OTHER CHANNELS AND/OR THE CONTENT CONTAINED THEREIN",
+            "conf": 0.9993571639060974,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FORBES DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE MATERIALS WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE WEBSITE, INCLUDING BULLETIN BOARDS OR THE SERVER THAT MAKES IT AVAILABLE, ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS",
+            "conf": 0.9813874959945679,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "AS A CONDITION OF USE OF THIS WEBSITE AND ANY OTHER CHANNELS, YOU AGREE TO INDEMNIFY, DEFEND AND HOLD HARMLESS, FORBES AND ITS SUPPLIERS, EACH OF THEIR PARENT AND AFFILIATED COMPANIES, AND EACH OF THEIR RESPECTIVE PARTNERS, SUPPLIERS, LICENSORS, OFFICERS, DIRECTORS, SHAREHOLDERS, MEMBERS, EMPLOYEES, REPRESENTATIVES, CONTRACTORS AND AGENTS, FROM ANY AND ALL CLAIMS (INCLUDING, BUT NOT LIMITED TO, CLAIMS FOR DEFAMATION, TRADE DISPARAGEMENT, PRIVACY AND INTELLECTUAL PROPERTY INFRINGEMENT) AND DAMAGES (INCLUDING ATTORNEYS' FEES AND COURT COSTS) ARISING FROM OR RELATING TO ANY ALLEGATION REGARDING: (A) YOUR USE OF THE WEBSITE OR ANY OTHER CHANNELS.",
+            "conf": 0.9966943264007568,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances, including, but not limited to, negligence, shall Forbes, or its affiliates be liable for any direct, indirect, incidental, special or consequential damages that result from the use of, or the inability to use, the Content, unauthorized access to or alteration of your transmissions or data, the Content or any errors or omissions in the Content, even if advised of the possibility of such damages",
+            "conf": 0.9415757656097412,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You specifically acknowledge and agree that Forbes is not liable for any conduct of any user",
+            "conf": 0.9991467595100403,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Any failure of Forbes to enforce or exercise any provision of this Agreement or related right shall not constitute a waiver of that right or provision",
+            "conf": 0.9999961256980896,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of: September 25, 2018",
+            "conf": 0.9999970197677612,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the personally identifiable information or other user information you may choose to submit in these public forums.",
+            "conf": 0.9803698062896729,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "To request removal of your personal information from our blog or community forum, please contact us as provided below",
+            "conf": 0.9990630149841309,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In some cases, we may not be able to remove personal information voluntarily disclosed by you in such forums for legal retention purposes or technical limitations (e.g., the data may not be searchable), in which case, we will notify you if we are unable to do so",
+            "conf": 0.9039598703384399,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "agree to provide only true, accurate, current and complete information",
+            "conf": 0.9855301976203918,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We and our partners use cookies and similar technologies on the Site to personalize and optimize your browsing experience and the Site by:",
+            "conf": 0.9741665124893188,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "collect and use information such as your server preferences, single-session data and corresponding identifier, web beacons and log files (",
+            "conf": 0.9073665142059326,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Essential cookies include analytics cookies, which provide us data that allows Forbes to better understand its users and improve the Site based on what we have learned from that data",
+            "conf": 0.9906298518180847,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "To help support the Site and further tailor your experience, Forbes and its advertising partners (and/or their third party analytics providers) also use cookies on the Site to personalize the content and advertisements you may be",
+            "conf": 0.998417854309082,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our sites in order to recognize users, assess traffic patterns, identify preferred content and measure site engagement.",
+            "conf": 0.9946083426475525,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We also include web beacons in our e-mail messages, including newsletters, in order to count how many e-mail messages have been opened.",
+            "conf": 0.9918548464775085,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Forbes and its partners (including advertising partners) also use web beacons to collect various data provided by your browser while you are on our Site and elsewhere (i.e., outside of the Site) where we may be acting as a 3rd party.",
+            "conf": 0.9982811808586121,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We respect the privacy of our users and will not disclose or distribute our user list to any third party, nor will we permit anyone else to do so",
+            "conf": 0.9986618161201477,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice",
+            "conf": 0.9939231872558594,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not disclose personally identifying information about our users to these parties",
+            "conf": 0.9500206708908081,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites",
+            "conf": 0.9971647262573242,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our ad network partner uses cookies and Web",
+            "conf": 0.9287838339805603,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests",
+            "conf": 0.981343686580658,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out or modify your choices by clicking here, or if located in the European Union by clicking here",
+            "conf": 0.999488353729248,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note this does not opt you out of being served advertising",
+            "conf": 0.9986412525177002,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "In the event of a sale, merger, public offering, bankruptcy or other change in control of Forbes, your information may be shared with the person or business that owns or controls this site",
+            "conf": 0.9977397322654724,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may also ask to opt-out of marketing communications.&nbsp",
+            "conf": 0.9992747902870178,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your user information for as long as your account is active or as needed to provide you the Site, unless you have revoked your consent or requested to delete certain user information, and may retain certain user information for specific legitimate interests relating to core Site functionalities (e.g., fraud-prevention",
+            "conf": 0.9998924732208252,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "that no data transmission on the Internet is guaranteed to be 100% secure",
+            "conf": 0.9286812543869019,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Your information is stored on Forbes servers located in the United States",
+            "conf": 0.9948217272758484,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The Site is intended for people who are at least 16 years of",
+            "conf": 0.9988774061203003,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "age.&nbsp",
+            "conf": 0.9765125513076782,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are less than 16 years old, please do not send any user information to us--including information such as your name, address, or e-mail address.",
+            "conf": 0.984012246131897,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect (nor do we wish to collect) any personally identifiable information or other user information from children under the age of 16",
+            "conf": 0.9995313882827759,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "Your user information may be transferred to other countries in connection with your use of the",
+            "conf": 0.9412699341773987,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you access or use the Site outside of the United States, your user information will be transferred to our servers in the United States.&nbsp",
+            "conf": 0.9847835898399353,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "How Will I Know if the Privacy Statement Is Changed?If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective",
+            "conf": 0.9978312253952026,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 2.6
+}

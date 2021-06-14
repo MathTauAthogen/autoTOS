@@ -5,528 +5,462 @@
             "text": "In any case, you must be at least 13 years old, or in the case of Periscope 16 years old, to use the Services",
             "conf": 0.9999924898147583,
             "description": "Only available to users of a certain age",
-            "effect": "neutral",
-            "weight": 15
+            "effect": "neutral"
         },
         {
             "label": "12",
             "text": "You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States, Ireland, and/or other countries for storage, processing and use by Twitter and its affiliates",
             "conf": 0.9999290704727173,
             "description": "Your data may be processed and stored anywhere in the world",
-            "effect": "bad",
-            "weight": 10
+            "effect": "bad"
         },
         {
             "label": "3",
             "text": "We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services",
             "conf": 0.9999998211860657,
             "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
-            "effect": "bad",
-            "weight": 20
+            "effect": "bad"
         },
         {
             "label": "8",
             "text": "We may not monitor or control the Content posted via the Services and, we cannot take responsibility for such Content",
             "conf": 0.998827338218689,
             "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
-            "effect": "neutral",
-            "weight": 10
+            "effect": "neutral"
         },
         {
             "label": "3",
             "text": "As such, the Services may change from time to time, at our discretion",
             "conf": 0.9905167818069458,
             "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
-            "effect": "bad",
-            "weight": 20
+            "effect": "bad"
         },
         {
             "label": "3",
             "text": "We may stop (permanently or temporarily) providing the Services or any features within the Services to you or to users generally",
             "conf": 0.998579204082489,
             "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
-            "effect": "bad",
-            "weight": 20
+            "effect": "bad"
         },
         {
             "label": "6",
             "text": "We may also remove or refuse to distribute any Content on the Services, limit distribution or visibility of any Content on the service, suspend or terminate users, and reclaim usernames without liability to you",
             "conf": 0.9999685883522034,
             "description": "The service can delete your account and/or other content without prior notice and without a reason",
-            "effect": "bad",
-            "weight": 60
+            "effect": "bad"
         },
         {
             "label": "9",
             "text": "Twitter does not disclose personally-identifying information to third parties except in accordance with our Privacy Policy",
             "conf": 0.9822583198547363,
             "description": "This service does not sell your personal data",
-            "effect": "good",
-            "weight": 60
+            "effect": "good"
         },
         {
             "label": "8",
             "text": "You are responsible for safeguarding your account, so use a strong password and limit its use to this account",
             "conf": 0.9999997019767761,
             "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
-            "effect": "neutral",
-            "weight": 10
+            "effect": "neutral"
         },
         {
             "label": "8",
             "text": "We cannot and will not be liable for any loss or damage arising from your failure to comply with the above",
             "conf": 0.9988707304000854,
             "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
-            "effect": "neutral",
-            "weight": 10
+            "effect": "neutral"
         },
         {
             "label": "14",
             "text": "These communications are considered part of the Services and your account, and you may not be able to opt-out from receiving them",
             "conf": 0.9999635815620422,
             "description": "You can opt out of promotional communications",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "15",
             "text": "You may end your legal agreement with Twitter at any time by deactivating your accounts and discontinuing your use of the Services",
             "conf": 0.9999678134918213,
             "description": "You have the right to leave this service at any time",
-            "effect": "good",
-            "weight": 15
+            "effect": "good"
         },
         {
             "label": "6",
             "text": "We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms or the Twitter Rules and Policies or Periscope Community Guidelines, (ii) you create risk or possible legal exposure for us; (iii) your account should be removed due to unlawful conduct, (iv) your account should be removed due to prolonged inactivity; or (v) our provision of the Services to you is no longer commercially viable",
             "conf": 0.999998152256012,
             "description": "The service can delete your account and/or other content without prior notice and without a reason",
-            "effect": "bad",
-            "weight": 60
+            "effect": "bad"
         },
         {
             "label": "3",
             "text": "The Services are Available \"AS-IS\"",
             "conf": 0.9999985098838806,
             "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
-            "effect": "bad",
-            "weight": 20
+            "effect": "bad"
         },
         {
             "label": "3",
             "text": "You understand and agree that the Services are provided to you on an \u201cAS IS\u201d and \u201cAS AVAILABLE\u201d basis",
             "conf": 0.9999996423721313,
             "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
-            "effect": "bad",
-            "weight": 20
+            "effect": "bad"
         },
         {
             "label": "3",
             "text": "The Twitter Entities make no warranty or representation and disclaim all responsibility and liability for: (i) the completeness, accuracy, availability, timeliness, security or reliability of the Services or any Content; (ii) any harm to your computer system, loss of data, or other harm that results from your access to or use of the Services or any Content; (iii) the deletion of, or the failure to store or to transmit, any Content and other communications maintained by the Services; and (iv) whether the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis",
             "conf": 0.9999997615814209,
             "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
-            "effect": "bad",
-            "weight": 20
+            "effect": "bad"
         },
         {
             "label": "8",
             "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TWITTER ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES; (iii) ANY CONTENT OBTAINED FROM THE SERVICES; OR (iv) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT",
             "conf": 0.9999999403953552,
             "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
-            "effect": "neutral",
-            "weight": 10
+            "effect": "neutral"
         },
         {
             "label": "7",
             "text": "We may revise these Terms from time to time",
             "conf": 0.9999976754188538,
             "description": "Terms may be changed any time at the service's discretion, without notice to the user",
-            "effect": "bad",
-            "weight": 70
+            "effect": "bad"
         },
         {
             "label": "16",
             "text": "The changes will not be retroactive, and the most current version of the Terms, which will always be at",
             "conf": 0.9194687604904175,
             "description": "Users will be notified when terms are changed",
-            "effect": "good",
-            "weight": 30
+            "effect": "good"
         },
         {
             "label": "16",
             "text": "We will try to notify you of material revisions, for example via a service notification or an email to the email associated with your account",
             "conf": 0.9994884133338928,
             "description": "Users will be notified when terms are changed",
-            "effect": "good",
-            "weight": 30
+            "effect": "good"
         },
         {
             "label": "4",
             "text": "Twitter\u2019s failure to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision",
             "conf": 0.9999915361404419,
             "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
-            "effect": "bad",
-            "weight": 60
+            "effect": "bad"
         },
         {
             "label": "0",
             "text": "Effective:\u00a0June 18, 2020",
             "conf": 0.9999939203262329,
             "description": "Has last updated date",
-            "effect": "neutral",
-            "weight": 5
+            "effect": "neutral"
         },
         {
             "label": "1",
             "text": "In any case, you must be at least 13 years old, or in the case of Periscope 16 years old, to use the Services",
             "conf": 0.9999924898147583,
             "description": "Only available to users of a certain age",
-            "effect": "neutral",
-            "weight": 15
+            "effect": "neutral"
         },
         {
             "label": "12",
             "text": "You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States, Ireland, and/or other countries for storage, processing and use by Twitter and its affiliates",
             "conf": 0.9999290704727173,
             "description": "Your data may be processed and stored anywhere in the world",
-            "effect": "bad",
-            "weight": 10
+            "effect": "bad"
         },
         {
             "label": "3",
             "text": "We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services",
             "conf": 0.9999998211860657,
             "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
-            "effect": "bad",
-            "weight": 20
+            "effect": "bad"
         },
         {
             "label": "8",
             "text": "We may not monitor or control the Content posted via the Services and, we cannot take responsibility for such Content",
             "conf": 0.998827338218689,
             "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
-            "effect": "neutral",
-            "weight": 10
+            "effect": "neutral"
         },
         {
             "label": "3",
             "text": "As such, the Services may change from time to time, at our discretion",
             "conf": 0.9905167818069458,
             "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
-            "effect": "bad",
-            "weight": 20
+            "effect": "bad"
         },
         {
             "label": "3",
             "text": "We may stop (permanently or temporarily) providing the Services or any features within the Services to you or to users generally",
             "conf": 0.998579204082489,
             "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
-            "effect": "bad",
-            "weight": 20
+            "effect": "bad"
         },
         {
             "label": "6",
             "text": "We may also remove or refuse to distribute any Content on the Services, limit distribution or visibility of any Content on the service, suspend or terminate users, and reclaim usernames without liability to you",
             "conf": 0.9999685883522034,
             "description": "The service can delete your account and/or other content without prior notice and without a reason",
-            "effect": "bad",
-            "weight": 60
+            "effect": "bad"
         },
         {
             "label": "9",
             "text": "Twitter does not disclose personally-identifying information to third parties except in accordance with our Privacy Policy",
             "conf": 0.9822583198547363,
             "description": "This service does not sell your personal data",
-            "effect": "good",
-            "weight": 60
+            "effect": "good"
         },
         {
             "label": "8",
             "text": "You are responsible for safeguarding your account, so use a strong password and limit its use to this account",
             "conf": 0.9999997019767761,
             "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
-            "effect": "neutral",
-            "weight": 10
+            "effect": "neutral"
         },
         {
             "label": "8",
             "text": "We cannot and will not be liable for any loss or damage arising from your failure to comply with the above",
             "conf": 0.9988707304000854,
             "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
-            "effect": "neutral",
-            "weight": 10
+            "effect": "neutral"
         },
         {
             "label": "14",
             "text": "These communications are considered part of the Services and your account, and you may not be able to opt-out from receiving them",
             "conf": 0.9999635815620422,
             "description": "You can opt out of promotional communications",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "15",
             "text": "You may end your legal agreement with Twitter at any time by deactivating your accounts and discontinuing your use of the Services",
             "conf": 0.9999678134918213,
             "description": "You have the right to leave this service at any time",
-            "effect": "good",
-            "weight": 15
+            "effect": "good"
         },
         {
             "label": "6",
             "text": "We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms or the Twitter Rules and Policies or Periscope Community Guidelines, (ii) you create risk or possible legal exposure for us; (iii) your account should be removed due to unlawful conduct, (iv) your account should be removed due to prolonged inactivity; or (v) our provision of the Services to you is no longer commercially viable",
             "conf": 0.999998152256012,
             "description": "The service can delete your account and/or other content without prior notice and without a reason",
-            "effect": "bad",
-            "weight": 60
+            "effect": "bad"
         },
         {
             "label": "7",
             "text": "We may revise these Terms from time to time",
             "conf": 0.9999976754188538,
             "description": "Terms may be changed any time at the service's discretion, without notice to the user",
-            "effect": "bad",
-            "weight": 70
+            "effect": "bad"
         },
         {
             "label": "16",
             "text": "The changes will not be retroactive, and the most current version of the Terms, which will always be at",
             "conf": 0.9194687604904175,
             "description": "Users will be notified when terms are changed",
-            "effect": "good",
-            "weight": 30
+            "effect": "good"
         },
         {
             "label": "16",
             "text": "Other than for changes addressing new functions or made for legal reasons, we will notify you 30 days in advance of making effective changes to these Terms that impact the rights or obligations of any party to these Terms, for example via a service notification or an email to the email associated with your account",
             "conf": 0.9999940395355225,
             "description": "Users will be notified when terms are changed",
-            "effect": "good",
-            "weight": 30
+            "effect": "good"
         },
         {
             "label": "4",
             "text": "Twitter\u2019s failure to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision",
             "conf": 0.9999915361404419,
             "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
-            "effect": "bad",
-            "weight": 60
+            "effect": "bad"
         },
         {
             "label": "0",
             "text": "Effective:\u00a0June 18, 2020",
             "conf": 0.9999939203262329,
             "description": "Has last updated date",
-            "effect": "neutral",
-            "weight": 5
+            "effect": "neutral"
         },
         {
             "label": "14",
             "text": "You can also unsubscribe from a notification by following the instructions contained within the notification or here",
             "conf": 0.9998923540115356,
             "description": "You can opt out of promotional communications",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "2",
             "text": "Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services",
             "conf": 0.990946888923645,
             "description": "Tracking pixels and/or device fingerprinting",
-            "effect": "bad",
-            "weight": 50
+            "effect": "bad"
         },
         {
             "label": "13",
             "text": "When your browser or device allows it, we use both session cookies and persistent cookies to better understand how you interact with our services, to monitor aggregate usage patterns, and to personalize and otherwise operate our services such as by providing account security, personalizing the content we show you including ads, and remembering your language preferences",
             "conf": 0.9999184012413025,
             "description": "This service uses third-party cookies for statistics and/or advertising",
-            "effect": "bad",
-            "weight": 70
+            "effect": "bad"
         },
         {
             "label": "5",
             "text": "We do not support the Do Not Track browser option",
             "conf": 0.9999841451644897,
             "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
-            "effect": "bad",
-            "weight": 60
+            "effect": "bad"
         },
         {
             "label": "10",
             "text": "We do not associate this web browsing history with your name, email address, phone number, or username, and we delete, obfuscate, or aggregate it after no longer than 30 days",
             "conf": 0.9999960064888,
             "description": "You can request access and deletion of personal data",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "13",
             "text": "We use the information described in this Privacy Policy to help make our advertising more relevant to you, to measure its effectiveness, and to help recognize your devices to serve you ads on and off of Twitter",
             "conf": 0.991174578666687,
             "description": "This service uses third-party cookies for statistics and/or advertising",
-            "effect": "bad",
-            "weight": 70
+            "effect": "bad"
         },
         {
             "label": "13",
             "text": "Some of our ad partners, particularly our advertisers, also enable us to collect similar information directly from their website or app by integrating our advertising technology",
             "conf": 0.9139125943183899,
             "description": "This service uses third-party cookies for statistics and/or advertising",
-            "effect": "bad",
-            "weight": 70
+            "effect": "bad"
         },
         {
             "label": "13",
             "text": "Twitter adheres to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising (also referred to as \u201cinterest-based advertising\u201d) and respects the DAA\u2019s consumer choice tool for you to opt out of interest-based advertising at https://optout.aboutads.info",
             "conf": 0.9833414554595947,
             "description": "This service uses third-party cookies for statistics and/or advertising",
-            "effect": "bad",
-            "weight": 70
+            "effect": "bad"
         },
         {
             "label": "13",
             "text": "We may receive information about you from third parties who are not our ad partners, such as others on Twitter, partners who help us evaluate the safety and quality of content on our platform, our corporate affiliates, and other services you link to your Twitter account",
             "conf": 0.9597455859184265,
             "description": "This service uses third-party cookies for statistics and/or advertising",
-            "effect": "bad",
-            "weight": 70
+            "effect": "bad"
         },
         {
             "label": "13",
             "text": "For example, we use a variety of third-party services to help operate our services, such as hosting our various blogs and wikis, and to help us understand the use of our services, such as Google Analytics",
             "conf": 0.9999204874038696,
             "description": "This service uses third-party cookies for statistics and/or advertising",
-            "effect": "bad",
-            "weight": 70
+            "effect": "bad"
         },
         {
             "label": "11",
             "text": "In the event that we are involved in a bankruptcy, merger, acquisition, reorganization, or sale of assets, your personal data may be sold or transferred as part of that transaction",
             "conf": 0.9999985098838806,
             "description": "This service can sell your personal data",
-            "effect": "bad",
-            "weight": 50
+            "effect": "bad"
         },
         {
             "label": "15",
             "text": "You can also deactivate your account",
             "conf": 0.9949508905410767,
             "description": "You have the right to leave this service at any time",
-            "effect": "good",
-            "weight": 15
+            "effect": "good"
         },
         {
             "label": "10",
             "text": "Please note, to help protect your privacy and maintain security, we take\u00a0steps to verify your identity before granting you access to your personal information or complying with deletion, portability, or other related requests",
             "conf": 0.9344094395637512,
             "description": "You can request access and deletion of personal data",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "10",
             "text": "On Periscope, you can request correction, deletion, or modification of your personal data, and download your account information, by following the instructions here",
             "conf": 0.9999956488609314,
             "description": "You can request access and deletion of personal data",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "10",
             "text": "To submit a request related to access, modification or deletion of your information, you may also contact us as specified in the",
             "conf": 0.9280551075935364,
             "description": "You can request access and deletion of personal data",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "10",
             "text": "We keep Log Data for a maximum of 18 months",
             "conf": 0.9999843835830688,
             "description": "You can request access and deletion of personal data",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "15",
             "text": "If you follow the instructions here (or for Periscope here), your account will be deactivated",
             "conf": 0.9997027516365051,
             "description": "You have the right to leave this service at any time",
-            "effect": "good",
-            "weight": 15
+            "effect": "good"
         },
         {
             "label": "10",
             "text": "Keep in mind that search engines and other third parties may still retain copies of your public information, like your profile information and public Tweets, even after you have deleted the information from our services or deactivated your account",
             "conf": 0.9999231696128845,
             "description": "You can request access and deletion of personal data",
-            "effect": "good",
-            "weight": 50
+            "effect": "good"
         },
         {
             "label": "0",
             "text": "Dublin 2, D02 AX07 IRELAND",
             "conf": 0.9740901589393616,
             "description": "Has last updated date",
-            "effect": "neutral",
-            "weight": 5
+            "effect": "neutral"
         },
         {
             "label": "1",
             "text": "Our services are not directed to children, and you may not use our services if you are under the age of 13",
             "conf": 0.9999994039535522,
             "description": "Only available to users of a certain age",
-            "effect": "neutral",
-            "weight": 15
+            "effect": "neutral"
         },
         {
             "label": "1",
             "text": "You must be at least 16 years of age to use Periscope",
             "conf": 0.9999813437461853,
             "description": "Only available to users of a certain age",
-            "effect": "neutral",
-            "weight": 15
+            "effect": "neutral"
         },
         {
             "label": "12",
             "text": "Where the laws of your country allow you to do so, you authorize us to transfer, store, and use your data in the United States, Ireland, and any other country where we operate",
             "conf": 0.9954178333282471,
             "description": "Your data may be processed and stored anywhere in the world",
-            "effect": "bad",
-            "weight": 10
+            "effect": "bad"
         },
         {
             "label": "12",
             "text": "Under certain circumstances, participants may be liable for the transfer of personal data from the EU, EFTA States, or the United Kingdom to third parties outside the EU, EFTA States, and the United Kingdom",
             "conf": 0.999863862991333,
             "description": "Your data may be processed and stored anywhere in the world",
-            "effect": "bad",
-            "weight": 10
+            "effect": "bad"
         },
         {
             "label": "7",
             "text": "We may revise this Privacy Policy from time to time",
             "conf": 0.999996542930603,
             "description": "Terms may be changed any time at the service's discretion, without notice to the user",
-            "effect": "bad",
-            "weight": 70
+            "effect": "bad"
         },
         {
             "label": "0",
             "text": "Effective:\u00a0June 18, 2020",
             "conf": 0.9999939203262329,
             "description": "Has last updated date",
-            "effect": "neutral",
-            "weight": 5
+            "effect": "neutral"
         },
         {
             "label": "13",
             "text": "We use cookies for purposes including analytics, personalisation, and ads",
             "conf": 0.991034746170044,
             "description": "This service uses third-party cookies for statistics and/or advertising",
-            "effect": "bad",
-            "weight": 70
+            "effect": "bad"
         }
     ],
     "sentiment": 3.2

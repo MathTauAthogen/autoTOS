@@ -1,0 +1,635 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Spotify Terms and Conditions of Use Effective as of February 7, 2019",
+            "conf": 0.9976028800010681,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Contain a class action waiver and an agreement to resolve any disputes that may arise by arbitration",
+            "conf": 0.933203399181366,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "In order to use the Spotify Service and access any Content, you need to (1) be 18 years or older, or be 13 years or older and have your parent or guardian\u2019s consent to the Agreements, (2) have the power to enter a binding contract with us and not be barred from doing so under any applicable laws, and (3) reside in the United States.",
+            "conf": 0.9943413734436035,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You also promise that any registration information that you submit to Spotify is true, accurate, and complete, and you agree to keep it that way at all times",
+            "conf": 0.9999826550483704,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "When we make material changes to the Agreements, we\u2019ll provide you with notice as appropriate under the circumstances, e.g., by displaying a prominent notice within the Service or by sending you an email",
+            "conf": 0.9965754151344299,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "In some cases, we will notify you in advance, and your continued use of the Service after the changes have been made will constitute your acceptance of the changes",
+            "conf": 0.9994150996208191,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the products and services provided by such third parties",
+            "conf": 0.9919447302818298,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to modify, terminate or otherwise amend our offered subscription plans and promotional offerings at any time in accordance with these Terms",
+            "conf": 0.9788535237312317,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You understand and agree that Spotify does not endorse and is not responsible or liable for the behavior, features, or content of any Third Party Application or Device or for any transaction you may enter into with the provider of any such Third Party Applications and Devices, nor does Spotify warrant the compatibility or continuing compatibility of the Third Party Applications and Devices with the Service",
+            "conf": 0.9989533424377441,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "In all cases, Spotify reserves the right to remove or disable access to any User Content for any or no reason, including User Content that, in Spotify\u2019s sole discretion, violates the Agreements",
+            "conf": 0.9890151023864746,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Removal or disabling of access to User Content shall be at our sole discretion, and we do not promise to remove or disable access to any specific User Content",
+            "conf": 0.9407052397727966,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all User Content that you post",
+            "conf": 0.9994526505470276,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Spotify is not responsible for User Content nor does it endorse any opinion contained in any User Content",
+            "conf": 0.9950382113456726,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Spotify has no responsibility for your choices to post material on the Service",
+            "conf": 0.9996452927589417,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Your password protects your user account, and you are solely responsible for keeping your password confidential and secure.",
+            "conf": 0.9806818962097168,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand that you are responsible for all use (including any unauthorized use) of your username and password on the Service.",
+            "conf": 0.9975642561912537,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If your username or password is lost or stolen, or if you believe there has been unauthorized access to your account by a third party, you must notify us immediately and change your password as soon as possible",
+            "conf": 0.999380886554718,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Spotify reserves the right, periodically and at any time, to modify or discontinue, temporarily or permanently, functions and features of the Spotify Service, with advance notice where possible, all without liability to you, except where prohibited by law, for any interruption, modification, or discontinuation of the Spotify Service or any function or feature thereof",
+            "conf": 0.999995231628418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You understand, agree, and accept that Spotify will make reasonable efforts, although it has no obligation to maintain, support, upgrade, or update the Service, or to provide all or any specific content through the Service",
+            "conf": 0.9717530012130737,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Spotify and/or the owners of any Content may, from time to time, remove any such Content without notice",
+            "conf": 0.9999355673789978,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We will use reasonable endeavors to respond to all Customer Support Queries within a reasonable time frame but we make no promises that any Customer Support Queries will be responded to within any particular time frame and/or that we will be able to answer any such queries",
+            "conf": 0.9999952912330627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Spotify may terminate the Agreements or suspend your access to the Spotify Service at any time, including in the event of your actual or suspected unauthorized use of the Spotify Service and/or Content, or non-compliance with the Agreements, or if we withdraw Services and/or Content (in which case we shall provide you with reasonable notice in advance of doing so).",
+            "conf": 0.9999942183494568,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU UNDERSTAND AND AGREE THAT THE SPOTIFY SERVICE IS PROVIDED \u201cAS IS\u201d AND \u201cAS AVAILABLE,",
+            "conf": 0.9899498820304871,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT EXPRESS OR IMPLIED WARRANTY OR CONDITION OF ANY KIND",
+            "conf": 0.9998650550842285,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SPOTIFY AND ALL OWNERS OF THE CONTENT MAKE NO REPRESENTATIONS AND DISCLAIM ANY WARRANTIES OR CONDITIONS OF SATISFACTORY QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT",
+            "conf": 0.9934077262878418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT WILL SPOTIFY, ITS OFFICERS, SHAREHOLDERS, EMPLOYEES, AGENTS, DIRECTORS, SUBSIDIARIES, AFFILIATES, SUCCESSORS, ASSIGNS, SUPPLIERS, OR LICENSORS BE LIABLE FOR (1) ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.",
+            "conf": 0.998782217502594,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ") ANY LOSS OF USE, DATA, BUSINESS, OR PROFITS (WHETHER DIRECT OR INDIRECT), IN ALL CASES ARISING OUT OF THE USE OF OR INABILITY TO USE THE SPOTIFY SERVICE, DEVICES THIRD PARTY APPLICATIONS, OR THIRD PARTY APPLICATION CONTENT, REGARDLESS OF LEGAL THEORY, WITHOUT REGARD TO WHETHER SPOTIFY HAS BEEN WARNED OF THE POSSIBILITY OF THOSE DAMAGES, AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE",
+            "conf": 0.9582195281982422,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "subsidiaries, are third party beneficiaries of this Agreement, and upon your acceptance of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary of this Agreement",
+            "conf": 0.9121426939964294,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Unless as otherwise stated in the Agreements, should any provision of the Agreements be held invalid or unenforceable for any reason or to any extent, such invalidity or enforceability shall not in any manner affect or render invalid or unenforceable the remaining provisions of the Agreements, and the application of that provision shall be enforced to the extent permitted by law",
+            "conf": 0.935581386089325,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any failure by Spotify or any third party beneficiary to enforce the Agreements or any provision thereof shall not waive Spotify\u2019s or the applicable third party beneficiary\u2019s right to do so",
+            "conf": 0.9999316334724426,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "23 Indemnification You agree to indemnify and hold Spotify harmless from and against all damages, losses, and expenses of any kind (including reasonable attorney fees and costs) arising out of or related to: (1) your breach of the Agreements or any one of them",
+            "conf": 0.9902682900428772,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED",
+            "conf": 0.9449166059494019,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "24.2.3 No Class Or Representative Proceedings: Class Action Waiver YOU AND SPOTIFY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION",
+            "conf": 0.9999812841415405,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Unless both you and Spotify agree, no arbitrator or judge may consolidate more than one person\u2019s claims or otherwise preside over any form of a representative or class proceeding",
+            "conf": 0.9999926090240479,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "In order to use the Spotify Service and access the Content, you need to (1) be 18 or older, or be 13 or older and have your parent or guardian\u2019s consent to the Agreements, (2) have the power to enter a binding contract with us and not be barred from doing so under any applicable laws, and (3) be resident in the United States.",
+            "conf": 0.9938103556632996,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You also promise that any registration information that you submit to Spotify is true, accurate, and complete, and you agree to keep it that way at all times",
+            "conf": 0.9999826550483704,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "When we make material changes to the Agreements, we\u2019ll provide you with prominent notice as appropriate under the circumstances, e.g., by displaying a prominent notice within the Service or by sending you an email",
+            "conf": 0.9899889826774597,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "In some cases, we will notify you in advance, and your continued use of the Service after the changes have been made will constitute your acceptance of the changes",
+            "conf": 0.9994150996208191,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Spotify reserves the right, in its absolute discretion, to determine your eligibility for a Trial, and, subject to applicable laws, to withdraw or to modify a Trial at any time without prior notice and with no liability, to the greatest extent permitted under the law",
+            "conf": 0.9772999286651611,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You understand and agree that Spotify does not endorse and is not responsible or liable for the behavior, features, or content of any Third Party Application or for any transaction you may enter into with the provider of any such Third Party Applications",
+            "conf": 0.9996222853660583,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "In all cases, Spotify reserves the right to remove or disable access to any User Content for any or no reason, including but not limited to, User Content that, in Spotify",
+            "conf": 0.9938812255859375,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "\u2019s sole discretion, violates the Agreements",
+            "conf": 0.9839624166488647,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Removal or disabling of access to User Content shall be at our sole discretion, and we do not promise to remove or disable access to any specific User Content",
+            "conf": 0.9407052397727966,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all User Content that you post",
+            "conf": 0.9994526505470276,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Spotify is not responsible for User Content nor does it endorse any opinion contained in any User Content",
+            "conf": 0.9950382113456726,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Spotify has no responsibility for your choices to post material on the Service",
+            "conf": 0.9996452927589417,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Your password protects your user account, and you are solely responsible for keeping your password confidential and secure.",
+            "conf": 0.9806818962097168,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You understand that you are responsible for all use of your username and password on the Service.",
+            "conf": 0.9912951588630676,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If your username or password is lost or stolen, or if you believe there has been unauthorized access to your account by third parties, please notify us immediately and change your password as soon as possible",
+            "conf": 0.9994081258773804,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "To the extent permissible under applicable law, Spotify reserves the right, periodically and at any time, to modify or discontinue, temporarily or permanently, functions and features of the Spotify Service, with or without notice, all without liability to you, except where prohibited by law, for any interruption, modification, or discontinuation of the Spotify Service or any function or feature thereof.",
+            "conf": 0.9937017560005188,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Spotify and/or the owners of any Content may, from time to time, remove any such Content without notice to the extent permitted by applicable law",
+            "conf": 0.999989926815033,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You also acknowledge and agree that Spotify may remove or reclaim your username at any time if Spotify in its absolute discretion considers such action appropriate",
+            "conf": 0.9997867345809937,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Any content provided or made available to you on the Spotify Support Community by Spotify employees, moderators, and/or representatives is provided on an \u201cas is\u201d basis without warranties of any kind",
+            "conf": 0.9999960660934448,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We will use reasonable endeavours to respond to all Customer Support Queries within a reasonable time frame but we make no guarantees or warranties of any kind that any Customer Support Queries will be responded to within any particular time frame and/or that we will be able to satisfactorily answer any such queries",
+            "conf": 0.9999997615814209,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "from time to time, and will communicate any",
+            "conf": 0.9000952243804932,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Spotify may terminate the Agreements or suspend your access to the Spotify Service at any time, including in the event of your actual or suspected unauthorised use of the Spotify Service and/or Content, or non-compliance with the Agreements",
+            "conf": 0.9999338388442993,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE ENDEAVOUR TO PROVIDE THE BEST SERVICE WE CAN, BUT YOU UNDERSTAND AND AGREE THAT THE SPOTIFY SERVICE IS PROVIDED \u201cAS IS\u201d AND \u201cAS AVAILABLE",
+            "conf": 0.995216429233551,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ", WITHOUT EXPRESS OR IMPLIED WARRANTY OR CONDITION OF ANY KIND",
+            "conf": 0.9996266961097717,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, SPOTIFY AND ALL OWNERS OF THE CONTENT MAKE NO REPRESENTATIONS AND DISCLAIM ANY WARRANTIES OR CONDITIONS OF SATISFACTORY QUALITY, MERCHANTABILITY,",
+            "conf": 0.9972923398017883,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ", OR NON-INFRINGEMENT",
+            "conf": 0.955564558506012,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL SPOTIFY, ITS OFFICERS, SHAREHOLDERS, EMPLOYEES, AGENTS, DIRECTORS, SUBSIDIARIES, AFFILIATES, SUCCESSORS, ASSIGNS, SUPPLIERS, OR LICENSORS BE LIABLE FOR (1) ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.",
+            "conf": 0.9981778860092163,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "AND THERE SHALL BE NO RIGHT TO ANY REMEDY FOR ANY CLAIM NOT ASSERTED WITHIN THAT TIME PERIOD",
+            "conf": 0.9890811443328857,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "subsidiaries, are third party beneficiaries of this Agreement, and upon your acceptance of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary of this Agreement",
+            "conf": 0.9121426939964294,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Unless as otherwise stated in the Agreements, should any provision of the Agreements be held invalid or unenforceable for any reason or to any extent, such invalidity or enforceability shall not in any manner affect or render invalid or unenforceable the remaining provisions of the Agreements, and the application of that provision shall be enforced to the extent permitted by law",
+            "conf": 0.9657940864562988,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any failure by Spotify or any third party beneficiary to enforce the Agreements or any provision thereof shall not waive Spotify\u2019s or the applicable third party beneficiary\u2019s right to do so",
+            "conf": 0.9999960660934448,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "To the fullest extent permitted by applicable law, you agree to indemnify and hold Spotify harmless from and against all damages, losses, and expenses of any kind (including reasonable attorney fees and costs) arising out of: (1) your breach of this Agreement",
+            "conf": 0.9999780654907227,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED",
+            "conf": 0.9449167847633362,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "24.2.3 No Class Or Representative Proceedings: Class Action Waiver YOU AND SPOTIFY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION",
+            "conf": 0.9999812841415405,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Unless both you and Spotify agree, no arbitrator or judge may consolidate more than one person\u2019s claims or otherwise preside over any form of a representative or class proceeding",
+            "conf": 0.9999926090240479,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective as of May 25, 2018",
+            "conf": 0.9978274703025818,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Right to Erasure - the right to request that we delete your personal data;",
+            "conf": 0.9997802972793579,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Right to Restrict - the right to request that we temporarily or permanently stop processing all or some of your personal data;",
+            "conf": 0.9996247291564941,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "an unsubscribe link in the emails we send to you).",
+            "conf": 0.9999973773956299,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You always will have the option to change your mind and withdraw your consent at any time",
+            "conf": 0.9347143173217773,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can ask us to share personal data (like your email address) with artists or record labels, or other partners who may want to directly send you news or promotional offers, but you can also revoke that consent at any time",
+            "conf": 0.9972911477088928,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use marketing and advertising partners to show you more tailored content, or to help us understand your use of the Spotify Service, to provide you with a better service",
+            "conf": 0.9392191171646118,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also may share personal data with certain marketing and advertising partners to send you promotional communications about Spotify",
+            "conf": 0.9714015126228333,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "deletion We keep your personal data only as long as necessary to provide you with the Spotify Service and for legitimate and essential business purposes, such as maintaining the performance of the Spotify Service, making data-driven business decisions about new features and offerings, complying with our legal obligations, and resolving disputes",
+            "conf": 0.9990150928497314,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you request, we will delete or anonymise your personal data so that it no longer identifies you, unless, we are legally allowed or required to maintain certain personal data, including situations such as the following:",
+            "conf": 0.9999561309814453,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Spotify may also subcontract processing to, or share your personal data with, third parties located in countries other than your home country",
+            "conf": 0.9999247193336487,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Personal data collected within the European Union and Switzerland may, for example, be transferred to and processed by third parties located in a country outside of the European Union and Switzerland",
+            "conf": 0.9826484322547913,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We cannot control or be held responsible for third parties\u2019 privacy practices and content",
+            "conf": 0.9999127984046936,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "however, please note that no system is ever completely secure",
+            "conf": 0.9949526190757751,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Your password protects your user account, so we encourage you to use a unique and strong password, limit access to your computer and browser, and log out after having used the Spotify Service",
+            "conf": 0.9819726943969727,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Spotify Service is not directed to children under the age of 13 years",
+            "conf": 0.999983012676239,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal data from children under 13 years or under the applicable age limit (the \u201cAge Limit\u201d).",
+            "conf": 0.9999996423721313,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the Age Limit, please do not use the Spotify Service, and do not provide any personal data to us",
+            "conf": 0.9962561130523682,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may occasionally make changes to this Policy",
+            "conf": 0.9994175434112549,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "When we make material changes to this Policy, we",
+            "conf": 0.996288537979126,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "\u2019ll provide you with prominent notice as appropriate under the circumstances, e.g., by displaying a prominent notice within the Spotify Service or by sending you an email",
+            "conf": 0.9952906370162964,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 1.6
+}

@@ -1,0 +1,467 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Revised: 2019-04-15 13:43 EDT",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "ISODME may, in its sole and absolute discretion, change or modify this Agreement, and any policies or agreements which are incorporated herein, at any time, and such changes or",
+            "conf": 0.9999626874923706,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "In addition, ISODME may occasionally notify you of changes or modifications to this Agreement by email",
+            "conf": 0.9997735023498535,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We will not be liable for any changes that have gone into effect",
+            "conf": 0.9575881958007812,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using this Site or the Services, you represent and warrant that you are (i) at least eighteen (18) years of age, (ii) otherwise recognized as being able to form legally binding contracts under applicable law, and (iii) are not a person barred from purchasing or receiving the Services found under the laws of applicable jurisdiction.",
+            "conf": 0.9926733374595642,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ISODME shall not be liable for any loss or damage resulting from ISODME\u2019s reliance on any instruction, notice, document or communication reasonably believed by ISODME to be genuine and originating from an authorized representative of your corporate entity",
+            "conf": 0.9959673285484314,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant to ISODME that all information you submit when you create your Account is accurate, current and complete, and that you will keep your Account information accurate, current and complete",
+            "conf": 0.9955745339393616,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for the activity that occurs on your Account, whether authorized by you or not, and you must keep your Account information secure, including without limitation your customer number/login, password.",
+            "conf": 0.9970456957817078,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ISODME will not be liable for any loss you incur due to any unauthorized use of your Account",
+            "conf": 0.9885400533676147,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "If you are visiting this Site from a country other than the country in which our servers or instances are located, your communications with us may result in the transfer of information (including your Account information) across international boundaries",
+            "conf": 0.9990782737731934,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SITE AVAILABILITY Subject to the terms and conditions of this Agreement and our other policies and procedures, we shall use commercially reasonable efforts to attempt to provide this Site and the Services on a twenty-four (24) hours a day, seven (7) days a week basis",
+            "conf": 0.9987293481826782,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "While we do advertise a ninety-nine percent (99%) uptime rate, we do not provide compensation in the event that your Service is not available for that that percentage.You acknowledge and agree that from time to time this Site may be inaccessible or inoperable for any reason including, but not limited to, equipment malfunctions.",
+            "conf": 0.9971783757209778,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that we have no control over the availability of this Site or the Service on a continuous or uninterrupted basis and that we assume no liability to you or any other party with regard thereto",
+            "conf": 0.9917622208595276,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(",
+            "conf": 0.9916302561759949,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") The Trial Services are provided as-is, so we do not recommend using them in production or mission critical environments",
+            "conf": 0.9999603629112244,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(iv) ISODME reserves the right to modify, change, or discontinue any aspect of the Trial Services at any time",
+            "conf": 0.9999461770057678,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(ix) The Trial Services are provided \u201cas-is\u201d, \u201cas available\u201d, and \u201cwith all faults\u201d",
+            "conf": 0.9997757077217102,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ISODME reserves the right to modify, change, or discontinue any aspect of this Site or the Services, including without limitation prices and fees for the same, at any time.",
+            "conf": 0.9886724948883057,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ISODME Content is provided to you \u201cas-is\u201d, \u201cas available\u201d and \u201cwith all faults\u201d for your information and personal, non-commercial use only and may not be downloaded, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any purposes whatsoever without the express prior written consent of ISODME.",
+            "conf": 0.9938406348228455,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ISODME has no obligation, either express or implied, to develop or use your User Submissions, and no compensation is due to you or to anyone else for any intentional or unintentional use of your User Submissions",
+            "conf": 0.9436935782432556,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "You understand and agree, however, that ISODME may retain (but not distribute, display, or perform) server copies of your User Content that have been removed or deleted",
+            "conf": 0.9773193597793579,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "ISODME may remove any item of User Content (whether posted to a website hosted by ISODME or posted to this Site) and/or terminate a User\u2019s access to this Site or the Services found at this Site for posting or publishing any material in violation of this Agreement, or for otherwise violating this Agreement (as determined by ISODME in its sole and absolute discretion), at any time and without prior notice",
+            "conf": 0.999969482421875,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "If ISODME terminates your access to this Site or the Services found at this Site, ISODME may, in its sole and absolute discretion, remove and destroy any data and files stored by you on its servers",
+            "conf": 0.9995067119598389,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "for any reason (as determined by ISODME in its sole and absolute discretion), including but not limited to the following: (i) to correct mistakes made by ISODME in offering or delivering any Services, (ii) to assist with our fraud and abuse detection and prevention efforts, (iii) to comply with court orders against you and/or your domain name or website and applicable local, state, national and international laws, rules and regulations, (iv) to comply with requests of law enforcement, including subpoena requests, (v) to comply with any dispute resolution process, (vi) to defend any legal action or threatened legal action without consideration for whether such legal action or threatened legal action is eventually determined to be with or without merit, or (vii) to avoid any civil or criminal liability on the part of ISODME, its officers, directors, employees and agents, as well as ISODME \u2019s affiliates, including, but not limited to, instances where you have sued or threatened to sue ISODME",
+            "conf": 0.9792547821998596,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "ISODME expressly reserves the right to terminate, without notice to you, any and all Services where, in ISODME's sole discretion, you are harassing or threatening ISODME and/or any of ISODME's employees",
+            "conf": 0.999955952167511,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We assume no responsibility for the content, terms and conditions, privacy policies, or practices of any third-party websites",
+            "conf": 0.9991634488105774,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WARRANTIES YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT YOUR USE OF THIS SITE AND THE SERVICES FOUND AT THIS SITE SHALL BE AT YOUR OWN RISK AND THAT THIS SITE AND THE SERVICES FOUND AT THIS SITE ARE PROVIDED \u201cAS-IS\u201d, \u201cAS AVAILABLE\u201d AND \u201cWITH ALL FAULTS",
+            "conf": 0.9880644083023071,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "\u201d",
+            "conf": 0.9731364846229553,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ISODME, ITS OFFICERS, EMPLOYEES, AGENTS, AND ALL THIRD PARTY SERVICE PROVIDERS DISCLAIM ALL WARRANTIES, STATUTORY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY,",
+            "conf": 0.9137236475944519,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ISODME, ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS MAKE NO REPRESENTATIONS OR WARRANTIES ABOUT (I) THE ACCURACY, COMPLETENESS, OR CONTENT OF THIS SITE, (II) THE ACCURACY, COMPLETENESS, OR CONTENT OF ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, AND/OR (III) THE SERVICES FOUND AT THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, AND ISODME ASSUMES NO LIABILITY OR RESPONSIBILITY FOR THE SAME",
+            "conf": 0.9998974204063416,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IN ADDITION, YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT NO ORAL OR WRITTEN INFORMATION OR ADVICE PROVIDED BY ISODME, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS (INCLUDING WITHOUT LIMITATION ITS CALL CENTER OR CUSTOMER SERVICE REPRESENTATIVES), AND THIRD PARTY SERVICE PROVIDERS WILL (I) CONSTITUTE LEGAL OR FINANCIAL ADVICE OR (II) CREATE A WARRANTY OF ANY KIND WITH RESPECT TO THIS SITE OR THE SERVICES FOUND AT THIS SITE, AND USERS SHOULD NOT RELY ON ANY SUCH INFORMATION OR ADVICE",
+            "conf": 0.990507960319519,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "LIMITATION OF LIABILITY IN NO EVENT SHALL ISODME, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AND ALL THIRD PARTY SERVICE PROVIDERS, BE LIABLE TO YOU OR ANY OTHER PERSON OR ENTITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING ANY THAT MAY RESULT FROM (I) THE ACCURACY, COMPLETENESS, OR CONTENT OF THIS SITE, (II) THE ACCURACY, COMPLETENESS, OR CONTENT OF ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (III) THE SERVICES FOUND AT THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (IV) PERSONAL INJURY OR PROPERTY DAMAGE OF ANY NATURE WHATSOEVER, (V) THIRD-PARTY CONDUCT OF ANY NATURE WHATSOEVER, (VI) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS AND/OR ANY AND ALL CONTENT, PERSONAL INFORMATION, FINANCIAL INFORMATION OR OTHER INFORMATION AND DATA STORED THEREIN, (VII) ANY INTERRUPTION OR CESSATION OF SERVICES TO OR FROM THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (VIII) ANY VIRUSES, WORMS, BUGS, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR FROM THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (IX) ANY USER CONTENT OR CONTENT THAT IS DEFAMATORY, HARASSING, ABUSIVE, HARMFUL TO MINORS OR ANY PROTECTED CLASS, PORNOGRAPHIC, \u201cX-RATED",
+            "conf": 0.9809355139732361,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ", OBSCENE OR OTHERWISE OBJECTIONABLE, AND/OR (X) ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF THIS SITE OR THE SERVICES FOUND AT THIS SITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL OR EQUITABLE THEORY, AND WHETHER OR NOT ISODME IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES",
+            "conf": 0.9805606603622437,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNITY By using our site, you agree to protect, defend, indemnify and hold harmless ISODME and its officers, directors, employees, agents, and third party service providers from and against any and all claims, demands, costs, expenses, losses, liabilities and damages of every kind and nature (including, without limitation, reasonable attorneys\u2019 fees) imposed upon or incurred by ISODME directly or indirectly arising from (i) your use of and access to this Site or the Services found at this Site",
+            "conf": 0.9999653100967407,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "DISCONTINUED SERVICES AND END OF LIFE POLICY ISODME reserves the right to cease offering or providing any of the Services at any time, for any or no reason, and without prior notice",
+            "conf": 0.9993042945861816,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Although ISODME makes great effort to maximize the lifespan of all its Services, there are times when a Service we offer will be discontinued or reach its End-of-Life (\"EOL\").",
+            "conf": 0.9698194861412048,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree to take full responsibility for any and all loss or damage arising from any such migration",
+            "conf": 0.999780535697937,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "LIQUIDATION, REORGANIZATION, OWNERSHIP TRANSFER In the event that ISODME becomes acquired, liquidated, or reorganized, or under any other circumstance we reserve the right to:",
+            "conf": 0.9999325275421143,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Delete all user data without informing you",
+            "conf": 0.9997275471687317,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Close your account without informing you",
+            "conf": 0.9991573691368103,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Revised: 2019-03-20 20:48 EDT",
+            "conf": 0.9999969005584717,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "ensure that Personal Data is kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed (storage limitation).",
+            "conf": 0.996382474899292,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "3.2 Right to delete your data",
+            "conf": 0.9932951331138611,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Please note that you will only be able to delete your name during removal of your ISODME Account",
+            "conf": 0.994723916053772,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "To delete your Account, please send your request to help@isodme.com, and you will be provided with further guidance",
+            "conf": 0.9974600076675415,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies, beacons, tags, scripts and other similar technologies, such as CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes).",
+            "conf": 0.9999997019767761,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use a tool called \"Google Analytics\" to collect information about your interactions with the ISODME Platform (what pages you visit, such as the pages or content you view, your searches for Listings, bookings you have made, and other actions on the ISODME Platform.",
+            "conf": 0.9867640733718872,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "ISODME may retain Applicants Information submitted to it until up to one year after being requested to be removed by the applicant",
+            "conf": 0.9999420046806335,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "When creating an Account at our Platform, you are free to opt-out from receiving various offers directly to your e-mail, phone or in your Account",
+            "conf": 0.9999865293502808,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "7.1 Right to object If a User wishes to change their preferences and withdraw the consent for direct marketing, they may email us at help@isodme.com to unsubscribe",
+            "conf": 0.9963698387145996,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We generally retain your personal information for as long as is necessary for the performance of the contract between you and us and to comply with our legal obligations",
+            "conf": 0.9994820356369019,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you would like to stop us using your personal information, you shall request that we erase your personal information and close your ISODME Account with all of its related Services",
+            "conf": 0.9998312592506409,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After deletion of your Account, we will still retain the following data for the purposes of compliance with applicable legal requirements (such as tax, accounting, legal reporting, AML, other) for as long as we are legally required by virtue of the such legal requirements",
+            "conf": 0.9992388486862183,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please also note that we may further retain some of your personal information in such cases (i.e., after closure of your ISODME Account):",
+            "conf": 0.9992226362228394,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Additionally, some copies of your information (e.g., log records) may remain in our database, but are disassociated from personal identifiers",
+            "conf": 0.9983517527580261,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "agree that your data may be regularly transferred from data center to data center, often bypassing international borders",
+            "conf": 0.9139425158500671,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": ", does not share your data with any government, but may cooperate with both private and public investigation services, such as the Federal Bureau of Investigation ( the \u201cFBI",
+            "conf": 0.9389875531196594,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": ").",
+            "conf": 0.9032888412475586,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If we are involved in a merger, reorganization, acquisition or sale, we may transfer data and we will update you with our new policies",
+            "conf": 0.9770870208740234,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Regardless of the measures and efforts that we take, we cannot and do not guarantee the absolute protection and security of your Personal Information, or any other User Content you upload, publish or otherwise share with ISODME or anyone else",
+            "conf": 0.9438669681549072,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "the right to erase any data concerning you",
+            "conf": 0.999850869178772,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Users may demand erasure of data without undue delay for legitimate reasons, e.g.",
+            "conf": 0.9643788933753967,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Some of the rights as above are easy to exercise: i.e., you may at any time access and edit, update or amend your details, opt out of receiving communications from us and our partners by contacting to our Help Desk",
+            "conf": 0.9239640235900879,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change our Policy at any time and inform by using the way as indicated in Section 14",
+            "conf": 0.9999521374702454,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Our Policy may change from time to time",
+            "conf": 0.9665189981460571,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If there are significant changes, we may consider providing a more explicit notice (including, for certain services, email notification of Policy changes).",
+            "conf": 0.9998335838317871,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 4.4
+}

@@ -1,0 +1,446 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last update: November 1, 2018",
+            "conf": 0.9999979138374329,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "When a User or Visitor uses the Service, we may automatically record certain information from the User\u2019s or Visitor\u2019s device by using various types of technology, including cookies, \u201cclear gifs\u201d or \u201cweb beacons",
+            "conf": 0.9941872954368591,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "\u201d This \u201cautomatically collected\u201d information may include IP address or other device address or ID, web browser and/or device type, the web pages or sites visited just before or just after using the Service, the pages or other content the User or Visitor views or interacts with on the Service, and the dates and times of the visit, access, or",
+            "conf": 0.9635723233222961,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You have the ability to opt-out of receiving any promotional communications as described below under \u201cYour Choices",
+            "conf": 0.9992972016334534,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use Google Analytics to measure and evaluate access to and traffic on the Public Area of the",
+            "conf": 0.9046194553375244,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ", and create user navigation reports for our Site administrators",
+            "conf": 0.9584146738052368,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Google may use the information collected through Google Analytics to evaluate Users\u2019 and Visitors\u2019 activity on our Site",
+            "conf": 0.9998992681503296,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "You can review and revise your profile information at any time",
+            "conf": 0.9816207885742188,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "4.5 Change of Ownership Information about Users and Visitors, including Personal Data, may be disclosed and otherwise transferred to an acquirer, successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets and only if the recipient of the User or Visitor Data commits to a Privacy Policy that has terms substantially consistent with this Privacy Policy",
+            "conf": 0.998651385307312,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Client Data may be physically or electronically transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets, for the sole purpose of continuing the operation of the Service, and only if the recipient of the Client Data commits to a Privacy Policy that has terms substantially consistent with this Privacy Policy",
+            "conf": 0.9999997019767761,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "At your request, we will have any reference to you deleted or blocked in our database",
+            "conf": 0.9973533749580383,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may update, correct, or delete your Account information and preferences at any time by accessing your Account settings page on the Service",
+            "conf": 0.958881139755249,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so",
+            "conf": 0.9957244992256165,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out from the collection of navigation information about your",
+            "conf": 0.9407274127006531,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "to the Site by Google Analytics by using the Google Analytics Opt-out feature",
+            "conf": 0.9340264797210693,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "5.3 Opting out from Commercial Communications If you receive commercial emails from us, you may unsubscribe at any time by following the instructions contained within the email or by sending an email to the address provided in the \u201cHow to Contact Us\u201d section",
+            "conf": 0.9999058246612549,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please be aware that if you opt-out of receiving commercial email from us or otherwise modify the nature or frequency of promotional communications you receive from us, it may take up to ten (10) business days for us to process your request",
+            "conf": 0.999853253364563,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided through the Service.",
+            "conf": 0.985645055770874,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We may use special tools that are commonly used for this purpose, such as cookies, pixels, and similar technologies.",
+            "conf": 0.9986559152603149,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Our interest-based ads may be served to you in emails or on third-party platforms",
+            "conf": 0.9879489541053772,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Crowdin does not provide any personal information to the third party sites that display interest-based ads promoting Crowdin",
+            "conf": 0.9981015920639038,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisements that are tailored to your apparent interests",
+            "conf": 0.9952207803726196,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These cookies are used to deliver adverts more relevant to you and your interests",
+            "conf": 0.9816935062408447,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "Our Service is not directed to children under the age of 18, and we do not knowingly collect Personal Data from children under the age of 18 without obtaining parental consent",
+            "conf": 0.9999927878379822,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18 years of age, then please do not use or access the Service at any time or in any manner",
+            "conf": 0.9999991059303284,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We cannot ensure or warrant the security of any information you transmit to us or store on the Service, and you do so at your own risk",
+            "conf": 0.9365020990371704,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "DATA RETENTION We only retain the Personal Data collected from a User for as long as the User\u2019s account is active or otherwise for a limited period of time as long as we need it to fulfill the purposes for which we have initially collected it, unless otherwise required by law",
+            "conf": 0.9981393814086914,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "the contents of closed accounts are deleted within 3 months of the date of closure",
+            "conf": 0.9984371662139893,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "backups are kept for 3 months",
+            "conf": 0.9412787556648254,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "billing information is retained for a period of 7 years as of their provision to Crowdin in accordance with the Estonian accounting and taxation laws",
+            "conf": 0.9999720454216003,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "information on legal transactions between Client and Crowdin is retained for a period of 10 years as of their provision to Crowdin in accordance with the general limitation period set for civil claims in the Estonian General Part of the Civil Code Act",
+            "conf": 0.9795580506324768,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We may transfer, process and store Personal Data we collect through the Services in centralized databases and with service providers located in the U.S.",
+            "conf": 0.990710973739624,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Also, we may transfer your data to the U.S., the EEA, or other countries or regions deemed by the European Commission to provide adequate protection of personal data in connection with storage and processing of data, fulfilling your requests, and operating the Service",
+            "conf": 0.9999988079071045,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Crowdin is not responsible for the content of the Personal Data contained in the Client Data or other information stored on its servers (or its subcontractors\u2019 servers) at the discretion of the Client or User nor is Crowdin responsible for the manner in which the Client or User collects, handles disclosure, distributes or otherwise processes such information.",
+            "conf": 0.9954259991645813,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "CHANGES AND UPDATES TO THIS POLICY Please revisit this page periodically to stay aware of any changes to this Policy, which we may update from time to time",
+            "conf": 0.945360004901886,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last update: November 1, 2018",
+            "conf": 0.9999979138374329,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In the case of an individual, the individual must be at least 18 years of age or have valid authorization from his/her legal representative or custodian",
+            "conf": 0.9721291661262512,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "MODIFICATIONS TO TERMS Supplier reserves the right, at its sole discretion, to change, modify, add, or remove portions of the Terms at any time by posting such changes on or through the Platform or the Crowdin Services",
+            "conf": 0.9731263518333435,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Please check these Terms periodically for changes",
+            "conf": 0.9993258118629456,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Supplier will (a) make the Crowdin Services, Content and Client Data available to a Client pursuant to these Terms, (b) provide applicable standard support for the Crowdin Services to Client at no additional charge, and/or upgraded support (for an additional charge, if applicable), (c) use commercially reasonable efforts to make the Crowdin Services available 24 hours a day, 7 days a week, except for: (i) planned downtime (of which Supplier shall give advance electronic notice as provided in the Guidelines), and (ii) any unavailability caused by circumstances beyond Supplier\u2019s reasonable control, including, for example, an act of God, act of government, flood, fire, earthquake, civil unrest, act of terror, strike or other labor problem, Internet service provider failure or delay, or denial of service attack",
+            "conf": 0.999799907207489,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Supplier does not guarantee any accuracy with respect to any information contained in any Client Data, and strongly recommends that you think carefully about what you transmit, submit or post to or through the Crowdin Services",
+            "conf": 0.9788414835929871,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "This means that Client, and not Supplier, is entirely responsible for all Client Data that is uploaded, posted, transmitted, or otherwise made available through the Crowdin Services, as well as for any actions taken by the Suppliers or other Clients or Users as a result of such Client Data",
+            "conf": 0.9999905824661255,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "In addition, in the event Supplier believes in its sole discretion Client Data violates applicable laws, rules or regulations or these Terms, Supplier may (but has no obligation), to remove such Client Data at any time with or without notice",
+            "conf": 0.9901437759399414,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ceasing providing or discontinuing the development any particular Crowdin Service or part or element of the Platform temporarily or permanently;",
+            "conf": 0.9997561573982239,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Upon termination, Crowdin will store the Client\u2019s data for a period of six months, should the Client wish to reopen the Account to resume the use of the Crowdin Services or to export Client Data, unless instructed otherwise by the Client.",
+            "conf": 0.9904755353927612,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The Supplier deletes or returns all the personal data to the controller after the end of the provision of services relating to processing, and deletes existing copies unless Union or Member State law requires storage of the personal data",
+            "conf": 0.9999999403953552,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "By using any community marked code or libraries in your software development, you acknowledge and agree that Crowdin is not in any way responsible for the performance or damages caused by such community provided code or library",
+            "conf": 0.9990513920783997,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "NO WARRANTY UNLESS OTHERWISE EXPRESSLY STATED BY SUPPLIER, THE CROWDIN SERVICES, CROWDIN MATERIAL, AND ANY CONTENT, SERVICES, OR FEATURES MADE AVAILABLE IN CONJUNCTION WITH OR THROUGH THE CROWDIN SERVICES ARE PROVIDED \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED",
+            "conf": 0.9998801946640015,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, SUPPLIER AND ITS AFFILIATES DISCLAIM ALL WARRANTIES, STATUTORY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANT ABILITY, FITNESS FOR A",
+            "conf": 0.9871492385864258,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PARTICULAR PURPOSE, NON-INFRINGEMENT OF PROPRIETARY RIGHTS, CORRECTNESS, ACCURACY, AND RELIABILITY",
+            "conf": 0.9169216752052307,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "UNLESS OTHERWISE EXPRESSLY STATED BY SUPPLIER, SUPPLIER AND ITS AFFILIATES DO NOT WARRANT THAT THE CROWDIN SERVICES AND ANY CONTENT, CLIENT DATA SERVICES, OR FEATURES MADE AVAILABLE IN CONJUNCTION WITH OR THROUGH THE CROWDIN SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE CROWDIN SERVICES AND ANY CONTENT, CLIENT DATA, SERVICES, OR FEATURES MADE AVAILABLE IN CONJUNCTION WITH OR THROUGH THE CROWDIN SERVICES OR THE SERVER THAT MAKES THEM AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS",
+            "conf": 0.9999258518218994,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "UNLESS OTHERWISE EXPRESSLY STATED BY SUPPLIER, SUPPLIER AND ITS AFFILIATES DO NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE PLATFORM, THE Crowdin SERVICES, Crowdin MATERIAL OR ANY LINKED SITES, IN TERMS OF CORRECTNESS, ACCURACY, RELIABILITY, OR OTHERWISE",
+            "conf": 0.9994944334030151,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNIFICATION You agree to defend, indemnify and hold harmless Supplier and its affiliates, and their respective directors, officers, employees and agents, from any claims, losses, damages, liabilities, including attorney\u2019s fees, arising out of your use or misuse of the Crowdin Services, Crowdin Materials, representations made to the Supplier, its affiliates and/or third parties, violation of these Terms, violation of the rights of any other person or entity, or any breach of the foregoing representations, warranties, and covenants",
+            "conf": 0.9996487498283386,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Supplier reserves the right, at its own expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Supplier, and you agree to cooperate with such defense of these claims",
+            "conf": 0.9946334958076477,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "including any error, permanent or temporary interruption, discontinuance, suspension or other type of unavailability of the Crowdin Services or Crowdin Material;",
+            "conf": 0.9873676300048828,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In addition, Supplier and its affiliates shall not be liable to the Client for any claim by any User, person, Organization or third persons against the Client arising out of the Client",
+            "conf": 0.9356334805488586,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT WILL EITHER PARTY OR ITS AFFILIATES HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THESE TERMS FOR ANY LOST PROFITS, REVENUES, GOODWILL, OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER, BUSINESS INTERRUPTION OR PUNITIVE DAMAGES, WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY OF LIABILITY, EVEN IF A PARTY OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR IF A PARTY\u2019S OR ITS AFFILIATES\u2019 REMEDY OTHERWISE FAILS OF ITS ESSENTIAL PURPOSE.",
+            "conf": 0.9993445873260498,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "Upon termination of these Terms, Supplier shall deactivate and permanently delete the Account, within six months of the effective date of termination of these Terms",
+            "conf": 0.9478323459625244,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "We each agree that we shall bring any dispute against the other in our respective individual capacities and not as a plaintiff or class member in any purported class, representative proceeding or as an association",
+            "conf": 0.9999964833259583,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In addition, we each agree that disputes shall be arbitrated only on an individual basis and not in a class, consolidated or representative action",
+            "conf": 0.9999890923500061,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "or (2) in connection with a merger, reorganization, transfer, sale of assets or product lines, or change of control or ownership of the Client, or its permitted successive assignees or transferees",
+            "conf": 0.9999964833259583,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Failure of either Party to exercise or enforce any provision of or any of its rights under these Terms shall not be deemed a waiver of future enforcement of that or any other provision or right",
+            "conf": 0.9999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Except as otherwise specified in these Terms, all notices related to these Terms will be in writing and will be effective upon (a) personal delivery, (b) the second business day after mailing, or (c), except for notices of termination or an indemnifiable claim (\u201cLegal Notices\u201d), which shall clearly be identifiable as Legal Notices, the day of sending by email",
+            "conf": 0.9995442032814026,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 3.2
+}

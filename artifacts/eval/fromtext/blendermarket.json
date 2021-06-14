@@ -1,0 +1,110 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We\u2019ll never sell your data you share with the Blender Market",
+            "conf": 0.9946561455726624,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "timePersonal",
+            "conf": 0.9001655578613281,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "shall be processed and stored for as long as required by",
+            "conf": 0.9908983707427979,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "shall be retained as long as needed to fulfill such purposes",
+            "conf": 0.9124746322631836,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn",
+            "conf": 0.9976677894592285,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority",
+            "conf": 0.9977532625198364,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Once the retention period expires, Personal Data shall be deleted",
+            "conf": 0.9999585747718811,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period",
+            "conf": 0.9925795197486877,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "In addition to any opt-out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the Network Advertising Initiative opt-out page",
+            "conf": 0.9998984336853027,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Google Inc.)DoubleClick for Publishers is an advertising service provided by Google Inc.",
+            "conf": 0.9593157172203064,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "In addition to any opt out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the Network Advertising Initiative opt-out page",
+            "conf": 0.9999028444290161,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "DataThe Service is not directed to children under the age of 16Users declare themselves to be adult according to their applicable legislation",
+            "conf": 0.9999987483024597,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Under no circumstance persons under the age of 16 may use this Application",
+            "conf": 0.9999943375587463,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Have their Personal Data deleted or otherwise removed.&nbsp;Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.",
+            "conf": 0.9775568842887878,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Website and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner",
+            "conf": 0.9994460940361023,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 8.6
+}

@@ -1,0 +1,334 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Modified: May 31st, 2018",
+            "conf": 0.9999983310699463,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to our website",
+            "conf": 0.9999207854270935,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "It is your responsibility to check this page periodically for changes",
+            "conf": 0.9930105805397034,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "With respect to all visual depictions displayed on this website, whether of actual sexually explicit conduct, simulated sexual content or otherwise, all persons in said visual depictions were at least 18 years of age when said visual depictions were created",
+            "conf": 0.9750109910964966,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You affirm that you are at least 18 years of age and are fully able and competent to enter into the agreements set forth in these Terms of Service, and to abide by and comply with these Terms.",
+            "conf": 0.9859775304794312,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 18, you are prohibited from submitting personal information to us and use of the Services",
+            "conf": 0.9999991655349731,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for safeguarding your account credentials and for any activity resulting from the use of your account credentials or other activity on your account (\u201cAccount\u201d) on the Service.",
+            "conf": 0.9850877523422241,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant that the information you provide us upon registration, at all other times will be true, accurate, current, and complete",
+            "conf": 0.999957263469696,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we will not be liable for any loss or damage arising from unauthorized use of your credentials.",
+            "conf": 0.977704644203186,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We cannot guarantee that your computer monitor's display of any color will be accurate",
+            "conf": 0.9999964833259583,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "All descriptions of products or product pricing are subject to change at anytime without notice, at the sole discretion of us",
+            "conf": 0.9500701427459717,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right to discontinue any product at any time",
+            "conf": 0.9992227554321289,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Prices for our products are subject to change without notice",
+            "conf": 0.9733449816703796,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right at any time to modify or discontinue the Service (or any part or content thereof) without notice at any time",
+            "conf": 0.9999973773956299,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not warrant that the quality of any products, services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected",
+            "conf": 0.9999423623085022,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel your FAKKU Subscription at any time and will continue to have access to the Services until the end of your current billing period",
+            "conf": 0.9992316961288452,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Your Content is your sole responsibility and we are not responsible for any material that you upload, post, or otherwise make available",
+            "conf": 0.9991910457611084,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee the accuracy, quality, or integrity of any user posted content",
+            "conf": 0.9998606443405151,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we will not under any circumstances be liable for any user posted content",
+            "conf": 0.99985671043396,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to remove and permanently delete Your Content from the Service without notice for any reason",
+            "conf": 0.9994220733642578,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your own interactions with other Service users and will exercise caution, and common sense, while using the Services and disclosing any personal information to other Service users",
+            "conf": 0.9585742950439453,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may, but have no obligation to, monitor, edit or remove",
+            "conf": 0.9142441153526306,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we are not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party services.",
+            "conf": 0.9928573966026306,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate the agreement, your Account, and your access to the Services at any time and for any reason",
+            "conf": 0.997555136680603,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee, represent or warrant that your use of our service will be uninterrupted, timely, secure or error-free",
+            "conf": 0.9999907612800598,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not warrant that the results that may be obtained from the use of the service will be accurate or reliable",
+            "conf": 0.9999936819076538,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that from time to time we may remove the service for indefinite periods of time or cancel the service at any time, without notice to you",
+            "conf": 0.9984499216079712,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The service and all products and services delivered to you through the service are (except as expressly stated by us) provided 'as is' and 'as available' for your use, without any representation, warranties or conditions of any kind, either express or implied, including all implied warranties or conditions of merchantability, merchantable quality, fitness for a particular purpose, durability, title, and non-infringement",
+            "conf": 0.9999967217445374,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "In no case shall FAKKU, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, service providers or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the service or any products procured using the service, or for any other claim related in any way to your use of the service or any product, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the service or any content (or product) posted, transmitted, or otherwise made available via the service, even if advised of their possibility.",
+            "conf": 0.9967848062515259,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold FAKKU, LLC harmless from and against any loss, liability, claim, demand, damages, costs and expenses, including reasonable attorney's fees, arising out of or in connection with (i) your use of and access to the Services",
+            "conf": 0.9999944567680359,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website",
+            "conf": 0.9999276995658875,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "It is your responsibility to check our website periodically for changes",
+            "conf": 0.9125598669052124,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Modified: May 24th, 2018",
+            "conf": 0.999998152256012,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We also use third party analytic tools, such as Google Analytics, on our Services that employ cookies to collection information concerning your use of the Services",
+            "conf": 0.999907374382019,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use other similar technologies such as Pixel Tags (transparent graphic images place on a page or in an email) to indicate that a page or email has been viewed by you.",
+            "conf": 0.9990841746330261,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here:",
+            "conf": 0.9999987483024597,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "https://www.google.com/intl/en/policies/privacy/.",
+            "conf": 0.9999977946281433,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout",
+            "conf": 0.9845659732818604,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "However, no security measure is ever fully secure or error free, therefore we do not, and cannot, guarantee the security of user information",
+            "conf": 0.9996433854103088,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted",
+            "conf": 0.9874465465545654,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States",
+            "conf": 0.9988051056861877,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Due to there being no accepted standard on how to respond, please note that we do not alter our Service\u2019s data collection and use practices when we see a Do Not Track signal from your browser.",
+            "conf": 0.9843451380729675,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "When interacting with the Services, including when submitting a Payment or Order, we will maintain your Information for our records unless and until you ask us to delete this information",
+            "conf": 0.9874186515808105,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Our Services are strictly limited to adults 18 years of age and over",
+            "conf": 0.999938428401947,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update this Privacy Policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons",
+            "conf": 0.9405727386474609,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to update or modify this Privacy Policy at any time without prior notice",
+            "conf": 0.9999850988388062,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This Privacy Policy was last modified on the date indicated at the beginning of the policy",
+            "conf": 0.9999566078186035,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.0
+}

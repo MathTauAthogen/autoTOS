@@ -1,0 +1,1153 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Terms of Service Last modified: May 7, 2020",
+            "conf": 0.9999958276748657,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using or accessing the Discord application (the \u201cApp\u201d) or the website located at https://discord.com (the \"Site\"), which are collectively referred to as the \u201cService,\u201d you agree (i) that you are 13 years of age and the minimum age of digital consent in your country, (ii) if you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms, and (iii) if you are between 13 (or the minimum age of digital consent, as applicable) and the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms.",
+            "conf": 0.9966161251068115,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice",
+            "conf": 0.9999977946281433,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company reserves the right to refuse any user access to the Services without notice for any reason, including but not limited to a violation of the Terms",
+            "conf": 0.9981760382652283,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": ".YOUR ACCOUNT You are responsible for your log-in credentials and for any activity resulting from the use of your log-in credentials or other activity on your account (\u201cAccount\u201d) on the Service.",
+            "conf": 0.9824889898300171,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant that the information you provide to us upon registration and at all other times will be true, accurate, current, and complete",
+            "conf": 0.9999236464500427,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to reject any username or to terminate your username or prevent use of a username in our sole discretion, and without any liability to you",
+            "conf": 0.9943784475326538,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your log-in credentials and are fully responsible for all activities that occur through the use of your credentials or otherwise on your Account.",
+            "conf": 0.9971297979354858,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we will not be liable for any loss or damage arising from unauthorized use of your credentials",
+            "conf": 0.9968735575675964,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "For any direct marketing messages, we will ensure that we obtain your consent first, and also make it easy for you to opt out \u2014 we don\u2019t want to send you messages you don\u2019t want",
+            "conf": 0.9381884932518005,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "All of Your Content is your sole responsibility and the Company is not responsible for any material that you upload, post, or otherwise make available",
+            "conf": 0.9969910979270935,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company does not guarantee the accuracy, quality, or integrity of any user content posted",
+            "conf": 0.9999467134475708,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that the Company will not under any circumstances be liable for any user content, including, but not limited to, errors in any user content, or any loss or damage incurred by use of user content.",
+            "conf": 0.9884641766548157,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The Company reserves the right to remove and permanently delete Your Content from the Service with or without notice for any reason or no reason",
+            "conf": 0.9995378851890564,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company may also terminate or suspend your access to any Communication Channels at any time, without notice, for any reason",
+            "conf": 0.9994494318962097,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company is not responsible for information that you choose to share on the Communication Channels, or for the actions of other users.",
+            "conf": 0.9957810044288635,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ", but such use does not indicate that we endorse them or are responsible or liable for their actions",
+            "conf": 0.9362527132034302,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for nor do we endorse these third-party websites or the organizations sponsoring such third-party websites or their products or services, whether or not we are affiliated with such third-party websites",
+            "conf": 0.9897109270095825,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we are not responsible or liable for any loss or damage of any sort incurred as a result of any such dealings you may have on or through a third-party website or as a result of the presence of any third-party advertising on the Service.USER DISPUTES You are solely responsible for your interaction with other users of the Service and other parties that you come in contact with through the Service.",
+            "conf": 0.9963347911834717,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The Company may also at its sole discretion limit access to the Service and/or terminate the memberships of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement",
+            "conf": 0.9969246983528137,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "TERMINATION You may terminate your Account at any time and for any reason by deleting your account through the User Settings page in the application .",
+            "conf": 0.9985042810440063,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company may terminate your Account and your access to the Service (or, at the Company's sole option, applicable portions of the Service) at any time and for any reason",
+            "conf": 0.9995832443237305,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WARRANTY THE SERVICES AND THE SERVICE MATERIALS ARE PROVIDED \"AS IS\" AND \u201cAS AVAILABLE\u201d WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT",
+            "conf": 0.9666582942008972,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IN ADDITION, WHILE THE COMPANY ATTEMPTS TO PROVIDE A GOOD USER EXPERIENCE, WE CANNOT AND DO NOT REPRESENT OR WARRANT THAT THE SERVICES WILL ALWAYS BE SECURE OR ERROR-FREE OR THAT THE SERVICES WILL ALWAYS FUNCTION WITHOUT DELAYS, DISRUPTIONS, OR IMPERFECTIONS",
+            "conf": 0.9999902248382568,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE FOREGOING DISCLAIMERS SHALL APPLY TO THE EXTENT PERMITTED BY APPLICABLE LAW.LIMITATION OF LIABILITY TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL THE COMPANY, BE LIABLE TO YOU OR TO ANY THIRD PERSON FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR OTHER INDIRECT DAMAGES, INCLUDING ANY LOST PROFITS OR LOST DATA, ARISING FROM YOUR USE OF THE SERVICE OR OTHER MATERIALS ON, ACCESSED THROUGH OR DOWNLOADED FROM THE SERVICE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES.THE COMPANY SHALL NOT BE LIABLE TO YOU FOR MORE THAN THE GREATER OF (A) THE AMOUNT YOU HAVE PAID TO US IN ACCORDANCE WITH THESE TERMS IN THE THREE (3) MONTHS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT A CLAIM OR (B) $100.",
+            "conf": 0.9959756731987,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You specifically acknowledge that the Company shall not be liable for user content, including without limitation Your Content, or the defamatory, offensive, or illegal conduct of any third party and that the risk of harm or damage from the foregoing rests entirely with you",
+            "conf": 0.997832715511322,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNIFICATION You agree to indemnify and hold the Company, harmless from and against any loss, liability, claim, demand, damages, costs and expenses, including reasonable attorney's fees, arising out of or in connection with (i) your use of and access to the Service",
+            "conf": 0.9993616938591003,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Prices and availability of Virtual Goods are subject to change without notice",
+            "conf": 0.9779176712036133,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Nonetheless, there may be times when certain information contained on the Service may be incorrect, incomplete, or inaccurate, or appear inaccurate because of the browser, hardware, software, or other technology that you use",
+            "conf": 0.9375336766242981,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may, in our sole discretion, cancel your payment at any time by providing notice to you through your contact information or by a notice when you attempt to make a payment",
+            "conf": 0.9670975804328918,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Nitro subscription at any time, and you will continue to have access to Nitro through the end of the current subscription period",
+            "conf": 0.998699963092804,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "The notice must be sent within 90 days of this Terms of Service taking effect, or your account creation on the Service",
+            "conf": 0.9618043303489685,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Discord and you agree to resolve any dispute in an individual capacity, and not on behalf of, or as part of, any purported class, consolidated, or representative proceeding",
+            "conf": 0.9999976754188538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The arbitrator cannot combine more than one person\u2019s or entity\u2019s claims into a single case, and cannot preside over any consolidated, class or representative proceeding (unless we agree otherwise).",
+            "conf": 0.9999996423721313,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any court or arbitrator determines that the class/consolidated/representative action waiver set forth in this section is void or unenforceable for any reason or that arbitration can proceed on a class, consolidated, or representative basis, then the disputes, claims, or controversies will not be subject to arbitration and must be litigated in federal court located in San Francisco, California",
+            "conf": 0.9999919533729553,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of the Company to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision, and no waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default",
+            "conf": 0.9999948740005493,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Service Last modified: October 19, 2018",
+            "conf": 0.9999953508377075,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using or accessing the Discord application (the \u201cApp\u201d) or the website located at https://discordapp.com (the \"Site\"), which are collectively referred to as the \u201cService,\u201d you agree (i) that you are 13 years of age or older, (ii) if you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms, and (iii) if you are between 13 and the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms.",
+            "conf": 0.9965481162071228,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice",
+            "conf": 0.9999977946281433,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company reserves the right to refuse any user access to the Services without notice for any reason, including but not limited to a violation of the Terms",
+            "conf": 0.9981760382652283,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": ".YOUR ACCOUNT You are responsible for your log-in credentials and for any activity resulting from the use of your log-in credentials or other activity on your account (\u201cAccount\u201d) on the Service.",
+            "conf": 0.9824889898300171,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant that the information you provide to us upon registration and at all other times will be true, accurate, current, and complete",
+            "conf": 0.9999236464500427,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to reject any username or to terminate your username or prevent use of a username in our sole discretion, and without any liability to you",
+            "conf": 0.9943784475326538,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your log-in credentials and are fully responsible for all activities that occur through the use of your credentials or otherwise on your Account.",
+            "conf": 0.9971297979354858,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we will not be liable for any loss or damage arising from unauthorized use of your credentials",
+            "conf": 0.9968735575675964,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "For any direct marketing messages, we will ensure that we obtain your consent first, and also make it easy for you to opt out \u2014 we don\u2019t want to send you messages you don\u2019t want",
+            "conf": 0.9381884932518005,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "All of Your Content is your sole responsibility and the Company is not responsible for any material that you upload, post, or otherwise make available",
+            "conf": 0.9969910979270935,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company does not guarantee the accuracy, quality, or integrity of any user content posted",
+            "conf": 0.9999467134475708,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that the Company will not under any circumstances be liable for any user content, including, but not limited to, errors in any user content, or any loss or damage incurred by use of user content.",
+            "conf": 0.9884641766548157,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The Company reserves the right to remove and permanently delete Your Content from the Service with or without notice for any reason or no reason",
+            "conf": 0.9995378851890564,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company may also terminate or suspend your access to any Communication Channels at any time, without notice, for any reason",
+            "conf": 0.9994494318962097,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company is not responsible for information that you choose to share on the Communication Channels, or for the actions of other users.",
+            "conf": 0.9957810044288635,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ", but such use does not indicate that we endorse them or are responsible or liable for their actions",
+            "conf": 0.9362527132034302,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for nor do we endorse these third-party websites or the organizations sponsoring such third-party websites or their products or services, whether or not we are affiliated with such third-party websites",
+            "conf": 0.9897109270095825,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we are not responsible or liable for any loss or damage of any sort incurred as a result of any such dealings you may have on or through a third-party website or as a result of the presence of any third-party advertising on the Service.USER DISPUTES You are solely responsible for your interaction with other users of the Service and other parties that you come in contact with through the Service.",
+            "conf": 0.9963347911834717,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The Company may also at its sole discretion limit access to the Service and/or terminate the memberships of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement",
+            "conf": 0.9969246983528137,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "TERMINATION You may terminate your Account at any time and for any reason by deleting your account through the User Settings page in the application .",
+            "conf": 0.9985042810440063,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company may terminate your Account and your access to the Service (or, at the Company's sole option, applicable portions of the Service) at any time and for any reason",
+            "conf": 0.9995832443237305,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WARRANTY THE SERVICES AND THE SERVICE MATERIALS ARE PROVIDED \"AS IS\" AND \u201cAS AVAILABLE\u201d WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT",
+            "conf": 0.9666584730148315,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IN ADDITION, WHILE THE COMPANY ATTEMPTS TO PROVIDE A GOOD USER EXPERIENCE, WE CANNOT AND DO NOT REPRESENT OR WARRANT THAT THE SERVICES WILL ALWAYS BE SECURE OR ERROR-FREE OR THAT THE SERVICES WILL ALWAYS FUNCTION WITHOUT DELAYS, DISRUPTIONS, OR IMPERFECTIONS",
+            "conf": 0.9999902248382568,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE FOREGOING DISCLAIMERS SHALL APPLY TO THE EXTENT PERMITTED BY APPLICABLE LAW.LIMITATION OF LIABILITY TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL THE COMPANY, BE LIABLE TO YOU OR TO ANY THIRD PERSON FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR OTHER INDIRECT DAMAGES, INCLUDING ANY LOST PROFITS OR LOST DATA, ARISING FROM YOUR USE OF THE SERVICE OR OTHER MATERIALS ON, ACCESSED THROUGH OR DOWNLOADED FROM THE SERVICE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES.THE COMPANY SHALL NOT BE LIABLE TO YOU FOR MORE THAN THE GREATER OF (A) THE AMOUNT YOU HAVE PAID TO US IN ACCORDANCE WITH THESE TERMS IN THE THREE (3) MONTHS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT A CLAIM OR (B) $100.",
+            "conf": 0.9959756731987,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You specifically acknowledge that the Company shall not be liable for user content, including without limitation Your Content, or the defamatory, offensive, or illegal conduct of any third party and that the risk of harm or damage from the foregoing rests entirely with you",
+            "conf": 0.997832715511322,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNIFICATION You agree to indemnify and hold the Company, harmless from and against any loss, liability, claim, demand, damages, costs and expenses, including reasonable attorney's fees, arising out of or in connection with (i) your use of and access to the Service",
+            "conf": 0.9993616938591003,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Prices and availability of Virtual Goods are subject to change without notice",
+            "conf": 0.9779175519943237,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Nonetheless, there may be times when certain information contained on the Service may be incorrect, incomplete, or inaccurate, or appear inaccurate because of the browser, hardware, software, or other technology that you use",
+            "conf": 0.9375336766242981,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may, in our sole discretion, cancel your payment at any time by providing notice to you through your contact information or by a notice when you attempt to make a payment",
+            "conf": 0.9670975804328918,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Nitro subscription at any time, and you will continue to have access to Nitro through the end of the current subscription period",
+            "conf": 0.998699963092804,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "The notice must be sent within 90 days of this Terms of Service taking effect, or your account creation on the Service",
+            "conf": 0.9618037939071655,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Discord and you agree to resolve any dispute in an individual capacity, and not on behalf of, or as part of, any purported class, consolidated, or representative proceeding",
+            "conf": 0.9999976754188538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The arbitrator cannot combine more than one person\u2019s or entity\u2019s claims into a single case, and cannot preside over any consolidated, class or representative proceeding (unless we agree otherwise).",
+            "conf": 0.9999996423721313,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any court or arbitrator determines that the class/consolidated/representative action waiver set forth in this section is void or unenforceable for any reason or that arbitration can proceed on a class, consolidated, or representative basis, then the disputes, claims, or controversies will not be subject to arbitration and must be litigated in federal court located in San Francisco, California",
+            "conf": 0.9999919533729553,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of the Company to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision, and no waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default",
+            "conf": 0.9999948740005493,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Service Last modified: October 19, 2018",
+            "conf": 0.9999953508377075,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using or accessing the Discord application (the \u201cApp\u201d) or the website located at https://discordapp.com (the \"Site\"), which are collectively referred to as the \u201cService,\u201d you agree (i) that you are 13 years of age or older, (ii) if you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms, and (iii) if you are between 13 and the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms.",
+            "conf": 0.9965481162071228,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice",
+            "conf": 0.9999977946281433,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company reserves the right to refuse any user access to the Services without notice for any reason, including but not limited to a violation of the Terms",
+            "conf": 0.9981760382652283,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": ".YOUR ACCOUNT You are responsible for your log-in credentials and for any activity resulting from the use of your log-in credentials or other activity on your account (\u201cAccount\u201d) on the Service.",
+            "conf": 0.9824889898300171,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant that the information you provide to us upon registration and at all other times will be true, accurate, current, and complete",
+            "conf": 0.9999236464500427,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to reject any username or to terminate your username or prevent use of a username in our sole discretion, and without any liability to you",
+            "conf": 0.9943784475326538,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your log-in credentials and are fully responsible for all activities that occur through the use of your credentials or otherwise on your Account.",
+            "conf": 0.9971297979354858,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we will not be liable for any loss or damage arising from unauthorized use of your credentials",
+            "conf": 0.9968735575675964,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "For any direct marketing messages, we will ensure that we obtain your consent first, and also make it easy for you to opt out \u2014 we don\u2019t want to send you messages you don\u2019t want",
+            "conf": 0.9381884932518005,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "All of Your Content is your sole responsibility and the Company is not responsible for any material that you upload, post, or otherwise make available",
+            "conf": 0.9969910979270935,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company does not guarantee the accuracy, quality, or integrity of any user content posted",
+            "conf": 0.9999467134475708,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that the Company will not under any circumstances be liable for any user content, including, but not limited to, errors in any user content, or any loss or damage incurred by use of user content.",
+            "conf": 0.9884641766548157,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The Company reserves the right to remove and permanently delete Your Content from the Service with or without notice for any reason or no reason",
+            "conf": 0.9995378851890564,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company may also terminate or suspend your access to any Communication Channels at any time, without notice, for any reason",
+            "conf": 0.9994494318962097,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company is not responsible for information that you choose to share on the Communication Channels, or for the actions of other users.",
+            "conf": 0.9957810044288635,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ", but such use does not indicate that we endorse them or are responsible or liable for their actions",
+            "conf": 0.9362527132034302,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for nor do we endorse these third-party websites or the organizations sponsoring such third-party websites or their products or services, whether or not we are affiliated with such third-party websites",
+            "conf": 0.9897109270095825,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we are not responsible or liable for any loss or damage of any sort incurred as a result of any such dealings you may have on or through a third-party website or as a result of the presence of any third-party advertising on the Service.USER DISPUTES You are solely responsible for your interaction with other users of the Service and other parties that you come in contact with through the Service.",
+            "conf": 0.9963347911834717,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The Company may also at its sole discretion limit access to the Service and/or terminate the memberships of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement",
+            "conf": 0.9969246983528137,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "TERMINATION You may terminate your Account at any time and for any reason by deleting your account through the User Settings page in the application .",
+            "conf": 0.9985042810440063,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company may terminate your Account and your access to the Service (or, at the Company's sole option, applicable portions of the Service) at any time and for any reason",
+            "conf": 0.9995832443237305,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WARRANTY THE SERVICES AND THE SERVICE MATERIALS ARE PROVIDED \"AS IS\" AND \u201cAS AVAILABLE\u201d WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT",
+            "conf": 0.9666582942008972,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IN ADDITION, WHILE THE COMPANY ATTEMPTS TO PROVIDE A GOOD USER EXPERIENCE, WE CANNOT AND DO NOT REPRESENT OR WARRANT THAT THE SERVICES WILL ALWAYS BE SECURE OR ERROR-FREE OR THAT THE SERVICES WILL ALWAYS FUNCTION WITHOUT DELAYS, DISRUPTIONS, OR IMPERFECTIONS",
+            "conf": 0.9999902248382568,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE FOREGOING DISCLAIMERS SHALL APPLY TO THE EXTENT PERMITTED BY APPLICABLE LAW.LIMITATION OF LIABILITY TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL THE COMPANY, BE LIABLE TO YOU OR TO ANY THIRD PERSON FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR OTHER INDIRECT DAMAGES, INCLUDING ANY LOST PROFITS OR LOST DATA, ARISING FROM YOUR USE OF THE SERVICE OR OTHER MATERIALS ON, ACCESSED THROUGH OR DOWNLOADED FROM THE SERVICE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES.THE COMPANY SHALL NOT BE LIABLE TO YOU FOR MORE THAN THE GREATER OF (A) THE AMOUNT YOU HAVE PAID TO US IN ACCORDANCE WITH THESE TERMS IN THE THREE (3) MONTHS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT A CLAIM OR (B) $100.",
+            "conf": 0.9959756731987,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You specifically acknowledge that the Company shall not be liable for user content, including without limitation Your Content, or the defamatory, offensive, or illegal conduct of any third party and that the risk of harm or damage from the foregoing rests entirely with you",
+            "conf": 0.997832715511322,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNIFICATION You agree to indemnify and hold the Company, harmless from and against any loss, liability, claim, demand, damages, costs and expenses, including reasonable attorney's fees, arising out of or in connection with (i) your use of and access to the Service",
+            "conf": 0.9993616938591003,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Prices and availability of Virtual Goods are subject to change without notice",
+            "conf": 0.9779176712036133,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Nonetheless, there may be times when certain information contained on the Service may be incorrect, incomplete, or inaccurate, or appear inaccurate because of the browser, hardware, software, or other technology that you use",
+            "conf": 0.9375336766242981,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may, in our sole discretion, cancel your payment at any time by providing notice to you through your contact information or by a notice when you attempt to make a payment",
+            "conf": 0.9670975804328918,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Nitro subscription at any time, and you will continue to have access to Nitro through the end of the current subscription period",
+            "conf": 0.998699963092804,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "The notice must be sent within 90 days of this Terms of Service taking effect, or your account creation on the Service",
+            "conf": 0.9618043303489685,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Discord and you agree to resolve any dispute in an individual capacity, and not on behalf of, or as part of, any purported class, consolidated, or representative proceeding",
+            "conf": 0.9999976754188538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The arbitrator cannot combine more than one person\u2019s or entity\u2019s claims into a single case, and cannot preside over any consolidated, class or representative proceeding (unless we agree otherwise).",
+            "conf": 0.9999996423721313,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any court or arbitrator determines that the class/consolidated/representative action waiver set forth in this section is void or unenforceable for any reason or that arbitration can proceed on a class, consolidated, or representative basis, then the disputes, claims, or controversies will not be subject to arbitration and must be litigated in federal court located in San Francisco, California",
+            "conf": 0.9999919533729553,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of the Company to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision, and no waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default",
+            "conf": 0.9999948740005493,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last modified: JUNE 14, 2018",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective: MAY 25, 2018",
+            "conf": 0.9999929070472717,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "In addition, we use technologies such as web beacons and single-pixel gifs to record log data such as open rates for emails sent by the system.",
+            "conf": 0.9946569204330444,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use third party web site analytic tools such as Google Analytics on our website that employ cookies to collect certain information concerning your use of our Services",
+            "conf": 0.9997985363006592,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Our Services currently do not respond to \u201cDo Not Track\u201d (DNT) signals and operate as described in this Privacy Policy whether or not a DNT signal is received, as there is no consistent industry standard for compliance",
+            "conf": 0.9998320937156677,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "DISCLOSURE OF YOUR INFORMATION The Company is not in the business of selling your information",
+            "conf": 0.9257064461708069,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "As we develop our business, we might sell or buy businesses or assets",
+            "conf": 0.9591802358627319,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "In the event of a corporate sale, merger, reorganization, bankruptcy, dissolution or similar event, your information may be part of the transferred assets",
+            "conf": 0.9651795029640198,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "CHILDREN Our Services are for users age 13 and over and we do not knowingly collect personal information from children under the age of 13",
+            "conf": 0.9716576337814331,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "For residents of the EEA, where processing of personal information is based on consent, Discord will not knowingly engage in that processing for users under the age of consent established by applicable data protection law",
+            "conf": 0.913898766040802,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We generally retain personal data for so long as it may be relevant to the purposes identified herein",
+            "conf": 0.988581120967865,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To dispose of personal data, we may anonymize it, delete it or take other appropriate steps",
+            "conf": 0.9984946846961975,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "However, no Internet or email transmission is ever fully secure or error free",
+            "conf": 0.999984622001648,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can update certain information by accessing your profile via \u201cSettings",
+            "conf": 0.9992724657058716,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "\u201d You can also unsubscribe from certain emails by clicking the \u201cunsubscribe\u201d link they contain",
+            "conf": 0.9997984766960144,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them (including, in some cases, in portable form), and to obtain its correction, update, amendment or deletion in appropriate circumstances",
+            "conf": 0.9992585182189941,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "How do I correct, update, amend, or delete the personal data you have about me?",
+            "conf": 0.9983683228492737,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may also click the \u201cunsubscribe\u201d link in any of our marketing emails",
+            "conf": 0.9953677654266357,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice",
+            "conf": 0.9999082088470459,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "This Privacy Policy was last updated on the date indicated above",
+            "conf": 0.9999758005142212,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "For everyone else, these Terms will go into effect on November 2, 2018.Discord Terms of Service Last modified: October 19, 2018",
+            "conf": 0.999667227268219,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using or accessing the Discord application (the \u201cApp\u201d) or the website located at https://discordapp.com (the \"Site\"), which are collectively referred to as the \u201cService,\u201d you agree (i) that you are 13 years of age or older, (ii) if you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms, and (iii) if you are between 13 and the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms.",
+            "conf": 0.9965481162071228,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice",
+            "conf": 0.9999977946281433,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company reserves the right to refuse any user access to the Services without notice for any reason, including but not limited to a violation of the Terms",
+            "conf": 0.9981760382652283,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": ".YOUR ACCOUNT You are responsible for your log-in credentials and for any activity resulting from the use of your log-in credentials or other activity on your account (\u201cAccount\u201d) on the Service.",
+            "conf": 0.9824889302253723,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You represent and warrant that the information you provide to us upon registration and at all other times will be true, accurate, current, and complete",
+            "conf": 0.9999236464500427,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to reject any username or to terminate your username or prevent use of a username in our sole discretion, and without any liability to you",
+            "conf": 0.9943784475326538,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your log-in credentials and are fully responsible for all activities that occur through the use of your credentials or otherwise on your Account.",
+            "conf": 0.9971297979354858,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we will not be liable for any loss or damage arising from unauthorized use of your credentials",
+            "conf": 0.9968735575675964,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "For any direct marketing messages, we will ensure that we obtain your consent first, and also make it easy for you to opt out \u2014 we don\u2019t want to send you messages you don\u2019t want",
+            "conf": 0.9381875991821289,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "All of Your Content is your sole responsibility and the Company is not responsible for any material that you upload, post, or otherwise make available",
+            "conf": 0.9969910979270935,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Company does not guarantee the accuracy, quality, or integrity of any user content posted",
+            "conf": 0.9999467134475708,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that the Company will not under any circumstances be liable for any user content, including, but not limited to, errors in any user content, or any loss or damage incurred by use of user content.",
+            "conf": 0.9884641766548157,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The Company reserves the right to remove and permanently delete Your Content from the Service with or without notice for any reason or no reason",
+            "conf": 0.9995378851890564,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company may also terminate or suspend your access to any Communication Channels at any time, without notice, for any reason",
+            "conf": 0.9994494318962097,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company is not responsible for information that you choose to share on the Communication Channels, or for the actions of other users.",
+            "conf": 0.9957810044288635,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ", but such use does not indicate that we endorse them or are responsible or liable for their actions",
+            "conf": 0.9362527132034302,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for nor do we endorse these third-party websites or the organizations sponsoring such third-party websites or their products or services, whether or not we are affiliated with such third-party websites",
+            "conf": 0.9897109270095825,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that we are not responsible or liable for any loss or damage of any sort incurred as a result of any such dealings you may have on or through a third-party website or as a result of the presence of any third-party advertising on the Service.USER DISPUTES You are solely responsible for your interaction with other users of the Service and other parties that you come in contact with through the Service.",
+            "conf": 0.9963347911834717,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The Company may also at its sole discretion limit access to the Service and/or terminate the memberships of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement",
+            "conf": 0.9969246983528137,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "TERMINATION You may terminate your Account at any time and for any reason by deleting your account through the User Settings page in the application .",
+            "conf": 0.9985042810440063,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "The Company may terminate your Account and your access to the Service (or, at the Company's sole option, applicable portions of the Service) at any time and for any reason",
+            "conf": 0.9995832443237305,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WARRANTY THE SERVICES AND THE SERVICE MATERIALS ARE PROVIDED \"AS IS\" AND \u201cAS AVAILABLE\u201d WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT",
+            "conf": 0.9666582942008972,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "IN ADDITION, WHILE THE COMPANY ATTEMPTS TO PROVIDE A GOOD USER EXPERIENCE, WE CANNOT AND DO NOT REPRESENT OR WARRANT THAT THE SERVICES WILL ALWAYS BE SECURE OR ERROR-FREE OR THAT THE SERVICES WILL ALWAYS FUNCTION WITHOUT DELAYS, DISRUPTIONS, OR IMPERFECTIONS",
+            "conf": 0.9999902248382568,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE FOREGOING DISCLAIMERS SHALL APPLY TO THE EXTENT PERMITTED BY APPLICABLE LAW.LIMITATION OF LIABILITY TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL THE COMPANY, BE LIABLE TO YOU OR TO ANY THIRD PERSON FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR OTHER INDIRECT DAMAGES, INCLUDING ANY LOST PROFITS OR LOST DATA, ARISING FROM YOUR USE OF THE SERVICE OR OTHER MATERIALS ON, ACCESSED THROUGH OR DOWNLOADED FROM THE SERVICE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES.THE COMPANY SHALL NOT BE LIABLE TO YOU FOR MORE THAN THE GREATER OF (A) THE AMOUNT YOU HAVE PAID TO US IN ACCORDANCE WITH THESE TERMS IN THE THREE (3) MONTHS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT A CLAIM OR (B) $100.",
+            "conf": 0.9959756731987,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You specifically acknowledge that the Company shall not be liable for user content, including without limitation Your Content, or the defamatory, offensive, or illegal conduct of any third party and that the risk of harm or damage from the foregoing rests entirely with you",
+            "conf": 0.997832715511322,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNIFICATION You agree to indemnify and hold the Company, harmless from and against any loss, liability, claim, demand, damages, costs and expenses, including reasonable attorney's fees, arising out of or in connection with (i) your use of and access to the Service",
+            "conf": 0.9993616938591003,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Prices and availability of Virtual Goods are subject to change without notice",
+            "conf": 0.9779176712036133,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Nonetheless, there may be times when certain information contained on the Service may be incorrect, incomplete, or inaccurate, or appear inaccurate because of the browser, hardware, software, or other technology that you use",
+            "conf": 0.9375336766242981,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may, in our sole discretion, cancel your payment at any time by providing notice to you through your contact information or by a notice when you attempt to make a payment",
+            "conf": 0.9670975804328918,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Nitro subscription at any time, and you will continue to have access to Nitro through the end of the current subscription period",
+            "conf": 0.998699963092804,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "The notice must be sent within 90 days of this Terms of Service taking effect, or your account creation on the Service",
+            "conf": 0.9618045091629028,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Discord and you agree to resolve any dispute in an individual capacity, and not on behalf of, or as part of, any purported class, consolidated, or representative proceeding",
+            "conf": 0.9999976754188538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The arbitrator cannot combine more than one person\u2019s or entity\u2019s claims into a single case, and cannot preside over any consolidated, class or representative proceeding (unless we agree otherwise).",
+            "conf": 0.9999996423721313,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any court or arbitrator determines that the class/consolidated/representative action waiver set forth in this section is void or unenforceable for any reason or that arbitration can proceed on a class, consolidated, or representative basis, then the disputes, claims, or controversies will not be subject to arbitration and must be litigated in federal court located in San Francisco, California",
+            "conf": 0.9999919533729553,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of the Company to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision, and no waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default",
+            "conf": 0.9999948740005493,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.4
+}

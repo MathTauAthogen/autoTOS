@@ -1,0 +1,481 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Media Terms and conditions  Fri 19 Mar 2010 11.43&nbsp;EDT First published on Fri 19 Mar 2010 11.43&nbsp;EDT",
+            "conf": 0.9999002814292908,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree to be responsible for maintaining the confidentiality of your passwords or other account identifiers which you choose and all activities that occur under your account.",
+            "conf": 0.9979625344276428,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "By registering on the Guardian Site, you agree that: (i) your account and password are personal to you and may not be used by anyone else to access the Guardian Site;",
+            "conf": 0.9999919533729553,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you no longer wish to have a registered account, you may terminate your account by sending an email to userhelp@theguardian.com",
+            "conf": 0.9998621940612793,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "If, for any reason, we believe that you have not complied with these terms and conditions, we may, at our sole discretion, cancel your access to the registration areas of Guardian Site immediately and without prior notice",
+            "conf": 0.9582201838493347,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "For the avoidance of confusion, we will not be liable for any loss caused as a result of your doing, or not doing, anything as a result of viewing, reading or listening to the Guardian Content or any part of it.",
+            "conf": 0.9905607104301453,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "These sites are not under our control and we are not responsible in any way for any of their contents.",
+            "conf": 0.9821499586105347,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We give no warranties of any kind concerning the Guardian Site or the Guardian Content",
+            "conf": 0.999923050403595,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "In particular, we do not warrant that the Guardian Site or any of its contents is virus free",
+            "conf": 0.9999603629112244,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Although we will do our best to provide constant, uninterrupted access to the Guardian Site, we do not guarantee this",
+            "conf": 0.9999792575836182,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge and agree that when you post content on the Guardian Site or view content provided by others, you are doing so at your own discretion and risk, including any reliance on the accuracy, completeness, of that content",
+            "conf": 0.9531300067901611,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may remove your content from use at any time",
+            "conf": 0.9949671626091003,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Guardian assumes no responsibility for the deletion or failure to store postings of content or other information submitted by you or other users to the Guardian Site",
+            "conf": 0.9987936615943909,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 16, you confirm that you have permission of your parent or guardian to submit content",
+            "conf": 0.9996353983879089,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "In addition to the limitations on our liability set out in Section 4, 16 and 17, we shall not be liable for any damage caused to or interference with any equipment or other Apps or content of any description",
+            "conf": 0.9906383752822876,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Please note that we may change these terms and conditions from time to time at our sole discretion and we reserve the right to do without your consent",
+            "conf": 0.9999748468399048,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify, and hold harmless Guardian, its parents, subsidiaries, and affiliates, and each of their respective officers, directors, and employees from any and all claims, liabilities, costs, and expenses, including, but not limited to, attorneys\u2019 fees and expenses, arising out a breach by you or any user of your account of these terms and conditions or privacy policy or arising out of a breach of your obligations, representation and warranties under these terms and conditions",
+            "conf": 0.9999979734420776,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to insist upon or enforce any provision of these terms of service shall not be construed as a waiver of any provision or right of Guardian",
+            "conf": 0.9999953508377075,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Guardian Site is provided \u201cas is\u201d and \u201cas available,\u201d without warranty of any kind, either express or implied including but not limited to: (i) any warranties concerning the availability, accuracy, appropriateness, reliability, timeliness, or usefulness of the content of the Guardian Site",
+            "conf": 0.9999952912330627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Guardian and its affiliates do not endorse nor shall they be responsible or liable for the accuracy or reliability of any statement made on the Guardian Site by anyone other than authorised Guardian employees acting in such capacity",
+            "conf": 0.988432765007019,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Guardian does not warrant or guarantee that access to the Guardian Site will be uninterrupted or error-free",
+            "conf": 0.9999869465827942,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "YOU ACKNOWLEDGE AND AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, IN NO EVENT WILL GUARDIAN OR ITS AFFILIATES, INCLUDING, WITHOUT LIMITATION, THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, SUCCESSORS AND ASSIGNS, BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY DIRECT OR INDIRECT LOSS, DAMAGE, COST, EXPENSE OR LIABILITY OF ANY KIND (\u201cLOSS\u201d) ARISING IN ANY WAY OUT OF OR IN CONNECTION WITH THE AVAILABILITY, USE, RELIANCE ON, OR INABILITY TO USE THE GUARDIAN SITE, INCLUDING (WITHOUT LIMITATION): (i) DAMAGES FOR BUSINESS INTERRUPTION, LOSS OF BUSINESS AND OTHER PROFITS, LOSS OF PROGRAMS, COST OF REPLACING EQUIPMENT OR SOFTWARE OR LOSS OF RECORDS, INFORMATION OR DATA, LOSS OF USE OF DATA, LOSS OF REVENUE, LOSS OF GOODWILL, LOSS OF CUSTOMERS, LOSS OF OR DAMAGE TO REPUTATION, LOSS OF CAPITAL, DOWNTIME COSTS, LOSS UNDER OR IN RELATION TO ANY OTHER CONTRACT, OR LOSS OF ANTICIPATED SAVINGS OR BENEFITS.",
+            "conf": 0.9994984865188599,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "November 1 2005",
+            "conf": 0.9630944728851318,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you have not subscribed to specific email alerts you will still receive these regular emails but can unsubscribe at any time",
+            "conf": 0.9999917149543762,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "May 7 2008",
+            "conf": 0.9995924830436707,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "1 February 2010:",
+            "conf": 0.9251837134361267,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "18 April 2011:",
+            "conf": 0.9701300263404846,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "19 September 2011: Modified",
+            "conf": 0.9822872877120972,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "27 February 2012",
+            "conf": 0.9957601428031921,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "17 January 2013",
+            "conf": 0.9588849544525146,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "30 July 2013: Modified to include reference",
+            "conf": 0.9403640031814575,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "25 May 2018:",
+            "conf": 0.9983994364738464,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "When you use our sites or apps we may also use cookies or similar technology to collect extra data, including:",
+            "conf": 0.997492253780365,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the way these other people use this information",
+            "conf": 0.999974250793457,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy of any identifiable information that you post in our online community or other public pages of the site",
+            "conf": 0.999976396560669,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out from having your personal data used for marketing analysis by going into your account to the tab \u201c",
+            "conf": 0.9371182322502136,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "In the case of marketing emails you can withdraw your consent by clicking on the \u201cunsubscribe\u201d link at the bottom of the email or through your email preferences in the \u201cemails and marketing\u201d tab, when signed into your Guardian account",
+            "conf": 0.9998680949211121,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out from having your personal data used for marketing analysis in your account in the \u201cemails and marketing\u201d tab",
+            "conf": 0.9746238589286804,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We do not aim any of our products or services directly at children under the age of 13 and we do not knowingly collect personal data about children under 13",
+            "conf": 0.9998716115951538,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for choosing a secure password when we ask you to set up a password to access parts of our sites or apps",
+            "conf": 0.9959182739257812,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You should keep this password confidential and you should choose a password that you do not use on any other site",
+            "conf": 0.9856952428817749,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You should not share your password with anyone else, including anyone who works for us",
+            "conf": 0.9822105765342712,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Although we will do our best to protect your personal data once",
+            "conf": 0.9247555136680603,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "and so you provide it at your own risk",
+            "conf": 0.9871712923049927,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "Depending on where you live, we may share your personal data with the Guardian group of companies currently based in the UK, US or Australia",
+            "conf": 0.9964898228645325,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not share your personal data with other people or organisations that are not directly linked to us except under the following circumstances:",
+            "conf": 0.9970501065254211,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may also share your data with our advertising partners, as set out in the section about Online Advertising below",
+            "conf": 0.9258169531822205,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We may reveal your personal data to any other organisation that buys, or to which we transfer all, or substantially all, of our assets and business",
+            "conf": 0.9732303619384766,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We will not share your personal data with anyone else for their own marketing purposes unless we have your permission to do this",
+            "conf": 0.9917297959327698,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Data we collect may be transferred to, stored and processed in any country or territory where one or more of our Guardian group companies or service providers are based or have facilities",
+            "conf": 0.9999419450759888,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "If we no longer need your data, we will delete it or make it anonymous by removing all details that identify you",
+            "conf": 0.9986677765846252,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If we have asked for your permission to process your personal data and we have no other lawful grounds to continue with that processing, and you withdraw your permission, we will delete your personal data",
+            "conf": 0.9965393543243408,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "However, when you unsubscribe from marketing communications, we will keep your email address to ensure that we do not send you any marketing in future",
+            "conf": 0.999984860420227,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can decide not to receive these emails at any time and will be able to \u201cunsubscribe\u201d directly by clicking a link in the email or through your email preferences in the tab \u201cEmails and marketing\u201d when you are signed in to your Guardian account",
+            "conf": 0.9999555945396423,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out from being contacted in this way by signing into your Guardian account and going to the tab \u201c",
+            "conf": 0.9500020742416382,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "When you visit our sites or when you use our apps, we may collect personal data from you automatically using cookies or similar technology",
+            "conf": 0.9629844427108765,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use personalised online advertising on our sites",
+            "conf": 0.9899568557739258,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "When you browse our sites or use our apps, some of the cookies and similar technology we place on your device are advertising cookies, so we can understand what sort of pages you are interested in.",
+            "conf": 0.9740126132965088,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not collect or use information such as your name, email address, postal address or phone number for personalised online advertising",
+            "conf": 0.9200892448425293,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may also share online data collected through cookies and similar technology with our advertising partners",
+            "conf": 0.9984877109527588,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Online retargeting is another form of online advertising that allows us and some of our advertising partners to show you advertising based on your browsing patterns and interactions with a site away from our sites",
+            "conf": 0.9823976755142212,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use personalised online advertising to promote our own products and services",
+            "conf": 0.9779313206672668,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This means that you may see advertising for our products and services on our sites (and our other platforms, such as Guardian Jobs) and when you are on other, third party websites, including social media platforms",
+            "conf": 0.9900752902030945,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We will deal with requests for copies of your personal data or for correction of your personal data within one month",
+            "conf": 0.9963521361351013,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You also have the right to ask us to delete your personal data or restrict how it is used",
+            "conf": 0.9996533393859863,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If required",
+            "conf": 0.9108860492706299,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "October 2015",
+            "conf": 0.900475025177002,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "May 2018: updated to reflect changes resulting from the General Data Protection Regulation",
+            "conf": 0.9841748476028442,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.7
+}

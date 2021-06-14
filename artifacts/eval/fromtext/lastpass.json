@@ -1,0 +1,320 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated on January 1, 2018",
+            "conf": 0.9999974966049194,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to opt-out of the collection and use of your collection information, you may do so by turning it off on your device settings",
+            "conf": 0.9970569610595703,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to cancel your account or for us to stop providing you services, or if we hold personal information about you and you want it to be removed from our database or inactivated, please contact us here",
+            "conf": 0.9677098393440247,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "While we maintain ownership of this data, we do not share this type of data about individual users with third parties",
+            "conf": 0.9716573357582092,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "The web beacons used in conjunction with these web analytics tools may gather data such as what browser or operating system a person uses, as well as, domain names, MIME types, and what content, products and services are reviewed or downloaded when visiting or registering for services at one of our websites or using one of our mobile applications.",
+            "conf": 0.9993641376495361,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use Google Analytics as described in \u201cHow Google uses data when you use our partners' sites or apps",
+            "conf": 0.9972848296165466,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "\u201d You can prevent your data from being used by Google Analytics on websites by",
+            "conf": 0.9023682475090027,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of use of this information as described below",
+            "conf": 0.9999732971191406,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "and our partners use cookies and similar tracking technologies to track user traffic patterns and hold certain registration information",
+            "conf": 0.9376659393310547,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Tracking technologies also used are beacons, tags and scripts to collect and track information and to improve and analyze our service.",
+            "conf": 0.9877288937568665,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to not have the information these technologies collect used for the purpose of serving you targeted ads, you may opt-out here, or if located in the European Union, click here",
+            "conf": 0.9855884909629822,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies to make advertising more engaging to users, as well as to assist in reporting on marketing program performance and analytics",
+            "conf": 0.9999973773956299,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not share your personal information with third parties except as described in this privacy policy",
+            "conf": 0.9998502135276794,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "As part of a merger, sale of company assets, financing or acquisition of all or a portion of our business by another company where customer information will be one of the transferred assets",
+            "conf": 0.989946186542511,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "These emails and messages are considered a necessary part of the Services and you may not opt-out of them",
+            "conf": 0.9999843835830688,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can always opt out of these types of messages at any time by clicking the unsubscribe link at the bottom of each communication",
+            "conf": 0.9999799132347107,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We may transfer personal information to companies that help us provide our service, and when we do, these transfers to subsequent third parties are covered by appropriate transfer agreements",
+            "conf": 0.978713870048523,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Information that we collect and maintain may be transferred to, or controlled and processed in, the United States and/or other countries around the world",
+            "conf": 0.9999935030937195,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We recommend safeguarding your password, as it is one of the easiest ways you can manage the security of your own account \u2013 remember that if you lose control over your password, you may lose control over your personal information.",
+            "conf": 0.9956806302070618,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes we will provide notice on this website, and we may notify you by email (sent to the e-mail address specified in your account), prior to the change becoming effective",
+            "conf": 0.9991196393966675,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "The Services, software and websites are provided via equipment and resources located in the United States and other locations throughout the world and you consent to having personal data processed by us in the United States and other locations throughout the world",
+            "conf": 0.9999992847442627,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We will not materially reduce the core functionality (as set forth in the Service Descriptions) or discontinue any Services unless we provide you with prior written notice",
+            "conf": 0.9988314509391785,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to update the price for Services at any time after your Initial Term, and price changes will be effective as of your next billing cycle",
+            "conf": 0.9948368072509766,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right to discontinue or modify any coupons, credits, sales and special promotional offers in our sole discretion",
+            "conf": 0.9988439679145813,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Neither party will be liable for any damages resulting from termination of the Agreement, and termination will not affect any claim arising prior to the effective termination date",
+            "conf": 0.9095314741134644,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not send emails asking for your usernames or passwords, and to keep your accounts secure, you should keep all usernames and passwords confidential",
+            "conf": 0.9069538712501526,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not liable for any loss that you may incur if a third party uses your password or account.",
+            "conf": 0.9965064525604248,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "WE WARRANT THAT THE SERVICES WILL CONFORM TO THE SERVICE DESCRIPTIONS UNDER NORMAL USE",
+            "conf": 0.9947317838668823,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE DO NOT REPRESENT OR WARRANT THAT (i) THE USE OF OUR SERVICES WILL BE TIMELY, UNINTERRUPTED OR ERROR FREE, OR OPERATE IN COMBINATION WITH ANY SPECIFIC HARDWARE, SOFTWARE, SYSTEM OR DATA, (ii) OUR SERVICES WILL MEET YOUR REQUIREMENTS, OR (iii) ALL ERRORS OR DEFECTS WILL BE CORRECTED",
+            "conf": 0.9999496936798096,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You will indemnify and defend us against any third party claim resulting from a breach of Section 1.2",
+            "conf": 0.9887174963951111,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ", or alleging that any of your Content infringes upon any patent or copyright, or violates a trade secret of any party, and you agree to pay reasonable attorney\u2019s fees, court costs, damages finally awarded, or reasonable settlement costs with respect to any such claim",
+            "conf": 0.9994802474975586,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We will promptly notify you of any claim and cooperate with you in defending the claim",
+            "conf": 0.9999697208404541,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY OR TO ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL LOSS, EXEMPLARY OR OTHER SUCH DAMAGES, INCLUDING, WITHOUT LIMITATION, DAMAGES ARISING OUT OF OR RELATING TO: (i) LOSS OF DATA, (ii) LOSS OF INCOME, (iii) LOSS OF OPPORTUNITY, (iv) LOST PROFITS, OR (v) COSTS OF RECOVERY, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY, INCLUDING, BUT NOT LIMITED TO, BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR VIOLATION OF STATUTE, WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9999890327453613,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Your right to access and use any free Services is not guaranteed for any period of time and we reserve the right, in our sole discretion, to limit or terminate your use of any free versions of any Services by any individual or entity",
+            "conf": 0.998191773891449,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "During the Trial Period, to the extent permitted by law, we provide the Services \u201cAS IS\u201d and without warranty or indemnity, and all other terms otherwise apply",
+            "conf": 0.9999484419822693,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may modify or discontinue any trials or promotions at any time without notice",
+            "conf": 0.9999911189079285,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You understand and agree that the Beta Services may contain bugs, errors and other defects, and use of the Beta Services is at your sole risk",
+            "conf": 0.9975977540016174,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "These Beta Services are offered \u201cAS-IS\u201d, and to the extent permitted by applicable law, we disclaim any liability, warranties, indemnities, and conditions, whether express, implied, statutory or otherwise",
+            "conf": 0.9940483570098877,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You may only resolve disputes with us on an individual basis and you agree not to bring or participate in any class, consolidated, or representative action against us or any of our employees or affiliates",
+            "conf": 0.9999932050704956,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We disclaim all liability for your recording of audio or shared data, and you agree to hold us harmless from damages or liabilities related to the recording of any audio or data",
+            "conf": 0.9879870414733887,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We may also provide notice to the email last designated on your account, electronically via postings on our website, in-product notices, or our self-service portal or administrative center",
+            "conf": 0.9988641142845154,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We may update the Terms from time to time, which will be identified by the last updated date, and may be reviewed at",
+            "conf": 0.9492484331130981,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "https://www.logmeininc.com/legal/terms-and-conditions",
+            "conf": 0.9006854891777039,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Failure to enforce any right under the Agreement will not waive that right",
+            "conf": 0.9999812245368958,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: October, 2018 (2018.v1)",
+            "conf": 0.9848617911338806,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.5
+}

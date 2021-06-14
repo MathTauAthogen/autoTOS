@@ -1,0 +1,285 @@
+{
+    "predictions": [
+        {
+            "label": "2",
+            "text": "Other technologies, including data we store on your web browser or device, identifiers associated with your device, and other software, are used for similar purposes.",
+            "conf": 0.9932918548583984,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Why do we use cookies? Cookies help us provide, protect and improve the Facebook Products, such as by personalizing content, tailoring and measuring ads, and providing a safer experience",
+            "conf": 0.9649088382720947,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We also use cookies to store information that allows us to recover your account in the event you\u2019ve forgotten your password or to require additional authentication if you tell us your account has been hacked",
+            "conf": 0.9955881237983704,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies to help us show ads and to make recommendations for businesses and other organizations to people who may be interested in the products, services or causes they promote",
+            "conf": 0.9404808878898621,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use cookies to measure how often people do things like click on or view ads",
+            "conf": 0.9999868869781494,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use cookies to help you opt out of seeing ads from Facebook based on your activity on third-party websites",
+            "conf": 0.9969764351844788,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Facebook uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you",
+            "conf": 0.9691420197486877,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Do other parties use cookies in connection with the Facebook Products? Yes, other parties may use cookies on the Facebook Products to provide services to us and the businesses that advertise on Facebook",
+            "conf": 0.9939973950386047,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third parties also use cookies on their own sites and apps in connection with the Facebook Products",
+            "conf": 0.9511609077453613,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "You can use your ad preferences to learn why you\u2019re seeing a particular ad and control how we use information we collect to show you ads",
+            "conf": 0.9548677206039429,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "One of the ways Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing",
+            "conf": 0.9878979325294495,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Date of Last Revision: April 4, 2018",
+            "conf": 0.9999880790710449,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Facebook \u00a9 2018",
+            "conf": 0.9563135504722595,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "To operate our global service, we need to store and distribute content and data in our data centers and systems around the world, including outside your country of residence",
+            "conf": 0.99908447265625,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You are under 13 years old",
+            "conf": 0.9989414215087891,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can end this license any time by deleting your content or account",
+            "conf": 0.999966561794281,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of eighteen (18), you represent that a parent or legal guardian also agrees to this section on your behalf",
+            "conf": 0.9999989867210388,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "As a result, we may need to update these Terms from time to time to accurately reflect our services and practices",
+            "conf": 0.999528706073761,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Unless otherwise required by law, we will notify you before we make changes to these Terms and give you an opportunity to review them before they go into effect",
+            "conf": 0.9999549984931946,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "We hope that you will continue using our Products, but if you do not agree to our updated Terms and no longer want to be a part of the Facebook community, you can delete your account at any time",
+            "conf": 0.9976836442947388,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may also suspend or disable your account if you create risk or legal exposure for us or when we are permitted or required to do so by law",
+            "conf": 0.9915335178375244,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you delete or we disable your account, these Terms shall terminate as an agreement between you and us, but the following provisions will remain in place:",
+            "conf": 0.9871488809585571,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Our Products, however, are provided \"as is,\" and we make no guarantees that they always will be safe, secure, or error-free, or that they will function without disruptions, delays, or imperfections",
+            "conf": 0.9999959468841553,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not control or direct what people and others do or say, and we are not responsible for their actions or conduct (whether online or offline) or any content they share (including offensive, inappropriate, obscene, unlawful, and other objectionable content).",
+            "conf": 0.9995397925376892,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Accordingly, our liability shall be limited to the fullest extent permitted by applicable law, and under no circumstance will we be liable to you for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms or the Facebook Products, even if we have been advised of the possibility of such damages.",
+            "conf": 0.9979932904243469,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If we fail to enforce any of these Terms, it will not be considered a waiver",
+            "conf": 0.9999880790710449,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Date of Last Revision: April 19th, 2018",
+            "conf": 0.9999958276748657,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "If the ownership or control of all or part of our Products or their assets changes, we may transfer your information to the new owner",
+            "conf": 0.9882087707519531,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We don't sell any of your information to anyone, and we never will",
+            "conf": 0.999926745891571,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "How can I manage or delete information about me? We provide you with the ability to access, rectify, port and erase your data",
+            "conf": 0.9993053078651428,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We store data until it is no longer necessary to provide our services and Facebook Products, or until your account is deleted - whichever comes first",
+            "conf": 0.9994997382164001,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months",
+            "conf": 0.9960824251174927,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you delete your account, we delete things you have posted, such as your photos and status updates, and you won't be able to recover that information later",
+            "conf": 0.9991292953491211,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Information that others have shared about you isn't part of your account and won't be deleted",
+            "conf": 0.9710502624511719,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead",
+            "conf": 0.9999871850013733,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "To delete your account at any time, please visit the Facebook Settings and Instagram Settings",
+            "conf": 0.9980719685554504,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We share information globally, both internally within the Facebook Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy",
+            "conf": 0.9965476989746094,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy",
+            "conf": 0.9999875426292419,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "How will we notify you of changes to this policy? We'll notify you before we make changes to this policy and give you the opportunity to review the revised policy before you choose to continue using our Products",
+            "conf": 0.9998572468757629,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Date of Last Revision: April 19, 2018",
+            "conf": 0.999982476234436,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.0
+}

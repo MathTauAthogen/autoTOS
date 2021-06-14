@@ -1,0 +1,96 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "a) You affirm that you are at least 13 years of age",
+            "conf": 0.9933656454086304,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are less than 18 years of age, your parent or guardian must read, explain, and agree to the terms",
+            "conf": 0.99998539686203,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "(You may wish to consult Amazon",
+            "conf": 0.9277610778808594,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": ".) You can opt out of email contact at any time",
+            "conf": 0.9999256134033203,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "EyeWire employs Google Analytics and Muscula to collect and analyze data about site usage that should not be personally identifiable.",
+            "conf": 0.9805014729499817,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Such information will not be disclosed by us to third parties",
+            "conf": 0.9744134545326233,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "k) EyeWire reserves the right to change this Agreement at any time",
+            "conf": 0.9996832013130188,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "MIT makes no warranties or representations about the accuracy or completeness of the Site\u2019s content (including User-Generated Content and Third-Party Content) or the content of any websites linked to this Site and assumes no liability or responsibility for any (1) errors, mistakes, or inaccuracies in content",
+            "conf": 0.9999578595161438,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that MIT will not be liable to you for any loss or damages, either actual or consequential, arising out of or relating to these terms, or your (or any third party\u2019s) use or inability to use the Site, or your placement of User-Generated Content on the Site, or your reliance upon information obtained from or through the Site, or your communications with other users of the Site.",
+            "conf": 0.9979291558265686,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "In particular, MIT will have no liability for any consequential, indirect, punitive, special or incidental damages, whether foreseeable or unforeseeable, (including, but not limited to, claims for defamation, errors, loss of data, or interruption in availability of data), arising out of or relating to these terms, your use or inability to use a site, your placement of content on the Site, your reliance upon information obtained from or through a Site, or your communications with other users of the Site, whether based in contract, tort, statutory or other law, except only in the case of death or personal injury where and only to the extent that applicable law requires such liability",
+            "conf": 0.9999707341194153,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You hereby indemnify, defend and hold harmless the Massachusetts Institute of Technology and all its affiliates, employees, faculty members, fellows, students, members of their governing boards and agents (collectively, the \u201cIndemnified Parties\u201d) from and against any and all liability and costs, including, without limitation, reasonable attorneys\u2019 fees, incurred by the Indemnified Parties in connection with any claim arising out of any breach by you or any user of your account of this User Agreement or the foregoing representations, warranties and covenants",
+            "conf": 0.9999047517776489,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The effective date of this policy is February 14, 2013",
+            "conf": 0.9999929070472717,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated February 3, 2014",
+            "conf": 0.9999979138374329,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.6
+}

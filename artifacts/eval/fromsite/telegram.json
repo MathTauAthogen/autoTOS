@@ -1,0 +1,187 @@
+{
+    "predictions": [
+        {
+            "label": "12",
+            "text": "All data is stored heavily encrypted and the encryption keys in each case are stored in several other data centers in different jurisdictions",
+            "conf": 0.999574601650238,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not store your secret chats on our servers",
+            "conf": 0.9999107122421265,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We also do not keep any logs for messages in secret chats, so after a short period of time we no longer know who or when you messaged via secret chats",
+            "conf": 0.9995507001876831,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We periodically purge this random data from our servers to save disk space",
+            "conf": 0.951698362827301,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can always stop syncing contacts or delete them from our servers in Settings > Privacy & Security > Data Settings",
+            "conf": 0.9039797186851501,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We do not use cookies for profiling or advertising",
+            "conf": 0.9965748190879822,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you signed up for Telegram from the UK or the EEA, your data is stored in data centers in the Netherlands",
+            "conf": 0.9960627555847168,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "As such, we do not share your personal data with such data centers",
+            "conf": 0.9984947443008423,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Unless stated otherwise in this Privacy Policy, the personal data that you provide us will only be stored for as long as it is necessary for us to fulfill our obligations in respect of the provision of the Services",
+            "conf": 0.9997555017471313,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Unlike other services, we don't use your data for ad targeting or other commercial purposes",
+            "conf": 0.9968148469924927,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not access and do not store your credit card information",
+            "conf": 0.9984326958656311,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You can clear all payment information associated with your account at any time by going to Telegram Settings > Privacy & Security > Data Settings and selecting \u2018Clear Payment & Shipping Info\u2019",
+            "conf": 0.9902445673942566,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you choose to remove your payment information, we will delete your stored shipping info and payment tokens from all providers and ask the payment providers to remove your credit card information that they store",
+            "conf": 0.9985833764076233,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You have a right to: (1) request a copy of all your personal data that we store and to transmit that copy to another data controller; (2) delete (see section 10 below) or amend your personal data; (3) restrict, or object to, the processing of your personal data; (4) correct any inaccurate or incomplete personal data we hold on you; and (5) lodge a complaint with national data protection authorities regarding our processing of your personal data.",
+            "conf": 0.996833324432373,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can delete your Telegram account by proceeding to the deactivation page",
+            "conf": 0.9999776482582092,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you would like to delete your account, you can do this on the deactivation page",
+            "conf": 0.9999949336051941,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Deleting your account removes all messages, media, contacts and every other piece of data you store in the Telegram cloud",
+            "conf": 0.9999822974205017,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In cloud chats, you can choose to delete a message for all participants within at least 48 hours after sending",
+            "conf": 0.9996803998947144,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Otherwise, deleting a message will delete it from your message history",
+            "conf": 0.9373462796211243,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Any party can also opt to clear the entire chat history for both parties, in which case the apps will be instructed to remove all messages in that chat, however many of them are still retained by either of the participants",
+            "conf": 0.999794602394104,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "are stored for 48 hours after deletion in order to be shown in the admins log",
+            "conf": 0.9132660031318665,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "By default, if you stop using Telegram and do not come online for at least 6 months, your account will be deleted along with all messages, media, contacts and every other piece of data you store in the Telegram cloud",
+            "conf": 0.9920029044151306,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "We will review and may update this Privacy Policy from time to time",
+            "conf": 0.9999822378158569,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "March 25, 2019",
+            "conf": 0.9999911785125732,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "March 24, 2021",
+            "conf": 0.9999769926071167,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "Important changes made to this Privacy Policy will be notified to you via Telegram",
+            "conf": 0.9115657806396484,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 7.9
+}

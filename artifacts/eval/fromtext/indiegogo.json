@@ -1,0 +1,565 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective May 25, 2018 (previous version may be found here)",
+            "conf": 0.9998372793197632,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "5",
+            "text": "Do not track signals",
+            "conf": 0.9992800951004028,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may amend this Cookie Policy at any time and all changes will be made on this Web page",
+            "conf": 0.9995902180671692,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use cookies to bring together information we collect about you",
+            "conf": 0.9856191277503967,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not share information collected using our preferences cookies with our advertisers or other third parties",
+            "conf": 0.9714060425758362,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you delete these preferences cookies, any preferences or settings you selected will not be retained for later visits",
+            "conf": 0.9948159456253052,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.",
+            "conf": 0.9808950424194336,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": ": If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here (or if located in the European Union click here).",
+            "conf": 0.9999880790710449,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note this does not opt you out of being served ads",
+            "conf": 0.9975492358207703,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Third-party cookies Please note that third parties (including for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies on our Service.",
+            "conf": 0.9842142462730408,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "It may not be possible for you to selectively opt out of all third-party advertising cookies placed on our website",
+            "conf": 0.997122049331665,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Do Not Track Signals",
+            "conf": 0.9977092742919922,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "We do not respond to the \u201cDo Not Track\u201d signal that may be activated on your browser",
+            "conf": 0.9999903440475464,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective May 25, 2018 (previous version may be found here)",
+            "conf": 0.9998372793197632,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Please also keep in mind that our Site and Services may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites.",
+            "conf": 0.9978049993515015,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may review, change or remove your information through your account settings",
+            "conf": 0.9936346411705017,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We collect information through a variety of technologies, such as cookies, Flash cookies, pixels, tags, software development kits, application program interfaces, and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms using one or more devices, whether or not you are logged in or registered.",
+            "conf": 0.9991119503974915,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We collect information using analytics tools, including when you visit our sites and applications or use our applications on third-party sites or platforms",
+            "conf": 0.9962942600250244,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Provide you with targeted advertising based on your activity on our sites and applications and on third-party sites and applications",
+            "conf": 0.9617962837219238,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of interest based ads by visiting the Digital Advertising Alliance or using the opt-out mechanism in the \u201cInterest Based Ads\u201d link in the footer of the site you are visiting",
+            "conf": 0.9993221759796143,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "In addition, Users in the European Economic Area and some other jurisdictions outside the United States have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them (including, in some cases, in portable form), and to obtain its correction, update, amendment or deletion in appropriate circumstances",
+            "conf": 0.9591056704521179,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Please be aware that, despite our best efforts, no security measures are perfect or impenetrable",
+            "conf": 0.9673216938972473,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your personal information for the length of time needed to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law",
+            "conf": 0.999604344367981,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "To dispose of personal data, we may anonymize it, delete it or take other appropriate steps",
+            "conf": 0.9984946846961975,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We operate globally and may transfer your personal information to third parties in locations around the world for the purposes described in this privacy policy",
+            "conf": 0.9999932646751404,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Under certain circumstances, participants may be liable for the transfer of personal information from the EU or Switzerland to third parties outside the EU and Switzerland",
+            "conf": 0.9993041753768921,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "People under 18 (or the legal age in your jurisdiction) are not permitted to use Indiegogo on their own",
+            "conf": 0.9999974370002747,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Indiegogo does not knowingly collect any personal information from children under the age of 13 and children under 13 are not permitted to register for an account or use our Services",
+            "conf": 0.9999756217002869,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly process data of EU residents under the age of 16 without parental consent",
+            "conf": 0.9999909400939941,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are a California resident under the age of 18, and a registered user of any site where this policy is posted, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted",
+            "conf": 0.9994596242904663,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent",
+            "conf": 0.9996394515037537,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law",
+            "conf": 0.9997544288635254,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective May 25, 2018 (previous version may be found here)",
+            "conf": 0.9998372793197632,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "BY AGREEING TO THESE TERMS, USERS AGREE TO RESOLVE DISPUTES WITH INDIEGOGO THROUGH BINDING ARBITRATION (AND WITH VERY FEW LIMITED EXCEPTIONS, NOT IN COURT), AND USERS WAIVE CERTAIN RIGHTS TO PARTICIPATE IN CLASS ACTIONS (AS DETAILED IN THE DISPUTE RESOLUTION, ARBITRATION AND CLASS ACTION WAIVER IN SECTION 20 BELOW).",
+            "conf": 0.9999741315841675,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Indiegogo may amend the Terms at any time in our sole discretion by posting a revised version of the Terms",
+            "conf": 0.9903213381767273,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material change to these Terms, we will notify Users by sending an email, posting a notice through the Services, or any other place(s) appropriate",
+            "conf": 0.9997000098228455,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your account",
+            "conf": 0.9999551177024841,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you do so, we may cancel your account",
+            "conf": 0.9987510442733765,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality of your account and for all activities associated with or occurring under your account",
+            "conf": 0.9999588131904602,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "To the extent permissible under applicable law, we are not responsible for any loss or damage arising from your failure to comply with the foregoing requirements or as a result of use of your account with or without your knowledge.",
+            "conf": 0.9975872039794922,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may submit a request to delete your account by contacting us here, but this will not automatically delete User Content",
+            "conf": 0.9999005794525146,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You must be 18 years or older to sign up for an account and use our Services",
+            "conf": 0.999989926815033,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Outside of the European Economic Area (\u201cEEA\u201d), minors between the age of 13 and 18 years are only permitted to use our Services through an account owned by a parent or legal guardian where the parent has provided affirmative consent and under their direct supervision",
+            "conf": 0.9998916387557983,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Children under 16 residing in the EEA are not permitted to access the Site or use the Services",
+            "conf": 0.9999971985816956,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for any and all account activity conducted by a minor on your account",
+            "conf": 0.9954410791397095,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "are posted, and may be updated from time to time",
+            "conf": 0.912926435470581,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Indiegogo does not guarantee that Contributions will be used as promised, that Campaign Owners will deliver Perks, or that the Campaign will achieve its goals",
+            "conf": 0.9715670347213745,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Indiegogo also does not endorse, guarantee, make representations, or provide warranties for or about the quality, safety, morality or legality of any Campaign, Perk or Contribution, or the truth or accuracy of User Content posted on the Services",
+            "conf": 0.9999946355819702,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may remove User Content in our discretion",
+            "conf": 0.9994236826896667,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Removing content or terminating accounts is not an action we take lightly and we may take a while to investigate and determine if User Content should be removed",
+            "conf": 0.9464621543884277,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We do not communicate our reasons for removing, or keeping, User Content on the Site",
+            "conf": 0.9891246557235718,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee Perks or Refunds",
+            "conf": 0.9541413187980652,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to revoke this license to access and use User Content and",
+            "conf": 0.9786055088043213,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Content granted to you at any time",
+            "conf": 0.9852080941200256,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "We can make changes to or delete User Content",
+            "conf": 0.9196086525917053,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": ",",
+            "conf": 0.9403185248374939,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We have the right to monitor, terminate, suspend, or delete any User Account at any time for any reason, or no reason",
+            "conf": 0.9978832602500916,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We will not have any liability to you or third parties for any use of the Services associated with your account or",
+            "conf": 0.960133969783783,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Services may be unavailable for scheduled maintenance and other purposes, or because of unplanned outages or other malfunctions",
+            "conf": 0.9998660087585449,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless Indiegogo, its subsidiaries and affiliated companies, and their officers, directors, employees, partners, contractors, representatives, agents, and third party providers from and against any and all claims, causes of action, damages, obligations, losses, liabilities, costs or debt, and expenses (including reasonable attorneys' fees and costs) and all amounts paid in settlement arising from or relating to, breach of these Terms (including, but not limited to, failure to fulfill a Perk or refund a contribution) or violation of any laws",
+            "conf": 0.9999992847442627,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We reserve the right, at our own expense, to assume the exclusive defense and control of any matter for which you have agreed to indemnify us and you agree to assist and cooperate with us as reasonably required in the defense or settlement of any such matters",
+            "conf": 0.9917986392974854,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES, INDIEGOGO CONTENT, USER CONTENT, AND ANY OTHER MATERIALS MADE AVAILABLE OR THROUGH THE USE OF THE SERVICES ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT OR COURSE OF PERFORMANCE",
+            "conf": 0.9996758699417114,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, INDIEGOGO AND ITS AFFILIATES, LICENSORS, SUPPLIERS, ADVERTISERS, SPONSORS AND AGENTS, DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OF TITLE, NON- INFRINGEMENT, ACCURACY, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES THAT MAY ARISE FROM COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE",
+            "conf": 0.9955750703811646,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "INDIEGOGO AND ITS AFFILIATES, LICENSORS, SUPPLIERS, ADVERTISERS, SPONSORS AND AGENTS DO NOT WARRANT THAT YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, ERROR-FREE OR SECURE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE SERVICES OR THE SERVER(S) ON WHICH THE SERVICES ARE HOSTED, OR ANY SERVICES AVAILABLE ON ANY THIRD PARTY PLATFORM ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS",
+            "conf": 0.9963573813438416,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no representations about the quality, safety, morality or legality of any Campaign, Perk or Contribution or the truth or accuracy of User Content posted on the Services",
+            "conf": 0.9999125003814697,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not guarantee the fulfillment or the performance of any Perks, or that Contributions will be used as described in the Campaign",
+            "conf": 0.9997413754463196,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We do not control or endorse User Content posted on the Site or in any Services and, as such, do not guarantee in any manner the reliability, validity, accuracy or truthfulness of such User Content",
+            "conf": 0.999914824962616,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Indiegogo is not liable for any damages or losses related to your use of the Services",
+            "conf": 0.9998802542686462,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "All Content that you access or use through the Services is entirely at your own risk and you are solely responsible for any resulting damage or loss to any party.",
+            "conf": 0.9937974810600281,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "NEITHER INDIEGOGO NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SERVICES WILL BE LIABLE (WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT INDIEGOGO HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE) FOR: (A) ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, LOSS OF DATA OR LOSS OF GOODWILL.",
+            "conf": 0.9998312592506409,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Indiegogo makes no representation or warrant as to the adequacy, accuracy or completeness of information found anywhere on its website",
+            "conf": 0.9999274611473083,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No class arbitrations or other grouping of parties is allowed",
+            "conf": 0.9999933838844299,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "By agreeing to these terms you are waiving your right to trial by jury or to participate in a class action or representative proceeding",
+            "conf": 0.9999980926513672,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If this prohibition of class arbitrations or other grouping of parties is deemed unenforceable, then this entire \u201cDispute Resolution, Arbitration and Class Action Waiver\u201d shall be deemed void and severed from the Terms",
+            "conf": 0.9999995827674866,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If you opt-out of the arbitration and class action waiver provisions set forth above, we will not be subject to them either with respect to any disputes with you",
+            "conf": 0.9999843239784241,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Indiegogo will provide thirty (30) days' notice of any changes to this section by updating these Terms, sending you a message, or otherwise notifying you when you are logged into your account",
+            "conf": 0.999965488910675,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "If a court or arbitrator decides that this paragraph is not enforceable or valid, then this subsection shall be severed from the section entitled \u201cDispute Resolution, Arbitration and Class Action Waiver,\u201d and the court or arbitrator shall apply the first Arbitration and Class Action Waiver section in existence after you began using the Services",
+            "conf": 0.9906831979751587,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Indiegogo's failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision",
+            "conf": 0.9989345073699951,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may modify or discontinue the Services at any time, in our sole discretion",
+            "conf": 0.9999829530715942,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of any provision of these Terms shall be deemed a further or continuing waiver of such term or any other term, and Indiegogo\u2019s failure to assert any right or provision under these Terms shall not constitute a waiver of such right or provision",
+            "conf": 0.999001681804657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.0
+}

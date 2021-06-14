@@ -1,0 +1,320 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "This Agreement was last revised on Dec 6, 2017",
+            "conf": 0.9999980926513672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to amend this Agreement at any time in our sole discretion",
+            "conf": 0.9999604821205139,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "and for restricting access to your account, and you agree to accept responsibility",
+            "conf": 0.9880781173706055,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Goodreads may permanently or temporarily terminate, suspend, or otherwise refuse",
+            "conf": 0.9991206526756287,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "this Agreement, or for no reason",
+            "conf": 0.9077544212341309,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Goodreads will not be liable to you for any",
+            "conf": 0.9892165660858154,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Goodreads shall have no liability for your interactions with",
+            "conf": 0.9956895709037781,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your User Content",
+            "conf": 0.9904878735542297,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "reserves the right to monitor, reject and/or remove any User Content at any",
+            "conf": 0.9999960660934448,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "For example, Goodreads may, but is not obligated to, reject and/or remove",
+            "conf": 0.9524801969528198,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Goodreads takes no responsibility and assumes no liability for any User Content",
+            "conf": 0.9999769926071167,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Goodreads is not responsible for any public display or misuse of your User",
+            "conf": 0.9841935038566589,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Goodreads shall not be liable for any damages you allege to incur as a result",
+            "conf": 0.9998008608818054,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable",
+            "conf": 0.9016935229301453,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "This Service is intended solely for Users who are thirteen (13) years of age or",
+            "conf": 0.9999971985816956,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "older, and any registration, use or access to the Service by anyone under 13 is",
+            "conf": 0.9999984502792358,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "18 years of age you may use the Service only if you either are an emancipated",
+            "conf": 0.9999935626983643,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your Goodreads Account at any time",
+            "conf": 0.9999539256095886,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "this Agreement, Goodreads has the right at any time for any reason or no reason",
+            "conf": 0.9999917149543762,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "that Goodreads has the perpetual and irrevocable right to delete any or all of",
+            "conf": 0.9571877717971802,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Goodreads may contain links to third-party websites, advertisers, or services",
+            "conf": 0.9635055661201477,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "and assumes no responsibility for, the content, privacy policies, or practices",
+            "conf": 0.9999268651008606,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "that Goodreads shall not be responsible for any loss or damage of any sort",
+            "conf": 0.9999734163284302,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to defend, indemnify and hold harmless Goodreads and its subsidiaries,",
+            "conf": 0.9999960064888,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "contractors, agents, officers and directors, from and against any and all claims,",
+            "conf": 0.9999150633811951,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "SERVICE ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS, UNLESS OTHERWISE",
+            "conf": 0.9999995231628418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "GOODREADS MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY",
+            "conf": 0.9968653321266174,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, GOODREADS DISCLAIMS ALL",
+            "conf": 0.9284340739250183,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of any term of this Agreement shall be",
+            "conf": 0.9999853372573853,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "not constitute a waiver of such right or provision",
+            "conf": 0.9845804572105408,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "December 6, 2017: We have updated our terms of use agreement",
+            "conf": 0.9976052641868591,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "April 7, 2010: We added",
+            "conf": 0.9999354481697083,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "October 16, 2008: We replaced our",
+            "conf": 0.9925792217254639,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: June 30, 2020",
+            "conf": 0.9999979138374329,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "If you do not want to receive Other Messages, you may opt out by changing your e-mail",
+            "conf": 0.9999672174453735,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may not opt out of Service-related e-mails",
+            "conf": 0.9995999336242676,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use your personal information to display interest-based ads for features, products, and services that might be of",
+            "conf": 0.9999027848243713,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We do not use information that personally identifies you to display interest-based ads",
+            "conf": 0.9241933226585388,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register",
+            "conf": 0.999986469745636,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13, please do not send any information about yourself to us, including your name, address,",
+            "conf": 0.9999961853027344,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "No one under age 13 is allowed to provide any personal information to or on",
+            "conf": 0.9999988675117493,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "will delete that information as quickly as possible",
+            "conf": 0.9295225739479065,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "If we change this Privacy Notice, we will post those changes on our website to keep you aware of what information we",
+            "conf": 0.9956262111663818,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "June 30, 2020: We replaced our",
+            "conf": 0.97150057554245,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "October 16, 2008: We replaced our",
+            "conf": 0.9925792217254639,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.5
+}

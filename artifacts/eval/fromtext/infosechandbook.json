@@ -1,0 +1,173 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Sep 1, 2019 \u00b7 NEW",
+            "conf": 0.9999886155128479,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Monthly review \u2013 August 2019",
+            "conf": 0.9999918341636658,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Aug 31, 2019 \u00b7 NEW",
+            "conf": 0.9999911189079285,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Aug 19, 2019 \u00b7 NEW",
+            "conf": 0.999989926815033,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Aug 11, 2019 \u00b7 NEW",
+            "conf": 0.9999914169311523,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Aug 16, 2018 \u00b7 UPDATED",
+            "conf": 0.999996542930603,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "By default, we do not log any personal data of you",
+            "conf": 0.9853678345680237,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Log files are automatically encrypted after 1 day, and stored in encrypted format for 10 days",
+            "conf": 0.9711658358573914,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not try to identify you",
+            "conf": 0.9388928413391113,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u2018processing\u2019 means any operation [\u2026] on personal data [\u2026] such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction",
+            "conf": 0.9999748468399048,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Furthermore, our web server doesn\u2019t store your IP address permanently (e.g., in log files).",
+            "conf": 0.9796128273010254,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "The encrypted log files are automatically deleted after 10 days",
+            "conf": 0.9990053176879883,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "timestamp ([31/Dec/2016:12:01:10 +0100])",
+            "conf": 0.9999818205833435,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Blocked IP addresses are stored for 14 days",
+            "conf": 0.9574717283248901,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not use your e-mail address for marketing purposes or tracking",
+            "conf": 0.9080936312675476,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We immediately delete your e-mails after your request is answered",
+            "conf": 0.9220819473266602,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ": Notification obligation regarding rectification or erasure of personal data or restriction of processing",
+            "conf": 0.9582246541976929,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "updated this page on November 5, 2019",
+            "conf": 0.9999963045120239,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Monthly review \u2013 October 2019",
+            "conf": 0.9999892115592957,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Oct 31, 2019 \u00b7 NEW",
+            "conf": 0.999990701675415,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Oct 30, 2019 \u00b7 NEW",
+            "conf": 0.9999913573265076,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Oct 19, 2019 \u00b7 NEW",
+            "conf": 0.9999904632568359,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "May 1, 2018 \u00b7 UPDATED",
+            "conf": 0.9999955296516418,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Oct 13, 2019 \u00b7 NEW",
+            "conf": 0.9999902844429016,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 8.8
+}

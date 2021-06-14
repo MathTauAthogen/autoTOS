@@ -1,0 +1,208 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "- You must be at least 18 years old to register or subscribe for Travelzoo's Services because Travelzoo is available only to individuals who can form legally binding contracts under applicable law",
+            "conf": 0.9999906420707703,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of receiving push notifications, you can disable push notifications on your mobile device system settings",
+            "conf": 0.9984668493270874,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Travelzoo does not rent or sell personal information about you to third parties, however, we reserve the right to share the personal information we collect about you through our Services with third parties when we have your permission or under the following circumstances:",
+            "conf": 0.9999852180480957,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may also provide data to our third party analytics partners, such as Google Analytics, for the purposes of tracking usage information.",
+            "conf": 0.9801057577133179,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "To opt-out of Google Analytics use of your information, please visit:",
+            "conf": 0.9996837973594666,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "tools.google.com/dlpage/gaoptout",
+            "conf": 0.9996049404144287,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If an individual whose personal information you have provided us wishes to request the removal of their personal information they can contact us via the feedback form at the end of this policy;",
+            "conf": 0.9843330383300781,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "We may transfer, share, or disclose your personal information to third parties as part of any corporate reorganization process such as a merger, acquisition, and/or a sale of all, substantially all, or part of our assets, and/or a licensing agreement with third parties",
+            "conf": 0.9971089959144592,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may combine this automatically collected log information with other information we collect about you in order to improve the services we offer you, improve our marketing efforts, perform analytics, or improve site functionality",
+            "conf": 0.9466565251350403,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Travelzoo and our partners, affiliates, and service providers, such as our marketing partners, use cookies, web beacons, etags, and scripts to personalize our Services to your preferences and to provide an automatic log-in process.",
+            "conf": 0.9916954636573792,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A web beacon is activated as part of a web page or email and allows us to count visitors to our websites and to recognize users by accessing Travelzoo cookies which help us personalize your experience when you use our Services.",
+            "conf": 0.9981222152709961,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may partner with third party ad networks to either display advertising on our website or to manage our advertising on other sites",
+            "conf": 0.9998395442962646,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In addition, we may partner with an ad network, which may use cookies and web beacons to collect information on your activities on this and other websites, to provide you targeted advertisements based on your interests",
+            "conf": 0.9957364797592163,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here or here",
+            "conf": 0.9997754693031311,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you are in the European Union and would like to opt-out, please click here",
+            "conf": 0.9828183650970459,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Please note this does not opt you out of being served advertising",
+            "conf": 0.9986412525177002,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "On Fly.com, third parties with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity use LSOs such as HTML storage and Flash cookies to collect and store information.",
+            "conf": 0.984207808971405,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "For more information about these opportunities, to edit your personal information, to unsubscribe from receiving Travelzoo services you previously requested, or to update your account, please manage your subscriptions here or by logging into the \"My Account\" section on the website",
+            "conf": 0.9819924235343933,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To unsubscribe from receiving Fly.com marketing emails, please click here",
+            "conf": 0.9997862577438354,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "Users may also follow unsubscribe instructions included in each promotional email",
+            "conf": 0.9999925494194031,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You must use the feedback form below to request deletion of your information",
+            "conf": 0.9755780696868896,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you request termination of your Travelzoo account, it is our practice to deactivate your account and block further email deliveries to you in approximately ten business days",
+            "conf": 0.9993382096290588,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will retain your information for as long as needed to provide you Services",
+            "conf": 0.9990971684455872,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Please note that the information Travelzoo collects about you may be stored on servers outside your home country - currently on servers in the United States",
+            "conf": 0.9999850988388062,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you are visiting our websites from a country other than the United States or your home country, please note that the United States or other countries where we may be hosting servers may not have the same data protection laws as your country or jurisdiction",
+            "conf": 0.9761635661125183,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Travelzoo may update this Policy from time to time",
+            "conf": 0.9999200701713562,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post any update(s) to this Policy on our websites",
+            "conf": 0.9878616333007812,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes in the way we treat personal information, we will notify you by including a notice in an email sent to the primary email address in your Travelzoo account or by placing a prominent notice on our Privacy Policy web pages and our home page",
+            "conf": 0.9944257736206055,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "LAST UPDATED: 7/30/2015",
+            "conf": 0.9999975562095642,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 5.5
+}

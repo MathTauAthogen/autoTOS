@@ -1,0 +1,460 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "Do Not Sell My Info",
+            "conf": 0.9992817044258118,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "\u2019s opt-out browser add-on, and opt out of interest-based Google ads using Google",
+            "conf": 0.9481465220451355,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "from receiving contextual advertising, being served first-party ads through cross-device tracking, or having information used for non-targeted advertising purposes, such as attribution and analytics",
+            "conf": 0.940514087677002,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: August 11, 2020",
+            "conf": 0.9999938011169434,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Like many companies, we use cookies (small text files placed on your computer or device) and other tracking technologies on the Services (referred to together from this point forward as \u201cCookies\u201d, unless otherwise stated) including HTTP cookies, HTML5 and Flash local storage/ flash cookies, web beacons/GIFs, embedded scripts, ETags/cache browsers, and software development kits.",
+            "conf": 0.9991284608840942,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "First party Cookies First party Cookies are placed by us (including through the use of third party service providers) and are used to allow you to use the Services and their features and to assist in analytics activities",
+            "conf": 0.9858430027961731,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third party Cookies Certain third parties may place their Cookies on your device and use them to recognize your device when you visit the Services and when you visit other websites or services.",
+            "conf": 0.9660100340843201,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We and our third party vendors use these Cookies to perform analytics, to improve content and user experience, for statistical purposes, to recognize you across platforms and devices, to develop new services, and to improve the Services.",
+            "conf": 0.9810387492179871,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third party sites and services also use these Cookies to deliver content, including advertisements relevant to your interests on the Services and third party services",
+            "conf": 0.9996988773345947,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you replace, change or upgrade your browser or device, or if you delete your Cookies, you may need to use these opt-out tools again",
+            "conf": 0.9343084692955017,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Most third party advertisers offer a way to opt-out of their targeted advertising",
+            "conf": 0.9215236902236938,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can also opt out of some of our advertising networks by visiting their opt-out pages:",
+            "conf": 0.9999774098396301,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "After you opt-out, you will still see advertisements, but they may not be as relevant to you",
+            "conf": 0.999668300151825,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you would like to opt-out of our browser-based cross-device tracking for advertising purposes, you may do so by opting out using the various methods described above",
+            "conf": 0.9974876642227173,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "CHANGES TO THIS NOTICE This Notice may be revised occasionally and in accordance with legal requirements",
+            "conf": 0.9857062101364136,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "These Terms of Use (these \u201cTerms\u201d) were last updated on: July 1, 2020",
+            "conf": 0.9999967813491821,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Fandango may, subject to the below, change these Terms from time to time on a prospective basis, and modify, add or discontinue any aspect, content or feature of the Services, at its sole discretion",
+            "conf": 0.9999660849571228,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for maintaining the confidentiality of your password and account, and you are solely responsible for all use of your password or account, whether authorized by you or not.",
+            "conf": 0.9988875389099121,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree to (a) immediately notify Fandango of any unauthorized use of your password or account or any other breach of security and (b) ensure that you exit from your account each time you use the Services.",
+            "conf": 0.9960469603538513,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe at any time by texting 'STOP' to 36346 (FNDGO).",
+            "conf": 0.9999771118164062,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your use of the Services and the Site, and for any consequences thereof, including any information or materials you choose to make available, public or private communications transmitted through the Services or the Site (including posts), usernames and passwords that you provide to the Services or the Site, including those usernames and passwords provided by you for access to various third party services ( e.g., social networking and other accounts that you wish to link with your account on the Site).",
+            "conf": 0.9999999403953552,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Furthermore, Fandango reserves the right at all times to disclose any information posted on any portion of the Services as necessary to satisfy any law, regulation or governmental request, or to refuse to post, or to remove, any information or materials, in whole or in part, that in Fandango's sole and absolute discretion are objectionable or in violation of these Terms",
+            "conf": 0.9992954730987549,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right (but do not assume the obligation) in our sole discretion to reject, move, edit or remove any User Materials that are contributed to the Services or Site",
+            "conf": 0.9999306797981262,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You acknowledge that we do not verify, adopt, ratify, or sanction User Materials, and you agree that you must evaluate and bear all risks associated with our use of User Materials or our reliance on the accuracy, completeness, or usefulness of User Materials",
+            "conf": 0.9999580383300781,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The Services and the Site is not designed or intended for use by children under 13, and thus all users must be at least 13",
+            "conf": 0.9999960660934448,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18, you should use Fandango only with involvement and permission of a parent or guardian",
+            "conf": 0.9999980330467224,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Some of our Services or portions of the Site, including Movies Anywhere-enabled features, may require you to be over the age of 18 or the age of majority for your state",
+            "conf": 0.999993085861206,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "OF WARRANTIES While Fandango uses reasonable efforts to include up to date information on the Site and other Services, Fandango makes no warranties or representations as to its accuracy, timeliness, reliability, completeness or otherwise",
+            "conf": 0.9916682839393616,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "FANDANGO PROVIDES THE SITE AND OTHER SERVICE ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9999697804450989,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCLUSION OF DAMAGES NONE OF THE FANDANGO PARTIES WILL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES RELATING TO LOST PROFITS, LOST DATA OR LOSS OF GOODWILL) OR ANY DAMAGES WHATSOEVER THAT RESULT FROM YOUR USE OF OR INABILITY TO USE THE SITE OR OTHER SERVICE.",
+            "conf": 0.999869167804718,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "WITHOUT LIMITING THE FOREGOING, FANDANGO WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE ARISING OUT OF (1) YOUR FAILURE TO COMPLY WITH PARAGRAPH 3 (REGISTRATION, ACCOUNTS AND PASSWORDS) OR (2) CONTENT POSTED TO THE SITE OR OTHER SERVICE BY YOU OR ANY THIRD PARTY",
+            "conf": 0.9771462082862854,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "FANDANGO SHALL NOT BE RESPONSIBLE FOR, OR HAVE ANY LIABILITY FOR, ANY ACTIONS, OMISSIONS, OCCURRENCES, INJURIES OR DAMAGES THAT OCCUR ON OR NEAR ANY THEATER OR OTHER LOCATION, OR IN CONNECTION WITH ANY SERVICE OR PRODUCT, TICKETED OR MADE AVAILABLE THROUGH FANDANGO\u2019S SERVICES OR SITES",
+            "conf": 0.9983617663383484,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "ACCORDINGLY, FANDANGO MAKES NO WARRANTIES OR CONDITIONS REGARDING SUCH THIRD-PARTY SERVICES OR WEB SITES OR THIRD PARTY TOOLS AND WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY YOUR USE OF OR RELIANCE ON SUCH THIRD SERVICES OR WEB SITES OR THIRD PARTY TOOLS",
+            "conf": 0.9508355855941772,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "INDEMNIFICATION You will indemnify and hold harmless the Fandango Parties, and at Fandango's option defend the Fandango Parties, from and against any damage, loss, cost or expense (including without limitation, legal fees and costs) incurred in connection with any third-party claim, demand, proceeding or action (\"Claim\") brought against any of the Fandango Parties arising out of your use of the Services or any alleged breach by you of any provision of these Terms, or the infringement by you, or any other subscriber or user of your account, of any intellectual property or other right of any person or entity",
+            "conf": 0.9999221563339233,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "TERMINATION In its sole and absolute discretion, with or without notice to you, Fandango may suspend or terminate your use of and access to the Services, terminate your account and/or remove and discard anything transmitted by you, or information stored, sent, or received via the Services without prior notice and for any reason, including, but not limited to: (i) concurrent access of the Services with identical user identification, (ii) permitting",
+            "conf": 0.9888612627983093,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": ") any",
+            "conf": 0.9513291716575623,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": ") any",
+            "conf": 0.9434073567390442,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No failure or delay by Fandango in exercising any right, power or privilege under these Terms will operate as a waiver thereof, nor will any single or partial exercise of any right, power or privilege preclude any other or further exercise thereof or the exercise of any other right, power, or privilege under these Terms",
+            "conf": 0.9977956414222717,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Unless otherwise expressly provided herein, the invalidity or unenforceability of any provision of these Terms will not affect the validity or enforceability of any other provision, all of which will remain in full force and effect",
+            "conf": 0.9056234955787659,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Therefore, pursuant to these Terms, if you have any dispute or disagreement with us regarding or relating to (i) your use of or interaction with the Services, (ii) any purchases or other transactions or relationships with Fandango, or (iii) any data or information you may provide to Fandango or that Fandango may gather in connection with such use, interaction or transaction(collectively, \"Fandango Transactions or Relationships\"), you will not have the right to pursue a claim in court, or have a jury decide the claim and you will not have the right to bring or participate in any class action or similar proceeding in court or in arbitration",
+            "conf": 0.9999285936355591,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "the Arbitrator, and not any federal, state or local court or agency, shall have the exclusive authority to resolve any dispute arising under or relating to the validity, interpretation, applicability, enforceability or formation of these Terms and/or these arbitration provisions hereof, including but not limited to any claim that all or any part of these Terms is void or voidable;",
+            "conf": 0.9999359250068665,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "(ii)shall entertain any motion to dismiss, motion to strike, motion for judgment on the pleadings, motion for complete or partial summary judgment, motion for summary adjudication, or any other dispositive motion consistent with New York or federal rules of procedure, as applicable",
+            "conf": 0.9476695656776428,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "the Arbitration can resolve only your and/or Fandango's individual claims, and the Arbitrator shall have no authority to entertain or arbitrate any claims on a class or representative basis, or to consolidate or join the claims of other persons or parties who may be similarly situated;",
+            "conf": 0.9999998211860657,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Fandango may modify these arbitration provisions, but such modifications shall only become effective thirty(30) days after Fandango has given notice of such modifications and only on a prospective basis for",
+            "conf": 0.9063848257064819,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "provided that such court does not have the authority to entertain any claims on a class or representative basis, or to consolidate or join the claims of other persons or parties who may be similarly situated in such proceeding",
+            "conf": 0.9999939799308777,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: August 18, 2020",
+            "conf": 0.9999949336051941,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Information we collect automatically from you and/or your device: Categories of personal information we collect Purposes of use Device information and identifiers For example: IP address, cookie IDs, browser type and language, operating system, platform type, device type, and advertising and app identifiers.",
+            "conf": 0.9903501272201538,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "customize content that our third-party partners deliver on the Services (e.g., personalized third-party advertising)",
+            "conf": 0.9956201910972595,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "If you, or someone acting on your behalf, would like to request that we do not sell your personal information, you can either",
+            "conf": 0.9280871152877808,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Advertisers, Advertising Networks, and Other Third Parties: We may share information about how you use the Services and interact with content or ads to better tailor services, products, marketing and advertising on the Services and on third-party platforms",
+            "conf": 0.9990290999412537,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These third parties may use their own tracking technologies to collect or request information about you, please see our Cookies Notice",
+            "conf": 0.9469265341758728,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "Sale or Transfer of All or Part of Our Business or Assets: In the event that Fandango (or any Fandango business) is involved in a merger, acquisition, transfer of control, bankruptcy, reorganization or sale of assets, or diligence associated with such matters, we may sell or transfer the information described in this Privacy Policy as part of that transaction",
+            "conf": 0.989556074142456,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "How Long We Keep Your Information We will keep your information only for as long as it is necessary to fulfill the purposes described above, unless a longer retention is required or permitted by law",
+            "conf": 0.9999586939811707,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We may delete or de-identify your information sooner if we receive a verifiable deletion request, subject to exemptions under applicable law",
+            "conf": 0.9995334148406982,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "CHILDREN The Services are not designed or intended for use by children under 13, and thus if you are under 13 we ask that you do not use the Services or provide us with any information",
+            "conf": 0.9999994039535522,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Request Deletion: If you, or someone acting on your behalf, would like to request that we delete information that we hold about you, you or someone acting on your behalf can either click here for such request, or send an email to deletedata@fandango.com",
+            "conf": 0.9988830089569092,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Note that certain information about you will not be deleted if you request such a deletion, as may be permitted by law",
+            "conf": 0.9999614357948303,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Do Not Sell My Personal Information: If you, or someone acting on your behalf, would like to request that we do not sell your personal information, you or someone acting on your behalf can either click here for such request, or send an email to donotsell@fandango.com",
+            "conf": 0.9802888631820679,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We and our service providers, advertisers, and other third parties use cookies and similar technologies (e.g., HTTP cookies, HTML 5, flash local storage cookies, web beacons, GIFs, embedded scripts, ETags/cache browsers, and software development kits) to recognize you on, off, and across the Services and your devices.",
+            "conf": 0.9980183243751526,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for these tracking practices",
+            "conf": 0.9999722242355347,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Despite all reasonable practices, no security method is infallible",
+            "conf": 0.9962734580039978,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "We may transfer your information to those described in this Privacy Policy outside of your country of residence, including in the United States and other countries",
+            "conf": 0.9999819397926331,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to amend this Privacy Policy at any time to reflect changes to our practices or the law",
+            "conf": 0.9762083888053894,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "The date at the top of this Privacy Policy tells you when it was last updated",
+            "conf": 0.9998803734779358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes to the way we collect or use your information, you will be provided with appropriate notice, including, but not limited to, by posting the updated Privacy Policy on this website, and providing notice in accordance with legal requirements",
+            "conf": 0.993671715259552,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 2.6
+}

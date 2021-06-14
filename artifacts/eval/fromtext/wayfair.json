@@ -1,0 +1,635 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated: December 31, 2019",
+            "conf": 0.9999988675117493,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective: January 1, 2020",
+            "conf": 0.9998583197593689,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may use automatically collected information such as cookies and similar technologies to provide the most relevant advertising to you",
+            "conf": 0.9920587539672852,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Once you have completed the application form, we send the data to the financing provider and delete it immediately from our systems, except for information we need to keep in order to provide services to you",
+            "conf": 0.9837632179260254,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies when you visit our Site and App to analyze traffic, optimize performance and content and to provide an integrated and more personalized shopping experience for customers",
+            "conf": 0.9998437762260437,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, we use Google Analytics to help us evaluate your use of the Site, to compile reports on website activity, and to provide other services related to website activity and internet usage",
+            "conf": 0.9999997019767761,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Targeting or advertising cookies, which allow us to deliver digital ads relevant to you",
+            "conf": 0.9999510049819946,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We use cookies to help us identify and retarget users who may be interested in our products, services or offerings both on our Site and on third party websites",
+            "conf": 0.9999476075172424,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We also use web beacons to help us identify your computer and evaluate user behavior, such as reactions to promotions",
+            "conf": 0.9999998211860657,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Web beacons are small GIF files that can be embedded in other graphics, emails, or similar",
+            "conf": 0.9999982714653015,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We may directly send you marketing communications and materials by email, postal mail and other channels to keep you informed of new products, promotions, and to provide other information we think may be of interest to you",
+            "conf": 0.9802597761154175,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can stop receiving direct marketing messages from us at any time through your preferences here or by clicking any \"unsubscribe\" link in any marketing message you receive from us",
+            "conf": 0.9999984502792358,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Interest-based ads, also sometimes referred to as personalized or targeted ads, are displayed to you based on information from activities such as purchasing on our sites, visiting sites that contain Wayfair content or ads, interacting with Wayfair tools, or using our payment services",
+            "conf": 0.999984085559845,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We do this using a variety of digital marketing networks and ad exchanges, and we use a range of advertising technologies like web beacons, pixels, ad tags, cookies, and mobile identifiers, as well as specific services offered by some sites and social networks, such as Facebook's Custom Audience service.",
+            "conf": 0.9993483424186707,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We offer you choices about receiving interest-based ads from us",
+            "conf": 0.9980825781822205,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of certain interest-based ads that use our cookies by clicking here",
+            "conf": 0.9999788999557495,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Please note that if you opt out of behavioral advertising, you will still see advertisements - they will just not be tailored to your interests",
+            "conf": 0.9468346834182739,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "To request removal of your information from blogs, customer reviews or forums, please contact us here",
+            "conf": 0.9998533725738525,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We encourage you to take reasonable measures to protect your password and your computer to prevent unauthorized access to your account",
+            "conf": 0.9154080152511597,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "We will keep your information for as long as you have an account or as long as we need it to fulfill the purpose for which it was collected or disclosed to you at the time of collection",
+            "conf": 0.9999892711639404,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When we no longer have a need to keep your information, we will either delete it from our systems or anonymize it so that it no longer identifies you",
+            "conf": 0.9959009289741516,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The Site, App and Service are not directed to children, and we do not knowingly collect information from children under 13",
+            "conf": 0.9999972581863403,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "Wayfair does not sell your personal information to third parties without your prior consent",
+            "conf": 0.9999980330467224,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "California residents also have the right to request the deletion of their personal information collected or maintained by Wayfair",
+            "conf": 0.9999982714653015,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 18 years of age, reside in California, and have a registered account with Wayfair, you have the right to request removal of unwanted information that you publicly post on the Service",
+            "conf": 0.999919593334198,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Upon receiving such a request, Wayfair will make sure that the information is not publicly available on the Service, but the information may not be completely or comprehensively removed from our systems and databases",
+            "conf": 0.9511860013008118,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "If you are visiting the Service from outside the United States, your information may be transferred to, stored and processed in the United States in accordance with this Privacy Policy and applicable US laws",
+            "conf": 0.9999985098838806,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may change this Privacy Policy from time to time to reflect new ways that we process your information",
+            "conf": 0.9791666269302368,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "When we post modifications to this Privacy Policy, we will revise the \"Last Updated\" date at the top of this page",
+            "conf": 0.9991787075996399,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If we make significant changes that affect your information, we will provide you notice of such changes through the Site, the App, by email, or some other means of contact",
+            "conf": 0.9964121580123901,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: January 10, 2019",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Wayfair reserves the right, at any time, to change these Terms of Use, our Privacy Policy and/or the Sites",
+            "conf": 0.9999927282333374,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you of any change to these Terms of Use by updating the \"Last Updated\" date at the top of this webpage",
+            "conf": 0.9963674545288086,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your own User Content and the consequences of posting or publishing it",
+            "conf": 0.9993601441383362,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Wayfair has the right to refuse, remove, edit or delete any User Content and/or to terminate any user's access to the Sites for any reason",
+            "conf": 0.9999972581863403,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Wayfair takes no responsibility for User Content",
+            "conf": 0.9998382329940796,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Prices and availability of products on the Sites are subject to change without notice",
+            "conf": 0.9998710751533508,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Wayfair reserves the right, at its sole discretion, to refuse or cancel any order for any reason",
+            "conf": 0.9998049736022949,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Your account may also be restricted or terminated for any reason, at Wayfair's sole discretion",
+            "conf": 0.9997647404670715,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Wayfair makes no claim and accepts no responsibility regarding the quality, nature or reliability of the Other Sites that are accessible by hyperlinks from the Sites or link to the Sites",
+            "conf": 0.9997562170028687,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "By agreeing to receive SMS messages from Wayfair, you certify that you are over 18 years of age and (a) you are the mobile account holder or (b) you have the account holder\u2019s permission to enroll the designated mobile phone number and can incur any mobile message or data charges",
+            "conf": 0.9998465776443481,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You understand that wireless through Wi-Fi or a participating mobile service provider may not be available in all areas at all times and may be affected by product, software, coverage or other service changes made by your mobile service provider or otherwise",
+            "conf": 0.9979995489120483,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold Wayfair and its agents and licensors harmless from any claim or demand, including reasonable attorneys\u2019 fees, made by any third party due to or arising out of (i) your use of the Sites, including any User Content you submit, post to or transmit through the Sites, (ii) your violation of these Terms of Use or (iii) your violation of any rights of another user",
+            "conf": 0.9999955892562866,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Wayfair intends for the information and data contained in the Sites to be accurate and reliable but since the information and data have been compiled from a variety of sources, they are provided \u2018AS IS\u2019 and \u201cAS AVAILABLE\u201d",
+            "conf": 0.9999993443489075,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IN NO EVENT WILL WAYFAIR OR ITS OFFICERS, MANAGERS, MEMBERS, EMPLOYEES, AGENTS, SUCCESSORS, SUBSIDIARIES, DISTRIBUTORS, AFFILIATES OR THIRD PARTIES PROVIDING INFORMATION ON THIS SITE OR VIA OTHER CHANNELS, INCLUDING BUT NOT LIMITED TO PHONE AND EMAIL, BE LIABLE TO ANY USER OF THE SITES OR ANY OTHER PERSON OR ENTITY FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, CONSEQUENTIAL OR EXEMPLARY DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA OR LOSS OF USE) ARISING OUT OF THE USE OR INABILITY TO USE THE SITES OR ANY INFORMATION CONTAINED THEREIN, INCLUDING USER CONTENT, WHETHER BASED UPON WARRANTY, CONTRACT, TORT, OR OTHERWISE, EVEN IF WAYFAIR HAS BEEN ADVISED OF OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES.",
+            "conf": 0.9999545216560364,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND WAYFAIR AGREE TO GIVE UP ANY RIGHTS TO LITIGATE CLAIMS IN A COURT OR BEFORE A JURY OR TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO A CLAIM",
+            "conf": 0.9999997019767761,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any dispute between you and Wayfair, its agents, employees, officers, directors, principals, successors, assigns, subsidiaries or affiliates (collectively for purposes of this section, 'Wayfair') arising from or relating to these Terms of Use and their interpretation or the breach, termination or validity thereof, the relationships which result from these Terms of Use, including disputes about the validity, scope or enforceability of this arbitration provision (collectively, \"Covered Disputes\") will be settled by binding arbitration",
+            "conf": 0.9382506012916565,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Neither Wayfair nor you are entitled to arbitrate any Covered Dispute as a class, representative or private attorney action and the arbitrator(s) will have no authority to proceed on a class, representative or private attorney general basis",
+            "conf": 0.9999999403953552,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of the agreement to arbitrate in this section is found illegal or unenforceable, the remaining arbitration terms shall continue to be fully valid, binding, and enforceable (but in no case will there be a class, representative or private attorney general arbitration)",
+            "conf": 0.9999905228614807,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that Wayfair, in its sole discretion, may terminate your account and your use of the Sites and may remove and delete your User Content if Wayfair believes that you have violated or acted inconsistently with these Terms of Use or for any other reason",
+            "conf": 0.9999918341636658,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Wayfair also may in its sole discretion and at any time discontinue providing the Sites, or any part thereof, with or without notice",
+            "conf": 0.9999995231628418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You agree that any termination of your access to the Sites may be effected without prior notice and you acknowledge and agree that Wayfair may bar any further access to the Sites",
+            "conf": 0.9999913573265076,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "YOU MUST BE AT LEAST AGE 13 TO USE THE SITES",
+            "conf": 0.9999865293502808,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By using the Sites, you affirm that you are over age 13",
+            "conf": 0.9999573826789856,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under age 13, you may not access or use the Sites",
+            "conf": 0.9999952912330627,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Wayfair has no responsibility and is not liable for: (a) the unavailability of any of the Sites; (b) any loss of data, information or materials caused by such system outages; (c) the resultant delay, mis-delivery or non-delivery of data, information or materials caused by such system outages; or (d) any outages caused by any third parties, including without limitation any companies or servers hosting any of the Sites, any Internet service providers or otherwise",
+            "conf": 0.9700779318809509,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Wayfair reserves the right to limit the availability of the Sites and/or the provision of any service, program or other product described thereon to any person, geographic area or jurisdiction, at any time and in our sole discretion",
+            "conf": 0.9996531009674072,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver of any provision or any breach of this Agreement will constitute a waiver of any other provisions or any other or further breach",
+            "conf": 0.9999901652336121,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In the event that any provision of this Agreement is determined to be illegal or unenforceable, the balance of the Agreement shall continue to be fully valid, binding, and enforceable",
+            "conf": 0.9440824389457703,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No waiver by either party of any breach or default hereunder will be deemed to be a waiver of any preceding or subsequent breach or default",
+            "conf": 0.9997990131378174,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: May 17, 2018",
+            "conf": 0.9999982118606567,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: August 22, 2018",
+            "conf": 0.9999982714653015,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Wayfair reserves the right, at any time and in its sole discretion, to change the Wayfair Professional Program Terms",
+            "conf": 0.999991238117218,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "When we post material modifications to the Wayfair Professional Program Terms, we will revise the \u201cLast Updated\u201d date at the top of this section",
+            "conf": 0.9917380809783936,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Wayfair, in its sole discretion, may cancel a Program Member\u2019s account at any time, with immediate effect and without notice, for any reason (including, without limitation, if Wayfair believes such Program Member has violated these Wayfair Professional Program Terms or Wayfair\u2019s Terms of Use)",
+            "conf": 0.9999997615814209,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Wayfair may terminate the Wayfair Professional Program at any time and for any reason",
+            "conf": 0.9911623001098633,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: April 9, 2020",
+            "conf": 0.9999984502792358,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Scheduled Home Services dates and times are subject to change",
+            "conf": 0.9596474766731262,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "EXCEPT AS EXPRESSLY PROVIDED HEREIN, WAYFAIR MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO THE HOME SERVICES OR THE PROS",
+            "conf": 0.9999704957008362,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU AGREE THAT ALL HOME SERVICES ARE PROVIDED TO YOU ON AN \"AS-IS\" AND \"AS AVAILABLE\" BASIS",
+            "conf": 0.9999995827674866,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "OF LIABILITY SET FORTH ABOVE, YOU AGREE THAT WAYFAIR SHALL HAVE NO LIABILITY IN CONNECTION WITH THE HOME SERVICES, THAT WAYFAIR IS NOT RESPONSIBLE OR LIABLE FOR THE CONDUCT OF ANY PRO, AND THAT WAYFAIR WILL NOT BE LIABLE FOR ANY CLAIM, INJURY, DAMAGES, OR LOSSES OF ANY KIND ARISING FROM OR IN CONNECTION WITH THE HOME SERVICES",
+            "conf": 0.9815254211425781,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You must be 18 years of age or older to purchase Home Services",
+            "conf": 0.9999982118606567,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Either you or someone else 18 years of age or older authorized by you must be present at all times during the performance of the Home Services",
+            "conf": 0.984041690826416,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You shall indemnify, defend, and hold harmless Wayfair, the Partners, and the Pros, and each of their owners, affiliates, parents, subsidiaries, successors, assigns, officers, directors, agents, employees, attorneys, insurers, and representatives (each an \"Indemnified Party\") from and against any and all claims, demands, causes of action, proceedings, losses, injury, damages, expenses, fines, penalties, and costs arising from or in connection with (i) the use and/or location of the Products; and (ii) your breach or violation of this Home Services Section",
+            "conf": 0.9999999403953552,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You hereby waive, release, covenant not to sue, and forever discharge each Indemnified Party from any and all debts, demands, actions, causes of action, suits, covenants, contracts, agreements, promises, torts, damages, claims, demands, losses, and liabilities whatsoever of any name and nature, both in law and in equity, which you now have, ever had, or may in the future have against any Indemnified Party arising from or in connection with (i) the use and/or location of the Products; and (ii) your breach or violation of, or failure to abide by, this Home Services Section",
+            "conf": 0.9999960064888,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: November 13, 2020",
+            "conf": 0.999998152256012,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "of Wednesday, March 25 2020",
+            "conf": 0.9342043995857239,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Wayfair reserves the right, at any time and in its sole discretion, to change the MyWay Program Terms or discontinue the MyWay Program",
+            "conf": 0.9998466372489929,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "When we post material modifications to the MyWay Program Terms, we will revise the \"Last Updated\" date at the top of this section",
+            "conf": 0.9977107644081116,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Wayfair may, in its sole and absolute discretion, change the Membership Fee from time to time",
+            "conf": 0.9208371043205261,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to opt out of auto-renewal, you may do so through My Account at any time",
+            "conf": 0.9468914270401001,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "Wayfair reserves the right, in its sole and absolute discretion, to exclude any individual(s) from the MyWay Program or to terminate the membership of any Program Member at any time, with immediate effect and without notice, for any reason (including, without limitation, if Wayfair believes such Program Member has violated these MyWay Program Terms or Wayfair's Terms of Use)",
+            "conf": 0.9999929666519165,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Wayfair may terminate the MyWay Program at any time and for any reason",
+            "conf": 0.9953151345252991,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your membership before the end of the Free Trial period by accessing the My Account page",
+            "conf": 0.9966530799865723,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Availability of any special offer is subject to change without notice",
+            "conf": 0.9980437755584717,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for and will not replace lost or stolen gift cards",
+            "conf": 0.9998354315757751,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Wayfair reserves the right to change these Terms from time to time in its discretion",
+            "conf": 0.999997615814209,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We are not responsible for pricing, typographical, or other errors, in any offer and reserve the right to cancel any orders resulting from such errors",
+            "conf": 0.9975120425224304,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not currently collect or maintain any personally identifiable information regarding the purchasers of the Cards",
+            "conf": 0.9407987594604492,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "If any one or more of the covenants, agreements, provisions or terms of these Terms shall be for any reason whatsoever held invalid, then such covenants, agreements, provisions or terms shall be deemed severable from the remaining covenants, agreements, provisions or terms of these Terms shall in no way affect the validity or enforceability of the other provisions of these Terms",
+            "conf": 0.9070937037467957,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.9
+}

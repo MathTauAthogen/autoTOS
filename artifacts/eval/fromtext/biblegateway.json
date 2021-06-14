@@ -1,0 +1,355 @@
+{
+    "predictions": [
+        {
+            "label": "3",
+            "text": "BibleGateway may change, suspend, or discontinue any aspect of the BibleGateway Widgets at any time without notice to you",
+            "conf": 0.9999920129776001,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "USE OF BIBLEGATEWAY WIDGETS AND ANY DATA, CONTENT, OR SERVICES ACCESSED THROUGH BIBLEGATEWAY WIDGETS IS AT YOUR SOLE RISK AND SUCH OFFERINGS ARE PROVIDED \"AS IS.\"",
+            "conf": 0.9999991655349731,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE BIBLEGATEWAY LICENSORS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO BIBLEGATEWAY WIDGETS AND ANY DATA, CONTENT, OR SERVICES ACCESSED THEREFROM, OR THE ACCURACY, TIMELINESS, COMPLETENESS, OR ADEQUACY OF BIBLEGATEWAY WIDGETS AND ANY DATA, CONTENT, OR SERVICES ACCESSED THEREFROM, INCLUDING THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.",
+            "conf": 0.9962393641471863,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "IF BIBLEGATEWAY WIDGETS OR ANY DATA, CONTENT, OR SERVICES ACCESSED THEREFROM PROVES DEFECTIVE, YOU (AND NOT THE BIBLEGATEWAY ENTITIES OR THE LICENSORS) ASSUME THE ENTIRE COST OF ALL REPAIRS OR INJURY OF ANY KIND, EVEN IF THE BIBLEGATEWAY ENTITIES OR LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH A DEFECT OR DAMAGES.",
+            "conf": 0.9943058490753174,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold the BibleGateway Entities harmless from any claim or demand, including reasonable attorneys' fees, made by any third party in connection with or arising out of your download, access, and/or use of BibleGateway Widgets, including any content or services provided therein, your violation of any term or condition of these Terms of Service, your violation of applicable laws or any rights of another person or entity",
+            "conf": 0.9999976754188538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "THE BIBLEGATEWAY ENTITIES AND LICENSORS ARE NOT LIABLE TO YOU FOR ANY AND ALL DIRECT, INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO BIBLEGATEWAY WIDGETS, ANY DATA, CONTENT, OR SERVICES ACCESSED THEREFROM, YOUR USE OR INABILITY TO USE OR ACCESS BIBLEGATEWAY WIDGETS, OR ANY DATA, CONTENT, OR SERVICES ACCESSED THEREFROM, WHETHER SUCH DAMAGE CLAIMS ARE BROUGHT UNDER ANY THEORY OF LAW OR EQUITY.",
+            "conf": 0.9996109008789062,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The failure of BibleGateway to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision",
+            "conf": 0.9999974370002747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective September 9, 2010",
+            "conf": 0.9989805221557617,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Company may modify this Agreement at any time, and each such modification will be effective upon posting on the Site",
+            "conf": 0.9511330127716064,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "You must be 18 years of age or older to purchase a Site Product",
+            "conf": 0.9999974370002747,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for any and all transactions utilizing your Personal Financial Information, including, but not limited to, any and all charges",
+            "conf": 0.9660114049911499,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that in the event Processor experiences a data breach that affects your Personal Financial Information, Company will in no way be responsible or liable to you for any such breach.",
+            "conf": 0.9911673665046692,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Company reserves the right to remove commercial content in its sole discretion",
+            "conf": 0.9808509945869446,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "If at any time, the Company chooses in its sole discretion to monitor the Company Services, the Company nonetheless assumes no responsibility for Content other than Company Content, assumes no obligation to modify or remove any inappropriate Content, and no responsibility for the conduct of any user",
+            "conf": 0.9536460638046265,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Company is not responsible for the content or accuracy of any information posted on a Forum, and shall not be responsible for any decisions made based on such information",
+            "conf": 0.9996262192726135,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Company reserves the right, but disclaims any obligation or responsibility, to prevent you from posting User Content to any Forum and to restrict or remove your User Content from a Forum for any reason at any time",
+            "conf": 0.9999984502792358,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Company is not responsible for and makes no warranties, express or implied, as to the Third Party Services or the providers of such Third Party Services (including, but not limited to, the accuracy or completeness of the information provided by such Third Party Service or the privacy practices thereof).",
+            "conf": 0.9983807802200317,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Company is not responsible for the content or practices of any websites other than the Site, even if the website links to the Site and even if it is operated by an Affiliated Company or a company otherwise connected with the Site",
+            "conf": 0.9975519776344299,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "By using the Company Services, you acknowledge and agree that Company is not responsible or liable to you for any content or other materials hosted and served from any website other than the Site.",
+            "conf": 0.9848891496658325,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Disclaimers The Company Services are provided \"AS-IS\" and \"as available\" and Company does not guarantee or promise any specific results from use of the Company Services",
+            "conf": 0.991136908531189,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "In particular, Company makes no warranty that your use of the Company Services will be uninterrupted, timely, secure or error-free or that any information obtained by you on, through or in connection with the Company Services or Third Party Services (including but not limited to, through User Content or third party advertisements) will be accurate or reliable",
+            "conf": 0.9999986290931702,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will Company be responsible for any loss or damage, including but not limited to, property damage, personal injury or death, resulting from use of the Company Services, problems or technical malfunction in connection with use of the Company Services, attendance at a Company event, any material downloaded or otherwise obtained in connection with the Company Services, any User Content, third party advertisement or Third Party Service posted on, through or in connection with the Company Services, or the conduct of any users of the Company Services, whether online or offline.",
+            "conf": 0.9969812631607056,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Liability IN NO EVENT WILL COMPANY BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING, WITHOUT LIMITATION, LOST PROFIT DAMAGES ARISING FROM YOUR USE OF THE COMPANY SERVICES, EVEN IF COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "conf": 0.9912694692611694,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVE ANY RIGHT YOU MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION (INCLUDING, BUT NOT LIMITED TO, ANY CLAIMS, COUNTERCLAIMS, CROSS-CLAIMS, OR THIRD PARTY CLAIMS) ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT",
+            "conf": 0.9951935410499573,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Indemnity You agree to indemnify and hold Company, its Affiliated Companies, subcontractors and other partners, and their respective officers, agents, partners and employees, harmless from any loss, liability, claim, or demand, including, but not limited to, reasonable attorneys' fees, made by any third party due to or arising out of your use of the Site or the Company Services, your breach of this Agreement, your violation of any rights of another or any Content that you post or otherwise submit on, through or in connection with the Company Services",
+            "conf": 0.9999852776527405,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Company to exercise or enforce any right or provision of this Agreement will not operate as a waiver of such right or provision",
+            "conf": 0.9999964237213135,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of this Agreement is unlawful, void or unenforceable, that provision is deemed severable from this Agreement and does not affect the validity and enforceability of any remaining provisions",
+            "conf": 0.9695267677307129,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: October 24, 2018",
+            "conf": 0.9999966621398926,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Services are for a general audience, are not targeted to children, and we do not knowingly collect personal information from children under 13 years of age",
+            "conf": 0.9998975396156311,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We also may obtain certain information through our Services by automated means, such as cookies (including HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of our Services.",
+            "conf": 0.9995987415313721,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A \u201cweb beacon\u201d also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.",
+            "conf": 0.998852550983429,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "The Company is not responsible for those providers\u2019 information practices",
+            "conf": 0.9992570877075195,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "In addition, we and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as (1) customizing our users\u2019 visits to and use of our Services, (2) delivering content (including advertising) tailored to our users\u2019 interests and the manner in which our users use our Services, and (3) managing our Services and other aspects of our business.",
+            "conf": 0.9998587369918823,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use third-party analytics services on our Services, such as those of Google Analytics",
+            "conf": 0.9997183680534363,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Services.",
+            "conf": 0.9984415173530579,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "On our sites, apps and/or emails we and our third-party service providers may obtain information about your activities to provide you with advertising about products and services tailored to your individual interests",
+            "conf": 0.9350898265838623,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We engage third-party advertising networks to help us target our messaging to visitors through interest-based and contextual means",
+            "conf": 0.9629309177398682,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "To learn how to opt out of this ad network interest-based advertising,",
+            "conf": 0.9921335577964783,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Our sites are not designed to respond to \u201cdo not track\u201d signals from browsers",
+            "conf": 0.9999713897705078,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We may share customer personal information with",
+            "conf": 0.9994508624076843,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Our third party clients or business partners, such as publishers, advertising agencies and social media networks, for marketing purposes, such as targeted advertising",
+            "conf": 0.9988507032394409,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We also reserve the right to transfer personal information we have about you in the event of a proposed or completed sale or transfer of all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).",
+            "conf": 0.9999987483024597,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You also can unsubscribe from our marketing mailing lists by following the \u201cUnsubscribe\u201d link in our emails",
+            "conf": 0.9999895691871643,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To learn more about how to opt out of ad network interest-based advertising, please visit the customer opt-out pages at:",
+            "conf": 0.999967634677887,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We retain personal information for the period needed to fulfill the purposes for which the personal information was collected and as otherwise required or permitted by applicable law, such as in relation to our record retention obligations",
+            "conf": 0.9164490103721619,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "We may transfer the personal information we collect about you to the United States and/or another country, which may not be deemed to have the same data protection laws as the country in which you initially provided the information",
+            "conf": 0.9994872212409973,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "If you are a user located outside the United States or the country to which your information may be transferred, you understand and consent to having any personal information processed in the United States and/or such country",
+            "conf": 0.9987390637397766,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices of any non-HarperCollins Christian Publishing\u2019s sites, apps or services.",
+            "conf": 0.9859196543693542,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices",
+            "conf": 0.9907511472702026,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "For significant changes, we will notify you by posting a prominent notice on our Services indicating at the top of the Notice when it was most recently updated",
+            "conf": 0.9991392493247986,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 1.3
+}

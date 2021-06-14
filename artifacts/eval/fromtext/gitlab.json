@@ -1,0 +1,481 @@
+{
+    "predictions": [
+        {
+            "label": "13",
+            "text": "From time to time, GitLab may publicly release non-personally-identifying information collected from Website visitors in the aggregate, e.g., by publishing a report on trends in the usage of the Website.",
+            "conf": 0.9867117404937744,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Here you can also opt-out of the usage ping",
+            "conf": 0.9280199408531189,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "If you store any sensitive personal information on GitLab",
+            "conf": 0.9389848113059998,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "\u2019s servers, you are consenting to our storage of that information on our servers, which are located in the United States",
+            "conf": 0.9615016579627991,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "If you're a child under the age of 13, you may not have an account on the Website",
+            "conf": 0.9999957084655762,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "GitLab does not knowingly collect information from or direct any of our Website or content specifically to children under 13",
+            "conf": 0.9999616146087646,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You may withdraw your consent at any time through the unsubscribe feature provided with each marketing email or by contacting us at the addresses given at the end of this Privacy Policy",
+            "conf": 0.9999806880950928,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "GitLab will not rent or sell potentially personally-identifying and personally-identifying information to anyone",
+            "conf": 0.9999816417694092,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "The Website is hosted in the United States and information we collect will be stored and processed on our servers in the United States",
+            "conf": 0.9998633861541748,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Our employees, contractors and affiliated organizations that process information for us as described above may be located in the United States or in other countries outside of your home country",
+            "conf": 0.9999897480010986,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "There's an unsubscribe link located at the bottom of each of the marketing emails we send you so you can stop receiving such emails at any time",
+            "conf": 0.9999472498893738,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "These sites set their own cookies and we do not have access or control over these cookies",
+            "conf": 0.967435359954834,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "5",
+            "text": ", we do not need to respond differently to an individual browser's Do Not Track setting",
+            "conf": 0.9028671979904175,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Information we collect will be stored and processed in the United States in accordance with this Privacy Policy but we understand that users from other countries may have different expectations and rights with regard to their privacy",
+            "conf": 0.9992872476577759,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Right of erasure of your personal data from our system (\u201cright to be forgotten\u201d) if certain grounds are met",
+            "conf": 0.9999988079071045,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "GitLab will retain your information for as long as your account is active or as needed to perform our contractual obligations, provide you services through the Website, to comply with legal obligations, resolve disputes, preserve legal rights, or enforce our agreements",
+            "conf": 0.99990314245224,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will also erase information once it is no longer necessary to fulfill the purposes for which it was collected and processed",
+            "conf": 0.9997974038124084,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Also, as described in our Terms of Use, if you contribute to a GitLab project and provide your personal information in connection with that contribution, that information (including your name) will be embedded and publicly displayed with your contribution and we will not be able to delete or erase it because doing so would break the project code",
+            "conf": 0.9903132319450378,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We will respond within 30 days of receiving your message at the latest but please note for promptest response, we recommend emailing us",
+            "conf": 0.9972143173217773,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "7",
+            "text": "Although most changes are likely to be minor, GitLab may change its privacy policy from time to time, and in GitLab's sole discretion",
+            "conf": 0.9998208284378052,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we decide to make a significant change to our Privacy Statement, we will post a notice on the homepage of our website for a period of time after the change is made",
+            "conf": 0.9987577795982361,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We may also provide notification to users who have provided us email addresses of material changes to this Privacy Policy through our Website",
+            "conf": 0.9887237548828125,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "use cookies to personalize content and ads, to provide social media features and to analyze our traffic",
+            "conf": 0.9179750680923462,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "These cookies do not store any personally identifiable information",
+            "conf": 0.9910760521888733,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "a unique ID on mobile devices to enable tracking based on geographical GPS location.",
+            "conf": 0.9431579113006592,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Cookie declaration last updated on 03/08/2018 by",
+            "conf": 0.999291181564331,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "The Website is available only to individuals who are at least 13 years old",
+            "conf": 0.9293185472488403,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you create an account on the Website, you are responsible for maintaining the security of your account, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account.",
+            "conf": 0.9990254044532776,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "GitLab will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions",
+            "conf": 0.9992011785507202,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe at any time by using the link at the bottom of the newsletter",
+            "conf": 0.9999778866767883,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "By operating the Website, GitLab does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful or non-harmful",
+            "conf": 0.9841488003730774,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "GitLab disclaims any responsibility for any harm resulting from the use by visitors of the Website, or from any downloading by those visitors of content there posted",
+            "conf": 0.9544435739517212,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "GitLab does not have any control over those non-GitLab websites and webpages, and is not responsible for their contents or their use.",
+            "conf": 0.9884700775146484,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "It is your responsibility to check this Agreement periodically for changes",
+            "conf": 0.9716511368751526,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "GitLab may terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately",
+            "conf": 0.9997587203979492,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you wish to terminate this Agreement or your GitLab account, you may simply discontinue using the Website",
+            "conf": 0.9702831506729126,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold harmless GitLab, its affiliates, contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys\u2019 fees, arising out of your use of this Agreement, including but not limited to your violation of this Agreement",
+            "conf": 0.9999923706054688,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Website is provided \u201cas is\u201d",
+            "conf": 0.9984291195869446,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Neither GitLab nor its suppliers and licensors, makes any warranty that the Website will be error free or that access thereto will be continuous or uninterrupted",
+            "conf": 0.9999915957450867,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of either party to enforce at any time, or for any period of time, the provisions hereof shall not be construed to be a waiver of such provisions or of the right of such party to enforce each and every such provision",
+            "conf": 0.9999976754188538,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "2.3 Customer will be responsible for maintaining the security of Customer\u2019s account, passwords (including but not limited to administrative and User passwords) and files, and for all uses of Customer account with or without Customer\u2019s knowledge or consent.",
+            "conf": 0.9993829131126404,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If GitLab receives any notice or claim that any Content, or Customer\u2019s activities hereunder (including without limitation, with respect to any Content), infringes or violates the rights of a third party or any applicable law or regulation (a \u201cClaim\u201d), Customer will indemnify, defend and hold GitLab harmless from all liability, damages, settlements, attorney fees and other costs and expenses in connection with any such Claim, as incurred",
+            "conf": 0.9998646974563599,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "4.4 GitLab will defend, indemnify and hold Customer harmless from liability and other amounts paid or payable to unaffiliated third parties resulting from (i) the infringement or violation of any intellectual property or proprietary rights by the Licensed Materials or (ii) the violation of applicable law or regulation by GitLab in performance of its obligations hereunder, provided GitLab is promptly notified of any and all threats, claims and proceedings related thereto and given reasonable assistance and the opportunity to assume sole control over defense and settlement thereof",
+            "conf": 0.9989823698997498,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE LICENSED MATERIALS, SOFTWARE AND GITLAB PROPRIETARY INFORMATION AND ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT ARE PROVIDED \"AS-IS,\" WITHOUT ANY WARRANTIES OF ANY KIND",
+            "conf": 0.9999532103538513,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT WITH RESPECT TO BREACH(ES) OF SECTION 1.1 AND/OR 2.1, IN NO EVENT WILL EITHER PARTY OR THEIR LICENSORS BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE LICENSED MATERIALS OR ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT, ANY DELAY OR INABILITY TO USE THE LICENSED MATERIALS OR ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT OR OTHERWISE ARISING FROM THIS AGREEMENT, INCLUDING WITHOUT LIMITATION, LOSS OF REVENUE OR ANTICIPATED PROFITS OR LOST BUSINESS OR LOST SALES, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.",
+            "conf": 0.996109664440155,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ", THE TOTAL LIABILITY OF EACH PARTY AND ITS LICENSORS, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE OR STRICT LIABILITY), OR OTHERWISE, WILL NOT EXCEED, IN THE AGGREGATE, THE GREATER OF (i) ONE THOUSAND DOLLARS ($1,000), OR (ii) THE FEES PAID TO GITLAB HEREUNDER IN ONE YEAR PERIOD ENDING ON THE DATE THAT A CLAIM OR DEMAND IS FIRST ASSERTED",
+            "conf": 0.9563111662864685,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "provided that either party may transfer and/or assign this Agreement to a successor in the event of a sale of all or substantially all of its business or assets to which this Agreement relates",
+            "conf": 0.9753296375274658,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "GitLab will not be liable for any loss resulting from a cause over which it does not have direct control",
+            "conf": 0.9995460510253906,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Services are non- cancellable",
+            "conf": 0.9926382899284363,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WARRANTY DISCLAIMER  THE SERVICES AND ANYTHING PROVIDED IN CONNECTION WITH THIS SERVICE AGREEMENT ARE PROVIDED \"AS-IS,\" WITHOUT ANY WARRANTIES OF ANY KIND",
+            "conf": 0.9751574993133545,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "LIMITATION OF LIABILITY  IN NO EVENT WILL EITHER PARTY BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE SERVICES OR ANYTHING PROVIDED IN CONNECTION WITH THIS SERVICE AGREEMENT, INCLUDING WITHOUT LIMITATION, LOSS OF REVENUE OR ANTICIPATED PROFITS OR LOST BUSINESS OR LOST SALES, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.",
+            "conf": 0.9998787045478821,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "provided that either party may transfer and/or assign this Service Agreement to a successor in the event of a sale of all or substantially all of its business or assets to which this Service Agreement relates",
+            "conf": 0.9596589803695679,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "GitLab will not be liable for any loss resulting from a cause over which it does not have direct control",
+            "conf": 0.9995460510253906,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "1.2 GitLab will undertake commercially reasonable efforts to make the Services available 99.9% of the time, excluding any time referred to in the next sentence",
+            "conf": 0.9884713888168335,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "2.3 Customer will be responsible for maintaining the security of Customer\u2019s account, passwords (including but not limited to administrative and user passwords) and files, and for all uses of Customer account with or without Customer\u2019s knowledge or consent",
+            "conf": 0.9999969005584717,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If GitLab receives any notice or claim that any Content, or Customer\u2019s activities hereunder (including without limitation, with respect to any Content), infringes or violates the rights of a third party or any applicable law or regulation (a \u201cClaim\u201d), Customer will indemnify, defend and hold GitLab harmless from all liability, damages, settlements, attorney fees and other costs and expenses in connection with any such Claim, as incurred",
+            "conf": 0.9998646974563599,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "4.4 GitLab will defend, indemnify and hold Customer harmless from liability and other amounts, in each case paid or payable to unaffiliated third parties to the extent resulting from (i) the infringement or violation of any intellectual property or proprietary rights by the Services or (ii) the violation of applicable law or regulation by GitLab in performance of its obligations hereunder, provided GitLab is promptly notified of any and all threats, claims and proceedings related thereto and given reasonable assistance and the opportunity to assume sole control over defense and settlement thereof",
+            "conf": 0.9999909400939941,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "6.3 Either party may terminate this Agreement, without notice, (i) upon the institution by or against the other party of insolvency, receivership or bankruptcy proceedings (provided such proceedings are not dismissed within one hundred twenty (120) days of such institution), (ii) upon the other party's making an assignment for the benefit of creditors, or (iii) upon the other party's dissolution or ceasing to do business without a successor",
+            "conf": 0.9322932958602905,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WARRANTY DISCLAIMER THE SERVICES, AND GITLAB PROPRIETARY INFORMATION AND ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT ARE PROVIDED \"AS-IS,\" WITHOUT ANY WARRANTIES OF ANY KIND",
+            "conf": 0.9997204542160034,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "LIMITATION OF LIABILITY  IN NO EVENT WILL EITHER PARTY OR THEIR LICENSORS BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE SERVICES OR ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT, ANY DELAY OR INABILITY TO USE THE SERVICES OR ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT OR OTHERWISE ARISING FROM THIS AGREEMENT, INCLUDING WITHOUT LIMITATION, LOSS OF REVENUE OR ANTICIPATED PROFITS OR LOST BUSINESS OR LOST SALES, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.",
+            "conf": 0.9999276399612427,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT WITH RESPECT TO THE GROSS NEGLIGENCE OF EITHER PARTY, THE TOTAL LIABILITY OF EACH PARTY AND ITS LICENSORS, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE OR STRICT LIABILITY), OR OTHERWISE, WILL NOT EXCEED, IN THE AGGREGATE, THE GREATER OF (i) ONE THOUSAND DOLLARS ($1,000), OR (ii) THE FEES PAID TO GITLAB HEREUNDER IN THE ONE YEAR PERIOD ENDING ON THE DATE THAT A CLAIM OR DEMAND IS FIRST ASSERTED",
+            "conf": 0.994524359703064,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "GitLab will not be liable for any loss resulting from a cause over which it does not have direct control",
+            "conf": 0.9995460510253906,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "2.3 Customer will be responsible for maintaining the security of Customer\u2019s account, passwords (including but not limited to administrative and User passwords) and files, and for all uses of Customer account with or without Customer\u2019s knowledge or consent.",
+            "conf": 0.9993829131126404,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If GitLab receives any notice or claim that any Content, or Customer\u2019s activities hereunder (including without limitation, with respect to any Content), infringes or violates the rights of a third party or any applicable law or regulation (a \u201cClaim\u201d), Customer will indemnify, defend and hold GitLab harmless from all liability, damages, settlements, attorney fees and other costs and expenses in connection with any such Claim, as incurred",
+            "conf": 0.9998646974563599,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE LICENSED MATERIALS, SOFTWARE AND GITLAB PROPRIETARY INFORMATION AND ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT ARE PROVIDED \"AS-IS,\" WITHOUT ANY WARRANTIES OF ANY KIND",
+            "conf": 0.9999532103538513,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "EXCEPT WITH RESPECT TO BREACH(ES) OF SECTION 1.1 AND/OR 2.1, IN NO EVENT WILL EITHER PARTY OR THEIR LICENSORS BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE LICENSED MATERIALS OR ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT, ANY DELAY OR INABILITY TO USE THE LICENSED MATERIALS OR ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT OR OTHERWISE ARISING FROM THIS AGREEMENT, INCLUDING WITHOUT LIMITATION, LOSS OF REVENUE OR ANTICIPATED PROFITS OR LOST BUSINESS OR LOST SALES, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.",
+            "conf": 0.996109664440155,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "provided that either party may transfer and/or assign this Agreement to a successor in the event of a sale of all or substantially all of its business or assets to which this Agreement relates",
+            "conf": 0.9753296375274658,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "GitLab will not be liable for any loss resulting from a cause over which it does not have direct control",
+            "conf": 0.9995460510253906,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.9
+}

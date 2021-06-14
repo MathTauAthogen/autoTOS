@@ -1,0 +1,257 @@
+{
+    "predictions": [
+        {
+            "label": "16",
+            "text": "We reserve the right to change the Terms at any time, but if we do, we will bring it to your attention by placing a notice on the website (https://www.bluestacks.com/terms.html), by sending you an email, and/or by some other means",
+            "conf": 0.9997720718383789,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect or solicit personally identifiable information from children under 13",
+            "conf": 0.9993647336959839,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "if you are a child under 13, please do not attempt to register for the Services or send any personal information about yourself to us",
+            "conf": 0.9999988079071045,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You represent and warrant that you are an individual of legal age to form a binding contract (or if not, you\u2019ve received your parent\u2019s or guardian\u2019s permission to use the Services and gotten your parent or guardian to agree to these Terms on your behalf).",
+            "conf": 0.9998269081115723,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You will not share your account or password with anyone, and you must protect the security of your account and your password.",
+            "conf": 0.9944172501564026,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You\u2019re responsible for any activity associated with your account.",
+            "conf": 0.987612247467041,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to change, modify and/or eliminate Free BlueStacks Points and the terms applicable thereto at any time upon notice to you (which may be provided through the Services or by modifying these Terms).",
+            "conf": 0.9998794198036194,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "BlueStacks does not promise any delivery time, and is not responsible for any delay or seizure by the customs of any item",
+            "conf": 0.9904870390892029,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "ANY AND ALL ITEMS PROVIDED IN CONNECTION WITH THE BLUESTACKS STORE OR BLUESTACKS POINT ARE MADE AVAILABLE ON AN AS IS, WHERE IS BASIS, AND BLUESTACKS AND ITS SUPPLIERS AND LICENSORS DISCLAIM ALL OTHER WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, PERFORMANCE, SUITABILITY, AND NON-INFRINGEMENT.",
+            "conf": 0.9960229992866516,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no control over, and assume no responsibility for, the sales, trading, or transactions by any third party that you interact with through the Services.",
+            "conf": 0.9826253056526184,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree that Bluestacks shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings.",
+            "conf": 0.982591986656189,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In the event that you have a dispute with one or more other users, you release Bluestacks, its officers, employees, agents, and successors from claims, demands, and damages of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to such disputes and/or our Services",
+            "conf": 0.970998227596283,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can unsubscribe or opt out from such communication at any time, but you may be unable to receive crucial account related communication",
+            "conf": 0.9999909996986389,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "To unsubscribe, please visit https://bluestacks-cloud.appspot.com/communications.html, enter your email address that you wish to unsubscribe and click on the \u201cunsubscribe\u201d button or click on the unsubscribe link in your email",
+            "conf": 0.9997211694717407,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Any information or content publicly posted or privately transmitted through the Services is the sole responsibility of the person from whom such content originated, and you access all such information and content at your own risk, and we aren\u2019t liable for any errors or omissions in that information or content or for any damages or loss you might suffer in connection with it.",
+            "conf": 0.9984596371650696,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We cannot control and have no duty to take any action regarding how you may interpret and use the Content or what actions you may take as a result of having been exposed to the Content, and you hereby release us from all liability for you having acquired or not acquired Content through the Services",
+            "conf": 0.9918587803840637,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We can\u2019t guarantee the identity of any users with whom you interact in using the Services and are not responsible for which users gain access to the Services",
+            "conf": 0.9983974099159241,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "BlueStacks has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices of or opinions expressed in any Third Party Services or by any third party that you interact with through the Services",
+            "conf": 0.9959881901741028,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "By using the Services, you release and hold us harmless from any and all liability arising from your use of any third party website or service",
+            "conf": 0.9997790455818176,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree that BlueStacks shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings.",
+            "conf": 0.9867364764213562,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In the event that you have a dispute with one or more other users, you release BlueStacks, its officers, employees, agents, and successors from claims, demands, and damages of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to such disputes and/or our Services",
+            "conf": 0.9641073942184448,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We may suspend or discontinue any part of the Services, or we may introduce new features or impose limits on certain features or restrict access to parts or all of the Services",
+            "conf": 0.9999968409538269,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Similarly, we reserve the right to remove any Content from the Services at any time, for any reason (including, but not limited to, if someone alleges you contributed that Content in violation of these Terms), in our sole discretion, and without notice",
+            "conf": 0.9998977780342102,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for error by the",
+            "conf": 0.9406620860099792,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "To change or resign your subscription services at any time, go to your BlueStacks account",
+            "conf": 0.9980149865150452,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "BlueStacks may cancel your subscription at any time by notifying you",
+            "conf": 0.9830895066261292,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your subscription by contacting our Customer Support at premium dot support at bluestacks dot com",
+            "conf": 0.9284205436706543,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You",
+            "conf": 0.9926810264587402,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "\u2019re free to uninstall the BlueStacks software at any time",
+            "conf": 0.9954471588134766,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "BlueStacks is also free to terminate (or suspend access to) your use of the Services or your account, for any reason in our discretion, including your breach of these Terms",
+            "conf": 0.9996903538703918,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Neither BlueStacks nor its licensors or suppliers makes any representations or warranties concerning any content contained in or accessed through the Services, and we will not be responsible or liable for the accuracy, copyright compliance, legality, or decency of material contained in or accessed through the Services",
+            "conf": 0.9997729063034058,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Products and services purchased or offered (whether or not following such recommendations and suggestions) through the Services are provided \u201cAS IS\u201d and without any warranty of any kind from BlueStacks or others (unless, with respect to such others only, provided expressly and unambiguously in writing by a designated third party for a specific product).",
+            "conf": 0.9999996423721313,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES AND CONTENT ARE PROVIDED BY BLUESTACKS (AND ITS LICENSORS AND SUPPLIERS) ON AN \u201cAS-IS\u201d BASIS, WITHOUT WARRANTIES OR ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT USE OF THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE",
+            "conf": 0.999152421951294,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, TORT, CONTRACT, STRICT LIABILITY, OR OTHERWISE) SHALL BLUESTACKS (OR ITS LICENSORS OR SUPPLIERS) BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR (A) ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING DAMAGES FOR LOST PROFITS, LOSS OF GOODWILL, WORK STOPPAGE, ACCURACY OF RESULTS, OR COMPUTER FAILURE OR MALFUNCTION, OR (B) ANY AMOUNT, IN THE AGGREGATE, IN EXCESS OF THE GREATER OF (I) $100 OR (II) THE AMOUNTS PAID BY YOU TO BLUESTACKS IN CONNECTION WITH THE SERVICES IN THE TWELVE (12) MONTH PERIOD PRECEDING THIS APPLICABLE CLAIM, OR (C) ANY MATTER BEYOND OUR REASONABLE CONTROL.",
+            "conf": 0.9997978210449219,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "To the fullest extent allowed by applicable law, You agree to indemnify and hold BlueStacks, its affiliates, officers, agents, employees, and partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys\u2019 fees) arising from or in any way related to any third party claims relating to (a) your use of the Services (including any actions taken by a third party using your account), and (b) your violation of these Terms",
+            "conf": 0.999998152256012,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of BlueStacks to exercise, in any way, any right herein shall not be deemed a waiver of any further rights hereunder",
+            "conf": 0.9998283386230469,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.1
+}

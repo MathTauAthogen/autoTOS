@@ -1,0 +1,194 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "The Service may be\u00a0used only by\u00a0individuals aged 14\u00a0and above",
+            "conf": 0.9993311166763306,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "The Administration reserves the right to\u00a0delete Account and Blog if\u00a0User did not access the Account or\u00a0the access was restricted for more than 2 years due to\u00a0a\u00a0breach hereof",
+            "conf": 0.9274348616600037,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "User may delete his/her Account using Account management interface",
+            "conf": 0.999296247959137,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When the function to\u00a0delete Account is\u00a0activated, Account shall be\u00a0blocked for 1\u00a0year, during which other Users shall have no\u00a0access to\u00a0the Blog Content;",
+            "conf": 0.9980719089508057,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "LiveJournal will not resell your identifiable personal information to third parties",
+            "conf": 0.9999913573265076,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "LiveJournal allows some third parties that advertise and/or offer products and services on the Service to set and access their cookies on your computer when you visit their web sites, subject to their respective privacy policies",
+            "conf": 0.9131810069084167,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Third parties are not granted access to LiveJournal's cookies",
+            "conf": 0.9571064114570618,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "Special Rules Regarding Children You must be at least 13 years of age to use the Service",
+            "conf": 0.9985492825508118,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Users who are found to be under 13 years of age may be suspended from the Service without notice",
+            "conf": 0.9999969005584717,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Users who are over 18 years of age and who register as being under 18 years of age may be suspended without notice",
+            "conf": 0.9999970197677612,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Users who are under 18 years of age and who register as being over 18 years of age may be suspended without notice",
+            "conf": 0.9999971985816956,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We will not knowingly collect personal information from children under the age of 13, and any information inadvertently gathered will be promptly deleted",
+            "conf": 0.9999951720237732,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Their use of your personal information is subject to this Policy and/or applicable law, but may be modified anytime by posting an updated Policy at this URL",
+            "conf": 0.983397364616394,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "No Resale of Identifiable Personal Information: We will not share or resell your identifiable personal information to third parties for direct marketing purposes",
+            "conf": 0.9999788999557495,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "LiveJournal cannot be responsible for any loss or damages relating to any information you post on the Service",
+            "conf": 0.9999376535415649,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "LiveJournal will not share your identifiable personal information with third party advertisers, but may aggregate and share non-identifiable generalized data about you with third parties, including demographic information and your viewing of, and interaction with, advertisements displayed on the Service in order to improve the relevancy of ad service, third party offerings, and related campaigns.",
+            "conf": 0.9592179656028748,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Please note that none of your identifiable personal information will be shared with our advertisers through their use of cookies or web beacons",
+            "conf": 0.98648601770401,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Third Parties: LiveJournal works with third parties, including advertising companies and website analysis firms, who use their own cookies to collect non-personally identifiable information about your surfing activities when you visit our site and other third party sites.",
+            "conf": 0.9837160706520081,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This non-personally identifiable information is typically used by these third party advertising networks to serve you advertisements tailored to meet your preferences (and likely interests) while you are on our site and others",
+            "conf": 0.9909310340881348,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "Click here for the NAI gateway opt-out site, http://www.networkadvertising.org/optout_nonppii.asp",
+            "conf": 0.9445859789848328,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "In the course of business, we might negotiate to sell all or part of our business",
+            "conf": 0.9487251043319702,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Such Policy may, however, be updated or amended at any time",
+            "conf": 0.9996287822723389,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You can edit your",
+            "conf": 0.9090114831924438,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Account Deletion: You can delete your LiveJournal account at any time by visiting our Account Deletion page",
+            "conf": 0.9999247789382935,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Please notice that it may take some time for all of your content to be deleted and purged from our servers",
+            "conf": 0.9984699487686157,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We reserve the right to retain and/or keep records of your personal information to the extent it is necessary to protect LiveJournal's legal interests or comply with court orders, legal process, or other regulatory requirements under U.S.",
+            "conf": 0.9857129454612732,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: December 16, 2014",
+            "conf": 0.9999977946281433,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 3.8
+}

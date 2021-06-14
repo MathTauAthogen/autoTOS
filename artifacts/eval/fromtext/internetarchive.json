@@ -1,0 +1,75 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "31 Dec 2014",
+            "conf": 0.9999945759773254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Archive does not endorse or sponsor any content in the Collections, nor does it guarantee or warrant that the content available in the Collections is accurate, complete, noninfringing, or legally accessible in your jurisdiction, and you agree that you are solely responsible for abiding by all laws and regulations that may be applicable to the viewing of the content",
+            "conf": 0.999979555606842,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "In addition, the Collections are provided to you on an as-is and as-available basis",
+            "conf": 0.9999927878379822,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You understand and agree that the Archive makes no warranty or representation regarding the accuracy, currency, completeness, reliability, or usefulness of the content in the Collections, that the Site or the Collections will meet your requirements, that access to the Collections will be uninterrupted, timely, secure, or error free, or that defects, if any, will be corrected",
+            "conf": 0.9999951124191284,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no warranty of any kind, either express or implied",
+            "conf": 0.9999900460243225,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold harmless the Internet Archive and its parents, subsidiaries, affiliates, agents, officers, directors, and employees from and against any and all liability, loss, claims, damages, costs, and/or actions (including attorneys\u2019 fees) arising from your use of the Archive\u2019s services, the site, or the Collections",
+            "conf": 0.9999130964279175,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances, including, without limitation, negligence, shall the Archive or its parents, affiliates, officers, employees, or agents be responsible for any indirect, incidental, special, or consequential damages arising from or in connection with the use of or the inability to use the Site or the Collections, or any content contained on the Site or in the Collections, or resulting from unauthorized access to the Collections or your transmissions of data, including, without limitation, damages for loss of profits, use, data, or other intangibles, even if the Archive has been advised of the possibility of such damages.",
+            "conf": 0.9952771663665771,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "10 March 2001",
+            "conf": 0.9999907612800598,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Contact the Archive by email at info@archive.org to see, update, or delete your information",
+            "conf": 0.9895208477973938,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "10 March 2001",
+            "conf": 0.9999907612800598,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.3
+}

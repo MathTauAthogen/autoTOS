@@ -1,0 +1,390 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last Updated on December 13, 2019",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "December 13, 2019",
+            "conf": 0.9402620792388916,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "PLEASE NOTE: THESE TERMS INCLUDE DISPUTE RESOLUTION PROVISIONS (SEE SECTION 13) THAT, WITH LIMITED EXCEPTIONS, REQUIRE THAT (1) CLAIMS YOU BRING AGAINST YELP BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION, AND (2) YOU WAIVE YOUR RIGHT TO BRING OR PARTICIPATE IN ANY CLASS, GROUP, OR REPRESENTATIVE ACTION OR PROCEEDING",
+            "conf": 0.9999251961708069,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may modify the Terms from time to time",
+            "conf": 0.9996941089630127,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes to these Terms, we will notify you by email, by posting notice on the Service, and/or by other method prior to the effective date of the changes",
+            "conf": 0.9999427795410156,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "We will also indicate at the top of this page the date that such changes were last made",
+            "conf": 0.9527536034584045,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "You should revisit these Terms on a regular basis as revised versions will be binding on you",
+            "conf": 0.9968661069869995,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Service may be modified, updated, interrupted, suspended or discontinued at any time without notice or liability",
+            "conf": 0.9996997117996216,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the confidentiality of your Account password",
+            "conf": 0.9999902248382568,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are also responsible for all activities that occur in connection with your Account",
+            "conf": 0.972680389881134,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to close your Account at any time for any or no reason",
+            "conf": 0.9937229752540588,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of certain communications here",
+            "conf": 0.9999706745147705,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to remove, screen, edit, or reinstate User Content at our sole discretion for any reason or no reason, and without notice to you",
+            "conf": 0.999617874622345,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "We are under no obligation to enforce the Terms on your behalf against another user",
+            "conf": 0.99997878074646,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend, and hold harmless Yelp, its parents, subsidiaries, affiliates, any related companies, suppliers, licensors and partners, and the officers, directors, employees, agents, contractors and representatives of each of them (collectively, the \u201cYelp Entities",
+            "conf": 0.9999845027923584,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": ") from&nbsp",
+            "conf": 0.9869024157524109,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "and against any and all third party claims, actions, demands, losses, damages, costs, liabilities and expenses (including but not limited to attorneys\u2019 fees and court costs)&nbsp",
+            "conf": 0.9938986301422119,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Yelp reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims",
+            "conf": 0.945414125919342,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICE AND SERVICE CONTENT ARE MADE AVAILABLE TO YOU ON AN \u201cAS IS\u201d, \u201cWITH ALL FAULTS\u201d AND \u201cAS AVAILABLE\u201d BASIS, WITH THE EXPRESS UNDERSTANDING THAT THE YELP ENTITIES MAY NOT MONITOR, CONTROL, OR VET USER CONTENT OR THIRD PARTY CONTENT.",
+            "conf": 0.9976583123207092,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THE YELP ENTITIES MAKE NO CLAIMS OR PROMISES ABOUT THE QUALITY, COMPLETENESS, ACCURACY, OR RELIABILITY OF THE SERVICE, ITS SAFETY OR SECURITY, INCLUDING WITHOUT LIMITATION THE SECURITY OF YOUR DATA, OR THE SERVICE CONTENT",
+            "conf": 0.9993407726287842,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ACCORDINGLY, THE YELP ENTITIES ARE NOT LIABLE TO YOU FOR ANY PERSONAL INJURY, LOSS OR DAMAGE THAT MIGHT ARISE, FOR EXAMPLE, FROM THE SERVICE\u2019S INOPERABILITY, DEPLETION OF BATTERY POWER OR OTHER IMPAIRMENT OF DEVICES USED TO ACCESS THE SERVICE, SERVICE UNAVAILABILITY, SECURITY VULNERABILITIES OR FROM YOUR RELIANCE ON THE QUALITY, ACCURACY, OR RELIABILITY OF THE BUSINESS LISTINGS, RATINGS, REVIEWS (INCLUDING THEIR CONTENT OR OMISSION OF CONTENT, ORDER, AND DISPLAY), METRICS OR OTHER CONTENT FOUND ON, USED ON, OR MADE AVAILABLE THROUGH THE SERVICE",
+            "conf": 0.95442795753479,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "THE YELP ENTITIES MAKE NO CLAIMS OR PROMISES WITH RESPECT TO ANY THIRD PARTY, SUCH AS THE BUSINESSES OR ADVERTISERS LISTED ON THE SERVICE OR THAT OFFER GOODS OR SERVICES THROUGH THE SERVICE, OR THE SERVICE",
+            "conf": 0.9308047890663147,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ACCORDINGLY, THE YELP ENTITIES ARE NOT LIABLE TO YOU FOR ANY PERSONAL INJURY, LOSS OR DAMAGE THAT MIGHT ARISE FROM ANY SUCH THIRD PARTY\u2019S ACTIONS OR OMISSIONS, INCLUDING, FOR EXAMPLE, IF ANOTHER USER OR BUSINESS MISUSES YOUR CONTENT, IDENTITY OR PERSONAL INFORMATION, OR IF YOU HAVE A NEGATIVE EXPERIENCE WITH ONE OF THE BUSINESSES OR ADVERTISERS LISTED OR FEATURED ON THE SERVICE.",
+            "conf": 0.9939848184585571,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "THE YELP ENTITIES\u2019 LIABILITY SHALL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE YELP ENTITIES WILL NOT BE LIABLE FOR ANY (i) INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, RELIANCE, OR CONSEQUENTIAL DAMAGES, (ii) LOSS OF PROFITS OR REVENUE, (iii) BUSINESS INTERRUPTION, (iv) REPUTATIONAL HARM, (v) LOSS OF INFORMATION OR DATA.",
+            "conf": 0.9996323585510254,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND WE AGREE THAT EACH MAY BRING OR PARTICIPATE IN CLAIMS AGAINST THE OTHER ONLY IN OUR RESPECTIVE INDIVIDUAL CAPACITIES, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999948143959045,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "UNLESS BOTH YOU AND YELP AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN THE CLAIMS OF OTHER PERSONS OR PARTIES WHO MAY BE SIMILARLY SITUATED, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING",
+            "conf": 0.9999971389770508,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may close your Account, suspend your ability to use certain portions of the Service, terminate any license or permission granted to you hereunder, and/or ban you altogether from the Service for any or no reason, and without notice or liability of any kind",
+            "conf": 0.9999706745147705,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right to modify, update, or discontinue the Service at our sole discretion, at any time, for any or no reason, and without notice or liability",
+            "conf": 0.9992994666099548,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Any failure on Yelp\u2019s part to exercise or enforce any right or provision of the Terms does not constitute a waiver of such right or provision",
+            "conf": 0.9998597502708435,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder",
+            "conf": 0.9998545050621033,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated on December 13, 2019",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "THEY REQUIRE THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN TRIALS OR CLASS ACTIONS, AND ALSO LIMIT THE REMEDIES AVAILABLE TO YOU IN THE EVENT OF A DISPUTE.&nbsp",
+            "conf": 0.9730956554412842,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND YELP AGREE THAT EACH MAY BRING OR PARTICIPATE IN BUSINESS CLAIMS AGAINST THE OTHER ONLY IN THEIR RESPECTIVE INDIVIDUAL CAPACITIES, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999938607215881,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "UNLESS BOTH YOU AND YELP AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN THE BUSINESS CLAIMS OF OTHER PERSONS OR PARTIES WHO MAY BE SIMILARLY SITUATED, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING",
+            "conf": 0.9999962449073792,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "IF A BUSINESS CLAIM IMPLICATES THIS SECTION, AND THIS SECTION IS FOUND TO BE INVALID, UNENFORCEABLE OR ILLEGAL BY A COURT",
+            "conf": 0.9549300670623779,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "SUCH BUSINESS CLAIM MUST BE ADJUDICATED BY A COURT AND NOT BY AN ARBITRATOR.&nbsp",
+            "conf": 0.9245802760124207,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated on December 13, 2019",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "This Privacy Policy is effective January 1, 2020 for all users",
+            "conf": 0.9920682311058044,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We, and third parties with whom we partner, may use cookies, web beacons, tags, scripts, local shared objects such as HTML5 and Flash (sometimes called \u201cflash cookies\u201d), advertising identifiers (including mobile identifiers such as Apple\u2019s Identifier for Advertisers (\u201cIDFA\u201d) or Google\u2019s Advertising ID (\u201cGAID\u201d)) and similar technology (\u201cCookies\u201d) in connection with your use of the Service, third party websites, and mobile applications.",
+            "conf": 0.9998893737792969,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "We do not necessarily have access to or control over the Cookies they use, but you may be able to opt out of some of their practices by visiting the following links",
+            "conf": 0.9297422170639038,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "We may also share some non-identifiable, de-identified or aggregated information from or about you, such as location information, with third parties in connection with advertising programs and data analytics",
+            "conf": 0.9886624217033386,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Except as set forth herein, we do not share your personal information with them, and are not responsible for their privacy practices",
+            "conf": 0.9986953735351562,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can close your account by clicking here",
+            "conf": 0.9998547434806824,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will remove certain public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law",
+            "conf": 0.9994697570800781,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The Service is intended for general audiences and is not directed to children under 13",
+            "conf": 0.9995891451835632,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect personal information from children under 13",
+            "conf": 0.9997414946556091,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may revise this Privacy Policy from time to time",
+            "conf": 0.9997684359550476,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on the Service prior to or on the effective date of the changes",
+            "conf": 0.999859094619751,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Yelp does not sell your personal information and will not do so in the future without providing you with notice and an opportunity to opt-out of such sale as required by law",
+            "conf": 0.9779770970344543,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You also have the right to request deletion of your personal information, though exceptions under the CCPA may allow Yelp to retain and use certain personal information notwithstanding your deletion request",
+            "conf": 0.9999447464942932,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not disclose your personal information to third parties for the purpose of directly marketing their goods or services to you unless you request such disclosure",
+            "conf": 0.9730374217033386,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Yelp does not sell your personal information to third parties as defined in Nevada law, and will not do so in the future without providing you with notice and an opportunity to opt-out of such sale as required by law",
+            "conf": 0.9986299872398376,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If you are a European Resident, you have the right to access your personal data, and the right to request that we correct, update, or delete your personal data",
+            "conf": 0.9992738366127014,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "The Service generally provides you with a reasonable means to view and change your profile information and you can opt-out of marketing communications at any time by clicking on the \u201cunsubscribe\u201d or \u201copt-out\u201d link in the marketing emails we send you or in your account settings",
+            "conf": 0.9999892711639404,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "For European Residents, please note that the personal information we obtain from or about you may be transferred, processed, and stored outside of the EEA or Switzerland for the purposes described in this Privacy Policy, including in the United States of America",
+            "conf": 0.9999555349349976,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.5
+}

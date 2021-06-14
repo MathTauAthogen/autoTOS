@@ -1,0 +1,733 @@
+{
+    "predictions": [
+        {
+            "label": "6",
+            "text": "AT&amp;T may interrupt, suspend or cancel your Services and terminate your Agreement without advance notice for any reason including, but not limited to, the following:",
+            "conf": 0.9999783635139465,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "WHICH YOUR AIRTIME RATE APPLIES (OTHER THAN A TEMPORARY DECREASE FOR REPAIRS OR MAINTENANCE), WE'LL DISCLOSE THE CHANGE AT LEAST ONE BILLING CYCLE IN ADVANCE (EITHER THROUGH A NOTICE WITH YOUR BILL, A TEXT MESSAGE TO YOUR DEVICE, OR OTHERWISE), AND YOU MAY TERMINATE THIS AGREEMENT WITHOUT PAYING AN EARLY TERMINATION FEE OR RETURNING OR PAYING FOR ANY PROMOTIONAL ITEMS, PROVIDED YOUR NOTICE OF TERMINATION IS DELIVERED TO US WITHIN THIRTY (30) DAYS AFTER THE FIRST BILL REFLECTING THE CHANGE",
+            "conf": 0.9848409295082092,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may remove an Authorized/Approved User at any time by contacting Us",
+            "conf": 0.9314177632331848,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "class arbitrations and class actions are not permitted",
+            "conf": 0.9999988079071045,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "claims that are currently the subject of purported class action litigation in which you are not a member of a certified class",
+            "conf": 0.998391330242157,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree that, by entering into this Agreement, you and AT&amp;T are each waiving the right to a trial by jury or to participate in a class action",
+            "conf": 0.9975324273109436,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND AT&amp;T AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9984967112541199,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and",
+            "conf": 0.994504988193512,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "agree otherwise, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding",
+            "conf": 0.9999815821647644,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AT&amp;T does not guarantee availability of wireless network",
+            "conf": 0.9989954829216003,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The accuracy, appropriateness, content, completeness, timeliness, usefulness, security, safety, merchantability, fitness for a particular purpose, transmission or correct sequencing of any application, information or downloaded data is not guaranteed or warranted by AT&amp;T or any content providers or other third party",
+            "conf": 0.9999057054519653,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Neither AT&amp;T nor its content providers, service providers or other third parties shall be liable to you for any loss or injury arising out of or caused, in whole or in part, by your use of any information, application or content, or any information, application, or other content acquired through the Service",
+            "conf": 0.9911249279975891,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Such location information will be retained only as long as is necessary to provide the relevant customized 411 information and will be discarded after such use",
+            "conf": 0.9913033246994019,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "AT&amp;T is not responsible for any consequential damages caused in any way by the preceding hardware, software or other items/requirements for which you are responsible.",
+            "conf": 0.9929212927818298,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "AT&amp;T is not responsible for loss or disclosure of any sensitive information you transmit",
+            "conf": 0.9999404549598694,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "AT&amp;T is not responsible for nonproprietary services or their effects on devices",
+            "conf": 0.9855537414550781,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may, but do not have the obligation to, refuse to transmit any information through the Services and may screen and delete information prior to delivery of that information to you",
+            "conf": 0.9998310208320618,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AT&amp;T MAKES NO WARRANTY, EXPRESS OR IMPLIED, OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, SUITABILITY, ACCURACY, SECURITY, OR PERFORMANCE REGARDING ANY SERVICES, SOFTWARE OR GOODS, AND IN NO EVENT SHALL AT&amp;T BE LIABLE, WHETHER OR NOT DUE TO ITS OWN NEGLIGENCE, for any:",
+            "conf": 0.9324498772621155,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Unless prohibited by law, AT&amp;T isn't liable for any indirect, special, punitive, incidental or consequential losses or damages you or any third party may suffer by use of, or inability to use, Services, Software, or Devices provided by or through AT&amp;T, including loss of business or goodwill, revenue or profits, or claims of personal injuries.",
+            "conf": 0.9981944561004639,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "To the full extent allowed by law, you hereby release, indemnify, and hold AT&amp;T and its officers, directors, employees and agents harmless from and against any and all claims of any person or entity for damages of any nature arising in any way from or relating to, directly or indirectly, service provided by AT&amp;T or any person's use thereof (including, but not limited to, vehicular damage and personal injury), INCLUDING CLAIMS ARISING IN WHOLE OR IN PART FROM THE ALLEGED NEGLIGENCE OF AT&amp;T, or any violation by you of this Agreement",
+            "conf": 0.9999985098838806,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "AT&amp;T can revise its Acceptable Use Policy at any time without notice by updating this posting",
+            "conf": 0.9959763884544373,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "AT&amp;T and its licensors/suppliers reserve the right to change, suspend, terminate, remove, impose limits on the use or access to, or disable access to, the Software at any time without notice and will have no liability for doing so",
+            "conf": 0.9218453168869019,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Availability, quality of coverage and services while roaming are not guaranteed",
+            "conf": 0.9701215624809265,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for establishing and maintaining security passwords to protect against unauthorized use of your voicemail service",
+            "conf": 0.9232732653617859,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "We will provide you with notice of this change at least one billing cycle in advance either by a bill insert, email, text message, or other appropriate means;",
+            "conf": 0.9999110102653503,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "AT&amp;T may interrupt, suspend, cancel or terminate your wireless data services without advance notice",
+            "conf": 0.9644384384155273,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AT&amp;T does not guarantee delivery of messages",
+            "conf": 0.9993131756782532,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "reserves the right to change this delivery period as needed without notification",
+            "conf": 0.9763598442077637,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "AT&amp;T reserves the right, but is not obligated, to deny, disconnect, suspend, modify and/or terminate your messaging service or messaging services with any associated account(s), or to deny, disconnect, suspend, modify and/or terminate the account(s), without notice, as to anyone using messaging services in any manner that is prohibited",
+            "conf": 0.9999662041664124,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to take any action in the event of a violation shall not be construed as a waiver of the right to enforce such terms, conditions, or policies",
+            "conf": 0.9999832510948181,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Content may be provided by independent providers, and AT&amp;T is not responsible for their content",
+            "conf": 0.9990922212600708,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Users storing more than 1,000 emails or email older than 30 days, may have some emails automatically deleted",
+            "conf": 0.9220844507217407,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Unused Rollover Data automatically expires after one billing period or with any plan change (such as changing data amounts or termination)",
+            "conf": 0.9928996562957764,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Certain features/applications will not be available in all areas at all times",
+            "conf": 0.9995929002761841,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Updated: November 14, 2017",
+            "conf": 0.9999979138374329,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "you confirm you are a capable adult over the applicable age of majority (e.g.",
+            "conf": 0.9806970953941345,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "eighteen (18) years of age in most U.S.",
+            "conf": 0.9998831152915955,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We also reserve the right to modify or discontinue the Service, temporarily or permanently",
+            "conf": 0.999983012676239,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will provide you with notice of material changes via either your Member Account e-mail address or any other email address you provide, posting online at",
+            "conf": 0.9948040246963501,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "https://www.att.com/internet-terms, recorded announcement, bill message, bill insert, newspaper ad, postcard, letter, or call to your billed telephone number or U.S.",
+            "conf": 0.9832133054733276,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Consequently, AT&amp;T does not guarantee the performance of your service on an end- to-end basis",
+            "conf": 0.9982402920722961,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Similarly, unless otherwise specified,",
+            "conf": 0.9455633163452148,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "makes no guarantee that the upload speed of a particular Internet Service will be the same as the download speed, either in terms of the applicable speed range or in terms of actual performance at any given moment",
+            "conf": 0.9838126301765442,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "For all those reasons, AT&amp;T makes absolutely no guarantee as to the availability of any Internet Service at any location",
+            "conf": 0.9999679327011108,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AT&amp;T reserves the right to modify or discontinue any Internet Service (including rates and charges), temporarily or permanently",
+            "conf": 0.9994234442710876,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If, due to factors outside our control, we cannot provide you with thirty (30) days' notice, we will endeavor to provide you with as much advanced notice as circumstances reasonably allow",
+            "conf": 0.9368851184844971,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Although AT&amp;T reserves the right to manage any equipment used to access any Internet Service, you are solely responsible for all security measures over your in-home network, including any IW, local area network(s) and/or Wi-Fi Equipment.",
+            "conf": 0.999504029750824,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "To be a Member Account holder, you must either be: (i) 18 years or older, if an individual, or, (ii) be a corporation, partnership, or other legal entity duly formed (and incorporated if applicable) in good standing where required to do business with all legal authority and power to accept this Agreement and acting through your duly authorized representative",
+            "conf": 0.9998117089271545,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You agree to immediately notify",
+            "conf": 0.9351710677146912,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "if your password or passcode has been compromised and/or you wish to remove an authorized user from your account",
+            "conf": 0.9675387740135193,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "AT&amp;T may immediately terminate or suspend your Member Account and Sub Accounts, and all or a portion of your Service without notice for any of the reasons set forth in AT&amp;T's Acceptable Use Policy, or if: (a) you provide false or inaccurate information to AT&amp;T.",
+            "conf": 0.9879270792007446,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You understand that you have sole responsibility for the security of your password and you are solely responsible for notifying AT&amp;T if your password is lost or stolen.",
+            "conf": 0.9993953704833984,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "AT&amp;T is not liable for any claims, costs, damages, or expenses arising from a lost misplaced, or stolen password",
+            "conf": 0.9998091459274292,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Without limiting any other provisions of this TOS, you agree to indemnify AT&amp;T from and against all claims by an owner, landlord, building manager, or other party in connection with installation, maintenance, repair, or provision of the Services",
+            "conf": 0.9995251297950745,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You agree to keep confidential all passwords, IP addresses, and computer names and are solely responsible for any liability or damages resulting from your failure to maintain that confidentiality.",
+            "conf": 0.9986850619316101,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are also solely and fully responsible and liable for all activities that occur under your password, Member ID or IP address.",
+            "conf": 0.9951441287994385,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge this risk as inherent to the shared nature of the Service and you agree to take full responsibility for taking adequate security precautions and safeguarding your data from loss",
+            "conf": 0.9869320392608643,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "AT&amp;T may limit, suspend or terminate your service at any time with or without notice to you",
+            "conf": 0.9686771631240845,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "For this reason, children under the age of 13 should not be permitted to access the Service unless added as a Sub Account by a Member Account holder who is their legal guardian",
+            "conf": 0.9990963935852051,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "nor its licensors can be responsible for any content accessed by you or minors, whether or not you take advantage of the access controls provided through the Service",
+            "conf": 0.9777476787567139,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "In addition, neither AT&amp;T nor its licensors guarantee the accuracy of such access controls, and you agree that you will not hold AT&amp;T liable for any loss or damage of any kind incurred as a result of the use of such access controls",
+            "conf": 0.9431543946266174,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "You are responsible for management of your information including but not limited to back-up and restoration of data, erasing data from disk space you control and changing data on or settings for your modem and/or router",
+            "conf": 0.9132302403450012,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "AT&amp;T is not responsible for the loss of your data or for the back-up or restoration of your data regardless of whether this data is maintained on our servers or your computer server",
+            "conf": 0.9999903440475464,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You, and not AT&amp;T, are entirely responsible for all content that you upload, download, post, email, transmit or otherwise make available by use of the Service (\"User Content\").",
+            "conf": 0.9935905337333679,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "class arbitrations and class actions are not permitted",
+            "conf": 0.9999988079071045,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "claims that are currently the subject of purported class action litigation in which you are not a member of a certified class",
+            "conf": 0.998391330242157,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AGREE THAT, BY ENTERING INTO THIS AGREEMENT, YOU AND AT&amp;T ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION",
+            "conf": 0.9999863505363464,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND AT&amp;T AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9984967112541199,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and",
+            "conf": 0.994504988193512,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "agree otherwise, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding",
+            "conf": 0.9999815821647644,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "THEY ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITHOUT WARRANTIES OR GUARANTIES OF ANY KIND",
+            "conf": 0.9999299645423889,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PARTICULAR PURPOSE AND NON-INFRINGEMENT, AND ANY WARRANTIES IMPLIED BY A COURSE OF PERFORMANCE, COURSE OF",
+            "conf": 0.9083276987075806,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AT&amp;T AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS MAKE NO WARRANTY THAT (i) THE SERVICE AND/OR SOFTWARE WILL MEET YOUR REQUIREMENTS, (ii) THE SERVICE AND/OR SOFTWARE WILL BE UNINTERRUPTED, TIMELY, SECURE, CURRENT, COMPLETE OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE AND/OR SOFTWARE WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE AND/OR SOFTWARE WILL MEET YOUR EXPECTATION, (v) ANY ERRORS IN THE SERVICE AND/OR SOFTWARE WILL BE CORRECTED AND (vi) THE SERVICE AND/OR SOFTWARE IS FREE OF VIRUSES OR OTHER DISABLING DEVISES OF HARMFUL COMPONENTS.",
+            "conf": 0.9991330504417419,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE AND/OR SOFTWARE IS DONE AT YOUR OWN DISCRETION AND RISK AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.",
+            "conf": 0.986379861831665,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT NEITHER AT&amp;T NOR ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS OR LICENSORS WILL BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSES (EVEN IF AT&amp;T HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM.",
+            "conf": 0.9999607801437378,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold AT&amp;T and its subsidiaries, affiliates, officers, agents, co-branders, licensors or other partners and employees harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of Content you submit, post, transmit or otherwise make available through the Service, your use of the Service, your connection to the Service, your violation of this Agreement, your violation of the AUP or your violation of any rights of another",
+            "conf": 0.999997079372406,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge that you are responsible for all use of the Service using your account, including use by Sub Accounts, and that this Agreement, the Acceptable Use Policy and Privacy Policies, as amended from time to time, apply to any and all usage of your account, including use by Sub Accounts",
+            "conf": 0.9879893064498901,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to abide by these terms and you agree to defend, hold harmless and indemnify AT&amp;T from and against any and all claims stemming from usage of this account and any Sub Account \u2013 whether or not such usage is expressly authorized by you",
+            "conf": 0.999994158744812,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of AT&amp;T to exercise or enforce any right or provision of this Agreement will not constitute a waiver of such right or provision",
+            "conf": 0.9999942779541016,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "information to keep it true, accurate and complete",
+            "conf": 0.9191498160362244,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify and hold AT&amp;T and its subsidiaries, affiliates, officers, agents, licensors, employees, sub-contractors, and partners harmless from any claim or demand, made after termination of Service, arising out of or related to the Outdoor Antenna and/or APS, including, but not limited to, claims for personal injury, property damage, wear and tear, or equipment degradation",
+            "conf": 0.9904469847679138,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Fixed Wireless Internet Service will not be available in all areas at all times",
+            "conf": 0.9997426867485046,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "AT&amp;T EXPRESSLY DISCLAIMS ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR USE, AND AT&amp;T HAS NO RESPONSIBILITY TO MAINTAIN, UPDATE, REPAIR, REPLACE, DE-INSTALL, OR REMOVE ANY INSTALLED INSIDE WIRE",
+            "conf": 0.966241717338562,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Although AT&amp;T reserves the right to manage any equipment used to access any Internet Service, you are solely responsible for all security measures over your internal network, including any IW, local area network(s) and/or Wi-Fi Equipment.",
+            "conf": 0.9992557764053345,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "below), but you remain solely responsible for all aspects of your network, including any activity by employees, customers or other guests that you may allow (either intentionally or unintentionally, through lack of adequate security measures) to access your Internet Services via your local area network and/or Local Wi-Fi",
+            "conf": 0.9656097888946533,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "We agree that WE are waiving the right to a trial by jury, to participate in a class action, or to seek remedies beyond the extent necessary to provide individualized relief to, and affecting only, AT&amp;T or You ALone",
+            "conf": 0.9999380707740784,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "WE AGREE NOT TO ACT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED OR DE FACTO CLASS OR REPRESENTATIVE PROCEEDING, OR AS A PRIVATE ATTORNEY GENERAL OR ON BEHALF OF THE GENERAL PUBLIC",
+            "conf": 0.9999997615814209,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "* Prices are as of the effective date of this Agreement only and may be subject to change",
+            "conf": 0.9564945697784424,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "AT&amp;T reserves the right to change or modify the terms of the AUP at any time, effective when posted on AT&amp;T's web site at",
+            "conf": 0.9703898429870605,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "www.att.com/aup",
+            "conf": 0.9834439754486084,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Customers remain solely and fully responsible for the content of any material posted, hosted, downloaded/uploaded, created, accessed or transmitted using the IP Services",
+            "conf": 0.9977325201034546,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "AT&amp;T has no responsibility for any material created on the AT&amp;T's network or accessible using IP Services, including content provided on third-party websites linked to the AT&amp;T network",
+            "conf": 0.9891652464866638,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "AT&amp;T reserves the right, however, to act immediately and without notice to suspend or terminate affected IP Services in response to a court order or government notice that certain conduct must be stopped, or when AT&amp;T reasonably determines that the Customer's use of the affected",
+            "conf": 0.907264232635498,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "AT&amp;T may terminate IP Services at any time with or without notice to Customers",
+            "conf": 0.9528255462646484,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: July 28, 2017",
+            "conf": 0.9999974370002747,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We will not sell your personal information to anyone, for any purpose",
+            "conf": 0.9999393820762634,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you of revisions to our privacy policy, in advance",
+            "conf": 0.9991649985313416,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Effective May 2, 2017",
+            "conf": 0.9999969601631165,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "We don\u2019t sell your Personal Information to anyone for any purpose",
+            "conf": 0.9998783469200134,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We keep your Personal Information in our business records while you are a customer, or until it is no longer needed for business, tax or legal purposes",
+            "conf": 0.999631941318512,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "We want you to know that we don't knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child's parent or legal guardian",
+            "conf": 0.9999750852584839,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "As stated in this Privacy Policy, we will not sell your Personal Information to other companies and we will not share it with other companies for them to use for their own marketing purposes without your consent",
+            "conf": 0.9997763633728027,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We provide information about the opt-out choices available to customers, and the opt-out choices provided by certain third-party website and mobile application analytics companies we use here",
+            "conf": 0.999597430229187,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "\"Do Not Track\" Notice: Because the providers of \"do not track\" and similar signals do not yet operate according to common, industry-accepted standards, we currently do not respond to those signals.",
+            "conf": 0.9927203059196472,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 1.9
+}

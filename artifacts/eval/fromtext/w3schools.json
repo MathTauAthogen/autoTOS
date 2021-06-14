@@ -1,0 +1,54 @@
+{
+    "predictions": [
+        {
+            "label": "9",
+            "text": "We do not collect any personal information from our users",
+            "conf": 0.9999611973762512,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can learn more about online advertising, or opt-out of almost all advertising cookies at https://www.youronlinechoices.com",
+            "conf": 0.9452360272407532,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Invariably these partners place cookies to collect anonymous data about the websites you visits so they can personalize the adverts to you, ensure that you don't see the same adverts too frequently and ultimately report to advertisers on which adverts are working.",
+            "conf": 0.9806767106056213,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "W3Schools does not keep for ourselves, or share this information with third parties",
+            "conf": 0.9999706149101257,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for the privacy practices or the content of such Web sites",
+            "conf": 0.999992311000824,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "W3Schools is provided without warranty of any kind",
+            "conf": 0.9994813799858093,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "There are no guarantees",
+            "conf": 0.910809338092804,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 5.9
+}

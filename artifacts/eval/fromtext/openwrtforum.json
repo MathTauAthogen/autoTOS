@@ -1,0 +1,145 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "itemprop='lastReviewed' content='2018-09-",
+            "conf": 0.9489001631736755,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "&lt;p&gt;If you create an account on the Website, you are responsible for maintaining the security of your account and you are fully responsible for all activities that occur under the account.",
+            "conf": 0.9986898303031921,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "OpenWrt will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or",
+            "conf": 0.9954160451889038,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Without limiting any of those representations or warranties, OpenWrt has the right (though not the obligation) to, in OpenWrt\u2019s sole discretion (i) refuse or remove any content that, in OpenWrt\u2019s reasonable opinion, violates any OpenWrt policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Website to any individual or entity for any reason, in OpenWrt\u2019s sole discretion",
+            "conf": 0.9403396248817444,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "By operating the Website, OpenWrt does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful or non-harmful",
+            "conf": 0.997473955154419,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "websites and webpages, and is not responsible for their contents or their use",
+            "conf": 0.9937868714332581,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "It is your responsibility to check this Agreement periodically for changes",
+            "conf": 0.9716511368751526,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "&lt;p&gt;OpenWrt may terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately",
+            "conf": 0.999840497970581,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "&lt;p&gt;The Website is provided \"as is\".",
+            "conf": 0.9331246614456177,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Neither OpenWrt nor its suppliers and licensors, makes any warranty that the Website will be error free or that access thereto will be continuous or uninterrupted",
+            "conf": 0.9999929666519165,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "&lt;p&gt;You agree to indemnify and hold harmless OpenWrt, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys\u2019 fees, arising out of your use of the Website, including but not limited to your violation of this",
+            "conf": 0.9981667399406433,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "It was last updated be OpenWrt, August 30,",
+            "conf": 0.9999971985816956,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "itemprop='lastReviewed' content='2016-08-",
+            "conf": 0.9346446990966797,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "9",
+            "text": "&lt;p&gt;We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information",
+            "conf": 0.9928101897239685,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We therefore have no responsibility or liability for the content and activities of these linked sites",
+            "conf": 0.9997135400772095,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "&lt;p&gt;Our site, products and services are all directed to people who are at least 13 years old or older.",
+            "conf": 0.9844503998756409,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "/",
+            "conf": 0.9647035598754883,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Act&lt;/a&gt;), do not use this",
+            "conf": 0.9792308211326599,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "site.&lt;/p&gt",
+            "conf": 0.9301332831382751,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "It was last updated May 31,",
+            "conf": 0.9999980330467224,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 1.2
+}

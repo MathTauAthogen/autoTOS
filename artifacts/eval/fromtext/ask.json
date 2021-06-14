@@ -1,0 +1,761 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "Using ASKfm if you\u2019re under 13 is a no-go",
+            "conf": 0.9999872446060181,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "See Cookie Policy effective before 2018-10-22",
+            "conf": 0.9593902826309204,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: 2018-10-22 1",
+            "conf": 0.9991366863250732,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "ASKfm uses cookies and similar technologies, such as web beacons or pixel tags, to deliver, measure, and improve our services in various ways.",
+            "conf": 0.9957411289215088,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may include web beacons in e-mail messages or newsletters to determine whether the message has been opened and for other analytics.",
+            "conf": 0.9919347763061523,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We might also optimize and improve your experience on ASKfm by using cookies to see how you interact with our services, such as when and how often you use them and what links you click on",
+            "conf": 0.9130260944366455,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "To help us better understand how people use our services, we work with a number of analytics partners, including Google Analytics, Quantcast and Scorecard.",
+            "conf": 0.9839155077934265,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "As explained",
+            "conf": 0.9655524492263794,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": ", third-parties whose products or services are accessible or advertised via the services may use cookies to collect information about your activities on the services, other sites, and/or the ads you have clicked on",
+            "conf": 0.9956375956535339,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Targeting and advertising cookies on the services may include\u00a0DoubleClick,\u00a0Criteo, and other advertising networks and services we use from time to time.",
+            "conf": 0.9882572889328003,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We don\u2019t release the information collected from our own cookies to any third parties, other than to our service providers who assist us in providing the services",
+            "conf": 0.9995702505111694,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "However, we do not currently recognize or respond to browser-initiated Do Not Track signals, as the internet industry is still working on Do Not Track standards, implementations, and solutions",
+            "conf": 0.9999978542327881,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will notify you of any changes by posting the new policy on the Services with a new effective date",
+            "conf": 0.9998011589050293,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "See Privacy Policy effective before 2018-10-22",
+            "conf": 0.9190822243690491,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: 2018-10-22 1",
+            "conf": 0.9991366267204285,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You can\u2019t use ASKfm if you are younger than 13",
+            "conf": 0.9999939203262329,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "In almost all countries, if you are 13 and over, you can allow us to use your data",
+            "conf": 0.9862431287765503,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "But, since the law changed in Europe, in some European countries, we need to ask for your parent\u2019s or guardian\u2019s consent before we let you create an account if you are between 13 and 16 years old",
+            "conf": 0.9973248243331909,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you live in France and are aged under 15, you confirm that you have your parent\u2019s consent to sign up to ASKfm and we will take all reasonable steps to verify this",
+            "conf": 0.9825640916824341,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you live in Austria and are aged under 14, you confirm that you have your parent\u2019s consent to sign up to ASKfm and we will take all reasonable steps to verify this",
+            "conf": 0.9633728265762329,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "As described further below, we may use third party analytics providers and technologies, including cookies and similar tools, to assist us in understanding how our Services are used.",
+            "conf": 0.9953371286392212,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may also use other Internet technologies, such as web beacons or pixel tags and other similar technologies, to deliver or communicate with cookies and analyze your use of the Services.",
+            "conf": 0.9884169697761536,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We also may include web beacons in e-mail messages or newsletters to determine whether the message has been opened and for other analytics.",
+            "conf": 0.9927849769592285,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Where we have appropriately anonymized and/or de-identified information it no longer constitutes your personal information (also known as personal data).",
+            "conf": 0.9667285084724426,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ", that you would not mind making public",
+            "conf": 0.9297851920127869,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We don\u2019t sell or share any personal information about you with third parties, except as provided in this Privacy Policy",
+            "conf": 0.9999000430107117,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets",
+            "conf": 0.9899724721908569,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not cooperate with Feature Tool providers that sell or otherwise transfer any of your data to third parties without your consent",
+            "conf": 0.9998577833175659,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "(c) To opt out of third-party cookies, please go to http://www.aboutads.info/choices and/or https://liveramp.com/opt_out/.",
+            "conf": 0.9919235706329346,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "Italy GPS and device IDs CrossPixel",
+            "conf": 0.9195964932441711,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Mexico Interests, e-mail (encrypted), cookies and/or device IDs Circulate",
+            "conf": 0.9387408494949341,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also allow other third parties (e.g., ad networks/ad exchanges and ad servers such as Google Analytics, DoubleClick and others) to serve tailored ads to you on the Services, and to access their own cookies or similar technologies on your computer, mobile phone, or other device you use to access the Services.",
+            "conf": 0.9979871511459351,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "To help us better understand your use of the Services, we may use third-party web analytics on our Services, such as Google Analytics or Flurry.",
+            "conf": 0.9789932370185852,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We also use Google Analytics as described more below",
+            "conf": 0.9938228130340576,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "to opt out of Flurry collecting or using your information, go to Google Analytics Opt-Out Browser Add-on",
+            "conf": 0.963870644569397,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "After you close your account we still keep some or all of your information for up to 9 months",
+            "conf": 0.9975020885467529,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We cannot control this, nor do we accept any liability for this",
+            "conf": 0.9930766820907593,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "5",
+            "text": "However, we do not currently recognize or respond to browser-initiated Do Not Track signals, as the Internet industry is still working on Do Not Track standards, implementations and solutions",
+            "conf": 0.9999980926513672,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of receiving certain e-mail notifications from us, including e-mails advertising ASKfm products and services, by clicking the \u201cNotifications\u201d tab of the Settings page on the mobile app and through the \u201cPrivacy\u201d tab of the\u00a0Settings\u00a0page on the site",
+            "conf": 0.9829258918762207,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We strongly urge you to take steps to keep your personal information safe (including your password) and to log out of your account after use",
+            "conf": 0.9919501543045044,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for your failure to keep your password secure and failure to do so may breach our\u00a0Terms of Use.",
+            "conf": 0.9940686821937561,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "I want to deactivate my profile or leave ASKfm",
+            "conf": 0.9999769330024719,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You also have the right (in certain cases) to modify or delete the personal information we hold about you",
+            "conf": 0.9995415806770325,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "However, you can also contact us using the details in Section 28 below, if you wish to modify information that cannot be amended or deleted through the Service",
+            "conf": 0.9935010075569153,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You can deactivate your profile by signing in to the Services with your password and opting to deactivate your profile",
+            "conf": 0.9977847933769226,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Many members deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to ASKfm",
+            "conf": 0.9856625199317932,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Should you choose to leave ASKfm, you may do so by selecting the \u201cI want to leave ASKfm\u201d tab on the\u00a0Contact Us\u00a0page",
+            "conf": 0.9999472498893738,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You will be able to reactivate your account by logging back in for a period of 30 days after your request to leave ASKfm is processed",
+            "conf": 0.967515766620636,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will delete your data as soon as reasonably practicable, but in certain cases limited types of data, including log files and backups, may take up to 90 days to be fully deleted",
+            "conf": 0.9999895095825195,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Warning:\u00a0After you have deactivated your account or left ASKfm, questions you have previously transmitted through the Services may still appear on the Services, but will be anonymized and no longer associated with you directly (in other words, a question you asked on your friend",
+            "conf": 0.967549204826355,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u2019s profile will still be visible, but will not include your username).",
+            "conf": 0.9861130714416504,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We cannot control this, nor do we accept any responsibility or liability for this",
+            "conf": 0.9998217225074768,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "Because you control your profile, you can see the personal information you",
+            "conf": 0.9018345475196838,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u2019ve provided to us by accessing your \u201cProfile\u201d page, which gives you the option to correct or update your information at any time by just logging into the Services",
+            "conf": 0.9348334670066833,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You also have the right to be \u201cforgotten",
+            "conf": 0.9990924596786499,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "\u2014 that means, if you close your account and ask us to delete all your information, we need to do that",
+            "conf": 0.9988014101982117,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "While the Service is provided from Ireland, it is a global website that operates and provides Services in various countries around the world",
+            "conf": 0.9626669883728027,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "By giving us any personal information or by using the applications available on the Services, you agree that your personal information may be transferred to and stored and processed in our and our third-party vendors\u2019 facilities in various countries around the globe, including the United States",
+            "conf": 0.9999793171882629,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The Services are not intended for use by children under the age of 13",
+            "conf": 0.9999712109565735,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect (or knowingly allow any third party to collect) personal information from persons under the age of 13",
+            "conf": 0.9999057650566101,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Please be aware that we are not responsible for the content or privacy practices of other websites or services which may be linked to the Services",
+            "conf": 0.9999926686286926,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to make changes to this Privacy Policy at any time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology",
+            "conf": 0.9449775815010071,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Please check this page periodically for changes",
+            "conf": 0.9933200478553772,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify our Registered Users by e-mail or by means of a notice on the Services",
+            "conf": 0.9991341829299927,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "Save for urgent changes (such as those required by law) we will post such a notice on our website prior to the changes becoming effective",
+            "conf": 0.9998108148574829,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you do not consent to such changes, you can delete your account by following the process described in the \u201cDeactivating Your Profile\u201d and \u201cLeaving ASKfm\u201d sections of this Privacy Policy",
+            "conf": 0.9955918192863464,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "See Terms of Use effective before 2018-10-22",
+            "conf": 0.977479875087738,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: 2018-10-22 1",
+            "conf": 0.9991366267204285,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are a minor, that means under the age of legal majority in your country, and are not an emancipated minor (in countries that permit this), you must have your parents\u2019 or guardian\u2019s consent to enter into these TOU and to use the Services, and by using the Services you are confirming that you have received that consent",
+            "conf": 0.9999991655349731,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By accessing or using the Services you warrant (that is a legal word for promise and confirm) that you are at least 13 years old (or over the age of legal majority in your country, if higher) and you are fully able and competent to enter into and comply with these TOU.",
+            "conf": 0.9961940050125122,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "What if I am under 13?",
+            "conf": 0.9108243584632874,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Sorry, but you can\u2019t use ASKfm if you are under 13 years old",
+            "conf": 0.9999948740005493,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13 years of age, you are not permitted to access or use the Services",
+            "conf": 0.9999950528144836,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If we become aware that you are using the Services even though you are under 13 and not permitted to do so, we will deactivate your account and attempt to block you from accessing the Services",
+            "conf": 0.9999371767044067,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "You agree to provide true and accurate information and to update it as necessary to keep it accurate",
+            "conf": 0.9992997050285339,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You must keep your password confidential and, other than sharing it with your parent or guardian if you are a minor, you should not tell anyone your password or let anyone else access your account.",
+            "conf": 0.9993799924850464,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "If you don\u2019t keep your password confidential or give it to anyone other than your parent or guardian, we are not responsible for anyone accessing or using your account, including reading or sending messages from it.",
+            "conf": 0.9996058940887451,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right, at any time and without prior notice, to remove or disable access to any content for any reason or no reason",
+            "conf": 0.9981147050857544,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "is truthful and accurate",
+            "conf": 0.9306151866912842,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for managing any money you spend on in-app purchases, and you expressly acknowledge and agree that you are fully responsible for managing your in-app purchases and amounts spent within ASKfm",
+            "conf": 0.9304782748222351,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "(b) If you are under 18, then you must have your parents\u2019 or guardians\u2019 permission to make any in-app purchases",
+            "conf": 0.9999340772628784,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may, at any time and for any reason make changes to these TOU",
+            "conf": 0.9983354806900024,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If the changes include material changes that affect your rights or obligations, we will notify you of the changes by reasonable means, which could include notification through the Services or via email",
+            "conf": 0.9865020513534546,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "How can I or ASKfm deactivate or terminate my account?",
+            "conf": 0.9886727929115295,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you are a registered user of the Services, you can deactivate your membership at any time by going to the Settings control when you are logged in and choosing the \u201cdeactivate profile\u201d link",
+            "conf": 0.9996463656425476,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Many members deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to the Services",
+            "conf": 0.9503125548362732,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Should you choose to leave the Services, rather than deactivate your account, you may do so by selecting the \u201cI want to leave ASKfm\u201d tab on the\u00a0Contact Us\u00a0page",
+            "conf": 0.9999890923500061,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You will be able to reactivate your account by logging back in for a period of 30 days after your request to leave the Services is processed",
+            "conf": 0.9608758687973022,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "We will delete your data as soon as reasonably practicable, but in certain cases, limited types of data, including log files and backups, may take up to 90 days to be fully deleted",
+            "conf": 0.9999879598617554,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Warning: After you have deactivated your account or left the Services, questions may still appear on the Services, but will be anonymized and no longer associated with you directly (in other words, a question you asked on your friend\u2019s profile will still be visible, but will not include your username).",
+            "conf": 0.9903426170349121,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We cannot control this, nor do we accept any responsibility or liability for this",
+            "conf": 0.992872953414917,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "(c) Can you suspend or terminate my account if you want to?",
+            "conf": 0.9853010773658752,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may suspend or terminate a user\u2019s access to the Services or a member\u2019s account for any reason, including if we believe a user has violated these TOU",
+            "conf": 0.9990575313568115,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "without notice",
+            "conf": 0.9031823873519897,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Upon termination or expiration of your rights to use the Services or any portion thereof, you authorize us to delete any files, programs, data and messages associated with your account for the Services, or applicable portion thereof, without notice to you",
+            "conf": 0.9984855055809021,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We reserve the right to change or discontinue any aspect of the Services or all the Services at any time without notice to you",
+            "conf": 0.9999950528144836,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU ACKNOWLEDGE AND AGREE THAT THE SERVICES ARE PROVIDED \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d AND THAT YOUR USE OF THE SERVICES SHALL BE AT YOUR SOLE RISK",
+            "conf": 0.9999101758003235,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ASKFM, AND ITS RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AFFILIATES, SUBSIDIARIES, AND LICENSORS (\u201cASKFM PARTIES",
+            "conf": 0.9943952560424805,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICES AND YOUR USE OF THEM",
+            "conf": 0.9898319840431213,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE ASKFM PARTIES BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICES, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR SERVERS, (V) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY, (",
+            "conf": 0.9339233040809631,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You indemnify ASKfm for its losses",
+            "conf": 0.9756894707679749,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree to indemnify, defend, and hold the ASKfm Parties harmless from and against any third-party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable legal fees) suffered or reasonably incurred by us arising as a result of, or in connection with, (i) your access to and use of ASKfm",
+            "conf": 0.9999973773956299,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "ASKfm retains the exclusive right to settle, compromise and pay, without your prior consent, any and all claims or causes of action which are brought against us",
+            "conf": 0.9998009204864502,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "You agree not to settle any matter in which we are named as a defendant and/or for which you have indemnity obligations without our prior written consent",
+            "conf": 0.9943923354148865,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We have no control over and assume no responsibility for, the content, privacy policies, or practices of any third-party websites",
+            "conf": 0.9999487400054932,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "By using the Services, you expressly acknowledge and agree that the ASKfm Parties shall not be responsible for any damages, claims or other liability arising from or related to your use of any third-party website",
+            "conf": 0.9996082186698914,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "If for any reason, any provision of these TOU is declared to be illegal, invalid, void or otherwise unenforceable by a competent court of any jurisdiction, then to the extent that term is illegal, invalid, void or unenforceable, it shall be severed and deleted from these TOU, and the remainder of these TOU shall survive, remain in full force and effect and continue to be binding and enforceable",
+            "conf": 0.9924364686012268,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No failure or delay by us in exercising any right, power or privilege under these TOU shall operate as a waiver of such right or acceptance of any variation of these TOU and nor shall any single or partial exercise by either party of any right, power or privilege preclude any further exercise of that right or the exercise of any other right, power or privilege",
+            "conf": 0.9993501305580139,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 3.5
+}

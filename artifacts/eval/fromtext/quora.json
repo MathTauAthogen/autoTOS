@@ -1,0 +1,327 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated: May 18, 2018",
+            "conf": 0.9999977350234985,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "We use cookies, log files, pixel tags, local storage objects, and other tracking technologies to automatically collect information about your activities, such as your searches, page views, date and time of your visit, and other information about your use of the Quora Platform.",
+            "conf": 0.9986810684204102,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also receive information about you from third parties, such as other users, partners (including ad partners), or our affiliated companies",
+            "conf": 0.9852222204208374,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell your personal data \u2013 such as your name and contact information \u2013 to third parties to use for their own marketing purposes",
+            "conf": 0.9997590780258179,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "To display interest-based advertising to you in the Quora Platform, to improve our advertising and measurement systems so we can show you relevant ads, and to measure the effectiveness and reach of ads and services",
+            "conf": 0.9265033006668091,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "We may disclose or transfer information, including personal information, as part of any merger, sale, and transfer of our assets, acquisition or restructuring of all or part of our business, bankruptcy, or similar event",
+            "conf": 0.9975690841674805,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We do not share IP addresses or personal information",
+            "conf": 0.9997830986976624,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "These are tiny graphics with a unique identifier, similar in function to cookies, which we use to track the online movements of users of the Quora Platform and the web pages of users of our Ad Services, and to personalize content.",
+            "conf": 0.9919032454490662,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use internal and third party analytics tools, including Google Analytics",
+            "conf": 0.9997607469558716,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "The third party analytics companies we work with may combine the information collected with other information they have independently collected from other websites and/or other online products and services",
+            "conf": 0.9913514256477356,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "5",
+            "text": "Please note we do not change system behavior within the Quora Platform in response to browser requests not to be tracked",
+            "conf": 0.999528706073761,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "As described in our Cookie Policy, we may also work with third parties such as network advertisers to serve ads on the Quora Platform and on third-party websites or other media (e.g., social networking platforms), such as Google AdSense (more info here) and Facebook Audience Network (more info here",
+            "conf": 0.9999908208847046,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These third parties may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you.",
+            "conf": 0.9894347190856934,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "In addition to opting out of tracking across sites by our Pixels (see \u201cYour Choices\u201d section below), you also may opt out of much interest-based advertising on third party sites and through third party ad networks (including Facebook Audience Network and Google AdSense).",
+            "conf": 0.9993629455566406,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may update or correct your account information at any time by logging in to your account",
+            "conf": 0.9977237582206726,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you choose Delete Your Account in your privacy settings, then all of Your Content will be removed from public visibility on the Quora Platform, and it may not be restored by us, even if you change your mind",
+            "conf": 0.9763900637626648,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you choose Deactivate Your Account, then you will no longer receive any communications from us, and users will not be able to interact with you",
+            "conf": 0.9995173811912537,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "Once you deactivate your account, you can reactivate it any time by choosing to log in",
+            "conf": 0.9995816349983215,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": ", and you may access, amend and delete much of your profile information through your profile settings",
+            "conf": 0.9335554838180542,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Quora is headquartered in the United States, and has operations, entities and service providers in the United States and throughout the world",
+            "conf": 0.9970002770423889,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "As such, we and our service providers may transfer your personal information to, or access it in, jurisdictions (including the United States) that may not provide equivalent levels of data protection as your home jurisdiction",
+            "conf": 0.9999925494194031,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "We do not knowingly collect or solicit personal information from anyone under the age of 13 (or under the age of 14 for anyone living in Spain or South Korea) or knowingly allow such persons to register",
+            "conf": 0.9999971389770508,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "If we make any changes to this Privacy Policy that materially change how we treat your personal information, we will endeavor to provide you with reasonable notice of such changes, such as via prominent notice in the Quora Platform or to your email address of record, and where required by law, we will obtain your consent or give you the opportunity to opt out of such changes",
+            "conf": 0.9966691136360168,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for the content that you post",
+            "conf": 0.9869465231895447,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Our content and materials are provided to you \u201cas is,\u201d without any guarantees",
+            "conf": 0.9975828528404236,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your own use of the Quora platform",
+            "conf": 0.9387829899787903,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updated: December 18, 2017",
+            "conf": 0.9999982714653015,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Use of the Quora Platform by anyone under 13 years of age is prohibited",
+            "conf": 0.9999926090240479,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "You represent that you are at least the age of majority in the jurisdiction where you live or, if you are not, your parent or legal guardian must consent to this Terms of Service and affirm that they accept this Agreement on your behalf and bear responsibility for your use",
+            "conf": 0.9999764561653137,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You may close your account at any time by going to account settings and disabling your account",
+            "conf": 0.9999710321426392,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate or suspend your Quora account if you violate any Quora policy or for any other reason",
+            "conf": 0.9995898008346558,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may need to add or change features and may do so without notice to you",
+            "conf": 0.9165955185890198,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We also may remove or refuse to publish Your Content, in whole or part, at any time",
+            "conf": 0.9999952912330627,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate our license to you at any time for any reason",
+            "conf": 0.9890289902687073,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We have the right but not the obligation to refuse to distribute any content on the Quora Platform or to remove content",
+            "conf": 0.9999236464500427,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no warranties or representations about the accuracy, completeness, or timeliness of any content posted on the Quora Platform by anyone",
+            "conf": 0.9999971985816956,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of receipt of the digest, and adjust other communication settings, by going to \u201cEmail and Notification\u201d settings in your account profile, as further described in our Privacy Policy",
+            "conf": 0.9878495335578918,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "WE ARE PROVIDING YOU THE QUORA PLATFORM, ALONG WITH OUR CONTENT AND MATERIALS AND THE OPPORTUNITY TO CONNECT WITH OTHERS, ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED",
+            "conf": 0.9998624920845032,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WITHOUT LIMITING THE FOREGOING, QUORA ENTITIES EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, TITLE, ACCURACY AND COMPLETENESS, UNINTERRUPTED OR ERROR-FREE SERVICE, FITNESS FOR A",
+            "conf": 0.9637554287910461,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") THE QUORA PLATFORM WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE",
+            "conf": 0.9928880929946899,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "WITHOUT LIMITING THE FOREGOING, YOU AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY LAW, QUORA ENTITIES SPECIFICALLY WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES, LOSS OF PROFITS, BUSINESS INTERRUPTION, REPUTATIONAL HARM, OR LOSS OF DATA (EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR SUCH DAMAGES ARE FORESEEABLE) ARISING OUT OF OR IN ANY WAY CONNECTED WITH YOUR USE OF, OR INABILITY TO USE, THE QUORA PLATFORM.",
+            "conf": 0.9972628355026245,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You agree to release, indemnify, and defend Quora Entities from all third-party claims and costs (including reasonable attorneys\u2019 fees) arising out of or related to: i) your use of the Quora Platform, ii) Your Content, iii) your conduct or interactions with other users of the Quora Platform, or iv) your breach of any part of this Agreement",
+            "conf": 0.9999932646751404,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Such notice will be in our sole discretion, and the manner of notification could include, for example, via email, posted notice on the Quora Platform, or other manner",
+            "conf": 0.9847455620765686,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "If any provision in this Agreement is found to be unenforceable, then that provision will not affect the enforceability of the remaining provisions of the Agreement, which will remain in full force and effect",
+            "conf": 0.9086002111434937,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "No wavier of any terms will be deemed a further or continuing waiver of such term or any other term",
+            "conf": 0.998969554901123,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure to assert a right or provision under this Agreement will not constitute a waiver of such right or provision",
+            "conf": 0.9999868273735046,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.0
+}

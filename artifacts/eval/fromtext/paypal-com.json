@@ -1,0 +1,446 @@
+{
+    "predictions": [
+        {
+            "label": "7",
+            "text": "PayPal is changing some of its Legal Agreements with effect from the effective date as listed below against each change (hereinafter referred to as \u201cEffective Date\u201d individually).",
+            "conf": 0.9847070574760437,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Agreement - Effective Date:&nbsp;30 January 2019",
+            "conf": 0.9879468083381653,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updates to the User Agreement for PayPal Services\u2013 Effective Date: 28 March 2019",
+            "conf": 0.9998531937599182,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Updates to the User Agreement for PayPal Services \u2013 Effective Date: 8 April 2019",
+            "conf": 0.9999619126319885,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Notice of amendment to the PayPal Privacy Statement \u2013 Effective Date: 28 March 2019",
+            "conf": 0.9977372288703918,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Update: Aug 28, 2012",
+            "conf": 0.9999977350234985,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Update: October 8, 2014",
+            "conf": 0.9999973177909851,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may amend this Agreement at any time by posting a revised version on our website",
+            "conf": 0.9206449389457703,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "In addition, if the revised version includes a Substantial Change, we will provide you with 30 Days' prior notice of Substantial Change by posting notice on the \"Policy Updates\" page of our website",
+            "conf": 0.9951516389846802,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Update: Mar 08, 2007",
+            "conf": 0.9999979138374329,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "16",
+            "text": "To amend this CEA but not in a substantial manner, PayPal will post on our behalf a revised version of the CEA on the PayPal website(s), and the revised version will be effective at the time PayPal posts it",
+            "conf": 0.9644006490707397,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Merchant shall indemnify Acquirer and keep Acquirer indemnified against all losses, costs, claims, demands, expenses (including legal expenses) and liabilities of any nature (including any re-settlement obligations under the Association rules) arising from or relating to the payment of funds by Acquirer into an account in the name of PayPal in accordance with the terms of this CEA",
+            "conf": 0.9968681931495667,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Merchant also agrees that it will not sell, purchase, provide or exchange in any manner or disclose Cardholder Data to anyone other than its acquirer, Visa or Mastercard (as applicable) or in response to a government request",
+            "conf": 0.9992563724517822,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Merchant agrees to indemnify and hold Acquirer harmless from and against all losses, liabilities, damages and expense: (a) resulting from any breach of any warranty, covenant or agreement or any misrepresentation by Merchant under this CEA",
+            "conf": 0.9999918341636658,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "or (e) resulting from any fines or arising out of any third party indemnifications&nbsp;Acquirer is obligated to make as a result of Merchant",
+            "conf": 0.9977334141731262,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "\u2019s actions (including indemnification of any Association or Card issuing bank",
+            "conf": 0.9983111619949341,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Notwithstanding anything in this CEA to the contrary, in no event shall Acquirer, or any of its directors, officers, employees, agents or subcontractors, be liable under any theory of tort, contract, strict liability or other legal theory for lost profits, lost revenues, lost business opportunities, exemplary, punitive, special, incidental, indirect or consequential damages, each of which is hereby excluded by agreement of the parties, regardless of whether such damages were foreseeable or whether Acquirer has been advised of the possibility of such damages",
+            "conf": 0.9995161294937134,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "The failure of a party to assert any of its rights under this CEA, including, but not limited to, the right to terminate this CEA in the event of breach or default by the other party, will not be deemed to constitute a waiver by that party of its right to enforce each and every provision of this CEA in accordance with its terms",
+            "conf": 0.9999949336051941,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "July 2017",
+            "conf": 0.9999863505363464,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Last Update: Mar 08, 2007",
+            "conf": 0.9999979138374329,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "PayPal reserves the right to remove the listing of any website from the PayPal Shops directory at any time, for any reason",
+            "conf": 0.9999607801437378,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PayPal does not guarantee any level of security in shopping at third-party websites registered with PayPal, nor does PayPal guarantee the quality of goods or services offered on these websites",
+            "conf": 0.9985233545303345,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Update: December 11, 2018",
+            "conf": 0.9999985694885254,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may, at any time, for any reason and (where possible) with reasonable prior notice, terminate, cancel or suspend the Service to the extent it relates to our LPM functionality and/or LPMs without liability towards you",
+            "conf": 0.9990079998970032,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date: March 28, 2019",
+            "conf": 0.9999932646751404,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "10",
+            "text": "may retain Personal Data for longer periods than required by law if it is in our legitimate business interests and not prohibited by",
+            "conf": 0.9963513016700745,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "If your Account is closed, we may take steps to mask Personal Data and other information, but we reserve our ability to retain and access the data for so long as required to comply with applicable laws",
+            "conf": 0.9954332113265991,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "In addition, PayPal may provide aggregated statistical data to third-parties, including other businesses and members of the public, about how, when, and why Users visit our Sites and use our Services.&nbsp",
+            "conf": 0.9754268527030945,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "&nbsp;We do not share your Personal Data with third parties for their marketing purposes without your consent",
+            "conf": 0.9995220899581909,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "&nbsp;We do not respond to DNT signals",
+            "conf": 0.9871003031730652,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "For example, you may be asked if you want the Service or Site to \u201cremember\u201d certain things about you, and we will use cookies and other tracking technologies to the extent that you permit them.",
+            "conf": 0.980726957321167,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may not opt out of receiving these communications.&nbsp",
+            "conf": 0.9992939829826355,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "While we are dedicated to securing our systems and Services, you are responsible for securing and maintaining the privacy of your password(s) and Account/profile registration information and verifying that the Personal Data we maintain about you is accurate and current",
+            "conf": 0.9474175572395325,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "&nbsp;We are not responsible for protecting any Personal Data that we share with a third-party based on an account connection that you have authorized",
+            "conf": 0.9979501962661743,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may revise this Privacy Statement from time to time to reflect changes to our business, the Sites or Services, or applicable",
+            "conf": 0.9956722259521484,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If the revised version includes a substantial change, we will provide you with 30 days prior notice by posting notice of the change on the \u201cPolicy Update\u201d page of our website",
+            "conf": 0.9996277689933777,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "&nbsp;We and our third-party service providers store and Process your Personal Data in the United States of America and elsewhere in the world",
+            "conf": 0.9993349313735962,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "using our Sites and Services, you consent to your Personal Data being transferred to other countries, including countries that have different data protection rules than your country.&nbsp",
+            "conf": 0.9494733810424805,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Process means any method or way that we handle Personal Data or sets of Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, and consultation, disclosure by transmission, disseminating or otherwise making available, alignment or combination, restriction, erasure or destruction of Personal Data.",
+            "conf": 0.9900436401367188,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Last Update: April 8, 2019",
+            "conf": 0.9999983906745911,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may amend this Agreement at any time by posting a revised version on our website",
+            "conf": 0.9206449389457703,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If the revised version includes a Substantial Change, we will provide you with 30 Days' prior notice of any Substantial Change by posting a notice on the \"Policy Updates\" page of our website",
+            "conf": 0.9812757968902588,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We do not have any control over, and are not responsible or liable for, the products or services that are paid for with our PayPal Service",
+            "conf": 0.9999591112136841,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "Services, you must be at least 18 years old or higher based on the age of majority in your jurisdiction, and a resident of one of the countries listed on",
+            "conf": 0.9879750609397888,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "PayPal will not be liable for any loss or damage you or anyone else suffers where PayPal acts on those instructions in good faith, unless it was proved that PayPal was negligent",
+            "conf": 0.9997338652610779,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may close, suspend, or limit your access to your Account or the PayPal Services;",
+            "conf": 0.9569184184074402,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "PayPal may change the terms of the Reserve at any time by providing you with notice of the new terms",
+            "conf": 0.9986047148704529,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": ", in its sole discretion, reserves the right to terminate this Agreement and/or access to the PayPal Services for any reason and at any time upon notice and payment to you of any unrestricted funds held in your balance",
+            "conf": 0.999603807926178,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "have a dispute with one or more Users, you release PayPal and Affiliates (and their officers, directors, agents, joint ventures, employees and suppliers) from any and all claims, demands and damages (actual and consequential) of every kind and nature arising out of or in any way connected with such disputes",
+            "conf": 0.9790288805961609,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "NO EVENT SHALL WE, OUR PARENT, SUBSIDIARIES AND AFFILIATES, OUR OFFICERS, DIRECTORS, AGENTS, JOINT VENTURES, EMPLOYEES OR SUPPLIERS BE LIABLE FOR LOST PROFITS OR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF DATA OR LOSS OF BUSINESS) ARISING OUT OF OR IN CONNECTION WITH OUR WEBSITE, THE PAYPAL SERVICES, OR THIS AGREEMENT (HOWEVER ARISING, INCLUDING NEGLIGENCE) UNLESS AND TO THE EXTENT PROHIBITED BY LAW OUR LIABILITY, AND THE LIABILITY OF OUR PARENT, SUBSIDAREIS AND AFFILIATES, OUR OFFICERS, DIRECTORS, AGENTS, JOINT VENTURES, EMPLOYEES AND SUPPLIERS, TO YOU OR ANY THIRD PARTIES IN ANY CIRCUMSTANCE IS LIMITED TO THE ACTUAL AMOUNT OF DIRECT DAMAGES",
+            "conf": 0.9999842047691345,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "AND WITHOUT ANY REPRESENTATION OF WARRANTY, WHETHER EXPRESS, IMPLIED OR STATUTORY",
+            "conf": 0.9997859001159668,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PAYPAL, OUR PARENT AND AFFILIATES, OUR OFFICERS, DIRECTORS, AGENTS, JOINT VENTURES, EMPLOYEES AND OUR SUPPLIERS SPECIFICALLY DISCLAIM ANY IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY,",
+            "conf": 0.9051067233085632,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PayPal does not guarantee continuous, uninterrupted or secure access to any part of the PayPal Services, and operation of our site may be temporarily suspended for maintenance or upgrade or interfered with by numerous factors outside of our control",
+            "conf": 0.9999803900718689,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PayPal will make reasonable efforts to ensure that requests",
+            "conf": 0.9565434455871582,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "issuances are processed in a timely manner but PayPal makes no representations or warranties regarding the amount of time needed to complete processing because the PayPal Services are dependent upon many factors outside of our control, such as delays in the banking system or mail service",
+            "conf": 0.9647005796432495,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "agree to defend, indemnify and hold PayPal, Affiliates, and our officers, directors, agents, joint ventures, employees and suppliers harmless from any claim, demand (including attorneys\u2019 fees), fine, or other liability incurred by any third party due to or arising out of your or your employees\u2019 or agents\u2019 breach of this Agreement and/or use of the PayPal Services",
+            "conf": 0.999984085559845,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "PayPal may change or discontinue any APIs upon notice to you",
+            "conf": 0.9996449947357178,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "PayPal does not own, control nor have any responsibility or liability for any third party software application you elect to use on the PayPal website and/or in connection with the PayPal Services",
+            "conf": 0.9988618493080139,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "In case of any dispute, demands, actions, proceedings (\"Disputes\") between you and the Service Provider on account of delayed or non-payment of any funds due to you, you hereby indemnify PayPal, Affiliates and its employees from any damages, claims, charges, expenses and losses arising out of such Disputes",
+            "conf": 0.9995638728141785,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In case of any dispute, demands, actions, proceedings (\"Disputes\") between you and the authorised dealer bank on account of non-payment of any funds due to you, you hereby indemnify PayPal, Affiliates and its employees from any damages, claims, charges, expenses and losses arising out of such Disputes",
+            "conf": 0.9995059967041016,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In case of any dispute, demands, actions, proceedings (\"Disputes\") between you and the Service Provider on account of delayed or non-payment of any funds due to you, you hereby indemnify PayPal, Affiliates and its employees from any damages, claims, charges, expenses and losses arising out of such Disputes",
+            "conf": 0.9995638728141785,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "In case of any dispute, demands, actions, proceedings (\"Disputes\") between you and the Partner Bank on account of delayed or non-payment of any funds due to you, you hereby indemnify PayPal, Affiliates and its employees from any damages, claims, charges, expenses and losses arising out of such Disputes",
+            "conf": 0.9996669888496399,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last Update: July 1, 2015",
+            "conf": 0.9999980926513672,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.0
+}

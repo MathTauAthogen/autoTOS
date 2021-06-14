@@ -1,0 +1,362 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Effective Date: May 25, 2018",
+            "conf": 0.9999815821647644,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "From time to time, we may change the provisions of this Privacy Policy",
+            "conf": 0.9977862238883972,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may automatically collect information using cookies, web beacons (also known as \u201ctracking gifs,\u201d \u201cpixel tags\u201d and \u201ctracking pixels\u201d) and other tracking technologies to, among other things, improve our Services and your experience, monitor user activity, count visits, understand usage and campaign effectiveness, and tell if an email has been opened and acted upon.",
+            "conf": 0.996026337146759,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We retain the personal data you provide until your account is deleted",
+            "conf": 0.9973077774047852,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Account deactivation does not delete your personal data",
+            "conf": 0.997750997543335,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Transfers of Your Personal Information Abroad Couchsurfing may store and process personal information in the United States and other countries, where under local laws you may have fewer legal rights",
+            "conf": 0.988010823726654,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We will not share information about you with outside parties except as described below or elsewhere in this Privacy Policy:",
+            "conf": 0.9750321507453918,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;",
+            "conf": 0.999998152256012,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Couchsurfing is responsible and liable if third-party agents that it uses to process the personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless Couchsurfing proves that it is not responsible for the event that allowed the damage to occur",
+            "conf": 0.995168924331665,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We therefore have no responsibility or liability for the activities of these third parties and how they collect, use or share information about you",
+            "conf": 0.9996907114982605,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "We may allow third parties to serve advertisements on our behalf across the Internet and to provide analytics services in relation to the use of our Services",
+            "conf": 0.9981520175933838,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address and information about your web browser and operating system, pages viewed, time spent on pages, links clicked and conversion information.",
+            "conf": 0.9989289045333862,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "This information may be used by Couchsurfing and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity",
+            "conf": 0.9774316549301147,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For example, we may engage a third party data provider who may collect web log data from you or place or recognize a unique cookie on your browser to enable you to receive customized ads or content",
+            "conf": 0.9980659484863281,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices",
+            "conf": 0.990955114364624,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "You can update and correct most of your personal data through your account",
+            "conf": 0.9312231540679932,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You can opt-out of email marketing and push notifications using the Email and Push Notification options in your Account and Settings Page",
+            "conf": 0.9999306797981262,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may update or correct information about you or deactivate your account at any time by logging into your account and editing your profile",
+            "conf": 0.9984639883041382,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt out of receiving promotional communications from Couchsurfing by following the instructions in those emails or by adjusting the appropriate settings in your profile",
+            "conf": 0.9965405464172363,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "If you opt out, we may still send you transactional or relationship messages, such as emails about your account",
+            "conf": 0.9999183416366577,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Use Last updated: 19 July 2017",
+            "conf": 0.9999972581863403,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We reserve the right to make changes or modifications to these Terms, or any policy or guideline of our Services, at any time and in our sole discretion.",
+            "conf": 0.9803687334060669,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If Couchsurfing makes changes to these Terms, we will provide notice of such changes, including by revising the date at the top of these Terms",
+            "conf": 0.9990846514701843,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "You must be at least 18 years old to access or use the Services",
+            "conf": 0.9999912977218628,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "By registering to use our Services, you represent that you are at least 18 years old",
+            "conf": 0.9999884366989136,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": ") maintain the security of your account by protecting your password and restricting access to your account",
+            "conf": 0.9908428192138672,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "and (e) take responsibility for all activities that occur under your account and accept all risks of any authorized or unauthorized access",
+            "conf": 0.9997086524963379,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We cannot be responsible for the interactions that you have with other Couchsurfing members, so please use good judgment and keep safety in mind when you use our Services",
+            "conf": 0.9875556230545044,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Because our Services are merely a platform, in the event that you have a dispute with one or more members, to the fullest extent permitted by applicable law you release us (and our officers, directors, members, employees, agents and affiliates) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such disputes",
+            "conf": 0.9574378132820129,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for your use of such interactive areas and agree that your use of these areas is at your own risk",
+            "conf": 0.99958735704422,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Couchsurfing is not responsible for any Member Content that you or other members post, transmit or store through the Services",
+            "conf": 0.9142976403236389,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We have no obligation to post Member Content from you or anyone else and we may, in our sole discretion, edit, remove or delete any Member Content without notice",
+            "conf": 0.9999913573265076,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Enforcement of these Terms, however, is solely in our discretion and the absence of enforcement in some instances does not waive of our right to enforce the Terms in other instances",
+            "conf": 0.9998438358306885,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "This license is revocable at any time",
+            "conf": 0.9955838322639465,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DISCONTINUANCE OF SERVICES We may, in our discretion and without liability to you, with or without prior notice and at any time, modify or discontinue, temporarily or permanently, any portion of our Services",
+            "conf": 0.9999992847442627,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "in any manner and at any time as we may determine in our sole discretion",
+            "conf": 0.9142524600028992,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "OUR SERVICES ARE PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS",
+            "conf": 0.9998552799224854,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WE EXPRESSLY DISCLAIM, AND YOU WAIVE, ALL OTHER WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY,",
+            "conf": 0.9756366610527039,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ", TITLE AND NON-INFRINGEMENT AS TO THE SERVICES, INCLUDING THE INFORMATION, CONTENT AND MATERIALS CONTAINED THEREIN",
+            "conf": 0.9070651531219482,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE DO NOT REPRESENT OR WARRANT THAT (A) OUR SERVICES WILL MEET YOUR REQUIREMENTS",
+            "conf": 0.9999927282333374,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "(B) OUR SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE",
+            "conf": 0.9999891519546509,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "NO DATA, INFORMATION OR ADVICE OBTAINED BY YOU IN ORAL OR WRITTEN FORM FROM US OR THROUGH OR FROM OUR SERVICES WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS",
+            "conf": 0.9614183902740479,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "SUBJECT TO APPLICABLE LAW, IN NO EVENT SHALL COUCHSURFING, OR OUR DIRECTORS, MEMBERS, EMPLOYEES OR AGENTS BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE) OR OTHERWISE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, ARISING FROM OR RELATING TO: (A) THE USE OR INABILITY TO USE OUR SERVICES.",
+            "conf": 0.9998909831047058,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "You shall defend, indemnify and hold harmless Couchsurfing (and each of our officers, directors, members, employees, agents and affiliates) from any claim, demand, action, damage, loss, cost or expense, including without limitation reasonable attorneys\u2019 fees, arising out of or relating to (a) your use of our Services",
+            "conf": 0.9999957084655762,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "if you are using the Services on behalf of any entity, you represent and warrant that such entity agrees to indemnify you and",
+            "conf": 0.9368104338645935,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "for violations of these Terms in accordance with this Section",
+            "conf": 0.9576252102851868,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If you are obligated to indemnify us, we will have the right, in our sole and unfettered discretion, to control any action or proceeding and determine whether we wish to settle it, and if so, on what terms",
+            "conf": 0.9999677538871765,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Please note that although we encourage you to report misconduct, we are not responsible or liable for our members\u2019 actions, and we are not obligated to take any action",
+            "conf": 0.9996719360351562,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "WHETHER THE DISPUTE IS HEARD IN ARBITRATION OR IN COURT, YOU AND COUCHSURFING WILL NOT COMMENCE AGAINST THE OTHER A CLASS ACTION, CLASS ARBITRATION OR OTHER REPRESENTATIVE ACTION OR PROCEEDING",
+            "conf": 0.9999997019767761,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Our failure or delay in exercising any right, power or privilege under these Terms shall not operate as a waiver thereof",
+            "conf": 0.9998120665550232,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The invalidity or unenforceability of any of these Terms shall not affect the validity or enforceability of any other of these Terms, all of which shall remain in full force and effect",
+            "conf": 0.9373958706855774,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.0
+}

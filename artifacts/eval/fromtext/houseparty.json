@@ -1,0 +1,1041 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Terms of Service Last Updated: June 11, 2018",
+            "conf": 0.9827939867973328,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "ARBITRATION NOTICE: UNLESS YOU OPT OUT OF ARBITRATION WITHIN 30 DAYS OF THE DATE YOU FIRST AGREE TO THESE TERMS BY FOLLOWING THE OPT-OUT PROCEDURE SPECIFIED IN SECTION 12 (\u201cDISPUTE RESOLUTION\u201d), AND EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN SECTION 12, YOU AGREE THAT DISPUTES BETWEEN YOU AND LIFE ON AIR WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU ARE WAIVING YOUR RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999990463256836,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Services that Life On Air provides are always evolving and the form and nature of the Services may change from time to time without prior notice to you",
+            "conf": 0.912217378616333,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "In addition, Life On Air may stop (permanently or temporarily) providing the Services (or any features within the Services) to you or to users generally and may not be able to provide you with prior notice",
+            "conf": 0.999994158744812,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We also retain the right to create limits on use and storage at our sole discretion at any time without prior notice to you",
+            "conf": 0.9886464476585388,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you don\u2019t, we might have to suspend or terminate your account",
+            "conf": 0.9559366106987,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to force forfeiture of any username for any reason",
+            "conf": 0.9304943680763245,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for safeguarding the password or credentials that you use to access the Services and for any activities or actions under your account",
+            "conf": 0.9988783597946167,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Life On Air cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements",
+            "conf": 0.9942529797554016,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You\u2019re responsible for all activities that occur under your account, whether or not you know about them",
+            "conf": 0.9999969005584717,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Life On Air",
+            "conf": 0.9977959990501404,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "These communications are considered part of the Services and your account, which you may not be able to opt-out from receiving",
+            "conf": 0.9999633431434631,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We may, but are not required to monitor or control the Content posted via the Services and we cannot take responsibility for such Content",
+            "conf": 0.9979865550994873,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services",
+            "conf": 0.9999921917915344,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will Life On Air be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Services or broadcast elsewhere",
+            "conf": 0.9999201893806458,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your use of the Services, for any User Content you provide, and for any consequences thereof, including the use of your User Content by other Users with whom you participate in a group video chat.",
+            "conf": 0.9948044419288635,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Life On Air will not be responsible or liable for any use of your User Content by Life On Air in accordance with these Terms",
+            "conf": 0.9533941149711609,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right at all times (but will not have an obligation) to remove or refuse to distribute any Content on the Services and to suspend and or terminate Users or reclaim usernames without liability to you",
+            "conf": 0.9999431371688843,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Life On Air does not disclose personally identifying information to third parties except in accordance with our Privacy Policy",
+            "conf": 0.9691258668899536,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may end your legal agreement with Life On Air at any time for any reason by deactivating your account and discontinuing your use of the Services",
+            "conf": 0.9127938151359558,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us",
+            "conf": 0.999900758266449,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Indemnity You will indemnify and hold harmless Life On Air and its officers, directors, employee and agents, from and against any claims, disputes, demands, liabilities, damages, losses, and costs and expenses, including, without limitation, reasonable legal and accounting fees arising out of or in any way connected with (i) your access to or use of the Services or Content, (ii) your User Content, or (iii) your violation of these Terms",
+            "conf": 0.9999773502349854,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Services are Available \u201cAS-IS\u201d",
+            "conf": 0.9999626278877258,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You understand and agree that the Services is provided to you on an \u201cAS IS\u201d and \u201cAS AVAILABLE\u201d basis",
+            "conf": 0.9999603629112244,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Life On Air Entities make no warranty and disclaim all responsibility and liability for: (i) the completeness, accuracy, availability, timeliness, security or reliability of the Services or any Content",
+            "conf": 0.9999946355819702,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") whether the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis",
+            "conf": 0.998516321182251,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that we are not responsible or liable for: (i) the availability or accuracy of such websites or resources",
+            "conf": 0.9403694868087769,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources",
+            "conf": 0.999983012676239,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Liability TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LIFE ON AIR ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES.",
+            "conf": 0.9934723973274231,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Unless you timely provide Life On Air with an Arbitration Opt-out Notice (as defined below in the Section titled \u201cYour Choices\u201d), you acknowledge and agree that you and Life On Air are each waiving the right to a trial by jury or to participate as a plaintiff or class member in any purported class action or representative proceeding",
+            "conf": 0.999531090259552,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and Life On Air otherwise agree in writing, the arbitrator may not consolidate more than one person\u2019s claims, and may not otherwise preside over any form of any class or representative proceeding",
+            "conf": 0.9999929070472717,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Life On Air will not seek, and hereby waives all rights it may have under applicable law to recover, attorneys\u2019 fees and expenses if it prevails in arbitration",
+            "conf": 0.9964740872383118,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Changes Notwithstanding the provisions of the \u201cGeneral Terms\u201d section below regarding changes to these Terms, if Life On Air changes this \u201cDispute Resolution\u201d section after the date you first accepted these Terms (or accepted any subsequent changes to these Terms), you may reject any such change by sending us written notice (including by email to hello@houseparty.com) within 30 days of the date such change became effective, as indicated in the \u201cLast Updated\u201d date above or in the date of Life On Air\u2019s email to you notifying you of such change",
+            "conf": 0.9943432807922363,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Life On Air to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision",
+            "conf": 0.9999973773956299,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Life On Air\u2019s failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision",
+            "conf": 0.9999634623527527,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may revise these Terms from time to time",
+            "conf": 0.999836266040802,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date of Current Policy: June 11, 2018 1",
+            "conf": 0.9999942779541016,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "how we intend to use and share that information, and how you can opt-out of a use or correct or change such information",
+            "conf": 0.9353532791137695,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "As you navigate the Services, certain passive information may also be collected about your visit, including through cookies and similar technologies as described below.",
+            "conf": 0.9940556883811951,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Note, however, that we will never share your phone number or the phone numbers of third parties in your Contacts with anyone else",
+            "conf": 0.9420322179794312,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We may collect certain information automatically through our Services or other methods of web analysis, such as your Internet protocol (IP) address, cookie identifiers, mobile carrier, mobile advertising identifiers, MAC address, IMEI, and other device identifiers that are automatically assigned to your computer or device when you access the Internet, browser type and language, geo-location information, hardware type, operating system, Internet service provider, pages that you visit before and after using the Services, the date and time of your visit, the amount of time you spend on each page, information about the links you click and pages you view within the Services, and other actions taken through use of the Services such as preferences.",
+            "conf": 0.9858348965644836,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may contact us at any time to opt-out of the use of your Personal Information for marketing purposes, as further described in Section 5 below",
+            "conf": 0.9997782707214355,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "3.3 Cookies, Pixel Tags / Web Beacons, Analytics Information, Interest-Based Advertising, and Other Technologies We, as well as Third Parties that provide content, advertising, or other functionality on our Services, may use cookies, pixel tags, local storage, log data and other technologies (\u201cTechnologies\u201d) to automatically collect information through the Services.",
+            "conf": 0.9898599982261658,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use Technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a \u201cdevice\u201d) that allow us to record certain pieces of information whenever you visit or interact with our Services, and to recognize you across devices.",
+            "conf": 0.996130108833313,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A pixel tag (also known as a web beacon, web bug, or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising.",
+            "conf": 0.9996949434280396,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Unlike Cookies, which are stored on the User\u2019s hard drive, pixel tags are typically embedded invisibly on web pages (or in an e-mail).",
+            "conf": 0.9999954700469971,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content.",
+            "conf": 0.9848051071166992,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of Google",
+            "conf": 0.9422566294670105,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We may use Cookies, pixel tags, or other similar technologies that are necessary to the operation of our Site, Services, applications, and tools.",
+            "conf": 0.9977760314941406,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may use Cookies, pixel tags, or other similar technologies to assess the performance of our Site, Services, applications and tools, including as part of our analytic practices to help us understand how our visitors use our Services, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our content, applications, services, or tools;",
+            "conf": 0.9999395608901978,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may use Cookies, pixel tags, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our Site, Services, applications, or tools.",
+            "conf": 0.9991565942764282,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you would like to opt-out of the Technologies we employ on our sites, services, applications, or tools, you may do so by blocking, deleting, or disabling them as your browser or device permits",
+            "conf": 0.948707103729248,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites or applications",
+            "conf": 0.9968214631080627,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for privacy practices of the other users who will view and use the posted information",
+            "conf": 0.999861478805542,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract",
+            "conf": 0.9922747015953064,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "4.2 Data Transfers All Personal Information collected via or by Life on Air may be stored anywhere in the world, including but not limited to, the United States, the European Union and other international jurisdictions, in the cloud, on our servers, on the servers of our affiliates or the servers of our service providers",
+            "conf": 0.9858464002609253,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Even if you opt-out, we may still collect and use non-Personal Information regarding your activities on our Services and/or information from the advertisements on Third-Party websites for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements",
+            "conf": 0.9852513074874878,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt-out of receiving future emails",
+            "conf": 0.9999825358390808,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may also send you certain non-promotional communications regarding Life on Air and our Services and you will not be able to opt out of those communications (e.g., communications regarding updates to our Terms or this Privacy Policy).",
+            "conf": 0.9998919367790222,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may at any time opt-out from receiving these types of communications by changing the settings on your mobile or other device",
+            "conf": 0.965838611125946,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of this collection by changing the settings on your mobile or other device",
+            "conf": 0.994526743888855,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers",
+            "conf": 0.9999948740005493,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Where otherwise permitted",
+            "conf": 0.9327741265296936,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "applicable law, you may send an e-mail to hello@houseparty.com or use any of the methods set out in this Privacy Policy to request access to, receive (port), seek rectification, or request erasure of Personal Information held about you by us",
+            "conf": 0.9298148155212402,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "With respect to requests for deletion, we\u2019ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.",
+            "conf": 0.9865230917930603,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Retention We retain the Personal Information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws",
+            "conf": 0.9951000809669495,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us",
+            "conf": 0.9502682685852051,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "You may have a legal right to receive this notice in writing",
+            "conf": 0.9014606475830078,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The Services are not directed to children under 13 years of age, and we do not knowingly collect Personal Information from children under 13 years of age",
+            "conf": 0.999980092048645,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 13 you must have your parent\u2019s permission to access the Services",
+            "conf": 0.9999982714653015,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This Privacy Policy may change from time to time",
+            "conf": 0.9406689405441284,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may revise this Privacy Policy in our sole discretion, so review it periodically",
+            "conf": 0.9996950030326843,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective immediately when it is posted (or upon notice as applicable).",
+            "conf": 0.9999600052833557,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not share Personal Information with Third Parties for their own marketing purposes",
+            "conf": 0.9999886751174927,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Service Last Updated: June 11, 2018",
+            "conf": 0.9871562123298645,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "ARBITRATION NOTICE: UNLESS YOU OPT OUT OF ARBITRATION WITHIN 30 DAYS OF THE DATE YOU FIRST AGREE TO THESE TERMS BY FOLLOWING THE OPT-OUT PROCEDURE SPECIFIED IN SECTION 12 (\u201cDISPUTE RESOLUTION\u201d), AND EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN SECTION 12, YOU AGREE THAT DISPUTES BETWEEN YOU AND LIFE ON AIR WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU ARE WAIVING YOUR RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.9999990463256836,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Services that Life On Air provides are always evolving and the form and nature of the Services may change from time to time without prior notice to you",
+            "conf": 0.912217378616333,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "In addition, Life On Air may stop (permanently or temporarily) providing the Services (or any features within the Services) to you or to users generally and may not be able to provide you with prior notice",
+            "conf": 0.999994158744812,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We also retain the right to create limits on use and storage at our sole discretion at any time without prior notice to you",
+            "conf": 0.9886464476585388,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "If you don\u2019t, we might have to suspend or terminate your account",
+            "conf": 0.9559366106987,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right to force forfeiture of any username for any reason",
+            "conf": 0.9304947257041931,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for safeguarding the password or credentials that you use to access the Services and for any activities or actions under your account",
+            "conf": 0.9988783597946167,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Life On Air cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements",
+            "conf": 0.9942528605461121,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You\u2019re responsible for all activities that occur under your account, whether or not you know about them",
+            "conf": 0.9999969005584717,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Life On Air",
+            "conf": 0.9977959990501404,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "These communications are considered part of the Services and your account, which you may not be able to opt-out from receiving",
+            "conf": 0.9999633431434631,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We may, but are not required to monitor or control the Content posted via the Services and we cannot take responsibility for such Content",
+            "conf": 0.9979865550994873,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services",
+            "conf": 0.9999921917915344,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Under no circumstances will Life On Air be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Services or broadcast elsewhere",
+            "conf": 0.9999201893806458,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for your use of the Services, for any User Content you provide, and for any consequences thereof, including the use of your User Content by other Users with whom you participate in a group video chat.",
+            "conf": 0.9948044419288635,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Life On Air will not be responsible or liable for any use of your User Content by Life On Air in accordance with these Terms",
+            "conf": 0.9533941149711609,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right at all times (but will not have an obligation) to remove or refuse to distribute any Content on the Services and to suspend and or terminate Users or reclaim usernames without liability to you",
+            "conf": 0.9999431371688843,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Life On Air does not disclose personally identifying information to third parties except in accordance with our Privacy Policy",
+            "conf": 0.9691258668899536,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "You may end your legal agreement with Life On Air at any time for any reason by deactivating your account and discontinuing your use of the Services",
+            "conf": 0.9127938151359558,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": "We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us",
+            "conf": 0.999900758266449,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Indemnity You will indemnify and hold harmless Life On Air and its officers, directors, employee and agents, from and against any claims, disputes, demands, liabilities, damages, losses, and costs and expenses, including, without limitation, reasonable legal and accounting fees arising out of or in any way connected with (i) your access to or use of the Services or Content, (ii) your User Content, or (iii) your violation of these Terms",
+            "conf": 0.9999773502349854,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The Services are Available \u201cAS-IS\u201d",
+            "conf": 0.9999626278877258,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "You understand and agree that the Services is provided to you on an \u201cAS IS\u201d and \u201cAS AVAILABLE\u201d basis",
+            "conf": 0.9999603629112244,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Life On Air Entities make no warranty and disclaim all responsibility and liability for: (i) the completeness, accuracy, availability, timeliness, security or reliability of the Services or any Content",
+            "conf": 0.9999946355819702,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": ") whether the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis",
+            "conf": 0.998516321182251,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that we are not responsible or liable for: (i) the availability or accuracy of such websites or resources",
+            "conf": 0.9403694868087769,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources",
+            "conf": 0.999983012676239,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Liability TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LIFE ON AIR ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES.",
+            "conf": 0.9934723973274231,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "Unless you timely provide Life On Air with an Arbitration Opt-out Notice (as defined below in the Section titled \u201cYour Choices\u201d), you acknowledge and agree that you and Life On Air are each waiving the right to a trial by jury or to participate as a plaintiff or class member in any purported class action or representative proceeding",
+            "conf": 0.999531090259552,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, unless both you and Life On Air otherwise agree in writing, the arbitrator may not consolidate more than one person\u2019s claims, and may not otherwise preside over any form of any class or representative proceeding",
+            "conf": 0.9999929070472717,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Life On Air will not seek, and hereby waives all rights it may have under applicable law to recover, attorneys\u2019 fees and expenses if it prevails in arbitration",
+            "conf": 0.9964740872383118,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Changes Notwithstanding the provisions of the \u201cGeneral Terms\u201d section below regarding changes to these Terms, if Life On Air changes this \u201cDispute Resolution\u201d section after the date you first accepted these Terms (or accepted any subsequent changes to these Terms), you may reject any such change by sending us written notice (including by email to hello@houseparty.com) within 30 days of the date such change became effective, as indicated in the \u201cLast Updated\u201d date above or in the date of Life On Air\u2019s email to you notifying you of such change",
+            "conf": 0.9943432807922363,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Life On Air to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision",
+            "conf": 0.9999973773956299,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Life On Air\u2019s failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision",
+            "conf": 0.9999634623527527,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may revise these Terms from time to time",
+            "conf": 0.999836266040802,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Effective Date of Current Policy: June 11, 2018 1",
+            "conf": 0.9999942779541016,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "how we intend to use and share that information, and how you can opt-out of a use or correct or change such information",
+            "conf": 0.9353532791137695,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "As you navigate the Services, certain passive information may also be collected about your visit, including through cookies and similar technologies as described below.",
+            "conf": 0.9940556883811951,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Note, however, that we will never share your phone number or the phone numbers of third parties in your Contacts with anyone else",
+            "conf": 0.9420322179794312,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We may collect certain information automatically through our Services or other methods of web analysis, such as your Internet protocol (IP) address, cookie identifiers, mobile carrier, mobile advertising identifiers, MAC address, IMEI, and other device identifiers that are automatically assigned to your computer or device when you access the Internet, browser type and language, geo-location information, hardware type, operating system, Internet service provider, pages that you visit before and after using the Services, the date and time of your visit, the amount of time you spend on each page, information about the links you click and pages you view within the Services, and other actions taken through use of the Services such as preferences.",
+            "conf": 0.9858348965644836,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You may contact us at any time to opt-out of the use of your Personal Information for marketing purposes, as further described in Section 5 below",
+            "conf": 0.9997782707214355,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "3.3 Cookies, Pixel Tags / Web Beacons, Analytics Information, Interest-Based Advertising, and Other Technologies We, as well as Third Parties that provide content, advertising, or other functionality on our Services, may use cookies, pixel tags, local storage, log data and other technologies (\u201cTechnologies\u201d) to automatically collect information through the Services.",
+            "conf": 0.9898599982261658,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We use Technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a \u201cdevice\u201d) that allow us to record certain pieces of information whenever you visit or interact with our Services, and to recognize you across devices.",
+            "conf": 0.996130108833313,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A pixel tag (also known as a web beacon, web bug, or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising.",
+            "conf": 0.9996949434280396,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Unlike Cookies, which are stored on the User\u2019s hard drive, pixel tags are typically embedded invisibly on web pages (or in an e-mail).",
+            "conf": 0.9999954700469971,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content.",
+            "conf": 0.9848051071166992,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "You can opt out of Google",
+            "conf": 0.9422568082809448,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "2",
+            "text": "We may use Cookies, pixel tags, or other similar technologies that are necessary to the operation of our Site, Services, applications, and tools.",
+            "conf": 0.9977760314941406,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may use Cookies, pixel tags, or other similar technologies to assess the performance of our Site, Services, applications and tools, including as part of our analytic practices to help us understand how our visitors use our Services, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our content, applications, services, or tools;",
+            "conf": 0.9999395608901978,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We may use Cookies, pixel tags, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our Site, Services, applications, or tools.",
+            "conf": 0.9991565942764282,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you would like to opt-out of the Technologies we employ on our sites, services, applications, or tools, you may do so by blocking, deleting, or disabling them as your browser or device permits",
+            "conf": 0.948707103729248,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites or applications",
+            "conf": 0.9968214631080627,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "We are not responsible for privacy practices of the other users who will view and use the posted information",
+            "conf": 0.999861478805542,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "11",
+            "text": "If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract",
+            "conf": 0.9922747015953064,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "4.2 Data Transfers All Personal Information collected via or by Life on Air may be stored anywhere in the world, including but not limited to, the United States, the European Union and other international jurisdictions, in the cloud, on our servers, on the servers of our affiliates or the servers of our service providers",
+            "conf": 0.9858464002609253,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "Even if you opt-out, we may still collect and use non-Personal Information regarding your activities on our Services and/or information from the advertisements on Third-Party websites for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements",
+            "conf": 0.9852513074874878,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt-out of receiving future emails",
+            "conf": 0.9999825358390808,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may also send you certain non-promotional communications regarding Life on Air and our Services and you will not be able to opt out of those communications (e.g., communications regarding updates to our Terms or this Privacy Policy).",
+            "conf": 0.9998919367790222,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may at any time opt-out from receiving these types of communications by changing the settings on your mobile or other device",
+            "conf": 0.9658386707305908,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of this collection by changing the settings on your mobile or other device",
+            "conf": 0.994526743888855,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers",
+            "conf": 0.9999948740005493,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "Where otherwise permitted",
+            "conf": 0.9327738285064697,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "applicable law, you may send an e-mail to hello@houseparty.com or use any of the methods set out in this Privacy Policy to request access to, receive (port), seek rectification, or request erasure of Personal Information held about you by us",
+            "conf": 0.9298142194747925,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "With respect to requests for deletion, we\u2019ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.",
+            "conf": 0.9865230917930603,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Retention We retain the Personal Information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws",
+            "conf": 0.9951000809669495,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us",
+            "conf": 0.9502682685852051,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "You may have a legal right to receive this notice in writing",
+            "conf": 0.9014606475830078,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The Services are not directed to children under 13 years of age, and we do not knowingly collect Personal Information from children under 13 years of age",
+            "conf": 0.999980092048645,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under the age of 13 you must have your parent\u2019s permission to access the Services",
+            "conf": 0.9999982714653015,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "This Privacy Policy may change from time to time",
+            "conf": 0.9406689405441284,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may revise this Privacy Policy in our sole discretion, so review it periodically",
+            "conf": 0.9996950030326843,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective immediately when it is posted (or upon notice as applicable).",
+            "conf": 0.9999600052833557,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not share Personal Information with Third Parties for their own marketing purposes",
+            "conf": 0.9999886751174927,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        }
+    ],
+    "sentiment": 3.3
+}

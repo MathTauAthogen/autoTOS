@@ -1,0 +1,404 @@
+{
+    "predictions": [
+        {
+            "label": "0",
+            "text": "Last updated: January 23, 2020",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Internet protocol (IP) address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising and other unique identifiers,",
+            "conf": 0.9298378825187683,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We, as well as third parties that provide content, advertising, or other functionality on the Services, may use cookies, pixel tags, local storage, and other technologies (\"Technologies\") to automatically collect information through the Services.",
+            "conf": 0.9960740208625793,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Technologies are essentially small data files placed on your computer, tablet, mobile phone, or other devices that allow us to record certain pieces of information whenever you visit or interact with our Services",
+            "conf": 0.948503315448761,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A pixel tag (also known as a web beacon) is a piece of code embedded in the Services that collects information about users' engagement on that web page.",
+            "conf": 0.9968677759170532,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may also use Google Cloud data analytics products to collect information regarding visitor behavior and visitor demographics on our Services",
+            "conf": 0.9997565746307373,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "We, as well as third parties that provide content, advertising, or other functionality on the Services, may use cookies, pixel tags, local storage, and other technologies to automatically collect information through the Services.",
+            "conf": 0.9943816065788269,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "We may use first party or third-party Technologies to deliver content, including ads relevant to your interests, on our Services or on third party sites",
+            "conf": 0.9919268488883972,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "We do not endorse, screen or approve and are not responsible for the privacy practices or content of such other websites or applications",
+            "conf": 0.9966718554496765,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "13",
+            "text": "APIs and SDKs may allow third parties including analytics and advertising partners to collect your personal information for various purposes including to provide analytics services and content that is more relevant to you",
+            "conf": 0.9941799640655518,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "We don't store this information on our servers or share it with third parties",
+            "conf": 0.999940812587738,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Except as provided below, we do not share your personal information",
+            "conf": 0.9991955757141113,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "We do not sell consumers' personal information and have not sold consumers' personal information in the preceding 12 months",
+            "conf": 0.9995805025100708,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "Through our Services, we may allow third party advertising partners to set Technologies and other tracking tools to collect information regarding your activities and your device (e.g., your IP address, mobile identifiers, page(s) visited, location, time of day).",
+            "conf": 0.9999738931655884,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit third party websites within their networks",
+            "conf": 0.9993405342102051,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "11",
+            "text": "If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract",
+            "conf": 0.9925470948219299,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "You agree that all information processed by us may be transferred, processed, and stored anywhere in the world, including but not limited to, the United States or other countries, which may have data protection laws that are different from the laws where you live",
+            "conf": 0.9999957084655762,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "14",
+            "text": "If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails",
+            "conf": 0.9999847412109375,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may also send you certain non-promotional communications regarding us and our Services, and you will not be able to opt out of those communications (e.g., communications regarding the Services or updates to our Terms or this Privacy Notice).",
+            "conf": 0.9997443556785583,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "We may send you push notifications through our mobile application",
+            "conf": 0.9815710186958313,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may at any time opt- out from receiving these types of communications by changing the settings on your mobile device",
+            "conf": 0.992729902267456,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "14",
+            "text": "You may opt-out of this collection by changing the settings on your mobile device",
+            "conf": 0.9981804490089417,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "5",
+            "text": "Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers",
+            "conf": 0.9999817609786987,
+            "description": "This service ignores the Do Not Track (DNT) header and tracks users anyway.",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs",
+            "conf": 0.9950621724128723,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "13",
+            "text": "These advertisements provide a mechanism to opt out of the advertising partners' use of this information for interest-based advertising purposes",
+            "conf": 0.9997691512107849,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "We store the personal information we receive as described in this Privacy Notice for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws",
+            "conf": 0.9999909400939941,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "The Services are not directed to children under 13 (or other age as required by local law), and we do not knowingly collect personal information from children",
+            "conf": 0.9999896287918091,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may revise this Privacy Notice from time to time in our sole discretion",
+            "conf": 0.9998849034309387,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last updated: January 23, 2020",
+            "conf": 0.9999971389770508,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "We may update the Terms from time to time in our sole discretion",
+            "conf": 0.9988244771957397,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "If we do, we'll let you know by posting the updated Terms on the Site and may also send other communications",
+            "conf": 0.9986879825592041,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "Because our Services are evolving over time we may change or discontinue all or any part of the Services, at any time and without notice, at our sole discretion",
+            "conf": 0.999995231628418,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "To use the Services, you must be at least 13 years of age and not otherwise barred from using the Services under applicable law",
+            "conf": 0.9999986886978149,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you don't, we might have to suspend or terminate your Account",
+            "conf": 0.9372748136520386,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "You agree that you won't disclose your Account password to anyone and you'll notify us immediately of any unauthorized use of your Account",
+            "conf": 0.9975026845932007,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible for all your User Content",
+            "conf": 0.999352753162384,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge and agree that Byte is not responsible or liable for your User Content, including, without limitation, any user's Communications, including yours.",
+            "conf": 0.9856746792793274,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Unless explicitly stated otherwise on the Services, we do not endorse or guarantee the truthfulness, accuracy, or completeness of any User Content, including User Content that features a Banner",
+            "conf": 0.9981477856636047,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "We reserve the right, but are not obligated, to remove or disable access to any content, at any time and without notice, including, but not limited to, if we, at our sole discretion, consider it objectionable or in violation of these Terms",
+            "conf": 0.9999510049819946,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You acknowledge sole responsibility for and assume all risk arising from, your use of any third-party resources",
+            "conf": 0.9312562942504883,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You further acknowledge that we have no responsibility to remove, add, modify, or monitor User Content, including any access to third-party websites or other resources contained in User Content.",
+            "conf": 0.9951602220535278,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may terminate or suspend, in whole or in part, your access to and use of the Services, at our sole discretion, at any time and without notice to you",
+            "conf": 0.9965198636054993,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "You may cancel your account at any time by going into your account settings on the App",
+            "conf": 0.9999873042106628,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "THE SERVICES ARE PROVIDED \"AS IS,\" WITHOUT WARRANTY OF ANY KIND",
+            "conf": 0.9999454617500305,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no warranty that the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis",
+            "conf": 0.9999948740005493,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "We make no warranty regarding the quality, accuracy, timeliness, truthfulness, completeness or reliability of any information or content on the Services",
+            "conf": 0.9999926090240479,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE ARE NOT RESPONSIBLE OR LIABLE FOR USER CONTENT, INCLUDING, WITHOUT LIMITATION, COMMUNICATIONS, AND WE MAKE NO WARRANTY OR REPRESENTATION OF ANY KIND IN REGARD TO USER CONTENT",
+            "conf": 0.9985816478729248,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER BYTE NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SERVICES WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOST PROFITS, LOST REVENUES, LOST SAVINGS, LOST BUSINESS OPPORTUNITY, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE SERVICES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT BYTE OR ANY OTHER PARTY HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.",
+            "conf": 0.9999741315841675,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "YOU ACKNOWLEDGE THAT BYTE SHALL NOT BE RESPONSIBLE OR LIABLE FOR CONTENT OR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY OR ANY THIRD PARTY'S CONTENT, WHETHER OR NOT SUCH CONTENT IS ACCESSED THROUGH THE SERVICES (INCLUDING ANY USER CONTENT), AND THAT ANY RISK OF HARM OR DAMAGE FROM THE FOREGOING RESTS ENTIRELY WITH YOU",
+            "conf": 0.9954556822776794,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "We each agree that any dispute, claim or controversy arising out of or relating to these Terms or the breach, termination, enforcement, interpretation or validity thereof or the use of the Services (collectively, \"Disputes\") will be resolved solely by binding, individual arbitration and not in a class, representative or consolidated action or proceeding",
+            "conf": 0.9999998807907104,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Federal Arbitration Act governs the interpretation and enforcement of these Terms, and that you and Byte are each waiving the right to a trial by jury or to participate in a class action",
+            "conf": 0.9999959468841553,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "YOU AND BYTE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING",
+            "conf": 0.999993622303009,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Further, if the parties' dispute is resolved through arbitration, the arbitrator may not consolidate another person's claims with your claims, and may not otherwise preside over any form of a representative or class proceeding",
+            "conf": 0.9999879002571106,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "16",
+            "text": "Notwithstanding the provisions of Section 3 \"Changes to these Terms or the Services\" above, if Byte changes any of the terms of this Section 19 \"Dispute Resolution\" after the date you most recently accepted these Terms, you may reject any such change by sending us written notice (including by email to hello@byte.co) within 30 days of the date such change became effective, as indicated in the \"Last Updated\" date above or in the date of Byte's email to you notifying you of such change",
+            "conf": 0.9981898069381714,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "With the exception of any of the provisions in Section 19(e) of these Terms (\"Class Action Waiver\"), if an arbitrator or court of competent jurisdiction decides that any part of these Terms is invalid or unenforceable, the other parts of these Terms will still apply",
+            "conf": 0.9999934434890747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of these Terms is held invalid or unenforceable by an arbitrator or a court of competent jurisdiction, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms will remain in full force and effect",
+            "conf": 0.9259004592895508,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "Byte's failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision",
+            "conf": 0.9999974370002747,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        }
+    ],
+    "sentiment": 2.4
+}

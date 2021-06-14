@@ -1,0 +1,754 @@
+{
+    "predictions": [
+        {
+            "label": "7",
+            "text": "Skype reserves the right to change this fair usage policy at any time",
+            "conf": 0.9992483258247375,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Last revised July, 2011",
+            "conf": 0.9999986886978149,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Skype may at its option, terminate or suspend its relationship with you, and your use of any Skype product immediately if it determines you are using the product contrary to this FUP",
+            "conf": 0.9880445003509521,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": ", Video Messages will be kept for a minimum of 6 months from the date sent and may expire after that time",
+            "conf": 0.9314368963241577,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "0",
+            "text": "\u00a9 Skype \u2013 Last revised: October 2010",
+            "conf": 0.990656852722168,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Published: March 1, 2018Effective: May 1,",
+            "conf": 0.9999966621398926,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft cannot be held responsible for Your Content or the material others upload, store or share using the Services.",
+            "conf": 0.9848238825798035,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may also block delivery of a communication (like email, file sharing or instant message) to or from the Services in an effort to enforce these Terms or we may remove or refuse to publish Your Content for any reason",
+            "conf": 0.9991246461868286,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all activity that occurs under your Microsoft account",
+            "conf": 0.9972537159919739,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you don\u2019t sign in during this time, we will assume your Microsoft account is inactive and will close it for you",
+            "conf": 0.9946776628494263,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You must sign into your Outlook.com inbox and your OneDrive (separately) at least once in a one-year period, otherwise we will close your Outlook.com inbox and your OneDrive for you",
+            "conf": 0.9967438578605652,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you do not know whether you have reached the age of majority where you live, or do not understand this section, please ask your parent or legal guardian for help and consent before you create a Microsoft account",
+            "conf": 0.9989016652107239,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel specific Services or close your Microsoft account at any time and for any reason",
+            "conf": 0.9937049746513367,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "To close your Microsoft account, please visit",
+            "conf": 0.9944589138031006,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "https://account.live.com/closeaccount.aspx",
+            "conf": 0.9924354553222656,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Second, we\u2019ll delete Data or Your Content associated with your Microsoft account or will otherwise disassociate it from you and your Microsoft account (unless we are required by law to keep it, return it, or transfer it to you or a third party identified by you).",
+            "conf": 0.9999276399612427,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "If you do, you agree that the owner of the domain associated with your email address may control and administer your account, and access and process your Data, including the contents of your communications and files, and that Microsoft may notify the owner of the domain if the account or Data is compromised",
+            "conf": 0.9767568111419678,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "We may also send you Service notifications by other means (for example by in-product messages).",
+            "conf": 0.9166890978813171,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Second, we\u2019ll delete Data or Your Content associated with your Service or will otherwise disassociate it from you and your Microsoft account (unless we are required by law to keep it, return it, or transfer it to you or a third party identified by you).",
+            "conf": 0.9998759031295776,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft does not license any intellectual property to you as part of any Third-Party Apps and Services and is not responsible or liable to you or others for information or services provided by any Third-Party Apps and Services",
+            "conf": 0.9992009401321411,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Services, Third-Party Apps and Services, or material or products offered through the Services may be unavailable from time to time, may be offered for a limited time, or may vary depending on your region or device.",
+            "conf": 0.9954238533973694,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "however, all online services suffer occasional disruptions and outages, and Microsoft is not liable for any disruption or loss you may suffer as a result",
+            "conf": 0.915891706943512,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may change these Terms at any time, and we\u2019ll tell you when we do",
+            "conf": 0.993701159954071,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Microsoft isn\u2019t obligated to make any updates available and we don\u2019t guarantee that we will support the version of the system or device for which you purchased or licensed the software, apps, content or other products",
+            "conf": 0.9996289610862732,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You may cancel a Service at any time, with or without cause",
+            "conf": 0.9859127402305603,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "and (iv) you may lose access to and use of your account when you cancel the Services",
+            "conf": 0.9705826640129089,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We may change the price of the Services at any time and if you have a recurring purchase, we will notify you by email, or other reasonable manner, at least 15 days before the price change",
+            "conf": 0.9995099306106567,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "MICROSOFT, AND OUR AFFILIATES, RESELLERS, DISTRIBUTORS, AND VENDORS, MAKE NO WARRANTIES, EXPRESS OR IMPLIED, GUARANTEES OR CONDITIONS WITH RESPECT TO YOUR USE OF THE SERVICES",
+            "conf": 0.9996214509010315,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU UNDERSTAND THAT USE OF THE SERVICES IS AT YOUR OWN RISK AND THAT WE PROVIDE THE SERVICES ON AN \"AS IS\" BASIS \"WITH ALL FAULTS\" AND \"AS AVAILABLE.\" YOU BEAR THE ENTIRE RISK OF USING THE SERVICES",
+            "conf": 0.9995822906494141,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE DO NOT GUARANTEE THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE OR THAT CONTENT LOSS WON'T OCCUR, NOR DO WE GUARANTEE ANY CONNECTION TO OR TRANSMISSION FROM THE COMPUTER NETWORKS",
+            "conf": 0.9999876022338867,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You can't recover any other damages or losses, including direct, consequential, lost profits, special, indirect, incidental, or punitive",
+            "conf": 0.9910226464271545,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Microsoft reserves the right to cancel any Contest at any time",
+            "conf": 0.9812961220741272,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "By using the Mixer Service, you represent that you are at least 13 years old and, if you are under the age of majority where you live, your use is supervised by a parent or legal guardian.",
+            "conf": 0.9908464550971985,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You or group members no longer wishing to receive such messages can opt-out of receiving further messages from Microsoft or Microsoft-controlled affiliates at any time by following the instructions provided",
+            "conf": 0.999707818031311,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "may only be available to users who are 18 years old and over (or otherwise in accordance with the third parties\u2019 terms) and who register and are approved for an account with the third party provider",
+            "conf": 0.9059774279594421,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Skype, or Microsoft, will not be liable for payment services provided by third parties or any actions taken under third parties\u2019 terms and conditions",
+            "conf": 0.9703872799873352,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Skype makes no guarantees, representations or warranties that the send and receive money feature will be available or continue to be available",
+            "conf": 0.9999914765357971,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Microsoft does not guarantee the reliability, availability or timeliness of personalized experiences provided by Cortana",
+            "conf": 0.9999988079071045,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Users can disconnect account linking at any time",
+            "conf": 0.9997663497924805,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible or liable for manufacturer provided software or firmware",
+            "conf": 0.9996849894523621,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible or liable for these third-party devices or products.",
+            "conf": 0.9740317463874817,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The information in your account may not always be accurate or up-to-date and should be viewed by any health care provider as informational only",
+            "conf": 0.9997743368148804,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft does not endorse or control, and is not responsible for, the operation, support, or security of non-Microsoft credentials you may use",
+            "conf": 0.9975599646568298,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for any decision you make based on information you receive from Microsoft Band",
+            "conf": 0.9981133937835693,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for any decision you make based on information you receive from health bots or HealthVault Insights",
+            "conf": 0.9831045269966125,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Microsoft or the owners of the Digital Goods may, from time to time, remove Digital Goods from the Services without notice",
+            "conf": 0.9811996221542358,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Your Program account will be cancelled if you do not log in at least once in an 18-month period",
+            "conf": 0.9395292401313782,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where someone acts in a representative capacity aren\u2019t allowed",
+            "conf": 0.9998985528945923,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "But a court has exclusive authority to enforce the prohibition on arbitration on a class-wide basis or in a representative capacity",
+            "conf": 0.9519594311714172,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the class action waiver is found to be illegal or unenforceable as to all or some parts of a dispute, then those parts won\u2019t be arbitrated but will proceed in court, with the rest proceeding in arbitration",
+            "conf": 0.9996904134750366,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If a court or arbitrator holds that we can't enforce a part of these Terms as written, we may replace those terms with similar terms to the extent enforceable under the relevant law, but the rest of these Terms won't change",
+            "conf": 0.9992949366569519,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "and (3) is not warranted to be accurate, complete or timely",
+            "conf": 0.9999668002128601,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Neither Morningstar nor its content providers are responsible for any damages or losses arising from any use of this information",
+            "conf": 0.9999749064445496,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Microsoft reserves the right to modify Microsoft\u2019s Usage Rules at any time",
+            "conf": 0.9758229851722717,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The application is licensed \"as is,\" \"with all faults,\" and \"as available.\" You bear the entire risk as to its quality, safety, comfort, and performance",
+            "conf": 0.9999908208847046,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You will not, and waive any right to, seek to recover any other damages, including lost profits and consequential, special, direct, indirect, or incidental damages, from the application publisher",
+            "conf": 0.9453974366188049,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft cannot be held responsible for Your Content or the material others upload, store or share using the Services.",
+            "conf": 0.9848238825798035,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "We may also block delivery of a communication (like email, file sharing or instant message) to or from the Services in an effort to enforce these Terms or we may remove or refuse to publish Your Content for any reason",
+            "conf": 0.9991246461868286,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for all activity that occurs under your Microsoft account",
+            "conf": 0.9972537159919739,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "If you don\u2019t sign in during this time, we will assume your Microsoft account is inactive and will close it for you",
+            "conf": 0.9946776628494263,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "You must sign into your Outlook.com inbox and your OneDrive (separately) at least once in a one-year period, otherwise we will close your Outlook.com inbox and your OneDrive for you",
+            "conf": 0.9967438578605652,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "If you do not know whether you have reached the age of majority where you live, or do not understand this section, please ask your parent or legal guardian for help and consent before you create a Microsoft account",
+            "conf": 0.9989016652107239,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "15",
+            "text": "You can cancel specific Services or close your Microsoft account at any time and for any reason",
+            "conf": 0.9937049746513367,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "To close your Microsoft account, please visit",
+            "conf": 0.9944589138031006,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "https://account.live.com/closeaccount.aspx",
+            "conf": 0.9924354553222656,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Second, we\u2019ll delete Data or Your Content associated with your Microsoft account or will otherwise disassociate it from you and your Microsoft account (unless we are required by law to keep it, return it, or transfer it to you or a third party identified by you).",
+            "conf": 0.9999276399612427,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "If you do, you agree that the owner of the domain associated with your email address may control and administer your account, and access and process your Data, including the contents of your communications and files, and that Microsoft may notify the owner of the domain if the account or Data is compromised",
+            "conf": 0.9767568111419678,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "We may also send you Service notifications by other means (for example by in-product messages).",
+            "conf": 0.9166890382766724,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "Second, we\u2019ll delete Data or Your Content associated with your Service or will otherwise disassociate it from you and your Microsoft account (unless we are required by law to keep it, return it, or transfer it to you or a third party identified by you).",
+            "conf": 0.9998759031295776,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft does not license any intellectual property to you as part of any Third-Party Apps and Services and is not responsible or liable to you or others for information or services provided by any Third-Party Apps and Services",
+            "conf": 0.9980800151824951,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The Services, Third-Party Apps and Services, or material or products offered through the Services may be unavailable from time to time, may be offered for a limited time, or may vary depending on your region or device.",
+            "conf": 0.9954238533973694,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "however, all online services suffer occasional disruptions and outages, and Microsoft is not liable for any disruption or loss you may suffer as a result",
+            "conf": 0.915891706943512,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "We may change these Terms at any time, and we\u2019ll tell you when we do",
+            "conf": 0.993701159954071,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Microsoft isn\u2019t obligated to make any updates available and we don\u2019t guarantee that we will support the version of the system or device for which you purchased or licensed the software, apps, content or other products",
+            "conf": 0.9996289610862732,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "You may cancel a Service at any time, with or without cause",
+            "conf": 0.9859127402305603,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "and (iv) you may lose access to and use of your account when you cancel the Services",
+            "conf": 0.9705831408500671,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "16",
+            "text": "We may change the price of the Services at any time and if you have a recurring purchase, we will notify you by email, or other reasonable manner, at least 15 days before the price change",
+            "conf": 0.9995099306106567,
+            "description": "Users will be notified when terms are changed",
+            "effect": "good"
+        },
+        {
+            "label": "3",
+            "text": "MICROSOFT, AND OUR AFFILIATES, RESELLERS, DISTRIBUTORS, AND VENDORS, MAKE NO WARRANTIES, EXPRESS OR IMPLIED, GUARANTEES OR CONDITIONS WITH RESPECT TO YOUR USE OF THE SERVICES",
+            "conf": 0.9996214509010315,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "YOU UNDERSTAND THAT USE OF THE SERVICES IS AT YOUR OWN RISK AND THAT WE PROVIDE THE SERVICES ON AN \"AS IS\" BASIS \"WITH ALL FAULTS\" AND \"AS AVAILABLE.\" YOU BEAR THE ENTIRE RISK OF USING THE SERVICES",
+            "conf": 0.9995822906494141,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "WE DO NOT GUARANTEE THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE OR THAT CONTENT LOSS WON'T OCCUR, NOR DO WE GUARANTEE ANY CONNECTION TO OR TRANSMISSION FROM THE COMPUTER NETWORKS",
+            "conf": 0.9999876022338867,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You can't recover any other damages or losses, including direct, consequential, lost profits, special, indirect, incidental, or punitive",
+            "conf": 0.9910226464271545,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Microsoft reserves the right to cancel any Contest at any time",
+            "conf": 0.9812961220741272,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "By using the Mixer Service, you represent that you are at least 13 years old and, if you are under the age of majority where you live, your use is supervised by a parent or legal guardian.",
+            "conf": 0.9908464550971985,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "14",
+            "text": "You or group members no longer wishing to receive such messages can opt-out of receiving further messages from Microsoft or Microsoft-controlled affiliates at any time by following the instructions provided",
+            "conf": 0.999707818031311,
+            "description": "You can opt out of promotional communications",
+            "effect": "good"
+        },
+        {
+            "label": "1",
+            "text": "may only be available to users who are 18 years old and over (or otherwise in accordance with the third parties\u2019 terms) and who register and are approved for an account with the third party provider",
+            "conf": 0.9059774279594421,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Skype, or Microsoft, will not be liable for payment services provided by third parties or any actions taken under third parties\u2019 terms and conditions",
+            "conf": 0.9703872799873352,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "Skype makes no guarantees, representations or warranties that the send and receive money feature will be available or continue to be available",
+            "conf": 0.9999914765357971,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Microsoft does not guarantee the reliability, availability or timeliness of personalized experiences provided by Cortana",
+            "conf": 0.9999988079071045,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Users can disconnect account linking at any time",
+            "conf": 0.9997663497924805,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible or liable for manufacturer provided software or firmware",
+            "conf": 0.9996849894523621,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible or liable for these third-party devices or products.",
+            "conf": 0.9740317463874817,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "3",
+            "text": "The information in your account may not always be accurate or up-to-date and should be viewed by any health care provider as informational only",
+            "conf": 0.9997743368148804,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft does not endorse or control, and is not responsible for, the operation, support, or security of non-Microsoft credentials you may use",
+            "conf": 0.9975599646568298,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for any decision you make based on information you receive from Microsoft Band",
+            "conf": 0.9981133937835693,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Microsoft is not responsible for any decision you make based on information you receive from health bots or HealthVault Insights",
+            "conf": 0.9831045269966125,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "Microsoft or the owners of the Digital Goods may, from time to time, remove Digital Goods from the Services without notice",
+            "conf": 0.9811996221542358,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "Your Program account will be cancelled if you do not log in at least once in an 18-month period",
+            "conf": 0.9395291209220886,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "4",
+            "text": "Class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where someone acts in a representative capacity aren\u2019t allowed",
+            "conf": 0.9998985528945923,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "But a court has exclusive authority to enforce the prohibition on arbitration on a class-wide basis or in a representative capacity",
+            "conf": 0.9519594311714172,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If the class action waiver is found to be illegal or unenforceable as to all or some parts of a dispute, then those parts won\u2019t be arbitrated but will proceed in court, with the rest proceeding in arbitration",
+            "conf": 0.9996904134750366,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If a court or arbitrator holds that we can't enforce a part of these Terms as written, we may replace those terms with similar terms to the extent enforceable under the relevant law, but the rest of these Terms won't change",
+            "conf": 0.9992949366569519,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "and (3) is not warranted to be accurate, complete or timely",
+            "conf": 0.9999668002128601,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "Neither Morningstar nor its content providers are responsible for any damages or losses arising from any use of this information",
+            "conf": 0.9999749064445496,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Microsoft reserves the right to modify Microsoft\u2019s Usage Rules at any time",
+            "conf": 0.9758229851722717,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "The application is licensed \"as is,\" \"with all faults,\" and \"as available.\" You bear the entire risk as to its quality, safety, comfort, and performance",
+            "conf": 0.9999908208847046,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You will not, and waive any right to, seek to recover any other damages, including lost profits and consequential, special, direct, indirect, or incidental damages, from the application publisher",
+            "conf": 0.9453974366188049,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "0",
+            "text": "Full textMarch 1, 20180Top",
+            "conf": 0.9996159672737122,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.7
+}

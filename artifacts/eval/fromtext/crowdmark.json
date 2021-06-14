@@ -1,0 +1,334 @@
+{
+    "predictions": [
+        {
+            "label": "1",
+            "text": "You cannot open an account if you are under the age of 13 and you live in the United States",
+            "conf": 0.9999887347221375,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "If you are under 13 year of age and you live in the United States, please do not attempt to register for Crowdmark or send any information to Crowdmark",
+            "conf": 0.9999976754188538,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "2",
+            "text": "Crowdmark obtains through your use of the WebsiteEach time you visit the Website, Crowdmark may collect information, including some of your personal information, through your IP address, and by using cookies and web beacons, as described below.",
+            "conf": 0.9550685882568359,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "A \u201cweb beacon\u201d is an electronic image (also referred to as an \u201caction tag,\u201d \u201csingle-pixel,\u201d or \u201cclear GIF\u201d) that is commonly used to track the traffic patterns of users from one web page to another in order to maximize web traffic flow and to otherwise analyze the effectiveness of websites.",
+            "conf": 0.9998268485069275,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "Some of the Website\u2019s web pages may use web beacons in conjunction with cookies to compile aggregate statistics about your use of the Website.",
+            "conf": 0.9913075566291809,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "10",
+            "text": "If you want to know if Crowdmark has obtained any of your Indirect Content, or if you want Crowdmark to stop using personal information collected from your Indirect Content, or if you want Crowdmark to delete this personal information, you can contact Crowdmark anytime as described in this Privacy Policy",
+            "conf": 0.9904243350028992,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "When you purchase certain",
+            "conf": 0.91166090965271,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "10",
+            "text": "your credit card, Crowdmark uses your name, credit card information and billing address to process and complete the sales transaction on a one-time or re-occurring basis, as the case may be, but will not retain this credit card and billing information longer than is necessary to process or complete the transaction",
+            "conf": 0.9911615252494812,
+            "description": "You can request access and deletion of personal data",
+            "effect": "good"
+        },
+        {
+            "label": "13",
+            "text": "In some cases, Crowdmark may remove personal identifiers, such as your name, from your personal information and Content and maintain the information in non-personalized, aggregate form that may later be combined with other information to generate anonymous, aggregated statistical information",
+            "conf": 0.9156736135482788,
+            "description": "This service uses third-party cookies for statistics and/or advertising",
+            "effect": "bad"
+        },
+        {
+            "label": "2",
+            "text": "information Crowdmark collects automatically (cookies and web beacons)Crowdmark uses cookies and web beacons to improve your online experience when you visit the Website by:",
+            "conf": 0.9721677303314209,
+            "description": "Tracking pixels and/or device fingerprinting",
+            "effect": "bad"
+        },
+        {
+            "label": "9",
+            "text": "Crowdmark may hire third-party service providers to assist in the collection and analysis of cookies and web beacons, but none of your personal information is disclosed to these third party service providers",
+            "conf": 0.9521898031234741,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Shares",
+            "conf": 0.9544429779052734,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "Personal InformationCrowdmark will not sell, rent, license, or trade your personal information with third parties for their own direct promotional or marketing use unless Crowdmark receives your express consent to do so",
+            "conf": 0.9808892607688904,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "9",
+            "text": "These companies do not have any independent right to use, share, disclose or retain your personal information",
+            "conf": 0.928769588470459,
+            "description": "This service does not sell your personal data",
+            "effect": "good"
+        },
+        {
+            "label": "11",
+            "text": "If Crowdmark is to be sold, merged or amalgamated or is to sell or dispose of substantially all of its assets, your personal information may be transferred to a potential purchaser if, and to the extent, necessary for the purposes of deciding whether to proceed with the sale and completing the sale",
+            "conf": 0.9989113807678223,
+            "description": "This service can sell your personal data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": ".Cancelling your accountYou can cancel your account at any time by contacting Crowdmark as shown above or by following Crowdmark\u2019s then current cancellation procedure set out on the Website",
+            "conf": 0.9868615865707397,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "15",
+            "text": "If you cancel your Crowdmark account you will not be able to use any of Crowdmark",
+            "conf": 0.9618682861328125,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "12",
+            "text": "Your personal information may be transferred, processed and stored on servers in countries outside of Canada, including the United States, and may therefore be subject to different laws than those applicable in Canada",
+            "conf": 0.9999959468841553,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "While Crowdmark undertakes to protect your personal information when it is transferred outside of Canada, the laws of other jurisdictions may require the disclosure of your personal information to governmental authorities under circumstances that are different than those that apply in Canada and are contemplated under this Privacy Policy",
+            "conf": 0.9970669150352478,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "1",
+            "text": "The Website and the Crowdmark services are not designed for, or intentionally targeted at, children living in the United States who are thirteen (13) years of age or younger and Crowdmark does not intentionally collect or maintain information about anyone living in the United States under the age of thirteen (13).",
+            "conf": 0.9999995231628418,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "1",
+            "text": "No one under the age of thirteen (13) and living in the United States should submit any personal information or Content to Crowdmark or the Website",
+            "conf": 0.9999975562095642,
+            "description": "Only available to users of a certain age",
+            "effect": "neutral"
+        },
+        {
+            "label": "7",
+            "text": "Privacy Policy may be revised from time to time as Crowdmark adds new features and services, as laws change, and as industry privacy and security best practices evolve",
+            "conf": 0.952895998954773,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Small changes or changes that do not significantly affect individual privacy interests may be made at any time and without prior notice",
+            "conf": 0.9994407296180725,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "You can tell if this Privacy Policy has changed by checking the effective date that appears at the bottom of this Policy",
+            "conf": 0.9774587750434875,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Privacy Policy last updated: August 30, 2018",
+            "conf": 0.9999967217445374,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        },
+        {
+            "label": "6",
+            "text": "If you violate these Terms of Service, you are no longer permitted to use the Services and Crowdmark may (but has no obligation to) terminate these Terms of Service and/or your ability to access or use the Services at any time.1",
+            "conf": 0.9874175190925598,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "7",
+            "text": "Changes to the Terms of ServiceCrowdmark may change these Terms of Service from time to time without notice to you",
+            "conf": 0.9991391897201538,
+            "description": "Terms may be changed any time at the service's discretion, without notice to the user",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "You are responsible for maintaining the security of your password and account.",
+            "conf": 0.9707053303718567,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "You are solely responsible and liable for your account and for any use of the Services and any Content accessed, or made available to others, through your account (even if such Content is accessed, or made available, by others).",
+            "conf": 0.9999997615814209,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Crowdmark is not, and will not, be responsible for any loss or damages resulting from your failure to comply with this obligation",
+            "conf": 0.9994423389434814,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "Crowdmark is not responsible for, and does not pre-screen, Content and Crowdmark is not responsible for the Content accessed or made available to you through the Services",
+            "conf": 0.9997335076332092,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "12",
+            "text": "You understand that the technical processing and transmission of the Services, including the processing and transmission of Content uploaded, posted, or submitted to the Services from your account, may be transferred and unencrypted and may involve: (i) transmissions over various networks both within and outside of Canada",
+            "conf": 0.9464922547340393,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Crowdmark has the right (but not the obligation) in its sole discretion to refuse or remove any Content",
+            "conf": 0.9986135363578796,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Crowdmark may (but has no obligation to) remove Content, and terminate accounts for any reason whatsoever, including accounts containing Content that Crowdmark determines, in its sole discretion, to be unlawful, offensive, harmful, inaccurate, or otherwise inappropriate or deceptive (including Content that Crowdmark determines in its sole discretion to: (i) be libelous, defamatory, pornographic, obscene, or otherwise objectionable",
+            "conf": 0.9997742176055908,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "12",
+            "text": "Credit card payments are processed for Crowdmark by a third party payment processor (the Processor) and, as such, your personal, financial, credit card, or transaction information may be transferred, processed and stored by the Processor outside of Canada and may be subject to disclosure as required by applicable law in accordance with the Privacy Policy",
+            "conf": 0.9993430376052856,
+            "description": "Your data may be processed and stored anywhere in the world",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "Crowdmark may also stop (temporarily or permanently) providing the Services (or any part of the Services) to you or to anyone else without notice",
+            "conf": 0.9994610548019409,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "15",
+            "text": "CancellationIf you choose to cancel your Crowdmark account you are solely responsible for doing in accordance with Crowdmark\u2019s then current cancellation procedure (the Cancellation Procedure) set out on Crowdmark\u2019s website at crowdmark.com If you follow the Cancellation Procedure, Crowdmark will, subject to any licences granted hereunder, cancel you account immediately and Crowdmark will use reasonable efforts to delete all Content uploaded, posted or submitted to the Services from your account promptly after cancellation",
+            "conf": 0.9685354232788086,
+            "description": "You have the right to leave this service at any time",
+            "effect": "good"
+        },
+        {
+            "label": "6",
+            "text": ", in its sole discretion, has the right to terminate these Terms of Service, or to suspend, terminate or restrict your access to any of the Services, or any other Crowdmark service, for any reason and at any time without notice",
+            "conf": 0.9997026324272156,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "6",
+            "text": "Crowdmark reserves the right to refuse to provide the Services to you for any reason at any time.11",
+            "conf": 0.9392915964126587,
+            "description": "The service can delete your account and/or other content without prior notice and without a reason",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "DisclaimersTHE SERVICES ARE PROVIDED TO YOU \u201cAS IS\u201d AND ON AN \u201cAS AVAILABLE\u201d BASIS, WITH ALL FAULTS AND WITHOUT ANY WARRANTIES, REPRESENTATIONS OR CONDITIONS OF ANY KIND, INCLUDING WITH RESPECT TO AVAILABILITY, COMPATIBILITY, VIRUSES, DISABLING DEVICES OR OTHER CODE THAT MANIFESTS DESTRUCTIVE PROPERTIES",
+            "conf": 0.9928365349769592,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "3",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, CROWDMARK MAKES NO, AND DISCLAIMS ANY AND ALL, WARRANTIES, REPRESENTATIONS AND CONDITIONS OF ANY KIND WITH RESPECT TO QUALITY, ACCURACY, USEFULNESS, SUITABILITY, SECURITY, RELIABILITY, COMPLETENESS, QUIET ENJOYMENT, CURRENCY, OR TIMELINESS OF THE SERVICES OR ANY CONTENT, WHETHER EXPRESS, IMPLIED OR COLLATERAL, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT OR THAT THE SERVICES ARE OR WILL BE SECURE, COMPLETE OR FREE OF ERRORS, VIRUSES, BUGS, PROBLEMS OR OTHER LIMITATIONS OR WILL OPERATE WITHOUT INTERRUPTION.13",
+            "conf": 0.9996403455734253,
+            "description": "Service provided 'as is' and makes no warranty regarding uninterrupted service or accuracy of data",
+            "effect": "bad"
+        },
+        {
+            "label": "8",
+            "text": "CROWDMARK AND ITS AFFILIATES AND LICENSORS ARE NOT, AND WILL NOT BE, RESPONSIBLE FOR ANY DAMAGES YOU OR A THIRD PARTY MAY SUFFER AS A RESULT OF YOUR USE OF THE SERVICES (INCLUDING WITHOUT LIMITATION, ANY USE OF CONTENT OR OTHER MATERIALS OR INFORMATION YOU ACCESS FROM OR PROVIDE TO CROWDMARK, DIRECTLY OR INDIRECTLY, THROUGH THE SERVICES) OR FOR ANY INCOMPLETENESS, ERRORS, SECURITY, VIRUSES, BUGS, PROBLEMS, OMISSIONS, INACCURACIES OR OTHER LIMITATIONS IN THE SERVICES OR ANY CONTENT, OR INTERRUPTIONS IN THE SERVICES",
+            "conf": 0.9530735611915588,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "8",
+            "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, CROWDMARK AND ITS AFFILIATES AND LICENSORS ARE NOT LIABLE, WHETHER BASED ON STATUE, WARRANTY, CONTRACT, TORT, LAW, EQUITY, (INCLUDING BUT NOT LIMITED TO NEGLIGENCE, GROSS NEGLIGENCE OR WILFUL MISCONDUCT), PRODUCT LIABILITY, STRICT LIABILITY, STATUTORY LIABILITY, BREACH OF A FUNDAMENTAL TERM, FUNDAMENTAL BREACH, OR ANY OTHER LEGAL THEORY, FOR ANY LOSS OR DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION ANY (I) DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE LOSS OR DAMAGE, (II) LOST PROFITS OR SAVINGS, (III) BUSINESS INTERRUPTION, (IV) LOSS OF PROGRAMS OR DATA (INCLUDING ANY CONTENT), (V) LOST REVENUE OR FAILURE TO REALIZE EXPECTED SAVINGS, (VI) LOSS OF USE, (VII) PERSONAL INJURY, (VIII) FINES, FEES, PENALTIES, OR (VI) ANY OTHER LOSSES OR DAMAGES WHETHER OR NOT CROWDMARK IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, RESULTING FROM YOUR USE OF, OR THE INABILITY TO MAKE USE OF, THE SERVICES.14.",
+            "conf": 0.9836193323135376,
+            "description": "You are responsible for maintaining the security of your account and for the activities on your account. The website assumes no liability.",
+            "effect": "neutral"
+        },
+        {
+            "label": "4",
+            "text": "hereby agree to indemnify Crowdmark or its licensors, subsidiaries, affiliates, and related companies, and each of their respective officers, directors, employees, shareholders, agents, representatives, business partners, information providers and licensors and their respective successors and assigns (together Crowdmark Entities) harmless from and against all losses, expenses, damages, liabilities, expenses and costs, including reasonable legal fees, suffered by any of the Crowdmark Entities, directly or indirectly, resulting from: (a) your use of the Services",
+            "conf": 0.9999407529830933,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "The failure of Crowdmark to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision, and no waiver of any right or provision of these Terms of Service shall be deemed a further or continuing waiver of such right or provision",
+            "conf": 0.999996542930603,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "4",
+            "text": "If any provision of these Terms of Service is determined by a court of competent jurisdiction to be void, invalid or otherwise unenforceable by a court of competent jurisdiction, that provision shall be enforced to the maximum extent permissible so as to effect the intent of these Terms of Service and such determination shall not affect the remaining provisions contained herein",
+            "conf": 0.9864238500595093,
+            "description": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use",
+            "effect": "bad"
+        },
+        {
+            "label": "0",
+            "text": "Terms of Service last updated: July 25, 2013",
+            "conf": 0.9999989867210388,
+            "description": "Has last updated date",
+            "effect": "neutral"
+        }
+    ],
+    "sentiment": 2.5
+}
