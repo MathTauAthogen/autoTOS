@@ -4,6 +4,23 @@ Automatic Terms of Service and Privacy Policy parser and summarizer, powered by 
 
 Created by [Andrew Mascillaro](https://github.com/intermezzio), [Spencer Ng](https://github.com/spencerng), [William Qin](https://github.com/MathTauAthogen), and [Eric Zheng](https://github.com/air-wreck). Winner of PennApps XXI's Best use of Google Cloud.
 
+## Installation
+
+Autotos is developed using [finetune](https://github.com/IndicoDataSolutions/finetune), a powerful NLP library with specific dependencies. Either install finetune as instructed on their GitHub page or use the following instructions:
+
+1. (Recommended) create a virtual environment using venv or conda:
+```
+conda create -n autotos python=3.8
+conda activate autotos
+```
+2. Install the requirements
+```
+pip install -r requirements.txt
+```
+3. Run the script `nlp/train.py` as shown in **Repository Structure** to load model-specific data
+
+This should install all files and dependencies for development or for running the model locally.
+
 ## Repository structure
 
 This repository contains the following folders:
