@@ -53,7 +53,7 @@ def parse_tos_from_text():
 			if not tos_eval["predictions"]:
 				print("No predictions")
 				continue
-				
+
 			with open(f"../artifacts/eval/fromtext/{slug}.json", "w") as outfile:
 				json.dump(tos_eval, outfile, indent=4)
 
@@ -62,4 +62,5 @@ def parse_tos_from_text():
 			continue
 
 if __name__ == "__main__":
-	parse_tos_from_text()
+	pass
+	# parse_tos_from_text()
