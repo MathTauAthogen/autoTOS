@@ -2,8 +2,8 @@
 const temp_api = "http://autotos.loca.lt/api/parse";
 const real_api = "https://autotos.me/api/parse";
 const mock_api = "http://localhost:3000/api/parse";
-const gcp_api = "https://104.155.137.16/api/parse";
-const API_URL = gcp_api;
+const digo_api = "https://68.183.26.237/api/parse";
+const API_URL = digo_api;
 
 function show_elem(id) {
   const elem = document.getElementById(id);
