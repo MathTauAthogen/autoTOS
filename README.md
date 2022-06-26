@@ -12,6 +12,7 @@ Autotos is developed using [finetune](https://github.com/IndicoDataSolutions/fin
 ```
 conda create -n autotos python=3.8
 conda activate autotos
+python -m spacy download en
 ```
 2. Install the requirements
 ```
